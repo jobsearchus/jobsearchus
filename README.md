@@ -1,6 +1,6 @@
-# jobsearchus — Remote Jobs You Can Do From Anywhere
+# JobSearchUs — Looking For New job Just Search Us
 
-> Remote job listings curated daily from company career pages. Updated 5× per day.
+> We Update This list 5x Every Day 
 
 ## Browse by Category
 
