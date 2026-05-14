@@ -1,33 +1,26 @@
 # JobSearchUs — Looking For New job Just Search Us
 
-> We Update This list 5x Every Day 
+> We Update This list 5x Every Day
+
+**120 remote jobs** • Updated: **2026-05-14**
+
+## ⭐ Featured
+
+- [Work From Home Jobs](work-from-home-jobs.md) — 20 jobs
+- [$100K+ Remote Jobs](100k-plus-jobs.md) — 14 jobs
+- [Entry Level Remote Jobs](entry-level-jobs.md) — 12 jobs
 
 ## Browse by Category
 
-- [Entry-Level Remote Jobs](entry-level-jobs.md) — Great for newcomers ⭐
-- [Engineering & Tech Jobs](engineering-jobs.md)
-- [Design & UX Jobs](design-jobs.md)
-- [Product Management Jobs](product-jobs.md)
-- [Data & Analytics Jobs](data-jobs.md)
-- [Marketing Jobs](marketing-jobs.md)
-- [Sales & Business Development Jobs](sales-jobs.md)
-- [Finance & Accounting Jobs](finance-jobs.md)
-- [HR & People Jobs](hr-jobs.md)
-- [Legal & Compliance Jobs](legal-jobs.md)
-- [Customer Support Jobs](customer-support-jobs.md)
-- [Security Jobs](security-jobs.md)
-- [Operations & Logistics Jobs](operations-jobs.md)
-- [Project Management Jobs](project-management-jobs.md)
-- [Creative & Content Jobs](creative-jobs.md)
-- [Admin & Executive Support Jobs](admin-jobs.md)
-- [Executive & Leadership Jobs](executive-jobs.md)
-- [Research & Science Jobs](research-jobs.md)
-- [Healthcare Jobs](healthcare-jobs.md)
-
-## About
-
-These are remote positions curated from company career pages worldwide.
-Job listings are refreshed automatically 5 times per day.
+- [Software Engineer Jobs](software-engineer-jobs.md) — 8 jobs
+- [Backend Jobs](backend-jobs.md) — 7 jobs
+- [Frontend Jobs](frontend-jobs.md) — 6 jobs
+- [DevOps Jobs](devops-jobs.md) — 5 jobs
+- [Data Science Jobs](data-science-jobs.md) — 5 jobs
+- [Product Manager Jobs](product-manager-jobs.md) — 4 jobs
+- [UI/UX Jobs](ui-ux-jobs.md) — 5 jobs
 
 ---
-*Powered by [jobsearchus/workflow](https://github.com/jobsearchus/workflow)*
+
+> Jobs are scraped from company career pages and updated 5× daily.
+> All roles are remote-friendly.
