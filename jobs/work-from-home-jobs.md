@@ -2,7 +2,7 @@
 
 Fully remote jobs across all roles and industries. No office. No commute. Apply directly from company career pages.
 
-**160 open roles** — Last updated: 2026-05-15
+**161 open roles** — Last updated: 2026-05-15
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -22,6 +22,7 @@ Fully remote jobs across all roles and industries. No office. No commute. Apply 
 | Deal Desk Manager, Revenue Operations  | [Runpod](https://runpod.io) | $125K–$180K/yr | May 14 | [Apply](https://job-boards.greenhouse.io/runpod/jobs/5221413008) |
 | Director, Revenue Operations  | [Runpod](https://runpod.io) | $180K–$250K/yr | May 14 | [Apply](https://job-boards.greenhouse.io/runpod/jobs/5221401008) |
 | Customer Success Manager - Key | [SugarCRM](https://sugarcrm.com) | — | May 14 | [Apply](https://jobs.lever.co/sugarcrm/3025bc0f-01a6-466b-b3ff-823ed04a4b36) |
+| FP & A Analyst - Expense, Gracenote | [Nielsen](https://nielsen.com) | — | May 14 | [Apply](https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990013142094) |
 | Enablement Manager, Revenue Operations | [Runpod](https://runpod.io) | $145K–$190K/yr | May 14 | [Apply](https://job-boards.greenhouse.io/runpod/jobs/5221375008) |
 | Account Executive, Enterprise - SoCA | [Zscaler](https://zscaler.com) | — | May 14 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5103331007) |
 | Vice President, Operational Excellence & Chief of Staff | [Omada Health](https://omadahealth.com) | $243K–$304K/yr | May 14 | [Apply](https://job-boards.greenhouse.io/omadahealth/jobs/7918592) |
@@ -157,9 +158,9 @@ Fully remote jobs across all roles and industries. No office. No commute. Apply 
 | Treasury Manager | [KOHO](https://koho.ca) | — | Apr 24 | [Apply](https://jobs.ashbyhq.com/koho/404b7a31-769e-4791-80d5-d47235245666) |
 | SecOps Engineer (AppSec) | [Volito Aviation August 2007](https://trustly.com) | — | Apr 24 | [Apply](https://jobs.lever.co/trustly/59926e0a-5a62-4267-91d7-b46e660b60fa) |
 | AI Staff Software Engineer | [Natera](https://natera.com) | — | Apr 24 | [Apply](https://job-boards.greenhouse.io/natera/jobs/5980884004) |
+| Senior Software Engineer I, L3 Applications Team | [CareMessage](https://caremessage.org) | — | Apr 24 | [Apply](https://jobs.lever.co/caremessage/5ecbb8b3-da30-43ef-bbce-1cf81aa85591) |
 | Director of Engineering, Loki Databases - USA - Remote | [Grafana Labs](https://grafana.com) | — | Apr 24 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/5764787004) |
 | Senior Sales Enablement Specialist | [Dragos](https://dragos.com) | — | Apr 24 | [Apply](https://job-boards.greenhouse.io/dragos/jobs/5175031008) |
-| Senior Software Engineer I, L3 Applications Team | [CareMessage](https://caremessage.org) | — | Apr 24 | [Apply](https://jobs.lever.co/caremessage/5ecbb8b3-da30-43ef-bbce-1cf81aa85591) |
 | Engineering Manager - Site Reliability Engineering | [Kraken](https://kraken.com) | — | Apr 24 | [Apply](https://jobs.ashbyhq.com/kraken.com/705183dd-b651-4c54-a52e-3651dd3b9d40) |
 | Senior SEO Manager | [Holywater](https://holywater.com) | — | Apr 24 | [Apply](https://jobs.ashbyhq.com/holywater/06679c0d-f520-4c71-91a5-81f3fe3514c8) |
 | DevOps Engineer (RPA) | [Coherent Solutions](https://coherentsolutions.com) | — | Apr 24 | [Apply](https://job-boards.eu.greenhouse.io/coherentsolutions/jobs/4835567101) |

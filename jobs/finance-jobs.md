@@ -2,13 +2,14 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**8 open roles** — Last updated: 2026-05-15
+**9 open roles** — Last updated: 2026-05-15
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 |  Payroll Manager US & Canada | [Varicent](https://varicent.com) | — | May 15 | [Apply](https://job-boards.greenhouse.io/varicent/jobs/5221595008) |
+| FP & A Analyst - Expense, Gracenote | [Nielsen](https://nielsen.com) | — | May 14 | [Apply](https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990013142094) |
 | Head of Credit, Brazil | [Tilt](https://tilt.com) | — | May 14 | [Apply](https://jobs.ashbyhq.com/tilthq/27d4c79f-9893-49b8-99d9-0e4fb006ef45) |
 | Senior Manager, Tax | [Omada Health](https://omadahealth.com) | $162K–$202K/yr | May 14 | [Apply](https://job-boards.greenhouse.io/omadahealth/jobs/7859674) |
 | Compliance Analyst II | [Affirm](https://affirm.com) | $100K–$140K/yr | May 14 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7730660003) |

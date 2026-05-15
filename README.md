@@ -1,6 +1,6 @@
 # JobSearchUs — Remote Job Listings
 
-**160 remote jobs** across 19 categories — updated 2026-05-15
+**161 remote jobs** across 19 categories — updated 2026-05-15
 
 Fresh remote jobs pulled straight from company career pages — not recycled from job boards.
 Updated 5 times a day across 5,500+ companies worldwide.
@@ -21,7 +21,7 @@ Full job board with filters: **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Category | Open Roles | Link |
 | --- | --- | --- |
-| Work From Home Jobs | 160 | [View →](jobs/work-from-home-jobs.md) |
+| Work From Home Jobs | 161 | [View →](jobs/work-from-home-jobs.md) |
 | $100K+ Remote Jobs | 38 | [View →](jobs/100k-plus-jobs.md) |
 | Entry Level Remote Jobs | 7 | [View →](jobs/entry-level-jobs.md) |
 | Software Engineer Jobs | 30 | [View →](jobs/software-engineer-jobs.md) |
@@ -36,7 +36,7 @@ Full job board with filters: **[jobsearchus.com](https://www.jobsearchus.com)**
 | Marketing Jobs | 13 | [View →](jobs/marketing-jobs.md) |
 | Sales Jobs | 27 | [View →](jobs/sales-jobs.md) |
 | Customer Support Jobs | 8 | [View →](jobs/customer-support-jobs.md) |
-| Finance Jobs | 8 | [View →](jobs/finance-jobs.md) |
+| Finance Jobs | 9 | [View →](jobs/finance-jobs.md) |
 | HR Jobs | 2 | [View →](jobs/hr-jobs.md) |
 | Legal Jobs | 3 | [View →](jobs/legal-jobs.md) |
 | Operations Jobs | 12 | [View →](jobs/operations-jobs.md) |
