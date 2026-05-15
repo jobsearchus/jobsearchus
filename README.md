@@ -60,11 +60,7 @@ Remote jobs open to candidates with 0–2 years of experience. A real way in —
 
 Stay updated when new jobs drop:
 
-- **Website:** [jobsearchus.com](https://www.jobsearchus.com)
-- **X (Twitter):** [@JobSearchUss](https://x.com/JobSearchUss)
-- **LinkedIn:** [jobsearchus](https://linkedin.com/company/jobsearchus)
-- **Instagram:** [@jobsearchus_](https://instagram.com/jobsearchus_)
-- **Bluesky:** [jobsearchus.bsky.social](https://bsky.app/profile/jobsearchus.bsky.social)
+- **Website:** [jobsearchus.com](https://www.jobsearchus.com) - **X (Twitter):** [@JobSearchUss](https://x.com/JobSearchUss) - **LinkedIn:** [jobsearchus](https://linkedin.com/company/jobsearchus) - **Instagram:** [@jobsearchus_](https://instagram.com/jobsearchus_) - **Bluesky:** [jobsearchus.bsky.social](https://bsky.app/profile/jobsearchus.bsky.social)
 
 ---
 
