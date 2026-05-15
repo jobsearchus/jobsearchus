@@ -1,4 +1,4 @@
-# JobSearchUs — Remote Job Listings
+# **[jobsearchus.com](https://www.jobsearchus.com)** — Remote Job Listings
 
 **131 remote jobs** across 16 categories — updated 2026-05-15
 
