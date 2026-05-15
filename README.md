@@ -1,4 +1,4 @@
-# **[JobSearchUs.com](https://www.jobsearchus.com)** — Check Our Website for more
+# JobSearchUs — Remote Job Listings
 
 **131 remote jobs** across 16 categories — updated 2026-05-15
 
@@ -17,26 +17,13 @@ Full job board with filters: **[jobsearchus.com](https://www.jobsearchus.com)**
 
 ---
 
-## Collections
-
-### [Work From Home Jobs](work-from-home-jobs.md)
-Fully remote jobs across all roles and industries. No office. No commute. Apply directly from company career pages.
-**131 jobs** · [View all](work-from-home-jobs.md)
-
-### [$100K+ Remote Jobs](100k-plus-jobs.md)
-Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
-**27 jobs** · [View all](100k-plus-jobs.md)
-
-### [Entry Level Remote Jobs](entry-level-jobs.md)
-Remote jobs open to candidates with 0–2 years of experience. A real way in — no degree gatekeeping.
-**6 jobs** · [View all](entry-level-jobs.md)
-
----
-
-## Browse by Role
+## Browse by Category
 
 | Category | Open Roles | Link |
 | --- | --- | --- |
+| Work From Home Jobs | 131 | [View →](work-from-home-jobs.md) |
+| $100K+ Remote Jobs | 27 | [View →](100k-plus-jobs.md) |
+| Entry Level Remote Jobs | 6 | [View →](entry-level-jobs.md) |
 | Software Engineer Jobs | 28 | [View →](software-engineer-jobs.md) |
 | Backend Jobs | 5 | [View →](backend-jobs.md) |
 | Fullstack Jobs | 1 | [View →](fullstack-jobs.md) |
@@ -60,7 +47,11 @@ Remote jobs open to candidates with 0–2 years of experience. A real way in —
 
 Stay updated when new jobs drop:
 
-- **Website:** [jobsearchus.com](https://www.jobsearchus.com) - **X (Twitter):** [@JobSearchUss](https://x.com/JobSearchUss) - **LinkedIn:** [jobsearchus](https://linkedin.com/company/jobsearchus) - **Instagram:** [@jobsearchus_](https://instagram.com/jobsearchus_) - **Bluesky:** [jobsearchus.bsky.social](https://bsky.app/profile/jobsearchus.bsky.social)
+- **Website:** [jobsearchus.com](https://www.jobsearchus.com)
+- **X (Twitter):** [@JobSearchUss](https://x.com/JobSearchUss)
+- **LinkedIn:** [jobsearchus](https://linkedin.com/company/jobsearchus)
+- **Instagram:** [@jobsearchus_](https://instagram.com/jobsearchus_)
+- **Bluesky:** [jobsearchus.bsky.social](https://bsky.app/profile/jobsearchus.bsky.social)
 
 ---
 
