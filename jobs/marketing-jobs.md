@@ -2,12 +2,15 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**10 open roles** — Last updated: 2026-05-15
+**13 open roles** — Last updated: 2026-05-15
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Head of Performance Marketing | [OnePay](https://onepay.com) | — | May 14 | [Apply](https://jobs.ashbyhq.com/oneapp/a5350ce1-cfa5-4dde-9a03-e6f31aaf84d5) |
+| Head of Social | [OnePay](https://onepay.com) | — | May 14 | [Apply](https://jobs.ashbyhq.com/oneapp/e4f6ceb3-2738-409b-8b55-6057acffe284) |
+| Senior Lead, Marketing Services Operations | [Moxie](https://joinmoxie.com) | — | May 14 | [Apply](https://jobs.ashbyhq.com/moxie/63148180-b9b4-4515-94a7-86e36cea4256) |
 | Marketing Analyst, PLG & Self-Serve Analytics | [Twilio](https://twilio.com) | $97K–$121K/yr | May 14 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7923207) |
 | Product Marketing Manager | [Censys](https://censys.com) | $127K–$160K/yr | May 14 | [Apply](https://job-boards.greenhouse.io/censys/jobs/8541056002) |
 | Senior Copywriter, Brand  | [Tilt](https://tilt.com) | — | May 13 | [Apply](https://jobs.ashbyhq.com/tilthq/32797836-f9c5-47f1-85fc-32ae97f0f390) |

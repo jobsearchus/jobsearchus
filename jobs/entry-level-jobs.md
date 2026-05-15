@@ -2,12 +2,13 @@
 
 Remote jobs open to candidates with 0–2 years of experience. A real way in — no degree gatekeeping.
 
-**6 open roles** — Last updated: 2026-05-15
+**7 open roles** — Last updated: 2026-05-15
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Associate, Product Support | [ShopMy](https://shopmy.us) | — | May 14 | [Apply](https://job-boards.greenhouse.io/shopmy/jobs/5221284008) |
 | Credentialing Specialist | [BetterHelp](https://betterhelp.com) | $30/yr | May 14 | [Apply](https://job-boards.greenhouse.io/betterhelpcom/jobs/5219734008) |
 | Email Developer (Fundraising) (1 year Contract) | [Wikimedia Foundation](https://wikimediafoundation.org) | — | May 14 | [Apply](https://job-boards.greenhouse.io/wikimedia/jobs/7920924) |
 | Analyst I, Full Stack | [Affirm](https://affirm.com) | $115K–$155K/yr | May 13 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7726627003) |

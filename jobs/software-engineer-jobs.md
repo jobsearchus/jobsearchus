@@ -2,16 +2,22 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**24 open roles** — Last updated: 2026-05-15
+**30 open roles** — Last updated: 2026-05-15
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Software Engineer, Nexus | [Temporal](https://temporal.io) | $146K–$200K/yr | May 14 | [Apply](https://job-boards.greenhouse.io/temporaltechnologies/jobs/5107645007) |
+| Senior Software Engineer II AI-Native, Circle Expansion  | [Life360](https://life360.com) | $148K–$216K/yr | May 14 | [Apply](https://job-boards.greenhouse.io/life360/jobs/8550858002) |
 | Sr. Software Engineer - MarTech(Remote) | [Rula](https://rula.com) | — | May 14 | [Apply](https://jobs.ashbyhq.com/rula/01f1a2b8-dcae-4a8b-bd37-fe09cea3bdf9) |
 | Manager, Solutions Engineering - Enterprise | [Tailscale](https://tailscale.com) | — | May 14 | [Apply](https://job-boards.greenhouse.io/tailscale/jobs/4695053005) |
+| Engineering Manager | [Clipboard](https://clipboardhealth.com) | — | May 14 | [Apply](https://jobs.ashbyhq.com/clipboard/4871e102-00a5-4693-8e2f-8672435f1ba2) |
 | AV & Event Engineer L2 | [Twilio](https://twilio.com) | — | May 14 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7921401) |
+| Application Support Engineer | [Cresta](https://cresta.com) | — | May 14 | [Apply](https://job-boards.greenhouse.io/cresta/jobs/5220511008) |
 | Copy of Staff Software Engineer - Grafana Cloud k6 - UK - Remote | [Grafana Labs](https://grafana.com) | — | May 14 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/5996124004) |
+| Senior Solutions Engineer (DACH), Firefox Enterprise | [Mozilla](https://mozilla.org) | — | May 13 | [Apply](https://job-boards.greenhouse.io/mozilla/jobs/7921645) |
+| Senior Solutions Engineer (DACH), Firefox Enterprise | [Mozilla](https://mozilla.org) | — | May 13 | [Apply](https://job-boards.greenhouse.io/mozilla/jobs/7921523) |
 | Staff Software Engineer AI-Native, International | [Life360](https://life360.com) | $190K–$281K/yr | May 13 | [Apply](https://job-boards.greenhouse.io/life360/jobs/8548569002) |
 | Senior Software Engineer, WebExtensions | [Mozilla](https://mozilla.org) | — | May 13 | [Apply](https://job-boards.greenhouse.io/mozilla/jobs/7921746) |
 | Senior Software Engineer, WebExtensions | [Mozilla](https://mozilla.org) | — | May 13 | [Apply](https://job-boards.greenhouse.io/mozilla/jobs/7921745) |

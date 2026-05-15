@@ -2,13 +2,15 @@
 
 Remote legal, compliance, and counsel roles.
 
-**1 open roles** — Last updated: 2026-05-15
+**3 open roles** — Last updated: 2026-05-15
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
-| Job Title | Company | Posted | Apply |
-| --- | --- | --- | --- |
-| Legal Fellow (Fall 2026) | [Wikimedia Foundation](https://wikimediafoundation.org) | May 14 | [Apply](https://job-boards.greenhouse.io/wikimedia/jobs/7750534) |
+| Job Title | Company | Salary | Posted | Apply |
+| --- | --- | --- | --- | --- |
+| Legal Fellow (Fall 2026) | [Wikimedia Foundation](https://wikimediafoundation.org) | — | May 14 | [Apply](https://job-boards.greenhouse.io/wikimedia/jobs/7750534) |
+| Principal Global Employment Counsel | [Temporal](https://temporal.io) | $225K–$340K/yr | May 14 | [Apply](https://job-boards.greenhouse.io/temporaltechnologies/jobs/5137647007) |
+| Counsel II | [Affirm](https://affirm.com) | $180K–$230K/yr | May 14 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7721506003) |
 
 ---
 

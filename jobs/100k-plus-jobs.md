@@ -2,15 +2,26 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**27 open roles** — Last updated: 2026-05-15
+**38 open roles** — Last updated: 2026-05-15
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Software Engineer, Nexus | [Temporal](https://temporal.io) | $146K–$200K/yr | May 14 | [Apply](https://job-boards.greenhouse.io/temporaltechnologies/jobs/5107645007) |
+| Senior Software Engineer II AI-Native, Circle Expansion  | [Life360](https://life360.com) | $148K–$216K/yr | May 14 | [Apply](https://job-boards.greenhouse.io/life360/jobs/8550858002) |
+| Senior Enterprise Security Engineer | [Life360](https://life360.com) | $152K–$224K/yr | May 14 | [Apply](https://job-boards.greenhouse.io/life360/jobs/8550801002) |
+| Deal Desk Manager, Revenue Operations  | [Runpod](https://runpod.io) | $125K–$180K/yr | May 14 | [Apply](https://job-boards.greenhouse.io/runpod/jobs/5221413008) |
+| Director, Revenue Operations  | [Runpod](https://runpod.io) | $180K–$250K/yr | May 14 | [Apply](https://job-boards.greenhouse.io/runpod/jobs/5221401008) |
+| Enablement Manager, Revenue Operations | [Runpod](https://runpod.io) | $145K–$190K/yr | May 14 | [Apply](https://job-boards.greenhouse.io/runpod/jobs/5221375008) |
 | Vice President, Operational Excellence & Chief of Staff | [Omada Health](https://omadahealth.com) | $243K–$304K/yr | May 14 | [Apply](https://job-boards.greenhouse.io/omadahealth/jobs/7918592) |
+| Expansion Account Executive | [Warp](https://warp.dev) | $230K–$250K/yr | May 14 | [Apply](https://job-boards.greenhouse.io/warp/jobs/5995721004) |
+| Principal Global Employment Counsel | [Temporal](https://temporal.io) | $225K–$340K/yr | May 14 | [Apply](https://job-boards.greenhouse.io/temporaltechnologies/jobs/5137647007) |
+| Senior UX/UI Product Designer, Circle Expansion | [Life360](https://life360.com) | $120K–$190K/yr | May 14 | [Apply](https://job-boards.greenhouse.io/life360/jobs/8550446002) |
+| Counsel II | [Affirm](https://affirm.com) | $180K–$230K/yr | May 14 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7721506003) |
 | Senior Manager, Tax | [Omada Health](https://omadahealth.com) | $162K–$202K/yr | May 14 | [Apply](https://job-boards.greenhouse.io/omadahealth/jobs/7859674) |
 | Executive Assistant | [Ping Identity](https://pingidentity.com) | $100K–$127K/yr | May 14 | [Apply](https://job-boards.greenhouse.io/pingidentity/jobs/8544355002) |
+| Compliance Analyst II | [Affirm](https://affirm.com) | $100K–$140K/yr | May 14 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7730660003) |
 | Analyst II, Full Stack | [Affirm](https://affirm.com) | $140K–$190K/yr | May 14 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7726632003) |
 | Product Marketing Manager | [Censys](https://censys.com) | $127K–$160K/yr | May 14 | [Apply](https://job-boards.greenhouse.io/censys/jobs/8541056002) |
 | Senior Account Executive  | [Sardine](https://sardine.ai) | $300K–$420K/yr | May 13 | [Apply](https://jobs.ashbyhq.com/sardine/6040a00f-70d7-4140-9534-d3e670b4fe2b) |
