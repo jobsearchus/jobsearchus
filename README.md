@@ -1,4 +1,4 @@
-# JobSearchUs — Remote Job Listings
+# JobSearchUs — Looking For Your Next Job Just Search Us
 
 **131 remote jobs** across 16 categories — updated 2026-05-15
 
