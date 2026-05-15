@@ -1,6 +1,6 @@
-# UI/UX Jobs
+# Fullstack Jobs
 
-UX design, UI design, and product design roles. Figma, research, and end-to-end product work.
+Full-stack engineering roles across product, platform, and startup companies.
 
 **1 open roles** — Last updated: 2026-05-15
 
@@ -8,7 +8,7 @@ UX design, UI design, and product design roles. Figma, research, and end-to-end 
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
-| Senior Designer | [Mixpanel](https://mixpanel.com) | $175K–$213K/yr | May 12 | [Apply](https://job-boards.greenhouse.io/mixpanel/jobs/7918630) |
+| Analyst I, Full Stack | [Affirm](https://affirm.com) | $115K–$155K/yr | May 13 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7726627003) |
 
 ---
 

@@ -1,14 +1,15 @@
 # Product Manager Jobs
 
-> Updated: **2026-05-14** — Curated daily from company career pages
+Product manager roles at companies building real products. Sourced directly from career pages.
 
-| Job Title | Company | Apply |
-|-----------|---------|-------|
-| Senior Product Manager | [Figma](https://figma.com) | [Apply ↗](https://www.figma.com/careers) |
-| Product Manager, Growth | [Shopify](https://shopify.com) | [Apply ↗](https://www.shopify.com/careers) |
-| Product Manager | [Basecamp](https://basecamp.com) | [Apply ↗](https://basecamp.com/about/jobs) |
-| Senior PM, Developer Experience | [GitLab](https://gitlab.com) | [Apply ↗](https://about.gitlab.com/jobs) |
+**1 open roles** — Last updated: 2026-05-15
+
+> Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
+
+| Job Title | Company | Posted | Apply |
+| --- | --- | --- | --- |
+| Staff Product Manager, Growth | [Jump](https://jump.com) | May 11 | [Apply](https://jobs.ashbyhq.com/jump-app/7ea5cfd1-1509-494d-ab7f-0383a089566a) |
 
 ---
 
-*[← Back to all categories](README.md)*
+**[← All categories](README.md)** · [jobsearchus.com](https://www.jobsearchus.com) · [X](https://x.com/JobSearchUss) · [LinkedIn](https://linkedin.com/company/jobsearchus)

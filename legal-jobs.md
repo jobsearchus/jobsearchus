@@ -1,14 +1,14 @@
-# UI/UX Jobs
+# Legal Jobs
 
-UX design, UI design, and product design roles. Figma, research, and end-to-end product work.
+Remote legal, compliance, and counsel roles.
 
 **1 open roles** — Last updated: 2026-05-15
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
-| Job Title | Company | Salary | Posted | Apply |
-| --- | --- | --- | --- | --- |
-| Senior Designer | [Mixpanel](https://mixpanel.com) | $175K–$213K/yr | May 12 | [Apply](https://job-boards.greenhouse.io/mixpanel/jobs/7918630) |
+| Job Title | Company | Posted | Apply |
+| --- | --- | --- | --- |
+| Legal Fellow (Fall 2026) | [Wikimedia Foundation](https://wikimediafoundation.org) | May 14 | [Apply](https://job-boards.greenhouse.io/wikimedia/jobs/7750534) |
 
 ---
 

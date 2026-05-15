@@ -1,15 +1,18 @@
 # Data Science Jobs
 
-> Updated: **2026-05-14** — Curated daily from company career pages
+Data science, machine learning, and AI engineering roles. Python, SQL, PyTorch, and beyond.
 
-| Job Title | Company | Apply |
-|-----------|---------|-------|
-| Senior Data Scientist | [Grafana Labs](https://grafana.com) | [Apply ↗](https://grafana.com/about/careers) |
-| Machine Learning Engineer | [Hugging Face](https://huggingface.co) | [Apply ↗](https://huggingface.co/jobs) |
-| Data Analyst | [Buffer](https://buffer.com) | [Apply ↗](https://buffer.com/jobs) |
-| ML Research Engineer | [Elastic](https://elastic.co) | [Apply ↗](https://www.elastic.co/about/careers) |
-| Data Engineer | [Stripe](https://stripe.com) | [Apply ↗](https://stripe.com/jobs) |
+**4 open roles** — Last updated: 2026-05-15
+
+> Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
+
+| Job Title | Company | Posted | Apply |
+| --- | --- | --- | --- |
+| Principal AI Engineer (Remote) | [Rula](https://rula.com) | May 14 | [Apply](https://jobs.ashbyhq.com/rula/e5500bc1-5dd1-4a93-8571-20f77f0f66ad) |
+| Senior Manager, Machine Learning | [Twilio](https://twilio.com) | May 14 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7919148) |
+| Marketing Data Scientist, Data & AI Enablement | [Vonage](https://vonage.com) | May 13 | [Apply](https://job-boards.greenhouse.io/vonage/jobs/8540310002) |
+| Marketing Data Scientist | [Vonage](https://vonage.com) | May 13 | [Apply](https://job-boards.greenhouse.io/vonage/jobs/8540318002) |
 
 ---
 
-*[← Back to all categories](README.md)*
+**[← All categories](README.md)** · [jobsearchus.com](https://www.jobsearchus.com) · [X](https://x.com/JobSearchUss) · [LinkedIn](https://linkedin.com/company/jobsearchus)

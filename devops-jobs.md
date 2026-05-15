@@ -1,15 +1,15 @@
 # DevOps Jobs
 
-> Updated: **2026-05-14** — Curated daily from company career pages
+DevOps, platform engineering, and infrastructure roles. AWS, GCP, Kubernetes, Terraform.
 
-| Job Title | Company | Apply |
-|-----------|---------|-------|
-| Senior DevOps Engineer | [HashiCorp](https://hashicorp.com) | [Apply ↗](https://www.hashicorp.com/jobs) |
-| Platform Engineer | [Shopify](https://shopify.com) | [Apply ↗](https://www.shopify.com/careers) |
-| DevOps Engineer | [GitLab](https://gitlab.com) | [Apply ↗](https://about.gitlab.com/jobs) |
-| Infrastructure Engineer | [Cloudflare](https://cloudflare.com) | [Apply ↗](https://www.cloudflare.com/careers) |
-| DevOps / Cloud Engineer | [Elastic](https://elastic.co) | [Apply ↗](https://www.elastic.co/about/careers) |
+**1 open roles** — Last updated: 2026-05-15
+
+> Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
+
+| Job Title | Company | Posted | Apply |
+| --- | --- | --- | --- |
+| DevOps Engineer (RPA) | [Coherent Solutions](https://coherentsolutions.com) | Apr 24 | [Apply](https://job-boards.eu.greenhouse.io/coherentsolutions/jobs/4835567101) |
 
 ---
 
-*[← Back to all categories](README.md)*
+**[← All categories](README.md)** · [jobsearchus.com](https://www.jobsearchus.com) · [X](https://x.com/JobSearchUss) · [LinkedIn](https://linkedin.com/company/jobsearchus)

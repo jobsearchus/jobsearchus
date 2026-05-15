@@ -1,22 +1,20 @@
 # Entry Level Remote Jobs
 
-> Updated: **2026-05-14** — Curated daily from company career pages
+Remote jobs open to candidates with 0–2 years of experience. A real way in — no degree gatekeeping.
 
-| Job Title | Category | Company | Apply |
-|-----------|----------|---------|-------|
-| Junior Frontend Developer | Frontend | [Netlify](https://netlify.com) | [Apply ↗](https://www.netlify.com/careers) |
-| Associate Data Analyst | Data Science | [Grafana Labs](https://grafana.com) | [Apply ↗](https://grafana.com/about/careers) |
-| Junior QA Engineer | Quality Assurance | [Mozilla](https://mozilla.org) | [Apply ↗](https://careers.mozilla.org) |
-| Entry-Level Software Engineer | Software Engineer | [GitLab](https://gitlab.com) | [Apply ↗](https://about.gitlab.com/jobs) |
-| Junior iOS Developer | Developer | [Doist](https://doist.com) | [Apply ↗](https://doist.com/jobs) |
-| Associate Product Manager | Product Manager | [Basecamp](https://basecamp.com) | [Apply ↗](https://basecamp.com/about/jobs) |
-| Junior Backend Developer | Backend | [Automattic](https://automattic.com) | [Apply ↗](https://automattic.com/work-with-us) |
-| Entry-Level UX Designer | UI/UX | [InVision](https://invisionapp.com) | [Apply ↗](https://www.invisionapp.com/careers) |
-| Junior DevOps Engineer | DevOps | [HashiCorp](https://hashicorp.com) | [Apply ↗](https://www.hashicorp.com/jobs) |
-| Associate Customer Success | Customer Support | [Zendesk](https://zendesk.com) | [Apply ↗](https://jobs.zendesk.com) |
-| Entry-Level Marketing Coordinator | Marketing | [Buffer](https://buffer.com) | [Apply ↗](https://buffer.com/jobs) |
-| Junior Technical Writer | Developer | [Twilio](https://twilio.com) | [Apply ↗](https://www.twilio.com/company/jobs) |
+**6 open roles** — Last updated: 2026-05-15
+
+> Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
+
+| Job Title | Company | Salary | Posted | Apply |
+| --- | --- | --- | --- | --- |
+| Credentialing Specialist | [BetterHelp](https://betterhelp.com) | $30/yr | May 14 | [Apply](https://job-boards.greenhouse.io/betterhelpcom/jobs/5219734008) |
+| Email Developer (Fundraising) (1 year Contract) | [Wikimedia Foundation](https://wikimediafoundation.org) | — | May 14 | [Apply](https://job-boards.greenhouse.io/wikimedia/jobs/7920924) |
+| Analyst I, Full Stack | [Affirm](https://affirm.com) | $115K–$155K/yr | May 13 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7726627003) |
+| Provider Experience Advocate | [BetterHelp](https://betterhelp.com) | — | May 13 | [Apply](https://job-boards.greenhouse.io/betterhelpcom/jobs/5219190008) |
+| Business Development Representative, Polish Speaking | [GitLab](https://gitlab.com) | — | May 13 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8539891002) |
+| Strong Junior/Middle Backend Developer (IoT domain) | [Sigma Software](https://sigmasoftware.com) | — | Apr 24 | [Apply](https://api.smartrecruiters.com/v1/companies/SigmaSoftware2/postings/744000122663699) |
 
 ---
 
-*[← Back to all categories](README.md)*
+**[← All categories](README.md)** · [jobsearchus.com](https://www.jobsearchus.com) · [X](https://x.com/JobSearchUss) · [LinkedIn](https://linkedin.com/company/jobsearchus)
