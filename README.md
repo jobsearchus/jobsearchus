@@ -2,8 +2,8 @@
 
 **132 remote jobs** across 19 categories — updated 2026-05-15
 
-Every job here is sourced directly from company career pages — not scraped from LinkedIn or Indeed.
-We hit Greenhouse, Lever, Ashby, Workable, and more across 1,500+ companies, 5 times a day.
+Fresh remote jobs pulled straight from company career pages — not recycled from job boards.
+Updated 5 times a day across 1,500+ companies worldwide.
 
 Full job board with filters: **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -11,9 +11,9 @@ Full job board with filters: **[jobsearchus.com](https://www.jobsearchus.com)**
 
 ## How it works
 
-1. We monitor 1,500+ company career page APIs directly
-2. New postings are detected within hours of going live
-3. Each job is verified, categorized, and listed here — no duplicates, no spam
+1. We track 1,500+ company career pages directly
+2. New job postings are detected within hours of going live
+3. Each listing is verified, categorized, and added here — no duplicates, no spam
 
 ---
 
