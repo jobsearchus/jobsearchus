@@ -3,7 +3,7 @@
 **132 remote jobs** across 19 categories — updated 2026-05-15
 
 Fresh remote jobs pulled straight from company career pages — not recycled from job boards.
-Updated 5 times a day across 1,500+ companies worldwide.
+Updated 5 times a day across 5,500+ companies worldwide.
 
 Full job board with filters: **[jobsearchus.com](https://www.jobsearchus.com)**
 
