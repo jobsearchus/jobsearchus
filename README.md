@@ -1,6 +1,6 @@
 # JobSearchUs — Remote Job Listings
 
-**163 remote jobs** across 20 categories — updated 2026-05-15
+**166 remote jobs** across 21 categories — updated 2026-05-16
 
 Fresh remote jobs pulled straight from company career pages — not recycled from job boards.
 Updated 5 times a day across 5,500+ companies worldwide.
@@ -21,10 +21,10 @@ Full job board with filters: **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Category | Open Roles | Link |
 | --- | --- | --- |
-| Work From Home Jobs | 163 | [View →](jobs/work-from-home-jobs.md) |
+| Work From Home Jobs | 166 | [View →](jobs/work-from-home-jobs.md) |
 | $100K+ Remote Jobs | 38 | [View →](jobs/100k-plus-jobs.md) |
 | Entry Level Remote Jobs | 7 | [View →](jobs/entry-level-jobs.md) |
-| Software Engineer Jobs | 30 | [View →](jobs/software-engineer-jobs.md) |
+| Software Engineer Jobs | 32 | [View →](jobs/software-engineer-jobs.md) |
 | Backend Jobs | 5 | [View →](jobs/backend-jobs.md) |
 | Fullstack Jobs | 1 | [View →](jobs/fullstack-jobs.md) |
 | Developer Jobs | 4 | [View →](jobs/developer-jobs.md) |
@@ -33,6 +33,7 @@ Full job board with filters: **[jobsearchus.com](https://www.jobsearchus.com)**
 | Data Science Jobs | 4 | [View →](jobs/data-science-jobs.md) |
 | Quality Assurance Jobs | 1 | [View →](jobs/quality-assurance-jobs.md) |
 | Product Manager Jobs | 2 | [View →](jobs/product-manager-jobs.md) |
+| Project Manager Jobs | 1 | [View →](jobs/project-manager-jobs.md) |
 | UI/UX Jobs | 2 | [View →](jobs/ui-ux-jobs.md) |
 | Marketing Jobs | 13 | [View →](jobs/marketing-jobs.md) |
 | Sales Jobs | 28 | [View →](jobs/sales-jobs.md) |
@@ -59,4 +60,4 @@ Stay updated when new jobs drop:
 
 ---
 
-*Updated 2026-05-15 · Jobs sourced directly from company career pages · [jobsearchus.com](https://www.jobsearchus.com)*
+*Updated 2026-05-16 · Jobs sourced directly from company career pages · [jobsearchus.com](https://www.jobsearchus.com)*

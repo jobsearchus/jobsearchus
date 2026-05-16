@@ -1,6 +1,6 @@
-# DevOps Jobs
+# Project Manager Jobs
 
-DevOps, platform engineering, and infrastructure roles. AWS, GCP, Kubernetes, Terraform.
+Project and program management roles across tech, operations, and enterprise.
 
 **1 open roles** — Last updated: 2026-05-16
 
@@ -8,7 +8,7 @@ DevOps, platform engineering, and infrastructure roles. AWS, GCP, Kubernetes, Te
 
 | Job Title | Company | Posted | Apply |
 | --- | --- | --- | --- |
-| DevOps Engineer (RPA) | [Coherent Solutions](https://coherentsolutions.com) | Apr 24 | [Apply](https://job-boards.eu.greenhouse.io/coherentsolutions/jobs/4835567101) |
+| Software Implementation Project Manager | [NEC Software Solutions](https://necsoftwaresolutions.com) | May 15 | [Apply](https://api.smartrecruiters.com/v1/companies/NECSWS/postings/744000126683356) |
 
 ---
 
