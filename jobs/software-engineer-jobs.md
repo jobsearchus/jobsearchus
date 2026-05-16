@@ -2,15 +2,19 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**43 open roles** — Last updated: 2026-05-16
+**47 open roles** — Last updated: 2026-05-16
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Business Operations Specialist  | [Varicent](https://varicent.com) | — | May 15 | [Apply](https://job-boards.greenhouse.io/varicent/jobs/5222812008) |
+| Business Operations Specialist  | [Varicent](https://varicent.com) | — | May 15 | [Apply](https://job-boards.greenhouse.io/varicent/jobs/5222810008) |
+| Engineering Operations Specialist | [Varicent](https://varicent.com) | — | May 15 | [Apply](https://job-boards.greenhouse.io/varicent/jobs/5219003008) |
 | Staff Software Engineer, AI Platform | [Flex](https://withflex.com) | — | May 15 | [Apply](https://job-boards.greenhouse.io/flex/jobs/4696189005) |
 | Chief Architect | [SecurityScorecard](https://securityscorecard.com) | — | May 15 | [Apply](https://job-boards.greenhouse.io/securityscorecard/jobs/7909890) |
 | Demo Engineer | [Cresta](https://cresta.com) | $135K–$160K/yr | May 15 | [Apply](https://job-boards.greenhouse.io/cresta/jobs/5216772008) |
+| AV & Event Engineer L4 | [Twilio](https://twilio.com) | — | May 15 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7927688) |
 | Senior Analytics Engineer | [Moxie](https://joinmoxie.com) | — | May 15 | [Apply](https://jobs.ashbyhq.com/moxie/cbfbd32b-cbb8-46cb-9417-ae9bee42f747) |
 | Engineering Manager, Core Product | [Discord](https://discord.com) | $248K–$279K/yr | May 15 | [Apply](https://job-boards.greenhouse.io/discord/jobs/8552176002) |
 | Salesforce Consultant, Managed Services | [NeuraFlash](https://neuraflash.com) | — | May 15 | [Apply](https://job-boards.greenhouse.io/neuraflash/jobs/5997113004) |
