@@ -1,5 +1,7 @@
 # JobSearchUs — Remote Job Listings
 
+[![172 remote jobs](https://img.shields.io/badge/remote%20jobs-172-blue?style=flat-square)](https://www.jobsearchus.com)  [![Updated 2026-05-16](https://img.shields.io/badge/updated-2026-05-16-lightgrey?style=flat-square)](https://github.com/jobsearchus/jobsearchus)
+
 **172 remote jobs** across 21 categories — updated 2026-05-16
 
 Fresh remote jobs pulled straight from company career pages — not recycled from job boards.
