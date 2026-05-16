@@ -2,12 +2,13 @@
 
 Remote customer support and success roles across SaaS, e-commerce, and tech.
 
-**14 open roles** — Last updated: 2026-05-16
+**15 open roles** — Last updated: 2026-05-16
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Technical Customer Success Manager | [Honeycomb.io](https://honeycomb.io) | — | May 15 | [Apply](https://job-boards.greenhouse.io/honeycomb/jobs/5220993008) |
 | Customer Success Manager II  | [Calendly](https://calendly.com) | — | May 15 | [Apply](https://job-boards.greenhouse.io/calendly/jobs/8552564002) |
 | Senior Strategic Customer Success Manager | [Calendly](https://calendly.com) | $40K/yr | May 15 | [Apply](https://job-boards.greenhouse.io/calendly/jobs/8552302002) |
 | Customer Success Manager - APJ | [GitLab](https://about.gitlab.com) | — | May 14 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8548980002) |

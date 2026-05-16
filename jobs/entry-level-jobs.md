@@ -2,12 +2,13 @@
 
 Remote jobs open to candidates with 0–2 years of experience. A real way in — no degree gatekeeping.
 
-**8 open roles** — Last updated: 2026-05-16
+**9 open roles** — Last updated: 2026-05-16
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Revenue Strategy and Operations | [Clipboard](https://clipboardhealth.com) | — | May 15 | [Apply](https://jobs.ashbyhq.com/clipboard/2ca7fa94-6b57-4358-9105-857b911c15f7) |
 | Junior Payments Monitoring Specialist | [Growe](https://growe.com) | — | May 15 | [Apply](https://job-boards.eu.greenhouse.io/growe/jobs/4866760101) |
 | Associate, Product Support | [ShopMy](https://shopmy.us) | — | May 14 | [Apply](https://job-boards.greenhouse.io/shopmy/jobs/5221284008) |
 | Credentialing Specialist | [BetterHelp](https://betterhelp.com) | $30/yr | May 14 | [Apply](https://job-boards.greenhouse.io/betterhelpcom/jobs/5219734008) |

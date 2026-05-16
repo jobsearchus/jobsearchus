@@ -2,14 +2,18 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**37 open roles** — Last updated: 2026-05-16
+**43 open roles** — Last updated: 2026-05-16
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | Staff Software Engineer, AI Platform | [Flex](https://withflex.com) | — | May 15 | [Apply](https://job-boards.greenhouse.io/flex/jobs/4696189005) |
+| Chief Architect | [SecurityScorecard](https://securityscorecard.com) | — | May 15 | [Apply](https://job-boards.greenhouse.io/securityscorecard/jobs/7909890) |
+| Demo Engineer | [Cresta](https://cresta.com) | $135K–$160K/yr | May 15 | [Apply](https://job-boards.greenhouse.io/cresta/jobs/5216772008) |
+| Senior Analytics Engineer | [Moxie](https://joinmoxie.com) | — | May 15 | [Apply](https://jobs.ashbyhq.com/moxie/cbfbd32b-cbb8-46cb-9417-ae9bee42f747) |
 | Engineering Manager, Core Product | [Discord](https://discord.com) | $248K–$279K/yr | May 15 | [Apply](https://job-boards.greenhouse.io/discord/jobs/8552176002) |
+| Salesforce Consultant, Managed Services | [NeuraFlash](https://neuraflash.com) | — | May 15 | [Apply](https://job-boards.greenhouse.io/neuraflash/jobs/5997113004) |
 | Technical Architect | [NEC Software Solutions](https://necsoftwaresolutions.com) | — | May 15 | [Apply](https://api.smartrecruiters.com/v1/companies/NECSWS/postings/744000126676850) |
 | Senior Mobile Engineer with Flutter | [Accesa](https://accesa.com) | — | May 15 | [Apply](https://api.smartrecruiters.com/v1/companies/ACCESA/postings/744000126667139) |
 | Researcher | [Miratech](https://miratech.com) | — | May 15 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000126656469) |
@@ -17,6 +21,8 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | 2nd and 3rd Level IT Support Technician | [Drees & Sommer](https://dreso.com) | — | May 15 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000126636895) |
 | Software Engineer, Nexus | [Temporal](https://temporal.io) | $146K–$200K/yr | May 14 | [Apply](https://job-boards.greenhouse.io/temporaltechnologies/jobs/5107645007) |
 | Senior Software Engineer II AI-Native, Circle Expansion  | [Life360](https://life360.com) | $148K–$216K/yr | May 14 | [Apply](https://job-boards.greenhouse.io/life360/jobs/8550858002) |
+| Sr Staff Mixed Methods User Researcher | [Mozilla](https://mozilla.org) | — | May 14 | [Apply](https://job-boards.greenhouse.io/mozilla/jobs/7859595) |
+| Sr Staff Mixed Methods User Researcher | [Mozilla](https://mozilla.org) | — | May 14 | [Apply](https://job-boards.greenhouse.io/mozilla/jobs/7859150) |
 | Sr. Software Engineer - MarTech(Remote) | [Rula](https://rula.com) | — | May 14 | [Apply](https://jobs.ashbyhq.com/rula/01f1a2b8-dcae-4a8b-bd37-fe09cea3bdf9) |
 | Manager, Solutions Engineering - Enterprise | [Tailscale](https://tailscale.com) | — | May 14 | [Apply](https://job-boards.greenhouse.io/tailscale/jobs/4695053005) |
 | Engineering Manager | [Clipboard](https://clipboardhealth.com) | — | May 14 | [Apply](https://jobs.ashbyhq.com/clipboard/4871e102-00a5-4693-8e2f-8672435f1ba2) |

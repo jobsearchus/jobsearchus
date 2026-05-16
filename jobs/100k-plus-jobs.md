@@ -2,15 +2,21 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**41 open roles** — Last updated: 2026-05-16
+**47 open roles** — Last updated: 2026-05-16
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Principal Product Designer, Devices | [Life360](https://life360.com) | $171K–$252K/yr | May 15 | [Apply](https://job-boards.greenhouse.io/life360/jobs/8553069002) |
+| Staff Product Designer | [Customer.io](https://customer.io) | $205K–$228K/yr | May 15 | [Apply](https://job-boards.greenhouse.io/customerio/jobs/7931819) |
 | Senior Manager of Provider Brand and Integrated Marketing | [BetterHelp](https://betterhelp.com) | $170K–$200K/yr | May 15 | [Apply](https://job-boards.greenhouse.io/betterhelpcom/jobs/5222761008) |
+| Demo Engineer | [Cresta](https://cresta.com) | $135K–$160K/yr | May 15 | [Apply](https://job-boards.greenhouse.io/cresta/jobs/5216772008) |
+| Senior Product Marketing Manager, Packaging, Pricing and Enterprise Commercialization | [Boulevard](https://joinblvd.com) | $123K–$154K/yr | May 15 | [Apply](https://job-boards.greenhouse.io/boulevard/jobs/4678942006) |
+| Senior Product Manager [Remote-US] | [Quanata](https://quanata.com) | $210K–$280K/yr | May 15 | [Apply](https://job-boards.greenhouse.io/quanata/jobs/5997280004) |
 | Senior Machine Learning Engineer  | [Censys](https://censys.com) | $171K–$203K/yr | May 15 | [Apply](https://job-boards.greenhouse.io/censys/jobs/8500292002) |
 | Engineering Manager, Core Product | [Discord](https://discord.com) | $248K–$279K/yr | May 15 | [Apply](https://job-boards.greenhouse.io/discord/jobs/8552176002) |
+| Manager, Business Systems | [IonQ](https://ionq.com) | $128K–$167K/yr | May 15 | [Apply](https://job-boards.greenhouse.io/ionq/jobs/5994825004) |
 | Software Engineer, Nexus | [Temporal](https://temporal.io) | $146K–$200K/yr | May 14 | [Apply](https://job-boards.greenhouse.io/temporaltechnologies/jobs/5107645007) |
 | Senior Software Engineer II AI-Native, Circle Expansion  | [Life360](https://life360.com) | $148K–$216K/yr | May 14 | [Apply](https://job-boards.greenhouse.io/life360/jobs/8550858002) |
 | Senior Enterprise Security Engineer | [Life360](https://life360.com) | $152K–$224K/yr | May 14 | [Apply](https://job-boards.greenhouse.io/life360/jobs/8550801002) |

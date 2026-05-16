@@ -2,14 +2,17 @@
 
 Remote operations and business operations roles across industries.
 
-**14 open roles** — Last updated: 2026-05-16
+**17 open roles** — Last updated: 2026-05-16
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Revenue Strategy and Operations | [Clipboard](https://clipboardhealth.com) | — | May 15 | [Apply](https://jobs.ashbyhq.com/clipboard/2ca7fa94-6b57-4358-9105-857b911c15f7) |
+| Principal Businesss Operations, Data & Insights | [Moxie](https://joinmoxie.com) | — | May 15 | [Apply](https://jobs.ashbyhq.com/moxie/e7c8ff9c-967d-4049-b2ad-05a49b1a53d1) |
 | Business Owners - Freelance AI Trainer Project | [Agency](https://getagency.com) | $100/yr | May 15 | [Apply](https://job-boards.eu.greenhouse.io/agency/jobs/4868455101) |
 | Heavy Equipment Operator (Contract) – Fly-In-Fly-Out | [Anglo American](https://angloamerican.com) | — | May 15 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000126724267) |
+| Manager, Business Systems | [IonQ](https://ionq.com) | $128K–$167K/yr | May 15 | [Apply](https://job-boards.greenhouse.io/ionq/jobs/5994825004) |
 | Vice President, Operational Excellence & Chief of Staff | [Omada Health](https://omadahealth.com) | $243K–$304K/yr | May 14 | [Apply](https://job-boards.greenhouse.io/omadahealth/jobs/7918592) |
 | Credentialing Specialist | [BetterHelp](https://betterhelp.com) | $30/yr | May 14 | [Apply](https://job-boards.greenhouse.io/betterhelpcom/jobs/5219734008) |
 | Manager, Advancement Data & Operations (Remote) | [Beam](https://beam.cloud) | $72K–$88K/yr | May 14 | [Apply](https://job-boards.greenhouse.io/beam/jobs/4691785005) |

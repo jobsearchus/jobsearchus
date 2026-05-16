@@ -2,16 +2,23 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**14 open roles** — Last updated: 2026-05-16
+**21 open roles** — Last updated: 2026-05-16
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | Senior Manager of Provider Brand and Integrated Marketing | [BetterHelp](https://betterhelp.com) | $170K–$200K/yr | May 15 | [Apply](https://job-boards.greenhouse.io/betterhelpcom/jobs/5222761008) |
+| Demand Generation Manager, ABM | [Customer.io](https://customer.io) | — | May 15 | [Apply](https://job-boards.greenhouse.io/customerio/jobs/7931622) |
+| Generative Engine Optimization (GEO) Manager | [Teleport](https://goteleport.com) | — | May 15 | [Apply](https://jobs.ashbyhq.com/goteleport/33e4767b-6ad1-4a34-950a-4df4287d1287) |
+| Senior Product Marketing Manager, Packaging, Pricing and Enterprise Commercialization | [Boulevard](https://joinblvd.com) | $123K–$154K/yr | May 15 | [Apply](https://job-boards.greenhouse.io/boulevard/jobs/4678942006) |
+| Marketing Technical Onboarding Manager | [Moxie](https://joinmoxie.com) | — | May 15 | [Apply](https://jobs.ashbyhq.com/moxie/e2cf33a4-58ed-4e62-85d9-3bdd042f1e3a) |
 | Head of Performance Marketing | [OnePay](https://onepay.com) | — | May 14 | [Apply](https://jobs.ashbyhq.com/oneapp/a5350ce1-cfa5-4dde-9a03-e6f31aaf84d5) |
 | Head of Social | [OnePay](https://onepay.com) | — | May 14 | [Apply](https://jobs.ashbyhq.com/oneapp/e4f6ceb3-2738-409b-8b55-6057acffe284) |
 | Senior Lead, Marketing Services Operations | [Moxie](https://joinmoxie.com) | — | May 14 | [Apply](https://jobs.ashbyhq.com/moxie/63148180-b9b4-4515-94a7-86e36cea4256) |
+| Senior Social Content & Strategy Manager | [OnePay](https://onepay.com) | — | May 14 | [Apply](https://jobs.ashbyhq.com/oneapp/d6e486d3-1852-4c4d-bcbe-755652a44166) |
+| Growth Marketing Channel Manager | [OnePay](https://onepay.com) | — | May 14 | [Apply](https://jobs.ashbyhq.com/oneapp/778aaee4-0b84-429d-92b2-456482344b24) |
+| Creator Partnerships & Influencer Manager | [OnePay](https://onepay.com) | — | May 14 | [Apply](https://jobs.ashbyhq.com/oneapp/d5e9eb2c-9a9d-468b-bd5a-fc4aee3d9a0d) |
 | Marketing Analyst, PLG & Self-Serve Analytics | [Twilio](https://twilio.com) | $97K–$121K/yr | May 14 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7923207) |
 | Product Marketing Manager | [Censys](https://censys.com) | $127K–$160K/yr | May 14 | [Apply](https://job-boards.greenhouse.io/censys/jobs/8541056002) |
 | Senior Copywriter, Brand  | [Tilt](https://tilt.com) | — | May 13 | [Apply](https://jobs.ashbyhq.com/tilthq/32797836-f9c5-47f1-85fc-32ae97f0f390) |
