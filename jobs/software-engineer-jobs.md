@@ -2,7 +2,7 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**32 open roles** — Last updated: 2026-05-16
+**35 open roles** — Last updated: 2026-05-16
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -10,6 +10,9 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | --- | --- | --- | --- | --- |
 | Technical Architect | [NEC Software Solutions](https://necsoftwaresolutions.com) | — | May 15 | [Apply](https://api.smartrecruiters.com/v1/companies/NECSWS/postings/744000126676850) |
 | Senior Mobile Engineer with Flutter | [Accesa](https://accesa.com) | — | May 15 | [Apply](https://api.smartrecruiters.com/v1/companies/ACCESA/postings/744000126667139) |
+| Researcher | [Miratech](https://miratech.com) | — | May 15 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000126656469) |
+| Researcher | [Miratech](https://miratech.com) | — | May 15 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000126656369) |
+| 2nd and 3rd Level IT Support Technician | [Drees & Sommer](https://dreso.com) | — | May 15 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000126636895) |
 | Software Engineer, Nexus | [Temporal](https://temporal.io) | $146K–$200K/yr | May 14 | [Apply](https://job-boards.greenhouse.io/temporaltechnologies/jobs/5107645007) |
 | Senior Software Engineer II AI-Native, Circle Expansion  | [Life360](https://life360.com) | $148K–$216K/yr | May 14 | [Apply](https://job-boards.greenhouse.io/life360/jobs/8550858002) |
 | Sr. Software Engineer - MarTech(Remote) | [Rula](https://rula.com) | — | May 14 | [Apply](https://jobs.ashbyhq.com/rula/01f1a2b8-dcae-4a8b-bd37-fe09cea3bdf9) |

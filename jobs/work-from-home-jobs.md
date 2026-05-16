@@ -2,17 +2,23 @@
 
 Fully remote jobs across all roles and industries. No office. No commute. Apply directly from company career pages.
 
-**166 open roles** — Last updated: 2026-05-16
+**172 open roles** — Last updated: 2026-05-16
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Consultor(a) SAP SD | [Inetum](https://inetum.com) | — | May 15 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000126774639) |
 | Account Executive - Commercial Information (Midwest) - Remote | [Experian](https://experianplc.com) | — | May 15 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000126768210) |
+| Heavy Equipment Operator (Contract) – Fly-In-Fly-Out | [Anglo American](https://angloamerican.com) | — | May 15 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000126724267) |
 | Software Implementation Project Manager | [NEC Software Solutions](https://necsoftwaresolutions.com) | — | May 15 | [Apply](https://api.smartrecruiters.com/v1/companies/NECSWS/postings/744000126683356) |
 | Technical Architect | [NEC Software Solutions](https://necsoftwaresolutions.com) | — | May 15 | [Apply](https://api.smartrecruiters.com/v1/companies/NECSWS/postings/744000126676850) |
+| Full Stack Developer (Outbound/Selfservice) | [Miratech](https://miratech.com) | — | May 15 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000126677258) |
 | Senior Mobile Engineer with Flutter | [Accesa](https://accesa.com) | — | May 15 | [Apply](https://api.smartrecruiters.com/v1/companies/ACCESA/postings/744000126667139) |
+| Researcher | [Miratech](https://miratech.com) | — | May 15 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000126656469) |
+| Researcher | [Miratech](https://miratech.com) | — | May 15 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000126656369) |
 | Associate Staff Engineer(Automation QA) | [Nagarro](https://nagarro.com) | — | May 15 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000126643729) |
+| 2nd and 3rd Level IT Support Technician | [Drees & Sommer](https://dreso.com) | — | May 15 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000126636895) |
 | Payroll Manager US & Canada | [Varicent](https://varicent.com) | — | May 15 | [Apply](https://job-boards.greenhouse.io/varicent/jobs/5221598008) |
 | Payroll Manager US & Canada | [Varicent](https://varicent.com) | — | May 15 | [Apply](https://job-boards.greenhouse.io/varicent/jobs/5221593008) |
 |  Payroll Manager US & Canada | [Varicent](https://varicent.com) | — | May 15 | [Apply](https://job-boards.greenhouse.io/varicent/jobs/5221595008) |
@@ -163,9 +169,9 @@ Fully remote jobs across all roles and industries. No office. No commute. Apply 
 | Treasury Manager | [KOHO](https://koho.ca) | — | Apr 24 | [Apply](https://jobs.ashbyhq.com/koho/404b7a31-769e-4791-80d5-d47235245666) |
 | SecOps Engineer (AppSec) | [Volito Aviation August 2007](https://trustly.com) | — | Apr 24 | [Apply](https://jobs.lever.co/trustly/59926e0a-5a62-4267-91d7-b46e660b60fa) |
 | AI Staff Software Engineer | [Natera](https://natera.com) | — | Apr 24 | [Apply](https://job-boards.greenhouse.io/natera/jobs/5980884004) |
-| Director of Engineering, Loki Databases - USA - Remote | [Grafana Labs](https://grafana.com) | — | Apr 24 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/5764787004) |
 | Senior Sales Enablement Specialist | [Dragos](https://dragos.com) | — | Apr 24 | [Apply](https://job-boards.greenhouse.io/dragos/jobs/5175031008) |
 | Senior Software Engineer I, L3 Applications Team | [CareMessage](https://caremessage.org) | — | Apr 24 | [Apply](https://jobs.lever.co/caremessage/5ecbb8b3-da30-43ef-bbce-1cf81aa85591) |
+| Director of Engineering, Loki Databases - USA - Remote | [Grafana Labs](https://grafana.com) | — | Apr 24 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/5764787004) |
 | Engineering Manager - Site Reliability Engineering | [Kraken](https://kraken.com) | — | Apr 24 | [Apply](https://jobs.ashbyhq.com/kraken.com/705183dd-b651-4c54-a52e-3651dd3b9d40) |
 | Senior SEO Manager | [Holywater](https://holywater.com) | — | Apr 24 | [Apply](https://jobs.ashbyhq.com/holywater/06679c0d-f520-4c71-91a5-81f3fe3514c8) |
 | DevOps Engineer (RPA) | [Coherent Solutions](https://coherentsolutions.com) | — | Apr 24 | [Apply](https://job-boards.eu.greenhouse.io/coherentsolutions/jobs/4835567101) |
