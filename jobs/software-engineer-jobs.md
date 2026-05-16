@@ -2,12 +2,14 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**35 open roles** — Last updated: 2026-05-16
+**37 open roles** — Last updated: 2026-05-16
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Staff Software Engineer, AI Platform | [Flex](https://withflex.com) | — | May 15 | [Apply](https://job-boards.greenhouse.io/flex/jobs/4696189005) |
+| Engineering Manager, Core Product | [Discord](https://discord.com) | $248K–$279K/yr | May 15 | [Apply](https://job-boards.greenhouse.io/discord/jobs/8552176002) |
 | Technical Architect | [NEC Software Solutions](https://necsoftwaresolutions.com) | — | May 15 | [Apply](https://api.smartrecruiters.com/v1/companies/NECSWS/postings/744000126676850) |
 | Senior Mobile Engineer with Flutter | [Accesa](https://accesa.com) | — | May 15 | [Apply](https://api.smartrecruiters.com/v1/companies/ACCESA/postings/744000126667139) |
 | Researcher | [Miratech](https://miratech.com) | — | May 15 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000126656469) |

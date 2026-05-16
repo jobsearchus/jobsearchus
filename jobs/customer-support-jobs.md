@@ -2,13 +2,19 @@
 
 Remote customer support and success roles across SaaS, e-commerce, and tech.
 
-**8 open roles** — Last updated: 2026-05-16
+**14 open roles** — Last updated: 2026-05-16
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Customer Success Manager II  | [Calendly](https://calendly.com) | — | May 15 | [Apply](https://job-boards.greenhouse.io/calendly/jobs/8552564002) |
+| Senior Strategic Customer Success Manager | [Calendly](https://calendly.com) | $40K/yr | May 15 | [Apply](https://job-boards.greenhouse.io/calendly/jobs/8552302002) |
+| Customer Success Manager - APJ | [GitLab](https://about.gitlab.com) | — | May 14 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8548980002) |
+| Customer Success Engineer - West  | [GitLab](https://about.gitlab.com) | — | May 14 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8550268002) |
 | Customer Success Manager - Key | [SugarCRM](https://sugarcrm.com) | — | May 14 | [Apply](https://jobs.lever.co/sugarcrm/3025bc0f-01a6-466b-b3ff-823ed04a4b36) |
+| Team Lead, Customer Support | [Tailscale](https://tailscale.com) | — | May 14 | [Apply](https://job-boards.greenhouse.io/tailscale/jobs/4695254005) |
+| Team Lead, Customer Support | [Tailscale](https://tailscale.com) | — | May 14 | [Apply](https://job-boards.greenhouse.io/tailscale/jobs/4695251005) |
 | Associate, Product Support | [ShopMy](https://shopmy.us) | — | May 14 | [Apply](https://job-boards.greenhouse.io/shopmy/jobs/5221284008) |
 | Technical Support Specialist | [Greenhouse](https://greenhouse.com) | $56K–$76K/yr | May 14 | [Apply](https://job-boards.greenhouse.io/greenhouse/jobs/7926000?gh_jid=7926000) |
 | Middle Customer Support Specialist | [GR8 Tech](https://gr8.com) | — | May 14 | [Apply](https://job-boards.eu.greenhouse.io/gr8tech/jobs/4865698101) |

@@ -2,12 +2,15 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**38 open roles** — Last updated: 2026-05-16
+**41 open roles** — Last updated: 2026-05-16
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Manager of Provider Brand and Integrated Marketing | [BetterHelp](https://betterhelp.com) | $170K–$200K/yr | May 15 | [Apply](https://job-boards.greenhouse.io/betterhelpcom/jobs/5222761008) |
+| Senior Machine Learning Engineer  | [Censys](https://censys.com) | $171K–$203K/yr | May 15 | [Apply](https://job-boards.greenhouse.io/censys/jobs/8500292002) |
+| Engineering Manager, Core Product | [Discord](https://discord.com) | $248K–$279K/yr | May 15 | [Apply](https://job-boards.greenhouse.io/discord/jobs/8552176002) |
 | Software Engineer, Nexus | [Temporal](https://temporal.io) | $146K–$200K/yr | May 14 | [Apply](https://job-boards.greenhouse.io/temporaltechnologies/jobs/5107645007) |
 | Senior Software Engineer II AI-Native, Circle Expansion  | [Life360](https://life360.com) | $148K–$216K/yr | May 14 | [Apply](https://job-boards.greenhouse.io/life360/jobs/8550858002) |
 | Senior Enterprise Security Engineer | [Life360](https://life360.com) | $152K–$224K/yr | May 14 | [Apply](https://job-boards.greenhouse.io/life360/jobs/8550801002) |

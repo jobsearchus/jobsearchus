@@ -2,12 +2,13 @@
 
 Remote operations and business operations roles across industries.
 
-**13 open roles** — Last updated: 2026-05-16
+**14 open roles** — Last updated: 2026-05-16
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Business Owners - Freelance AI Trainer Project | [Agency](https://getagency.com) | $100/yr | May 15 | [Apply](https://job-boards.eu.greenhouse.io/agency/jobs/4868455101) |
 | Heavy Equipment Operator (Contract) – Fly-In-Fly-Out | [Anglo American](https://angloamerican.com) | — | May 15 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000126724267) |
 | Vice President, Operational Excellence & Chief of Staff | [Omada Health](https://omadahealth.com) | $243K–$304K/yr | May 14 | [Apply](https://job-boards.greenhouse.io/omadahealth/jobs/7918592) |
 | Credentialing Specialist | [BetterHelp](https://betterhelp.com) | $30/yr | May 14 | [Apply](https://job-boards.greenhouse.io/betterhelpcom/jobs/5219734008) |

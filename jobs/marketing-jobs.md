@@ -2,12 +2,13 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**13 open roles** — Last updated: 2026-05-16
+**14 open roles** — Last updated: 2026-05-16
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Manager of Provider Brand and Integrated Marketing | [BetterHelp](https://betterhelp.com) | $170K–$200K/yr | May 15 | [Apply](https://job-boards.greenhouse.io/betterhelpcom/jobs/5222761008) |
 | Head of Performance Marketing | [OnePay](https://onepay.com) | — | May 14 | [Apply](https://jobs.ashbyhq.com/oneapp/a5350ce1-cfa5-4dde-9a03-e6f31aaf84d5) |
 | Head of Social | [OnePay](https://onepay.com) | — | May 14 | [Apply](https://jobs.ashbyhq.com/oneapp/e4f6ceb3-2738-409b-8b55-6057acffe284) |
 | Senior Lead, Marketing Services Operations | [Moxie](https://joinmoxie.com) | — | May 14 | [Apply](https://jobs.ashbyhq.com/moxie/63148180-b9b4-4515-94a7-86e36cea4256) |

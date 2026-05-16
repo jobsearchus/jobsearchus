@@ -2,12 +2,13 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**9 open roles** — Last updated: 2026-05-16
+**10 open roles** — Last updated: 2026-05-16
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Junior Payments Monitoring Specialist | [Growe](https://growe.com) | — | May 15 | [Apply](https://job-boards.eu.greenhouse.io/growe/jobs/4866760101) |
 |  Payroll Manager US & Canada | [Varicent](https://varicent.com) | — | May 15 | [Apply](https://job-boards.greenhouse.io/varicent/jobs/5221595008) |
 | FP & A Analyst - Expense, Gracenote | [Nielsen](https://nielsen.com) | — | May 14 | [Apply](https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990013142094) |
 | Head of Credit, Brazil | [Tilt](https://tilt.com) | — | May 14 | [Apply](https://jobs.ashbyhq.com/tilthq/27d4c79f-9893-49b8-99d9-0e4fb006ef45) |

@@ -2,12 +2,13 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**28 open roles** — Last updated: 2026-05-16
+**29 open roles** — Last updated: 2026-05-16
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Director of Strategic Partnerships | [InHomeTherapy](https://inhometherapy.com) | — | May 15 | [Apply](https://job-boards.greenhouse.io/inhometherapy/jobs/5139569007) |
 | Account Executive - Commercial Information (Midwest) - Remote | [Experian](https://experianplc.com) | — | May 15 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000126768210) |
 | Strategic Partner Manager | [Deepgram](https://deepgram.com) | — | May 15 | [Apply](https://jobs.ashbyhq.com/deepgram/623dcf1a-becc-4cab-85a3-eb7ebe37e3c0) |
 | GSI Partner Director | [Deepgram](https://deepgram.com) | — | May 15 | [Apply](https://jobs.ashbyhq.com/deepgram/4ccf6612-92c5-49f4-9044-b4bed37c97d4) |
