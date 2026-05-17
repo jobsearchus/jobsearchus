@@ -2,7 +2,7 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**47 open roles** — Last updated: 2026-05-17
+**48 open roles** — Last updated: 2026-05-17
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -16,6 +16,7 @@ Remote roles paying $100,000 or more per year. Salary data pulled directly from 
 | Senior Product Manager [Remote-US] | [Quanata](https://quanata.com) | $210K–$280K/yr | May 15 | [Apply](https://job-boards.greenhouse.io/quanata/jobs/5997280004) |
 | Senior Machine Learning Engineer  | [Censys](https://censys.com) | $171K–$203K/yr | May 15 | [Apply](https://job-boards.greenhouse.io/censys/jobs/8500292002) |
 | Engineering Manager, Core Product | [Discord](https://discord.com) | $248K–$279K/yr | May 15 | [Apply](https://job-boards.greenhouse.io/discord/jobs/8552176002) |
+| Senior Technical Architect | [Slingshot Aerospace](https://slingshotaerospace.com) | $175K–$250K/yr | May 15 | [Apply](https://job-boards.greenhouse.io/slingshotaerospace/jobs/5997017004?gh_jid=5997017004) |
 | Manager, Business Systems | [IonQ](https://ionq.com) | $128K–$167K/yr | May 15 | [Apply](https://job-boards.greenhouse.io/ionq/jobs/5994825004) |
 | Software Engineer, Nexus | [Temporal](https://temporal.io) | $146K–$200K/yr | May 14 | [Apply](https://job-boards.greenhouse.io/temporaltechnologies/jobs/5107645007) |
 | Senior Software Engineer II AI-Native, Circle Expansion  | [Life360](https://life360.com) | $148K–$216K/yr | May 14 | [Apply](https://job-boards.greenhouse.io/life360/jobs/8550858002) |

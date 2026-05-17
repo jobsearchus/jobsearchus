@@ -2,12 +2,13 @@
 
 Remote operations and business operations roles across industries.
 
-**20 open roles** — Last updated: 2026-05-17
+**22 open roles** — Last updated: 2026-05-17
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Associate, Field Deployment Operations | [RADAR](https://goradar.com) | $75K–$100K/yr | May 15 | [Apply](https://job-boards.greenhouse.io/radar/jobs/7852303) |
 | Business Analyst | [Genpak LLC](https://genpak-llc-2) | — | May 15 | [Apply](https://job-boards.eu.greenhouse.io/valtech/jobs/4868490101) |
 | Business Analyst | [Genpak LLC](https://genpak-llc-2) | — | May 15 | [Apply](https://job-boards.eu.greenhouse.io/valtech/jobs/4868064101) |
 | Revenue Strategy and Operations | [Clipboard](https://clipboardhealth.com) | — | May 15 | [Apply](https://jobs.ashbyhq.com/clipboard/2ca7fa94-6b57-4358-9105-857b911c15f7) |
@@ -15,6 +16,7 @@ Remote operations and business operations roles across industries.
 | Business Owners - Freelance AI Trainer Project | [Agency](https://getagency.com) | $100/yr | May 15 | [Apply](https://job-boards.eu.greenhouse.io/agency/jobs/4868455101) |
 | Manager, Customer Success Operations, Terminations and Deconversions | [Human Interest](https://humaninterest.com) | $75K–$90K/yr | May 15 | [Apply](https://job-boards.greenhouse.io/humaninterest/jobs/7927328) |
 | Heavy Equipment Operator (Contract) – Fly-In-Fly-Out | [Anglo American](https://angloamerican.com) | — | May 15 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000126724267) |
+| Middle Client Delivery Manager | [GR8 Tech](https://gr8.com) | — | May 15 | [Apply](https://job-boards.eu.greenhouse.io/gr8tech/jobs/4866990101) |
 | Manager, Business Systems | [IonQ](https://ionq.com) | $128K–$167K/yr | May 15 | [Apply](https://job-boards.greenhouse.io/ionq/jobs/5994825004) |
 | Vice President, Operational Excellence & Chief of Staff | [Omada Health](https://omadahealth.com) | $243K–$304K/yr | May 14 | [Apply](https://job-boards.greenhouse.io/omadahealth/jobs/7918592) |
 | Credentialing Specialist | [BetterHelp](https://betterhelp.com) | $30/yr | May 14 | [Apply](https://job-boards.greenhouse.io/betterhelpcom/jobs/5219734008) |

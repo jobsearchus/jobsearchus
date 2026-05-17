@@ -2,7 +2,7 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**22 open roles** — Last updated: 2026-05-17
+**23 open roles** — Last updated: 2026-05-17
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -13,6 +13,7 @@ Remote marketing roles across growth, content, brand, and performance channels.
 | Generative Engine Optimization (GEO) Manager | [Teleport](https://goteleport.com) | — | May 15 | [Apply](https://jobs.ashbyhq.com/goteleport/33e4767b-6ad1-4a34-950a-4df4287d1287) |
 | Senior Product Marketing Manager, Packaging, Pricing and Enterprise Commercialization | [Boulevard](https://joinblvd.com) | $123K–$154K/yr | May 15 | [Apply](https://job-boards.greenhouse.io/boulevard/jobs/4678942006) |
 | Marketing Technical Onboarding Manager | [Moxie](https://joinmoxie.com) | — | May 15 | [Apply](https://jobs.ashbyhq.com/moxie/e2cf33a4-58ed-4e62-85d9-3bdd042f1e3a) |
+| Head of Brand Marketing & Strategy | [OnePay](https://onepay.com) | — | May 15 | [Apply](https://jobs.ashbyhq.com/oneapp/e5623ab0-2929-4018-9422-f67610110941) |
 | Field Marketing Specialist (RoA) | [Twilio](https://twilio.com) | — | May 15 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7923205) |
 | Head of Performance Marketing | [OnePay](https://onepay.com) | — | May 14 | [Apply](https://jobs.ashbyhq.com/oneapp/a5350ce1-cfa5-4dde-9a03-e6f31aaf84d5) |
 | Head of Social | [OnePay](https://onepay.com) | — | May 14 | [Apply](https://jobs.ashbyhq.com/oneapp/e4f6ceb3-2738-409b-8b55-6057acffe284) |

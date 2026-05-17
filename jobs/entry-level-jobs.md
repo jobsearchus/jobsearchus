@@ -2,7 +2,7 @@
 
 Remote jobs open to candidates with 0–2 years of experience. A real way in — no degree gatekeeping.
 
-**12 open roles** — Last updated: 2026-05-17
+**13 open roles** — Last updated: 2026-05-17
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -10,6 +10,7 @@ Remote jobs open to candidates with 0–2 years of experience. A real way in —
 | --- | --- | --- | --- | --- |
 | Customer Support Specialist  | [Roofr](https://roofr.com) | — | May 15 | [Apply](https://job-boards.greenhouse.io/roofr/jobs/4696158005) |
 | Revenue Strategy and Operations | [Clipboard](https://clipboardhealth.com) | — | May 15 | [Apply](https://jobs.ashbyhq.com/clipboard/2ca7fa94-6b57-4358-9105-857b911c15f7) |
+| AI Engineering Summer Intern | [Arine](https://arine.com) | — | May 15 | [Apply](https://job-boards.greenhouse.io/arine/jobs/5997169004) |
 | Junior Payments Monitoring Specialist | [Growe](https://growe.com) | — | May 15 | [Apply](https://job-boards.eu.greenhouse.io/growe/jobs/4866760101) |
 | Sales Development Representative - Israel - Remote | [Grafana Labs](https://grafana.com) | — | May 15 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/5996829004) |
 | Sales Development Representative - Spain - Remote | [Grafana Labs](https://grafana.com) | — | May 15 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/5996827004) |

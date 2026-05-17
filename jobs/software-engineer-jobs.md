@@ -2,7 +2,7 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**49 open roles** — Last updated: 2026-05-17
+**53 open roles** — Last updated: 2026-05-17
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -14,12 +14,16 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Staff Software Engineer, AI Platform | [Flex](https://withflex.com) | — | May 15 | [Apply](https://job-boards.greenhouse.io/flex/jobs/4696189005) |
 | Chief Architect | [SecurityScorecard](https://securityscorecard.com) | — | May 15 | [Apply](https://job-boards.greenhouse.io/securityscorecard/jobs/7909890) |
 | Demo Engineer | [Cresta](https://cresta.com) | $135K–$160K/yr | May 15 | [Apply](https://job-boards.greenhouse.io/cresta/jobs/5216772008) |
+| Staff Engineer (AI-Native) (Full time contractor - India) | [Nerdy](https://nerdy.com) | — | May 15 | [Apply](https://job-boards.greenhouse.io/nerdy/jobs/7931311) |
+| Delivery Principal | [Genpak LLC](https://genpak-llc-2) | — | May 15 | [Apply](https://jobs.lever.co/liatrio/2c7de28b-7ace-4742-a601-eef8f8769a3b) |
 | Sr. ARI Specialist-LATAM | [Engine](https://engine.com) | — | May 15 | [Apply](https://job-boards.greenhouse.io/engine/jobs/7734654003) |
 | AV & Event Engineer L4 | [Twilio](https://twilio.com) | — | May 15 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7927688) |
 | Senior Analytics Engineer | [Moxie](https://joinmoxie.com) | — | May 15 | [Apply](https://jobs.ashbyhq.com/moxie/cbfbd32b-cbb8-46cb-9417-ae9bee42f747) |
 | Engineering Manager, Core Product | [Discord](https://discord.com) | $248K–$279K/yr | May 15 | [Apply](https://job-boards.greenhouse.io/discord/jobs/8552176002) |
 | Salesforce Consultant, Managed Services | [NeuraFlash](https://neuraflash.com) | — | May 15 | [Apply](https://job-boards.greenhouse.io/neuraflash/jobs/5997113004) |
+| Senior Technical Architect | [Slingshot Aerospace](https://slingshotaerospace.com) | $175K–$250K/yr | May 15 | [Apply](https://job-boards.greenhouse.io/slingshotaerospace/jobs/5997017004?gh_jid=5997017004) |
 | Senior Software Engineer - NewMarkets Japan | [Alpaca](https://alpaca.markets) | — | May 15 | [Apply](https://job-boards.greenhouse.io/alpaca/jobs/5996733004) |
+| Software Engineer (L2) Segment Team | [Twilio](https://twilio.com) | — | May 15 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7767263) |
 | Technical Architect | [NEC Software Solutions](https://necsoftwaresolutions.com) | — | May 15 | [Apply](https://api.smartrecruiters.com/v1/companies/NECSWS/postings/744000126676850) |
 | Senior Mobile Engineer with Flutter | [Accesa](https://accesa.com) | — | May 15 | [Apply](https://api.smartrecruiters.com/v1/companies/ACCESA/postings/744000126667139) |
 | Researcher | [Miratech](https://miratech.com) | — | May 15 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000126656469) |

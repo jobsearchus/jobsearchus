@@ -2,13 +2,14 @@
 
 DevOps, platform engineering, and infrastructure roles. AWS, GCP, Kubernetes, Terraform.
 
-**2 open roles** — Last updated: 2026-05-17
+**3 open roles** — Last updated: 2026-05-17
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Posted | Apply |
 | --- | --- | --- | --- |
 | DevOps Engineer | [Natera](https://natera.com) | May 15 | [Apply](https://job-boards.greenhouse.io/natera/jobs/5990785004) |
+| DevOps (AWS / Kubernetes / Terraform) | [Mutt Data](https://muttdata.com) | May 15 | [Apply](https://jobs.lever.co/muttdata/1ba6c094-ef9d-48c0-b192-a33419e76b23) |
 | DevOps Engineer (RPA) | [Coherent Solutions](https://coherentsolutions.com) | Apr 24 | [Apply](https://job-boards.eu.greenhouse.io/coherentsolutions/jobs/4835567101) |
 
 ---
