@@ -2,14 +2,17 @@
 
 Remote jobs open to candidates with 0–2 years of experience. A real way in — no degree gatekeeping.
 
-**9 open roles** — Last updated: 2026-05-16
+**12 open roles** — Last updated: 2026-05-17
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Customer Support Specialist  | [Roofr](https://roofr.com) | — | May 15 | [Apply](https://job-boards.greenhouse.io/roofr/jobs/4696158005) |
 | Revenue Strategy and Operations | [Clipboard](https://clipboardhealth.com) | — | May 15 | [Apply](https://jobs.ashbyhq.com/clipboard/2ca7fa94-6b57-4358-9105-857b911c15f7) |
 | Junior Payments Monitoring Specialist | [Growe](https://growe.com) | — | May 15 | [Apply](https://job-boards.eu.greenhouse.io/growe/jobs/4866760101) |
+| Sales Development Representative - Israel - Remote | [Grafana Labs](https://grafana.com) | — | May 15 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/5996829004) |
+| Sales Development Representative - Spain - Remote | [Grafana Labs](https://grafana.com) | — | May 15 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/5996827004) |
 | Associate, Product Support | [ShopMy](https://shopmy.us) | — | May 14 | [Apply](https://job-boards.greenhouse.io/shopmy/jobs/5221284008) |
 | Credentialing Specialist | [BetterHelp](https://betterhelp.com) | $30/yr | May 14 | [Apply](https://job-boards.greenhouse.io/betterhelpcom/jobs/5219734008) |
 | Email Developer (Fundraising) (1 year Contract) | [Wikimedia Foundation](https://wikimediafoundation.org) | — | May 14 | [Apply](https://job-boards.greenhouse.io/wikimedia/jobs/7920924) |

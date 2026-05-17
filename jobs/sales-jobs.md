@@ -2,7 +2,7 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**34 open roles** — Last updated: 2026-05-16
+**37 open roles** — Last updated: 2026-05-17
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -15,6 +15,9 @@ Remote sales roles — account executives, SDRs, and enterprise deals.
 | Senior Solution Architect  | [Honeycomb.io](https://honeycomb.io) | — | May 15 | [Apply](https://job-boards.greenhouse.io/honeycomb/jobs/5215886008) |
 | Digital Sales Representative 3 - Twilio.org | [Twilio](https://twilio.com) | $36/yr | May 15 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7912738) |
 | Enterprise Account Executive - UK | [Chainguard](https://chainguard.dev) | — | May 15 | [Apply](https://job-boards.greenhouse.io/chainguard/jobs/4675783006) |
+| Sales Development Representative - Israel - Remote | [Grafana Labs](https://grafana.com) | — | May 15 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/5996829004) |
+| Sales Development Representative - Spain - Remote | [Grafana Labs](https://grafana.com) | — | May 15 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/5996827004) |
+| Customer Success Renewals Representative, Velocity | [Veeam Software](https://veeam.com) | — | May 15 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4865963101) |
 | Strategic Partner Manager | [Deepgram](https://deepgram.com) | — | May 15 | [Apply](https://jobs.ashbyhq.com/deepgram/623dcf1a-becc-4cab-85a3-eb7ebe37e3c0) |
 | GSI Partner Director | [Deepgram](https://deepgram.com) | — | May 15 | [Apply](https://jobs.ashbyhq.com/deepgram/4ccf6612-92c5-49f4-9044-b4bed37c97d4) |
 | Senior Solutions Consultant | [Apollo.io](https://apollo.io) | — | May 14 | [Apply](https://job-boards.greenhouse.io/apolloio/jobs/5995870004) |

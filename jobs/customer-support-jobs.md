@@ -2,7 +2,7 @@
 
 Remote customer support and success roles across SaaS, e-commerce, and tech.
 
-**15 open roles** — Last updated: 2026-05-16
+**17 open roles** — Last updated: 2026-05-17
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -10,7 +10,9 @@ Remote customer support and success roles across SaaS, e-commerce, and tech.
 | --- | --- | --- | --- | --- |
 | Senior Technical Customer Success Manager | [Honeycomb.io](https://honeycomb.io) | — | May 15 | [Apply](https://job-boards.greenhouse.io/honeycomb/jobs/5220993008) |
 | Customer Success Manager II  | [Calendly](https://calendly.com) | — | May 15 | [Apply](https://job-boards.greenhouse.io/calendly/jobs/8552564002) |
+| Customer Support Specialist  | [Roofr](https://roofr.com) | — | May 15 | [Apply](https://job-boards.greenhouse.io/roofr/jobs/4696158005) |
 | Senior Strategic Customer Success Manager | [Calendly](https://calendly.com) | $40K/yr | May 15 | [Apply](https://job-boards.greenhouse.io/calendly/jobs/8552302002) |
+| Operations Associate | [Truebill](https://truebill.com) | $24/yr | May 15 | [Apply](https://job-boards.greenhouse.io/truebill/jobs/7735322003) |
 | Customer Success Manager - APJ | [GitLab](https://about.gitlab.com) | — | May 14 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8548980002) |
 | Customer Success Engineer - West  | [GitLab](https://about.gitlab.com) | — | May 14 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8550268002) |
 | Customer Success Manager - Key | [SugarCRM](https://sugarcrm.com) | — | May 14 | [Apply](https://jobs.lever.co/sugarcrm/3025bc0f-01a6-466b-b3ff-823ed04a4b36) |

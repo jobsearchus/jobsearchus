@@ -2,12 +2,14 @@
 
 Remote operations and business operations roles across industries.
 
-**18 open roles** — Last updated: 2026-05-16
+**20 open roles** — Last updated: 2026-05-17
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Business Analyst | [Genpak LLC](https://genpak-llc-2) | — | May 15 | [Apply](https://job-boards.eu.greenhouse.io/valtech/jobs/4868490101) |
+| Business Analyst | [Genpak LLC](https://genpak-llc-2) | — | May 15 | [Apply](https://job-boards.eu.greenhouse.io/valtech/jobs/4868064101) |
 | Revenue Strategy and Operations | [Clipboard](https://clipboardhealth.com) | — | May 15 | [Apply](https://jobs.ashbyhq.com/clipboard/2ca7fa94-6b57-4358-9105-857b911c15f7) |
 | Principal Businesss Operations, Data & Insights | [Moxie](https://joinmoxie.com) | — | May 15 | [Apply](https://jobs.ashbyhq.com/moxie/e7c8ff9c-967d-4049-b2ad-05a49b1a53d1) |
 | Business Owners - Freelance AI Trainer Project | [Agency](https://getagency.com) | $100/yr | May 15 | [Apply](https://job-boards.eu.greenhouse.io/agency/jobs/4868455101) |
