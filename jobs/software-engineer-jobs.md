@@ -2,12 +2,15 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**53 open roles** — Last updated: 2026-05-17
+**56 open roles** — Last updated: 2026-05-17
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Associate Staff Engineer, Salesforce Health Cloud | [Nagarro](https://nagarro.com) | — | May 16 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000126809629) |
+| Staff Engineer , Salesforce Health Cloud | [Nagarro](https://nagarro.com) | — | May 16 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000126809589) |
+| Staff Engineer | [Nagarro](https://nagarro.com) | — | May 16 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000126808669) |
 | Business Operations Specialist  | [Varicent](https://varicent.com) | — | May 15 | [Apply](https://job-boards.greenhouse.io/varicent/jobs/5222812008) |
 | Business Operations Specialist  | [Varicent](https://varicent.com) | — | May 15 | [Apply](https://job-boards.greenhouse.io/varicent/jobs/5222810008) |
 | Engineering Operations Specialist | [Varicent](https://varicent.com) | — | May 15 | [Apply](https://job-boards.greenhouse.io/varicent/jobs/5219003008) |
