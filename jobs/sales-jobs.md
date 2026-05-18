@@ -2,12 +2,14 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**38 open roles** — Last updated: 2026-05-18
+**40 open roles** — Last updated: 2026-05-18
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Solution Engineer | [Snowflake](https://snowflake.com) | — | May 18 | [Apply](https://jobs.ashbyhq.com/snowflake/00898e37-87aa-47e6-9df7-aefabac4ab01) |
+| Account Manager DACH | [RTB House](https://rtbhouse.com) | — | May 18 | [Apply](https://job-boards.eu.greenhouse.io/rtbhouse/jobs/4869107101) |
 | Advisor | [Realm](https://realm.io) | $50K–$65K/yr | May 16 | [Apply](https://job-boards.greenhouse.io/realm/jobs/4696235005) |
 | Director of Strategic Partnerships | [InHomeTherapy](https://inhometherapy.com) | — | May 15 | [Apply](https://job-boards.greenhouse.io/inhometherapy/jobs/5139569007) |
 | Outbound Business Development Manager  | [Customer.io](https://customer.io) | — | May 15 | [Apply](https://job-boards.greenhouse.io/customerio/jobs/7923377) |

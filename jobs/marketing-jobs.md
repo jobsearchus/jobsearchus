@@ -2,12 +2,15 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**23 open roles** — Last updated: 2026-05-18
+**26 open roles** — Last updated: 2026-05-18
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Web Strategy & Growth Manager | [Tailscale](https://tailscale.com) | — | May 18 | [Apply](https://job-boards.greenhouse.io/tailscale/jobs/4695882005) |
+| Web Strategy & Growth Manager | [Tailscale](https://tailscale.com) | — | May 18 | [Apply](https://job-boards.greenhouse.io/tailscale/jobs/4696291005) |
+| PR Marketing Manager (relocation to Portugal) | [Medier](https://medier.com) | — | May 18 | [Apply](https://job-boards.eu.greenhouse.io/medier/jobs/4845241101) |
 | Senior Manager of Provider Brand and Integrated Marketing | [BetterHelp](https://betterhelp.com) | $170K–$200K/yr | May 15 | [Apply](https://job-boards.greenhouse.io/betterhelpcom/jobs/5222761008) |
 | Demand Generation Manager, ABM | [Customer.io](https://customer.io) | — | May 15 | [Apply](https://job-boards.greenhouse.io/customerio/jobs/7931622) |
 | Generative Engine Optimization (GEO) Manager | [Teleport](https://goteleport.com) | — | May 15 | [Apply](https://jobs.ashbyhq.com/goteleport/33e4767b-6ad1-4a34-950a-4df4287d1287) |

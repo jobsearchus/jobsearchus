@@ -2,12 +2,13 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**48 open roles** — Last updated: 2026-05-18
+**49 open roles** — Last updated: 2026-05-18
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Customer Success Manager | [Buildkite](https://buildkite.com) | $140K–$155K/yr | May 18 | [Apply](https://job-boards.greenhouse.io/buildkite/jobs/5221619008) |
 | Principal Product Designer, Devices | [Life360](https://life360.com) | $171K–$252K/yr | May 15 | [Apply](https://job-boards.greenhouse.io/life360/jobs/8553069002) |
 | Staff Product Designer | [Customer.io](https://customer.io) | $205K–$228K/yr | May 15 | [Apply](https://job-boards.greenhouse.io/customerio/jobs/7931819) |
 | Senior Manager of Provider Brand and Integrated Marketing | [BetterHelp](https://betterhelp.com) | $170K–$200K/yr | May 15 | [Apply](https://job-boards.greenhouse.io/betterhelpcom/jobs/5222761008) |
