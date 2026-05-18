@@ -2,21 +2,26 @@
 
 Fully remote jobs across all roles and industries. No office. No commute. Apply directly from company career pages.
 
-**270 open roles** — Last updated: 2026-05-18
+**275 open roles** — Last updated: 2026-05-18
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Associate Staff Engineer, Salesforce Sales & Service Cloud | [Nagarro](https://nagarro.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000127058199) |
+| Risk & Business Governance Analyst Professional – Data, Privacy | [Experian](https://experianplc.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000127054764) |
+| Associate Staff Engineer, Salesforce Sales & Service Cloud | [Nagarro](https://nagarro.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000127053770) |
+| Senior Application Database Administrator (SQL Server) | [Experian](https://experianplc.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000127049049) |
 | Business Development Associate | [Affirm](https://affirm.com) | $66K–$96K/yr | May 18 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7712707003) |
 | Senior Software Engineer, Backend (Payments) | [Affirm](https://affirm.com) | £117K–£157K/yr | May 18 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7737155003) |
 | Senior Manager, Portfolio Management | [Crux](https://cruxclimate.com) | — | May 18 | [Apply](https://jobs.ashbyhq.com/cruxclimate/aee827f6-09f6-415e-8e61-c3962b6e8588) |
 | Senior Backend Engineer | [Job Board](https://corelight.com) | $180K–$214K/yr | May 18 | [Apply](https://boards.greenhouse.io/corelight/jobs/7926834?gh_jid=7926834) |
 | Senior Solution Engineer | [Snowflake](https://snowflake.com) | — | May 18 | [Apply](https://jobs.ashbyhq.com/snowflake/00898e37-87aa-47e6-9df7-aefabac4ab01) |
+| User Support Specialist - freelancer | [Netcompany](https://netcompany.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000126979639) |
 | Java developer (RPA) | [Coherent Solutions](https://coherentsolutions.com) | — | May 18 | [Apply](https://job-boards.eu.greenhouse.io/coherentsolutions/jobs/4868391101) |
 | Account Manager DACH | [RTB House](https://rtbhouse.com) | — | May 18 | [Apply](https://job-boards.eu.greenhouse.io/rtbhouse/jobs/4869107101) |
-| Web Strategy & Growth Manager | [Tailscale](https://tailscale.com) | — | May 18 | [Apply](https://job-boards.greenhouse.io/tailscale/jobs/4696291005) |
 | Web Strategy & Growth Manager | [Tailscale](https://tailscale.com) | — | May 18 | [Apply](https://job-boards.greenhouse.io/tailscale/jobs/4695882005) |
+| Web Strategy & Growth Manager | [Tailscale](https://tailscale.com) | — | May 18 | [Apply](https://job-boards.greenhouse.io/tailscale/jobs/4696291005) |
 | Customer Care Agent (Remote) | [Delivery Hero](https://deliveryhero.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000126965660) |
 | PR Marketing Manager (relocation to Portugal) | [Medier](https://medier.com) | — | May 18 | [Apply](https://job-boards.eu.greenhouse.io/medier/jobs/4845241101) |
 | Software Engineer (L2) | [Twilio](https://twilio.com) | — | May 18 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7926889) |
@@ -267,8 +272,8 @@ Fully remote jobs across all roles and industries. No office. No commute. Apply 
 | Treasury Manager | [KOHO](https://koho.ca) | — | Apr 24 | [Apply](https://jobs.ashbyhq.com/koho/404b7a31-769e-4791-80d5-d47235245666) |
 | SecOps Engineer (AppSec) | [Volito Aviation August 2007](https://trustly.com) | — | Apr 24 | [Apply](https://jobs.lever.co/trustly/59926e0a-5a62-4267-91d7-b46e660b60fa) |
 | AI Staff Software Engineer | [Natera](https://natera.com) | — | Apr 24 | [Apply](https://job-boards.greenhouse.io/natera/jobs/5980884004) |
-| Senior Sales Enablement Specialist | [Dragos](https://dragos.com) | — | Apr 24 | [Apply](https://job-boards.greenhouse.io/dragos/jobs/5175031008) |
 | Senior Software Engineer I, L3 Applications Team | [CareMessage](https://caremessage.org) | — | Apr 24 | [Apply](https://jobs.lever.co/caremessage/5ecbb8b3-da30-43ef-bbce-1cf81aa85591) |
+| Senior Sales Enablement Specialist | [Dragos](https://dragos.com) | — | Apr 24 | [Apply](https://job-boards.greenhouse.io/dragos/jobs/5175031008) |
 | Director of Engineering, Loki Databases - USA - Remote | [Grafana Labs](https://grafana.com) | — | Apr 24 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/5764787004) |
 | Engineering Manager - Site Reliability Engineering | [Kraken](https://kraken.com) | — | Apr 24 | [Apply](https://jobs.ashbyhq.com/kraken.com/705183dd-b651-4c54-a52e-3651dd3b9d40) |
 | Senior SEO Manager | [Holywater](https://holywater.com) | — | Apr 24 | [Apply](https://jobs.ashbyhq.com/holywater/06679c0d-f520-4c71-91a5-81f3fe3514c8) |
