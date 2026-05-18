@@ -2,12 +2,14 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**49 open roles** — Last updated: 2026-05-18
+**51 open roles** — Last updated: 2026-05-18
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Software Engineer, Backend (Payments) | [Affirm](https://affirm.com) | £117K–£157K/yr | May 18 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7737155003) |
+| Senior Backend Engineer | [Job Board](https://corelight.com) | $180K–$214K/yr | May 18 | [Apply](https://boards.greenhouse.io/corelight/jobs/7926834?gh_jid=7926834) |
 | Customer Success Manager | [Buildkite](https://buildkite.com) | $140K–$155K/yr | May 18 | [Apply](https://job-boards.greenhouse.io/buildkite/jobs/5221619008) |
 | Principal Product Designer, Devices | [Life360](https://life360.com) | $171K–$252K/yr | May 15 | [Apply](https://job-boards.greenhouse.io/life360/jobs/8553069002) |
 | Staff Product Designer | [Customer.io](https://customer.io) | $205K–$228K/yr | May 15 | [Apply](https://job-boards.greenhouse.io/customerio/jobs/7931819) |

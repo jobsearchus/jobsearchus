@@ -2,22 +2,30 @@
 
 Fully remote jobs across all roles and industries. No office. No commute. Apply directly from company career pages.
 
-**262 open roles** — Last updated: 2026-05-18
+**270 open roles** — Last updated: 2026-05-18
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Business Development Associate | [Affirm](https://affirm.com) | $66K–$96K/yr | May 18 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7712707003) |
+| Senior Software Engineer, Backend (Payments) | [Affirm](https://affirm.com) | £117K–£157K/yr | May 18 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7737155003) |
+| Senior Manager, Portfolio Management | [Crux](https://cruxclimate.com) | — | May 18 | [Apply](https://jobs.ashbyhq.com/cruxclimate/aee827f6-09f6-415e-8e61-c3962b6e8588) |
+| Senior Backend Engineer | [Job Board](https://corelight.com) | $180K–$214K/yr | May 18 | [Apply](https://boards.greenhouse.io/corelight/jobs/7926834?gh_jid=7926834) |
 | Senior Solution Engineer | [Snowflake](https://snowflake.com) | — | May 18 | [Apply](https://jobs.ashbyhq.com/snowflake/00898e37-87aa-47e6-9df7-aefabac4ab01) |
 | Java developer (RPA) | [Coherent Solutions](https://coherentsolutions.com) | — | May 18 | [Apply](https://job-boards.eu.greenhouse.io/coherentsolutions/jobs/4868391101) |
 | Account Manager DACH | [RTB House](https://rtbhouse.com) | — | May 18 | [Apply](https://job-boards.eu.greenhouse.io/rtbhouse/jobs/4869107101) |
-| Web Strategy & Growth Manager | [Tailscale](https://tailscale.com) | — | May 18 | [Apply](https://job-boards.greenhouse.io/tailscale/jobs/4695882005) |
 | Web Strategy & Growth Manager | [Tailscale](https://tailscale.com) | — | May 18 | [Apply](https://job-boards.greenhouse.io/tailscale/jobs/4696291005) |
+| Web Strategy & Growth Manager | [Tailscale](https://tailscale.com) | — | May 18 | [Apply](https://job-boards.greenhouse.io/tailscale/jobs/4695882005) |
 | Customer Care Agent (Remote) | [Delivery Hero](https://deliveryhero.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000126965660) |
 | PR Marketing Manager (relocation to Portugal) | [Medier](https://medier.com) | — | May 18 | [Apply](https://job-boards.eu.greenhouse.io/medier/jobs/4845241101) |
+| Software Engineer (L2) | [Twilio](https://twilio.com) | — | May 18 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7926889) |
+| Senior .NET Developer | [Genpak LLC](https://genpak-llc-2) | — | May 18 | [Apply](https://job-boards.eu.greenhouse.io/growetalents/jobs/4830797101) |
 | Senior .NET Developer | [Growe](https://growe.com) | — | May 18 | [Apply](https://job-boards.eu.greenhouse.io/growe/jobs/4830796101) |
+| Site Reliability Engineer (f/m/d) | [Genpak LLC](https://genpak-llc-2) | — | May 18 | [Apply](https://job-boards.eu.greenhouse.io/ecosio/jobs/4868871101) |
 | Transporter (TB) | [Continental](https://continentalserves.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000126910409) |
 | Customer Success Manager | [Buildkite](https://buildkite.com) | $140K–$155K/yr | May 18 | [Apply](https://job-boards.greenhouse.io/buildkite/jobs/5221619008) |
+| Senior Android Engineer (PIA) | [ExpressVPN](https://expressvpn.com) | — | May 18 | [Apply](https://job-boards.greenhouse.io/expressvpn/jobs/8549218002) |
 | Associate Staff Engineer, Salesforce Health Cloud | [Nagarro](https://nagarro.com) | — | May 16 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000126809629) |
 | Staff Engineer , Salesforce Health Cloud | [Nagarro](https://nagarro.com) | — | May 16 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000126809589) |
 | Staff Engineer | [Nagarro](https://nagarro.com) | — | May 16 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000126808669) |

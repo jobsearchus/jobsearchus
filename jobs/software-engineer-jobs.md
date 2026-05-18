@@ -2,13 +2,15 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**59 open roles** — Last updated: 2026-05-18
+**61 open roles** — Last updated: 2026-05-18
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Software Engineer (L2) | [Twilio](https://twilio.com) | — | May 18 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7926889) |
 | Transporter (TB) | [Continental](https://continentalserves.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000126910409) |
+| Senior Android Engineer (PIA) | [ExpressVPN](https://expressvpn.com) | — | May 18 | [Apply](https://job-boards.greenhouse.io/expressvpn/jobs/8549218002) |
 | Associate Staff Engineer, Salesforce Health Cloud | [Nagarro](https://nagarro.com) | — | May 16 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000126809629) |
 | Staff Engineer , Salesforce Health Cloud | [Nagarro](https://nagarro.com) | — | May 16 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000126809589) |
 | Staff Engineer | [Nagarro](https://nagarro.com) | — | May 16 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000126808669) |

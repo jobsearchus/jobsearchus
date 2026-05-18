@@ -2,12 +2,13 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**11 open roles** — Last updated: 2026-05-18
+**12 open roles** — Last updated: 2026-05-18
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Manager, Portfolio Management | [Crux](https://cruxclimate.com) | — | May 18 | [Apply](https://jobs.ashbyhq.com/cruxclimate/aee827f6-09f6-415e-8e61-c3962b6e8588) |
 | Junior Payments Monitoring Specialist | [Growe](https://growe.com) | — | May 15 | [Apply](https://job-boards.eu.greenhouse.io/growe/jobs/4866760101) |
 | Payments Monitoring Specialist | [Genpak LLC](https://genpak-llc-2) | — | May 15 | [Apply](https://job-boards.eu.greenhouse.io/growetalents/jobs/4866761101) |
 |  Payroll Manager US & Canada | [Varicent](https://varicent.com) | — | May 15 | [Apply](https://job-boards.greenhouse.io/varicent/jobs/5221595008) |

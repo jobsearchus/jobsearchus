@@ -1,8 +1,8 @@
 # JobSearchUs — Remote Job Listings
 
-[![262 remote jobs](https://img.shields.io/badge/remote%20jobs-262-blue?style=flat-square)](https://www.jobsearchus.com)  [![Updated 2026-05-18](https://img.shields.io/badge/updated-2026-05-18-lightgrey?style=flat-square)](https://github.com/jobsearchus/jobsearchus)
+[![270 remote jobs](https://img.shields.io/badge/remote%20jobs-270-blue?style=flat-square)](https://www.jobsearchus.com)  [![Updated 2026-05-18](https://img.shields.io/badge/updated-2026-05-18-lightgrey?style=flat-square)](https://github.com/jobsearchus/jobsearchus)
 
-**262 remote jobs** across 21 categories — updated 2026-05-18
+**270 remote jobs** across 21 categories — updated 2026-05-18
 
 Fresh remote jobs pulled straight from company career pages — not recycled from job boards.
 Updated 5 times a day across 5,500+ companies worldwide.
@@ -23,24 +23,24 @@ Full job board with filters: **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Category | Open Roles | Link |
 | --- | --- | --- |
-| Work From Home Jobs | 262 | [View →](jobs/work-from-home-jobs.md) |
-| $100K+ Remote Jobs | 49 | [View →](jobs/100k-plus-jobs.md) |
-| Entry Level Remote Jobs | 13 | [View →](jobs/entry-level-jobs.md) |
-| Software Engineer Jobs | 59 | [View →](jobs/software-engineer-jobs.md) |
-| Backend Jobs | 5 | [View →](jobs/backend-jobs.md) |
+| Work From Home Jobs | 270 | [View →](jobs/work-from-home-jobs.md) |
+| $100K+ Remote Jobs | 51 | [View →](jobs/100k-plus-jobs.md) |
+| Entry Level Remote Jobs | 14 | [View →](jobs/entry-level-jobs.md) |
+| Software Engineer Jobs | 61 | [View →](jobs/software-engineer-jobs.md) |
+| Backend Jobs | 7 | [View →](jobs/backend-jobs.md) |
 | Fullstack Jobs | 2 | [View →](jobs/fullstack-jobs.md) |
-| Developer Jobs | 5 | [View →](jobs/developer-jobs.md) |
+| Developer Jobs | 6 | [View →](jobs/developer-jobs.md) |
 | DevOps Jobs | 3 | [View →](jobs/devops-jobs.md) |
-| Site Reliability Engineer Jobs | 2 | [View →](jobs/site-reliability-engineer-jobs.md) |
+| Site Reliability Engineer Jobs | 3 | [View →](jobs/site-reliability-engineer-jobs.md) |
 | Data Science Jobs | 7 | [View →](jobs/data-science-jobs.md) |
 | Quality Assurance Jobs | 1 | [View →](jobs/quality-assurance-jobs.md) |
 | Product Manager Jobs | 4 | [View →](jobs/product-manager-jobs.md) |
 | Project Manager Jobs | 2 | [View →](jobs/project-manager-jobs.md) |
 | UI/UX Jobs | 5 | [View →](jobs/ui-ux-jobs.md) |
 | Marketing Jobs | 26 | [View →](jobs/marketing-jobs.md) |
-| Sales Jobs | 40 | [View →](jobs/sales-jobs.md) |
+| Sales Jobs | 41 | [View →](jobs/sales-jobs.md) |
 | Customer Support Jobs | 19 | [View →](jobs/customer-support-jobs.md) |
-| Finance Jobs | 11 | [View →](jobs/finance-jobs.md) |
+| Finance Jobs | 12 | [View →](jobs/finance-jobs.md) |
 | HR Jobs | 3 | [View →](jobs/hr-jobs.md) |
 | Legal Jobs | 4 | [View →](jobs/legal-jobs.md) |
 | Operations Jobs | 22 | [View →](jobs/operations-jobs.md) |
