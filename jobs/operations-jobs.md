@@ -2,7 +2,7 @@
 
 Remote operations and business operations roles across industries.
 
-**22 open roles** — Last updated: 2026-05-17
+**22 open roles** — Last updated: 2026-05-18
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
