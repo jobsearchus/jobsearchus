@@ -2,15 +2,17 @@
 
 Fully remote jobs across all roles and industries. No office. No commute. Apply directly from company career pages.
 
-**251 open roles** — Last updated: 2026-05-18
+**253 open roles** — Last updated: 2026-05-18
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Transporter (TB) | [Continental](https://continentalserves.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000126910409) |
 | Associate Staff Engineer, Salesforce Health Cloud | [Nagarro](https://nagarro.com) | — | May 16 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000126809629) |
 | Staff Engineer , Salesforce Health Cloud | [Nagarro](https://nagarro.com) | — | May 16 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000126809589) |
 | Staff Engineer | [Nagarro](https://nagarro.com) | — | May 16 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000126808669) |
+| Associate Staff Engineer | [Nagarro](https://nagarro.com) | — | May 16 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000126808309) |
 | Advisor | [Realm](https://realm.io) | $50K–$65K/yr | May 16 | [Apply](https://job-boards.greenhouse.io/realm/jobs/4696235005) |
 | Software Engineer - Team Growth | [Clipboard](https://clipboardhealth.com) | — | May 15 | [Apply](https://jobs.ashbyhq.com/clipboard/e8f6d10c-61b7-42dd-978e-921004ea5a55) |
 | Principal Product Designer, Devices | [Life360](https://life360.com) | $171K–$252K/yr | May 15 | [Apply](https://job-boards.greenhouse.io/life360/jobs/8553069002) |
@@ -249,8 +251,8 @@ Fully remote jobs across all roles and industries. No office. No commute. Apply 
 | SecOps Engineer (AppSec) | [Volito Aviation August 2007](https://trustly.com) | — | Apr 24 | [Apply](https://jobs.lever.co/trustly/59926e0a-5a62-4267-91d7-b46e660b60fa) |
 | AI Staff Software Engineer | [Natera](https://natera.com) | — | Apr 24 | [Apply](https://job-boards.greenhouse.io/natera/jobs/5980884004) |
 | Director of Engineering, Loki Databases - USA - Remote | [Grafana Labs](https://grafana.com) | — | Apr 24 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/5764787004) |
-| Senior Software Engineer I, L3 Applications Team | [CareMessage](https://caremessage.org) | — | Apr 24 | [Apply](https://jobs.lever.co/caremessage/5ecbb8b3-da30-43ef-bbce-1cf81aa85591) |
 | Senior Sales Enablement Specialist | [Dragos](https://dragos.com) | — | Apr 24 | [Apply](https://job-boards.greenhouse.io/dragos/jobs/5175031008) |
+| Senior Software Engineer I, L3 Applications Team | [CareMessage](https://caremessage.org) | — | Apr 24 | [Apply](https://jobs.lever.co/caremessage/5ecbb8b3-da30-43ef-bbce-1cf81aa85591) |
 | Engineering Manager - Site Reliability Engineering | [Kraken](https://kraken.com) | — | Apr 24 | [Apply](https://jobs.ashbyhq.com/kraken.com/705183dd-b651-4c54-a52e-3651dd3b9d40) |
 | Senior SEO Manager | [Holywater](https://holywater.com) | — | Apr 24 | [Apply](https://jobs.ashbyhq.com/holywater/06679c0d-f520-4c71-91a5-81f3fe3514c8) |
 | DevOps Engineer (RPA) | [Coherent Solutions](https://coherentsolutions.com) | — | Apr 24 | [Apply](https://job-boards.eu.greenhouse.io/coherentsolutions/jobs/4835567101) |

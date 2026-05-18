@@ -2,15 +2,17 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**57 open roles** — Last updated: 2026-05-18
+**59 open roles** — Last updated: 2026-05-18
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Transporter (TB) | [Continental](https://continentalserves.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000126910409) |
 | Associate Staff Engineer, Salesforce Health Cloud | [Nagarro](https://nagarro.com) | — | May 16 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000126809629) |
 | Staff Engineer , Salesforce Health Cloud | [Nagarro](https://nagarro.com) | — | May 16 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000126809589) |
 | Staff Engineer | [Nagarro](https://nagarro.com) | — | May 16 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000126808669) |
+| Associate Staff Engineer | [Nagarro](https://nagarro.com) | — | May 16 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000126808309) |
 | Software Engineer - Team Growth | [Clipboard](https://clipboardhealth.com) | — | May 15 | [Apply](https://jobs.ashbyhq.com/clipboard/e8f6d10c-61b7-42dd-978e-921004ea5a55) |
 | Business Operations Specialist  | [Varicent](https://varicent.com) | — | May 15 | [Apply](https://job-boards.greenhouse.io/varicent/jobs/5222812008) |
 | Business Operations Specialist  | [Varicent](https://varicent.com) | — | May 15 | [Apply](https://job-boards.greenhouse.io/varicent/jobs/5222810008) |

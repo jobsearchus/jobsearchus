@@ -1,8 +1,8 @@
 # JobSearchUs — Remote Job Listings
 
-[![251 remote jobs](https://img.shields.io/badge/remote%20jobs-251-blue?style=flat-square)](https://www.jobsearchus.com)  [![Updated 2026-05-18](https://img.shields.io/badge/updated-2026-05-18-lightgrey?style=flat-square)](https://github.com/jobsearchus/jobsearchus)
+[![253 remote jobs](https://img.shields.io/badge/remote%20jobs-253-blue?style=flat-square)](https://www.jobsearchus.com)  [![Updated 2026-05-18](https://img.shields.io/badge/updated-2026-05-18-lightgrey?style=flat-square)](https://github.com/jobsearchus/jobsearchus)
 
-**251 remote jobs** across 21 categories — updated 2026-05-18
+**253 remote jobs** across 21 categories — updated 2026-05-18
 
 Fresh remote jobs pulled straight from company career pages — not recycled from job boards.
 Updated 5 times a day across 5,500+ companies worldwide.
@@ -23,10 +23,10 @@ Full job board with filters: **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Category | Open Roles | Link |
 | --- | --- | --- |
-| Work From Home Jobs | 251 | [View →](jobs/work-from-home-jobs.md) |
+| Work From Home Jobs | 253 | [View →](jobs/work-from-home-jobs.md) |
 | $100K+ Remote Jobs | 48 | [View →](jobs/100k-plus-jobs.md) |
 | Entry Level Remote Jobs | 13 | [View →](jobs/entry-level-jobs.md) |
-| Software Engineer Jobs | 57 | [View →](jobs/software-engineer-jobs.md) |
+| Software Engineer Jobs | 59 | [View →](jobs/software-engineer-jobs.md) |
 | Backend Jobs | 5 | [View →](jobs/backend-jobs.md) |
 | Fullstack Jobs | 2 | [View →](jobs/fullstack-jobs.md) |
 | Developer Jobs | 4 | [View →](jobs/developer-jobs.md) |
