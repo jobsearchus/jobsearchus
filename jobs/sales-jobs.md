@@ -2,22 +2,29 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**211 open roles** — Last updated: 2026-05-19
+**225 open roles** — Last updated: 2026-05-19
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Presales Architect | [Twilio](https://twilio.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7942258) |
+| Digital Sales Representative | [Twilio](https://twilio.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7875918) |
+| Business Development Director (CPG) | [The Trade Desk](https://thetradedesk.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5137713007) |
+| Account Development Representative - Central | [Job Board](https://corelight.com) | $180K–$214K/yr | May 19 | [Apply](https://boards.greenhouse.io/corelight/jobs/7942808?gh_jid=7942808) |
 | Strategic Account Manager | [Sardine](https://sardine.ai) | — | May 19 | [Apply](https://jobs.ashbyhq.com/sardine/84b8ff1e-81a2-44e7-9161-9ccd5e5b0cb3) |
+| Account Development Associate - Fever For Business  | [Fever](https://feverup.com) | — | May 19 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4871043101) |
 | Account Executive, Enterprise Sales | [Poka Labs](https://pokalabs.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/poka/jobs/5999919004) |
 | Director, Growth Marketing | [Figma](https://figma.com) | — | May 19 | [Apply](https://boards.greenhouse.io/figma/jobs/5998147004?gh_jid=5998147004) |
 | Market Ambassador - Nashville | [Odeko](https://odeko.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/odeko/jobs/5999821004) |
+| Account Manager, Small Business | [PandaDoc](https://pandadoc.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/pandadoc/jobs/7939539) |
 | Enterprise Account Manager | [Instawork](https://instawork.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/instawork/jobs/4682536006) |
 | Key Account Manager (Gerente de Contas Estratégicas) - São Paulo (Hybrid) | [Clara](https://clara.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/clara/jobs/5141446007) |
 | Account Manager S&M Cities Italy | [Delivery Hero](https://deliveryhero.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000127213115) |
 | Associate Account Executive @Advizex- New England, MA (Remote) | [Myriad360](https://myriad360.com) | $70K–$85K/yr | May 19 | [Apply](https://boards.greenhouse.io/myriad360/jobs/8556306002?gh_jid=8556306002) |
 | Lead Équipe Commerciale Autohero (H/F) | [AUTO1 Group](https://auto1-group.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000127197842) |
 | Corporate Sales Manager (Saudi National) | [ACCOR](https://group.accor.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000127197944) |
+| Account Executive | [Twilio](https://twilio.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7936698) |
 | VENDEUR CONSEIL - CDD H/F | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000127192309) |
 | Regional Manager, Strategic Accounts | [Razorpay Software Private Limited](https://razorpay.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4696274005) |
 | Business Development Manager | [Standard Bank](https://standardbank.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000127189509) |
@@ -29,7 +36,11 @@ Remote sales roles — account executives, SDRs, and enterprise deals.
 | Accessories Sales Manager (Automotive) | [MSX International](https://msxi.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013197978) |
 | Vendeur meuble F/H/X | [BUT](https://but.fr) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000127165119) |
 | Casual Sales Assistant - New Store Opening | [Frasers Group](https://frasersgroup.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000127160620) |
+| Enterprise Account Executive | [Box](https://box.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/boxinc/jobs/7921036) |
 | SAP Partnership Manager | [NanoNets](https://nanonets.com) | $240K–$350K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/nanonets/jobs/5224761008) |
+| Senior DevOps Engineer | [Ping Identity](https://pingidentity.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/pingidentity/jobs/8517548002) |
+| Designated Support Engineer III | [Zscaler](https://zscaler.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5136263007) |
+| Senior Software Engineer  | [Yubico Inc.](https://yubico.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/yubico/jobs/4251915009) |
 | ASSISTANT COMMERCIAL H/F/X EN CDI 39h | [Genpak LLC](https://genpak-llc-2) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000127139104) |
 | Inside Sales Specialist - New Zealand | [Too Good To Go](https://toogoodtogo.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/toogoodtogo/jobs/7738131003) |
 | Manager of Strategic Customer Success | [Ashby](https://ashbyhq.com) | — | May 19 | [Apply](https://jobs.ashbyhq.com/ashby/7a3ff629-6c67-4aa5-bea4-f1d88b3b4777) |
@@ -43,6 +54,7 @@ Remote sales roles — account executives, SDRs, and enterprise deals.
 | Customer Success Renewals Representative, Commercial, UK&I (fixed term) | [Veeam Software](https://veeam.com) | — | May 18 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4862019101) |
 | Dealership Technology Success Consultant | [MSX International](https://msxi.com) | $60K–$74K/yr | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013185946) |
 | Executivo Comercial IV - Vaga exclusiva para pessoa com deficiência | [Experian](https://experianplc.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000127054238) |
+| Commercial Door Technician | [DH Pace Company](https://dhpace.com) | — | May 18 | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5224026008) |
 | Sales Assistant 30h - Busnago (MB) | [JYSK](https://jysk.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000127045620) |
 | Business and Commercial Banking (BCB) SA Coverage Risk Graduate Programme  | [Standard Bank](https://standardbank.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000127045324) |
 | Sales Assistant 24h - Busnago (MB) | [JYSK](https://jysk.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000127045109) |
@@ -50,6 +62,7 @@ Remote sales roles — account executives, SDRs, and enterprise deals.
 | Country Manager - Enterprise | [IonQ](https://ionq.com) | — | May 18 | [Apply](https://job-boards.greenhouse.io/ionq/jobs/5997138004) |
 | Sales Director - EMEA (Contact Centre & Unified Communications) | [Vonage](https://vonage.com) | — | May 18 | [Apply](https://job-boards.greenhouse.io/vonage/jobs/8537789002) |
 | Senior Director, New Verticals Sales (Insurance) | [Flex](https://withflex.com) | $315K–$375K/yr | May 18 | [Apply](https://job-boards.greenhouse.io/flex/jobs/4696420005) |
+| Commercial Sales Representative - Construction & Building Materials Industry  | [DH Pace Company](https://dhpace.com) | — | May 18 | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5223820008) |
 | Account Executive - [UK&I] | [Vanta](https://vanta.com) | — | May 18 | [Apply](https://jobs.ashbyhq.com/vanta/fb60fcb9-6a5f-45d4-988d-a7a36c798724) |
 | Sales Operations Project Manager | [AUTO1 Group](https://auto1-group.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000127033388) |
 | Solutions Engineer, EMEA | [Loop](https://loopreturns.com) | — | May 18 | [Apply](https://jobs.lever.co/loopreturns/7ed4551a-01ac-4853-aad1-48685353412b) |
@@ -62,6 +75,7 @@ Remote sales roles — account executives, SDRs, and enterprise deals.
 | Customer Engagement (Telesales) | [Husk Power Systems](https://huskpowersystems.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/HuskPowerSystems/postings/744000127002889) |
 | Account Development Representative  | [Fever](https://feverup.com) | — | May 18 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4869447101) |
 | Enterprise Account Management Team Lead - Retail (Fixed-Term Contract) | [Wolt](https://wolt.com) | — | May 18 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7938469) |
+| Account Manager, Programmatic | [WPP Media](https://wppmedia.com) | — | May 18 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5189326008) |
 | Sales Executive, National CPG Headquarters | [Avery Dennison](https://averydennison.com) | $103K–$140K/yr | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000126985029) |
 | Senior Solution Engineer | [Snowflake](https://snowflake.com) | — | May 18 | [Apply](https://jobs.ashbyhq.com/snowflake/00898e37-87aa-47e6-9df7-aefabac4ab01) |
 | Part Time Sales Assistant (20 uur) | [JD Sports](https://jdsports.com) | — | May 18 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4869280101) |

@@ -2,19 +2,23 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**329 open roles** — Last updated: 2026-05-19
+**335 open roles** — Last updated: 2026-05-19
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| 6343 - Quality Lead / Quality Engineer | [Verista](https://verista.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/veristainc/jobs/5225368008) |
 | Data Engineer (Snowflake / Systems Integration) | [Squire Technologies](https://getsquire.com) | — | May 19 | [Apply](https://jobs.lever.co/getsquire/2eaa0b0c-cf13-4a74-844f-37f7ad062a41) |
 | Senior Scientist/Principal Scientist, Protein Design & Modeling | [Raven Tech](https://raventech.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/raven/jobs/5224498008) |
 | Engineering Manager, Customer Studio | [Hightouch](https://hightouch.com) | $220K–$300K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/hightouch/jobs/5999976004) |
+| Senior Program Manager | [The Weather Company](https://theweather.com) | $130K–$155K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/theweathercompany/jobs/5135340007) |
 | Data Analyst Sênior | [Skydropx](https://skydropx.com) | — | May 19 | [Apply](https://jobs.ashbyhq.com/skydropx/15dc51e3-512c-45a2-b429-2e838103940e) |
 | Senior Data Architect | [ŌURA](https://ouraring.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/oura/jobs/4246508009) |
 | Sr. Mixed Methods UX Researcher | [Blink UX](https://blinkux.com) | — | May 19 | [Apply](https://jobs.lever.co/blinkux/fdbc5377-090d-4381-9b2b-2b2c089a5030) |
+| Data Consulting Manager | [LinkedIn Job Wrapping](https://artefact.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/artefactlinkedin/jobs/8556505002) |
 | Pioneering Medicines: Vice President /  Senior Vice President - Head of Biology (Invitro and InVivo Pharmacology) | [Flagship Pioneering, Inc.](https://flagshippioneering.com) | $252K–$410K/yr | May 19 | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8547816002?gh_jid=8547816002) |
+| Accountant | [Too Good To Go](https://toogoodtogo.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/toogoodtogo/jobs/7739720003) |
 | [Job -  29399] AI Solutions Architect, Brazil | [CI&T](https://cit.com) | — | May 19 | [Apply](https://jobs.lever.co/ciandt/c9b74739-d901-457e-9341-91bef5c78b1e) |
 | IT Specialist - Barranquilla Remote | [Proper](https://properfinance.io) | — | May 19 | [Apply](https://jobs.lever.co/proper/5df18bf3-d592-40fe-9342-af76718300ad) |
 | Manager, Software Development | [Sectigo](https://sectigo.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Sectigo/postings/3743990013200696) |
@@ -38,6 +42,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Quantity Surveyor - Water | [Egis](https://egis-group.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000127161605) |
 | Lead-Software Development | [Genpak LLC](https://genpak-llc-2) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000127162859) |
 | Product Analyst | [GoCardless](https://gocardless.com) | €32K–€48K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/gocardless/jobs/7938467) |
+| DC Manager : Inbound  | [takealot.com](https://takealot.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/takealotcom/jobs/7925329) |
 | Engineer, System Engineering | [NCS](https://ncs.co) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001087995) |
 | Researcher (IT Recruiting) | [Miratech](https://miratech.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000127143196) |
 | Electrical Engineer (UAE Nationals Only) | [BESIX](https://besix.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000127139364) |
@@ -80,6 +85,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Safety Engineer | [Archer](https://archer.com) | $105K–$135K/yr | May 18 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7692551003) |
 | Senior Director, Enterprise Sales | [ŌURA](https://ouraring.com) | $232K–$273K/yr | May 18 | [Apply](https://job-boards.greenhouse.io/oura/jobs/4250238009) |
 | Senior Application Database Administrator (SQL Server) | [Experian](https://experianplc.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000127049049) |
+| Commercial Door Technician | [DH Pace Company](https://dhpace.com) | — | May 18 | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5223968008) |
 | Software Application Specialist | [Continental](https://continentalserves.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000127046379) |
 | Azure AD  PAM (Cyberark) IAM Engineer | [Miratech](https://miratech.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000127045509) |
 | Azure AD  PAM (Cyberark) IAM Engineer | [Miratech](https://miratech.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000127045429) |

@@ -2,12 +2,15 @@
 
 Remote operations and business operations roles across industries.
 
-**247 open roles** — Last updated: 2026-05-19
+**253 open roles** — Last updated: 2026-05-19
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Team Leader | [Greene King](https://greeneking.co.uk) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/GreeneKing/postings/744000127290038) |
+| Associate Sales Development Representative | [Ping Identity](https://pingidentity.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/pingidentity/jobs/8550724002) |
+| Kitchen Assistant | [Greene King](https://greeneking.co.uk) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/GreeneKing/postings/744000127279574) |
 | Licensed Automotive Technician | [Clutch](https://clutch.io) | $39/yr | May 19 | [Apply](https://job-boards.greenhouse.io/clutch/jobs/6000031004) |
 | Assistant Project Manager  | [JRM Construction Management, LLC](https://jrmcm.com) | $75K–$110K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/jrmconstructionmanagementllc/jobs/4682361006) |
 | Seasonal Market Farm Crew Member | [WellPower - All External Jobs](https://wellpower.org) | — | May 19 | [Apply](https://job-boards.greenhouse.io/mentalhealthcenterofdenver/jobs/7730617003) |
@@ -20,7 +23,10 @@ Remote operations and business operations roles across industries.
 | Agency Project Manager | [Wix.com](https://wix.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Wix2/postings/744000127175449) |
 | Business Developer - Marketplace H/F  | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000127171409) |
 | Client Operations Manager | [Journey](https://journey.io) | — | May 19 | [Apply](https://job-boards.greenhouse.io/journey/jobs/5141292007) |
+| DC Planning Trainee | [SPRINTER MEGACENTROS DEL DEP](https://sprinter.es) | — | May 19 | [Apply](https://job-boards.eu.greenhouse.io/sprintersportses/jobs/4870400101) |
+| Programa de prácticas Logística | [SPRINTER MEGACENTROS DEL DEP](https://sprinter.es) | — | May 19 | [Apply](https://job-boards.eu.greenhouse.io/sprintersportses/jobs/4870367101) |
 | Senior Quality Manager (f/m/x) – EPCM Industry, Semiconductor Fabrication Plant | [Drees & Sommer](https://dreso.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000127153989) |
+| Floor Manager - Reggio Emilia C.C. "I Petali" | [JD Sports](https://jdsports.com) | — | May 19 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4870259101) |
 | Team Manager til Netcompanys Application Services | [Netcompany](https://netcompany.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000127136810) |
 | CHPP Commercial Officer | [Anglo American](https://angloamerican.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000127128629) |
 | Licensing Specialist (Contract) | [Tilt](https://tilt.com) | — | May 19 | [Apply](https://jobs.ashbyhq.com/tilthq/508bca10-00a6-4db2-ac39-8c88a0e6df40) |

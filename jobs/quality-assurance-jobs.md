@@ -2,7 +2,7 @@
 
 QA, test automation, and SDET roles. Manual and automated testing across all stacks.
 
-**11 open roles** — Last updated: 2026-05-19
+**12 open roles** — Last updated: 2026-05-19
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -11,6 +11,7 @@ QA, test automation, and SDET roles. Manual and automated testing across all sta
 | QA – Ingénieur Test (H/F) | [Inetum](https://inetum.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000127204089) |
 | Software Test Engineer / SDET | [Continental](https://continentalserves.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000127179359) |
 | Senior QA Engineer - Pro Design | [Canva](https://canva.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001088069) |
+| Senior QA Engineer | [VML](https://vml.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/vmlenterprisesolutions/jobs/8519014002) |
 | QA Automation Engineer (Transportation System) | [Coherent Solutions](https://coherentsolutions.com) | — | May 18 | [Apply](https://job-boards.eu.greenhouse.io/coherentsolutions/jobs/4861407101) |
 | QA Engineer Playwright | [VML](https://vml.com) | — | May 18 | [Apply](https://job-boards.greenhouse.io/vmlenterprisesolutions/jobs/8554890002) |
 | Automation Engineer (Standard & Controls)  | [SEGULA Technologies](https://segulatechnologies.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/SegulaTechnologies/postings/744000126956459) |

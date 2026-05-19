@@ -2,16 +2,22 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**81 open roles** — Last updated: 2026-05-19
+**87 open roles** — Last updated: 2026-05-19
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | Sr. Manager, Data Engineering & Analytics | [Serve Robotics](https://serverobotics.com) | — | May 19 | [Apply](https://jobs.ashbyhq.com/serverobotics/887ef3a7-3bde-4649-820a-a54b0afc4cf9) |
+| Coordinator, Experiential Marketing | [e.l.f. Beauty](https://elfbeauty.com) | — | May 19 | [Apply](https://jobs.lever.co/elfbeauty/2baf4c7a-4eae-4c98-b52a-9ecc2ee03667) |
 | Youtube Growth Manager | [Groww](https://groww.in) | — | May 19 | [Apply](https://job-boards.eu.greenhouse.io/groww/jobs/4868898101) |
+| Account Director, Audience Planning | [WPP Media](https://wppmedia.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5211315008) |
 | Field Marketing Manager | [Sectigo](https://sectigo.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Sectigo/postings/3743990013199842) |
+| CRM Application Manager - Salesforce Marketing Cloud | [VML MAP](https://vml-map.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/map/jobs/8556255002) |
+| CRM Application Manager - Salesforce Marketing Cloud | [VML MAP](https://vml-map.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/map/jobs/8556251002) |
+| CRM Application Manager - Salesforce Marketing Cloud | [VML MAP](https://vml-map.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/map/jobs/8547052002) |
 | Senior Marketing Officer, Continental Europe | [IQ-EQ](https://iqeq.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000127177572) |
+| Mr D - Retail Media Junior Account Manager_Retail | [takealot.com](https://takealot.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/takealotcom/jobs/7938773) |
 |  AI-First Technical SEO Specialist | [Wix.com](https://wix.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Wix2/postings/744000127151259) |
 | Education Marketing Specialist - Indonesia | [Canva](https://canva.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001087856) |
 | Manager, Retail Marketing | [Frasers Group](https://frasersgroup.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000127129256) |

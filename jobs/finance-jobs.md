@@ -2,16 +2,22 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**99 open roles** — Last updated: 2026-05-19
+**105 open roles** — Last updated: 2026-05-19
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Sales Team Lead - SMB | [Too Good To Go](https://toogoodtogo.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/toogoodtogo/jobs/7738589003) |
+| Country Controller | [Wolt](https://wolt.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7942260) |
+| Director, Corporate Consolidations | [The Trade Desk](https://thetradedesk.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5141095007) |
+| Compensation Manager, Global Rewards | [Coursera](https://coursera.org) | $128K–$150K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/coursera/jobs/5989213004) |
 | Cost Estimator | [JRM Construction Management, LLC](https://jrmcm.com) | $75K–$100K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/jrmconstructionmanagementllc/jobs/4682697006) |
+| Quantitative Researcher - Discretionary | [Man Group](https://man.com) | — | May 19 | [Apply](https://job-boards.eu.greenhouse.io/mangroup/jobs/4866654101) |
 | Senior Accountant (They/She/He) | [Delivery Hero](https://deliveryhero.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000127213586) |
 | Sr. Accountant | [Delivery Hero](https://deliveryhero.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000127212154) |
 | Contrôleur de Gestion Région Occitanie -  (H/F) | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000127201750) |
+| Fleet Compliance Associate | [Wolt](https://wolt.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7938947) |
 | Deputy Manager, Finance | [Razorpay Software Private Limited](https://razorpay.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4696837005) |
 | Manager, Branch | [Standard Bank](https://standardbank.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000127170210) |
 | Finance Intern | [Aleph Lab](https://alephlab.ai) | — | May 19 | [Apply](https://jobs.lever.co/aleph/bbd1e11d-2b60-4edf-839e-ead57efcda8a) |

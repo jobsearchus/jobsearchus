@@ -2,12 +2,15 @@
 
 Remote jobs open to candidates with 0–2 years of experience. A real way in — no degree gatekeeping.
 
-**212 open roles** — Last updated: 2026-05-19
+**219 open roles** — Last updated: 2026-05-19
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Associate Sales Development Representative | [Ping Identity](https://pingidentity.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/pingidentity/jobs/8550724002) |
+| Kitchen Assistant | [Greene King](https://greeneking.co.uk) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/GreeneKing/postings/744000127279574) |
+| Veterinary Client Service Representative - Front desk | [Veritas Veterinary Partners](https://veritasveterinarypartners.com) | $21/yr | May 19 | [Apply](https://job-boards.greenhouse.io/veritasvetpartners/jobs/5225307008) |
 | Full Time Caregiver (PM) | [Silverado](https://silverado.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/silverado/jobs/5141637007) |
 | Director, Growth Marketing | [Figma](https://figma.com) | — | May 19 | [Apply](https://boards.greenhouse.io/figma/jobs/5998147004?gh_jid=5998147004) |
 | Graphic Design - Video Editing Intern | [Sezzle](https://sezzle.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/sezzle/jobs/7739982003) |
@@ -22,6 +25,10 @@ Remote jobs open to candidates with 0–2 years of experience. A real way in —
 | Music Streaming Platform Customer Specialist with French and English (Remote in Bulgaria) | [Genpak LLC](https://genpak-llc-2) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000127166244) |
 | Finance Intern | [Aleph Lab](https://alephlab.ai) | — | May 19 | [Apply](https://jobs.lever.co/aleph/bbd1e11d-2b60-4edf-839e-ead57efcda8a) |
 | Casual Sales Assistant - New Store Opening | [Frasers Group](https://frasersgroup.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000127160620) |
+| DC Planning Trainee | [SPRINTER MEGACENTROS DEL DEP](https://sprinter.es) | — | May 19 | [Apply](https://job-boards.eu.greenhouse.io/sprintersportses/jobs/4870400101) |
+| Programa de prácticas Logística | [SPRINTER MEGACENTROS DEL DEP](https://sprinter.es) | — | May 19 | [Apply](https://job-boards.eu.greenhouse.io/sprintersportses/jobs/4870367101) |
+| Mr D - Retail Media Junior Account Manager_Retail | [takealot.com](https://takealot.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/takealotcom/jobs/7938773) |
+| Senior DevOps Engineer | [Ping Identity](https://pingidentity.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/pingidentity/jobs/8517548002) |
 | ASSISTANT COMMERCIAL H/F/X EN CDI 39h | [Genpak LLC](https://genpak-llc-2) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000127139104) |
 | RCM Associate | [Nourish](https://usenourish.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/usenourish/jobs/5224665008) |
 | Forward Deployed Engineering Intern (AI Agent)  | [Cresta](https://cresta.com) | — | May 18 | [Apply](https://job-boards.greenhouse.io/cresta/jobs/5102116008) |

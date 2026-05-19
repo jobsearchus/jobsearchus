@@ -2,13 +2,14 @@
 
 UX design, UI design, and product design roles. Figma, research, and end-to-end product work.
 
-**30 open roles** — Last updated: 2026-05-19
+**31 open roles** — Last updated: 2026-05-19
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | Senior Product Designer, Truework | [Checkr](https://checkr.com) | $25K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/checkr/jobs/7942615) |
+| Instructional Designer | [Diligent Corporation](https://diligent.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/diligentcorporation/jobs/5999882004) |
 | Graphic Design - Video Editing Intern | [Sezzle](https://sezzle.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/sezzle/jobs/7739982003) |
 | GenAI Senior Motion Designer (Beauty Exp) | [Genpak LLC](https://genpak-llc-2) | — | May 19 | [Apply](https://job-boards.greenhouse.io/brandtechplus/jobs/7942031) |
 | Product Design Intern, Conversation Intelligence | [Cresta](https://cresta.com) | $50/yr | May 18 | [Apply](https://job-boards.greenhouse.io/cresta/jobs/4499982008) |

@@ -2,12 +2,14 @@
 
 Remote customer support and success roles across SaaS, e-commerce, and tech.
 
-**70 open roles** — Last updated: 2026-05-19
+**72 open roles** — Last updated: 2026-05-19
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Veterinary Client Service Representative - Front desk | [Veritas Veterinary Partners](https://veritasveterinarypartners.com) | $21/yr | May 19 | [Apply](https://job-boards.greenhouse.io/veritasvetpartners/jobs/5225307008) |
+| Manager, Customer Success | [Diligent Corporation](https://diligent.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/diligentcorporation/jobs/5999861004) |
 | Music Streaming Platform Customer Specialist with Swedish and English (Remote in Bulgaria) | [Genpak LLC](https://genpak-llc-2) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000127216010) |
 | Customer Success Associate (Analista de Sucesso do Cliente) - São Paulo (Hybrid) | [Clara](https://clara.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/clara/jobs/5141365007) |
 | Music Streaming Platform Customer Specialist with French and English (Remote in Bulgaria) | [Genpak LLC](https://genpak-llc-2) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000127166244) |

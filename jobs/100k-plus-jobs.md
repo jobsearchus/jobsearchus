@@ -2,13 +2,16 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**180 open roles** — Last updated: 2026-05-19
+**183 open roles** — Last updated: 2026-05-19
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Account Development Representative - Central | [Job Board](https://corelight.com) | $180K–$214K/yr | May 19 | [Apply](https://boards.greenhouse.io/corelight/jobs/7942808?gh_jid=7942808) |
 | Engineering Manager, Customer Studio | [Hightouch](https://hightouch.com) | $220K–$300K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/hightouch/jobs/5999976004) |
+| Senior Program Manager | [The Weather Company](https://theweather.com) | $130K–$155K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/theweathercompany/jobs/5135340007) |
+| Compensation Manager, Global Rewards | [Coursera](https://coursera.org) | $128K–$150K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/coursera/jobs/5989213004) |
 | VP, Product (CLEAR1 - B2B) | [Clear Gene](https://cleargene.com) | $275K–$350K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/clear/jobs/7942495) |
 | Pioneering Medicines: Vice President /  Senior Vice President - Head of Biology (Invitro and InVivo Pharmacology) | [Flagship Pioneering, Inc.](https://flagshippioneering.com) | $252K–$410K/yr | May 19 | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8547816002?gh_jid=8547816002) |
 | Benefits Manager | [JRM Construction Management, LLC](https://jrmcm.com) | $140K–$150K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/jrmconstructionmanagementllc/jobs/4682680006) |
