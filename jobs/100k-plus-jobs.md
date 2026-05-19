@@ -2,12 +2,16 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**51 open roles** — Last updated: 2026-05-18
+**55 open roles** — Last updated: 2026-05-19
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Information Security GRC Analyst | [Branch AI](https://branch-ai.com) | $155K–$165K/yr | May 18 | [Apply](https://job-boards.greenhouse.io/branch/jobs/7738511003) |
+| Partner Account Manager - Miami | [Human Interest](https://humaninterest.com) | $130K–$140K/yr | May 18 | [Apply](https://job-boards.greenhouse.io/humaninterest/jobs/7931882) |
+| Senior Director, Enterprise Sales | [ŌURA](https://ouraring.com) | $232K–$273K/yr | May 18 | [Apply](https://job-boards.greenhouse.io/oura/jobs/4250238009) |
+| Software Engineer II | [Garner Health](https://getgarner.com) | $138K–$160K/yr | May 18 | [Apply](https://job-boards.greenhouse.io/garnerhealth/jobs/5996982004) |
 | Senior Software Engineer, Backend (Payments) | [Affirm](https://affirm.com) | £117K–£157K/yr | May 18 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7737155003) |
 | Senior Backend Engineer | [Job Board](https://corelight.com) | $180K–$214K/yr | May 18 | [Apply](https://boards.greenhouse.io/corelight/jobs/7926834?gh_jid=7926834) |
 | Customer Success Manager | [Buildkite](https://buildkite.com) | $140K–$155K/yr | May 18 | [Apply](https://job-boards.greenhouse.io/buildkite/jobs/5221619008) |

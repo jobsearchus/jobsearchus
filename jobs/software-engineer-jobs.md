@@ -2,7 +2,7 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**66 open roles** — Last updated: 2026-05-18
+**69 open roles** — Last updated: 2026-05-19
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -11,7 +11,10 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Associate Staff Engineer, Salesforce Sales & Service Cloud | [Nagarro](https://nagarro.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000127058199) |
 | Risk & Business Governance Analyst Professional – Data, Privacy | [Experian](https://experianplc.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000127054764) |
 | Associate Staff Engineer, Salesforce Sales & Service Cloud | [Nagarro](https://nagarro.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000127053770) |
+| Senior Director, Enterprise Sales | [ŌURA](https://ouraring.com) | $232K–$273K/yr | May 18 | [Apply](https://job-boards.greenhouse.io/oura/jobs/4250238009) |
 | Senior Application Database Administrator (SQL Server) | [Experian](https://experianplc.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000127049049) |
+| Principal Systems Architect | [Engine](https://engine.com) | — | May 18 | [Apply](https://job-boards.greenhouse.io/engine/jobs/7735967003) |
+| Software Engineer II | [Garner Health](https://getgarner.com) | $138K–$160K/yr | May 18 | [Apply](https://job-boards.greenhouse.io/garnerhealth/jobs/5996982004) |
 | User Support Specialist - freelancer | [Netcompany](https://netcompany.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000126979639) |
 | Software Engineer (L2) | [Twilio](https://twilio.com) | — | May 18 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7926889) |
 | Transporter (TB) | [Continental](https://continentalserves.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000126910409) |

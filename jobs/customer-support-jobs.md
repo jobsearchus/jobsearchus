@@ -2,12 +2,13 @@
 
 Remote customer support and success roles across SaaS, e-commerce, and tech.
 
-**19 open roles** — Last updated: 2026-05-18
+**20 open roles** — Last updated: 2026-05-19
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Manager of High Touch Customer Success | [Ashby](https://ashbyhq.com) | — | May 19 | [Apply](https://jobs.ashbyhq.com/ashby/a1c47936-0c48-4738-937e-e88ca596cdfe) |
 | Customer Care Agent (Remote) | [Delivery Hero](https://deliveryhero.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000126965660) |
 | Customer Success Manager | [Buildkite](https://buildkite.com) | $140K–$155K/yr | May 18 | [Apply](https://job-boards.greenhouse.io/buildkite/jobs/5221619008) |
 | Senior Technical Customer Success Manager | [Honeycomb.io](https://honeycomb.io) | — | May 15 | [Apply](https://job-boards.greenhouse.io/honeycomb/jobs/5220993008) |

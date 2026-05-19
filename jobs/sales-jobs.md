@@ -2,12 +2,14 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**41 open roles** — Last updated: 2026-05-18
+**43 open roles** — Last updated: 2026-05-19
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Manager of Strategic Customer Success | [Ashby](https://ashbyhq.com) | — | May 19 | [Apply](https://jobs.ashbyhq.com/ashby/7a3ff629-6c67-4aa5-bea4-f1d88b3b4777) |
+| Partner Account Manager - Miami | [Human Interest](https://humaninterest.com) | $130K–$140K/yr | May 18 | [Apply](https://job-boards.greenhouse.io/humaninterest/jobs/7931882) |
 | Business Development Associate | [Affirm](https://affirm.com) | $66K–$96K/yr | May 18 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7712707003) |
 | Senior Solution Engineer | [Snowflake](https://snowflake.com) | — | May 18 | [Apply](https://jobs.ashbyhq.com/snowflake/00898e37-87aa-47e6-9df7-aefabac4ab01) |
 | Account Manager DACH | [RTB House](https://rtbhouse.com) | — | May 18 | [Apply](https://job-boards.eu.greenhouse.io/rtbhouse/jobs/4869107101) |

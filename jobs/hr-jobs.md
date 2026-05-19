@@ -2,7 +2,7 @@
 
 Remote HR, recruiting, and people operations roles.
 
-**3 open roles** — Last updated: 2026-05-18
+**3 open roles** — Last updated: 2026-05-19
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
