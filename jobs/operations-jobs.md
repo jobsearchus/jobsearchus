@@ -2,21 +2,33 @@
 
 Remote operations and business operations roles across industries.
 
-**222 open roles** — Last updated: 2026-05-19
+**234 open roles** — Last updated: 2026-05-19
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Agent de nettoyage (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127178518) |
+| Agency Project Manager | [Wix.com](https://wix.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Wix2/postings/744000127175449) |
+| Team Manager til Netcompanys Application Services | [Netcompany](https://netcompany.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000127136810) |
 | Licensing Specialist (Contract) | [Tilt](https://tilt.com) | — | May 19 | [Apply](https://jobs.ashbyhq.com/tilthq/508bca10-00a6-4db2-ac39-8c88a0e6df40) |
 | RCM Associate | [Nourish](https://usenourish.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/usenourish/jobs/5224665008) |
+| Program Manager | [University of Notre Dame](https://universityofnotredame.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013195027) |
+| Programming & Operations Specialist - Center for Citizenship & Constitutional Government | [University of Notre Dame](https://universityofnotredame.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013194916) |
 | Commercial Door Installer (Dalton) | [DH Pace Company](https://dhpace.com) | — | May 18 | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5224561008) |
+| Automotive Service Manager - Up to $130k* & Weekends Off - South Huntsville | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | $130K/yr | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000127081309) |
 | Office Manager (Part-Time) | [Spade](https://spade.com) | $35/yr | May 18 | [Apply](https://job-boards.greenhouse.io/spade/jobs/4696679005) |
 | Claims Manager | [Instawork](https://instawork.com) | $150K–$175K/yr | May 18 | [Apply](https://job-boards.greenhouse.io/instawork/jobs/4682538006) |
 | Housekeeper - Janitor | [Crestwood Behavioral Health](https://crestwoodbehavioralhealth.com) | — | May 18 | [Apply](https://job-boards.greenhouse.io/crestwoodcareers/jobs/7738496003) |
+| B2B Inventory Management - Assistant Manager/Specialist (Korean Fluency Required) | [SBT Global](https://sbtglobal.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/SBTGlobalInc/postings/3743990013192086) |
+| Shuttle Driver - Weekends Off - Huntersville | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000127075239) |
+| Shipping | [Avery Dennison](https://averydennison.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000127074135) |
 | Senior Director, Revenue Operations (CLEAR1 - B2B) | [Clear Gene](https://cleargene.com) | $225K–$275K/yr | May 18 | [Apply](https://job-boards.greenhouse.io/clear/jobs/7939912) |
+| Automotive Technician / Mechanic - Weekends Off & Up to $50/hr - Buda | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | $50/yr | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000127071289) |
 | Mechanical Technician | [Enviva](https://envivabiomass.com) | — | May 18 | [Apply](https://job-boards.greenhouse.io/enviva/jobs/7726171003) |
+| Production Planner/Scheduler | [Avery Dennison](https://averydennison.com) | $60K–$80K/yr | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000127068929) |
 | Business Development Operations & AI Automation Internship | [Temporal](https://temporal.io) | $33/yr | May 18 | [Apply](https://job-boards.greenhouse.io/temporaltechnologies/jobs/5140575007) |
+| Master Automotive Technician / Mechanic - Weekends Off - Shadow Creek Ranch | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000127065729) |
 | Operations Support Coordinator | [Emerge Career](https://emergecareer.com) | — | May 18 | [Apply](https://job-boards.greenhouse.io/emerge/jobs/4251140009) |
 | Client Success Specialist | [MSX International](https://msxi.com) | $70K–$87K/yr | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013187466) |
 |  Mobile Service Field Specialist | [MSX International](https://msxi.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013185996) |

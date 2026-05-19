@@ -2,12 +2,13 @@
 
 Remote administrative and executive assistant roles across industries.
 
-**9 open roles** — Last updated: 2026-05-19
+**10 open roles** — Last updated: 2026-05-19
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Admin Supervisor -Days | [Frasers Group](https://frasersgroup.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000127168995) |
 | Collections Database Coordinator | [University of Notre Dame](https://universityofnotredame.com) | $24/yr | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013183036) |
 | Administrator  | [AECOM](https://aecom.com) | — | May 17 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000126857614) |
 | Executive Assistant, Operations & Technology | [NBCUniversal](https://nbcuniversal.com) | $90K–$120K/yr | May 14 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000126564559) |

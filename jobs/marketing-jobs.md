@@ -2,13 +2,19 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**71 open roles** — Last updated: 2026-05-19
+**77 open roles** — Last updated: 2026-05-19
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+|  AI-First Technical SEO Specialist | [Wix.com](https://wix.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Wix2/postings/744000127151259) |
+| Education Marketing Specialist - Indonesia | [Canva](https://canva.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001087856) |
+| Manager, Retail Marketing | [Frasers Group](https://frasersgroup.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000127129256) |
 | Manager, Advocacy | [Figma](https://figma.com) | — | May 19 | [Apply](https://boards.greenhouse.io/figma/jobs/5998145004?gh_jid=5998145004) |
+| NBC Telemundo CT Multiplatform Creative Intern Position - Academic Year 2026-2027 | [NBCUniversal](https://nbcuniversal.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000127077370) |
+| Digital Content Producer – Multi-Platform, Telemundo Arizona (Phoenix/Tucson) | [NBCUniversal](https://nbcuniversal.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000127074709) |
+| Campaign Specialist | [Avery Dennison](https://averydennison.com) | $60K–$70K/yr | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000127071969) |
 | Senior Product Marketing Manager | [Luma Health](https://lumahealth.io) | — | May 18 | [Apply](https://job-boards.greenhouse.io/lumahealth/jobs/8555230002) |
 | AI Transformation Owner, Marketing | [GitLab](https://about.gitlab.com) | — | May 18 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8548105002) |
 | Communications Manager | [Continental](https://continentalserves.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000127047009) |

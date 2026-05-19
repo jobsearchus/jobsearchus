@@ -2,13 +2,15 @@
 
 Product manager roles at companies building real products. Sourced directly from career pages.
 
-**29 open roles** — Last updated: 2026-05-19
+**31 open roles** — Last updated: 2026-05-19
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Product Lead - Content Group | [Canva](https://canva.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001087190) |
 | Regional Manager, Commercial Sales | [Smartsheet](https://smartsheet.com) | — | May 18 | [Apply](https://job-boards.greenhouse.io/smartsheet/jobs/7939659) |
+| Product Manager - Connected Retail Experiences | [Avery Dennison](https://averydennison.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000127070969) |
 | Product Manager | [Shift4](https://shift4.com) | — | May 18 | [Apply](https://job-boards.greenhouse.io/shift4/jobs/5130099007) |
 | VP, Revenue Operations & GTM Engineer | [SecurityScorecard](https://securityscorecard.com) | $325K–$350K/yr | May 18 | [Apply](https://job-boards.greenhouse.io/securityscorecard/jobs/7939130) |
 | Product Manager I | [ZETA SURGICAL](https://zetasurgical.com) | — | May 18 | [Apply](https://jobs.lever.co/zeta/ffc67958-ce58-442d-a76d-1e8417d31279) |

@@ -2,12 +2,14 @@
 
 General developer and programmer roles that did not fit a more specific category.
 
-**21 open roles** — Last updated: 2026-05-19
+**23 open roles** — Last updated: 2026-05-19
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Golang developer (All Genders) | [Dailymotion](https://dailymotion.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/Dailymotion/postings/744000127076059) |
+| Associate Staff Engineer - ServiceNow Developer  | [Nagarro](https://nagarro.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000127006772) |
 | Senior Developer | [Referrals Only](https://thoughtworks.com) | — | May 18 | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7938292) |
 | Developer, Portworx  | [Pure Storage](https://purestorage.com) | — | May 18 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/7916647) |
 | Business Intelligence Developer | [WPP](https://wpp.com) | — | May 18 | [Apply](https://job-boards.greenhouse.io/wpp/jobs/8539089002) |

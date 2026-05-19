@@ -2,18 +2,26 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**186 open roles** — Last updated: 2026-05-19
+**194 open roles** — Last updated: 2026-05-19
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| EMPLOYE COMMERCIAL CDI 18h (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127176911) |
+| Business Development Consultant | [MSX International](https://msxi.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013198236) |
+| Accessories Sales Manager (Automotive) | [MSX International](https://msxi.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013198192) |
+| Accessories Sales Manager (Automotive) | [MSX International](https://msxi.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013197978) |
+| Vendeur meuble F/H/X | [BUT](https://but.fr) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000127165119) |
+| Casual Sales Assistant - New Store Opening | [Frasers Group](https://frasersgroup.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000127160620) |
+| ASSISTANT COMMERCIAL H/F/X EN CDI 39h | [Genpak LLC](https://genpak-llc-2) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000127139104) |
 | Inside Sales Specialist - New Zealand | [Too Good To Go](https://toogoodtogo.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/toogoodtogo/jobs/7738131003) |
 | Manager of Strategic Customer Success | [Ashby](https://ashbyhq.com) | — | May 19 | [Apply](https://jobs.ashbyhq.com/ashby/7a3ff629-6c67-4aa5-bea4-f1d88b3b4777) |
 | Pet Insurance Sales Associate - Reno, NV | [Fetch](https://fetchtruck.com) | $55K–$90K/yr | May 18 | [Apply](https://job-boards.greenhouse.io/fetch/jobs/4251481009) |
 | Pet Insurance Sales Associate Daytona Beach, FL | [Fetch](https://fetchtruck.com) | $50K–$90K/yr | May 18 | [Apply](https://job-boards.greenhouse.io/fetch/jobs/4251466009) |
 | Partner Account Manager - Miami | [Human Interest](https://humaninterest.com) | $130K–$140K/yr | May 18 | [Apply](https://job-boards.greenhouse.io/humaninterest/jobs/7931882) |
 | Senior Director, Customer Experience Strategy & Programs | [Smartsheet](https://smartsheet.com) | — | May 18 | [Apply](https://job-boards.greenhouse.io/smartsheet/jobs/7939855) |
+| Sales Analyst | [NBCUniversal](https://nbcuniversal.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000127070899) |
 | Channel Account Executive | [Sophos](https://sophos.com) | — | May 18 | [Apply](https://jobs.lever.co/sophos/3607c5bd-3b9a-41ce-8558-66f17ef05a0e) |
 | Customer Success Renewals Representative, Commercial, UK&I (fixed term) | [Veeam Software](https://veeam.com) | — | May 18 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4862019101) |
 | Dealership Technology Success Consultant | [MSX International](https://msxi.com) | $60K–$74K/yr | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013185946) |

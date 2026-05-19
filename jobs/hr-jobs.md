@@ -2,12 +2,14 @@
 
 Remote HR, recruiting, and people operations roles.
 
-**35 open roles** — Last updated: 2026-05-19
+**37 open roles** — Last updated: 2026-05-19
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Human Resources Consultant (HR Operations) | [Netcompany](https://netcompany.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000127134099) |
+| Manager, Human Resources | [NBCUniversal](https://nbcuniversal.com) | $95K–$110K/yr | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000127067059) |
 | Technical Recruiter  | [Sigma Computing](https://sigmacomputing.com) | — | May 18 | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/7737974003) |
 | HR Manager | [Gameloft](https://gameloft.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/Gameloft/postings/744000127014984) |
 | Founding Head of Talent | [Searchable](https://searchable.com) | £120K/yr | May 18 | [Apply](https://jobs.ashbyhq.com/searchable/224a0fa0-b992-448a-a815-c61d332fe503) |

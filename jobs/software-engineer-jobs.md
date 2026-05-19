@@ -2,20 +2,41 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**281 open roles** — Last updated: 2026-05-19
+**303 open roles** — Last updated: 2026-05-19
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Software Engineer - Java | [Experian](https://experianplc.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000127173450) |
+| Google DialogFlow Engineer (Python) | [Miratech](https://miratech.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000127173419) |
+| Google DialogFlow Engineer (Python) | [Miratech](https://miratech.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000127171891) |
+| Google DialogFlow Engineer (Python) | [Miratech](https://miratech.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000127172819) |
+| Google DialogFlow Engineer (Python) | [Miratech](https://miratech.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000127171609) |
+| Projeteur études Voirie et Réseaux Divers confirmé (nucléaire) H/F | [Egis](https://egis-group.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000127167109) |
+| Senior Structural Engineer  | [Egis](https://egis-group.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000127164799) |
+| Service Delivery Manager (m/f/d) | [Experian](https://experianplc.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000127162651) |
+| Service Delivery Manager (m/f/d) | [Experian](https://experianplc.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000127163469) |
+| Quantity Surveyor - Water | [Egis](https://egis-group.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000127161605) |
+| Engineer, System Engineering | [NCS](https://ncs.co) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001087995) |
+| Researcher (IT Recruiting) | [Miratech](https://miratech.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000127143196) |
+| Senior Software Engineer - Java ,Node and AWS | [NEC Software Solutions](https://necsoftwaresolutions.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/NECSWS/postings/744000127139179) |
+| Data Analytics Platform Architect | [NCS](https://ncs.co) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001087933) |
+| Senior Engineer, Unix/Linux System | [NCS](https://ncs.co) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001087550) |
+| Principal Engineer, CRM Salesforce Marketing Cloud  | [Nagarro](https://nagarro.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000127123734) |
 | Forward Deployed Engineering Intern (AI Agent)  | [Cresta](https://cresta.com) | — | May 18 | [Apply](https://job-boards.greenhouse.io/cresta/jobs/5102116008) |
 | Software Engineer, Online Decisioning | [Signifyd](https://signifyd.com) | $160K–$180K/yr | May 18 | [Apply](https://job-boards.greenhouse.io/signifyd95/jobs/7926663) |
 | Senior Software Engineer - Treasury | [Mercury](https://mercury.com) | $167K–$263K/yr | May 18 | [Apply](https://job-boards.greenhouse.io/mercury/jobs/5990652004) |
+| CEI Senior Inspector | [AECOM](https://aecom.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000127077959) |
 | Forward Deployed Engineer (AI and Automation) | [OnePay](https://onepay.com) | — | May 18 | [Apply](https://jobs.ashbyhq.com/oneapp/a85bb5aa-9683-4d67-84e5-5d3e4bacda59) |
+| CEI Inspector | [AECOM](https://aecom.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000127076882) |
+| Mechanical Engineer, Data Centers - Remote (U.S.) | [AECOM](https://aecom.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000127075449) |
 | Structural Engineer, Intermediate  | [DLR Group](https://dlrgroup.com) | — | May 18 | [Apply](https://job-boards.greenhouse.io/dlrgroup/jobs/5220731008) |
 | Structural Engineer, Entry Level  | [DLR Group](https://dlrgroup.com) | — | May 18 | [Apply](https://job-boards.greenhouse.io/dlrgroup/jobs/5220752008) |
 | Software Engineer (C++)  | [Applied Intuition](https://applied.co) | $100K–$200K/yr | May 18 | [Apply](https://boards.greenhouse.io/appliedintuition/jobs/4696630005?gh_jid=4696630005) |
 | Software Engineering Manager | [Factored Quality](https://factoredquality.com) | — | May 18 | [Apply](https://job-boards.greenhouse.io/factored/jobs/5223947008) |
+| VP, Enterprise IT Operations | [NBCUniversal](https://nbcuniversal.com) | $230K–$260K/yr | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000127071529) |
+| Ingeniero de Interfaces | [AECOM](https://aecom.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000127071009) |
 | Engineering Design Coach II | [Genpak LLC](https://genpak-llc-2) | — | May 18 | [Apply](https://job-boards.greenhouse.io/gokenamericallc/jobs/4251153009) |
 | Senior Principal Software Engineer - Billing | [Zuora](https://zuora.com) | — | May 18 | [Apply](https://boards.greenhouse.io/zuora/jobs/7939140?gh_jid=7939140) |
 | IT Assistant — Summer Tech Specialist | [University of Notre Dame](https://universityofnotredame.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013188261) |
@@ -68,6 +89,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Scientist, Data | [Standard Bank](https://standardbank.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000126955909) |
 | IAM Consultant | [Miratech](https://miratech.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000126953989) |
 | Ajusteur Monteur H/F | [SEGULA Technologies](https://segulatechnologies.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/SegulaTechnologies/postings/744000126953373) |
+| Senior SAP CO Consultant - Discrete Manufacturing (m/f/d) | [Nagarro](https://nagarro.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000126949874) |
 | Principal Engineer - HV Cable | [Egis](https://egis-group.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000126944519) |
 | Principal Engineer (HV Cable) | [Egis](https://egis-group.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000126944039) |
 | IT Call Center Operator | [Netcompany](https://netcompany.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000126940919) |

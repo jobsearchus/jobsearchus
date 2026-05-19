@@ -2,12 +2,16 @@
 
 Remote jobs open to candidates with 0–2 years of experience. A real way in — no degree gatekeeping.
 
-**194 open roles** — Last updated: 2026-05-19
+**201 open roles** — Last updated: 2026-05-19
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| EMPLOYE COMMERCIAL CDI 18h (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127176911) |
+| Agent de nettoyage (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127178518) |
+| Casual Sales Assistant - New Store Opening | [Frasers Group](https://frasersgroup.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000127160620) |
+| ASSISTANT COMMERCIAL H/F/X EN CDI 39h | [Genpak LLC](https://genpak-llc-2) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000127139104) |
 | RCM Associate | [Nourish](https://usenourish.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/usenourish/jobs/5224665008) |
 | Forward Deployed Engineering Intern (AI Agent)  | [Cresta](https://cresta.com) | — | May 18 | [Apply](https://job-boards.greenhouse.io/cresta/jobs/5102116008) |
 | Product Design Intern, Conversation Intelligence | [Cresta](https://cresta.com) | $50/yr | May 18 | [Apply](https://job-boards.greenhouse.io/cresta/jobs/4499982008) |
@@ -15,9 +19,12 @@ Remote jobs open to candidates with 0–2 years of experience. A real way in —
 | Housekeeper - Janitor | [Crestwood Behavioral Health](https://crestwoodbehavioralhealth.com) | — | May 18 | [Apply](https://job-boards.greenhouse.io/crestwoodcareers/jobs/7738496003) |
 | Full-Time Barback - Fulton | [ACCOR](https://group.accor.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000127077520) |
 | Part-Time Host - Fulton | [ACCOR](https://group.accor.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000127077344) |
+| NBC Telemundo CT Multiplatform Creative Intern Position - Academic Year 2026-2027 | [NBCUniversal](https://nbcuniversal.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000127077370) |
 | Pet Insurance Sales Associate - Reno, NV | [Fetch](https://fetchtruck.com) | $55K–$90K/yr | May 18 | [Apply](https://job-boards.greenhouse.io/fetch/jobs/4251481009) |
 | Pet Insurance Sales Associate Daytona Beach, FL | [Fetch](https://fetchtruck.com) | $50K–$90K/yr | May 18 | [Apply](https://job-boards.greenhouse.io/fetch/jobs/4251466009) |
 | Structural Engineer, Entry Level  | [DLR Group](https://dlrgroup.com) | — | May 18 | [Apply](https://job-boards.greenhouse.io/dlrgroup/jobs/5220752008) |
+| Shipping | [Avery Dennison](https://averydennison.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000127074135) |
+| Automotive Technician / Mechanic - Weekends Off & Up to $50/hr - Buda | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | $50/yr | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000127071289) |
 | Junior Accountant | [Genpak LLC](https://genpak-llc-2) | — | May 18 | [Apply](https://job-boards.greenhouse.io/asiasp/jobs/5224193008) |
 | IT Assistant — Summer Tech Specialist | [University of Notre Dame](https://universityofnotredame.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013188261) |
 | Business Development Operations & AI Automation Internship | [Temporal](https://temporal.io) | $33/yr | May 18 | [Apply](https://job-boards.greenhouse.io/temporaltechnologies/jobs/5140575007) |

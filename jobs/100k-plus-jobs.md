@@ -2,12 +2,13 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**171 open roles** — Last updated: 2026-05-19
+**173 open roles** — Last updated: 2026-05-19
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Automotive Service Manager - Up to $130k* & Weekends Off - South Huntsville | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | $130K/yr | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000127081309) |
 | Claims Manager | [Instawork](https://instawork.com) | $150K–$175K/yr | May 18 | [Apply](https://job-boards.greenhouse.io/instawork/jobs/4682538006) |
 | Software Engineer, Online Decisioning | [Signifyd](https://signifyd.com) | $160K–$180K/yr | May 18 | [Apply](https://job-boards.greenhouse.io/signifyd95/jobs/7926663) |
 | Senior Information Security GRC Analyst | [Branch AI](https://branch-ai.com) | $155K–$165K/yr | May 18 | [Apply](https://job-boards.greenhouse.io/branch/jobs/7738511003) |
@@ -18,6 +19,7 @@ Remote roles paying $100,000 or more per year. Salary data pulled directly from 
 | Software Engineer (C++)  | [Applied Intuition](https://applied.co) | $100K–$200K/yr | May 18 | [Apply](https://boards.greenhouse.io/appliedintuition/jobs/4696630005?gh_jid=4696630005) |
 | Senior Director, Revenue Operations (CLEAR1 - B2B) | [Clear Gene](https://cleargene.com) | $225K–$275K/yr | May 18 | [Apply](https://job-boards.greenhouse.io/clear/jobs/7939912) |
 | Partner Account Manager - Miami | [Human Interest](https://humaninterest.com) | $130K–$140K/yr | May 18 | [Apply](https://job-boards.greenhouse.io/humaninterest/jobs/7931882) |
+| VP, Enterprise IT Operations | [NBCUniversal](https://nbcuniversal.com) | $230K–$260K/yr | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000127071529) |
 | Contracts Manager | [JRM Construction Management, LLC](https://jrmcm.com) | $140K–$150K/yr | May 18 | [Apply](https://job-boards.greenhouse.io/jrmconstructionmanagementllc/jobs/4682374006) |
 | Manager, Business Insights | [Garner Health](https://getgarner.com) | $219K–$255K/yr | May 18 | [Apply](https://job-boards.greenhouse.io/garnerhealth/jobs/5997014004) |
 | Senior Data Analyst, Marketing Analytics | [Freshworks](https://freshworks.com) | $130K–$160K/yr | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000127055011) |

@@ -2,13 +2,15 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**89 open roles** — Last updated: 2026-05-19
+**91 open roles** — Last updated: 2026-05-19
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Risk Analyst - Base44 | [Wix.com](https://wix.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Wix2/postings/744000127140640) |
 | Lead Compliance Accountant | [Workato](https://workato.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/workato/jobs/8540962002) |
+| AP Accountant  | [Avery Dennison](https://averydennison.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000127115289) |
 | Strategic Finance - GTM | [Mercury](https://mercury.com) | $143K–$161K/yr | May 18 | [Apply](https://job-boards.greenhouse.io/mercury/jobs/5998488004) |
 | Manager – Management Company Accounting (Private Equity Funds) | [IQ-EQ](https://iqeq.com) | $88K–$120K/yr | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000127073759) |
 | Junior Accountant | [Genpak LLC](https://genpak-llc-2) | — | May 18 | [Apply](https://job-boards.greenhouse.io/asiasp/jobs/5224193008) |

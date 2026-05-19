@@ -2,12 +2,14 @@
 
 Project and program management roles across tech, operations, and enterprise.
 
-**14 open roles** — Last updated: 2026-05-19
+**16 open roles** — Last updated: 2026-05-19
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Posted | Apply |
 | --- | --- | --- | --- |
+| Events Program Manager | [University of Notre Dame](https://universityofnotredame.com) | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013195006) |
+| Business Development & Senior PM - Transportation | [AECOM](https://aecom.com) | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000127073169) |
 | Project Administrator | [Standard Bank](https://standardbank.com) | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000126954747) |
 | Project Manager | [Standard Bank](https://standardbank.com) | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000126955579) |
 | Lead Project Manager | [Referrals Only](https://thoughtworks.com) | May 18 | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7938207) |
