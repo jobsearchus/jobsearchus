@@ -2,13 +2,20 @@
 
 QA, test automation, and SDET roles. Manual and automated testing across all stacks.
 
-**1 open roles** — Last updated: 2026-05-19
+**8 open roles** — Last updated: 2026-05-19
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
-| Job Title | Company | Posted | Apply |
-| --- | --- | --- | --- |
-| Associate Staff Engineer(Automation QA) | [Nagarro](https://nagarro.com) | May 15 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000126643729) |
+| Job Title | Company | Salary | Posted | Apply |
+| --- | --- | --- | --- | --- |
+| QA Automation Engineer (Transportation System) | [Coherent Solutions](https://coherentsolutions.com) | — | May 18 | [Apply](https://job-boards.eu.greenhouse.io/coherentsolutions/jobs/4861407101) |
+| QA Engineer Playwright | [VML](https://vml.com) | — | May 18 | [Apply](https://job-boards.greenhouse.io/vmlenterprisesolutions/jobs/8554890002) |
+| Automation Engineer (Standard & Controls)  | [SEGULA Technologies](https://segulatechnologies.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/SegulaTechnologies/postings/744000126956459) |
+| PLC Automation engineer | [SEGULA Technologies](https://segulatechnologies.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/SegulaTechnologies/postings/744000126956009) |
+| Associate Staff Engineer(Automation QA) | [Nagarro](https://nagarro.com) | — | May 15 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000126643729) |
+| AI Quality Assurance Intern | [Cresta](https://cresta.com) | $50/yr | May 14 | [Apply](https://job-boards.greenhouse.io/cresta/jobs/5047260008) |
+| Lead, Avionics Test Engineering | [Relativity Space](https://relativityspace.com) | — | May 14 | [Apply](https://boards.greenhouse.io/relativity/jobs/8548054002?gh_jid=8548054002) |
+| AI Business Automation Engineer | [Box](https://box.com) | — | May 8 | [Apply](https://job-boards.greenhouse.io/boxinc/jobs/7909448) |
 
 ---
 

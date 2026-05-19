@@ -2,23 +2,59 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**27 open roles** — Last updated: 2026-05-19
+**71 open roles** — Last updated: 2026-05-19
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Manager, Advocacy | [Figma](https://figma.com) | — | May 19 | [Apply](https://boards.greenhouse.io/figma/jobs/5998145004?gh_jid=5998145004) |
+| Senior Product Marketing Manager | [Luma Health](https://lumahealth.io) | — | May 18 | [Apply](https://job-boards.greenhouse.io/lumahealth/jobs/8555230002) |
 | AI Transformation Owner, Marketing | [GitLab](https://about.gitlab.com) | — | May 18 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8548105002) |
+| Communications Manager | [Continental](https://continentalserves.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000127047009) |
+| Director of Events & Field Marketing  | [G2](https://g2.com) | — | May 18 | [Apply](https://jobs.ashbyhq.com/g2/1081ed48-47b4-486d-9d45-15d08c4abadb) |
+| Production Assistant, NBC News Daily | [NBCUniversal](https://nbcuniversal.com) | $29/yr | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000127037360) |
+| Regional Marketing Manager - Colombia | [JustMarkets](https://justmarkets.com) | — | May 18 | [Apply](https://job-boards.eu.greenhouse.io/justmarkets/jobs/4861804101) |
+| Brand & Event Manager | [Upfront](https://tryupfront.com) | — | May 18 | [Apply](https://upfront.recruitee.com/o/brand-event-manager/c/new) |
 | Web Strategy & Growth Manager | [Tailscale](https://tailscale.com) | — | May 18 | [Apply](https://job-boards.greenhouse.io/tailscale/jobs/4696291005) |
 | Web Strategy & Growth Manager | [Tailscale](https://tailscale.com) | — | May 18 | [Apply](https://job-boards.greenhouse.io/tailscale/jobs/4695882005) |
+| Marketing - Market Insights Lead (Research) | [B2C2](https://b2c2.com) | — | May 18 | [Apply](https://job-boards.eu.greenhouse.io/b2c2/jobs/4869233101) |
+| Content Marketing Specialist (India) | [Canva](https://canva.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001083182) |
 | PR Marketing Manager (relocation to Portugal) | [Medier](https://medier.com) | — | May 18 | [Apply](https://job-boards.eu.greenhouse.io/medier/jobs/4845241101) |
+| Talent Acquisition Coordinator | [Man Group](https://man.com) | — | May 18 | [Apply](https://job-boards.eu.greenhouse.io/mangroup/jobs/4867854101) |
+| Senior PPC Specialist | [Groupon](https://groupon.com) | — | May 18 | [Apply](https://job-boards.eu.greenhouse.io/groupon/jobs/4869005101) |
+| Local Marketing Associate | [Deliveroo](https://deliveroo.co.uk) | — | May 18 | [Apply](https://jobs.ashbyhq.com/deliveroo/cc496497-1561-417d-9bb5-80d244f9b96a) |
+| Senior Meta Ads Specialist | [Groupon](https://groupon.com) | — | May 18 | [Apply](https://job-boards.eu.greenhouse.io/groupon/jobs/4868971101) |
+| CX Audit Assistant Manager [L4] | [Coupang](https://coupang.com) | — | May 18 | [Apply](https://boards.greenhouse.io/coupanginternal/jobs/7928631?gh_jid=7928631) |
+| Customer Lifecycle Automation Specialist | [Omnisend](https://omnisend.com) | — | May 18 | [Apply](https://jobs.lever.co/omnisend/8f7b262e-0d70-43f2-b968-a41190448aef) |
+| Account Manager - Affiliates (Parental Cover) | [WPP Media](https://wppmedia.com) | — | May 18 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5217174008) |
+| Market Analyst | [Gameloft](https://gameloft.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/Gameloft/postings/744000126920744) |
+| Coupang Ads Senior Manager (Ads Acquisition Sales_HVA_LT) | [Coupang](https://coupang.com) | — | May 18 | [Apply](https://boards.greenhouse.io/coupanginternal/jobs/7936614?gh_jid=7936614) |
+| [Growth Engineering] Staff Back-end Engineer I | [Coupang](https://coupang.com) | — | May 18 | [Apply](https://boards.greenhouse.io/coupanginternal/jobs/7865035?gh_jid=7865035) |
+| VP of B2B Marketing, CLEAR1 | [Clear Gene](https://cleargene.com) | — | May 15 | [Apply](https://job-boards.greenhouse.io/clear/jobs/7930524) |
 | Senior Manager of Provider Brand and Integrated Marketing | [BetterHelp](https://betterhelp.com) | $170K–$200K/yr | May 15 | [Apply](https://job-boards.greenhouse.io/betterhelpcom/jobs/5222761008) |
 | Demand Generation Manager, ABM | [Customer.io](https://customer.io) | — | May 15 | [Apply](https://job-boards.greenhouse.io/customerio/jobs/7931622) |
 | Generative Engine Optimization (GEO) Manager | [Teleport](https://goteleport.com) | — | May 15 | [Apply](https://jobs.ashbyhq.com/goteleport/33e4767b-6ad1-4a34-950a-4df4287d1287) |
 | Senior Product Marketing Manager, Packaging, Pricing and Enterprise Commercialization | [Boulevard](https://joinblvd.com) | $123K–$154K/yr | May 15 | [Apply](https://job-boards.greenhouse.io/boulevard/jobs/4678942006) |
+| GTM Engineer | [Airtable](https://airtable.com) | — | May 15 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8536588002) |
+| General Job Posting Template | [Genpak LLC](https://genpak-llc-2) | — | May 15 | [Apply](https://jobs.ashbyhq.com/legora/c50d8b6e-bf0b-48c8-b34f-1d16ecbdb0cc) |
 | Marketing Technical Onboarding Manager | [Moxie](https://joinmoxie.com) | — | May 15 | [Apply](https://jobs.ashbyhq.com/moxie/e2cf33a4-58ed-4e62-85d9-3bdd042f1e3a) |
 | Head of Brand Marketing & Strategy | [OnePay](https://onepay.com) | — | May 15 | [Apply](https://jobs.ashbyhq.com/oneapp/e5623ab0-2929-4018-9422-f67610110941) |
+| Analista de Operações Digitais | [SEGULA Technologies](https://segulatechnologies.com) | — | May 15 | [Apply](https://api.smartrecruiters.com/v1/companies/SegulaTechnologies/postings/744000126748799) |
+| Director, Digital Marketing | [6sense](https://6sense.com) | — | May 15 | [Apply](https://boards.greenhouse.io/6sense/jobs/7851978?gh_jid=7851978) |
+| Community Manager, Social | [Robinhood](https://robinhood.com) | — | May 15 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7922396?t=gh_src=&gh_jid=7922396) |
+| Dissemination Associate - LEO | [University of Notre Dame](https://universityofnotredame.com) | — | May 15 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013154916) |
+| Analyst, People Analytics & Reporting | [NBCUniversal](https://nbcuniversal.com) | — | May 15 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000126722702) |
+| Global Sponsorships Account Manager | [The New York Times](https://thenewyorktimes.com) | — | May 15 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4694944005) |
+| SEO Outreach & Partnership Specialist | [Canva](https://canva.com) | — | May 15 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001077383) |
 | Field Marketing Specialist (RoA) | [Twilio](https://twilio.com) | — | May 15 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7923205) |
+| Strategic Planning Intern – Campaigns & People Engagement | [NCS](https://ncs.co) | — | May 15 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001077221) |
+| Operations Team Leader -  Workforce Rostering | [Healthcare Australia](https://healthcareaustralia.com.au) | — | May 14 | [Apply](https://api.smartrecruiters.com/v1/companies/HealthcareAustralia1/postings/6000000001073600) |
+| Sr Product Marketing Manager, Commerce | [Zuora](https://zuora.com) | $156K–$214K/yr | May 14 | [Apply](https://boards.greenhouse.io/zuora/jobs/7926906?gh_jid=7926906) |
+| Director, Experiential Marketing | [Clear Gene](https://cleargene.com) | — | May 14 | [Apply](https://job-boards.greenhouse.io/clear/jobs/7927068) |
+| Sr. Client Partner - Video Business Unit | [Aleph Lab](https://alephlab.ai) | — | May 14 | [Apply](https://jobs.lever.co/aleph/22d9a7c7-94c4-4602-8b4d-072d63d4b826) |
+| Sr. Client Partner - Video Business Unit | [Aleph Lab](https://alephlab.ai) | — | May 14 | [Apply](https://jobs.lever.co/aleph/8db7d9a1-73c6-48bc-8ed5-ea00b12d7873) |
+| Sr. Client Partner - Video Business Unit | [Aleph Lab](https://alephlab.ai) | — | May 14 | [Apply](https://jobs.lever.co/aleph/e28ecd4b-0819-4e78-8943-df8a3a01688c) |
 | Head of Performance Marketing | [OnePay](https://onepay.com) | — | May 14 | [Apply](https://jobs.ashbyhq.com/oneapp/a5350ce1-cfa5-4dde-9a03-e6f31aaf84d5) |
 | Head of Social | [OnePay](https://onepay.com) | — | May 14 | [Apply](https://jobs.ashbyhq.com/oneapp/e4f6ceb3-2738-409b-8b55-6057acffe284) |
 | Senior Lead, Marketing Services Operations | [Moxie](https://joinmoxie.com) | — | May 14 | [Apply](https://jobs.ashbyhq.com/moxie/63148180-b9b4-4515-94a7-86e36cea4256) |
@@ -26,14 +62,22 @@ Remote marketing roles across growth, content, brand, and performance channels.
 | Growth Marketing Channel Manager | [OnePay](https://onepay.com) | — | May 14 | [Apply](https://jobs.ashbyhq.com/oneapp/778aaee4-0b84-429d-92b2-456482344b24) |
 | Creator Partnerships & Influencer Manager | [OnePay](https://onepay.com) | — | May 14 | [Apply](https://jobs.ashbyhq.com/oneapp/d5e9eb2c-9a9d-468b-bd5a-fc4aee3d9a0d) |
 | Marketing Analyst, PLG & Self-Serve Analytics | [Twilio](https://twilio.com) | $97K–$121K/yr | May 14 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7923207) |
+| Structural Engineer - 4+ Years of Experience | [KPFF Consulting Engineers](https://kpff.com) | — | May 14 | [Apply](https://api.smartrecruiters.com/v1/companies/KPFFConsultingEngineers/postings/3743990013132799) |
+| Lead Content Strategist | [VML](https://vml.com) | — | May 14 | [Apply](https://job-boards.greenhouse.io/vmlenterprisesolutions/jobs/8547093002) |
+| Account Executive, Programmatic | [WPP Media](https://wppmedia.com) | — | May 14 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5190748008) |
+| Employee Branding Sr. Specialist | [Coupang](https://coupang.com) | — | May 14 | [Apply](https://boards.greenhouse.io/coupanginternal/jobs/7915301?gh_jid=7915301) |
 | Product Marketing Manager | [Censys](https://censys.com) | $127K–$160K/yr | May 14 | [Apply](https://job-boards.greenhouse.io/censys/jobs/8541056002) |
+| CRM Operations Manager II | [NerdWallet](https://nerdwallet.com) | — | May 13 | [Apply](https://jobs.ashbyhq.com/nerdwallet/b3d99566-80ff-4da7-be68-c208a9fb0f5d) |
 | Senior Copywriter, Brand  | [Tilt](https://tilt.com) | — | May 13 | [Apply](https://jobs.ashbyhq.com/tilthq/32797836-f9c5-47f1-85fc-32ae97f0f390) |
 | VP of Brand | [Vanta](https://vanta.com) | — | May 13 | [Apply](https://jobs.ashbyhq.com/vanta/98342083-7d0d-4d17-ab8a-0cc81c993667) |
 | Sr. Mobile Networks Thought Leadership Writer  | [Vonage](https://vonage.com) | — | May 13 | [Apply](https://job-boards.greenhouse.io/vonage/jobs/8539554002) |
 | Sr. AI Thought Leadership Writer | [Vonage](https://vonage.com) | — | May 13 | [Apply](https://job-boards.greenhouse.io/vonage/jobs/8539546002) |
 | Senior Analyst Marketing Operations | [Genpak LLC](https://genpak-llc-2) | — | May 13 | [Apply](https://job-boards.greenhouse.io/commvault/jobs/5208787008) |
+| Sr Product Marketing Manager, GSI & Ecosystem GTM | [Zuora](https://zuora.com) | — | May 12 | [Apply](https://boards.greenhouse.io/zuora/jobs/7735372?gh_jid=7735372) |
 | Lead Product Marketing Manager, Pricing and Packaging | [GitLab](https://gitlab.com) | — | May 11 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8542042002) |
 | Director of Partner Marketing | [Cresta](https://cresta.com) | $180K–$220K/yr | May 10 | [Apply](https://job-boards.greenhouse.io/cresta/jobs/5215461008) |
+| Director of Product Communications | [Discord](https://discord.com) | $295K–$315K/yr | May 9 | [Apply](https://job-boards.greenhouse.io/discord/jobs/8542210002) |
+| Junior Content SEO Executive | [LinkedIn Job Wrapping](https://artefact.com) | — | May 6 | [Apply](https://job-boards.greenhouse.io/artefactlinkedin/jobs/8537138002) |
 | Engagement Marketing Manager | [Best Egg](https://bestegg.com) | — | May 4 | [Apply](https://jobs.lever.co/BestEgg/7db58daf-31f3-455b-bf62-52df27e3803e) |
 
 ---

@@ -2,7 +2,7 @@
 
 Backend, server-side, and API engineering roles. Node.js, Python, Go, Ruby, Java and beyond.
 
-**7 open roles** — Last updated: 2026-05-19
+**15 open roles** — Last updated: 2026-05-19
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -10,6 +10,14 @@ Backend, server-side, and API engineering roles. Node.js, Python, Go, Ruby, Java
 | --- | --- | --- | --- | --- |
 | Senior Software Engineer, Backend (Payments) | [Affirm](https://affirm.com) | £117K–£157K/yr | May 18 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7737155003) |
 | Senior Backend Engineer | [Job Board](https://corelight.com) | $180K–$214K/yr | May 18 | [Apply](https://boards.greenhouse.io/corelight/jobs/7926834?gh_jid=7926834) |
+| Backend Engineer, Secrets Management (C++/Java) | [Pure Storage](https://purestorage.com) | — | May 18 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/7938215) |
+| Lead Backend Engineer SFCC | [VML](https://vml.com) | — | May 18 | [Apply](https://job-boards.greenhouse.io/vmlenterprisesolutions/jobs/8549372002) |
+| Backend Engineer SFCC  | [VML](https://vml.com) | — | May 18 | [Apply](https://job-boards.greenhouse.io/vmlenterprisesolutions/jobs/8549375002) |
+| L7-2 Sr,Staff Back-end Engineer II | [Coupang](https://coupang.com) | — | May 16 | [Apply](https://boards.greenhouse.io/coupanginternal/jobs/7912290?gh_jid=7912290) |
+| Staff Backend Developer | [Tempo Software](https://temposoftware.com) | — | May 15 | [Apply](https://jobs.ashbyhq.com/tempo-io/d4a18341-bb9a-42a5-aa01-9c2c48e9a9f7) |
+| Développeur Back-end Java H/F | [Everience](https://everience.com) | — | May 15 | [Apply](https://api.smartrecruiters.com/v1/companies/EVERIENCE/postings/744000126647330) |
+| xEngineer – Backend Expertise - Wix Payments | [Wix.com](https://wix.com) | — | May 14 | [Apply](https://api.smartrecruiters.com/v1/companies/Wix2/postings/744000126514739) |
+| xEngineer – Backend Expertise – Wix Restaurants | [Wix.com](https://wix.com) | — | May 14 | [Apply](https://api.smartrecruiters.com/v1/companies/Wix2/postings/744000126513654) |
 | Senior Backend Engineer, Data | [Grüns](https://gruns.co) | $150K–$170K/yr | May 13 | [Apply](https://job-boards.greenhouse.io/gruns/jobs/5219875008) |
 | Staff Backend Engineer, Exposure Management | [Censys](https://censys.com) | — | May 13 | [Apply](https://job-boards.greenhouse.io/censys/jobs/8540954002) |
 | Senior Backend Software Engineer, Cloud Platform Tools - UK | [Teleport](https://goteleport.com) | — | May 11 | [Apply](https://jobs.ashbyhq.com/goteleport/d97283e8-66d7-40cd-b5f3-783e2dd920f7) |
