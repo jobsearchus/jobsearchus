@@ -2,12 +2,19 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**173 open roles** — Last updated: 2026-05-19
+**180 open roles** — Last updated: 2026-05-19
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Engineering Manager, Customer Studio | [Hightouch](https://hightouch.com) | $220K–$300K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/hightouch/jobs/5999976004) |
+| VP, Product (CLEAR1 - B2B) | [Clear Gene](https://cleargene.com) | $275K–$350K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/clear/jobs/7942495) |
+| Pioneering Medicines: Vice President /  Senior Vice President - Head of Biology (Invitro and InVivo Pharmacology) | [Flagship Pioneering, Inc.](https://flagshippioneering.com) | $252K–$410K/yr | May 19 | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8547816002?gh_jid=8547816002) |
+| Benefits Manager | [JRM Construction Management, LLC](https://jrmcm.com) | $140K–$150K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/jrmconstructionmanagementllc/jobs/4682680006) |
+| SAP Partnership Manager | [NanoNets](https://nanonets.com) | $240K–$350K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/nanonets/jobs/5224761008) |
+| Senior Client Solution Architect (Remote) | [Myriad360](https://myriad360.com) | $250K–$275K/yr | May 19 | [Apply](https://boards.greenhouse.io/myriad360/jobs/8555863002?gh_jid=8555863002) |
+| Senior Account Executive (Onsite) | [Weedmaps](https://weedmaps.com) | $120K–$171K/yr | May 18 | [Apply](https://job-boards.greenhouse.io/weedmaps77/jobs/8555741002) |
 | Automotive Service Manager - Up to $130k* & Weekends Off - South Huntsville | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | $130K/yr | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000127081309) |
 | Claims Manager | [Instawork](https://instawork.com) | $150K–$175K/yr | May 18 | [Apply](https://job-boards.greenhouse.io/instawork/jobs/4682538006) |
 | Software Engineer, Online Decisioning | [Signifyd](https://signifyd.com) | $160K–$180K/yr | May 18 | [Apply](https://job-boards.greenhouse.io/signifyd95/jobs/7926663) |

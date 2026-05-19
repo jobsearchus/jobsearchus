@@ -2,12 +2,20 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**91 open roles** — Last updated: 2026-05-19
+**99 open roles** — Last updated: 2026-05-19
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Cost Estimator | [JRM Construction Management, LLC](https://jrmcm.com) | $75K–$100K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/jrmconstructionmanagementllc/jobs/4682697006) |
+| Senior Accountant (They/She/He) | [Delivery Hero](https://deliveryhero.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000127213586) |
+| Sr. Accountant | [Delivery Hero](https://deliveryhero.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000127212154) |
+| Contrôleur de Gestion Région Occitanie -  (H/F) | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000127201750) |
+| Deputy Manager, Finance | [Razorpay Software Private Limited](https://razorpay.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4696837005) |
+| Manager, Branch | [Standard Bank](https://standardbank.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000127170210) |
+| Finance Intern | [Aleph Lab](https://alephlab.ai) | — | May 19 | [Apply](https://jobs.lever.co/aleph/bbd1e11d-2b60-4edf-839e-ead57efcda8a) |
+|  Finance Transformation  Analyst - 6 month FTC | [WPP](https://wpp.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/wpp/jobs/8511798002) |
 | Risk Analyst - Base44 | [Wix.com](https://wix.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Wix2/postings/744000127140640) |
 | Lead Compliance Accountant | [Workato](https://workato.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/workato/jobs/8540962002) |
 | AP Accountant  | [Avery Dennison](https://averydennison.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000127115289) |

@@ -2,12 +2,13 @@
 
 DevOps, platform engineering, and infrastructure roles. AWS, GCP, Kubernetes, Terraform.
 
-**13 open roles** — Last updated: 2026-05-19
+**14 open roles** — Last updated: 2026-05-19
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Posted | Apply |
 | --- | --- | --- | --- |
+| Principal Software Engineer, Trust Infrastructure | [Sectigo](https://sectigo.com) | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Sectigo/postings/3743990013200716) |
 | Senior Infrastructure Engineer- Network | [Entain](https://entaingroup.com) | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/Entain/postings/744000126968169) |
 | DevOps Engineer | [Natera](https://natera.com) | May 15 | [Apply](https://job-boards.greenhouse.io/natera/jobs/5990785004) |
 | Global Infrastructure Lead Engineer – Networks | [IQ-EQ](https://iqeq.com) | May 15 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000126732019) |

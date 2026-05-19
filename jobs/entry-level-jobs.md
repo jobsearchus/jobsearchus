@@ -2,14 +2,25 @@
 
 Remote jobs open to candidates with 0–2 years of experience. A real way in — no degree gatekeeping.
 
-**201 open roles** — Last updated: 2026-05-19
+**212 open roles** — Last updated: 2026-05-19
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Full Time Caregiver (PM) | [Silverado](https://silverado.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/silverado/jobs/5141637007) |
+| Director, Growth Marketing | [Figma](https://figma.com) | — | May 19 | [Apply](https://boards.greenhouse.io/figma/jobs/5998147004?gh_jid=5998147004) |
+| Graphic Design - Video Editing Intern | [Sezzle](https://sezzle.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/sezzle/jobs/7739982003) |
+| Music Streaming Platform Customer Specialist with Swedish and English (Remote in Bulgaria) | [Genpak LLC](https://genpak-llc-2) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000127216010) |
+| Receptionist - The Hoxton, Amsterdam | [ACCOR](https://group.accor.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000127197179) |
+| Apprentice Automotive Service Technician | [Clutch](https://clutch.io) | $27/yr | May 19 | [Apply](https://job-boards.greenhouse.io/clutch/jobs/5999707004) |
+| Sales Development Representative | [Formic](https://formic.co) | — | May 19 | [Apply](https://job-boards.greenhouse.io/formic/jobs/4682610006) |
+| Saturday Dentist | [PortmanDentex](https://portmandentex.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000127183828) |
+| Dental Therapist | [PortmanDentex](https://portmandentex.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000127182041) |
 | EMPLOYE COMMERCIAL CDI 18h (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127176911) |
 | Agent de nettoyage (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127178518) |
+| Music Streaming Platform Customer Specialist with French and English (Remote in Bulgaria) | [Genpak LLC](https://genpak-llc-2) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000127166244) |
+| Finance Intern | [Aleph Lab](https://alephlab.ai) | — | May 19 | [Apply](https://jobs.lever.co/aleph/bbd1e11d-2b60-4edf-839e-ead57efcda8a) |
 | Casual Sales Assistant - New Store Opening | [Frasers Group](https://frasersgroup.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000127160620) |
 | ASSISTANT COMMERCIAL H/F/X EN CDI 39h | [Genpak LLC](https://genpak-llc-2) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000127139104) |
 | RCM Associate | [Nourish](https://usenourish.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/usenourish/jobs/5224665008) |

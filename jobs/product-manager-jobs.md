@@ -2,12 +2,15 @@
 
 Product manager roles at companies building real products. Sourced directly from career pages.
 
-**31 open roles** — Last updated: 2026-05-19
+**34 open roles** — Last updated: 2026-05-19
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Enterprise Product Lead, Truework | [Checkr](https://checkr.com) | $25K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/checkr/jobs/7942647) |
+| Senior Staff Product Manager, Truework | [Checkr](https://checkr.com) | $25K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/checkr/jobs/7942638) |
+| VP, Product (CLEAR1 - B2B) | [Clear Gene](https://cleargene.com) | $275K–$350K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/clear/jobs/7942495) |
 | Product Lead - Content Group | [Canva](https://canva.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001087190) |
 | Regional Manager, Commercial Sales | [Smartsheet](https://smartsheet.com) | — | May 18 | [Apply](https://job-boards.greenhouse.io/smartsheet/jobs/7939659) |
 | Product Manager - Connected Retail Experiences | [Avery Dennison](https://averydennison.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000127070969) |

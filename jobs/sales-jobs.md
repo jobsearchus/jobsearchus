@@ -2,21 +2,38 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**194 open roles** — Last updated: 2026-05-19
+**211 open roles** — Last updated: 2026-05-19
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Strategic Account Manager | [Sardine](https://sardine.ai) | — | May 19 | [Apply](https://jobs.ashbyhq.com/sardine/84b8ff1e-81a2-44e7-9161-9ccd5e5b0cb3) |
+| Account Executive, Enterprise Sales | [Poka Labs](https://pokalabs.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/poka/jobs/5999919004) |
+| Director, Growth Marketing | [Figma](https://figma.com) | — | May 19 | [Apply](https://boards.greenhouse.io/figma/jobs/5998147004?gh_jid=5998147004) |
+| Market Ambassador - Nashville | [Odeko](https://odeko.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/odeko/jobs/5999821004) |
+| Enterprise Account Manager | [Instawork](https://instawork.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/instawork/jobs/4682536006) |
+| Key Account Manager (Gerente de Contas Estratégicas) - São Paulo (Hybrid) | [Clara](https://clara.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/clara/jobs/5141446007) |
+| Account Manager S&M Cities Italy | [Delivery Hero](https://deliveryhero.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000127213115) |
+| Associate Account Executive @Advizex- New England, MA (Remote) | [Myriad360](https://myriad360.com) | $70K–$85K/yr | May 19 | [Apply](https://boards.greenhouse.io/myriad360/jobs/8556306002?gh_jid=8556306002) |
+| Lead Équipe Commerciale Autohero (H/F) | [AUTO1 Group](https://auto1-group.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000127197842) |
+| Corporate Sales Manager (Saudi National) | [ACCOR](https://group.accor.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000127197944) |
+| VENDEUR CONSEIL - CDD H/F | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000127192309) |
+| Regional Manager, Strategic Accounts | [Razorpay Software Private Limited](https://razorpay.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4696274005) |
+| Business Development Manager | [Standard Bank](https://standardbank.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000127189509) |
+| Manager, Cross Border | [Razorpay Software Private Limited](https://razorpay.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4696845005) |
+| Sales Development Representative - Bi-lingual (German / French / Swedish / Norwegian / Danish / Spanish / Finnish / Arabic / Italian) | [Saviynt](https://saviynt.com) | — | May 19 | [Apply](https://jobs.lever.co/saviynt/73b92781-6468-4574-bac8-3fb090b7d1b0) |
 | EMPLOYE COMMERCIAL CDI 18h (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127176911) |
 | Business Development Consultant | [MSX International](https://msxi.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013198236) |
 | Accessories Sales Manager (Automotive) | [MSX International](https://msxi.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013198192) |
 | Accessories Sales Manager (Automotive) | [MSX International](https://msxi.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013197978) |
 | Vendeur meuble F/H/X | [BUT](https://but.fr) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000127165119) |
 | Casual Sales Assistant - New Store Opening | [Frasers Group](https://frasersgroup.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000127160620) |
+| SAP Partnership Manager | [NanoNets](https://nanonets.com) | $240K–$350K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/nanonets/jobs/5224761008) |
 | ASSISTANT COMMERCIAL H/F/X EN CDI 39h | [Genpak LLC](https://genpak-llc-2) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000127139104) |
 | Inside Sales Specialist - New Zealand | [Too Good To Go](https://toogoodtogo.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/toogoodtogo/jobs/7738131003) |
 | Manager of Strategic Customer Success | [Ashby](https://ashbyhq.com) | — | May 19 | [Apply](https://jobs.ashbyhq.com/ashby/7a3ff629-6c67-4aa5-bea4-f1d88b3b4777) |
+| Senior Account Executive (Onsite) | [Weedmaps](https://weedmaps.com) | $120K–$171K/yr | May 18 | [Apply](https://job-boards.greenhouse.io/weedmaps77/jobs/8555741002) |
 | Pet Insurance Sales Associate - Reno, NV | [Fetch](https://fetchtruck.com) | $55K–$90K/yr | May 18 | [Apply](https://job-boards.greenhouse.io/fetch/jobs/4251481009) |
 | Pet Insurance Sales Associate Daytona Beach, FL | [Fetch](https://fetchtruck.com) | $50K–$90K/yr | May 18 | [Apply](https://job-boards.greenhouse.io/fetch/jobs/4251466009) |
 | Partner Account Manager - Miami | [Human Interest](https://humaninterest.com) | $130K–$140K/yr | May 18 | [Apply](https://job-boards.greenhouse.io/humaninterest/jobs/7931882) |

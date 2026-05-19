@@ -2,12 +2,14 @@
 
 Remote cybersecurity, information security, and security engineering roles.
 
-**27 open roles** — Last updated: 2026-05-19
+**29 open roles** — Last updated: 2026-05-19
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Director, Security Operations | [LastPass](https://lastpass.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/lastpass/jobs/4696843005) |
+| CyberSecurity Governance Specialist - ISMS Manager | [Entain](https://entaingroup.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Entain/postings/744000127206598) |
 | Physical Security Solutions Engineer | [New Era Technology](https://neweratech.com) | $70K–$95K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8555029002) |
 | Information Security Analyst | [Stratolaunch](https://stratolaunch.com) | $81K–$107K/yr | May 18 | [Apply](https://job-boards.greenhouse.io/stratolaunch/jobs/5224590008) |
 | Senior Information Security GRC Analyst | [Branch AI](https://branch-ai.com) | $155K–$165K/yr | May 18 | [Apply](https://job-boards.greenhouse.io/branch/jobs/7738511003) |

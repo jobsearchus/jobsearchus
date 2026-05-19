@@ -2,12 +2,13 @@
 
 QA, test automation, and SDET roles. Manual and automated testing across all stacks.
 
-**10 open roles** — Last updated: 2026-05-19
+**11 open roles** — Last updated: 2026-05-19
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| QA – Ingénieur Test (H/F) | [Inetum](https://inetum.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000127204089) |
 | Software Test Engineer / SDET | [Continental](https://continentalserves.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000127179359) |
 | Senior QA Engineer - Pro Design | [Canva](https://canva.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001088069) |
 | QA Automation Engineer (Transportation System) | [Coherent Solutions](https://coherentsolutions.com) | — | May 18 | [Apply](https://job-boards.eu.greenhouse.io/coherentsolutions/jobs/4861407101) |

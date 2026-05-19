@@ -2,12 +2,15 @@
 
 General developer and programmer roles that did not fit a more specific category.
 
-**23 open roles** — Last updated: 2026-05-19
+**26 open roles** — Last updated: 2026-05-19
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Developer Relations Engineer, Community | [Render](https://render.com) | — | May 19 | [Apply](https://jobs.ashbyhq.com/render/4611bde4-47ac-45fc-ab56-235489e52682) |
+| Developer | [WPP](https://wpp.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/wpp/jobs/8538943002) |
+| RPA Developer | [IQ-EQ](https://iqeq.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000127170985) |
 | Senior Golang developer (All Genders) | [Dailymotion](https://dailymotion.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/Dailymotion/postings/744000127076059) |
 | Associate Staff Engineer - ServiceNow Developer  | [Nagarro](https://nagarro.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000127006772) |
 | Senior Developer | [Referrals Only](https://thoughtworks.com) | — | May 18 | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7938292) |

@@ -2,12 +2,30 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**303 open roles** — Last updated: 2026-05-19
+**329 open roles** — Last updated: 2026-05-19
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Data Engineer (Snowflake / Systems Integration) | [Squire Technologies](https://getsquire.com) | — | May 19 | [Apply](https://jobs.lever.co/getsquire/2eaa0b0c-cf13-4a74-844f-37f7ad062a41) |
+| Senior Scientist/Principal Scientist, Protein Design & Modeling | [Raven Tech](https://raventech.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/raven/jobs/5224498008) |
+| Engineering Manager, Customer Studio | [Hightouch](https://hightouch.com) | $220K–$300K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/hightouch/jobs/5999976004) |
+| Data Analyst Sênior | [Skydropx](https://skydropx.com) | — | May 19 | [Apply](https://jobs.ashbyhq.com/skydropx/15dc51e3-512c-45a2-b429-2e838103940e) |
+| Senior Data Architect | [ŌURA](https://ouraring.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/oura/jobs/4246508009) |
+| Sr. Mixed Methods UX Researcher | [Blink UX](https://blinkux.com) | — | May 19 | [Apply](https://jobs.lever.co/blinkux/fdbc5377-090d-4381-9b2b-2b2c089a5030) |
+| Pioneering Medicines: Vice President /  Senior Vice President - Head of Biology (Invitro and InVivo Pharmacology) | [Flagship Pioneering, Inc.](https://flagshippioneering.com) | $252K–$410K/yr | May 19 | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8547816002?gh_jid=8547816002) |
+| [Job -  29399] AI Solutions Architect, Brazil | [CI&T](https://cit.com) | — | May 19 | [Apply](https://jobs.lever.co/ciandt/c9b74739-d901-457e-9341-91bef5c78b1e) |
+| IT Specialist - Barranquilla Remote | [Proper](https://properfinance.io) | — | May 19 | [Apply](https://jobs.lever.co/proper/5df18bf3-d592-40fe-9342-af76718300ad) |
+| Manager, Software Development | [Sectigo](https://sectigo.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Sectigo/postings/3743990013200696) |
+| Développeur Java / Spring (H/F) | [Inetum](https://inetum.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000127201640) |
+| Ingénieur·e Data (H/F) | [Inetum](https://inetum.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000127202574) |
+| Engenheira/Engenheiro de Operação Mina Sênior - Empilhamento de Rejeitos | [Anglo American](https://angloamerican.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000127201079) |
+| Static Data Analyst, Valuations | [Standard Bank](https://standardbank.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000127197830) |
+| Site Engineer (UAE Nationals Only) | [BESIX](https://besix.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000127192609) |
+| Integration Specialist | [WPP](https://wpp.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/wpp/jobs/8537227002) |
+| Data Transformation Administrator | [Anglo American](https://angloamerican.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000127179348) |
+| Software Engineer II (Android) | [Tripadvisor](https://tripadvisor.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/tripadvisor/jobs/7941954) |
 | Senior Software Engineer - Java | [Experian](https://experianplc.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000127173450) |
 | Google DialogFlow Engineer (Python) | [Miratech](https://miratech.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000127173419) |
 | Google DialogFlow Engineer (Python) | [Miratech](https://miratech.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000127171891) |
@@ -18,12 +36,18 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Service Delivery Manager (m/f/d) | [Experian](https://experianplc.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000127162651) |
 | Service Delivery Manager (m/f/d) | [Experian](https://experianplc.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000127163469) |
 | Quantity Surveyor - Water | [Egis](https://egis-group.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000127161605) |
+| Lead-Software Development | [Genpak LLC](https://genpak-llc-2) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000127162859) |
+| Product Analyst | [GoCardless](https://gocardless.com) | €32K–€48K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/gocardless/jobs/7938467) |
 | Engineer, System Engineering | [NCS](https://ncs.co) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001087995) |
 | Researcher (IT Recruiting) | [Miratech](https://miratech.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000127143196) |
+| Electrical Engineer (UAE Nationals Only) | [BESIX](https://besix.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000127139364) |
 | Senior Software Engineer - Java ,Node and AWS | [NEC Software Solutions](https://necsoftwaresolutions.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/NECSWS/postings/744000127139179) |
 | Data Analytics Platform Architect | [NCS](https://ncs.co) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001087933) |
+| Creative Technologist (Design + Tech) | [Genpak LLC](https://genpak-llc-2) | — | May 19 | [Apply](https://job-boards.greenhouse.io/brandtechplus/jobs/7941409) |
 | Senior Engineer, Unix/Linux System | [NCS](https://ncs.co) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001087550) |
+| Data Operations Engineer - Python | [Qube Research & Technologies](https://quberesearch.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8555959002) |
 | Principal Engineer, CRM Salesforce Marketing Cloud  | [Nagarro](https://nagarro.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000127123734) |
+| Senior Client Solution Architect (Remote) | [Myriad360](https://myriad360.com) | $250K–$275K/yr | May 19 | [Apply](https://boards.greenhouse.io/myriad360/jobs/8555863002?gh_jid=8555863002) |
 | Forward Deployed Engineering Intern (AI Agent)  | [Cresta](https://cresta.com) | — | May 18 | [Apply](https://job-boards.greenhouse.io/cresta/jobs/5102116008) |
 | Software Engineer, Online Decisioning | [Signifyd](https://signifyd.com) | $160K–$180K/yr | May 18 | [Apply](https://job-boards.greenhouse.io/signifyd95/jobs/7926663) |
 | Senior Software Engineer - Treasury | [Mercury](https://mercury.com) | $167K–$263K/yr | May 18 | [Apply](https://job-boards.greenhouse.io/mercury/jobs/5990652004) |
@@ -38,6 +62,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | VP, Enterprise IT Operations | [NBCUniversal](https://nbcuniversal.com) | $230K–$260K/yr | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000127071529) |
 | Ingeniero de Interfaces | [AECOM](https://aecom.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000127071009) |
 | Engineering Design Coach II | [Genpak LLC](https://genpak-llc-2) | — | May 18 | [Apply](https://job-boards.greenhouse.io/gokenamericallc/jobs/4251153009) |
+| Implementation Engineer | [Verifiable](https://verifiable.com) | — | May 18 | [Apply](https://jobs.lever.co/verifiable/76aa8efa-7174-4776-b36d-1a0cb570bde5) |
 | Senior Principal Software Engineer - Billing | [Zuora](https://zuora.com) | — | May 18 | [Apply](https://boards.greenhouse.io/zuora/jobs/7939140?gh_jid=7939140) |
 | IT Assistant — Summer Tech Specialist | [University of Notre Dame](https://universityofnotredame.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013188261) |
 | Road Safety Engineer (Road Engineer Experience)  | [Egis](https://egis-group.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000127066300) |
@@ -75,6 +100,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Pioneering Medicines: Senior Director, Head of Toxicology | [Flagship Pioneering, Inc.](https://flagshippioneering.com) | $228K–$280K/yr | May 18 | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8554693002?gh_jid=8554693002) |
 | Software Engineer (Apprentice) | [Vonage](https://vonage.com) | — | May 18 | [Apply](https://job-boards.greenhouse.io/vonage/jobs/8549501002) |
 | Mobile Software Engineer  | [Box](https://box.com) | — | May 18 | [Apply](https://job-boards.greenhouse.io/boxinc/jobs/7938651) |
+| Engineering Manager - Core Experience (Core value and Engagement) | [Spotify](https://open.spotify.com) | — | May 18 | [Apply](https://jobs.lever.co/spotify/a156834a-8f8f-452c-94d9-88ee944ab657) |
 | Enterprise Architect - Salesforce Marketing Cloud  | [VML MAP](https://vml-map.com) | — | May 18 | [Apply](https://job-boards.greenhouse.io/map/jobs/8554667002) |
 | Service Technician/Engineer | [Avery Dennison](https://averydennison.com) | $64K–$86K/yr | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000126986939) |
 | Quality Control Manager | [Avery Dennison](https://averydennison.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000126985369) |

@@ -2,15 +2,27 @@
 
 Remote operations and business operations roles across industries.
 
-**234 open roles** — Last updated: 2026-05-19
+**247 open roles** — Last updated: 2026-05-19
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Licensed Automotive Technician | [Clutch](https://clutch.io) | $39/yr | May 19 | [Apply](https://job-boards.greenhouse.io/clutch/jobs/6000031004) |
+| Assistant Project Manager  | [JRM Construction Management, LLC](https://jrmcm.com) | $75K–$110K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/jrmconstructionmanagementllc/jobs/4682361006) |
+| Seasonal Market Farm Crew Member | [WellPower - All External Jobs](https://wellpower.org) | — | May 19 | [Apply](https://job-boards.greenhouse.io/mentalhealthcenterofdenver/jobs/7730617003) |
+| Engagement Director - Microsoft Azure | [TTEC Digital](https://ttecdigital.com) | — | May 19 | [Apply](https://jobs.lever.co/ttecdigital/05488d39-a15b-4363-86a3-a50e20bc3a3f) |
+| Chef d’équipe atelier mécanique (H/F) | [AUTO1 Group](https://auto1-group.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000127199952) |
+| Magasinier Chiffreur automobile (H/F) | [AUTO1 Group](https://auto1-group.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000127199279) |
+| Apprentice Automotive Service Technician | [Clutch](https://clutch.io) | $27/yr | May 19 | [Apply](https://job-boards.greenhouse.io/clutch/jobs/5999707004) |
+| PL Agile Coach  | [ília](https://lia.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/ilia/jobs/5997267004) |
 | Agent de nettoyage (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127178518) |
 | Agency Project Manager | [Wix.com](https://wix.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Wix2/postings/744000127175449) |
+| Business Developer - Marketplace H/F  | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000127171409) |
+| Client Operations Manager | [Journey](https://journey.io) | — | May 19 | [Apply](https://job-boards.greenhouse.io/journey/jobs/5141292007) |
+| Senior Quality Manager (f/m/x) – EPCM Industry, Semiconductor Fabrication Plant | [Drees & Sommer](https://dreso.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000127153989) |
 | Team Manager til Netcompanys Application Services | [Netcompany](https://netcompany.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000127136810) |
+| CHPP Commercial Officer | [Anglo American](https://angloamerican.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000127128629) |
 | Licensing Specialist (Contract) | [Tilt](https://tilt.com) | — | May 19 | [Apply](https://jobs.ashbyhq.com/tilthq/508bca10-00a6-4db2-ac39-8c88a0e6df40) |
 | RCM Associate | [Nourish](https://usenourish.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/usenourish/jobs/5224665008) |
 | Program Manager | [University of Notre Dame](https://universityofnotredame.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013195027) |
@@ -58,6 +70,7 @@ Remote operations and business operations roles across industries.
 | Enterprise Account Director | [VusionGroup SA](https://vusiongroup.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/VusionGroupSA/postings/744000127002764) |
 | Automotive Technician A, B & C - Up to $40/hr & Bonus & Weekends Off - Polaris  | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | $40/yr | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000127003309) |
 | Automotive Technician / Mechanic - $30/HR - $50/HR & Weekends Off - Interquest Parkway | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | $30/yr | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000126996584) |
+| Operations Production Lead | [Volito Aviation August 2007](https://trustly.com) | — | May 18 | [Apply](https://jobs.lever.co/trustly/e12ff61e-79b6-4e30-985b-74c6a70ea7bf) |
 | AML&E Operations Analyst III (12 m FTC) | [GoCardless](https://gocardless.com) | €23K–€35K/yr | May 18 | [Apply](https://job-boards.greenhouse.io/gocardless/jobs/7938209) |
 | Senior Order Management Specialist, Operations | [Motive](https://gomotive.com) | — | May 18 | [Apply](https://job-boards.greenhouse.io/gomotive/jobs/8550346002) |
 | Business Analyst | [Inetum](https://inetum.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000126959530) |

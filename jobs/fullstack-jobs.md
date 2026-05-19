@@ -2,12 +2,14 @@
 
 Full-stack engineering roles across product, platform, and startup companies.
 
-**7 open roles** — Last updated: 2026-05-19
+**9 open roles** — Last updated: 2026-05-19
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| [Job - 29422]  Desenvolvedor FullStack Sênior (.Net/Angular/IA), Brazil | [CI&T](https://cit.com) | — | May 19 | [Apply](https://jobs.lever.co/ciandt/45d00b89-2b0e-4b78-8aee-16434a85a432) |
+| Full Stack Software Engineer .NET (Contractor) | [H1](https://h1.co) | — | May 19 | [Apply](https://jobs.lever.co/h1/fe4e9467-daba-40ed-8634-16958ae56630) |
 | Java Full Stack Developer (Outbound/Selfservice) | [Miratech](https://miratech.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000127162989) |
 | Analytics Lead, Full Stack | [Affirm](https://affirm.com) | — | May 18 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7732706003) |
 | Full Stack Engineer (TypeScript & Node.js) | [Applaudo](https://applaudo.com) | — | May 17 | [Apply](https://api.smartrecruiters.com/v1/companies/ApplaudoStudios/postings/744000126859369) |

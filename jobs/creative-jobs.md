@@ -2,12 +2,13 @@
 
 Remote creative roles — copywriters, content creators, graphic designers, and brand specialists.
 
-**16 open roles** — Last updated: 2026-05-19
+**17 open roles** — Last updated: 2026-05-19
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Studio Producer - FTC | [Gymshark](https://gymshark.com) | — | May 19 | [Apply](https://job-boards.eu.greenhouse.io/gymshark/jobs/4865998101) |
 | Assistant Manager, Graphic Design & Concept | [Frasers Group](https://frasersgroup.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000127132390) |
 | Studentermedhjælper Til Digital Læring Til Netcompany Banking services | [Netcompany](https://netcompany.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000126947909) |
 | Senior Narrative Designer | [TapBlaze](https://tapblaze.com) | $65K–$100K/yr | May 17 | [Apply](https://jobs.ashbyhq.com/tapblaze/7682e8ed-9ddc-497e-b3d5-5a8c417e4b5d) |

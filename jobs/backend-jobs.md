@@ -2,12 +2,13 @@
 
 Backend, server-side, and API engineering roles. Node.js, Python, Go, Ruby, Java and beyond.
 
-**15 open roles** — Last updated: 2026-05-19
+**16 open roles** — Last updated: 2026-05-19
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Back-End Engineer (Rust) - Software | [Truelogic](https://truelogic.com) | — | May 19 | [Apply](https://jobs.ashbyhq.com/truelogic/11e28e74-3355-4ac2-ab2a-d43d88e7d5d5) |
 | Senior Software Engineer, Backend (Payments) | [Affirm](https://affirm.com) | £117K–£157K/yr | May 18 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7737155003) |
 | Senior Backend Engineer | [Job Board](https://corelight.com) | $180K–$214K/yr | May 18 | [Apply](https://boards.greenhouse.io/corelight/jobs/7926834?gh_jid=7926834) |
 | Backend Engineer, Secrets Management (C++/Java) | [Pure Storage](https://purestorage.com) | — | May 18 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/7938215) |

@@ -2,12 +2,14 @@
 
 Remote HR, recruiting, and people operations roles.
 
-**37 open roles** — Last updated: 2026-05-19
+**39 open roles** — Last updated: 2026-05-19
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Benefits Manager | [JRM Construction Management, LLC](https://jrmcm.com) | $140K–$150K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/jrmconstructionmanagementllc/jobs/4682680006) |
+| Recruitment Specialist | [BESIX](https://besix.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000127144669) |
 | Human Resources Consultant (HR Operations) | [Netcompany](https://netcompany.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000127134099) |
 | Manager, Human Resources | [NBCUniversal](https://nbcuniversal.com) | $95K–$110K/yr | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000127067059) |
 | Technical Recruiter  | [Sigma Computing](https://sigmacomputing.com) | — | May 18 | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/7737974003) |
