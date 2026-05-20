@@ -2,12 +2,13 @@
 
 Full-stack engineering roles across product, platform, and startup companies.
 
-**9 open roles** — Last updated: 2026-05-19
+**10 open roles** — Last updated: 2026-05-20
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| AI Full Stack Developer & Architect | [SBT Global](https://sbtglobal.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/SBTGlobalInc/postings/3743990013212845) |
 | [Job - 29422]  Desenvolvedor FullStack Sênior (.Net/Angular/IA), Brazil | [CI&T](https://cit.com) | — | May 19 | [Apply](https://jobs.lever.co/ciandt/45d00b89-2b0e-4b78-8aee-16434a85a432) |
 | Full Stack Software Engineer .NET (Contractor) | [H1](https://h1.co) | — | May 19 | [Apply](https://jobs.lever.co/h1/fe4e9467-daba-40ed-8634-16958ae56630) |
 | Java Full Stack Developer (Outbound/Selfservice) | [Miratech](https://miratech.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000127162989) |

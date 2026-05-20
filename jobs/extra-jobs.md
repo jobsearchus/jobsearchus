@@ -2,16 +2,21 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**233 open roles** — Last updated: 2026-05-19
+**240 open roles** — Last updated: 2026-05-20
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| EN - Chef de Partie | [ACCOR](https://group.accor.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000127349789) |
+| Food & Beverage Supervisor - Hop & Huddle Mercure Perth on Hay | [ACCOR](https://group.accor.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000127347789) |
+| Section Waiter - Marmelo | [ACCOR](https://group.accor.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000127346519) |
+| Praktikant/Werkstudent (w/m/d) Immobilienberatung  | [Drees & Sommer](https://dreso.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000127290330) |
 | Full Time Caregiver (PM) | [Silverado](https://silverado.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/silverado/jobs/5141637007) |
 | EHS Coordinator | [Genpak LLC](https://genpak-llc-2) | — | May 19 | [Apply](https://job-boards.eu.greenhouse.io/lotusworks/jobs/4870618101) |
 | Full Time Caregiver (PM) | [Silverado](https://silverado.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/silverado/jobs/5140801007) |
 | Business Development Representative | [Box](https://box.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/boxinc/jobs/7941723) |
+| NBC Connecticut Newsroom Intern - Academic Year 2026-2027 | [NBCUniversal](https://nbcuniversal.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000127241360) |
 | Adult Acute Speech and Language Therapist | [Pulse](https://runpulse.com) | £32/yr | May 19 | [Apply](https://job-boards.greenhouse.io/pulse/jobs/7739988003) |
 | Physical Therapist | [Genpak LLC](https://genpak-llc-2) | $72K–$85K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/drayerpt/jobs/5141404007) |
 | Bartender - High Road House, West London | [Soho House](https://sohohouse.com) | — | May 19 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4869770101) |
@@ -28,7 +33,9 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Licensed Mental Health Therapist (LCSW, LPCC, LMFT) – Remote, California - Contract with W2 Potential | [Daybreak Health](https://daybreakhealth.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/daybreakhealth/jobs/5141277007) |
 | Tire Building Radial Operator       | [Continental](https://continentalserves.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000127154411) |
 | Process setting operator - 2W (Radial) | [Continental](https://continentalserves.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000127155449) |
+| Speech Pathologist | [Genpak LLC](https://genpak-llc-2) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/APMGroup/postings/6000000001087130) |
 | Professional Learning Partner, Hawaii (Contractor) | [Seesaw](https://seesaw.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/seesaw/jobs/4681858006) |
+| #EG Delivery Lead (Data & AI) | [NCS](https://ncs.co) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001086902) |
 | Clinical Nurse Coordinator-Transplant (Central Region) | [Natera](https://natera.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/natera/jobs/5997327004) |
 | Medical Science Liaison | [Distro](https://distro.app) | — | May 18 | [Apply](https://jobs.lever.co/distro/122a6d02-8ef8-4b3c-966e-48eaf045e922) |
 | IT Applications Administrator  | [Stratolaunch](https://stratolaunch.com) | $83K–$110K/yr | May 18 | [Apply](https://job-boards.greenhouse.io/stratolaunch/jobs/5224546008) |

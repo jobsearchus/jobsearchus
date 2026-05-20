@@ -2,20 +2,24 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**225 open roles** — Last updated: 2026-05-19
+**230 open roles** — Last updated: 2026-05-20
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Mid-Market Customer Success Manager – North America & LATAM (Bilingual)  | [Canva](https://canva.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001088236) |
 | Presales Architect | [Twilio](https://twilio.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7942258) |
 | Digital Sales Representative | [Twilio](https://twilio.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7875918) |
 | Business Development Director (CPG) | [The Trade Desk](https://thetradedesk.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5137713007) |
 | Account Development Representative - Central | [Job Board](https://corelight.com) | $180K–$214K/yr | May 19 | [Apply](https://boards.greenhouse.io/corelight/jobs/7942808?gh_jid=7942808) |
+| Enterprise Renewal Manager, SMB & MidMarket | [Sectigo](https://sectigo.com) | $70K–$80K/yr | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Sectigo/postings/3743990013208906) |
 | Strategic Account Manager | [Sardine](https://sardine.ai) | — | May 19 | [Apply](https://jobs.ashbyhq.com/sardine/84b8ff1e-81a2-44e7-9161-9ccd5e5b0cb3) |
 | Account Development Associate - Fever For Business  | [Fever](https://feverup.com) | — | May 19 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4871043101) |
+| Assistant Commercial VO (H/F) | [AUTO1 Group](https://auto1-group.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000127252715) |
 | Account Executive, Enterprise Sales | [Poka Labs](https://pokalabs.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/poka/jobs/5999919004) |
 | Director, Growth Marketing | [Figma](https://figma.com) | — | May 19 | [Apply](https://boards.greenhouse.io/figma/jobs/5998147004?gh_jid=5998147004) |
+| Concepteur (vendeur) cuisine F/H/X | [BUT](https://but.fr) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000127229229) |
 | Market Ambassador - Nashville | [Odeko](https://odeko.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/odeko/jobs/5999821004) |
 | Account Manager, Small Business | [PandaDoc](https://pandadoc.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/pandadoc/jobs/7939539) |
 | Enterprise Account Manager | [Instawork](https://instawork.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/instawork/jobs/4682536006) |
@@ -27,6 +31,7 @@ Remote sales roles — account executives, SDRs, and enterprise deals.
 | Account Executive | [Twilio](https://twilio.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7936698) |
 | VENDEUR CONSEIL - CDD H/F | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000127192309) |
 | Regional Manager, Strategic Accounts | [Razorpay Software Private Limited](https://razorpay.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4696274005) |
+| DBA Team Lead | [Wix.com](https://wix.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Wix2/postings/744000127190299) |
 | Business Development Manager | [Standard Bank](https://standardbank.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000127189509) |
 | Manager, Cross Border | [Razorpay Software Private Limited](https://razorpay.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4696845005) |
 | Sales Development Representative - Bi-lingual (German / French / Swedish / Norwegian / Danish / Spanish / Finnish / Arabic / Italian) | [Saviynt](https://saviynt.com) | — | May 19 | [Apply](https://jobs.lever.co/saviynt/73b92781-6468-4574-bac8-3fb090b7d1b0) |

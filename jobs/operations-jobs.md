@@ -2,19 +2,33 @@
 
 Remote operations and business operations roles across industries.
 
-**253 open roles** — Last updated: 2026-05-19
+**267 open roles** — Last updated: 2026-05-20
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Manager, Business Management | [IQ-EQ](https://iqeq.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000127348969) |
+| HV Electrician | [Anglo American](https://angloamerican.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000127348729) |
+| Safety Officer - Document Control | [Anglo American](https://angloamerican.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000127348110) |
+| Warehouse Officer | [Anglo American](https://angloamerican.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000127347709) |
+| Justice Education Program Manager | [University of Notre Dame](https://universityofnotredame.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013215557) |
 | Team Leader | [Greene King](https://greeneking.co.uk) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/GreeneKing/postings/744000127290038) |
 | Associate Sales Development Representative | [Ping Identity](https://pingidentity.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/pingidentity/jobs/8550724002) |
 | Kitchen Assistant | [Greene King](https://greeneking.co.uk) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/GreeneKing/postings/744000127279574) |
 | Licensed Automotive Technician | [Clutch](https://clutch.io) | $39/yr | May 19 | [Apply](https://job-boards.greenhouse.io/clutch/jobs/6000031004) |
+| QUALITY COORDINATOR (intern) M/F | [Egis](https://egis-group.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000127253239) |
+| NBCU Local Bay Area - Production Assistant Internship – Summer 2026 | [NBCUniversal](https://nbcuniversal.com) | $19/yr | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000127251488) |
+| AZ City P&D Driver  - Ottawa | [Manitoulin Global Forwarding](https://manitoulingroup.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000127243707) |
+| Stagiaire Achat Madrid (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000127242164) |
 | Assistant Project Manager  | [JRM Construction Management, LLC](https://jrmcm.com) | $75K–$110K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/jrmconstructionmanagementllc/jobs/4682361006) |
+| Dispatcher or Assistant Dispatcher- Saskatoon | [Manitoulin Global Forwarding](https://manitoulingroup.com) | $25/yr | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000127233630) |
 | Seasonal Market Farm Crew Member | [WellPower - All External Jobs](https://wellpower.org) | — | May 19 | [Apply](https://job-boards.greenhouse.io/mentalhealthcenterofdenver/jobs/7730617003) |
 | Engagement Director - Microsoft Azure | [TTEC Digital](https://ttecdigital.com) | — | May 19 | [Apply](https://jobs.lever.co/ttecdigital/05488d39-a15b-4363-86a3-a50e20bc3a3f) |
+| Customer Service Representative – French speaker | [MSX International](https://msxi.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013205218) |
+| Automotive Technician - Climate Controlled Shop + Weekends Off - Clemson | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000127216485) |
+| WEEKENDS OFF General Service Technician / Mechanic - Litchfield Park | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000127214464) |
+| Automotive Technician / Mechanic - Up to $50/HR* & Weekends Off - Litchfield Park | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | $50/yr | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000127212752) |
 | Chef d’équipe atelier mécanique (H/F) | [AUTO1 Group](https://auto1-group.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000127199952) |
 | Magasinier Chiffreur automobile (H/F) | [AUTO1 Group](https://auto1-group.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000127199279) |
 | Apprentice Automotive Service Technician | [Clutch](https://clutch.io) | $27/yr | May 19 | [Apply](https://job-boards.greenhouse.io/clutch/jobs/5999707004) |

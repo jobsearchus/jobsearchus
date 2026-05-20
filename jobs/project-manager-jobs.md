@@ -2,12 +2,14 @@
 
 Project and program management roles across tech, operations, and enterprise.
 
-**16 open roles** — Last updated: 2026-05-19
+**18 open roles** — Last updated: 2026-05-20
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Posted | Apply |
 | --- | --- | --- | --- |
+| Project Manager (Onsite) | [Applaudo](https://applaudo.com) | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/ApplaudoStudios/postings/744000127307356) |
+| Praktikant/Werkstudent (w/m/d) Projektmanagement Hochbau | [Drees & Sommer](https://dreso.com) | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000127292679) |
 | Events Program Manager | [University of Notre Dame](https://universityofnotredame.com) | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013195006) |
 | Business Development & Senior PM - Transportation | [AECOM](https://aecom.com) | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000127073169) |
 | Project Administrator | [Standard Bank](https://standardbank.com) | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000126954747) |

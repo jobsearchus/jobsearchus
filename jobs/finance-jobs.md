@@ -2,16 +2,25 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**105 open roles** — Last updated: 2026-05-19
+**114 open roles** — Last updated: 2026-05-20
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Director, Fund Accounting | [IQ-EQ](https://iqeq.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000127348769) |
+| Senior Specialist, Underwriter | [Standard Bank](https://standardbank.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000127309182) |
+| Senior Manager, Technical Revenue Accounting  | [Freshworks](https://freshworks.com) | $170K–$223K/yr | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000127308830) |
+| Senior Specialist, Underwriter | [Standard Bank](https://standardbank.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000127306470) |
+| Specialist, Underwriter | [Standard Bank](https://standardbank.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000127306949) |
+| Senior Manager FP&A, Strategic Finance  - Remote | [Experian](https://experianplc.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000127300469) |
 | Sales Team Lead - SMB | [Too Good To Go](https://toogoodtogo.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/toogoodtogo/jobs/7738589003) |
 | Country Controller | [Wolt](https://wolt.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7942260) |
+|  COMPTABLE (H/F) GMS | [Genpak LLC](https://genpak-llc-2) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127264619) |
+| AIDE COMPTABLE (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127263839) |
 | Director, Corporate Consolidations | [The Trade Desk](https://thetradedesk.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5141095007) |
 | Compensation Manager, Global Rewards | [Coursera](https://coursera.org) | $128K–$150K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/coursera/jobs/5989213004) |
+| Business Controller | [BESIX](https://besix.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000127234528) |
 | Cost Estimator | [JRM Construction Management, LLC](https://jrmcm.com) | $75K–$100K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/jrmconstructionmanagementllc/jobs/4682697006) |
 | Quantitative Researcher - Discretionary | [Man Group](https://man.com) | — | May 19 | [Apply](https://job-boards.eu.greenhouse.io/mangroup/jobs/4866654101) |
 | Senior Accountant (They/She/He) | [Delivery Hero](https://deliveryhero.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000127213586) |

@@ -2,7 +2,7 @@
 
 Product manager roles at companies building real products. Sourced directly from career pages.
 
-**35 open roles** — Last updated: 2026-05-19
+**36 open roles** — Last updated: 2026-05-20
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -13,6 +13,7 @@ Product manager roles at companies building real products. Sourced directly from
 | VP, Product (CLEAR1 - B2B) | [Clear Gene](https://cleargene.com) | $275K–$350K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/clear/jobs/7942495) |
 | Senior Product Manager - 18 Month FTC | [Trainline](https://trainlinegroup.com) | — | May 19 | [Apply](https://jobs.ashbyhq.com/trainline/8d36345b-59e7-46b9-8a67-8cc08e8ca1f2) |
 | Product Lead - Content Group | [Canva](https://canva.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001087190) |
+| Head of Product - Print | [Canva](https://canva.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001086589) |
 | Regional Manager, Commercial Sales | [Smartsheet](https://smartsheet.com) | — | May 18 | [Apply](https://job-boards.greenhouse.io/smartsheet/jobs/7939659) |
 | Product Manager - Connected Retail Experiences | [Avery Dennison](https://averydennison.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000127070969) |
 | Product Manager | [Shift4](https://shift4.com) | — | May 18 | [Apply](https://job-boards.greenhouse.io/shift4/jobs/5130099007) |

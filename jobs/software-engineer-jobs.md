@@ -2,24 +2,45 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**335 open roles** — Last updated: 2026-05-19
+**357 open roles** — Last updated: 2026-05-20
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Principal Civil Engineer - Urban Development | [Egis](https://egis-group.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000127317627) |
+| Business Analyst Salesforce - Intermedio | [Inetum](https://inetum.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000127315429) |
+| Business Analyst Salesforce - Senior | [Inetum](https://inetum.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000127315172) |
+| Senior Manager, Software Engineering - Remote | [Experian](https://experianplc.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000127310269) |
+| Product Manager (Onsite) | [Applaudo](https://applaudo.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/ApplaudoStudios/postings/744000127306688) |
+| Especialista de Dados | [MSX International](https://msxi.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013218386) |
+| Senior Staff Engineer - INFOR M3 Support Consultant | [Nagarro](https://nagarro.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000127303039) |
+| Senior Staff Engineer - INFOR M3 Support Consultant | [Nagarro](https://nagarro.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000127302559) |
+| Principal Engineer - SAP Cloud Solution Architect | [Nagarro](https://nagarro.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000127301859) |
+| Warranty Claim Assessor | [MSX International](https://msxi.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013217456) |
+| Temporary - Administrative Assistant | [University of Notre Dame](https://universityofnotredame.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013216856) |
+| Ingénieur Système - Senior | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000127295179) |
 | 6343 - Quality Lead / Quality Engineer | [Verista](https://verista.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/veristainc/jobs/5225368008) |
 | Data Engineer (Snowflake / Systems Integration) | [Squire Technologies](https://getsquire.com) | — | May 19 | [Apply](https://jobs.lever.co/getsquire/2eaa0b0c-cf13-4a74-844f-37f7ad062a41) |
 | Senior Scientist/Principal Scientist, Protein Design & Modeling | [Raven Tech](https://raventech.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/raven/jobs/5224498008) |
+|  Overhead Catenary System (OCS) Engineer | [Egis](https://egis-group.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000127264249) |
+| Senior IT Engineer Network | [Continental](https://continentalserves.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000127261189) |
+| Co-op Fall 2026 – Software Development and Test – 12 months | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000127255509) |
 | Engineering Manager, Customer Studio | [Hightouch](https://hightouch.com) | $220K–$300K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/hightouch/jobs/5999976004) |
 | Senior Program Manager | [The Weather Company](https://theweather.com) | $130K–$155K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/theweathercompany/jobs/5135340007) |
 | Data Analyst Sênior | [Skydropx](https://skydropx.com) | — | May 19 | [Apply](https://jobs.ashbyhq.com/skydropx/15dc51e3-512c-45a2-b429-2e838103940e) |
+| (Senior) Consultant SAP-SD | [Continental](https://continentalserves.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000127245866) |
 | Senior Data Architect | [ŌURA](https://ouraring.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/oura/jobs/4246508009) |
 | Sr. Mixed Methods UX Researcher | [Blink UX](https://blinkux.com) | — | May 19 | [Apply](https://jobs.lever.co/blinkux/fdbc5377-090d-4381-9b2b-2b2c089a5030) |
 | Data Consulting Manager | [LinkedIn Job Wrapping](https://artefact.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/artefactlinkedin/jobs/8556505002) |
+| Principal Software Engineer - Apps | [NBCUniversal](https://nbcuniversal.com) | $185K–$215K/yr | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000127235269) |
 | Pioneering Medicines: Vice President /  Senior Vice President - Head of Biology (Invitro and InVivo Pharmacology) | [Flagship Pioneering, Inc.](https://flagshippioneering.com) | $252K–$410K/yr | May 19 | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8547816002?gh_jid=8547816002) |
 | Accountant | [Too Good To Go](https://toogoodtogo.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/toogoodtogo/jobs/7739720003) |
+| Senior Manager, Corporate Strategy | [Freshworks](https://freshworks.com) | $210K–$260K/yr | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000127219531) |
 | [Job -  29399] AI Solutions Architect, Brazil | [CI&T](https://cit.com) | — | May 19 | [Apply](https://jobs.lever.co/ciandt/c9b74739-d901-457e-9341-91bef5c78b1e) |
+| Parkwide Associate Network Manager | [NBCUniversal](https://nbcuniversal.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000127215244) |
+| Technical Project Manager | [NBCUniversal](https://nbcuniversal.com) | $75K–$105K/yr | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000127214437) |
+| Parkwide Associate Network Manager | [NBCUniversal](https://nbcuniversal.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000127210585) |
 | IT Specialist - Barranquilla Remote | [Proper](https://properfinance.io) | — | May 19 | [Apply](https://jobs.lever.co/proper/5df18bf3-d592-40fe-9342-af76718300ad) |
 | Manager, Software Development | [Sectigo](https://sectigo.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Sectigo/postings/3743990013200696) |
 | Développeur Java / Spring (H/F) | [Inetum](https://inetum.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000127201640) |
@@ -52,6 +73,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Senior Engineer, Unix/Linux System | [NCS](https://ncs.co) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001087550) |
 | Data Operations Engineer - Python | [Qube Research & Technologies](https://quberesearch.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8555959002) |
 | Principal Engineer, CRM Salesforce Marketing Cloud  | [Nagarro](https://nagarro.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000127123734) |
+| #EG Data Engineer  | [NCS](https://ncs.co) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001086412) |
 | Senior Client Solution Architect (Remote) | [Myriad360](https://myriad360.com) | $250K–$275K/yr | May 19 | [Apply](https://boards.greenhouse.io/myriad360/jobs/8555863002?gh_jid=8555863002) |
 | Forward Deployed Engineering Intern (AI Agent)  | [Cresta](https://cresta.com) | — | May 18 | [Apply](https://job-boards.greenhouse.io/cresta/jobs/5102116008) |
 | Software Engineer, Online Decisioning | [Signifyd](https://signifyd.com) | $160K–$180K/yr | May 18 | [Apply](https://job-boards.greenhouse.io/signifyd95/jobs/7926663) |

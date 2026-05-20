@@ -2,13 +2,14 @@
 
 Remote HR, recruiting, and people operations roles.
 
-**40 open roles** — Last updated: 2026-05-19
+**41 open roles** — Last updated: 2026-05-20
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | Benefits Manager | [JRM Construction Management, LLC](https://jrmcm.com) | $140K–$150K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/jrmconstructionmanagementllc/jobs/4682680006) |
+| Lead Human Relations Business Partner | [Continental](https://continentalserves.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000127224679) |
 | Recruitment Specialist | [BESIX](https://besix.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000127144669) |
 | Interim Associate Director, People, Int'l | [e.l.f. Beauty](https://elfbeauty.com) | — | May 19 | [Apply](https://jobs.lever.co/elfbeauty/60c1228b-f2e1-40b7-857f-b1918e19d871) |
 | Human Resources Consultant (HR Operations) | [Netcompany](https://netcompany.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000127134099) |
