@@ -2,12 +2,15 @@
 
 Remote operations and business operations roles across industries.
 
-**278 open roles** — Last updated: 2026-05-20
+**283 open roles** — Last updated: 2026-05-20
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Berufsausbildung Kaufmann für Digitalisierungsmanagement (m/w/d) - ContiTech | [Continental](https://continentalserves.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000127448551) |
+| Baker 1 - Three Leaf Catering | [University of Notre Dame](https://universityofnotredame.com) | $18/yr | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013225476) |
+| Technicien(ne) HSE en alternance | [Continental](https://continentalserves.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000127426049) |
 | WMS Configuration Analyst | [Primark Tiendas SLU](https://primark.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000127413269) |
 | Global People Lifecycle & Process Owner | [Zscaler](https://zscaler.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5142522007) |
 | Manager, Business Management | [IQ-EQ](https://iqeq.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000127348969) |
@@ -17,6 +20,7 @@ Remote operations and business operations roles across industries.
 | Industrial Project Manager | [ALTEN](https://alten.com) | $70K–$100K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5142454007) |
 | Business Development Operations Associate (Contract) | [NerdWallet](https://nerdwallet.com) | $40/yr | May 19 | [Apply](https://jobs.ashbyhq.com/nerdwallet/5bc71b9b-339a-4f0c-a174-0aaac3ad00f5) |
 | Trust & Safety Analyst | [The Knot Worldwide](https://theknotworldwide.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/theknotworldwide/jobs/5225529008) |
+| Assistant Manager Food | [NBCUniversal](https://nbcuniversal.com) | $32/yr | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000127312311) |
 | Business Operations Analyst | [Zynga](https://zynga.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/zyngacareers/jobs/5995420004) |
 | Copy of KCS (Knowledge Centered Service) Enablement Expert | [MariaDB](https://mariadb.com) | — | May 19 | [Apply](https://job-boards.eu.greenhouse.io/mariadbplc/jobs/4871248101) |
 | Senior Business Manager | [ALTEN](https://alten.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5088241007) |
@@ -27,6 +31,7 @@ Remote operations and business operations roles across industries.
 | Associate Sales Development Representative | [Ping Identity](https://pingidentity.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/pingidentity/jobs/8550724002) |
 | Kitchen Assistant | [Greene King](https://greeneking.co.uk) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/GreeneKing/postings/744000127279574) |
 | Licensed Automotive Technician | [Clutch](https://clutch.io) | $39/yr | May 19 | [Apply](https://job-boards.greenhouse.io/clutch/jobs/6000031004) |
+| Jr. Infra (Hardware) Technician | [SBT Global](https://sbtglobal.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/SBTGlobalInc/postings/3743990013208286) |
 | QUALITY COORDINATOR (intern) M/F | [Egis](https://egis-group.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000127253239) |
 | NBCU Local Bay Area - Production Assistant Internship – Summer 2026 | [NBCUniversal](https://nbcuniversal.com) | $19/yr | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000127251488) |
 | AZ City P&D Driver  - Ottawa | [Manitoulin Global Forwarding](https://manitoulingroup.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000127243707) |

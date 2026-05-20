@@ -2,12 +2,15 @@
 
 General developer and programmer roles that did not fit a more specific category.
 
-**30 open roles** — Last updated: 2026-05-20
+**33 open roles** — Last updated: 2026-05-20
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Integration Developer (Boomi) | [Nagarro](https://nagarro.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000127419177) |
+| Gameplay Programmer Senior Unreal | [Old Skull Games](https://oldskullgames.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/OldSkullGames1/postings/744000127396589) |
+| Gameplay Programmer Senior Unity | [Old Skull Games](https://oldskullgames.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/OldSkullGames1/postings/744000127388461) |
 | Developer Salesforce Vlocity - Intermedio | [Inetum](https://inetum.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000127315489) |
 | ServiceNow Developer  | [LightFeather](https://lightfeather.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5225794008) |
 | Co-op Fall 2026 - Unreal Engine Developer - 4 Months | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000127297744) |

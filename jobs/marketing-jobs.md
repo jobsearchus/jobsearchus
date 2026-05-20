@@ -2,13 +2,14 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**103 open roles** — Last updated: 2026-05-20
+**104 open roles** — Last updated: 2026-05-20
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | Above Market Digital Planning Business Director, (Parental Cover) | [WPP Media](https://wppmedia.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5217026008) |
+| Technical SEO Lead  | [Canva](https://canva.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001091672) |
 | Senior Portfolio Manager and Business Development | [Syngenta](https://syngenta.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000127388339) |
 | Account Director, Paid Social | [WPP Media](https://wppmedia.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5221293008) |
 | Account Director, Cross Channel | [WPP Media](https://wppmedia.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5223361008) |

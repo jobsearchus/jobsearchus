@@ -2,7 +2,7 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**204 open roles** — Last updated: 2026-05-20
+**205 open roles** — Last updated: 2026-05-20
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -13,6 +13,7 @@ Remote roles paying $100,000 or more per year. Salary data pulled directly from 
 | Lecturer, English Literacy Education (Primary/Secondary) | [Western Sydney University](https://westernsydney.edu.au) | $123K–$146K/yr | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/WesternSydneyUniversity/postings/6000000001091301) |
 | Senior Software Engineer | [IonQ](https://ionq.com) | $146K–$191K/yr | May 20 | [Apply](https://job-boards.greenhouse.io/ionq/jobs/5998606004) |
 | Software Engineer - PlanetScale Postgres | [PlanetScale](https://planetscale.com) | $120K–$290K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/planetscale/jobs/4251150009) |
+| Manager of Technology - NBC Bay Area | [NBCUniversal](https://nbcuniversal.com) | $125K–$165K/yr | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000127312999) |
 | Senior Brand & Integrated Campaigns Manager | [Cresta](https://cresta.com) | $140K–$180K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/cresta/jobs/5225877008) |
 | Program Manager, Aircraft Integration | [Archer](https://archer.com) | $173K–$216K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7593385003) |
 | Staff Customer Success Manager, Majors (Financial Services) | [Chainguard](https://chainguard.dev) | $200K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/chainguard/jobs/4682909006) |

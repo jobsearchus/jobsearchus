@@ -2,12 +2,13 @@
 
 Remote HR, recruiting, and people operations roles.
 
-**45 open roles** — Last updated: 2026-05-20
+**46 open roles** — Last updated: 2026-05-20
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Employment Consultant | [Genpak LLC](https://genpak-llc-2) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/APMGroup/postings/6000000001091522) |
 | Global Early Careers Campus Recruiter | [OakNorth](https://oaknorth.com) | — | May 20 | [Apply](https://jobs.lever.co/oaknorth.ai/4eb296da-d5ef-4ff5-bcaf-5efdf123f677) |
 | People Operations Specialist | [Vanta](https://vanta.com) | — | May 19 | [Apply](https://jobs.ashbyhq.com/vanta/ac23b101-7664-4ba4-a70e-71cd13020d6d) |
 | Director of Global Benefits | [Scopely](https://scopely.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/scopely/jobs/5211606008) |

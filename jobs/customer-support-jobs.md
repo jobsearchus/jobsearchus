@@ -2,15 +2,18 @@
 
 Remote customer support and success roles across SaaS, e-commerce, and tech.
 
-**81 open roles** — Last updated: 2026-05-20
+**84 open roles** — Last updated: 2026-05-20
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| CAISSIER - HÔTE DE CAISSE (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127470221) |
 | Müşteri Hizmetleri Uzmanı | [JYSK](https://jysk.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000127410409) |
+| Customer Care Coordinator/Manager  - Home Care | [Healthcare Australia](https://healthcareaustralia.com.au) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/HealthcareAustralia1/postings/6000000001089981) |
 | Subway Cashier | [Pilot Flying J](https://pilotflyingj.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/PilotCompany/postings/744000127347539) |
 | Subway Sandwich Artist | [Pilot Flying J](https://pilotflyingj.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/PilotCompany/postings/744000127347409) |
+| Customer Experience Specialist  | [SBT Global](https://sbtglobal.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/SBTGlobalInc/postings/3743990013221156) |
 | Sr. Partner Success Associate (Remote) | [Rula](https://rula.com) | — | May 19 | [Apply](https://jobs.ashbyhq.com/rula/2b7e0f5f-8f4f-440f-baed-15c5d1a4b8c9) |
 | Staff Customer Success Manager, Majors (Financial Services) | [Chainguard](https://chainguard.dev) | $200K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/chainguard/jobs/4682909006) |
 | Pro Camera Support | [Nexus](https://agent.nexus) | — | May 19 | [Apply](https://job-boards.greenhouse.io/nexus/jobs/5225650008) |

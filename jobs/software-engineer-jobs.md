@@ -2,15 +2,31 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**394 open roles** — Last updated: 2026-05-20
+**417 open roles** — Last updated: 2026-05-20
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Ingénieur Études de Prix - Cellule Appels d'Offres | [Egis](https://egis-group.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000127474992) |
+| Maintenance Technician-Nights | [Continental](https://continentalserves.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000127442859) |
+| System Integration & Test, Intermediate   | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $77K–$91K/yr | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000127430750) |
+| Senior Python Software Engineer | [Accesa](https://accesa.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/ACCESA/postings/744000127424749) |
+| System Administrator / Workplace Management (m/f/d) | [Nagarro](https://nagarro.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000127416649) |
+| Associate Principal Engineer, Cloud Security | [Nagarro](https://nagarro.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000127407829) |
+| Technical Helpdesk Specialist (Automotive) | [MSX International](https://msxi.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013223876) |
+| Google DialogFlow Engineer | [Miratech](https://miratech.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000127399300) |
+| Google DialogFlow Engineer | [Miratech](https://miratech.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000127400699) |
+| Google DialogFlow Engineer | [Miratech](https://miratech.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000127400656) |
+| Google DialogFlow Engineer | [Miratech](https://miratech.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000127399430) |
+| Google DialogFlow Engineer | [Miratech](https://miratech.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000127400130) |
+| Google DialogFlow Engineer | [Miratech](https://miratech.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000127400060) |
 | Junior Analytics Engineer | [takealot.com](https://takealot.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/takealotcom/jobs/7938255) |
+| #EG Helpdesk and Concierge Engineer (M365) | [NCS](https://ncs.co) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001091604) |
 | Sr Data Engineer II -  Salesforce (Hybrid) | [Smartsheet](https://smartsheet.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/smartsheet/jobs/7945625) |
+| xEngineer - Online Stores | [Wix.com](https://wix.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Wix2/postings/744000127370103) |
 | Seed Production Pathologist | [Syngenta](https://syngenta.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000127366690) |
+| Sr. Staff Engineer (Python,Pyspark,AWS) | [Experian](https://experianplc.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000127363221) |
 | Salesforce Commerce Cloud - Technical Architect | [VML MAP](https://vml-map.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/map/jobs/8555958002) |
 | Salesforce Commerce Cloud - Technical Architect | [VML](https://vml.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/vmlenterprisesolutions/jobs/8555955002) |
 | Analyst, Workforce Management | [Zscaler](https://zscaler.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5141031007) |
@@ -23,10 +39,14 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Business Analyst Salesforce - Intermedio | [Inetum](https://inetum.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000127315429) |
 | Business Analyst Salesforce - Senior | [Inetum](https://inetum.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000127315172) |
 | Software Engineer - PlanetScale Postgres | [PlanetScale](https://planetscale.com) | $120K–$290K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/planetscale/jobs/4251150009) |
+| Cloud Architect (GCP) | [Applaudo](https://applaudo.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/ApplaudoStudios/postings/744000127314718) |
 | Senior Software Engineer, Identity and Access Management | [Owner.com](https://owner.com) | — | May 19 | [Apply](https://jobs.ashbyhq.com/Owner/f3a1916f-4da3-4579-88c1-7afeca67811d) |
 | Senior Software Engineer, Identity and Access Management | [Owner.com](https://owner.com) | — | May 19 | [Apply](https://jobs.ashbyhq.com/Owner/2fa4d97f-2bc3-4963-88cb-6b95a8412b23) |
 | Senior Optical Engineer | [IonQ](https://ionq.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/ionq/jobs/5998696004) |
+| Manager of Technology - NBC Bay Area | [NBCUniversal](https://nbcuniversal.com) | $125K–$165K/yr | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000127312999) |
+| Broadcast Systems Engineer, NBC Boston | [NBCUniversal](https://nbcuniversal.com) | $90K–$110K/yr | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000127312899) |
 | Engineering Manager, AI | [Vanta](https://vanta.com) | — | May 19 | [Apply](https://jobs.ashbyhq.com/vanta/cb12e9ef-d4c1-47fb-8581-038e29f61c6a) |
+| Researcher, TODAY | [NBCUniversal](https://nbcuniversal.com) | $26/yr | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000127311019) |
 | Software Engineer, Lending | [Chime](https://chime.com) | $15K/yr | May 19 | [Apply](https://boards.greenhouse.io/chime/jobs/8535338002?gh_jid=8535338002) |
 | Senior Manager, Software Engineering - Remote | [Experian](https://experianplc.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000127310269) |
 | Senior Software Engineer - LLM Observability | [Honeycomb.io](https://honeycomb.io) | — | May 19 | [Apply](https://job-boards.greenhouse.io/honeycomb/jobs/5220921008) |
@@ -61,7 +81,9 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 |  Overhead Catenary System (OCS) Engineer | [Egis](https://egis-group.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000127264249) |
 | Systems Integrator | [ANSER](https://anser.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/analyticservicesinc/jobs/5223149008?gh_jid=5223149008) |
 | Senior IT Engineer Network | [Continental](https://continentalserves.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000127261189) |
+| Mid Linux Engineer (Korean Bilingual) | [SBT Global](https://sbtglobal.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/SBTGlobalInc/postings/3743990013208326) |
 | Co-op Fall 2026 – Software Development and Test – 12 months | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000127255509) |
+| Co-op Fall 2026 - Firmware Development and Test - 12-Months | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000127255469) |
 | Engineering Manager, Customer Studio | [Hightouch](https://hightouch.com) | $220K–$300K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/hightouch/jobs/5999976004) |
 | Senior Systems Integrator | [ANSER](https://anser.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/analyticservicesinc/jobs/5223151008?gh_jid=5223151008) |
 | Senior Program Manager | [The Weather Company](https://theweather.com) | $130K–$155K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/theweathercompany/jobs/5135340007) |
@@ -73,6 +95,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Principal Software Engineer - Apps | [NBCUniversal](https://nbcuniversal.com) | $185K–$215K/yr | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000127235269) |
 | Pioneering Medicines: Vice President /  Senior Vice President - Head of Biology (Invitro and InVivo Pharmacology) | [Flagship Pioneering, Inc.](https://flagshippioneering.com) | $252K–$410K/yr | May 19 | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8547816002?gh_jid=8547816002) |
 | Accountant | [Too Good To Go](https://toogoodtogo.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/toogoodtogo/jobs/7739720003) |
+| Applied Research Postdoctoral Fellow in AI Literacy & Faculty Development  | [University of Notre Dame](https://universityofnotredame.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013204263) |
 | Senior Manager, Corporate Strategy | [Freshworks](https://freshworks.com) | $210K–$260K/yr | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000127219531) |
 | [Job -  29399] AI Solutions Architect, Brazil | [CI&T](https://cit.com) | — | May 19 | [Apply](https://jobs.lever.co/ciandt/c9b74739-d901-457e-9341-91bef5c78b1e) |
 | Parkwide Associate Network Manager | [NBCUniversal](https://nbcuniversal.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000127215244) |

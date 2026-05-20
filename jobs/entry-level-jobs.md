@@ -2,20 +2,31 @@
 
 Remote jobs open to candidates with 0–2 years of experience. A real way in — no degree gatekeeping.
 
-**250 open roles** — Last updated: 2026-05-20
+**263 open roles** — Last updated: 2026-05-20
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| CAISSIER - HÔTE DE CAISSE (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127470221) |
+| VENDEUR EN METIERS TRADITIONNELS (H/F) (BOUCHERIE ou CHARCUTERIE/FROMAGE/TRAITEUR) | [Genpak LLC](https://genpak-llc-2) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127465101) |
+| Berufsausbildung Kaufmann für Digitalisierungsmanagement (m/w/d) - ContiTech | [Continental](https://continentalserves.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000127448551) |
+| Baker 1 - Three Leaf Catering | [University of Notre Dame](https://universityofnotredame.com) | $18/yr | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013225476) |
+| Technicien(ne) HSE en alternance | [Continental](https://continentalserves.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000127426049) |
+| Associate Data Scientist | [Acumatica](https://acumatica.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Acumatica/postings/744000127421105) |
 | RETAIL ASSISTANT | [Primark Tiendas SLU](https://primark.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000127412925) |
 | Müşteri Hizmetleri Uzmanı | [JYSK](https://jysk.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000127410409) |
 | VERKÄUFER/IN TEILZEIT (M/W/D) – Kalkar (20 Std) | [JYSK](https://jysk.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000127405839) |
+| Junior Accountant | [Netcompany](https://netcompany.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000127405369) |
 | Sales Assistant (Part time) Categorie Protette - Carugate C.C ''Carosello'' | [JD Sports](https://jdsports.com) | — | May 20 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4871678101) |
 | SPRZEDAWCA / SPRZEDAWCZYNI JYSK BIELSKO-BIAŁA UL.MOSTOWA 3/4 etatu (4000 PLN) | [JYSK](https://jysk.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000127396904) |
 | Junior Analytics Engineer | [takealot.com](https://takealot.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/takealotcom/jobs/7938255) |
+| Assistant(e) Comptable Fournisseurs (Alternance -Septembre 2026) | [Gameloft](https://gameloft.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Gameloft/postings/744000127396859) |
+| Casual Sales Assistant | [Frasers Group](https://frasersgroup.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000127365777) |
 | Frietbakker | [Escape](https://escape.tech) | — | May 20 | [Apply](https://jobs.escape.nl/o/frietbakker-15/c/new) |
 | Medewerker Bediening | [Escape](https://escape.tech) | — | May 20 | [Apply](https://jobs.escape.nl/o/medewerker-bediening-40/c/new) |
+| Casual Sales Assistant | [Frasers Group](https://frasersgroup.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000127364039) |
+| Casual Sales Assistant | [Frasers Group](https://frasersgroup.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000127363809) |
 | Subway Cashier | [Pilot Flying J](https://pilotflyingj.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/PilotCompany/postings/744000127347539) |
 | Subway Sandwich Artist | [Pilot Flying J](https://pilotflyingj.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/PilotCompany/postings/744000127347409) |
 | Section Waiter - Marmelo | [ACCOR](https://group.accor.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000127346519) |
@@ -35,7 +46,9 @@ Remote jobs open to candidates with 0–2 years of experience. A real way in —
 | Staff Accountant | [Princess Polly](https://princesspolly.com) | — | May 19 | [Apply](https://jobs.lever.co/princesspolly/8d71a88d-2f17-42d4-b65c-9d660f0b937d) |
 | Graduate Student Intern | [University of Notre Dame](https://universityofnotredame.com) | $19/yr | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013208953) |
 | Full Time Caregiver (PM) | [Silverado](https://silverado.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/silverado/jobs/5141637007) |
+| Jr. Infra (Hardware) Technician | [SBT Global](https://sbtglobal.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/SBTGlobalInc/postings/3743990013208286) |
 | Co-op Fall 2026 – Software Development and Test – 12 months | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000127255509) |
+| Co-op Fall 2026 - Firmware Development and Test - 12-Months | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000127255469) |
 | Assistant Commercial VO (H/F) | [AUTO1 Group](https://auto1-group.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000127252715) |
 | QUALITY COORDINATOR (intern) M/F | [Egis](https://egis-group.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000127253239) |
 | NBCU Local Bay Area - Production Assistant Internship – Summer 2026 | [NBCUniversal](https://nbcuniversal.com) | $19/yr | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000127251488) |

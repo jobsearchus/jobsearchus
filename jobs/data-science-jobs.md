@@ -2,12 +2,13 @@
 
 Data science, machine learning, and AI engineering roles. Python, SQL, PyTorch, and beyond.
 
-**28 open roles** — Last updated: 2026-05-20
+**29 open roles** — Last updated: 2026-05-20
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Associate Data Scientist | [Acumatica](https://acumatica.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Acumatica/postings/744000127421105) |
 | Data Scientist, People | [Replit](https://replit.com) | — | May 19 | [Apply](https://jobs.ashbyhq.com/replit/5841bc76-5657-46c2-942e-0860f02ea3ec) |
 | Data Scientist II  | [Coursera](https://coursera.org) | — | May 19 | [Apply](https://job-boards.greenhouse.io/coursera/jobs/5997449004) |
 | Forward-Deployed Senior ML Solutions Architect - Architecte senior de solutions ML déployé·e sur le terrain | [NBCUniversal](https://nbcuniversal.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000127072329) |

@@ -2,17 +2,24 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**256 open roles** — Last updated: 2026-05-20
+**263 open roles** — Last updated: 2026-05-20
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| VENDEUR EN METIERS TRADITIONNELS (H/F) (BOUCHERIE ou CHARCUTERIE/FROMAGE/TRAITEUR) | [Genpak LLC](https://genpak-llc-2) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127465101) |
+| Account Manager | [Manitoulin Global Forwarding](https://manitoulingroup.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000127426389) |
 | VERKÄUFER/IN TEILZEIT (M/W/D) – Kalkar (20 Std) | [JYSK](https://jysk.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000127405839) |
 | Sales Assistant (Part time) Categorie Protette - Carugate C.C ''Carosello'' | [JD Sports](https://jdsports.com) | — | May 20 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4871678101) |
 | SPRZEDAWCA / SPRZEDAWCZYNI JYSK BIELSKO-BIAŁA UL.MOSTOWA 3/4 etatu (4000 PLN) | [JYSK](https://jysk.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000127396904) |
 | Country Sales Manager | [O-I Glass](https://o-i.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/O-I/postings/744000127385780) |
 | Account Executive, Majors/Strategic | [Zscaler](https://zscaler.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5139794007) |
+| Casual Sales Assistant | [Frasers Group](https://frasersgroup.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000127365777) |
+| Casual Sales Assistant | [Frasers Group](https://frasersgroup.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000127364039) |
+| Casual Sales Assistant | [Frasers Group](https://frasersgroup.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000127363809) |
+| Business Development Manager (Govt Relations), Reflective | [Avery Dennison](https://averydennison.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000127359669) |
+| EJECUTIVO DE PROFUNDIZACION SME | [Experian](https://experianplc.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000127351740) |
 | Account Executive, Commercial (APJ) | [Temporal](https://temporal.io) | — | May 19 | [Apply](https://job-boards.greenhouse.io/temporaltechnologies/jobs/5134421007) |
 | Account Executive | [Tempo Software](https://temposoftware.com) | — | May 19 | [Apply](https://jobs.ashbyhq.com/tempo-io/c7a33194-9667-41e4-9e15-079873226f35) |
 | Deal Strategy Analyst - EMEA | [Synthesia](https://synthesia.io) | — | May 19 | [Apply](https://jobs.ashbyhq.com/synthesia/474ccf6f-388d-4ab8-a37d-b130585e41c8) |

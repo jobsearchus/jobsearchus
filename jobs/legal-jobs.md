@@ -2,13 +2,15 @@
 
 Remote legal, compliance, and counsel roles.
 
-**30 open roles** — Last updated: 2026-05-20
+**32 open roles** — Last updated: 2026-05-20
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Representative, Contracts - UK Project | [NBCUniversal](https://nbcuniversal.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000127374779) |
 | Senior IT Officer - Governance, Risk & Compliance | [IQ-EQ](https://iqeq.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000127349289) |
+| General Counsel | [Applaudo](https://applaudo.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/ApplaudoStudios/postings/744000127313539) |
 | Vice President, Commercial Legal Affairs | [Freshworks](https://freshworks.com) | $330K–$405K/yr | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000127261129) |
 | Compliance Lead, Mexico | [Tilt](https://tilt.com) | — | May 19 | [Apply](https://jobs.ashbyhq.com/tilthq/37552db4-1779-4c42-8521-874fcc7fb376) |
 | Legal Assistant Inglés Avanzado | [Distro](https://distro.app) | — | May 18 | [Apply](https://jobs.lever.co/distro/3fbd99a5-76b2-4dab-877f-9c03f333a59a) |

@@ -2,12 +2,16 @@
 
 UX design, UI design, and product design roles. Figma, research, and end-to-end product work.
 
-**32 open roles** — Last updated: 2026-05-20
+**36 open roles** — Last updated: 2026-05-20
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Project Manager, Aviation | [Egis](https://egis-group.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000127476315) |
+| ALCMS Lead | [Egis](https://egis-group.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000127457700) |
+| South Korea Content Strategy Lead | [Canva](https://canva.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001091650) |
+| India Content Strategy Lead | [Canva](https://canva.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001091627) |
 | Senior Product Designer, Truework | [Checkr](https://checkr.com) | $25K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/checkr/jobs/7942615) |
 | Instructional Designer | [Diligent Corporation](https://diligent.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/diligentcorporation/jobs/5999882004) |
 | Graphic Design - Video Editing Intern | [Sezzle](https://sezzle.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/sezzle/jobs/7739982003) |
