@@ -2,13 +2,15 @@
 
 Remote customer support and success roles across SaaS, e-commerce, and tech.
 
-**84 open roles** — Last updated: 2026-05-20
+**86 open roles** — Last updated: 2026-05-20
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Retail Customer Service | [Entain](https://entaingroup.com) | £13/yr | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Entain/postings/744000127475729) |
 | CAISSIER - HÔTE DE CAISSE (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127470221) |
+| Customer Support Associate | [Convera](https://convera.com) | — | May 20 | [Apply](https://job-boards.eu.greenhouse.io/convera/jobs/4867504101) |
 | Müşteri Hizmetleri Uzmanı | [JYSK](https://jysk.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000127410409) |
 | Customer Care Coordinator/Manager  - Home Care | [Healthcare Australia](https://healthcareaustralia.com.au) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/HealthcareAustralia1/postings/6000000001089981) |
 | Subway Cashier | [Pilot Flying J](https://pilotflyingj.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/PilotCompany/postings/744000127347539) |

@@ -2,19 +2,27 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**417 open roles** — Last updated: 2026-05-20
+**427 open roles** — Last updated: 2026-05-20
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Software Engineer in Test II  | [AlertMedia](https://alertmedia.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/alertmedia/jobs/8558493002) |
+| Director, Pentest Platform | [Horizon3.ai](https://horizon3ai.com) | $280K–$315K/yr | May 20 | [Apply](https://jobs.ashbyhq.com/horizon3ai/f7103c0e-facd-4717-a053-7409bfde8e12) |
+| Senior Middleware Operations Engineer  | [Inetum](https://inetum.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000127483506) |
 | Ingénieur Études de Prix - Cellule Appels d'Offres | [Egis](https://egis-group.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000127474992) |
+| Consultor (a) SAP EWM Sênior | [Inetum](https://inetum.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000127469349) |
 | Maintenance Technician-Nights | [Continental](https://continentalserves.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000127442859) |
 | System Integration & Test, Intermediate   | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $77K–$91K/yr | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000127430750) |
 | Senior Python Software Engineer | [Accesa](https://accesa.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/ACCESA/postings/744000127424749) |
 | System Administrator / Workplace Management (m/f/d) | [Nagarro](https://nagarro.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000127416649) |
+| IT Systems Engineer | [Intercom](https://intercom.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7930382) |
+| Senior Software Engineer - Billing (VAT & Invoicing) | [Perk](https://perk.com) | — | May 20 | [Apply](https://jobs.ashbyhq.com/perk/24e21b89-9286-42db-8cd0-7843f12b8d84) |
+| Senior Software Engineer - Billing (VAT & Invoicing) | [Perk](https://perk.com) | — | May 20 | [Apply](https://jobs.ashbyhq.com/perk/08d1dc77-f4d0-4198-b634-fc863aecfe29) |
 | Associate Principal Engineer, Cloud Security | [Nagarro](https://nagarro.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000127407829) |
 | Technical Helpdesk Specialist (Automotive) | [MSX International](https://msxi.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013223876) |
+| Lead Software Engineer [.Net] | [Envoy Global](https://envoyglobal.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/envoyglobalinc/jobs/5996082004) |
 | Google DialogFlow Engineer | [Miratech](https://miratech.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000127399300) |
 | Google DialogFlow Engineer | [Miratech](https://miratech.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000127400699) |
 | Google DialogFlow Engineer | [Miratech](https://miratech.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000127400656) |
@@ -22,6 +30,8 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Google DialogFlow Engineer | [Miratech](https://miratech.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000127400130) |
 | Google DialogFlow Engineer | [Miratech](https://miratech.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000127400060) |
 | Junior Analytics Engineer | [takealot.com](https://takealot.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/takealotcom/jobs/7938255) |
+| Procurement Engineer - MEP | [BESIX](https://besix.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000127398209) |
+| IT Netzwerk Spezialist (w/m/d) – Security & Compliance | [Drees & Sommer](https://dreso.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000127391471) |
 | #EG Helpdesk and Concierge Engineer (M365) | [NCS](https://ncs.co) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001091604) |
 | Sr Data Engineer II -  Salesforce (Hybrid) | [Smartsheet](https://smartsheet.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/smartsheet/jobs/7945625) |
 | xEngineer - Online Stores | [Wix.com](https://wix.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Wix2/postings/744000127370103) |

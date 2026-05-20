@@ -2,12 +2,13 @@
 
 Product manager roles at companies building real products. Sourced directly from career pages.
 
-**38 open roles** — Last updated: 2026-05-20
+**39 open roles** — Last updated: 2026-05-20
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Sr Product Manager | [Delivery Hero](https://deliveryhero.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000127500596) |
 | Product Owner with German | [Accesa](https://accesa.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/ACCESA/postings/744000127400370) |
 | Technical Product Manager, AI Cloud Networking | [Mirantis](https://mirantis.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Mirantis/postings/744000127391740) |
 | Enterprise Product Lead, Truework | [Checkr](https://checkr.com) | $25K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/checkr/jobs/7942647) |

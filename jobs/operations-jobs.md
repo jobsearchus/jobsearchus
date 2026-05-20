@@ -2,16 +2,21 @@
 
 Remote operations and business operations roles across industries.
 
-**283 open roles** — Last updated: 2026-05-20
+**288 open roles** — Last updated: 2026-05-20
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Lead, Account Support | [SmithRx](https://smithrx.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/smithrx/jobs/8544604002) |
+| Site Lead | [Genpak LLC](https://genpak-llc-2) | — | May 20 | [Apply](https://jobs.lever.co/steerbridge/63677aff-47fd-4810-9979-048d4147adc7) |
+| Assistant Manager, Night Shift- grocery resets/planograms | [Serv-U-Success](https://servusuccess.com) | $21/yr | May 20 | [Apply](https://jobs.lever.co/serv-u-success/b0892433-20db-4363-8303-c59c1941b1d6) |
+| Cleaner | [PortmanDentex](https://portmandentex.com) | £13/yr | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000127453820) |
 | Berufsausbildung Kaufmann für Digitalisierungsmanagement (m/w/d) - ContiTech | [Continental](https://continentalserves.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000127448551) |
 | Baker 1 - Three Leaf Catering | [University of Notre Dame](https://universityofnotredame.com) | $18/yr | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013225476) |
 | Technicien(ne) HSE en alternance | [Continental](https://continentalserves.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000127426049) |
 | WMS Configuration Analyst | [Primark Tiendas SLU](https://primark.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000127413269) |
+| Treasury Confirmations and Payment Processing Coordinator | [Convera](https://convera.com) | — | May 20 | [Apply](https://job-boards.eu.greenhouse.io/convera/jobs/4869225101) |
 | Global People Lifecycle & Process Owner | [Zscaler](https://zscaler.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5142522007) |
 | Manager, Business Management | [IQ-EQ](https://iqeq.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000127348969) |
 | HV Electrician | [Anglo American](https://angloamerican.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000127348729) |

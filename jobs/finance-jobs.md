@@ -2,12 +2,13 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**124 open roles** — Last updated: 2026-05-20
+**125 open roles** — Last updated: 2026-05-20
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Finance Master Data Lead - HQ | [Delivery Hero](https://deliveryhero.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000127469520) |
 | Junior Accountant | [Netcompany](https://netcompany.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000127405369) |
 | Assistant(e) Comptable Fournisseurs (Alternance -Septembre 2026) | [Gameloft](https://gameloft.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Gameloft/postings/744000127396859) |
 | AML/KYC Specialist - Analyst / Associate  | [iCapital](https://icapital.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8467347002) |

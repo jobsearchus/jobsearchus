@@ -2,13 +2,17 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**265 open roles** — Last updated: 2026-05-20
+**269 open roles** — Last updated: 2026-05-20
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | Chef de Partie H/F | [Genpak LLC](https://genpak-llc-2) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000127486975) |
+| Intervenant à domicile en Multimédia et Informatique, secteurs 91, 77 et Paris Intramuros H/F  | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000127483180) |
+| Technicien/Technicienne Informatique et Multimédia à domicile secteurs entre Nantes Nord et Rennes Sud, H/F | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000127481475) |
+| Base Build Superintendent, Manassas, VA - Semiconductor | [World Wide Professional Solutions](https://worldwideprofessionalsolutions.com) | — | May 20 | [Apply](https://jobs.lever.co/wwprosolutions/6921784f-35b0-44ea-8c1e-85363298c059) |
+| Senior Technical Consultant - Network Security | [AHEAD](https://ahead.com) | — | May 20 | [Apply](https://jobs.lever.co/thinkahead/62ed1590-66a8-4038-8096-aff041ae9505) |
 | Receptionniste - H/F/X | [Genpak LLC](https://genpak-llc-2) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000127431462) |
 | TEAM MANAGER | [Primark Tiendas SLU](https://primark.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000127414693) |
 | RETAIL ASSISTANT | [Primark Tiendas SLU](https://primark.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000127412925) |

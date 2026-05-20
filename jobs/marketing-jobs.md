@@ -2,16 +2,20 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**104 open roles** — Last updated: 2026-05-20
+**108 open roles** — Last updated: 2026-05-20
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Growth Product Marketing Manager | [LastPass](https://lastpass.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/lastpass/jobs/4695244005) |
+| Marketing Operations Manager (F/M/D) | [NavVis](https://navvis.com) | — | May 20 | [Apply](https://job-boards.eu.greenhouse.io/navvis/jobs/4857142101) |
+| Growth Activation Specialist (Remote) | [Myriad360](https://myriad360.com) | $70K–$85K/yr | May 20 | [Apply](https://boards.greenhouse.io/myriad360/jobs/8557909002?gh_jid=8557909002) |
 | Above Market Digital Planning Business Director, (Parental Cover) | [WPP Media](https://wppmedia.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5217026008) |
 | Technical SEO Lead  | [Canva](https://canva.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001091672) |
 | Senior Portfolio Manager and Business Development | [Syngenta](https://syngenta.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000127388339) |
 | Account Director, Paid Social | [WPP Media](https://wppmedia.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5221293008) |
+| Digital Communication Apprentice - WeMoms | [Genpak LLC](https://genpak-llc-2) | — | May 20 | [Apply](https://jobs.ashbyhq.com/voodoo/b1aca1cc-1d3c-4dac-88e1-e1f12861c7db) |
 | Account Director, Cross Channel | [WPP Media](https://wppmedia.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5223361008) |
 | Senior Brand & Integrated Campaigns Manager | [Cresta](https://cresta.com) | $140K–$180K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/cresta/jobs/5225877008) |
 | SMB Community Manager, 12 Month Contract | [Canva](https://canva.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001088207) |

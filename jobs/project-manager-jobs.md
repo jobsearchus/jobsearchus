@@ -2,12 +2,13 @@
 
 Project and program management roles across tech, operations, and enterprise.
 
-**22 open roles** — Last updated: 2026-05-20
+**23 open roles** — Last updated: 2026-05-20
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Project Manager - VCF | [AHEAD](https://ahead.com) | — | May 20 | [Apply](https://jobs.lever.co/thinkahead/3afad939-8fa1-4436-ad36-7ed70aacacfb) |
 | Integration Project Manager  | [Yggdrasil Gaming](https://yggdrasilgaming.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/YggdrasilSandbox/postings/744000127399291) |
 | Program Manager, Aircraft Integration | [Archer](https://archer.com) | $173K–$216K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7593385003) |
 | Project Manager (Onsite) | [Applaudo](https://applaudo.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/ApplaudoStudios/postings/744000127307356) |

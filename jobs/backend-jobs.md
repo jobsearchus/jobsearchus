@@ -2,12 +2,13 @@
 
 Backend, server-side, and API engineering roles. Node.js, Python, Go, Ruby, Java and beyond.
 
-**18 open roles** — Last updated: 2026-05-20
+**19 open roles** — Last updated: 2026-05-20
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| PL Desenvolvimento Back-end (Node.js)  | [ília](https://lia.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/ilia/jobs/5998556004) |
 | Senior Back-End Engineer (Rust) - Software | [Truelogic](https://truelogic.com) | — | May 19 | [Apply](https://jobs.ashbyhq.com/truelogic/11e28e74-3355-4ac2-ab2a-d43d88e7d5d5) |
 | Backend Engineer III, Box Apps | [Box](https://box.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/boxinc/jobs/7926461) |
 | Senior Back-end Engineer with Drupal | [VML](https://vml.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/vmlenterprisesolutions/jobs/8520349002) |

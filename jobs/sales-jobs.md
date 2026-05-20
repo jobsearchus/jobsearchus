@@ -2,13 +2,20 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**263 open roles** — Last updated: 2026-05-20
+**270 open roles** — Last updated: 2026-05-20
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Sales Enablement Manager, Commercial & SDR | [Horizon3.ai](https://horizon3ai.com) | $150K–$185K/yr | May 20 | [Apply](https://jobs.ashbyhq.com/horizon3ai/7741ca4a-62f3-4ac4-9273-1565b5ebbd1f) |
+| Senior Director Commercial - tMart | [Delivery Hero](https://deliveryhero.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000127489899) |
+| Key Account Manager – Chinese Market | [Tripadvisor](https://tripadvisor.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/tripadvisor/jobs/7921026) |
+| VENDEUR CONSEIL - CDI TEMPS PARTIEL H/F | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000127469980) |
 | VENDEUR EN METIERS TRADITIONNELS (H/F) (BOUCHERIE ou CHARCUTERIE/FROMAGE/TRAITEUR) | [Genpak LLC](https://genpak-llc-2) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127465101) |
+| Enterprise Account Executive | [Envoy Global](https://envoyglobal.com) | $85K–$95K/yr | May 20 | [Apply](https://job-boards.greenhouse.io/envoyglobalinc/jobs/6000245004) |
+| Enterprise Sales Account Executive (English & German Speaking) | [Sectigo](https://sectigo.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Sectigo/postings/3743990013227586) |
+| Enterprise Sales Account Executive (English & German Speaking) | [Sectigo](https://sectigo.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Sectigo/postings/3743990013227546) |
 | Account Manager | [Manitoulin Global Forwarding](https://manitoulingroup.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000127426389) |
 | VERKÄUFER/IN TEILZEIT (M/W/D) – Kalkar (20 Std) | [JYSK](https://jysk.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000127405839) |
 | Sales Assistant (Part time) Categorie Protette - Carugate C.C ''Carosello'' | [JD Sports](https://jdsports.com) | — | May 20 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4871678101) |

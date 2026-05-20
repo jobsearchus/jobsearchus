@@ -2,14 +2,18 @@
 
 Remote jobs open to candidates with 0–2 years of experience. A real way in — no degree gatekeeping.
 
-**263 open roles** — Last updated: 2026-05-20
+**268 open roles** — Last updated: 2026-05-20
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Intervenant à domicile en Multimédia et Informatique, secteurs 91, 77 et Paris Intramuros H/F  | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000127483180) |
+| Technicien/Technicienne Informatique et Multimédia à domicile secteurs entre Nantes Nord et Rennes Sud, H/F | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000127481475) |
+| Retail Customer Service | [Entain](https://entaingroup.com) | £13/yr | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Entain/postings/744000127475729) |
 | CAISSIER - HÔTE DE CAISSE (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127470221) |
 | VENDEUR EN METIERS TRADITIONNELS (H/F) (BOUCHERIE ou CHARCUTERIE/FROMAGE/TRAITEUR) | [Genpak LLC](https://genpak-llc-2) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127465101) |
+| Cleaner | [PortmanDentex](https://portmandentex.com) | £13/yr | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000127453820) |
 | Berufsausbildung Kaufmann für Digitalisierungsmanagement (m/w/d) - ContiTech | [Continental](https://continentalserves.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000127448551) |
 | Baker 1 - Three Leaf Catering | [University of Notre Dame](https://universityofnotredame.com) | $18/yr | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013225476) |
 | Technicien(ne) HSE en alternance | [Continental](https://continentalserves.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000127426049) |
@@ -22,6 +26,7 @@ Remote jobs open to candidates with 0–2 years of experience. A real way in —
 | SPRZEDAWCA / SPRZEDAWCZYNI JYSK BIELSKO-BIAŁA UL.MOSTOWA 3/4 etatu (4000 PLN) | [JYSK](https://jysk.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000127396904) |
 | Junior Analytics Engineer | [takealot.com](https://takealot.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/takealotcom/jobs/7938255) |
 | Assistant(e) Comptable Fournisseurs (Alternance -Septembre 2026) | [Gameloft](https://gameloft.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Gameloft/postings/744000127396859) |
+| Digital Communication Apprentice - WeMoms | [Genpak LLC](https://genpak-llc-2) | — | May 20 | [Apply](https://jobs.ashbyhq.com/voodoo/b1aca1cc-1d3c-4dac-88e1-e1f12861c7db) |
 | Casual Sales Assistant | [Frasers Group](https://frasersgroup.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000127365777) |
 | Frietbakker | [Escape](https://escape.tech) | — | May 20 | [Apply](https://jobs.escape.nl/o/frietbakker-15/c/new) |
 | Medewerker Bediening | [Escape](https://escape.tech) | — | May 20 | [Apply](https://jobs.escape.nl/o/medewerker-bediening-40/c/new) |

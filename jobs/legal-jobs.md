@@ -2,12 +2,14 @@
 
 Remote legal, compliance, and counsel roles.
 
-**32 open roles** — Last updated: 2026-05-20
+**34 open roles** — Last updated: 2026-05-20
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Assistant General Counsel | [Kapitus](https://kapitus.com) | $122K–$195K/yr | May 20 | [Apply](https://job-boards.greenhouse.io/kapitus/jobs/4253197009) |
+| Senior Legal Counsel Energy | [BESIX](https://besix.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000127447049) |
 | Representative, Contracts - UK Project | [NBCUniversal](https://nbcuniversal.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000127374779) |
 | Senior IT Officer - Governance, Risk & Compliance | [IQ-EQ](https://iqeq.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000127349289) |
 | General Counsel | [Applaudo](https://applaudo.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/ApplaudoStudios/postings/744000127313539) |
