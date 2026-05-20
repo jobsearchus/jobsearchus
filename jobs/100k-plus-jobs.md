@@ -2,15 +2,30 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**189 open roles** — Last updated: 2026-05-20
+**204 open roles** — Last updated: 2026-05-20
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Lecturer, Inclusive Education | [Western Sydney University](https://westernsydney.edu.au) | $123K–$146K/yr | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/WesternSydneyUniversity/postings/6000000001091325) |
+| Associate Professor, Early Childhood | [Western Sydney University](https://westernsydney.edu.au) | $180K–$198K/yr | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/WesternSydneyUniversity/postings/6000000001091315) |
+| Lecturer, English Literacy Education (Primary/Secondary) | [Western Sydney University](https://westernsydney.edu.au) | $123K–$146K/yr | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/WesternSydneyUniversity/postings/6000000001091301) |
+| Senior Software Engineer | [IonQ](https://ionq.com) | $146K–$191K/yr | May 20 | [Apply](https://job-boards.greenhouse.io/ionq/jobs/5998606004) |
+| Software Engineer - PlanetScale Postgres | [PlanetScale](https://planetscale.com) | $120K–$290K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/planetscale/jobs/4251150009) |
+| Senior Brand & Integrated Campaigns Manager | [Cresta](https://cresta.com) | $140K–$180K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/cresta/jobs/5225877008) |
+| Program Manager, Aircraft Integration | [Archer](https://archer.com) | $173K–$216K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7593385003) |
+| Staff Customer Success Manager, Majors (Financial Services) | [Chainguard](https://chainguard.dev) | $200K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/chainguard/jobs/4682909006) |
 | Senior Manager, Technical Revenue Accounting  | [Freshworks](https://freshworks.com) | $170K–$223K/yr | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000127308830) |
+| Forward Deployed Engineer | [Greenhouse](https://greenhouse.com) | $118K–$176K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/greenhouse/jobs/7891787?gh_jid=7891787) |
+| Program Manager, Structural Integrity | [Archer](https://archer.com) | $173K–$216K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7719733003) |
 | Technical Program Manager | [Valon](https://valon.com) | $205K–$250K/yr | May 19 | [Apply](https://jobs.ashbyhq.com/valon/1be12cbf-1bf0-4625-966c-11d49c28ed2b) |
 | Mid-Market Account Executive - Base44 | [Wix.com](https://wix.com) | $115K–$130K/yr | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Wix2/postings/744000127292456) |
+| Senior Software Engineer | [SecurityScorecard](https://securityscorecard.com) | $160K–$185K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/securityscorecard/jobs/7943677) |
+| Director of Customer Success Management | [Owner.com](https://owner.com) | $190K–$210K/yr | May 19 | [Apply](https://jobs.ashbyhq.com/Owner/f4e612eb-0df9-4374-a092-89d85e0f9ef6) |
+| iOS Engineer II (AI Native), Family AI Lab – San Francisco Bay Area | [Life360](https://life360.com) | $118K–$162K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/life360/jobs/8557005002) |
+| Senior Relationship Manager - Accounting Partners | [Mercury](https://mercury.com) | $143K–$179K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/mercury/jobs/5999962004) |
+| Video Lead - Stories | [Mercury](https://mercury.com) | $158K–$198K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/mercury/jobs/6000140004) |
 | Account Development Representative - Central | [Job Board](https://corelight.com) | $180K–$214K/yr | May 19 | [Apply](https://boards.greenhouse.io/corelight/jobs/7942808?gh_jid=7942808) |
 | Vice President, Commercial Legal Affairs | [Freshworks](https://freshworks.com) | $330K–$405K/yr | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000127261129) |
 | Engineering Manager, Customer Studio | [Hightouch](https://hightouch.com) | $220K–$300K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/hightouch/jobs/5999976004) |

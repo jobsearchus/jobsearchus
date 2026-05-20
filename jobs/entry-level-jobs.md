@@ -2,20 +2,34 @@
 
 Remote jobs open to candidates with 0–2 years of experience. A real way in — no degree gatekeeping.
 
-**236 open roles** — Last updated: 2026-05-20
+**250 open roles** — Last updated: 2026-05-20
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| RETAIL ASSISTANT | [Primark Tiendas SLU](https://primark.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000127412925) |
+| Müşteri Hizmetleri Uzmanı | [JYSK](https://jysk.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000127410409) |
+| VERKÄUFER/IN TEILZEIT (M/W/D) – Kalkar (20 Std) | [JYSK](https://jysk.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000127405839) |
+| Sales Assistant (Part time) Categorie Protette - Carugate C.C ''Carosello'' | [JD Sports](https://jdsports.com) | — | May 20 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4871678101) |
+| SPRZEDAWCA / SPRZEDAWCZYNI JYSK BIELSKO-BIAŁA UL.MOSTOWA 3/4 etatu (4000 PLN) | [JYSK](https://jysk.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000127396904) |
+| Junior Analytics Engineer | [takealot.com](https://takealot.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/takealotcom/jobs/7938255) |
+| Frietbakker | [Escape](https://escape.tech) | — | May 20 | [Apply](https://jobs.escape.nl/o/frietbakker-15/c/new) |
+| Medewerker Bediening | [Escape](https://escape.tech) | — | May 20 | [Apply](https://jobs.escape.nl/o/medewerker-bediening-40/c/new) |
+| Subway Cashier | [Pilot Flying J](https://pilotflyingj.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/PilotCompany/postings/744000127347539) |
+| Subway Sandwich Artist | [Pilot Flying J](https://pilotflyingj.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/PilotCompany/postings/744000127347409) |
 | Section Waiter - Marmelo | [ACCOR](https://group.accor.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000127346519) |
+| Pro Camera Support | [Nexus](https://agent.nexus) | — | May 19 | [Apply](https://job-boards.greenhouse.io/nexus/jobs/5225650008) |
 | Co-op Fall 2026 - Unreal Engine Developer - 4 Months | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000127297744) |
 | Temporary - Administrative Assistant | [University of Notre Dame](https://universityofnotredame.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013216856) |
 | Communications Associate | [The New York Times](https://thenewyorktimes.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4696517005) |
+| Customer Service Representative  | [Nexus](https://agent.nexus) | — | May 19 | [Apply](https://job-boards.greenhouse.io/nexus/jobs/5225574008) |
 | Praktikant/Werkstudent (w/m/d) Projektmanagement Hochbau | [Drees & Sommer](https://dreso.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000127292679) |
+| Data Annotation Specialist | [Federato](https://federato.ai) | — | May 19 | [Apply](https://job-boards.greenhouse.io/federato/jobs/5225518008) |
 | Praktikant/Werkstudent (w/m/d) Immobilienberatung  | [Drees & Sommer](https://dreso.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000127290330) |
 | Associate Sales Development Representative | [Ping Identity](https://pingidentity.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/pingidentity/jobs/8550724002) |
 | Jr. SharePoint admin & .NET Web Developer | [SBT Global](https://sbtglobal.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/SBTGlobalInc/postings/3743990013212186) |
+| Founding Business Development Representative (BDR) – SP | [Dandy](https://meetdandy.com) | — | May 19 | [Apply](https://jobs.ashbyhq.com/dandy/aa22ae9f-6cbd-4040-95f4-e16220c5f939) |
 | Kitchen Assistant | [Greene King](https://greeneking.co.uk) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/GreeneKing/postings/744000127279574) |
 | Veterinary Client Service Representative - Front desk | [Veritas Veterinary Partners](https://veritasveterinarypartners.com) | $21/yr | May 19 | [Apply](https://job-boards.greenhouse.io/veritasvetpartners/jobs/5225307008) |
 | Staff Accountant | [Princess Polly](https://princesspolly.com) | — | May 19 | [Apply](https://jobs.lever.co/princesspolly/8d71a88d-2f17-42d4-b65c-9d660f0b937d) |

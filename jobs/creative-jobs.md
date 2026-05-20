@@ -2,12 +2,13 @@
 
 Remote creative roles — copywriters, content creators, graphic designers, and brand specialists.
 
-**17 open roles** — Last updated: 2026-05-20
+**18 open roles** — Last updated: 2026-05-20
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Video Lead - Stories | [Mercury](https://mercury.com) | $158K–$198K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/mercury/jobs/6000140004) |
 | Senior Studio Producer - FTC | [Gymshark](https://gymshark.com) | — | May 19 | [Apply](https://job-boards.eu.greenhouse.io/gymshark/jobs/4865998101) |
 | Assistant Manager, Graphic Design & Concept | [Frasers Group](https://frasersgroup.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000127132390) |
 | Studentermedhjælper Til Digital Læring Til Netcompany Banking services | [Netcompany](https://netcompany.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000126947909) |

@@ -2,16 +2,31 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**241 open roles** — Last updated: 2026-05-20
+**257 open roles** — Last updated: 2026-05-20
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| TEAM MANAGER | [Primark Tiendas SLU](https://primark.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000127414693) |
+| RETAIL ASSISTANT | [Primark Tiendas SLU](https://primark.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000127412925) |
+| Extra : Valet / Femme de chambre (H/F) | [Relais & Châteaux](https://relaischateaux.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000127408269) |
+| Chef(fe) de Rang Restaurant étoilé | [Genpak LLC](https://genpak-llc-2) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000127396877) |
+| Demi Chef de Partie - Castello di Guarene | [Relais & Châteaux](https://relaischateaux.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000127396750) |
+| Employé Polyvalent | [Relais & Châteaux](https://relaischateaux.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000127394619) |
+| Assistant Manager | [Genpak LLC](https://genpak-llc-2) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000127393019) |
+| Implementation Consultant | [Motive](https://gomotive.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/gomotive/jobs/8555827002) |
+| Frietbakker | [Escape](https://escape.tech) | — | May 20 | [Apply](https://jobs.escape.nl/o/frietbakker-15/c/new) |
+| Head Hostess | [Escape](https://escape.tech) | — | May 20 | [Apply](https://jobs.escape.nl/o/head-hostess-5/c/new) |
+| Medewerker Bediening | [Escape](https://escape.tech) | — | May 20 | [Apply](https://jobs.escape.nl/o/medewerker-bediening-40/c/new) |
+| Lecturer, Inclusive Education | [Western Sydney University](https://westernsydney.edu.au) | $123K–$146K/yr | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/WesternSydneyUniversity/postings/6000000001091325) |
+| Associate Professor, Early Childhood | [Western Sydney University](https://westernsydney.edu.au) | $180K–$198K/yr | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/WesternSydneyUniversity/postings/6000000001091315) |
+| Lecturer, English Literacy Education (Primary/Secondary) | [Western Sydney University](https://westernsydney.edu.au) | $123K–$146K/yr | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/WesternSydneyUniversity/postings/6000000001091301) |
 | EN - Chef de Partie | [ACCOR](https://group.accor.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000127349789) |
 | Food & Beverage Supervisor - Hop & Huddle Mercure Perth on Hay | [ACCOR](https://group.accor.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000127347789) |
 | Section Waiter - Marmelo | [ACCOR](https://group.accor.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000127346519) |
 | Consultant - Commodity and Energy Trading | [Baringa](https://baringa.com) | — | May 20 | [Apply](https://job-boards.eu.greenhouse.io/baringa/jobs/4866335101) |
+| Director, Partner Programs | [Pure Storage](https://purestorage.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/7938815) |
 | Praktikant/Werkstudent (w/m/d) Immobilienberatung  | [Drees & Sommer](https://dreso.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000127290330) |
 | Full Time Caregiver (PM) | [Silverado](https://silverado.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/silverado/jobs/5141637007) |
 | EHS Coordinator | [Genpak LLC](https://genpak-llc-2) | — | May 19 | [Apply](https://job-boards.eu.greenhouse.io/lotusworks/jobs/4870618101) |
@@ -38,6 +53,7 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Professional Learning Partner, Hawaii (Contractor) | [Seesaw](https://seesaw.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/seesaw/jobs/4681858006) |
 | #EG Delivery Lead (Data & AI) | [NCS](https://ncs.co) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001086902) |
 | Clinical Nurse Coordinator-Transplant (Central Region) | [Natera](https://natera.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/natera/jobs/5997327004) |
+| Physical Therapist | [BenchMark Physical Therapy](https://benchmarkpt.com) | $85K–$100K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/benchmarkpt/jobs/5140972007) |
 | Medical Science Liaison | [Distro](https://distro.app) | — | May 18 | [Apply](https://jobs.lever.co/distro/122a6d02-8ef8-4b3c-966e-48eaf045e922) |
 | IT Applications Administrator  | [Stratolaunch](https://stratolaunch.com) | $83K–$110K/yr | May 18 | [Apply](https://job-boards.greenhouse.io/stratolaunch/jobs/5224546008) |
 | Principal Product Manager (AI) | [Wisdom](https://withwisdom.com) | — | May 18 | [Apply](https://jobs.ashbyhq.com/withwisdom/6bd24bec-bba7-4378-b290-5df15ce309b8) |

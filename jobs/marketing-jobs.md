@@ -2,20 +2,27 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**94 open roles** — Last updated: 2026-05-20
+**103 open roles** — Last updated: 2026-05-20
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Above Market Digital Planning Business Director, (Parental Cover) | [WPP Media](https://wppmedia.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5217026008) |
+| Senior Portfolio Manager and Business Development | [Syngenta](https://syngenta.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000127388339) |
+| Account Director, Paid Social | [WPP Media](https://wppmedia.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5221293008) |
+| Account Director, Cross Channel | [WPP Media](https://wppmedia.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5223361008) |
+| Senior Brand & Integrated Campaigns Manager | [Cresta](https://cresta.com) | $140K–$180K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/cresta/jobs/5225877008) |
 | SMB Community Manager, 12 Month Contract | [Canva](https://canva.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001088207) |
 | Sr. Manager, ABM | [Jump](https://jump.com) | — | May 19 | [Apply](https://jobs.ashbyhq.com/jump-app/116e98a0-276e-4325-80e5-f237f9f816b8) |
+| Communications Lead - UK | [Mozilla](https://mozilla.org) | — | May 19 | [Apply](https://job-boards.greenhouse.io/mozilla/jobs/7943543) |
 | Communications Associate | [The New York Times](https://thenewyorktimes.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4696517005) |
 | Mid-Market Account Executive - Base44 | [Wix.com](https://wix.com) | $115K–$130K/yr | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Wix2/postings/744000127292456) |
 | Manager I, Performance Marketing | [Scopely](https://scopely.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/scopely/jobs/5225517008) |
 | Director, Brand Strategy | [The New York Times](https://thenewyorktimes.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4696988005) |
 | Graduate Student Intern | [University of Notre Dame](https://universityofnotredame.com) | $19/yr | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013208953) |
 | Sr. Manager, Data Engineering & Analytics | [Serve Robotics](https://serverobotics.com) | — | May 19 | [Apply](https://jobs.ashbyhq.com/serverobotics/887ef3a7-3bde-4649-820a-a54b0afc4cf9) |
+| Field Marketing Manager | [Box](https://box.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/boxinc/jobs/7941719) |
 | Coordinator, Experiential Marketing | [e.l.f. Beauty](https://elfbeauty.com) | — | May 19 | [Apply](https://jobs.lever.co/elfbeauty/2baf4c7a-4eae-4c98-b52a-9ecc2ee03667) |
 | Youtube Growth Manager | [Groww](https://groww.in) | — | May 19 | [Apply](https://job-boards.eu.greenhouse.io/groww/jobs/4868898101) |
 | Account Director, Audience Planning | [WPP Media](https://wppmedia.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5211315008) |
@@ -26,6 +33,8 @@ Remote marketing roles across growth, content, brand, and performance channels.
 | Senior Marketing Officer, Continental Europe | [IQ-EQ](https://iqeq.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000127177572) |
 | Mr D - Retail Media Junior Account Manager_Retail | [takealot.com](https://takealot.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/takealotcom/jobs/7938773) |
 |  AI-First Technical SEO Specialist | [Wix.com](https://wix.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Wix2/postings/744000127151259) |
+| Mr D - Retail Media Key Account Manager_Retail | [takealot.com](https://takealot.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/takealotcom/jobs/7938476) |
+| Mr D - Retail Media Key Account Manager_Food | [takealot.com](https://takealot.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/takealotcom/jobs/7938631) |
 | Education Marketing Specialist - Indonesia | [Canva](https://canva.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001087856) |
 | Manager, Retail Marketing | [Frasers Group](https://frasersgroup.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000127129256) |
 | Manager, Advocacy | [Figma](https://figma.com) | — | May 19 | [Apply](https://boards.greenhouse.io/figma/jobs/5998145004?gh_jid=5998145004) |

@@ -2,34 +2,55 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**373 open roles** — Last updated: 2026-05-20
+**394 open roles** — Last updated: 2026-05-20
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Junior Analytics Engineer | [takealot.com](https://takealot.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/takealotcom/jobs/7938255) |
+| Sr Data Engineer II -  Salesforce (Hybrid) | [Smartsheet](https://smartsheet.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/smartsheet/jobs/7945625) |
+| Seed Production Pathologist | [Syngenta](https://syngenta.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000127366690) |
+| Salesforce Commerce Cloud - Technical Architect | [VML MAP](https://vml-map.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/map/jobs/8555958002) |
+| Salesforce Commerce Cloud - Technical Architect | [VML](https://vml.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/vmlenterprisesolutions/jobs/8555955002) |
+| Analyst, Workforce Management | [Zscaler](https://zscaler.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5141031007) |
+| Sr Salesforce  Engineer I (Hybrid )  | [Smartsheet](https://smartsheet.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/smartsheet/jobs/7945561) |
 | Director of Engineering | [Tide](https://tide.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/tide/jobs/7741236003) |
 | Director of Engineering | [Tide](https://tide.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/tide/jobs/7741235003) |
 | Director of Engineering | [Tide](https://tide.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/tide/jobs/7741234003) |
+| Senior Software Engineer | [IonQ](https://ionq.com) | $146K–$191K/yr | May 20 | [Apply](https://job-boards.greenhouse.io/ionq/jobs/5998606004) |
 | Principal Civil Engineer - Urban Development | [Egis](https://egis-group.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000127317627) |
 | Business Analyst Salesforce - Intermedio | [Inetum](https://inetum.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000127315429) |
 | Business Analyst Salesforce - Senior | [Inetum](https://inetum.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000127315172) |
+| Software Engineer - PlanetScale Postgres | [PlanetScale](https://planetscale.com) | $120K–$290K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/planetscale/jobs/4251150009) |
+| Senior Software Engineer, Identity and Access Management | [Owner.com](https://owner.com) | — | May 19 | [Apply](https://jobs.ashbyhq.com/Owner/f3a1916f-4da3-4579-88c1-7afeca67811d) |
+| Senior Software Engineer, Identity and Access Management | [Owner.com](https://owner.com) | — | May 19 | [Apply](https://jobs.ashbyhq.com/Owner/2fa4d97f-2bc3-4963-88cb-6b95a8412b23) |
+| Senior Optical Engineer | [IonQ](https://ionq.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/ionq/jobs/5998696004) |
+| Engineering Manager, AI | [Vanta](https://vanta.com) | — | May 19 | [Apply](https://jobs.ashbyhq.com/vanta/cb12e9ef-d4c1-47fb-8581-038e29f61c6a) |
 | Software Engineer, Lending | [Chime](https://chime.com) | $15K/yr | May 19 | [Apply](https://boards.greenhouse.io/chime/jobs/8535338002?gh_jid=8535338002) |
 | Senior Manager, Software Engineering - Remote | [Experian](https://experianplc.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000127310269) |
+| Senior Software Engineer - LLM Observability | [Honeycomb.io](https://honeycomb.io) | — | May 19 | [Apply](https://job-boards.greenhouse.io/honeycomb/jobs/5220921008) |
 | Product Manager (Onsite) | [Applaudo](https://applaudo.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/ApplaudoStudios/postings/744000127306688) |
 | Technical Business Analyst - ServiceNow | [LightFeather](https://lightfeather.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5225799008) |
 | ServiceNow Business Analyst | [LightFeather](https://lightfeather.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5225798008) |
+| Forward Deployed Engineer | [Greenhouse](https://greenhouse.com) | $118K–$176K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/greenhouse/jobs/7891787?gh_jid=7891787) |
 | Especialista de Dados | [MSX International](https://msxi.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013218386) |
 | Senior Staff Engineer - INFOR M3 Support Consultant | [Nagarro](https://nagarro.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000127303039) |
 | Senior Staff Engineer - INFOR M3 Support Consultant | [Nagarro](https://nagarro.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000127302559) |
 | Principal Engineer - SAP Cloud Solution Architect | [Nagarro](https://nagarro.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000127301859) |
 | Warranty Claim Assessor | [MSX International](https://msxi.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013217456) |
+| Staff Software Engineer, Developer Productivity | [Webflow](https://webflow.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/webflow/jobs/7942745) |
 | Solution Architect | [LightEdge](https://lightedge.com) | — | May 19 | [Apply](https://jobs.lever.co/lightedge/5beba6c5-bd24-4938-8139-193fc50b0522) |
 | Technical Program Manager | [Valon](https://valon.com) | $205K–$250K/yr | May 19 | [Apply](https://jobs.ashbyhq.com/valon/1be12cbf-1bf0-4625-966c-11d49c28ed2b) |
 | Temporary - Administrative Assistant | [University of Notre Dame](https://universityofnotredame.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013216856) |
 | Mechanical Engineer | [ALTEN](https://alten.com) | $85K–$95K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5142218007) |
 | Ingénieur Système - Senior | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000127295179) |
+| Senior Software Engineer | [SecurityScorecard](https://securityscorecard.com) | $160K–$185K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/securityscorecard/jobs/7943677) |
+| AWS Technical Architect | [NeuraFlash](https://neuraflash.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/neuraflash/jobs/6000244004) |
 | Operations Director, Advertising, NYT Wirecutter | [The New York Times](https://thenewyorktimes.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4696964005) |
+| Senior Solutions Architect: New Logo (East) | [Temporal](https://temporal.io) | — | May 19 | [Apply](https://job-boards.greenhouse.io/temporaltechnologies/jobs/5137194007) |
+| Data Annotation Specialist | [Federato](https://federato.ai) | — | May 19 | [Apply](https://job-boards.greenhouse.io/federato/jobs/5225518008) |
+| iOS Engineer II (AI Native), Family AI Lab – San Francisco Bay Area | [Life360](https://life360.com) | $118K–$162K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/life360/jobs/8557005002) |
 | Head of Field Engineering | [Runlayer](https://runlayer.com) | — | May 19 | [Apply](https://jobs.ashbyhq.com/runlayer/0b1668e8-a1d4-426e-b000-74e2979cdddf) |
 | 6343 - Quality Lead / Quality Engineer | [Verista](https://verista.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/veristainc/jobs/5225368008) |
 | [Job 29403] Desenvolvedor APIs com AWS Lambda | [CI&T](https://cit.com) | — | May 19 | [Apply](https://jobs.lever.co/ciandt/1aa44d73-79ed-477b-849e-be613bf912f0) |

@@ -2,13 +2,21 @@
 
 Remote customer support and success roles across SaaS, e-commerce, and tech.
 
-**73 open roles** — Last updated: 2026-05-20
+**81 open roles** — Last updated: 2026-05-20
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Müşteri Hizmetleri Uzmanı | [JYSK](https://jysk.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000127410409) |
+| Subway Cashier | [Pilot Flying J](https://pilotflyingj.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/PilotCompany/postings/744000127347539) |
+| Subway Sandwich Artist | [Pilot Flying J](https://pilotflyingj.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/PilotCompany/postings/744000127347409) |
+| Sr. Partner Success Associate (Remote) | [Rula](https://rula.com) | — | May 19 | [Apply](https://jobs.ashbyhq.com/rula/2b7e0f5f-8f4f-440f-baed-15c5d1a4b8c9) |
+| Staff Customer Success Manager, Majors (Financial Services) | [Chainguard](https://chainguard.dev) | $200K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/chainguard/jobs/4682909006) |
+| Pro Camera Support | [Nexus](https://agent.nexus) | — | May 19 | [Apply](https://job-boards.greenhouse.io/nexus/jobs/5225650008) |
 | Principal Customer Success Manager, Technical | [Agiloft](https://agiloft.com) | — | May 19 | [Apply](https://jobs.lever.co/agiloft/93302380-46ec-4206-963f-923302fe8511) |
+| Customer Service Representative  | [Nexus](https://agent.nexus) | — | May 19 | [Apply](https://job-boards.greenhouse.io/nexus/jobs/5225574008) |
+| Director of Customer Success Management | [Owner.com](https://owner.com) | $190K–$210K/yr | May 19 | [Apply](https://jobs.ashbyhq.com/Owner/f4e612eb-0df9-4374-a092-89d85e0f9ef6) |
 | Veterinary Client Service Representative - Front desk | [Veritas Veterinary Partners](https://veritasveterinarypartners.com) | $21/yr | May 19 | [Apply](https://job-boards.greenhouse.io/veritasvetpartners/jobs/5225307008) |
 | Manager, Customer Success | [Diligent Corporation](https://diligent.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/diligentcorporation/jobs/5999861004) |
 | Music Streaming Platform Customer Specialist with Swedish and English (Remote in Bulgaria) | [Genpak LLC](https://genpak-llc-2) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000127216010) |

@@ -2,15 +2,36 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**234 open roles** — Last updated: 2026-05-20
+**256 open roles** — Last updated: 2026-05-20
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| VERKÄUFER/IN TEILZEIT (M/W/D) – Kalkar (20 Std) | [JYSK](https://jysk.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000127405839) |
+| Sales Assistant (Part time) Categorie Protette - Carugate C.C ''Carosello'' | [JD Sports](https://jdsports.com) | — | May 20 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4871678101) |
+| SPRZEDAWCA / SPRZEDAWCZYNI JYSK BIELSKO-BIAŁA UL.MOSTOWA 3/4 etatu (4000 PLN) | [JYSK](https://jysk.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000127396904) |
+| Country Sales Manager | [O-I Glass](https://o-i.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/O-I/postings/744000127385780) |
+| Account Executive, Majors/Strategic | [Zscaler](https://zscaler.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5139794007) |
+| Account Executive, Commercial (APJ) | [Temporal](https://temporal.io) | — | May 19 | [Apply](https://job-boards.greenhouse.io/temporaltechnologies/jobs/5134421007) |
 | Account Executive | [Tempo Software](https://temposoftware.com) | — | May 19 | [Apply](https://jobs.ashbyhq.com/tempo-io/c7a33194-9667-41e4-9e15-079873226f35) |
+| Deal Strategy Analyst - EMEA | [Synthesia](https://synthesia.io) | — | May 19 | [Apply](https://jobs.ashbyhq.com/synthesia/474ccf6f-388d-4ab8-a37d-b130585e41c8) |
+| Sales Advisor (Remote) | [Rula](https://rula.com) | — | May 19 | [Apply](https://jobs.ashbyhq.com/rula/79e3ab23-545d-42f5-8f3b-b48e782cf559) |
+| Account Executive, CEW | [Axon](https://axon.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/axon/jobs/7740873003) |
+| Account Executive, CEW | [Axon](https://axon.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/axon/jobs/7740872003) |
+| Clow Valve - Territory Sales Manager (Northern California) | [McWane](https://mcwane.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/McWaneInc/postings/3743990013218621) |
+| Clow Valve - Territory Sales Manager (WA, OR & AK) | [McWane](https://mcwane.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/McWaneInc/postings/3743990013218576) |
+| Senior Key Account Manager -Strategy and Growth  (CPG)  | [O-I Glass](https://o-i.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/O-I/postings/744000127303879) |
+| Account Manager | [Wolt](https://wolt.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7942050) |
 | Mid-Market Customer Success Manager – North America & LATAM (Bilingual)  | [Canva](https://canva.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001088236) |
+| Client Parter- Contract | [xAI](https://x.ai) | — | May 19 | [Apply](https://job-boards.greenhouse.io/xai/jobs/5142257007) |
+| Account Executive - Dental  | [Clipboard](https://clipboardhealth.com) | — | May 19 | [Apply](https://jobs.ashbyhq.com/clipboard/95b7dffa-c179-47a2-9ebf-ae9b4c8f32c1) |
+| Account Executive, SLED (San Francisco) | [Pure Storage](https://purestorage.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/7939537) |
+| Mid-Market Account Executive  | [Boulevard](https://joinblvd.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/boulevard/jobs/4682880006) |
+| Account Executive, Federal Defense (Washington, DC) | [Pure Storage](https://purestorage.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/7938780) |
 | Presales Architect | [Twilio](https://twilio.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7942258) |
+| Senior Relationship Manager - Accounting Partners | [Mercury](https://mercury.com) | $143K–$179K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/mercury/jobs/5999962004) |
+| Founding Business Development Representative (BDR) – SP | [Dandy](https://meetdandy.com) | — | May 19 | [Apply](https://jobs.ashbyhq.com/dandy/aa22ae9f-6cbd-4040-95f4-e16220c5f939) |
 | Digital Sales Representative | [Twilio](https://twilio.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7875918) |
 | Business Development Director (CPG) | [The Trade Desk](https://thetradedesk.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5137713007) |
 | Account Development Representative - Central | [Job Board](https://corelight.com) | $180K–$214K/yr | May 19 | [Apply](https://boards.greenhouse.io/corelight/jobs/7942808?gh_jid=7942808) |
@@ -40,6 +61,7 @@ Remote sales roles — account executives, SDRs, and enterprise deals.
 | Client Partner - Emerging & Scaled (Nordics / UK) | [Spotify](https://open.spotify.com) | — | May 19 | [Apply](https://jobs.lever.co/spotify/43e0d904-84f7-4cfa-a293-579fb9ac271f) |
 | Sales Development Representative - Bi-lingual (German / French / Swedish / Norwegian / Danish / Spanish / Finnish / Arabic / Italian) | [Saviynt](https://saviynt.com) | — | May 19 | [Apply](https://jobs.lever.co/saviynt/73b92781-6468-4574-bac8-3fb090b7d1b0) |
 | EMPLOYE COMMERCIAL CDI 18h (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127176911) |
+| Strategic Account Executive | [Twilio](https://twilio.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7938506) |
 | Business Development Consultant | [MSX International](https://msxi.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013198236) |
 | Accessories Sales Manager (Automotive) | [MSX International](https://msxi.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013198192) |
 | Accessories Sales Manager (Automotive) | [MSX International](https://msxi.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013197978) |

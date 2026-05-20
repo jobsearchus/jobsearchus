@@ -2,17 +2,20 @@
 
 Remote operations and business operations roles across industries.
 
-**274 open roles** — Last updated: 2026-05-20
+**278 open roles** — Last updated: 2026-05-20
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| WMS Configuration Analyst | [Primark Tiendas SLU](https://primark.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000127413269) |
+| Global People Lifecycle & Process Owner | [Zscaler](https://zscaler.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5142522007) |
 | Manager, Business Management | [IQ-EQ](https://iqeq.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000127348969) |
 | HV Electrician | [Anglo American](https://angloamerican.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000127348729) |
 | Safety Officer - Document Control | [Anglo American](https://angloamerican.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000127348110) |
 | Warehouse Officer | [Anglo American](https://angloamerican.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000127347709) |
 | Industrial Project Manager | [ALTEN](https://alten.com) | $70K–$100K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5142454007) |
+| Business Development Operations Associate (Contract) | [NerdWallet](https://nerdwallet.com) | $40/yr | May 19 | [Apply](https://jobs.ashbyhq.com/nerdwallet/5bc71b9b-339a-4f0c-a174-0aaac3ad00f5) |
 | Trust & Safety Analyst | [The Knot Worldwide](https://theknotworldwide.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/theknotworldwide/jobs/5225529008) |
 | Business Operations Analyst | [Zynga](https://zynga.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/zyngacareers/jobs/5995420004) |
 | Copy of KCS (Knowledge Centered Service) Enablement Expert | [MariaDB](https://mariadb.com) | — | May 19 | [Apply](https://job-boards.eu.greenhouse.io/mariadbplc/jobs/4871248101) |
@@ -89,6 +92,7 @@ Remote operations and business operations roles across industries.
 | Senior Site Logistics Manager (f/m/x) – EPCM Industry, Semiconductor Fabrication Plant | [Drees & Sommer](https://dreso.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000127029305) |
 | Site Logistics Coordinator (f/m/x) – EPCM Industry, Semiconductor Fabrication Plant  | [Drees & Sommer](https://dreso.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000127027141) |
 | Junior Mobil Bilinköpare | [AUTO1 Group](https://auto1-group.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000127025739) |
+| Global Process Owner (GPO) – Opportunity to Cash | [O-I Glass](https://o-i.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/O-I/postings/744000127024069) |
 | Delivery Manager | [Nagarro](https://nagarro.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000127016970) |
 | Implementation Lead | [WPP](https://wpp.com) | — | May 18 | [Apply](https://job-boards.greenhouse.io/wpp/jobs/8537130002) |
 | Producer | [Gameloft](https://gameloft.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/Gameloft/postings/744000127016008) |

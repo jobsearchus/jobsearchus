@@ -2,12 +2,14 @@
 
 Remote cybersecurity, information security, and security engineering roles.
 
-**31 open roles** — Last updated: 2026-05-20
+**33 open roles** — Last updated: 2026-05-20
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Staff Security Architect | [Kraken](https://kraken.com) | — | May 19 | [Apply](https://jobs.ashbyhq.com/kraken.com/ad27e3b9-35ce-4f61-81c8-21cd136340b2) |
+| Staff Security Architect | [Kraken](https://kraken.com) | — | May 19 | [Apply](https://jobs.ashbyhq.com/kraken.com/2bad131b-78ad-4266-8c18-7b035a11937d) |
 | Director, Security Operations | [LastPass](https://lastpass.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/lastpass/jobs/4696843005) |
 | Director, Corporate Safety and Security | [Deliveroo](https://deliveroo.co.uk) | — | May 19 | [Apply](https://jobs.ashbyhq.com/deliveroo/f58c8432-015a-4169-97e1-43cd107da38b) |
 | CyberSecurity Governance Specialist - ISMS Manager | [Entain](https://entaingroup.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Entain/postings/744000127206598) |
