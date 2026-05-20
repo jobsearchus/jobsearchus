@@ -2,14 +2,18 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**90 open roles** — Last updated: 2026-05-20
+**94 open roles** — Last updated: 2026-05-20
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | SMB Community Manager, 12 Month Contract | [Canva](https://canva.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001088207) |
+| Sr. Manager, ABM | [Jump](https://jump.com) | — | May 19 | [Apply](https://jobs.ashbyhq.com/jump-app/116e98a0-276e-4325-80e5-f237f9f816b8) |
+| Communications Associate | [The New York Times](https://thenewyorktimes.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4696517005) |
 | Mid-Market Account Executive - Base44 | [Wix.com](https://wix.com) | $115K–$130K/yr | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Wix2/postings/744000127292456) |
+| Manager I, Performance Marketing | [Scopely](https://scopely.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/scopely/jobs/5225517008) |
+| Director, Brand Strategy | [The New York Times](https://thenewyorktimes.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4696988005) |
 | Graduate Student Intern | [University of Notre Dame](https://universityofnotredame.com) | $19/yr | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013208953) |
 | Sr. Manager, Data Engineering & Analytics | [Serve Robotics](https://serverobotics.com) | — | May 19 | [Apply](https://jobs.ashbyhq.com/serverobotics/887ef3a7-3bde-4649-820a-a54b0afc4cf9) |
 | Coordinator, Experiential Marketing | [e.l.f. Beauty](https://elfbeauty.com) | — | May 19 | [Apply](https://jobs.lever.co/elfbeauty/2baf4c7a-4eae-4c98-b52a-9ecc2ee03667) |

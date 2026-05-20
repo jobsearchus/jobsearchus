@@ -2,13 +2,14 @@
 
 General developer and programmer roles that did not fit a more specific category.
 
-**29 open roles** — Last updated: 2026-05-20
+**30 open roles** — Last updated: 2026-05-20
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | Developer Salesforce Vlocity - Intermedio | [Inetum](https://inetum.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000127315489) |
+| ServiceNow Developer  | [LightFeather](https://lightfeather.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5225794008) |
 | Co-op Fall 2026 - Unreal Engine Developer - 4 Months | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000127297744) |
 | Jr. SharePoint admin & .NET Web Developer | [SBT Global](https://sbtglobal.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/SBTGlobalInc/postings/3743990013212186) |
 | Developer Relations Engineer, Community | [Render](https://render.com) | — | May 19 | [Apply](https://jobs.ashbyhq.com/render/4611bde4-47ac-45fc-ab56-235489e52682) |

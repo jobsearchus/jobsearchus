@@ -2,7 +2,7 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**240 open roles** — Last updated: 2026-05-20
+**241 open roles** — Last updated: 2026-05-20
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -11,6 +11,7 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | EN - Chef de Partie | [ACCOR](https://group.accor.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000127349789) |
 | Food & Beverage Supervisor - Hop & Huddle Mercure Perth on Hay | [ACCOR](https://group.accor.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000127347789) |
 | Section Waiter - Marmelo | [ACCOR](https://group.accor.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000127346519) |
+| Consultant - Commodity and Energy Trading | [Baringa](https://baringa.com) | — | May 20 | [Apply](https://job-boards.eu.greenhouse.io/baringa/jobs/4866335101) |
 | Praktikant/Werkstudent (w/m/d) Immobilienberatung  | [Drees & Sommer](https://dreso.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000127290330) |
 | Full Time Caregiver (PM) | [Silverado](https://silverado.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/silverado/jobs/5141637007) |
 | EHS Coordinator | [Genpak LLC](https://genpak-llc-2) | — | May 19 | [Apply](https://job-boards.eu.greenhouse.io/lotusworks/jobs/4870618101) |

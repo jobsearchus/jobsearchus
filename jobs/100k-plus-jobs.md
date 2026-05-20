@@ -2,13 +2,14 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**188 open roles** — Last updated: 2026-05-20
+**189 open roles** — Last updated: 2026-05-20
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | Senior Manager, Technical Revenue Accounting  | [Freshworks](https://freshworks.com) | $170K–$223K/yr | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000127308830) |
+| Technical Program Manager | [Valon](https://valon.com) | $205K–$250K/yr | May 19 | [Apply](https://jobs.ashbyhq.com/valon/1be12cbf-1bf0-4625-966c-11d49c28ed2b) |
 | Mid-Market Account Executive - Base44 | [Wix.com](https://wix.com) | $115K–$130K/yr | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Wix2/postings/744000127292456) |
 | Account Development Representative - Central | [Job Board](https://corelight.com) | $180K–$214K/yr | May 19 | [Apply](https://boards.greenhouse.io/corelight/jobs/7942808?gh_jid=7942808) |
 | Vice President, Commercial Legal Affairs | [Freshworks](https://freshworks.com) | $330K–$405K/yr | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000127261129) |

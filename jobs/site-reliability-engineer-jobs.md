@@ -2,12 +2,13 @@
 
 SRE and reliability engineering roles at companies that take uptime seriously.
 
-**10 open roles** — Last updated: 2026-05-20
+**11 open roles** — Last updated: 2026-05-20
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| [Job 29412]  SRE/ DevOps | [CI&T](https://cit.com) | — | May 19 | [Apply](https://jobs.lever.co/ciandt/7e4647bc-3372-46e3-a239-65957af9508e) |
 | Site Reliability Engineer (f/m/d) | [Genpak LLC](https://genpak-llc-2) | — | May 18 | [Apply](https://job-boards.eu.greenhouse.io/ecosio/jobs/4868871101) |
 | Analista SRE Sr | [Experian](https://experianplc.com) | — | May 16 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000126779119) |
 | Head of SRE and Infrastructure | [Capital.com](https://capitalcom.com) | — | May 15 | [Apply](https://jobs.lever.co/capital/e9cd196b-cdfa-41c5-8215-39f47ef7f7ad) |

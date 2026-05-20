@@ -2,7 +2,7 @@
 
 Remote jobs open to candidates with 0–2 years of experience. A real way in — no degree gatekeeping.
 
-**234 open roles** — Last updated: 2026-05-20
+**236 open roles** — Last updated: 2026-05-20
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -11,12 +11,14 @@ Remote jobs open to candidates with 0–2 years of experience. A real way in —
 | Section Waiter - Marmelo | [ACCOR](https://group.accor.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000127346519) |
 | Co-op Fall 2026 - Unreal Engine Developer - 4 Months | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000127297744) |
 | Temporary - Administrative Assistant | [University of Notre Dame](https://universityofnotredame.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013216856) |
+| Communications Associate | [The New York Times](https://thenewyorktimes.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4696517005) |
 | Praktikant/Werkstudent (w/m/d) Projektmanagement Hochbau | [Drees & Sommer](https://dreso.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000127292679) |
 | Praktikant/Werkstudent (w/m/d) Immobilienberatung  | [Drees & Sommer](https://dreso.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000127290330) |
 | Associate Sales Development Representative | [Ping Identity](https://pingidentity.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/pingidentity/jobs/8550724002) |
 | Jr. SharePoint admin & .NET Web Developer | [SBT Global](https://sbtglobal.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/SBTGlobalInc/postings/3743990013212186) |
 | Kitchen Assistant | [Greene King](https://greeneking.co.uk) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/GreeneKing/postings/744000127279574) |
 | Veterinary Client Service Representative - Front desk | [Veritas Veterinary Partners](https://veritasveterinarypartners.com) | $21/yr | May 19 | [Apply](https://job-boards.greenhouse.io/veritasvetpartners/jobs/5225307008) |
+| Staff Accountant | [Princess Polly](https://princesspolly.com) | — | May 19 | [Apply](https://jobs.lever.co/princesspolly/8d71a88d-2f17-42d4-b65c-9d660f0b937d) |
 | Graduate Student Intern | [University of Notre Dame](https://universityofnotredame.com) | $19/yr | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013208953) |
 | Full Time Caregiver (PM) | [Silverado](https://silverado.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/silverado/jobs/5141637007) |
 | Co-op Fall 2026 – Software Development and Test – 12 months | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000127255509) |

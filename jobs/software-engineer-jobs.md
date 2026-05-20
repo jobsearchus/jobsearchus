@@ -2,31 +2,47 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**357 open roles** — Last updated: 2026-05-20
+**373 open roles** — Last updated: 2026-05-20
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Director of Engineering | [Tide](https://tide.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/tide/jobs/7741236003) |
+| Director of Engineering | [Tide](https://tide.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/tide/jobs/7741235003) |
+| Director of Engineering | [Tide](https://tide.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/tide/jobs/7741234003) |
 | Principal Civil Engineer - Urban Development | [Egis](https://egis-group.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000127317627) |
 | Business Analyst Salesforce - Intermedio | [Inetum](https://inetum.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000127315429) |
 | Business Analyst Salesforce - Senior | [Inetum](https://inetum.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000127315172) |
+| Software Engineer, Lending | [Chime](https://chime.com) | $15K/yr | May 19 | [Apply](https://boards.greenhouse.io/chime/jobs/8535338002?gh_jid=8535338002) |
 | Senior Manager, Software Engineering - Remote | [Experian](https://experianplc.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000127310269) |
 | Product Manager (Onsite) | [Applaudo](https://applaudo.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/ApplaudoStudios/postings/744000127306688) |
+| Technical Business Analyst - ServiceNow | [LightFeather](https://lightfeather.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5225799008) |
+| ServiceNow Business Analyst | [LightFeather](https://lightfeather.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5225798008) |
 | Especialista de Dados | [MSX International](https://msxi.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013218386) |
 | Senior Staff Engineer - INFOR M3 Support Consultant | [Nagarro](https://nagarro.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000127303039) |
 | Senior Staff Engineer - INFOR M3 Support Consultant | [Nagarro](https://nagarro.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000127302559) |
 | Principal Engineer - SAP Cloud Solution Architect | [Nagarro](https://nagarro.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000127301859) |
 | Warranty Claim Assessor | [MSX International](https://msxi.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013217456) |
+| Solution Architect | [LightEdge](https://lightedge.com) | — | May 19 | [Apply](https://jobs.lever.co/lightedge/5beba6c5-bd24-4938-8139-193fc50b0522) |
+| Technical Program Manager | [Valon](https://valon.com) | $205K–$250K/yr | May 19 | [Apply](https://jobs.ashbyhq.com/valon/1be12cbf-1bf0-4625-966c-11d49c28ed2b) |
 | Temporary - Administrative Assistant | [University of Notre Dame](https://universityofnotredame.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013216856) |
+| Mechanical Engineer | [ALTEN](https://alten.com) | $85K–$95K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5142218007) |
 | Ingénieur Système - Senior | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000127295179) |
+| Operations Director, Advertising, NYT Wirecutter | [The New York Times](https://thenewyorktimes.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4696964005) |
+| Head of Field Engineering | [Runlayer](https://runlayer.com) | — | May 19 | [Apply](https://jobs.ashbyhq.com/runlayer/0b1668e8-a1d4-426e-b000-74e2979cdddf) |
 | 6343 - Quality Lead / Quality Engineer | [Verista](https://verista.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/veristainc/jobs/5225368008) |
+| [Job 29403] Desenvolvedor APIs com AWS Lambda | [CI&T](https://cit.com) | — | May 19 | [Apply](https://jobs.lever.co/ciandt/1aa44d73-79ed-477b-849e-be613bf912f0) |
+| Associate Solution Architect, Professional Services | [Contentful](https://contentful.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/contentful/jobs/7943185) |
+| Associate Solution Architect, Professional Services | [Contentful](https://contentful.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/contentful/jobs/7875317) |
 | Data Engineer (Snowflake / Systems Integration) | [Squire Technologies](https://getsquire.com) | — | May 19 | [Apply](https://jobs.lever.co/getsquire/2eaa0b0c-cf13-4a74-844f-37f7ad062a41) |
 | Senior Scientist/Principal Scientist, Protein Design & Modeling | [Raven Tech](https://raventech.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/raven/jobs/5224498008) |
 |  Overhead Catenary System (OCS) Engineer | [Egis](https://egis-group.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000127264249) |
+| Systems Integrator | [ANSER](https://anser.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/analyticservicesinc/jobs/5223149008?gh_jid=5223149008) |
 | Senior IT Engineer Network | [Continental](https://continentalserves.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000127261189) |
 | Co-op Fall 2026 – Software Development and Test – 12 months | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000127255509) |
 | Engineering Manager, Customer Studio | [Hightouch](https://hightouch.com) | $220K–$300K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/hightouch/jobs/5999976004) |
+| Senior Systems Integrator | [ANSER](https://anser.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/analyticservicesinc/jobs/5223151008?gh_jid=5223151008) |
 | Senior Program Manager | [The Weather Company](https://theweather.com) | $130K–$155K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/theweathercompany/jobs/5135340007) |
 | Data Analyst Sênior | [Skydropx](https://skydropx.com) | — | May 19 | [Apply](https://jobs.ashbyhq.com/skydropx/15dc51e3-512c-45a2-b429-2e838103940e) |
 | (Senior) Consultant SAP-SD | [Continental](https://continentalserves.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000127245866) |

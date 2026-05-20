@@ -2,7 +2,7 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**114 open roles** — Last updated: 2026-05-20
+**116 open roles** — Last updated: 2026-05-20
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -14,10 +14,12 @@ Remote finance, accounting, and analyst roles at companies of all sizes.
 | Senior Specialist, Underwriter | [Standard Bank](https://standardbank.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000127306470) |
 | Specialist, Underwriter | [Standard Bank](https://standardbank.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000127306949) |
 | Senior Manager FP&A, Strategic Finance  - Remote | [Experian](https://experianplc.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000127300469) |
+| Director, Global Strategic Sourcing | [Scopely](https://scopely.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/scopely/jobs/5221004008) |
 | Sales Team Lead - SMB | [Too Good To Go](https://toogoodtogo.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/toogoodtogo/jobs/7738589003) |
 | Country Controller | [Wolt](https://wolt.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7942260) |
 |  COMPTABLE (H/F) GMS | [Genpak LLC](https://genpak-llc-2) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127264619) |
 | AIDE COMPTABLE (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127263839) |
+| Staff Accountant | [Princess Polly](https://princesspolly.com) | — | May 19 | [Apply](https://jobs.lever.co/princesspolly/8d71a88d-2f17-42d4-b65c-9d660f0b937d) |
 | Director, Corporate Consolidations | [The Trade Desk](https://thetradedesk.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5141095007) |
 | Compensation Manager, Global Rewards | [Coursera](https://coursera.org) | $128K–$150K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/coursera/jobs/5989213004) |
 | Business Controller | [BESIX](https://besix.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000127234528) |

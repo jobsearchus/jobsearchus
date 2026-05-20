@@ -2,7 +2,7 @@
 
 Remote operations and business operations roles across industries.
 
-**267 open roles** — Last updated: 2026-05-20
+**274 open roles** — Last updated: 2026-05-20
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -12,6 +12,13 @@ Remote operations and business operations roles across industries.
 | HV Electrician | [Anglo American](https://angloamerican.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000127348729) |
 | Safety Officer - Document Control | [Anglo American](https://angloamerican.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000127348110) |
 | Warehouse Officer | [Anglo American](https://angloamerican.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000127347709) |
+| Industrial Project Manager | [ALTEN](https://alten.com) | $70K–$100K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5142454007) |
+| Trust & Safety Analyst | [The Knot Worldwide](https://theknotworldwide.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/theknotworldwide/jobs/5225529008) |
+| Business Operations Analyst | [Zynga](https://zynga.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/zyngacareers/jobs/5995420004) |
+| Copy of KCS (Knowledge Centered Service) Enablement Expert | [MariaDB](https://mariadb.com) | — | May 19 | [Apply](https://job-boards.eu.greenhouse.io/mariadbplc/jobs/4871248101) |
+| Senior Business Manager | [ALTEN](https://alten.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5088241007) |
+| Implementation Team Lead | [Karbon](https://karbon.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/karbon/jobs/6000271004) |
+| Program Manager, Performance Effectiveness | [Chime](https://chime.com) | $15K/yr | May 19 | [Apply](https://boards.greenhouse.io/chime/jobs/8535236002?gh_jid=8535236002) |
 | Justice Education Program Manager | [University of Notre Dame](https://universityofnotredame.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013215557) |
 | Team Leader | [Greene King](https://greeneking.co.uk) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/GreeneKing/postings/744000127290038) |
 | Associate Sales Development Representative | [Ping Identity](https://pingidentity.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/pingidentity/jobs/8550724002) |
