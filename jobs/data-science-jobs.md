@@ -2,13 +2,15 @@
 
 Data science, machine learning, and AI engineering roles. Python, SQL, PyTorch, and beyond.
 
-**30 open roles** — Last updated: 2026-05-20
+**32 open roles** — Last updated: 2026-05-21
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior AI Engineer, Voice Platform | [ClickUp](https://clickup.com) | — | May 20 | [Apply](https://jobs.ashbyhq.com/clickup/ab3a5c0c-7f86-47e7-9001-055598908b6a) |
 | Senior Product Data Scientist | [Tripadvisor](https://tripadvisor.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/tripadvisor/jobs/7946763) |
+| AI Engineer | [Socure](https://socure.com) | — | May 20 | [Apply](https://jobs.ashbyhq.com/socure/3e3acfee-8e62-406c-891d-f39ca5e003b1) |
 | Associate Data Scientist | [Acumatica](https://acumatica.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Acumatica/postings/744000127421105) |
 | Data Scientist, People | [Replit](https://replit.com) | — | May 19 | [Apply](https://jobs.ashbyhq.com/replit/5841bc76-5657-46c2-942e-0860f02ea3ec) |
 | Data Scientist II  | [Coursera](https://coursera.org) | — | May 19 | [Apply](https://job-boards.greenhouse.io/coursera/jobs/5997449004) |

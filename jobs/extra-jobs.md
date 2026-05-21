@@ -2,18 +2,34 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**269 open roles** — Last updated: 2026-05-20
+**285 open roles** — Last updated: 2026-05-21
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Fuel Attendant | [Pilot Flying J](https://pilotflyingj.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/PilotCompany/postings/744000127527275) |
+| Cleaner | [Greene King](https://greeneking.co.uk) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/GreeneKing/postings/744000127524818) |
+| Director of Patient Care Services (RN) | [Silverado](https://silverado.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/silverado/jobs/5143477007) |
+| Director, Growth - Health Plan Partnership Strategy | [Pelago](https://pelagohealth.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/pelago/jobs/5142769007) |
+| Clinical Oncology Specialist, Breast Oncology | [Natera](https://natera.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/natera/jobs/6001412004) |
+| Clinical Oncology Specialist, Breast Oncology | [Natera](https://natera.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/natera/jobs/6001414004) |
+| Executive Director (Administrator) | [Silverado](https://silverado.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/silverado/jobs/5143452007) |
+| Chief of Staff (Executive Office) and VP of Strategy & Operations | [Flex](https://withflex.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/flex/jobs/4697930005) |
+| Patient Care Coordinator - East York clinic | [Genpak LLC](https://genpak-llc-2) | — | May 20 | [Apply](https://job-boards.greenhouse.io/drayerpt/jobs/5142985007) |
+| Director of Solutions Architecture | [Diligent Corporation](https://diligent.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/diligentcorporation/jobs/6001421004) |
+| Credentialing and Enrollment Supervisor | [BetterHelp](https://betterhelp.com) | $78K–$90K/yr | May 20 | [Apply](https://job-boards.greenhouse.io/betterhelpcom/jobs/5226771008) |
 | Chef de Partie H/F | [Genpak LLC](https://genpak-llc-2) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000127486975) |
+|  Full Time Caregiver (Multiple Shifts Available) | [Silverado](https://silverado.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/silverado/jobs/5142958007) |
 | Intervenant à domicile en Multimédia et Informatique, secteurs 91, 77 et Paris Intramuros H/F  | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000127483180) |
 | Technicien/Technicienne Informatique et Multimédia à domicile secteurs entre Nantes Nord et Rennes Sud, H/F | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000127481475) |
 | Base Build Superintendent, Manassas, VA - Semiconductor | [World Wide Professional Solutions](https://worldwideprofessionalsolutions.com) | — | May 20 | [Apply](https://jobs.lever.co/wwprosolutions/6921784f-35b0-44ea-8c1e-85363298c059) |
 | Senior Technical Consultant - Network Security | [AHEAD](https://ahead.com) | — | May 20 | [Apply](https://jobs.lever.co/thinkahead/62ed1590-66a8-4038-8096-aff041ae9505) |
+| Clinical Trial Coordinator | [Black Canyon Consulting](https://blackcanyonconsulting.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/blackcanyonconsulting/jobs/7741604003) |
+| Patient Care Coordinator- Drayer Physical Therapy | [Genpak LLC](https://genpak-llc-2) | — | May 20 | [Apply](https://job-boards.greenhouse.io/drayerpt/jobs/5142754007) |
+| Personalisation Manager | [VML](https://vml.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/vmlenterprisesolutions/jobs/8545355002) |
 | Receptionniste - H/F/X | [Genpak LLC](https://genpak-llc-2) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000127431462) |
+| Clinical Director, Nurse Practitioner (Geriatrics) | [Pine Park Health](https://pineparkhealth.com) | $170K–$185K/yr | May 20 | [Apply](https://job-boards.greenhouse.io/pineparkhealth/jobs/6000889004) |
 | TEAM MANAGER | [Primark Tiendas SLU](https://primark.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000127414693) |
 | RETAIL ASSISTANT | [Primark Tiendas SLU](https://primark.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000127412925) |
 | Extra : Valet / Femme de chambre (H/F) | [Relais & Châteaux](https://relaischateaux.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000127408269) |

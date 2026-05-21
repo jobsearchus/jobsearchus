@@ -2,7 +2,7 @@
 
 DevOps, platform engineering, and infrastructure roles. AWS, GCP, Kubernetes, Terraform.
 
-**16 open roles** — Last updated: 2026-05-20
+**16 open roles** — Last updated: 2026-05-21
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 

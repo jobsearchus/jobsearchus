@@ -2,12 +2,13 @@
 
 Backend, server-side, and API engineering roles. Node.js, Python, Go, Ruby, Java and beyond.
 
-**19 open roles** — Last updated: 2026-05-20
+**20 open roles** — Last updated: 2026-05-21
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Backend Engineer, Consumer Product  | [Flex](https://withflex.com) | $172K–$212K/yr | May 20 | [Apply](https://job-boards.greenhouse.io/flex/jobs/4694752005) |
 | PL Desenvolvimento Back-end (Node.js)  | [ília](https://lia.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/ilia/jobs/5998556004) |
 | Senior Back-End Engineer (Rust) - Software | [Truelogic](https://truelogic.com) | — | May 19 | [Apply](https://jobs.ashbyhq.com/truelogic/11e28e74-3355-4ac2-ab2a-d43d88e7d5d5) |
 | Backend Engineer III, Box Apps | [Box](https://box.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/boxinc/jobs/7926461) |

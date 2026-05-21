@@ -2,7 +2,7 @@
 
 Remote creative roles — copywriters, content creators, graphic designers, and brand specialists.
 
-**22 open roles** — Last updated: 2026-05-20
+**23 open roles** — Last updated: 2026-05-21
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -12,6 +12,7 @@ Remote creative roles — copywriters, content creators, graphic designers, and 
 | Pintor/a de vehículos para Alemania  | [AUTO1 Group](https://auto1-group.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000127475924) |
 | Senior Technical Writer | [Wix.com](https://wix.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Wix2/postings/744000127412194) |
 | Lead Creative Manager - BeReal | [Genpak LLC](https://genpak-llc-2) | — | May 20 | [Apply](https://jobs.ashbyhq.com/voodoo/433eb279-a88f-490b-9999-ff0f6591ef04) |
+| Creative Technologist, KarmaLab | [Reddit](https://reddit.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/7768983) |
 | Video Lead - Stories | [Mercury](https://mercury.com) | $158K–$198K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/mercury/jobs/6000140004) |
 | Senior Studio Producer - FTC | [Gymshark](https://gymshark.com) | — | May 19 | [Apply](https://job-boards.eu.greenhouse.io/gymshark/jobs/4865998101) |
 | Assistant Manager, Graphic Design & Concept | [Frasers Group](https://frasersgroup.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000127132390) |

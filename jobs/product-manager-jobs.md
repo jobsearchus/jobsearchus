@@ -2,13 +2,16 @@
 
 Product manager roles at companies building real products. Sourced directly from career pages.
 
-**39 open roles** — Last updated: 2026-05-20
+**42 open roles** — Last updated: 2026-05-21
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Product Manager - Internal Product   | [Alpaca](https://alpaca.markets) | — | May 20 | [Apply](https://job-boards.greenhouse.io/alpaca/jobs/6001722004) |
+| Director, Product Marketing | [Zscaler](https://zscaler.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5139802007) |
 | Sr Product Manager | [Delivery Hero](https://deliveryhero.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000127500596) |
+| Head of Product (LATAM) | [Genpak LLC](https://genpak-llc-2) | — | May 20 | [Apply](https://job-boards.eu.greenhouse.io/growetalents/jobs/4866634101) |
 | Product Owner with German | [Accesa](https://accesa.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/ACCESA/postings/744000127400370) |
 | Technical Product Manager, AI Cloud Networking | [Mirantis](https://mirantis.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Mirantis/postings/744000127391740) |
 | Enterprise Product Lead, Truework | [Checkr](https://checkr.com) | $25K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/checkr/jobs/7942647) |

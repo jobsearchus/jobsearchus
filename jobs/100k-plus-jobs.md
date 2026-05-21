@@ -2,15 +2,25 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**208 open roles** — Last updated: 2026-05-20
+**218 open roles** — Last updated: 2026-05-21
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Full Stack Engineer - Associate | [iCapital](https://icapital.com) | $100K–$135K/yr | May 20 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8549590002) |
+| Staff Software Engineer | [Outschool](https://outschool.com) | $164K–$205K/yr | May 20 | [Apply](https://job-boards.greenhouse.io/outschool/jobs/4683198006) |
+| Manager, Engineering (Data Platform) | [Garner Health](https://getgarner.com) | $239K–$275K/yr | May 20 | [Apply](https://job-boards.greenhouse.io/garnerhealth/jobs/6001628004) |
+| Staff Engineer - Growth Platform | [Faire](https://faire.com) | $191K–$262K/yr | May 20 | [Apply](https://boards.greenhouse.io/faire/jobs/8558462002?gh_jid=8558462002) |
+| Senior Staff IT Controls, Enterprise Applications | [Gusto](https://gusto.com) | $175K–$195K/yr | May 20 | [Apply](https://job-boards.greenhouse.io/gusto/jobs/7905578) |
 | Director, Pentest Platform | [Horizon3.ai](https://horizon3ai.com) | $280K–$315K/yr | May 20 | [Apply](https://jobs.ashbyhq.com/horizon3ai/f7103c0e-facd-4717-a053-7409bfde8e12) |
 | Senior Sales Enablement Manager, Commercial & SDR | [Horizon3.ai](https://horizon3ai.com) | $150K–$185K/yr | May 20 | [Apply](https://jobs.ashbyhq.com/horizon3ai/7741ca4a-62f3-4ac4-9273-1565b5ebbd1f) |
 | Assistant General Counsel | [Kapitus](https://kapitus.com) | $122K–$195K/yr | May 20 | [Apply](https://job-boards.greenhouse.io/kapitus/jobs/4253197009) |
+| Accounting Manager | [Human Interest](https://humaninterest.com) | $130K–$155K/yr | May 20 | [Apply](https://job-boards.greenhouse.io/humaninterest/jobs/7944443) |
+| Senior Backend Engineer, Consumer Product  | [Flex](https://withflex.com) | $172K–$212K/yr | May 20 | [Apply](https://job-boards.greenhouse.io/flex/jobs/4694752005) |
+| Senior Cloudflare One GTM Specialist (Central or East) | [Cloudflare](https://cloudflare.com) | $146K–$257K/yr | May 20 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7946795?gh_jid=7946795) |
+| Implementation Project Director | [Garner Health](https://getgarner.com) | $133K–$177K/yr | May 20 | [Apply](https://job-boards.greenhouse.io/garnerhealth/jobs/5998003004) |
+| Clinical Director, Nurse Practitioner (Geriatrics) | [Pine Park Health](https://pineparkhealth.com) | $170K–$185K/yr | May 20 | [Apply](https://job-boards.greenhouse.io/pineparkhealth/jobs/6000889004) |
 | Lecturer, Inclusive Education | [Western Sydney University](https://westernsydney.edu.au) | $123K–$146K/yr | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/WesternSydneyUniversity/postings/6000000001091325) |
 | Associate Professor, Early Childhood | [Western Sydney University](https://westernsydney.edu.au) | $180K–$198K/yr | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/WesternSydneyUniversity/postings/6000000001091315) |
 | Lecturer, English Literacy Education (Primary/Secondary) | [Western Sydney University](https://westernsydney.edu.au) | $123K–$146K/yr | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/WesternSydneyUniversity/postings/6000000001091301) |

@@ -2,26 +2,51 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**427 open roles** — Last updated: 2026-05-20
+**452 open roles** — Last updated: 2026-05-21
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Data Analyst, Product | [Calendly](https://calendly.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/calendly/jobs/8558879002) |
+| Staff Software Engineer | [Outschool](https://outschool.com) | $164K–$205K/yr | May 20 | [Apply](https://job-boards.greenhouse.io/outschool/jobs/4683198006) |
+| Health Science Research Intern | [ŌURA](https://ouraring.com) | $50/yr | May 20 | [Apply](https://job-boards.greenhouse.io/oura/jobs/4251441009) |
+| Manager, Engineering (Data Platform) | [Garner Health](https://getgarner.com) | $239K–$275K/yr | May 20 | [Apply](https://job-boards.greenhouse.io/garnerhealth/jobs/6001628004) |
+| Senior Software Engineer, Helios | [SingleStore](https://singlestore.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/singlestore/jobs/7868649) |
+| Data Analytics Investor Reporting - Associate | [iCapital](https://icapital.com) | $70K–$100K/yr | May 20 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8532506002) |
 | Software Engineer in Test II  | [AlertMedia](https://alertmedia.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/alertmedia/jobs/8558493002) |
+| Senior Software Engineer, Helios | [SingleStore](https://singlestore.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/singlestore/jobs/7947568) |
+| Staff Engineer - Growth Platform | [Faire](https://faire.com) | $191K–$262K/yr | May 20 | [Apply](https://boards.greenhouse.io/faire/jobs/8558462002?gh_jid=8558462002) |
+| Senior Staff IT Controls, Enterprise Applications | [Gusto](https://gusto.com) | $175K–$195K/yr | May 20 | [Apply](https://job-boards.greenhouse.io/gusto/jobs/7905578) |
 | Director, Pentest Platform | [Horizon3.ai](https://horizon3ai.com) | $280K–$315K/yr | May 20 | [Apply](https://jobs.ashbyhq.com/horizon3ai/f7103c0e-facd-4717-a053-7409bfde8e12) |
+| Business Development Representative (BDR) | [Diligent Corporation](https://diligent.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/diligentcorporation/jobs/5743261004) |
+| Sr. Chemist, rhode | [e.l.f. Beauty](https://elfbeauty.com) | — | May 20 | [Apply](https://jobs.lever.co/elfbeauty/7b0e7d30-95f7-4a51-b51e-a8ed7b558005) |
+| 6348 - Validation Engineer / CQV Engineer | [Verista](https://verista.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/veristainc/jobs/5226885008) |
+| Mechanical Engineer  | [DLR Group](https://dlrgroup.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/dlrgroup/jobs/5224919008) |
+| Senior Database Engineer | [Man Group](https://man.com) | — | May 20 | [Apply](https://job-boards.eu.greenhouse.io/mangroup/jobs/4872090101) |
 | Senior Middleware Operations Engineer  | [Inetum](https://inetum.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000127483506) |
+| Solutions Engineer, Enterprise East (Pre-Sales) | [Hightouch](https://hightouch.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/hightouch/jobs/6001225004) |
+| Solutions Engineer, Mid-Market (Pre-Sales) | [Hightouch](https://hightouch.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/hightouch/jobs/6001217004) |
 | Ingénieur Études de Prix - Cellule Appels d'Offres | [Egis](https://egis-group.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000127474992) |
+| 6345 - Senior QC Specialist / Business Analyst | [Verista](https://verista.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/veristainc/jobs/5226445008) |
 | Consultor (a) SAP EWM Sênior | [Inetum](https://inetum.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000127469349) |
+| Solution Consultant (f/m/d) | [WORKERBASE](https://workerbase.com) | — | May 20 | [Apply](https://jobs.ashbyhq.com/workerbase/fdf0f78d-77f3-4b62-a311-1b1b1692ae5a) |
+| Mechanical Engineering Intern - Fall 2026 | [DLR Group](https://dlrgroup.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/dlrgroup/jobs/5225167008) |
+| Salesforce Engineer | [Mixpanel](https://mixpanel.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/mixpanel/jobs/7946729) |
+| IT Ops Engineer | [Pelago](https://pelagohealth.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/pelago/jobs/5142784007) |
 | Maintenance Technician-Nights | [Continental](https://continentalserves.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000127442859) |
+| Senior Software Engineer, Developer Experience | [ŌURA](https://ouraring.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/oura/jobs/4250810009) |
 | System Integration & Test, Intermediate   | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $77K–$91K/yr | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000127430750) |
 | Senior Python Software Engineer | [Accesa](https://accesa.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/ACCESA/postings/744000127424749) |
+| Software Development Engineer - II | [Groww](https://groww.in) | — | May 20 | [Apply](https://job-boards.eu.greenhouse.io/groww/jobs/4825960101) |
 | System Administrator / Workplace Management (m/f/d) | [Nagarro](https://nagarro.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000127416649) |
+| Application Security Engineer | [BrainRocket](https://brainrocket.com) | — | May 20 | [Apply](https://job-boards.eu.greenhouse.io/brainrocketltd/jobs/4871773101) |
 | IT Systems Engineer | [Intercom](https://intercom.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7930382) |
 | Senior Software Engineer - Billing (VAT & Invoicing) | [Perk](https://perk.com) | — | May 20 | [Apply](https://jobs.ashbyhq.com/perk/24e21b89-9286-42db-8cd0-7843f12b8d84) |
 | Senior Software Engineer - Billing (VAT & Invoicing) | [Perk](https://perk.com) | — | May 20 | [Apply](https://jobs.ashbyhq.com/perk/08d1dc77-f4d0-4198-b634-fc863aecfe29) |
 | Associate Principal Engineer, Cloud Security | [Nagarro](https://nagarro.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000127407829) |
 | Technical Helpdesk Specialist (Automotive) | [MSX International](https://msxi.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013223876) |
+| Data Engineer II, FinOps | [Box](https://box.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/boxinc/jobs/7918212) |
 | Lead Software Engineer [.Net] | [Envoy Global](https://envoyglobal.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/envoyglobalinc/jobs/5996082004) |
 | Google DialogFlow Engineer | [Miratech](https://miratech.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000127399300) |
 | Google DialogFlow Engineer | [Miratech](https://miratech.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000127400699) |

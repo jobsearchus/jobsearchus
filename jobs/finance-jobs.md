@@ -2,14 +2,18 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**125 open roles** — Last updated: 2026-05-20
+**129 open roles** — Last updated: 2026-05-21
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Indirect Tax Compliance Analyst | [GitLab](https://about.gitlab.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8555117002) |
+| Accounting Manager | [Human Interest](https://humaninterest.com) | $130K–$155K/yr | May 20 | [Apply](https://job-boards.greenhouse.io/humaninterest/jobs/7944443) |
 | Finance Master Data Lead - HQ | [Delivery Hero](https://deliveryhero.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000127469520) |
+| Senior Credits & Collections Analyst  | [Twilio](https://twilio.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7918845) |
 | Junior Accountant | [Netcompany](https://netcompany.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000127405369) |
+| Head of FP&A - 12 Month Fixed Term Contract | [Trainline](https://trainlinegroup.com) | — | May 20 | [Apply](https://jobs.ashbyhq.com/trainline/f9c07c5d-47c6-4791-b7c5-0514c2e4ecd2) |
 | Assistant(e) Comptable Fournisseurs (Alternance -Septembre 2026) | [Gameloft](https://gameloft.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Gameloft/postings/744000127396859) |
 | AML/KYC Specialist - Analyst / Associate  | [iCapital](https://icapital.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8467347002) |
 | Responsable Administratif et Financier | [Genpak LLC](https://genpak-llc-2) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000127362029) |

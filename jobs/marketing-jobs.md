@@ -2,21 +2,32 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**108 open roles** — Last updated: 2026-05-20
+**119 open roles** — Last updated: 2026-05-21
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Lead Global Marketing Campaigns Manager | [GitLab](https://gitlab.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8550333002) |
 | Senior Growth Product Marketing Manager | [LastPass](https://lastpass.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/lastpass/jobs/4695244005) |
+| Marketing Development Partner, Public Sector  | [Socure](https://socure.com) | — | May 20 | [Apply](https://jobs.ashbyhq.com/socure/86498538-60ea-41f5-8f2c-89a58e4b3769) |
+| Senior Performance Marketing Manager | [CoLab](https://colabsoftware.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/colabsoftware/jobs/5226361008) |
+| Account Director | [WPP Media](https://wppmedia.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5189162008) |
+| Part-time social media contractor | [Job Board](https://corelight.com) | — | May 20 | [Apply](https://boards.greenhouse.io/corelight/jobs/7939902?gh_jid=7939902) |
+| Account Manager, Planning | [WPP Media](https://wppmedia.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5211330008) |
+| Account Manager, Planning | [WPP Media](https://wppmedia.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5211325008) |
 | Marketing Operations Manager (F/M/D) | [NavVis](https://navvis.com) | — | May 20 | [Apply](https://job-boards.eu.greenhouse.io/navvis/jobs/4857142101) |
 | Growth Activation Specialist (Remote) | [Myriad360](https://myriad360.com) | $70K–$85K/yr | May 20 | [Apply](https://boards.greenhouse.io/myriad360/jobs/8557909002?gh_jid=8557909002) |
+| Director, Courier Marketing | [Wolt](https://wolt.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7943542) |
+| Midweight Copywriter - Fixed Term Contract | [Deliveroo](https://deliveroo.co.uk) | — | May 20 | [Apply](https://jobs.ashbyhq.com/deliveroo/170cb648-5105-4ed2-a11b-26cadacf1359) |
 | Above Market Digital Planning Business Director, (Parental Cover) | [WPP Media](https://wppmedia.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5217026008) |
 | Technical SEO Lead  | [Canva](https://canva.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001091672) |
 | Senior Portfolio Manager and Business Development | [Syngenta](https://syngenta.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000127388339) |
 | Account Director, Paid Social | [WPP Media](https://wppmedia.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5221293008) |
 | Digital Communication Apprentice - WeMoms | [Genpak LLC](https://genpak-llc-2) | — | May 20 | [Apply](https://jobs.ashbyhq.com/voodoo/b1aca1cc-1d3c-4dac-88e1-e1f12861c7db) |
 | Account Director, Cross Channel | [WPP Media](https://wppmedia.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5223361008) |
+| B2B Content & Thought Leadership Strategist (Contract) | [ClassDojo](https://classdojo.com) | $70/yr | May 19 | [Apply](https://jobs.ashbyhq.com/ClassDojo/958802d6-b30b-4d4f-8d38-a8436af2f5e8) |
+| Creative Strategist - Tech & Telco | [Reddit](https://reddit.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/7769017) |
 | Senior Brand & Integrated Campaigns Manager | [Cresta](https://cresta.com) | $140K–$180K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/cresta/jobs/5225877008) |
 | SMB Community Manager, 12 Month Contract | [Canva](https://canva.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001088207) |
 | Sr. Manager, ABM | [Jump](https://jump.com) | — | May 19 | [Apply](https://jobs.ashbyhq.com/jump-app/116e98a0-276e-4325-80e5-f237f9f816b8) |

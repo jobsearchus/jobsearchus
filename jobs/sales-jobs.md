@@ -2,21 +2,35 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**270 open roles** — Last updated: 2026-05-20
+**284 open roles** — Last updated: 2026-05-21
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Manager, Sales Engineering - Healthcare West | [Zscaler](https://zscaler.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5130007007) |
+| Enrollment Success Specialist | [Aviation Institute of Maintenance](https://aviationmaintenance.edu) | $25/yr | May 20 | [Apply](https://job-boards.greenhouse.io/aviationinstituteofmaintenance/jobs/5226070008) |
+| Enrollment Advisor | [Aviation Institute of Maintenance](https://aviationmaintenance.edu) | $25/yr | May 20 | [Apply](https://job-boards.greenhouse.io/aviationinstituteofmaintenance/jobs/5226069008) |
+| Sales Development Representative, Public Sector | [Twilio](https://twilio.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7942300) |
+|  Business Development Representative (BDR)  | [Cloudflare](https://cloudflare.com) | — | May 20 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/6580306?gh_jid=6580306) |
 | Senior Sales Enablement Manager, Commercial & SDR | [Horizon3.ai](https://horizon3ai.com) | $150K–$185K/yr | May 20 | [Apply](https://jobs.ashbyhq.com/horizon3ai/7741ca4a-62f3-4ac4-9273-1565b5ebbd1f) |
+| Director of Solutions Architecture | [Diligent Corporation](https://diligent.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/diligentcorporation/jobs/5994317004) |
 | Senior Director Commercial - tMart | [Delivery Hero](https://deliveryhero.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000127489899) |
+| Manager, Technical Success | [Zscaler](https://zscaler.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5136270007) |
 | Key Account Manager – Chinese Market | [Tripadvisor](https://tripadvisor.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/tripadvisor/jobs/7921026) |
 | VENDEUR CONSEIL - CDI TEMPS PARTIEL H/F | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000127469980) |
+| GM, Technical Account Management | [The Trade Desk](https://thetradedesk.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5141528007) |
 | VENDEUR EN METIERS TRADITIONNELS (H/F) (BOUCHERIE ou CHARCUTERIE/FROMAGE/TRAITEUR) | [Genpak LLC](https://genpak-llc-2) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127465101) |
+| Sales Development Representative | [Flex](https://withflex.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/flex/jobs/4697733005) |
+| STRONG Pilates- Sales Associate, Boston | [Momentic](https://momentic.ai) | $19/yr | May 20 | [Apply](https://job-boards.greenhouse.io/momentic/jobs/5226441008) |
+| Pet Insurance Sales Associate - Dallas, TX | [Fetch](https://fetchtruck.com) | $55K–$100K/yr | May 20 | [Apply](https://job-boards.greenhouse.io/fetch/jobs/4253656009) |
+| Senior Cloudflare One GTM Specialist (Central or East) | [Cloudflare](https://cloudflare.com) | $146K–$257K/yr | May 20 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7946795?gh_jid=7946795) |
+| VP, Strategic Sales | [Deepgram](https://deepgram.com) | — | May 20 | [Apply](https://jobs.ashbyhq.com/Deepgram/ee566c0e-f02e-4c7a-b64e-d198357acc86) |
 | Enterprise Account Executive | [Envoy Global](https://envoyglobal.com) | $85K–$95K/yr | May 20 | [Apply](https://job-boards.greenhouse.io/envoyglobalinc/jobs/6000245004) |
 | Enterprise Sales Account Executive (English & German Speaking) | [Sectigo](https://sectigo.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Sectigo/postings/3743990013227586) |
 | Enterprise Sales Account Executive (English & German Speaking) | [Sectigo](https://sectigo.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Sectigo/postings/3743990013227546) |
 | Account Manager | [Manitoulin Global Forwarding](https://manitoulingroup.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000127426389) |
+| Business Development Intern | [Fever](https://feverup.com) | — | May 20 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4871755101) |
 | VERKÄUFER/IN TEILZEIT (M/W/D) – Kalkar (20 Std) | [JYSK](https://jysk.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000127405839) |
 | Sales Assistant (Part time) Categorie Protette - Carugate C.C ''Carosello'' | [JD Sports](https://jdsports.com) | — | May 20 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4871678101) |
 | SPRZEDAWCA / SPRZEDAWCZYNI JYSK BIELSKO-BIAŁA UL.MOSTOWA 3/4 etatu (4000 PLN) | [JYSK](https://jysk.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000127396904) |

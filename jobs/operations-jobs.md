@@ -2,19 +2,34 @@
 
 Remote operations and business operations roles across industries.
 
-**288 open roles** — Last updated: 2026-05-20
+**303 open roles** — Last updated: 2026-05-21
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Maintenance Technician | [IRCA](https://irca.eu) | — | May 20 | [Apply](https://jobs.lever.co/ircagroup/be8f6a5e-dbfc-4122-be25-a347d718da7f) |
+| Director, Indirect Procurement | [Relativity Space](https://relativityspace.com) | — | May 20 | [Apply](https://boards.greenhouse.io/relativity/jobs/8557530002?gh_jid=8557530002) |
+| Lead Associated Account Director (Political) | [The Trade Desk](https://thetradedesk.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5141490007) |
+| Fleet & Facilities Associate (Overnight) | [Nabis](https://nabis.com) | $20/yr | May 20 | [Apply](https://job-boards.greenhouse.io/nabis/jobs/6001682004) |
+| Vehicle Capture Representative | [Clutch](https://clutch.io) | $20/yr | May 20 | [Apply](https://job-boards.greenhouse.io/clutch/jobs/6001425004) |
 | Lead, Account Support | [SmithRx](https://smithrx.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/smithrx/jobs/8544604002) |
+| Lead Receiving Operator | [Enviva](https://envivabiomass.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/enviva/jobs/7740589003) |
+| Trust and Safety Operations Analyst | [Calendly](https://calendly.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/calendly/jobs/8557468002) |
+| Car Detailer | [Clutch](https://clutch.io) | $20/yr | May 20 | [Apply](https://job-boards.greenhouse.io/clutch/jobs/6001190004) |
 | Site Lead | [Genpak LLC](https://genpak-llc-2) | — | May 20 | [Apply](https://jobs.lever.co/steerbridge/63677aff-47fd-4810-9979-048d4147adc7) |
 | Assistant Manager, Night Shift- grocery resets/planograms | [Serv-U-Success](https://servusuccess.com) | $21/yr | May 20 | [Apply](https://jobs.lever.co/serv-u-success/b0892433-20db-4363-8303-c59c1941b1d6) |
 | Cleaner | [PortmanDentex](https://portmandentex.com) | £13/yr | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000127453820) |
+| Manager, Technical Support | [Twilio](https://twilio.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7906083) |
 | Berufsausbildung Kaufmann für Digitalisierungsmanagement (m/w/d) - ContiTech | [Continental](https://continentalserves.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000127448551) |
+| Maintenance Technician  | [Avanath Capital Management](https://avanath.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/communitymanager/jobs/5142722007) |
+| Occupancy Specialist - Latitude Apartments | [Avanath Capital Management](https://avanath.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/communitymanager/jobs/5142681007) |
 | Baker 1 - Three Leaf Catering | [University of Notre Dame](https://universityofnotredame.com) | $18/yr | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013225476) |
+| Lubrication Technician | [Enviva](https://envivabiomass.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/enviva/jobs/7740902003) |
+| Studio Manager - STRONG Pilates - Boston | [Momentic](https://momentic.ai) | — | May 20 | [Apply](https://job-boards.greenhouse.io/momentic/jobs/5226211008) |
 | Technicien(ne) HSE en alternance | [Continental](https://continentalserves.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000127426049) |
+| Grocery  Shift Lead | [Wolt](https://wolt.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7946433) |
+| Team Lead | [Clutch](https://clutch.io) | $27/yr | May 20 | [Apply](https://job-boards.greenhouse.io/clutch/jobs/6000835004) |
 | WMS Configuration Analyst | [Primark Tiendas SLU](https://primark.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000127413269) |
 | Treasury Confirmations and Payment Processing Coordinator | [Convera](https://convera.com) | — | May 20 | [Apply](https://job-boards.eu.greenhouse.io/convera/jobs/4869225101) |
 | Global People Lifecycle & Process Owner | [Zscaler](https://zscaler.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5142522007) |

@@ -2,12 +2,13 @@
 
 Full-stack engineering roles across product, platform, and startup companies.
 
-**11 open roles** — Last updated: 2026-05-20
+**12 open roles** — Last updated: 2026-05-21
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Full Stack Engineer - Associate | [iCapital](https://icapital.com) | $100K–$135K/yr | May 20 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8549590002) |
 | Full Stack Engineer, Developer Ecosystem | [StackAdapt](https://stackadapt.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/stackadapt/jobs/4253487009) |
 | AI Full Stack Developer & Architect | [SBT Global](https://sbtglobal.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/SBTGlobalInc/postings/3743990013212845) |
 | [Job - 29422]  Desenvolvedor FullStack Sênior (.Net/Angular/IA), Brazil | [CI&T](https://cit.com) | — | May 19 | [Apply](https://jobs.lever.co/ciandt/45d00b89-2b0e-4b78-8aee-16434a85a432) |

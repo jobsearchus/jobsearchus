@@ -1,8 +1,8 @@
 # JobSearchUs — Looking for Your Next Job? Just Search Us
 
-[![1964 jobs](https://img.shields.io/badge/jobs-1%2C964-blue?style=flat-square)](https://www.jobsearchus.com)  [![Updated 2026-05-20](https://img.shields.io/badge/updated-2026-05-20-lightgrey?style=flat-square)](https://github.com/jobsearchus/jobsearchus)
+[![2069 jobs](https://img.shields.io/badge/jobs-2%2C069-blue?style=flat-square)](https://www.jobsearchus.com)  [![Updated 2026-05-21](https://img.shields.io/badge/updated-2026-05-21-lightgrey?style=flat-square)](https://github.com/jobsearchus/jobsearchus)
 
-**1964 jobs** across 23 categories — updated 2026-05-20
+**2069 jobs** across 23 categories — updated 2026-05-21
 
 Fresh jobs pulled straight from company career pages — not recycled from job boards.
 Updated 5 times a day across 5,500+ companies worldwide.
@@ -23,31 +23,31 @@ Full job board with filters: **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Category | Open Roles | Link |
 | --- | --- | --- |
-| $100K+ Remote Jobs | 208 | [View →](jobs/100k-plus-jobs.md) |
-| Entry Level Remote Jobs | 268 | [View →](jobs/entry-level-jobs.md) |
-| Software Engineer Jobs | 427 | [View →](jobs/software-engineer-jobs.md) |
-| Backend Jobs | 19 | [View →](jobs/backend-jobs.md) |
+| $100K+ Remote Jobs | 218 | [View →](jobs/100k-plus-jobs.md) |
+| Entry Level Remote Jobs | 288 | [View →](jobs/entry-level-jobs.md) |
+| Software Engineer Jobs | 452 | [View →](jobs/software-engineer-jobs.md) |
+| Backend Jobs | 20 | [View →](jobs/backend-jobs.md) |
 | Frontend Jobs | 7 | [View →](jobs/frontend-jobs.md) |
-| Fullstack Jobs | 11 | [View →](jobs/fullstack-jobs.md) |
-| Developer Jobs | 34 | [View →](jobs/developer-jobs.md) |
+| Fullstack Jobs | 12 | [View →](jobs/fullstack-jobs.md) |
+| Developer Jobs | 35 | [View →](jobs/developer-jobs.md) |
 | DevOps Jobs | 16 | [View →](jobs/devops-jobs.md) |
 | Site Reliability Engineer Jobs | 11 | [View →](jobs/site-reliability-engineer-jobs.md) |
-| Data Science Jobs | 30 | [View →](jobs/data-science-jobs.md) |
-| Quality Assurance Jobs | 13 | [View →](jobs/quality-assurance-jobs.md) |
-| Product Manager Jobs | 39 | [View →](jobs/product-manager-jobs.md) |
-| Project Manager Jobs | 23 | [View →](jobs/project-manager-jobs.md) |
-| UI/UX Jobs | 36 | [View →](jobs/ui-ux-jobs.md) |
-| Marketing Jobs | 108 | [View →](jobs/marketing-jobs.md) |
-| Sales Jobs | 270 | [View →](jobs/sales-jobs.md) |
-| Customer Support Jobs | 86 | [View →](jobs/customer-support-jobs.md) |
-| Finance Jobs | 125 | [View →](jobs/finance-jobs.md) |
+| Data Science Jobs | 32 | [View →](jobs/data-science-jobs.md) |
+| Quality Assurance Jobs | 14 | [View →](jobs/quality-assurance-jobs.md) |
+| Product Manager Jobs | 42 | [View →](jobs/product-manager-jobs.md) |
+| Project Manager Jobs | 26 | [View →](jobs/project-manager-jobs.md) |
+| UI/UX Jobs | 38 | [View →](jobs/ui-ux-jobs.md) |
+| Marketing Jobs | 119 | [View →](jobs/marketing-jobs.md) |
+| Sales Jobs | 284 | [View →](jobs/sales-jobs.md) |
+| Customer Support Jobs | 89 | [View →](jobs/customer-support-jobs.md) |
+| Finance Jobs | 129 | [View →](jobs/finance-jobs.md) |
 | HR Jobs | 47 | [View →](jobs/hr-jobs.md) |
-| Legal Jobs | 34 | [View →](jobs/legal-jobs.md) |
-| Operations Jobs | 288 | [View →](jobs/operations-jobs.md) |
-| Security Jobs | 36 | [View →](jobs/security-jobs.md) |
-| Creative Jobs | 22 | [View →](jobs/creative-jobs.md) |
+| Legal Jobs | 35 | [View →](jobs/legal-jobs.md) |
+| Operations Jobs | 303 | [View →](jobs/operations-jobs.md) |
+| Security Jobs | 37 | [View →](jobs/security-jobs.md) |
+| Creative Jobs | 23 | [View →](jobs/creative-jobs.md) |
 | Admin Jobs | 13 | [View →](jobs/admin-jobs.md) |
-| More Remote Jobs | 269 | [View →](jobs/extra-jobs.md) |
+| More Remote Jobs | 285 | [View →](jobs/extra-jobs.md) |
 
 ---
 
@@ -63,4 +63,4 @@ Stay updated when new jobs drop:
 
 ---
 
-*Updated 2026-05-20 · Jobs sourced directly from company career pages · [jobsearchus.com](https://www.jobsearchus.com)*
+*Updated 2026-05-21 · Jobs sourced directly from company career pages · [jobsearchus.com](https://www.jobsearchus.com)*

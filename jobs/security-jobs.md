@@ -2,12 +2,13 @@
 
 Remote cybersecurity, information security, and security engineering roles.
 
-**36 open roles** — Last updated: 2026-05-20
+**37 open roles** — Last updated: 2026-05-21
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Global Physical Security Lead - Associate/Assistant Vice President | [iCapital](https://icapital.com) | $80K–$120K/yr | May 20 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8552739002) |
 | Senior Cybersecurity GRC Lead | [Inetum](https://inetum.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000127469190) |
 | Principal Business Information Security Officer | [LastPass](https://lastpass.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/lastpass/jobs/4695236005) |
 | Cyber Risk Specialist | [Qube Research & Technologies](https://quberesearch.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8557843002) |

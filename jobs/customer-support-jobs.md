@@ -2,7 +2,7 @@
 
 Remote customer support and success roles across SaaS, e-commerce, and tech.
 
-**86 open roles** — Last updated: 2026-05-20
+**89 open roles** — Last updated: 2026-05-21
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -10,8 +10,11 @@ Remote customer support and success roles across SaaS, e-commerce, and tech.
 | --- | --- | --- | --- | --- |
 | Retail Customer Service | [Entain](https://entaingroup.com) | £13/yr | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Entain/postings/744000127475729) |
 | CAISSIER - HÔTE DE CAISSE (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127470221) |
+| Customer Success Support Associate I | [Human Interest](https://humaninterest.com) | $21/yr | May 20 | [Apply](https://job-boards.greenhouse.io/humaninterest/jobs/7944304) |
+| Director, Client Service | [The Trade Desk](https://thetradedesk.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5142727007) |
 | Customer Support Associate | [Convera](https://convera.com) | — | May 20 | [Apply](https://job-boards.eu.greenhouse.io/convera/jobs/4867504101) |
 | Müşteri Hizmetleri Uzmanı | [JYSK](https://jysk.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000127410409) |
+| Estonian Speaking Support Associate (part-time) | [Wolt](https://wolt.com) | €8/yr | May 20 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7939001) |
 | Customer Care Coordinator/Manager  - Home Care | [Healthcare Australia](https://healthcareaustralia.com.au) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/HealthcareAustralia1/postings/6000000001089981) |
 | Subway Cashier | [Pilot Flying J](https://pilotflyingj.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/PilotCompany/postings/744000127347539) |
 | Subway Sandwich Artist | [Pilot Flying J](https://pilotflyingj.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/PilotCompany/postings/744000127347409) |
