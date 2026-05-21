@@ -2,12 +2,14 @@
 
 QA, test automation, and SDET roles. Manual and automated testing across all stacks.
 
-**14 open roles** — Last updated: 2026-05-21
+**16 open roles** — Last updated: 2026-05-21
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior AI Automation Engineer | [HackerOne](https://hackerone.com) | $160K–$200K/yr | May 21 | [Apply](https://jobs.ashbyhq.com/hackerone/ab97488e-b159-41e3-8a20-a40b91acbdc4) |
+| Flight Test Engineer | [Stratolaunch](https://stratolaunch.com) | $120K–$158K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/stratolaunch/jobs/5227397008) |
 | 6344 - Automation Engineer / Automation Engineer | [Verista](https://verista.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/veristainc/jobs/5226410008) |
 | QA – Ingénieur Test (H/F) | [Inetum](https://inetum.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000127204089) |
 | Software Test Engineer / SDET | [Continental](https://continentalserves.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000127179359) |

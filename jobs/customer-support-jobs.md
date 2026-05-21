@@ -2,15 +2,20 @@
 
 Remote customer support and success roles across SaaS, e-commerce, and tech.
 
-**94 open roles** — Last updated: 2026-05-21
+**99 open roles** — Last updated: 2026-05-21
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Technical Account Manager, East | [Hightouch](https://hightouch.com) | $165K–$250K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/hightouch/jobs/6000330004) |
+| Customer Support (Pacific Time) | [Circle](https://circle.so) | $45K–$60K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/circleso/jobs/5218865008) |
+| Customer Support (Oceania) | [Circle](https://circle.so) | $45K–$60K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/circleso/jobs/5218878008) |
+| Customer Service Agent | [Poppy](https://meetpoppy.com) | — | May 21 | [Apply](https://jobs.poppy.be/o/customer-service-agent/c/new) |
 | Technical helpdesk Agent - Spanish speaker | [MSX International](https://msxi.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013245316) |
 | Technical Helpdesk Agent | [MSX International](https://msxi.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013245276) |
 | Technical Helpdesk Agent | [MSX International](https://msxi.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013245206) |
+| Onboarding Specialist | [Squire Technologies](https://getsquire.com) | — | May 20 | [Apply](https://jobs.lever.co/getsquire/b81fe423-5d82-4650-b2b6-460fd5a192c8) |
 | Field Service Technician | [Nielsen](https://nielsen.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990013238339) |
 | Retail Customer Service | [Entain](https://entaingroup.com) | £13/yr | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Entain/postings/744000127475729) |
 | CAISSIER - HÔTE DE CAISSE (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127470221) |

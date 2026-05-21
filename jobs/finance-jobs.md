@@ -2,18 +2,27 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**141 open roles** — Last updated: 2026-05-21
+**150 open roles** — Last updated: 2026-05-21
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Electrical O&M Technician  | [Genpak LLC](https://genpak-llc-2) | — | May 21 | [Apply](https://job-boards.eu.greenhouse.io/lotusworks/jobs/4869960101) |
+| Analista Sênior Contábil | [STARK BANK](https://starkbank.com) | — | May 21 | [Apply](https://jobs.lever.co/starkbank/cf09607e-a7e7-4676-b51d-1be84ae0d280) |
+| Estagiário(a) de Controladoria | [STARK BANK](https://starkbank.com) | — | May 21 | [Apply](https://jobs.lever.co/starkbank/2acf5bbc-913b-42ca-86ff-cc7f58998ffa) |
+| Tax & Compliance Manager | [Mayflower](https://mayflowervisa.com) | — | May 21 | [Apply](https://mayflower.recruitee.com/o/tax-compliance-manager/c/new) |
+| Senior Compensation Analyst | [Vonage](https://vonage.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/vonage/jobs/8559461002) |
+| Senior Compensation Analyst | [Vonage](https://vonage.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/vonage/jobs/8554448002) |
 | Direct Sales Agent (Dodoma Branch) | [Standard Bank](https://standardbank.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000127635569) |
 | Accounting Intern | [IQ-EQ](https://iqeq.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000127625046) |
 | Assistant Manager, Fund Accounting  | [IQ-EQ](https://iqeq.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000127623128) |
+| Deputy Manager - Business Finance | [Meesho](https://meesho.com) | — | May 21 | [Apply](https://jobs.lever.co/meesho/3a60c7e0-bf65-4695-bddc-9f21e68d235d) |
 | Accounting Intern - Full Onsite | [IQ-EQ](https://iqeq.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000127614039) |
 | Senior Sales Manager (Transactional Banking) | [Standard Bank](https://standardbank.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000127607340) |
+| Senior Billing Revenue Analyst | [Karbon](https://karbon.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/karbon/jobs/6002291004) |
 | Banker, Private | [Standard Bank](https://standardbank.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000127594085) |
+| Senior Analyst, Banking Alliances | [Razorpay Software Private Limited](https://razorpay.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4696862005) |
 | Accounts Payable Assistant - Student Position | [Manitoulin Global Forwarding](https://manitoulingroup.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000127501033) |
 | Senior Indirect Tax Compliance Analyst | [GitLab](https://about.gitlab.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8555117002) |
 | Accounting Manager | [Human Interest](https://humaninterest.com) | $130K–$155K/yr | May 20 | [Apply](https://job-boards.greenhouse.io/humaninterest/jobs/7944443) |

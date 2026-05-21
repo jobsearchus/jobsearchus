@@ -2,12 +2,13 @@
 
 General developer and programmer roles that did not fit a more specific category.
 
-**38 open roles** — Last updated: 2026-05-21
+**39 open roles** — Last updated: 2026-05-21
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Staff Developer, Identity | [1Password](https://1password.com) | — | May 21 | [Apply](https://jobs.ashbyhq.com/1password/9721f3ab-dca4-4cdc-a8cc-60a7ce488b80) |
 | Senior Ruby Developer  | [Endava](https://endava.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Endava/postings/744000127513569) |
 | Senior Application Developer | [Genpak LLC](https://genpak-llc-2) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/SOSi1/postings/3743990013236446) |
 | Senior Developer, Product Security | [1Password](https://1password.com) | — | May 20 | [Apply](https://jobs.ashbyhq.com/1password/79442471-c467-479a-beb0-38593cab0edc) |

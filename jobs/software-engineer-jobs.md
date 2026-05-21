@@ -2,23 +2,45 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**485 open roles** — Last updated: 2026-05-21
+**509 open roles** — Last updated: 2026-05-21
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Mechanical or Aerospace Engineer | [Stratolaunch](https://stratolaunch.com) | $83K–$121K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/stratolaunch/jobs/5228003008) |
+| Manager, Data Engineering | [HackerOne](https://hackerone.com) | $170K–$205K/yr | May 21 | [Apply](https://jobs.ashbyhq.com/hackerone/c8f46a18-3347-42e6-9fae-c0dbc3e89618) |
+| Senior Technical Account Manager | [Snowflake](https://snowflake.com) | — | May 21 | [Apply](https://jobs.ashbyhq.com/snowflake/0c0b8a99-ec28-4a91-bfac-a21ced8cbe3b) |
+| BESS Engineer | [Intersect Labs](https://intersectlabs.io) | — | May 21 | [Apply](https://jobs.lever.co/intersect/e48ea134-0beb-4207-a465-9cb31b98c9a1) |
+| Metal Process Engineer (AH) | [Distro](https://distro.app) | — | May 21 | [Apply](https://jobs.lever.co/distro/eba58090-495f-45b8-837f-19b6eaf26fce) |
+| I&C O&M Technician | [Genpak LLC](https://genpak-llc-2) | — | May 21 | [Apply](https://job-boards.eu.greenhouse.io/lotusworks/jobs/4869981101) |
+| Staff Satellite Operations Engineer | [IonQ](https://ionq.com) | $146K–$191K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/ionq/jobs/6000016004) |
+| Senior Software Engineer | [Canary Technologies](https://canarytechnologies.com) | — | May 21 | [Apply](https://jobs.lever.co/canarytechnologies/3fbb11e2-993a-4535-beb4-43d8d0634668) |
+| Senior Software Engineer - Python - Golang | [Ivanti](https://ivanti.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/a3c41b8b71eff8c4/jobs/7742623003) |
+| Senior Software Engineer - Python - GoLang - Containerization - Cloud | [Ivanti](https://ivanti.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/a3c41b8b71eff8c4/jobs/7742567003) |
+| Data Engineer | [Wildlife Studios](https://wildlifestudios.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/wildlifestudios/jobs/8559682002) |
+| Registered Behavior Technician (RBT) - Jacksonville, FL | [Brightstone Therapy](https://brightstonetherapy.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/brightstonetherapy/jobs/5143923007) |
+| Analytics Manager  | [takealot.com](https://takealot.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/takealotgroup/jobs/7946281) |
 | Senior Business Analyst | [Inetum](https://inetum.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000127650729) |
 | Senior Business Consultant  | [Inetum](https://inetum.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000127647429) |
+| Senior Accountant - Group Reporting | [WPP](https://wpp.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/wpp/jobs/8554622002) |
 | Senior Java Engineer, Remarketing (f/m/x) | [AUTO1 Group](https://auto1-group.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000127634802) |
 | Senior Java Engineer, Remarketing (f/m/x) | [AUTO1 Group](https://auto1-group.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000127633960) |
 | Process Manager - Wastewater | [BESIX](https://besix.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000127630619) |
 | Logistics Engineer (UAE National Only) | [BESIX](https://besix.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000127626723) |
 | HSE Manager - MEP | [BESIX](https://besix.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000127624669) |
+| Senior Manager, Technical Support Engineer | [Motive](https://gomotive.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/gomotive/jobs/8526841002) |
+| Senior Data Analyst | [Netomi](https://netomi.com) | — | May 21 | [Apply](https://jobs.lever.co/netomi/6dace09f-ba98-46d2-9184-050851bace22) |
+| Senior Systems Engineer (Windows) | [AHEAD](https://ahead.com) | — | May 21 | [Apply](https://jobs.lever.co/thinkahead/8fb784e1-47a3-4c0c-964e-5e212cef897f) |
+| Senior Analyst, AML Analytics | [Tide](https://tide.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/tide/jobs/7735379003) |
 | [MSO] Linux Systems Engineer | [Software Mind](https://softwaremind.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/SoftwareMind/postings/744000127581640) |
 | Senior Android Engineer — Mobile Workflows | [Canva](https://canva.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Canva/postings/6000000001095048) |
 | Senior iOS Engineer — Mobile Workflows | [Canva](https://canva.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Canva/postings/6000000001094563) |
+| Metrologist | [Stratolaunch](https://stratolaunch.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/stratolaunch/jobs/5227419008) |
 | Software Engineer - Associate | [Experian](https://experianplc.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000127566305) |
+| Engineering Manager (Cloud and Data) | [GROW Inc](https://grow.com) | — | May 21 | [Apply](https://jobs.ashbyhq.com/grow-inc/35ae4350-d11b-4e75-a291-bec3330d922c) |
+| Engineering Manager (Experiences and Core Super) | [GROW Inc](https://grow.com) | — | May 21 | [Apply](https://jobs.ashbyhq.com/grow-inc/1051c09e-4fc7-488e-b853-33429a5f69d2) |
+| Staff State Estimation Engineer | [Archer](https://archer.com) | $170K–$215K/yr | May 20 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7740904003) |
 | Salesforce Service Cloud & Case Management Specialist | [NCS Australia](https://ncsaustralia.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/NCSAustralia/postings/6000000001092312) |
 | SharePoint Administrator / Microsoft 365 | [Applaudo](https://applaudo.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/ApplaudoStudios/postings/744000127522068) |
 | SharePoint Information Architecture Specialist | [Applaudo](https://applaudo.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/ApplaudoStudios/postings/744000127520919) |
@@ -44,6 +66,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Data ingénieur Java Scala Expérimenté | [Devoteam](https://devoteam.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Devoteam/postings/744000127490690) |
 | Mechanical Engineer  | [DLR Group](https://dlrgroup.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/dlrgroup/jobs/5224919008) |
 | Senior Electrical Engineer | [Ramboll](https://ramboll.com) | $110K–$140K/yr | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Ramboll3/postings/744000127488108) |
+| Principal Technical Program Manager, Performance | [Reddit](https://reddit.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/7947049) |
 | Senior Database Engineer | [Man Group](https://man.com) | — | May 20 | [Apply](https://job-boards.eu.greenhouse.io/mangroup/jobs/4872090101) |
 | Senior Middleware Operations Engineer  | [Inetum](https://inetum.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000127483506) |
 | Solutions Engineer, Enterprise East (Pre-Sales) | [Hightouch](https://hightouch.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/hightouch/jobs/6001225004) |
@@ -57,6 +80,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Digital Analytics Manager, CNBC | [Versant](https://versant.com) | $110K–$130K/yr | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Versant3/postings/744000127463551) |
 | Mechanical Engineering Intern - Fall 2026 | [DLR Group](https://dlrgroup.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/dlrgroup/jobs/5225167008) |
 | Senior Mechanical HVAC Engineer | [Ramboll](https://ramboll.com) | $79K–$100K/yr | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Ramboll3/postings/744000127462663) |
+| Structural Engineer | [DLR Group](https://dlrgroup.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/dlrgroup/jobs/5226428008) |
 | System Engineer - Categoria Protetta L.68/99 | [Everience](https://everience.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/EVERIENCE/postings/744000127453409) |
 | Salesforce Engineer | [Mixpanel](https://mixpanel.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/mixpanel/jobs/7946729) |
 | IT Ops Engineer | [Pelago](https://pelagohealth.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/pelago/jobs/5142784007) |

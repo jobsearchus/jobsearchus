@@ -2,14 +2,24 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**124 open roles** — Last updated: 2026-05-21
+**134 open roles** — Last updated: 2026-05-21
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Head of Corporate PR | [Whatnot](https://whatnot.com) | — | May 21 | [Apply](https://jobs.ashbyhq.com/whatnot/b940f62b-cc36-487b-be64-18eab9f2eb21) |
+| PR & Communications Manager (16 month fixed term contract) | [Monzo](https://monzo.com) | £68K–£80K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7950409) |
 | Education Growth Lead - UKI | [Canva](https://canva.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001095637) |
+| Content Writing Specialist | [WIN Home Inspection](https://winhomeinspection.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/winhomeinspection/jobs/4683452006) |
 | Head of Marketing & Strategy IAPAC | [Continental](https://continentalserves.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000127588910) |
+| Digital Optimisation Manager | [Mable](https://trymable.com) | — | May 21 | [Apply](https://jobs.lever.co/mable/25927311-f1f8-401d-a74f-9057dc2648e2) |
+| Government Relations Lead | [ŌURA](https://ouraring.com) | $155K–$182K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/oura/jobs/4251622009) |
+| Manager, Growth Marketing | [Illumio](https://illumio.com) | — | May 20 | [Apply](https://jobs.ashbyhq.com/illumio/c60c6a0f-3ec3-4768-8f75-4420f970aed2) |
+| Demand Generation Manager | [Zapier](https://zapier.com) | — | May 20 | [Apply](https://jobs.ashbyhq.com/zapier/283b909d-c5b0-4d78-844c-7b25a7d5faf7) |
+| Regional Marketing - West | [ClickHouse](https://clickhouse.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/clickhouse/jobs/6001972004) |
+| Regional Marketing - Central | [ClickHouse](https://clickhouse.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/clickhouse/jobs/6001971004) |
+| Regional Marketing - East | [ClickHouse](https://clickhouse.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/clickhouse/jobs/6001970004) |
 | Lead Global Marketing Campaigns Manager | [GitLab](https://gitlab.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8550333002) |
 | Director, Marketing Strategy & Operations | [Freshworks](https://freshworks.com) | $220K–$270K/yr | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000127514717) |
 | Senior Growth Product Marketing Manager | [LastPass](https://lastpass.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/lastpass/jobs/4695244005) |

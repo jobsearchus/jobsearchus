@@ -2,18 +2,33 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**290 open roles** — Last updated: 2026-05-21
+**305 open roles** — Last updated: 2026-05-21
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Enterprise Account Executive - SLED | [Smartsheet](https://smartsheet.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/smartsheet/jobs/7950637) |
+| Business Development Associate | [SecurityScorecard](https://securityscorecard.com) | $60K–$70K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/securityscorecard/jobs/7950623) |
+| Business Development Associate | [SecurityScorecard](https://securityscorecard.com) | $60K–$70K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/securityscorecard/jobs/7950622) |
+| Business Development Associate | [SecurityScorecard](https://securityscorecard.com) | $60K–$70K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/securityscorecard/jobs/7950620) |
+| Account Executive, MM/ENT | [Emburse](https://emburse.com) | — | May 21 | [Apply](https://jobs.lever.co/emburse/2816b137-6dd8-4b31-b277-0f184ff9a59d) |
+| Business Development VP | [bswift](https://bswift.com) | $140K–$150K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/bswift/jobs/4682654006) |
+| Sales Development Representative, MENA | [Seesaw](https://seesaw.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/seesaw/jobs/4683386006) |
+| Account Executive, Majors | [Vercel](https://vercel.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/vercel/jobs/5999792004) |
+| Distribution Partner Manager | [Ivanti](https://ivanti.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/a3c41b8b71eff8c4/jobs/7740017003) |
+| Marketplace Sales Manager | [takealot.com](https://takealot.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/takealotgroup/jobs/7946390) |
+| Sales Engineer GridGain | [MariaDB](https://mariadb.com) | — | May 21 | [Apply](https://job-boards.eu.greenhouse.io/mariadbplc/jobs/4803257101) |
 | Team Lead Inside Sales | [AUTO1 Group](https://auto1-group.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000127649479) |
+| Regional Partnership Associate - APAC | [Seesaw](https://seesaw.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/seesaw/jobs/4683436006) |
 | Assistant Store Manager | [Anglo American](https://angloamerican.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000127626119) |
 | Employé commercial Boucherie (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127616149) |
+| Gaming Technical Account Manager | [RTB House](https://rtbhouse.com) | — | May 21 | [Apply](https://job-boards.eu.greenhouse.io/rtbhouse/jobs/4869487101) |
 | Business Development Representative  | [Genpak LLC](https://genpak-llc-2) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/APMGroup/postings/6000000001095218) |
 | Sales Enablement Specialist I | [Nielsen](https://nielsen.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990013244506) |
 | Client Partner (Senior Account Executive I) | [Nielsen](https://nielsen.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990013244436) |
+| Regional Director, Commercial Sales - APAC | [ClickUp](https://clickup.com) | — | May 21 | [Apply](https://jobs.ashbyhq.com/clickup/746ecb66-328c-494e-909e-559d5cfd8171) |
+| Mid Market Account Executive - EMEA | [Ashby](https://ashbyhq.com) | $50K/yr | May 21 | [Apply](https://jobs.ashbyhq.com/ashby/86a60834-ba64-484d-9658-afa1bc97a957) |
 | Manager, Sales Engineering - Healthcare West | [Zscaler](https://zscaler.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5130007007) |
 | Enrollment Success Specialist | [Aviation Institute of Maintenance](https://aviationmaintenance.edu) | $25/yr | May 20 | [Apply](https://job-boards.greenhouse.io/aviationinstituteofmaintenance/jobs/5226070008) |
 | Enrollment Advisor | [Aviation Institute of Maintenance](https://aviationmaintenance.edu) | $25/yr | May 20 | [Apply](https://job-boards.greenhouse.io/aviationinstituteofmaintenance/jobs/5226069008) |

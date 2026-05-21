@@ -2,12 +2,17 @@
 
 UX design, UI design, and product design roles. Figma, research, and end-to-end product work.
 
-**40 open roles** — Last updated: 2026-05-21
+**45 open roles** — Last updated: 2026-05-21
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Product Designer, Agentic Vulnerability Elimination | [HackerOne](https://hackerone.com) | $100K–$123K/yr | May 21 | [Apply](https://jobs.ashbyhq.com/hackerone/30ce477b-714d-4468-8083-1445e257a74c) |
+| Midweight Graphic Designer | [dmg events](https://dmgevents.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/dmgevents/jobs/7949934) |
+| Design Leader, Software Design | [ŌURA](https://ouraring.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/oura/jobs/4247176009) |
+| Senior Content Designer | [ŌURA](https://ouraring.com) | $144K–$169K/yr | May 20 | [Apply](https://job-boards.greenhouse.io/oura/jobs/4253839009) |
+| Senior Product Designer, Ads | [Discord](https://discord.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/discord/jobs/8558992002) |
 | Product Designer | [Experian](https://experianplc.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000127522024) |
 | Alternance - Styliste Tendances et Packaging F/H/X | [BUT](https://but.fr) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000127483805) |
 | Senior UI Designer | [VML](https://vml.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/vmlenterprisesolutions/jobs/8548022002) |

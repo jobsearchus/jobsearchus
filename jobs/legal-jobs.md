@@ -2,13 +2,16 @@
 
 Remote legal, compliance, and counsel roles.
 
-**35 open roles** — Last updated: 2026-05-21
+**38 open roles** — Last updated: 2026-05-21
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Commercial Counsel | [LI.FI](https://li.fi) | — | May 21 | [Apply](https://jobs.ashbyhq.com/li.fi/b7273fb8-9e75-43bf-ad2b-8aa6496bf3ca) |
+| Director, Compliance (Compliance Risk Monitoring) | [Coupang](https://coupang.com) | — | May 21 | [Apply](https://boards.greenhouse.io/coupanginternal/jobs/7737217?gh_jid=7737217) |
 | Corporate Counsel, Commercial | [Axon](https://axon.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/axon/jobs/7742303003) |
+| Assistant General Counsel, Employment | [Robinhood](https://robinhood.com) | — | May 20 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7943216?t=gh_src=&gh_jid=7943216) |
 | Assistant General Counsel | [Kapitus](https://kapitus.com) | $122K–$195K/yr | May 20 | [Apply](https://job-boards.greenhouse.io/kapitus/jobs/4253197009) |
 | Senior Legal Counsel Energy | [BESIX](https://besix.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000127447049) |
 | Representative, Contracts - UK Project | [NBCUniversal](https://nbcuniversal.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000127374779) |

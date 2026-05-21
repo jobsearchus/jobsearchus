@@ -2,17 +2,19 @@
 
 Remote HR, recruiting, and people operations roles.
 
-**52 open roles** — Last updated: 2026-05-21
+**54 open roles** — Last updated: 2026-05-21
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior HR Generalist | [Honeycomb.io](https://honeycomb.io) | — | May 21 | [Apply](https://job-boards.greenhouse.io/honeycomb/jobs/5227819008) |
 | Regional Digital HR Specialist | [Egis](https://egis-group.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000127640814) |
 | Learning Business Partner - Tires | [Continental](https://continentalserves.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000127615979) |
 | Sr. Group Manager_SF (EC Payroll)_ REF102027N_2026240091 | [WNS](https://wns.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/WNSGlobalServices144/postings/744000127578230) |
 | Health, Safety and Wellbeing Partner | [NCS Australia](https://ncsaustralia.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/NCSAustralia/postings/6000000001094605) |
 | Health, Safety and Wellbeing Partner | [NCS Australia](https://ncsaustralia.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/NCSAustralia/postings/6000000001094582) |
+| Technical Sourcer | [Sigma Computing](https://sigmacomputing.com) | $110K–$120K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/7742383003) |
 | Payroll Specialist | [BESIX](https://besix.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000127437689) |
 | Employment Consultant | [Genpak LLC](https://genpak-llc-2) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/APMGroup/postings/6000000001091522) |
 | Global Early Careers Campus Recruiter | [OakNorth](https://oaknorth.com) | — | May 20 | [Apply](https://jobs.lever.co/oaknorth.ai/4eb296da-d5ef-4ff5-bcaf-5efdf123f677) |

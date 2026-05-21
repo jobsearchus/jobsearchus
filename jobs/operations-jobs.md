@@ -2,12 +2,20 @@
 
 Remote operations and business operations roles across industries.
 
-**318 open roles** — Last updated: 2026-05-21
+**329 open roles** — Last updated: 2026-05-21
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Environmental Test Operator | [IonQ](https://ionq.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/ionq/jobs/5977330004) |
+| Head of Operations | [Icarus](https://icarus.one) | $150K–$500K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/icarus/jobs/5227794008) |
+| Associate Manager, Core Annotations - PIPELINE | [Motive](https://gomotive.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/gomotive/jobs/8558342002) |
+| Pellet Mill Operator | [Enviva](https://envivabiomass.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/enviva/jobs/7733822003) |
+| People Operations Associate | [Monzo](https://monzo.com) | £34K–£40K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7946774) |
+| RAVE II, Demo Ops | [Mapbox](https://mapbox.com) | — | May 21 | [Apply](https://jobs.ashbyhq.com/mapbox/f596c22a-6a95-4912-a603-f52fd2bc5c80) |
+| Pellet Mill Operator | [Enviva](https://envivabiomass.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/enviva/jobs/7742149003) |
+| Operations Associate | [Meesho](https://meesho.com) | — | May 21 | [Apply](https://jobs.lever.co/meesho/eb8442a3-3fc5-401c-b67c-36cd7edd4e64) |
 | Change Management Intern (Jun - Dec 2026) | [NCS](https://ncs.co) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001095702) |
 | Process Technician | [Anglo American](https://angloamerican.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000127591765) |
 | Správca registratúry (archivár/archivárka) | [Continental](https://continentalserves.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000127589889) |
@@ -16,6 +24,7 @@ Remote operations and business operations roles across industries.
 | Commercial Analyst - Procurement | [Anglo American](https://angloamerican.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000127571750) |
 | Tech Asset Admin | [NCS](https://ncs.co) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001093705) |
 | After Hours Casual Rostering/Administration Consultant | [Healthcare Australia](https://healthcareaustralia.com.au) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/HealthcareAustralia1/postings/6000000001093585) |
+| Senior Technical Program Manager | [Mariana Minerals](https://marianaminerals.com) | — | May 21 | [Apply](https://jobs.ashbyhq.com/marianaminerals/680d1a0a-8a7e-44c1-a85f-8ceb0608ac96) |
 | Maintenance Technician | [IRCA](https://irca.eu) | — | May 20 | [Apply](https://jobs.lever.co/ircagroup/be8f6a5e-dbfc-4122-be25-a347d718da7f) |
 | Project Management.Support | [Experian](https://experianplc.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000127521439) |
 | Director, Indirect Procurement | [Relativity Space](https://relativityspace.com) | — | May 20 | [Apply](https://boards.greenhouse.io/relativity/jobs/8557530002?gh_jid=8557530002) |
@@ -57,6 +66,7 @@ Remote operations and business operations roles across industries.
 | Trust & Safety Analyst | [The Knot Worldwide](https://theknotworldwide.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/theknotworldwide/jobs/5225529008) |
 | Assistant Manager Food | [NBCUniversal](https://nbcuniversal.com) | $32/yr | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000127312311) |
 | Business Operations Analyst | [Zynga](https://zynga.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/zyngacareers/jobs/5995420004) |
+|  Senior Channel Strategy & Operations Manager - United States - Remote | [Grafana Labs](https://grafana.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/5998657004) |
 | Copy of KCS (Knowledge Centered Service) Enablement Expert | [MariaDB](https://mariadb.com) | — | May 19 | [Apply](https://job-boards.eu.greenhouse.io/mariadbplc/jobs/4871248101) |
 | Senior Business Manager | [ALTEN](https://alten.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5088241007) |
 | Implementation Team Lead | [Karbon](https://karbon.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/karbon/jobs/6000271004) |
@@ -65,6 +75,7 @@ Remote operations and business operations roles across industries.
 | Team Leader | [Greene King](https://greeneking.co.uk) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/GreeneKing/postings/744000127290038) |
 | Associate Sales Development Representative | [Ping Identity](https://pingidentity.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/pingidentity/jobs/8550724002) |
 | Kitchen Assistant | [Greene King](https://greeneking.co.uk) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/GreeneKing/postings/744000127279574) |
+| Full Time Laundry Aide (AM) | [Silverado](https://silverado.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/silverado/jobs/5141955007) |
 | Licensed Automotive Technician | [Clutch](https://clutch.io) | $39/yr | May 19 | [Apply](https://job-boards.greenhouse.io/clutch/jobs/6000031004) |
 | Jr. Infra (Hardware) Technician | [SBT Global](https://sbtglobal.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/SBTGlobalInc/postings/3743990013208286) |
 | QUALITY COORDINATOR (intern) M/F | [Egis](https://egis-group.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000127253239) |

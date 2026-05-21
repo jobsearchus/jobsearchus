@@ -2,15 +2,20 @@
 
 Remote creative roles — copywriters, content creators, graphic designers, and brand specialists.
 
-**24 open roles** — Last updated: 2026-05-21
+**29 open roles** — Last updated: 2026-05-21
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Brand Producer, Product Launches | [Figma](https://figma.com) | — | May 21 | [Apply](https://boards.greenhouse.io/figma/jobs/6000002004?gh_jid=6000002004) |
+| Associate Creative Director, Art | [Salt XC](https://saltxc.com) | $120K–$130K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/saltxc/jobs/5143733007) |
+| Technical Artist – Isometric Strategy Title (12-month contract) | [Blackbird Interactive](https://blackbirdinteractive.com) | — | May 21 | [Apply](https://jobs.lever.co/blackbirdinteractive/02567906-c547-4389-a1ed-909455d68374) |
 | Pintor/a de vehículos para Alemania | [AUTO1 Group](https://auto1-group.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000127477118) |
 | Pintor/a de vehículos para Alemania  | [AUTO1 Group](https://auto1-group.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000127475924) |
 | Assistant Food Stylist, TODAY (Contract) | [NBCUniversal](https://nbcuniversal.com) | $33/yr | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000127464407) |
+| AI Video Editor - Performance Marketing - Growth | [Kraken](https://kraken.com) | — | May 20 | [Apply](https://jobs.ashbyhq.com/kraken.com/5b422e12-2d2a-4dd9-beb3-3d5b46cd7e0a) |
+| AI Video Editor - Performance Marketing - Growth | [Kraken](https://kraken.com) | — | May 20 | [Apply](https://jobs.ashbyhq.com/kraken.com/412d3adf-126d-47c5-9334-31700a7de41b) |
 | Senior Technical Writer | [Wix.com](https://wix.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Wix2/postings/744000127412194) |
 | Lead Creative Manager - BeReal | [Genpak LLC](https://genpak-llc-2) | — | May 20 | [Apply](https://jobs.ashbyhq.com/voodoo/433eb279-a88f-490b-9999-ff0f6591ef04) |
 | Creative Technologist, KarmaLab | [Reddit](https://reddit.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/7768983) |

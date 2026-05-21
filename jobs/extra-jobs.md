@@ -2,7 +2,7 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**301 open roles** — Last updated: 2026-05-21
+**308 open roles** — Last updated: 2026-05-21
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -12,6 +12,7 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Orthodontist | [PortmanDentex](https://portmandentex.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000127651436) |
 | Dental Hygienist - Cork Dental Care, Cork | [PortmanDentex](https://portmandentex.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000127650779) |
 | Specialist Orthodontist | [PortmanDentex](https://portmandentex.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000127648964) |
+| Beauty Therapist - Cowshed Amsterdam | [Soho House](https://sohohouse.com) | — | May 21 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4872819101) |
 | Recepcionista de noche | [ACCOR](https://group.accor.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000127644300) |
 | Equipier salon et polyvalent serveur (H/F) | [ACCOR](https://group.accor.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000127641350) |
 | Night Manager  (m/w/d)  | [ACCOR](https://group.accor.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000127638840) |
@@ -23,9 +24,14 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | (Junior) Consultant (w/m/d) Strategy & Risk Advisory  | [Drees & Sommer](https://dreso.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000127612831) |
 | (Junior) Consultant (w/m/d) Strategy & Risk Advisory  | [Drees & Sommer](https://dreso.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000127616189) |
 | VENDEUR ALIMENTAIRE - TEMPS COMPLET (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127611131) |
+| Data Operation Engineer | [WPP](https://wpp.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/wpp/jobs/8539078002) |
 | Allied Health Assistant | [Genpak LLC](https://genpak-llc-2) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/APMGroup/postings/6000000001094308) |
+| Bartender - Soho House Brighton | [Soho House](https://sohohouse.com) | — | May 20 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4865133101) |
 | Fuel Attendant | [Pilot Flying J](https://pilotflyingj.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/PilotCompany/postings/744000127527275) |
 | Cleaner | [Greene King](https://greeneking.co.uk) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/GreeneKing/postings/744000127524818) |
+| Clinical Oncology Specialist, Breast Oncology | [Natera](https://natera.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/natera/jobs/6001431004) |
+| Licensed Vocational Nurse (LVN) - Registered Nurse (RN) | [Crestwood Behavioral Health](https://crestwoodbehavioralhealth.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/crestwoodcareers/jobs/7742241003) |
+| Sleep Medicine Physician Lead | [OpenLoop](https://openloop.com) | — | May 20 | [Apply](https://jobs.ashbyhq.com/openloophealth/6c01583e-6800-4604-9194-edc59c702586) |
 | Director of Patient Care Services (RN) | [Silverado](https://silverado.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/silverado/jobs/5143477007) |
 | Director, Growth - Health Plan Partnership Strategy | [Pelago](https://pelagohealth.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/pelago/jobs/5142769007) |
 | Clinical Oncology Specialist, Breast Oncology | [Natera](https://natera.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/natera/jobs/6001412004) |
@@ -38,6 +44,7 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Chef de Partie H/F | [Genpak LLC](https://genpak-llc-2) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000127486975) |
 |  Full Time Caregiver (Multiple Shifts Available) | [Silverado](https://silverado.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/silverado/jobs/5142958007) |
 | Intervenant à domicile en Multimédia et Informatique, secteurs 91, 77 et Paris Intramuros H/F  | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000127483180) |
+| Full Time Licensed Practical Nurse, LPN (AM) | [Silverado](https://silverado.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/silverado/jobs/5142922007) |
 | Technicien/Technicienne Informatique et Multimédia à domicile secteurs entre Nantes Nord et Rennes Sud, H/F | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000127481475) |
 | Base Build Superintendent, Manassas, VA - Semiconductor | [World Wide Professional Solutions](https://worldwideprofessionalsolutions.com) | — | May 20 | [Apply](https://jobs.lever.co/wwprosolutions/6921784f-35b0-44ea-8c1e-85363298c059) |
 | Senior Technical Consultant - Network Security | [AHEAD](https://ahead.com) | — | May 20 | [Apply](https://jobs.lever.co/thinkahead/62ed1590-66a8-4038-8096-aff041ae9505) |

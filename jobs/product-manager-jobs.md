@@ -2,12 +2,16 @@
 
 Product manager roles at companies building real products. Sourced directly from career pages.
 
-**42 open roles** — Last updated: 2026-05-21
+**46 open roles** — Last updated: 2026-05-21
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Product Manager, Reports | [Owner.com](https://owner.com) | $190K–$230K/yr | May 21 | [Apply](https://jobs.ashbyhq.com/Owner/f8401e33-2c9f-449e-bd7b-6a44d4c2e6a3) |
+| Group Product Manager  | [Synthesia](https://synthesia.io) | — | May 21 | [Apply](https://jobs.ashbyhq.com/synthesia/2732bc00-620f-49ab-a0dc-001631d977df) |
+| Product Specialist (New Grad) | [Grand Games](https://grandgames.com) | — | May 21 | [Apply](https://jobs.lever.co/grand/f0490ae6-6d1b-474f-b75d-ac6ceed4987f) |
+| Group Product Manager | [Coupang](https://coupang.com) | — | May 21 | [Apply](https://boards.greenhouse.io/coupanginternal/jobs/7946300?gh_jid=7946300) |
 | Product Manager - Internal Product   | [Alpaca](https://alpaca.markets) | — | May 20 | [Apply](https://job-boards.greenhouse.io/alpaca/jobs/6001722004) |
 | Director, Product Marketing | [Zscaler](https://zscaler.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5139802007) |
 | Sr Product Manager | [Delivery Hero](https://deliveryhero.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000127500596) |
