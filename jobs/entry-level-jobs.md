@@ -2,18 +2,34 @@
 
 Remote jobs open to candidates with 0–2 years of experience. A real way in — no degree gatekeeping.
 
-**314 open roles** — Last updated: 2026-05-21
+**331 open roles** — Last updated: 2026-05-21
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Cashier | [Pilot Flying J](https://pilotflyingj.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/PilotCompany/postings/744000127736759) |
+|  APRENDIZ TÉCNICO EM MECÂNICA | [O-I Glass](https://o-i.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/O-I/postings/744000127732259) |
+| ESTAGIÁRIO TÉCNICO MECÂNICA INDUSTRIAL | [O-I Glass](https://o-i.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/O-I/postings/744000127730969) |
+| Propulsion Engineer I, Hardware Development | [Relativity Space](https://relativityspace.com) | — | May 21 | [Apply](https://boards.greenhouse.io/relativity/jobs/8560326002?gh_jid=8560326002) |
+| Kennedy Valve-Production Process Intern  | [McWane](https://mcwane.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/McWaneInc/postings/3743990013257104) |
+| Commis de salle F/H – Restaurant Jean Sulpice** | [Relais & Châteaux](https://relaischateaux.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000127725075) |
+| Apprenti Opérateur (contrat de 3 mois) | [O-I Glass](https://o-i.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/O-I/postings/744000127721809) |
+| Réceptionniste [Saison 2026] | [Genpak LLC](https://genpak-llc-2) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000127718939) |
 | Business Development Associate | [SecurityScorecard](https://securityscorecard.com) | $60K–$70K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/securityscorecard/jobs/7950623) |
 | Business Development Associate | [SecurityScorecard](https://securityscorecard.com) | $60K–$70K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/securityscorecard/jobs/7950622) |
 | Business Development Associate | [SecurityScorecard](https://securityscorecard.com) | $60K–$70K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/securityscorecard/jobs/7950620) |
+| Associate Systems Engineer | [Pure Storage](https://purestorage.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/7931226) |
+| AUSHILFE MÖBELAUFBAU ALS MINIJOB (M/W/D) - Braunschweig | [JYSK](https://jysk.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000127689266) |
+| AUSHILFE MÖBELAUFBAU ALS MINIJOB (M/W/D) - Salzgitter-Bad | [JYSK](https://jysk.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000127690996) |
+| AUSHILFE MÖBELAUFBAU ALS MINIJOB (M/W/D) - Einbeck | [JYSK](https://jysk.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000127690449) |
+| Addetto vandite Part time 25H - La Spezia - c.c. "Le Terrazze" | [JD Sports](https://jdsports.com) | — | May 21 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4872963101) |
 | Estagiário(a) de Controladoria | [STARK BANK](https://starkbank.com) | — | May 21 | [Apply](https://jobs.lever.co/starkbank/2acf5bbc-913b-42ca-86ff-cc7f58998ffa) |
+| Customer Support Associate  | [PandaDoc](https://pandadoc.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/pandadoc/jobs/7682068) |
+| Bolti munkatárs - Wolt Market Óbuda | [Wolt](https://wolt.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7946558) |
 | Operations Associate | [Meesho](https://meesho.com) | — | May 21 | [Apply](https://jobs.lever.co/meesho/eb8442a3-3fc5-401c-b67c-36cd7edd4e64) |
 | Equipier salon et polyvalent serveur (H/F) | [ACCOR](https://group.accor.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000127641350) |
+| Bolti munkatárs - Wolt Market Győr | [Wolt](https://wolt.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7946553) |
 | Logistics Engineer (UAE National Only) | [BESIX](https://besix.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000127626723) |
 | Product Specialist (New Grad) | [Grand Games](https://grandgames.com) | — | May 21 | [Apply](https://jobs.lever.co/grand/f0490ae6-6d1b-474f-b75d-ac6ceed4987f) |
 | Accounting Intern | [IQ-EQ](https://iqeq.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000127625046) |
@@ -26,6 +42,7 @@ Remote jobs open to candidates with 0–2 years of experience. A real way in —
 | Employé commercial Boucherie (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127616149) |
 | Accounting Intern - Full Onsite | [IQ-EQ](https://iqeq.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000127614039) |
 | VENDEUR ALIMENTAIRE - TEMPS COMPLET (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127611131) |
+| Finance Student | [VML MAP](https://vml-map.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/map/jobs/8559331002) |
 | Magasinier HF | [BUT](https://but.fr) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000127577459) |
 | Allied Health Assistant | [Genpak LLC](https://genpak-llc-2) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/APMGroup/postings/6000000001094308) |
 | Fuel Attendant | [Pilot Flying J](https://pilotflyingj.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/PilotCompany/postings/744000127527275) |

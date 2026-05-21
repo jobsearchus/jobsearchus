@@ -2,19 +2,25 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**305 open roles** — Last updated: 2026-05-21
+**311 open roles** — Last updated: 2026-05-21
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Seasonal Sales Associate (Part time) | [Primark Tiendas SLU](https://primark.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000127735399) |
+| Named Account Executive, Hong Kong | [Cloudflare](https://cloudflare.com) | — | May 21 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7868936?gh_jid=7868936) |
 | Enterprise Account Executive - SLED | [Smartsheet](https://smartsheet.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/smartsheet/jobs/7950637) |
 | Business Development Associate | [SecurityScorecard](https://securityscorecard.com) | $60K–$70K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/securityscorecard/jobs/7950623) |
 | Business Development Associate | [SecurityScorecard](https://securityscorecard.com) | $60K–$70K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/securityscorecard/jobs/7950622) |
 | Business Development Associate | [SecurityScorecard](https://securityscorecard.com) | $60K–$70K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/securityscorecard/jobs/7950620) |
 | Account Executive, MM/ENT | [Emburse](https://emburse.com) | — | May 21 | [Apply](https://jobs.lever.co/emburse/2816b137-6dd8-4b31-b277-0f184ff9a59d) |
+| Account Executive, Corrections | [Axon](https://axon.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/axon/jobs/7742850003) |
+| Account Executive, Enterprise (South Florida) | [Pure Storage](https://purestorage.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/7946949) |
 | Business Development VP | [bswift](https://bswift.com) | $140K–$150K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/bswift/jobs/4682654006) |
 | Sales Development Representative, MENA | [Seesaw](https://seesaw.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/seesaw/jobs/4683386006) |
+| Account Manager, Commercial | [PandaDoc](https://pandadoc.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/pandadoc/jobs/7950219) |
+| Senior Account Executive, Start-ups (Austin or Chicago) | [Cloudflare](https://cloudflare.com) | $212K–$292K/yr | May 21 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7947935?gh_jid=7947935) |
 | Account Executive, Majors | [Vercel](https://vercel.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/vercel/jobs/5999792004) |
 | Distribution Partner Manager | [Ivanti](https://ivanti.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/a3c41b8b71eff8c4/jobs/7740017003) |
 | Marketplace Sales Manager | [takealot.com](https://takealot.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/takealotgroup/jobs/7946390) |

@@ -2,14 +2,22 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**509 open roles** — Last updated: 2026-05-21
+**519 open roles** — Last updated: 2026-05-21
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+|  APRENDIZ TÉCNICO EM MECÂNICA | [O-I Glass](https://o-i.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/O-I/postings/744000127732259) |
+| Pesquisadora/Pesquisador Associado(a) II | [Syngenta](https://syngenta.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000127729423) |
+| ESTAGIÁRIO TÉCNICO MECÂNICA INDUSTRIAL | [O-I Glass](https://o-i.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/O-I/postings/744000127730969) |
+| Propulsion Engineer I, Hardware Development | [Relativity Space](https://relativityspace.com) | — | May 21 | [Apply](https://boards.greenhouse.io/relativity/jobs/8560326002?gh_jid=8560326002) |
 | Mechanical or Aerospace Engineer | [Stratolaunch](https://stratolaunch.com) | $83K–$121K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/stratolaunch/jobs/5228003008) |
+| Business Representative Representative I | [Diligent Corporation](https://diligent.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/diligentcorporation/jobs/5998292004) |
+| Apprenti Opérateur (contrat de 3 mois) | [O-I Glass](https://o-i.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/O-I/postings/744000127721809) |
 | Manager, Data Engineering | [HackerOne](https://hackerone.com) | $170K–$205K/yr | May 21 | [Apply](https://jobs.ashbyhq.com/hackerone/c8f46a18-3347-42e6-9fae-c0dbc3e89618) |
+| Associate Systems Engineer | [Pure Storage](https://purestorage.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/7931226) |
+| 6329- Validation Engineer | [Verista](https://verista.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/veristainc/jobs/5227764008) |
 | Senior Technical Account Manager | [Snowflake](https://snowflake.com) | — | May 21 | [Apply](https://jobs.ashbyhq.com/snowflake/0c0b8a99-ec28-4a91-bfac-a21ced8cbe3b) |
 | BESS Engineer | [Intersect Labs](https://intersectlabs.io) | — | May 21 | [Apply](https://jobs.lever.co/intersect/e48ea134-0beb-4207-a465-9cb31b98c9a1) |
 | Metal Process Engineer (AH) | [Distro](https://distro.app) | — | May 21 | [Apply](https://jobs.lever.co/distro/eba58090-495f-45b8-837f-19b6eaf26fce) |
@@ -27,12 +35,14 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Senior Java Engineer, Remarketing (f/m/x) | [AUTO1 Group](https://auto1-group.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000127634802) |
 | Senior Java Engineer, Remarketing (f/m/x) | [AUTO1 Group](https://auto1-group.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000127633960) |
 | Process Manager - Wastewater | [BESIX](https://besix.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000127630619) |
+| AI Applied Scientist | [Wizard](https://wizard.com) | $225K–$280K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/wizardcommerce/jobs/6002368004) |
 | Logistics Engineer (UAE National Only) | [BESIX](https://besix.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000127626723) |
 | HSE Manager - MEP | [BESIX](https://besix.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000127624669) |
 | Senior Manager, Technical Support Engineer | [Motive](https://gomotive.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/gomotive/jobs/8526841002) |
 | Senior Data Analyst | [Netomi](https://netomi.com) | — | May 21 | [Apply](https://jobs.lever.co/netomi/6dace09f-ba98-46d2-9184-050851bace22) |
 | Senior Systems Engineer (Windows) | [AHEAD](https://ahead.com) | — | May 21 | [Apply](https://jobs.lever.co/thinkahead/8fb784e1-47a3-4c0c-964e-5e212cef897f) |
 | Senior Analyst, AML Analytics | [Tide](https://tide.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/tide/jobs/7735379003) |
+| Associate System Engineer, CoE  belongs to the APJ team | [Pure Storage](https://purestorage.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/7418376) |
 | [MSO] Linux Systems Engineer | [Software Mind](https://softwaremind.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/SoftwareMind/postings/744000127581640) |
 | Senior Android Engineer — Mobile Workflows | [Canva](https://canva.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Canva/postings/6000000001095048) |
 | Senior iOS Engineer — Mobile Workflows | [Canva](https://canva.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Canva/postings/6000000001094563) |

@@ -2,12 +2,13 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**150 open roles** — Last updated: 2026-05-21
+**152 open roles** — Last updated: 2026-05-21
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Fund Reporting - Associate / Assistant Vice President | [iCapital](https://icapital.com) | $80K–$110K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8535139002) |
 | Electrical O&M Technician  | [Genpak LLC](https://genpak-llc-2) | — | May 21 | [Apply](https://job-boards.eu.greenhouse.io/lotusworks/jobs/4869960101) |
 | Analista Sênior Contábil | [STARK BANK](https://starkbank.com) | — | May 21 | [Apply](https://jobs.lever.co/starkbank/cf09607e-a7e7-4676-b51d-1be84ae0d280) |
 | Estagiário(a) de Controladoria | [STARK BANK](https://starkbank.com) | — | May 21 | [Apply](https://jobs.lever.co/starkbank/2acf5bbc-913b-42ca-86ff-cc7f58998ffa) |
@@ -23,6 +24,7 @@ Remote finance, accounting, and analyst roles at companies of all sizes.
 | Senior Billing Revenue Analyst | [Karbon](https://karbon.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/karbon/jobs/6002291004) |
 | Banker, Private | [Standard Bank](https://standardbank.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000127594085) |
 | Senior Analyst, Banking Alliances | [Razorpay Software Private Limited](https://razorpay.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4696862005) |
+| Finance Student | [VML MAP](https://vml-map.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/map/jobs/8559331002) |
 | Accounts Payable Assistant - Student Position | [Manitoulin Global Forwarding](https://manitoulingroup.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000127501033) |
 | Senior Indirect Tax Compliance Analyst | [GitLab](https://about.gitlab.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8555117002) |
 | Accounting Manager | [Human Interest](https://humaninterest.com) | $130K–$155K/yr | May 20 | [Apply](https://job-boards.greenhouse.io/humaninterest/jobs/7944443) |

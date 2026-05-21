@@ -2,7 +2,7 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**239 open roles** — Last updated: 2026-05-21
+**243 open roles** — Last updated: 2026-05-21
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -15,8 +15,10 @@ Remote roles paying $100,000 or more per year. Salary data pulled directly from 
 | Head of Operations | [Icarus](https://icarus.one) | $150K–$500K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/icarus/jobs/5227794008) |
 | Senior Product Manager, Reports | [Owner.com](https://owner.com) | $190K–$230K/yr | May 21 | [Apply](https://jobs.ashbyhq.com/Owner/f8401e33-2c9f-449e-bd7b-6a44d4c2e6a3) |
 | Business Development VP | [bswift](https://bswift.com) | $140K–$150K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/bswift/jobs/4682654006) |
+| Senior Account Executive, Start-ups (Austin or Chicago) | [Cloudflare](https://cloudflare.com) | $212K–$292K/yr | May 21 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7947935?gh_jid=7947935) |
 | Staff Satellite Operations Engineer | [IonQ](https://ionq.com) | $146K–$191K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/ionq/jobs/6000016004) |
 | Associate Creative Director, Art | [Salt XC](https://saltxc.com) | $120K–$130K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/saltxc/jobs/5143733007) |
+| AI Applied Scientist | [Wizard](https://wizard.com) | $225K–$280K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/wizardcommerce/jobs/6002368004) |
 | Technical Sourcer | [Sigma Computing](https://sigmacomputing.com) | $110K–$120K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/7742383003) |
 | Flight Test Engineer | [Stratolaunch](https://stratolaunch.com) | $120K–$158K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/stratolaunch/jobs/5227397008) |
 | Government Relations Lead | [ŌURA](https://ouraring.com) | $155K–$182K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/oura/jobs/4251622009) |
@@ -45,6 +47,8 @@ Remote roles paying $100,000 or more per year. Salary data pulled directly from 
 | Lecturer, Inclusive Education | [Western Sydney University](https://westernsydney.edu.au) | $123K–$146K/yr | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/WesternSydneyUniversity/postings/6000000001091325) |
 | Associate Professor, Early Childhood | [Western Sydney University](https://westernsydney.edu.au) | $180K–$198K/yr | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/WesternSydneyUniversity/postings/6000000001091315) |
 | Lecturer, English Literacy Education (Primary/Secondary) | [Western Sydney University](https://westernsydney.edu.au) | $123K–$146K/yr | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/WesternSydneyUniversity/postings/6000000001091301) |
+| Lecturer, Educational Psychology  | [Western Sydney University](https://westernsydney.edu.au) | $123K–$146K/yr | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/WesternSydneyUniversity/postings/6000000001091114) |
+| Marketing Operations Coordinator | [Western Sydney University](https://westernsydney.edu.au) | $107K–$115K/yr | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/WesternSydneyUniversity/postings/6000000001090139) |
 | Senior Software Engineer | [IonQ](https://ionq.com) | $146K–$191K/yr | May 20 | [Apply](https://job-boards.greenhouse.io/ionq/jobs/5998606004) |
 | Software Engineer - PlanetScale Postgres | [PlanetScale](https://planetscale.com) | $120K–$290K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/planetscale/jobs/4251150009) |
 | Manager of Technology - NBC Bay Area | [NBCUniversal](https://nbcuniversal.com) | $125K–$165K/yr | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000127312999) |

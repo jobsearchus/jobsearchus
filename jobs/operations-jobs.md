@@ -2,20 +2,26 @@
 
 Remote operations and business operations roles across industries.
 
-**329 open roles** — Last updated: 2026-05-21
+**335 open roles** — Last updated: 2026-05-21
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Maintenance Technician Senior | [Syngenta](https://syngenta.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000127743309) |
+| Clow Valve - Iron Melt | [McWane](https://mcwane.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/McWaneInc/postings/3743990013257406) |
+| Kennedy Valve-Production Process Intern  | [McWane](https://mcwane.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/McWaneInc/postings/3743990013257104) |
 | Environmental Test Operator | [IonQ](https://ionq.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/ionq/jobs/5977330004) |
 | Head of Operations | [Icarus](https://icarus.one) | $150K–$500K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/icarus/jobs/5227794008) |
 | Associate Manager, Core Annotations - PIPELINE | [Motive](https://gomotive.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/gomotive/jobs/8558342002) |
 | Pellet Mill Operator | [Enviva](https://envivabiomass.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/enviva/jobs/7733822003) |
 | People Operations Associate | [Monzo](https://monzo.com) | £34K–£40K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7946774) |
+| Mr D - Mid-level Business Operations Growth Analyst | [takealot.com](https://takealot.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/takealotcom/jobs/7938626) |
 | RAVE II, Demo Ops | [Mapbox](https://mapbox.com) | — | May 21 | [Apply](https://jobs.ashbyhq.com/mapbox/f596c22a-6a95-4912-a603-f52fd2bc5c80) |
 | Pellet Mill Operator | [Enviva](https://envivabiomass.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/enviva/jobs/7742149003) |
+| Bolti munkatárs - Wolt Market Óbuda | [Wolt](https://wolt.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7946558) |
 | Operations Associate | [Meesho](https://meesho.com) | — | May 21 | [Apply](https://jobs.lever.co/meesho/eb8442a3-3fc5-401c-b67c-36cd7edd4e64) |
+| Bolti munkatárs - Wolt Market Győr | [Wolt](https://wolt.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7946553) |
 | Change Management Intern (Jun - Dec 2026) | [NCS](https://ncs.co) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001095702) |
 | Process Technician | [Anglo American](https://angloamerican.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000127591765) |
 | Správca registratúry (archivár/archivárka) | [Continental](https://continentalserves.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000127589889) |

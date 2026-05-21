@@ -2,24 +2,42 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**308 open roles** — Last updated: 2026-05-21
+**327 open roles** — Last updated: 2026-05-21
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Department Manager | [Primark Tiendas SLU](https://primark.com) | $59K–$72K/yr | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000127747574) |
+| Retail General Manager - Trainee | [Pilot Flying J](https://pilotflyingj.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/PilotCompany/postings/744000127740083) |
+| Cashier | [Pilot Flying J](https://pilotflyingj.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/PilotCompany/postings/744000127736759) |
+| Stockroom Retail Assistant - Operador de Armazém de Loja (m/f) | [Primark Tiendas SLU](https://primark.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000127729543) |
+| Assistant Responsable Le Marius bar | [Relais & Châteaux](https://relaischateaux.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000127724240) |
+| Commis de salle F/H – Restaurant Jean Sulpice** | [Relais & Châteaux](https://relaischateaux.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000127725075) |
+| Chef(fe) de rang – Restaurant Jean Sulpice** | [Relais & Châteaux](https://relaischateaux.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000127724779) |
+| Réceptionniste [Saison 2026] | [Genpak LLC](https://genpak-llc-2) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000127718939) |
+| Agent technique [Saison 2026] | [Genpak LLC](https://genpak-llc-2) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000127717212) |
+| Assistant Cheffe de Reception  | [Genpak LLC](https://genpak-llc-2) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000127718119) |
+| Clow Valve - Occupational Health Nurse | [McWane](https://mcwane.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/McWaneInc/postings/3743990013250811) |
+| AUSHILFE MÖBELAUFBAU ALS MINIJOB (M/W/D) - Braunschweig | [JYSK](https://jysk.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000127689266) |
+| AUSHILFE MÖBELAUFBAU ALS MINIJOB (M/W/D) - Salzgitter-Bad | [JYSK](https://jysk.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000127690996) |
+| AUSHILFE MÖBELAUFBAU ALS MINIJOB (M/W/D) - Einbeck | [JYSK](https://jysk.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000127690449) |
+| Addetto vandite Part time 25H - La Spezia - c.c. "Le Terrazze" | [JD Sports](https://jdsports.com) | — | May 21 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4872963101) |
 | Support and Configuration Analyst | [Inetum](https://inetum.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000127650412) |
 | Orthodontist | [PortmanDentex](https://portmandentex.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000127651436) |
 | Dental Hygienist - Cork Dental Care, Cork | [PortmanDentex](https://portmandentex.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000127650779) |
 | Specialist Orthodontist | [PortmanDentex](https://portmandentex.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000127648964) |
 | Beauty Therapist - Cowshed Amsterdam | [Soho House](https://sohohouse.com) | — | May 21 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4872819101) |
 | Recepcionista de noche | [ACCOR](https://group.accor.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000127644300) |
+| Senior Consultant (Strategy & Data/AI Transformation)  | [LinkedIn Job Wrapping](https://artefact.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/artefactlinkedin/jobs/8559458002) |
 | Equipier salon et polyvalent serveur (H/F) | [ACCOR](https://group.accor.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000127641350) |
 | Night Manager  (m/w/d)  | [ACCOR](https://group.accor.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000127638840) |
 | Associate Director - M&E Quantity Surveying (Glasgow or Edinburgh) | [Egis](https://egis-group.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000127639629) |
+| Stage - Fiumicino C.C. "Da Vinci"  | [JD Sports](https://jdsports.com) | — | May 21 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4840967101) |
 | RESPONSABLE RAYON PLOMBERIE SANITAIRE (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127626079) |
 | EMPLOYE COMMERCIAL (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127622399) |
 | M&E Quantity Surveyor (Glasgow or Edinburgh) | [Egis](https://egis-group.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000127620949) |
+| Content Manager | [BrainRocket](https://brainrocket.com) | — | May 21 | [Apply](https://job-boards.eu.greenhouse.io/brainrocketltd/jobs/4868925101) |
 | (Junior) Consultant (w/m/d) Strategy & Risk Advisory  | [Drees & Sommer](https://dreso.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000127616479) |
 | (Junior) Consultant (w/m/d) Strategy & Risk Advisory  | [Drees & Sommer](https://dreso.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000127612831) |
 | (Junior) Consultant (w/m/d) Strategy & Risk Advisory  | [Drees & Sommer](https://dreso.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000127616189) |
@@ -70,6 +88,7 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Lecturer, Inclusive Education | [Western Sydney University](https://westernsydney.edu.au) | $123K–$146K/yr | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/WesternSydneyUniversity/postings/6000000001091325) |
 | Associate Professor, Early Childhood | [Western Sydney University](https://westernsydney.edu.au) | $180K–$198K/yr | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/WesternSydneyUniversity/postings/6000000001091315) |
 | Lecturer, English Literacy Education (Primary/Secondary) | [Western Sydney University](https://westernsydney.edu.au) | $123K–$146K/yr | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/WesternSydneyUniversity/postings/6000000001091301) |
+| Lecturer, Educational Psychology  | [Western Sydney University](https://westernsydney.edu.au) | $123K–$146K/yr | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/WesternSydneyUniversity/postings/6000000001091114) |
 | RN Mental Health | [Healthcare Australia](https://healthcareaustralia.com.au) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/HealthcareAustralia1/postings/6000000001090417) |
 | EN - Chef de Partie | [ACCOR](https://group.accor.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000127349789) |
 | Food & Beverage Supervisor - Hop & Huddle Mercure Perth on Hay | [ACCOR](https://group.accor.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000127347789) |

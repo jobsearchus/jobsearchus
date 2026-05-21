@@ -2,14 +2,16 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**134 open roles** — Last updated: 2026-05-21
+**137 open roles** — Last updated: 2026-05-21
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Marketing Planning Activation Manager | [Syngenta](https://syngenta.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000127728558) |
 | Head of Corporate PR | [Whatnot](https://whatnot.com) | — | May 21 | [Apply](https://jobs.ashbyhq.com/whatnot/b940f62b-cc36-487b-be64-18eab9f2eb21) |
 | PR & Communications Manager (16 month fixed term contract) | [Monzo](https://monzo.com) | £68K–£80K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7950409) |
+| Account Manager, Digital & Biddable Media  | [WPP Media](https://wppmedia.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5224276008) |
 | Education Growth Lead - UKI | [Canva](https://canva.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001095637) |
 | Content Writing Specialist | [WIN Home Inspection](https://winhomeinspection.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/winhomeinspection/jobs/4683452006) |
 | Head of Marketing & Strategy IAPAC | [Continental](https://continentalserves.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000127588910) |
@@ -41,6 +43,7 @@ Remote marketing roles across growth, content, brand, and performance channels.
 | Account Director, Paid Social | [WPP Media](https://wppmedia.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5221293008) |
 | Digital Communication Apprentice - WeMoms | [Genpak LLC](https://genpak-llc-2) | — | May 20 | [Apply](https://jobs.ashbyhq.com/voodoo/b1aca1cc-1d3c-4dac-88e1-e1f12861c7db) |
 | Account Director, Cross Channel | [WPP Media](https://wppmedia.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5223361008) |
+| Marketing Operations Coordinator | [Western Sydney University](https://westernsydney.edu.au) | $107K–$115K/yr | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/WesternSydneyUniversity/postings/6000000001090139) |
 | B2B Content & Thought Leadership Strategist (Contract) | [ClassDojo](https://classdojo.com) | $70/yr | May 19 | [Apply](https://jobs.ashbyhq.com/ClassDojo/958802d6-b30b-4d4f-8d38-a8436af2f5e8) |
 | Creative Strategist - Tech & Telco | [Reddit](https://reddit.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/7769017) |
 | Senior Brand & Integrated Campaigns Manager | [Cresta](https://cresta.com) | $140K–$180K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/cresta/jobs/5225877008) |
