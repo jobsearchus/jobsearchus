@@ -2,12 +2,15 @@
 
 DevOps, platform engineering, and infrastructure roles. AWS, GCP, Kubernetes, Terraform.
 
-**16 open roles** — Last updated: 2026-05-21
+**19 open roles** — Last updated: 2026-05-21
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Posted | Apply |
 | --- | --- | --- | --- |
+| Ingénieur Devops Informatica (H/F) Nearshore | [Devoteam](https://devoteam.com) | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Devoteam/postings/744000127489639) |
+| Experienced DevOps Engineer (REF5487V) | [Deutsche Telekom IT Solutions](https://deutschetelekomitsolutions.com) | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/DeutscheTelekomITSolutions/postings/744000127430430) |
+| ICT Infrastructure Architect | [Arηs Group](https://arsgroup.com) | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/ARHS/postings/744000127423412) |
 | INFRASTRUCTURE TECHNICAL LEADER 1 | [Experian](https://experianplc.com) | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000127308579) |
 | Senior DevOps Engineer | [Box](https://box.com) | May 19 | [Apply](https://job-boards.greenhouse.io/boxinc/jobs/7942116) |
 | Principal Software Engineer, Trust Infrastructure | [Sectigo](https://sectigo.com) | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Sectigo/postings/3743990013200716) |

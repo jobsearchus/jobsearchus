@@ -2,12 +2,15 @@
 
 Remote HR, recruiting, and people operations roles.
 
-**47 open roles** — Last updated: 2026-05-21
+**50 open roles** — Last updated: 2026-05-21
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Sr. Group Manager_SF (EC Payroll)_ REF102027N_2026240091 | [WNS](https://wns.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/WNSGlobalServices144/postings/744000127578230) |
+| Health, Safety and Wellbeing Partner | [NCS Australia](https://ncsaustralia.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/NCSAustralia/postings/6000000001094605) |
+| Health, Safety and Wellbeing Partner | [NCS Australia](https://ncsaustralia.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/NCSAustralia/postings/6000000001094582) |
 | Payroll Specialist | [BESIX](https://besix.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000127437689) |
 | Employment Consultant | [Genpak LLC](https://genpak-llc-2) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/APMGroup/postings/6000000001091522) |
 | Global Early Careers Campus Recruiter | [OakNorth](https://oaknorth.com) | — | May 20 | [Apply](https://jobs.lever.co/oaknorth.ai/4eb296da-d5ef-4ff5-bcaf-5efdf123f677) |

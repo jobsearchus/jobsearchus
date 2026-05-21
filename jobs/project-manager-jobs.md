@@ -2,12 +2,14 @@
 
 Project and program management roles across tech, operations, and enterprise.
 
-**26 open roles** — Last updated: 2026-05-21
+**28 open roles** — Last updated: 2026-05-21
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Project Manager | [Sopra Steria](https://soprasteria.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/SopraSteria1/postings/744000127531369) |
+| Project Manager  | [Endava](https://endava.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Endava/postings/744000127497611) |
 | Program Manager | [9th Way Insignia](https://9thwayinsignia.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/9thwayinsignia/jobs/5226879008) |
 | Senior Project Manager - VCF | [AHEAD](https://ahead.com) | — | May 20 | [Apply](https://jobs.lever.co/thinkahead/3afad939-8fa1-4436-ad36-7ed70aacacfb) |
 | Senior Implementation Project Manager | [Garner Health](https://getgarner.com) | $95K–$120K/yr | May 20 | [Apply](https://job-boards.greenhouse.io/garnerhealth/jobs/5997957004) |

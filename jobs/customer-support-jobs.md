@@ -2,12 +2,13 @@
 
 Remote customer support and success roles across SaaS, e-commerce, and tech.
 
-**89 open roles** — Last updated: 2026-05-21
+**90 open roles** — Last updated: 2026-05-21
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Field Service Technician | [Nielsen](https://nielsen.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990013238339) |
 | Retail Customer Service | [Entain](https://entaingroup.com) | £13/yr | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Entain/postings/744000127475729) |
 | CAISSIER - HÔTE DE CAISSE (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127470221) |
 | Customer Success Support Associate I | [Human Interest](https://humaninterest.com) | $21/yr | May 20 | [Apply](https://job-boards.greenhouse.io/humaninterest/jobs/7944304) |

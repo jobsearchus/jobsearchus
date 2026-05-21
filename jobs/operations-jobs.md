@@ -2,12 +2,13 @@
 
 Remote operations and business operations roles across industries.
 
-**303 open roles** — Last updated: 2026-05-21
+**307 open roles** — Last updated: 2026-05-21
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Operations Business Partner for Site Lead | [Canva](https://canva.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Canva/postings/6000000001095231) |
 | Maintenance Technician | [IRCA](https://irca.eu) | — | May 20 | [Apply](https://jobs.lever.co/ircagroup/be8f6a5e-dbfc-4122-be25-a347d718da7f) |
 | Director, Indirect Procurement | [Relativity Space](https://relativityspace.com) | — | May 20 | [Apply](https://boards.greenhouse.io/relativity/jobs/8557530002?gh_jid=8557530002) |
 | Lead Associated Account Director (Political) | [The Trade Desk](https://thetradedesk.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5141490007) |
@@ -22,7 +23,10 @@ Remote operations and business operations roles across industries.
 | Cleaner | [PortmanDentex](https://portmandentex.com) | £13/yr | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000127453820) |
 | Manager, Technical Support | [Twilio](https://twilio.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7906083) |
 | Berufsausbildung Kaufmann für Digitalisierungsmanagement (m/w/d) - ContiTech | [Continental](https://continentalserves.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000127448551) |
+| Consultant en excellence opérationnelle IT F/H | [Everience](https://everience.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/EVERIENCE/postings/744000127439300) |
 | Maintenance Technician  | [Avanath Capital Management](https://avanath.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/communitymanager/jobs/5142722007) |
+| Team Leader IJSS (H/F) | [Magellan Partners](https://magellanpartners.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/MagellanPartners/postings/744000127433974) |
+| Printing Specialist | [Arηs Group](https://arsgroup.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/ARHS/postings/744000127434099) |
 | Occupancy Specialist - Latitude Apartments | [Avanath Capital Management](https://avanath.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/communitymanager/jobs/5142681007) |
 | Baker 1 - Three Leaf Catering | [University of Notre Dame](https://universityofnotredame.com) | $18/yr | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013225476) |
 | Lubrication Technician | [Enviva](https://envivabiomass.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/enviva/jobs/7740902003) |

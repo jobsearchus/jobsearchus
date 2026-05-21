@@ -2,7 +2,7 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**119 open roles** — Last updated: 2026-05-21
+**121 open roles** — Last updated: 2026-05-21
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -11,6 +11,8 @@ Remote marketing roles across growth, content, brand, and performance channels.
 | Lead Global Marketing Campaigns Manager | [GitLab](https://gitlab.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8550333002) |
 | Senior Growth Product Marketing Manager | [LastPass](https://lastpass.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/lastpass/jobs/4695244005) |
 | Marketing Development Partner, Public Sector  | [Socure](https://socure.com) | — | May 20 | [Apply](https://jobs.ashbyhq.com/socure/86498538-60ea-41f5-8f2c-89a58e4b3769) |
+| Experimentation Manager, CNBC & MS NOW | [Versant](https://versant.com) | $110K–$130K/yr | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Versant3/postings/744000127464489) |
+| Experimentation Manager, CNBC & MS NOW | [Versant](https://versant.com) | $110K–$130K/yr | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Versant3/postings/744000127462582) |
 | Senior Performance Marketing Manager | [CoLab](https://colabsoftware.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/colabsoftware/jobs/5226361008) |
 | Account Director | [WPP Media](https://wppmedia.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5189162008) |
 | Part-time social media contractor | [Job Board](https://corelight.com) | — | May 20 | [Apply](https://boards.greenhouse.io/corelight/jobs/7939902?gh_jid=7939902) |

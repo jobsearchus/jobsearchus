@@ -2,12 +2,14 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**284 open roles** — Last updated: 2026-05-21
+**286 open roles** — Last updated: 2026-05-21
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Sales Enablement Specialist I | [Nielsen](https://nielsen.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990013244506) |
+| Client Partner (Senior Account Executive I) | [Nielsen](https://nielsen.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990013244436) |
 | Manager, Sales Engineering - Healthcare West | [Zscaler](https://zscaler.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5130007007) |
 | Enrollment Success Specialist | [Aviation Institute of Maintenance](https://aviationmaintenance.edu) | $25/yr | May 20 | [Apply](https://job-boards.greenhouse.io/aviationinstituteofmaintenance/jobs/5226070008) |
 | Enrollment Advisor | [Aviation Institute of Maintenance](https://aviationmaintenance.edu) | $25/yr | May 20 | [Apply](https://job-boards.greenhouse.io/aviationinstituteofmaintenance/jobs/5226069008) |
