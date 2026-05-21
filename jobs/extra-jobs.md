@@ -2,12 +2,28 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**285 open roles** — Last updated: 2026-05-21
+**301 open roles** — Last updated: 2026-05-21
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Support and Configuration Analyst | [Inetum](https://inetum.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000127650412) |
+| Orthodontist | [PortmanDentex](https://portmandentex.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000127651436) |
+| Dental Hygienist - Cork Dental Care, Cork | [PortmanDentex](https://portmandentex.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000127650779) |
+| Specialist Orthodontist | [PortmanDentex](https://portmandentex.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000127648964) |
+| Recepcionista de noche | [ACCOR](https://group.accor.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000127644300) |
+| Equipier salon et polyvalent serveur (H/F) | [ACCOR](https://group.accor.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000127641350) |
+| Night Manager  (m/w/d)  | [ACCOR](https://group.accor.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000127638840) |
+| Associate Director - M&E Quantity Surveying (Glasgow or Edinburgh) | [Egis](https://egis-group.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000127639629) |
+| RESPONSABLE RAYON PLOMBERIE SANITAIRE (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127626079) |
+| EMPLOYE COMMERCIAL (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127622399) |
+| M&E Quantity Surveyor (Glasgow or Edinburgh) | [Egis](https://egis-group.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000127620949) |
+| (Junior) Consultant (w/m/d) Strategy & Risk Advisory  | [Drees & Sommer](https://dreso.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000127616479) |
+| (Junior) Consultant (w/m/d) Strategy & Risk Advisory  | [Drees & Sommer](https://dreso.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000127612831) |
+| (Junior) Consultant (w/m/d) Strategy & Risk Advisory  | [Drees & Sommer](https://dreso.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000127616189) |
+| VENDEUR ALIMENTAIRE - TEMPS COMPLET (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127611131) |
+| Allied Health Assistant | [Genpak LLC](https://genpak-llc-2) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/APMGroup/postings/6000000001094308) |
 | Fuel Attendant | [Pilot Flying J](https://pilotflyingj.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/PilotCompany/postings/744000127527275) |
 | Cleaner | [Greene King](https://greeneking.co.uk) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/GreeneKing/postings/744000127524818) |
 | Director of Patient Care Services (RN) | [Silverado](https://silverado.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/silverado/jobs/5143477007) |

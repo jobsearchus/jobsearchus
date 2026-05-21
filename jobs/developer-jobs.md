@@ -2,7 +2,7 @@
 
 General developer and programmer roles that did not fit a more specific category.
 
-**37 open roles** — Last updated: 2026-05-21
+**38 open roles** — Last updated: 2026-05-21
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -14,6 +14,7 @@ General developer and programmer roles that did not fit a more specific category
 | Senior Integration Developer (Boomi) | [Nagarro](https://nagarro.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000127419177) |
 | Gameplay Programmer Senior Unreal | [Old Skull Games](https://oldskullgames.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/OldSkullGames1/postings/744000127396589) |
 | Gameplay Programmer Senior Unity | [Old Skull Games](https://oldskullgames.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/OldSkullGames1/postings/744000127388461) |
+| Integration Developer (Boomi) | [Nagarro](https://nagarro.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000127373101) |
 | Developer Salesforce Vlocity - Intermedio | [Inetum](https://inetum.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000127315489) |
 | Principal Technical Program Manager, Developer Productivity  | [Reddit](https://reddit.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/7944159) |
 | ServiceNow Developer  | [LightFeather](https://lightfeather.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5225794008) |

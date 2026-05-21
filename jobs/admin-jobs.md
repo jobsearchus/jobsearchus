@@ -2,14 +2,16 @@
 
 Remote administrative and executive assistant roles across industries.
 
-**13 open roles** — Last updated: 2026-05-21
+**15 open roles** — Last updated: 2026-05-21
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Academic Operations Coordinator | [University of Notre Dame](https://universityofnotredame.com) | $24/yr | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013227886) |
 | Teamassistenz (w/m/d)  | [Drees & Sommer](https://dreso.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000127417725) |
 | Administrative Assistant Notre Dame Athletics - Part-Time | [University of Notre Dame](https://universityofnotredame.com) | $24/yr | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013203516) |
+| Administrative Assistant - Campus Ministry | [University of Notre Dame](https://universityofnotredame.com) | $21/yr | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013198446) |
 | Admin Supervisor -Days | [Frasers Group](https://frasersgroup.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000127168995) |
 | Office Administration Support | [NCS](https://ncs.co) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001085744) |
 | Collections Database Coordinator | [University of Notre Dame](https://universityofnotredame.com) | $24/yr | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013183036) |

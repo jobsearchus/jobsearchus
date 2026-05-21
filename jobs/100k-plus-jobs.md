@@ -2,13 +2,14 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**222 open roles** — Last updated: 2026-05-21
+**225 open roles** — Last updated: 2026-05-21
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | Full Stack Engineer - Associate | [iCapital](https://icapital.com) | $100K–$135K/yr | May 20 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8549590002) |
+| Director, Marketing Strategy & Operations | [Freshworks](https://freshworks.com) | $220K–$270K/yr | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000127514717) |
 | Staff Software Engineer | [Outschool](https://outschool.com) | $164K–$205K/yr | May 20 | [Apply](https://job-boards.greenhouse.io/outschool/jobs/4683198006) |
 | Manager, Engineering (Data Platform) | [Garner Health](https://getgarner.com) | $239K–$275K/yr | May 20 | [Apply](https://job-boards.greenhouse.io/garnerhealth/jobs/6001628004) |
 | Staff Engineer - Growth Platform | [Faire](https://faire.com) | $191K–$262K/yr | May 20 | [Apply](https://boards.greenhouse.io/faire/jobs/8558462002?gh_jid=8558462002) |
@@ -18,8 +19,10 @@ Remote roles paying $100,000 or more per year. Salary data pulled directly from 
 | Assistant General Counsel | [Kapitus](https://kapitus.com) | $122K–$195K/yr | May 20 | [Apply](https://job-boards.greenhouse.io/kapitus/jobs/4253197009) |
 | Senior Electrical Engineer | [Ramboll](https://ramboll.com) | $110K–$140K/yr | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Ramboll3/postings/744000127488108) |
 | Accounting Manager | [Human Interest](https://humaninterest.com) | $130K–$155K/yr | May 20 | [Apply](https://job-boards.greenhouse.io/humaninterest/jobs/7944443) |
+| Field Service Representative, Maritime Helicopter Program  | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $110K–$117K/yr | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000127471997) |
 | Senior Backend Engineer, Consumer Product  | [Flex](https://withflex.com) | $172K–$212K/yr | May 20 | [Apply](https://job-boards.greenhouse.io/flex/jobs/4694752005) |
 | Digital Analytics Manager, CNBC | [Versant](https://versant.com) | $110K–$130K/yr | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Versant3/postings/744000127463551) |
+| Director, Financial Contract Reporting | [NBCUniversal](https://nbcuniversal.com) | $140K–$160K/yr | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000127464769) |
 | Experimentation Manager, CNBC & MS NOW | [Versant](https://versant.com) | $110K–$130K/yr | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Versant3/postings/744000127464489) |
 | Experimentation Manager, CNBC & MS NOW | [Versant](https://versant.com) | $110K–$130K/yr | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Versant3/postings/744000127462582) |
 | Senior Cloudflare One GTM Specialist (Central or East) | [Cloudflare](https://cloudflare.com) | $146K–$257K/yr | May 20 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7946795?gh_jid=7946795) |

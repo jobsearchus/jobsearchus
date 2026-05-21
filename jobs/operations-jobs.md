@@ -2,17 +2,27 @@
 
 Remote operations and business operations roles across industries.
 
-**307 open roles** — Last updated: 2026-05-21
+**318 open roles** — Last updated: 2026-05-21
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Change Management Intern (Jun - Dec 2026) | [NCS](https://ncs.co) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001095702) |
+| Process Technician | [Anglo American](https://angloamerican.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000127591765) |
+| Správca registratúry (archivár/archivárka) | [Continental](https://continentalserves.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000127589889) |
 | Operations Business Partner for Site Lead | [Canva](https://canva.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Canva/postings/6000000001095231) |
+| Magasinier HF | [BUT](https://but.fr) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000127577459) |
+| Commercial Analyst - Procurement | [Anglo American](https://angloamerican.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000127571750) |
+| Tech Asset Admin | [NCS](https://ncs.co) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001093705) |
+| After Hours Casual Rostering/Administration Consultant | [Healthcare Australia](https://healthcareaustralia.com.au) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/HealthcareAustralia1/postings/6000000001093585) |
 | Maintenance Technician | [IRCA](https://irca.eu) | — | May 20 | [Apply](https://jobs.lever.co/ircagroup/be8f6a5e-dbfc-4122-be25-a347d718da7f) |
+| Project Management.Support | [Experian](https://experianplc.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000127521439) |
 | Director, Indirect Procurement | [Relativity Space](https://relativityspace.com) | — | May 20 | [Apply](https://boards.greenhouse.io/relativity/jobs/8557530002?gh_jid=8557530002) |
+| Truck & Trailer Mechanic | [Manitoulin Global Forwarding](https://manitoulingroup.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000127516969) |
 | Lead Associated Account Director (Political) | [The Trade Desk](https://thetradedesk.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5141490007) |
 | Fleet & Facilities Associate (Overnight) | [Nabis](https://nabis.com) | $20/yr | May 20 | [Apply](https://job-boards.greenhouse.io/nabis/jobs/6001682004) |
+| Chauffeur-livreur Classe 5, salaire moyen de 32,00$ h et plus,avantages sociaux incomparables. | [Manitoulin Global Forwarding](https://manitoulingroup.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000127507120) |
 | Vehicle Capture Representative | [Clutch](https://clutch.io) | $20/yr | May 20 | [Apply](https://job-boards.greenhouse.io/clutch/jobs/6001425004) |
 | Lead, Account Support | [SmithRx](https://smithrx.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/smithrx/jobs/8544604002) |
 | Lead Receiving Operator | [Enviva](https://envivabiomass.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/enviva/jobs/7740589003) |
@@ -23,6 +33,7 @@ Remote operations and business operations roles across industries.
 | Cleaner | [PortmanDentex](https://portmandentex.com) | £13/yr | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000127453820) |
 | Manager, Technical Support | [Twilio](https://twilio.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7906083) |
 | Berufsausbildung Kaufmann für Digitalisierungsmanagement (m/w/d) - ContiTech | [Continental](https://continentalserves.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000127448551) |
+| Program Specialist | [NBCUniversal](https://nbcuniversal.com) | $80K–$90K/yr | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000127441958) |
 | Consultant en excellence opérationnelle IT F/H | [Everience](https://everience.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/EVERIENCE/postings/744000127439300) |
 | Maintenance Technician  | [Avanath Capital Management](https://avanath.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/communitymanager/jobs/5142722007) |
 | Team Leader IJSS (H/F) | [Magellan Partners](https://magellanpartners.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/MagellanPartners/postings/744000127433974) |

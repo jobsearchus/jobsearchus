@@ -2,12 +2,14 @@
 
 UX design, UI design, and product design roles. Figma, research, and end-to-end product work.
 
-**38 open roles** — Last updated: 2026-05-21
+**40 open roles** — Last updated: 2026-05-21
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Product Designer | [Experian](https://experianplc.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000127522024) |
+| Alternance - Styliste Tendances et Packaging F/H/X | [BUT](https://but.fr) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000127483805) |
 | Senior UI Designer | [VML](https://vml.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/vmlenterprisesolutions/jobs/8548022002) |
 | Project Manager, Aviation | [Egis](https://egis-group.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000127476315) |
 | ALCMS Lead | [Egis](https://egis-group.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000127457700) |

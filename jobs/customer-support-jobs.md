@@ -2,12 +2,15 @@
 
 Remote customer support and success roles across SaaS, e-commerce, and tech.
 
-**90 open roles** — Last updated: 2026-05-21
+**94 open roles** — Last updated: 2026-05-21
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Technical helpdesk Agent - Spanish speaker | [MSX International](https://msxi.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013245316) |
+| Technical Helpdesk Agent | [MSX International](https://msxi.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013245276) |
+| Technical Helpdesk Agent | [MSX International](https://msxi.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013245206) |
 | Field Service Technician | [Nielsen](https://nielsen.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990013238339) |
 | Retail Customer Service | [Entain](https://entaingroup.com) | £13/yr | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Entain/postings/744000127475729) |
 | CAISSIER - HÔTE DE CAISSE (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127470221) |
@@ -30,6 +33,7 @@ Remote customer support and success roles across SaaS, e-commerce, and tech.
 | Manager, Customer Success | [Diligent Corporation](https://diligent.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/diligentcorporation/jobs/5999861004) |
 | Music Streaming Platform Customer Specialist with Swedish and English (Remote in Bulgaria) | [Genpak LLC](https://genpak-llc-2) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000127216010) |
 | Customer Success Associate (Analista de Sucesso do Cliente) - São Paulo (Hybrid) | [Clara](https://clara.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/clara/jobs/5141365007) |
+| Team Lead, Certificate Support | [Sectigo](https://sectigo.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Sectigo/postings/3743990013199922) |
 | Music Streaming Platform Customer Specialist with French and English (Remote in Bulgaria) | [Genpak LLC](https://genpak-llc-2) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000127166244) |
 | Manager of High Touch Customer Success | [Ashby](https://ashbyhq.com) | — | May 19 | [Apply](https://jobs.ashbyhq.com/ashby/a1c47936-0c48-4738-937e-e88ca596cdfe) |
 | Customer Escalation Engineer | [Jumio](https://jumio.com) | — | May 18 | [Apply](https://job-boards.greenhouse.io/jumio/jobs/4696623005) |

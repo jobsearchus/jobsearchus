@@ -2,12 +2,14 @@
 
 Remote HR, recruiting, and people operations roles.
 
-**50 open roles** — Last updated: 2026-05-21
+**52 open roles** — Last updated: 2026-05-21
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Regional Digital HR Specialist | [Egis](https://egis-group.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000127640814) |
+| Learning Business Partner - Tires | [Continental](https://continentalserves.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000127615979) |
 | Sr. Group Manager_SF (EC Payroll)_ REF102027N_2026240091 | [WNS](https://wns.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/WNSGlobalServices144/postings/744000127578230) |
 | Health, Safety and Wellbeing Partner | [NCS Australia](https://ncsaustralia.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/NCSAustralia/postings/6000000001094605) |
 | Health, Safety and Wellbeing Partner | [NCS Australia](https://ncsaustralia.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/NCSAustralia/postings/6000000001094582) |

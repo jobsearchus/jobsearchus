@@ -2,17 +2,29 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**466 open roles** — Last updated: 2026-05-21
+**485 open roles** — Last updated: 2026-05-21
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Business Analyst | [Inetum](https://inetum.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000127650729) |
+| Senior Business Consultant  | [Inetum](https://inetum.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000127647429) |
+| Senior Java Engineer, Remarketing (f/m/x) | [AUTO1 Group](https://auto1-group.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000127634802) |
+| Senior Java Engineer, Remarketing (f/m/x) | [AUTO1 Group](https://auto1-group.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000127633960) |
+| Process Manager - Wastewater | [BESIX](https://besix.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000127630619) |
+| Logistics Engineer (UAE National Only) | [BESIX](https://besix.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000127626723) |
+| HSE Manager - MEP | [BESIX](https://besix.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000127624669) |
 | [MSO] Linux Systems Engineer | [Software Mind](https://softwaremind.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/SoftwareMind/postings/744000127581640) |
 | Senior Android Engineer — Mobile Workflows | [Canva](https://canva.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Canva/postings/6000000001095048) |
 | Senior iOS Engineer — Mobile Workflows | [Canva](https://canva.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Canva/postings/6000000001094563) |
+| Software Engineer - Associate | [Experian](https://experianplc.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000127566305) |
 | Salesforce Service Cloud & Case Management Specialist | [NCS Australia](https://ncsaustralia.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/NCSAustralia/postings/6000000001092312) |
+| SharePoint Administrator / Microsoft 365 | [Applaudo](https://applaudo.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/ApplaudoStudios/postings/744000127522068) |
+| SharePoint Information Architecture Specialist | [Applaudo](https://applaudo.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/ApplaudoStudios/postings/744000127520919) |
 | Senior Data Analyst, Product | [Calendly](https://calendly.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/calendly/jobs/8558879002) |
+| Structural Engineer - 4+ Years Experience | [KPFF Consulting Engineers](https://kpff.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/KPFFConsultingEngineers/postings/3743990013240254) |
+| Seeking a Structural Engineering Rockstar Looking to Make a Difference? | [KPFF Consulting Engineers](https://kpff.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/KPFFConsultingEngineers/postings/3743990013240095) |
 | Staff Software Engineer | [Outschool](https://outschool.com) | $164K–$205K/yr | May 20 | [Apply](https://job-boards.greenhouse.io/outschool/jobs/4683198006) |
 | Health Science Research Intern | [ŌURA](https://ouraring.com) | $50/yr | May 20 | [Apply](https://job-boards.greenhouse.io/oura/jobs/4251441009) |
 | Manager, Engineering (Data Platform) | [Garner Health](https://getgarner.com) | $239K–$275K/yr | May 20 | [Apply](https://job-boards.greenhouse.io/garnerhealth/jobs/6001628004) |
@@ -28,6 +40,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Business Development Representative (BDR) | [Diligent Corporation](https://diligent.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/diligentcorporation/jobs/5743261004) |
 | Sr. Chemist, rhode | [e.l.f. Beauty](https://elfbeauty.com) | — | May 20 | [Apply](https://jobs.lever.co/elfbeauty/7b0e7d30-95f7-4a51-b51e-a8ed7b558005) |
 | 6348 - Validation Engineer / CQV Engineer | [Verista](https://verista.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/veristainc/jobs/5226885008) |
+| Student Laboratory Assistant | [University of Notre Dame](https://universityofnotredame.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013233904) |
 | Data ingénieur Java Scala Expérimenté | [Devoteam](https://devoteam.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Devoteam/postings/744000127490690) |
 | Mechanical Engineer  | [DLR Group](https://dlrgroup.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/dlrgroup/jobs/5224919008) |
 | Senior Electrical Engineer | [Ramboll](https://ramboll.com) | $110K–$140K/yr | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Ramboll3/postings/744000127488108) |
@@ -36,6 +49,8 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Solutions Engineer, Enterprise East (Pre-Sales) | [Hightouch](https://hightouch.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/hightouch/jobs/6001225004) |
 | Solutions Engineer, Mid-Market (Pre-Sales) | [Hightouch](https://hightouch.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/hightouch/jobs/6001217004) |
 | Ingénieur Études de Prix - Cellule Appels d'Offres | [Egis](https://egis-group.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000127474992) |
+| Field Service Representative, Maritime Helicopter Program  | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $110K–$117K/yr | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000127471997) |
+| Co-op Fall 2026 - Systems Engineering - 8 Months | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000127472839) |
 | 6345 - Senior QC Specialist / Business Analyst | [Verista](https://verista.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/veristainc/jobs/5226445008) |
 | Consultor (a) SAP EWM Sênior | [Inetum](https://inetum.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000127469349) |
 | Solution Consultant (f/m/d) | [WORKERBASE](https://workerbase.com) | — | May 20 | [Apply](https://jobs.ashbyhq.com/workerbase/fdf0f78d-77f3-4b62-a311-1b1b1692ae5a) |
@@ -47,6 +62,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | IT Ops Engineer | [Pelago](https://pelagohealth.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/pelago/jobs/5142784007) |
 | Maintenance Technician-Nights | [Continental](https://continentalserves.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000127442859) |
 | Systems Administrator SSO | [Endava](https://endava.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Endava/postings/744000127440530) |
+| Forward-Deployed RL Engineer - Ingénieur·e Forward Deployed en apprentissage par renforcement | [NBCUniversal](https://nbcuniversal.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000127438208) |
 | Senior Software Engineer, Developer Experience | [ŌURA](https://ouraring.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/oura/jobs/4250810009) |
 | System Integration & Test, Intermediate   | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $77K–$91K/yr | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000127430750) |
 | Senior Landscape Architect | [Ramboll](https://ramboll.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Ramboll3/postings/744000127425379) |
@@ -70,6 +86,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Google DialogFlow Engineer | [Miratech](https://miratech.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000127400060) |
 | Junior Analytics Engineer | [takealot.com](https://takealot.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/takealotcom/jobs/7938255) |
 | Procurement Engineer - MEP | [BESIX](https://besix.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000127398209) |
+| Staff Engineer, SAP-GRC | [Nagarro](https://nagarro.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000127398009) |
 | IT Netzwerk Spezialist (w/m/d) – Security & Compliance | [Drees & Sommer](https://dreso.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000127391471) |
 | #EG Helpdesk and Concierge Engineer (M365) | [NCS](https://ncs.co) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001091604) |
 | Sr Data Engineer II -  Salesforce (Hybrid) | [Smartsheet](https://smartsheet.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/smartsheet/jobs/7945625) |
@@ -131,8 +148,10 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Systems Integrator | [ANSER](https://anser.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/analyticservicesinc/jobs/5223149008?gh_jid=5223149008) |
 | Senior IT Engineer Network | [Continental](https://continentalserves.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000127261189) |
 | Mid Linux Engineer (Korean Bilingual) | [SBT Global](https://sbtglobal.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/SBTGlobalInc/postings/3743990013208326) |
+| Jr. Unix (Linux) System Engineer | [SBT Global](https://sbtglobal.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/SBTGlobalInc/postings/3743990013208236) |
 | Co-op Fall 2026 – Software Development and Test – 12 months | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000127255509) |
 | Co-op Fall 2026 - Firmware Development and Test - 12-Months | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000127255469) |
+| Jr. Window System Engineer | [SBT Global](https://sbtglobal.com) | — | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/SBTGlobalInc/postings/3743990013208146) |
 | Engineering Manager, Customer Studio | [Hightouch](https://hightouch.com) | $220K–$300K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/hightouch/jobs/5999976004) |
 | Senior Systems Integrator | [ANSER](https://anser.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/analyticservicesinc/jobs/5223151008?gh_jid=5223151008) |
 | Senior Program Manager | [The Weather Company](https://theweather.com) | $130K–$155K/yr | May 19 | [Apply](https://job-boards.greenhouse.io/theweathercompany/jobs/5135340007) |

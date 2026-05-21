@@ -2,16 +2,26 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**131 open roles** — Last updated: 2026-05-21
+**141 open roles** — Last updated: 2026-05-21
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Direct Sales Agent (Dodoma Branch) | [Standard Bank](https://standardbank.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000127635569) |
+| Accounting Intern | [IQ-EQ](https://iqeq.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000127625046) |
+| Assistant Manager, Fund Accounting  | [IQ-EQ](https://iqeq.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000127623128) |
+| Accounting Intern - Full Onsite | [IQ-EQ](https://iqeq.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000127614039) |
+| Senior Sales Manager (Transactional Banking) | [Standard Bank](https://standardbank.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000127607340) |
+| Banker, Private | [Standard Bank](https://standardbank.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000127594085) |
+| Accounts Payable Assistant - Student Position | [Manitoulin Global Forwarding](https://manitoulingroup.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000127501033) |
 | Senior Indirect Tax Compliance Analyst | [GitLab](https://about.gitlab.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8555117002) |
 | Accounting Manager | [Human Interest](https://humaninterest.com) | $130K–$155K/yr | May 20 | [Apply](https://job-boards.greenhouse.io/humaninterest/jobs/7944443) |
 | Finance Master Data Lead - HQ | [Delivery Hero](https://deliveryhero.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000127469520) |
 | Senior Credits & Collections Analyst  | [Twilio](https://twilio.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7918845) |
+| Sr. Financial Analyst, FP&A - NBCU Local  | [NBCUniversal](https://nbcuniversal.com) | $85K–$95K/yr | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000127466629) |
+| Director, Financial Contract Reporting | [NBCUniversal](https://nbcuniversal.com) | $140K–$160K/yr | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000127464769) |
+| Contracts Manager | [NBCUniversal](https://nbcuniversal.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000127450325) |
 | Group Manager - Actuarial Pricing (CRF# REF100737U) | [WNS](https://wns.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/WNSGlobalServices144/postings/744000127438228) |
 | REF97894I - Accounts Receivable- Billing (Relevant Experience required 4-5years )- US shifts 8.30pm - 5.30am - Job location Thane - Mumbai (Only Immediate Joiners required) | [WNS](https://wns.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/WNSGlobalServices144/postings/744000127427174) |
 | Junior Accountant | [Netcompany](https://netcompany.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000127405369) |

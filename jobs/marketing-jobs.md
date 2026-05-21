@@ -2,13 +2,16 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**121 open roles** — Last updated: 2026-05-21
+**124 open roles** — Last updated: 2026-05-21
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Education Growth Lead - UKI | [Canva](https://canva.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001095637) |
+| Head of Marketing & Strategy IAPAC | [Continental](https://continentalserves.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000127588910) |
 | Lead Global Marketing Campaigns Manager | [GitLab](https://gitlab.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8550333002) |
+| Director, Marketing Strategy & Operations | [Freshworks](https://freshworks.com) | $220K–$270K/yr | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000127514717) |
 | Senior Growth Product Marketing Manager | [LastPass](https://lastpass.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/lastpass/jobs/4695244005) |
 | Marketing Development Partner, Public Sector  | [Socure](https://socure.com) | — | May 20 | [Apply](https://jobs.ashbyhq.com/socure/86498538-60ea-41f5-8f2c-89a58e4b3769) |
 | Experimentation Manager, CNBC & MS NOW | [Versant](https://versant.com) | $110K–$130K/yr | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Versant3/postings/744000127464489) |

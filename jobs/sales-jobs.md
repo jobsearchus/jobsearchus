@@ -2,12 +2,16 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**286 open roles** — Last updated: 2026-05-21
+**290 open roles** — Last updated: 2026-05-21
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Team Lead Inside Sales | [AUTO1 Group](https://auto1-group.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000127649479) |
+| Assistant Store Manager | [Anglo American](https://angloamerican.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000127626119) |
+| Employé commercial Boucherie (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127616149) |
+| Business Development Representative  | [Genpak LLC](https://genpak-llc-2) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/APMGroup/postings/6000000001095218) |
 | Sales Enablement Specialist I | [Nielsen](https://nielsen.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990013244506) |
 | Client Partner (Senior Account Executive I) | [Nielsen](https://nielsen.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990013244436) |
 | Manager, Sales Engineering - Healthcare West | [Zscaler](https://zscaler.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5130007007) |
