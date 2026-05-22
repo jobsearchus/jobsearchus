@@ -2,7 +2,7 @@
 
 Remote jobs open to candidates with 0–2 years of experience. A real way in — no degree gatekeeping.
 
-**341 open roles** — Last updated: 2026-05-22
+**352 open roles** — Last updated: 2026-05-22
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -11,16 +11,23 @@ Remote jobs open to candidates with 0–2 years of experience. A real way in —
 | Intern, APAC Payroll | [Delivery Hero](https://deliveryhero.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000127798489) |
 | Bilingual Customer Service Representative | [Genpak LLC](https://genpak-llc-2) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000127765019) |
 | Bilingual Customer Service Specialist | [Genpak LLC](https://genpak-llc-2) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000127765598) |
+| Housekeeper | [Crestwood Behavioral Health](https://crestwoodbehavioralhealth.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/crestwoodcareers/jobs/7746543003) |
+| Full Time Caregiver (Multiple Shifts) | [Silverado](https://silverado.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/silverado/jobs/5144714007) |
+| Backserver (Seasonal Part-time) - Soho Warehouse DTLA | [Soho House](https://sohohouse.com) | — | May 21 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4872318101) |
 | Senior Manager, HR Business Partner | [StackAdapt](https://stackadapt.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/stackadapt/jobs/4256837009) |
 | Field Service Consultant | [MSX International](https://msxi.com) | $80K–$100K/yr | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013259456) |
 | Cashier | [Pilot Flying J](https://pilotflyingj.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/PilotCompany/postings/744000127736759) |
+| DoD SkillBridge Internship: Junior Estimator | [JRM Construction Management, LLC](https://jrmcm.com) | $65K–$90K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/jrmconstructionmanagementllc/jobs/4682707006) |
+| DoD SkillBridge Internship: Assistant Superintendent | [JRM Construction Management, LLC](https://jrmcm.com) | $65K–$90K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/jrmconstructionmanagementllc/jobs/4682705006) |
 |  APRENDIZ TÉCNICO EM MECÂNICA | [O-I Glass](https://o-i.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/O-I/postings/744000127732259) |
 | ESTAGIÁRIO TÉCNICO MECÂNICA INDUSTRIAL | [O-I Glass](https://o-i.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/O-I/postings/744000127730969) |
+| Assistant-In-Training, Golf Course Maintenance | [Sensei](https://senseirobotics.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/sensei/jobs/8560565002) |
 | Propulsion Engineer I, Hardware Development | [Relativity Space](https://relativityspace.com) | — | May 21 | [Apply](https://boards.greenhouse.io/relativity/jobs/8560326002?gh_jid=8560326002) |
 | Civil Engineer (1-3 yrs experience) | [KPFF Consulting Engineers](https://kpff.com) | $83K–$100K/yr | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/KPFFConsultingEngineers/postings/3743990013257286) |
 | dental nurse | [PortmanDentex](https://portmandentex.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000127726740) |
 | Kennedy Valve-Production Process Intern  | [McWane](https://mcwane.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/McWaneInc/postings/3743990013257104) |
 | Commis de salle F/H – Restaurant Jean Sulpice** | [Relais & Châteaux](https://relaischateaux.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000127725075) |
+| Service Assistant | [Fletcher Jones Automotive Group](https://fletcherjonesautomotivegroup.com) | — | May 21 | [Apply](https://boards.greenhouse.io/fletcherjonesautomotivegroup/jobs/5144279007?gh_jid=5144279007) |
 | Apprenti Opérateur (contrat de 3 mois) | [O-I Glass](https://o-i.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/O-I/postings/744000127721809) |
 | JOB ETUDIANT 14H  | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000127719099) |
 | Réceptionniste [Saison 2026] | [Genpak LLC](https://genpak-llc-2) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000127718939) |
@@ -28,9 +35,13 @@ Remote jobs open to candidates with 0–2 years of experience. A real way in —
 | Business Development Associate | [SecurityScorecard](https://securityscorecard.com) | $60K–$70K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/securityscorecard/jobs/7950622) |
 | Business Development Associate | [SecurityScorecard](https://securityscorecard.com) | $60K–$70K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/securityscorecard/jobs/7950620) |
 | Associate Systems Engineer | [Pure Storage](https://purestorage.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/7931226) |
+| Government Travel Consultant | [CI Azumano](https://ciazumano.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/ciazumano/jobs/4697788005) |
+| Dietary Aide - Cook | [Crestwood Behavioral Health](https://crestwoodbehavioralhealth.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/crestwoodcareers/jobs/7742842003) |
 | AUSHILFE MÖBELAUFBAU ALS MINIJOB (M/W/D) - Braunschweig | [JYSK](https://jysk.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000127689266) |
 | AUSHILFE MÖBELAUFBAU ALS MINIJOB (M/W/D) - Salzgitter-Bad | [JYSK](https://jysk.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000127690996) |
 | AUSHILFE MÖBELAUFBAU ALS MINIJOB (M/W/D) - Einbeck | [JYSK](https://jysk.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000127690449) |
+| Pellet Mill Operator (Nights) | [Enviva](https://envivabiomass.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/enviva/jobs/7733836003) |
+| Pellet Mill Operator (Night) | [Enviva](https://envivabiomass.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/enviva/jobs/7733830003) |
 | Store Representative - Part-Time, grocery stocking | [Serv-U-Success](https://servusuccess.com) | $18/yr | May 21 | [Apply](https://jobs.lever.co/serv-u-success/88cd40d6-0c40-4edf-b484-77e22233c07d) |
 | Addetto vandite Part time 25H - La Spezia - c.c. "Le Terrazze" | [JD Sports](https://jdsports.com) | — | May 21 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4872963101) |
 | Estagiário(a) de Controladoria | [STARK BANK](https://starkbank.com) | — | May 21 | [Apply](https://jobs.lever.co/starkbank/2acf5bbc-913b-42ca-86ff-cc7f58998ffa) |

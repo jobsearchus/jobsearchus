@@ -2,17 +2,24 @@
 
 Remote operations and business operations roles across industries.
 
-**346 open roles** — Last updated: 2026-05-22
+**358 open roles** — Last updated: 2026-05-22
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Fleet Operations Supervisor | [Serve Robotics](https://serverobotics.com) | — | May 21 | [Apply](https://jobs.ashbyhq.com/serverobotics/0f3d1ee1-4ce9-4ef9-b2d9-89aa61979a90) |
+| Packaging Program Manager | [ŌURA](https://ouraring.com) | $173K–$203K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/oura/jobs/4257181009) |
 | Associate - Training | [Genpak LLC](https://genpak-llc-2) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000127757588) |
 | Warehouse Trucker Operator (WTO) - Illinois | [Continental](https://continentalserves.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000127750539) |
+| Backserver (Seasonal Part-time) - Soho Warehouse DTLA | [Soho House](https://sohohouse.com) | — | May 21 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4872318101) |
 | Maintenance Technician Senior | [Syngenta](https://syngenta.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000127743309) |
 | Coordenador de Projetos | [MSX International](https://msxi.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013258726) |
 | Account Manager - North Bay | [Manitoulin Global Forwarding](https://manitoulingroup.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000127732291) |
+| DoD SkillBridge Internship: Junior Estimator | [JRM Construction Management, LLC](https://jrmcm.com) | $65K–$90K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/jrmconstructionmanagementllc/jobs/4682707006) |
+| DoD SkillBridge Internship: Assistant Superintendent | [JRM Construction Management, LLC](https://jrmcm.com) | $65K–$90K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/jrmconstructionmanagementllc/jobs/4682705006) |
+| Mechanical Supervisor | [Enviva](https://envivabiomass.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/enviva/jobs/7743101003) |
+| Assistant-In-Training, Golf Course Maintenance | [Sensei](https://senseirobotics.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/sensei/jobs/8560565002) |
 | Clow Valve - Iron Melt | [McWane](https://mcwane.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/McWaneInc/postings/3743990013257406) |
 | Kennedy Valve-Production Process Intern  | [McWane](https://mcwane.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/McWaneInc/postings/3743990013257104) |
 | EMPLOYE COMMERCIAL (H/F) boulangerie patisserie | [Genpak LLC](https://genpak-llc-2) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127724519) |
@@ -20,10 +27,15 @@ Remote operations and business operations roles across industries.
 | Environmental Test Operator | [IonQ](https://ionq.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/ionq/jobs/5977330004) |
 | Chef boucher (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127715009) |
 | Head of Operations | [Icarus](https://icarus.one) | $150K–$500K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/icarus/jobs/5227794008) |
+| Director, Strategic Finance - Corporate FP&A | [Cerebras Systems](https://cerebras.net) | — | May 21 | [Apply](https://job-boards.greenhouse.io/cerebrassystems/jobs/7742830003) |
 | Scaling Associate - LEO | [University of Notre Dame](https://universityofnotredame.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013251969) |
 | Associate Manager, Core Annotations - PIPELINE | [Motive](https://gomotive.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/gomotive/jobs/8558342002) |
+| Change Order Manager | [JRM Construction Management, LLC](https://jrmcm.com) | $75K–$100K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/jrmconstructionmanagementllc/jobs/4683527006) |
+| Support Engineer - US Hours | [Medsien](https://medsien.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/medsien/jobs/5144072007) |
 | Archive Management Coordinator | [NBCUniversal](https://nbcuniversal.com) | $65K–$75K/yr | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000127697152) |
 | Systems Engineering Integrator | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $85K–$110K/yr | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000127693439) |
+| Pellet Mill Operator (Nights) | [Enviva](https://envivabiomass.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/enviva/jobs/7733836003) |
+| Pellet Mill Operator (Night) | [Enviva](https://envivabiomass.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/enviva/jobs/7733830003) |
 | Pellet Mill Operator | [Enviva](https://envivabiomass.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/enviva/jobs/7733822003) |
 | People Operations Associate | [Monzo](https://monzo.com) | £34K–£40K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7946774) |
 | Mr D - Mid-level Business Operations Growth Analyst | [takealot.com](https://takealot.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/takealotcom/jobs/7938626) |

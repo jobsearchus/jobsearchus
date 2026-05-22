@@ -2,7 +2,7 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**318 open roles** — Last updated: 2026-05-22
+**324 open roles** — Last updated: 2026-05-22
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -10,9 +10,12 @@ Remote sales roles — account executives, SDRs, and enterprise deals.
 | --- | --- | --- | --- | --- |
 | Enterprise Account Director (Commerce/CPG) | [StackAdapt](https://stackadapt.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/stackadapt/jobs/4254224009) |
 | Commercial Sr Analyst | [Delivery Hero](https://deliveryhero.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000127749626) |
+| Value Consultant | [Ashby](https://ashbyhq.com) | — | May 21 | [Apply](https://jobs.ashbyhq.com/ashby/e5863f7c-2238-410f-9a72-d40c944d2511) |
+| Mid-Market Account Executive | [Tailscale](https://tailscale.com) | $20K–$100K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/tailscale/jobs/4697762005) |
 | Field Service Consultant | [MSX International](https://msxi.com) | $80K–$100K/yr | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013259131) |
 | Seasonal Sales Associate (Part time) | [Primark Tiendas SLU](https://primark.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000127735399) |
 | Account Manager | [SmithRx](https://smithrx.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/smithrx/jobs/8560864002) |
+| Senior Sales Operations Manager | [Juniper Square](https://junipersquare.com) | $116K–$145K/yr | May 21 | [Apply](https://jobs.ashbyhq.com/junipersquare/8aaa87a5-c878-4595-8cd7-d86e063cde2d) |
 | Enterprise Sales Account Executive (English & German Speaking) | [Sectigo](https://sectigo.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Sectigo/postings/3743990013255837) |
 | Named Account Executive, Hong Kong | [Cloudflare](https://cloudflare.com) | — | May 21 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7868936?gh_jid=7868936) |
 | Enterprise Account Executive - SLED | [Smartsheet](https://smartsheet.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/smartsheet/jobs/7950637) |
@@ -23,8 +26,11 @@ Remote sales roles — account executives, SDRs, and enterprise deals.
 | Principal Engineer - Salesforce Architect (Manufacturing) | [Nagarro](https://nagarro.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000127711219) |
 | Mid Market Account Executive (Spanish Speaking) | [Harvey](https://harvey.com) | — | May 21 | [Apply](https://jobs.ashbyhq.com/harvey/5df8c19b-7ed5-408d-bc37-3494eab38a5f) |
 | Account Executive, Corrections | [Axon](https://axon.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/axon/jobs/7742850003) |
+| SalesForce Developer - Amman, JOR | [Genpak LLC](https://genpak-llc-2) | — | May 21 | [Apply](https://job-boards.greenhouse.io/kitchenpark/jobs/8557691002) |
 | Account Executive, Enterprise (South Florida) | [Pure Storage](https://purestorage.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/7946949) |
 | Business Development VP | [bswift](https://bswift.com) | $140K–$150K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/bswift/jobs/4682654006) |
+| Local Outreach & Business Development Representative  | [Papa](https://papa.com) | $30/yr | May 21 | [Apply](https://job-boards.greenhouse.io/papa/jobs/5143932007) |
+| Local Outreach & Business Development Representative | [Papa](https://papa.com) | $30/yr | May 21 | [Apply](https://job-boards.greenhouse.io/papa/jobs/5142791007) |
 | Sales Development Representative, MENA | [Seesaw](https://seesaw.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/seesaw/jobs/4683386006) |
 | Account Manager, Commercial | [PandaDoc](https://pandadoc.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/pandadoc/jobs/7950219) |
 | Senior Account Executive, Start-ups (Austin or Chicago) | [Cloudflare](https://cloudflare.com) | $212K–$292K/yr | May 21 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7947935?gh_jid=7947935) |

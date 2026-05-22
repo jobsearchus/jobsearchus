@@ -2,24 +2,30 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**538 open roles** — Last updated: 2026-05-22
+**550 open roles** — Last updated: 2026-05-22
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | Software Engineer, Agent Orchestration | [Decagon](https://decagon.com) | $200K–$400K/yr | May 21 | [Apply](https://jobs.ashbyhq.com/decagon/d3fca82a-d8e9-43fd-9917-719b051d6aea) |
+| Senior Sourcing Manager, Silicon/EE Components | [ŌURA](https://ouraring.com) | $173K–$203K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/oura/jobs/4256861009) |
 | Associate Principal SDET | [Saviynt](https://saviynt.com) | — | May 21 | [Apply](https://jobs.lever.co/saviynt/2a6dc1e4-5053-41b4-b16a-78b0f08e2cb5) |
 | Senior Data Engineer | [Experian](https://experianplc.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000127759527) |
 | Testing IA Discipline Software | [Inetum](https://inetum.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000127758199) |
+| Senior Game Engineer - Graphics | [teamLFG](https://teamlfg.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/teamlfg/jobs/6003126004) |
+| GTM Engineer (Marketing) | [Branch AI](https://branch-ai.com) | $120K–$135K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/branch/jobs/7743278003) |
 | Associate Director - Client Growth Partner  | [Nagarro](https://nagarro.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000127749619) |
 | IT Engineer – SysAdmin & Security (temporary contract) | [Applaudo](https://applaudo.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/ApplaudoStudios/postings/744000127749508) |
 | Senior Manager, HR Business Partner | [StackAdapt](https://stackadapt.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/stackadapt/jobs/4256837009) |
+| GTM Engineer | [Juniper Square](https://junipersquare.com) | $115K–$150K/yr | May 21 | [Apply](https://jobs.ashbyhq.com/junipersquare/5dff3211-a5c9-47c8-b98c-a3d4719e1c88) |
 |  APRENDIZ TÉCNICO EM MECÂNICA | [O-I Glass](https://o-i.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/O-I/postings/744000127732259) |
+| Engineering Manager | [Kite](https://kite.video) | $151K–$201K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/kite/jobs/4683612006) |
 | Pesquisadora/Pesquisador Associado(a) II | [Syngenta](https://syngenta.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000127729423) |
 | ESTAGIÁRIO TÉCNICO MECÂNICA INDUSTRIAL | [O-I Glass](https://o-i.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/O-I/postings/744000127730969) |
 | Propulsion Engineer I, Hardware Development | [Relativity Space](https://relativityspace.com) | — | May 21 | [Apply](https://boards.greenhouse.io/relativity/jobs/8560326002?gh_jid=8560326002) |
 | Civil Engineer (1-3 yrs experience) | [KPFF Consulting Engineers](https://kpff.com) | $83K–$100K/yr | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/KPFFConsultingEngineers/postings/3743990013257286) |
+| Manager, Solutions Engineering, Mid-Market | [Hightouch](https://hightouch.com) | $250K–$280K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/hightouch/jobs/6002877004) |
 | Journeyman Truck & Trailer Mechanic | [Manitoulin Global Forwarding](https://manitoulingroup.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000127726599) |
 | Mechanical or Aerospace Engineer | [Stratolaunch](https://stratolaunch.com) | $83K–$121K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/stratolaunch/jobs/5228003008) |
 | Business Representative Representative I | [Diligent Corporation](https://diligent.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/diligentcorporation/jobs/5998292004) |
@@ -28,21 +34,26 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | NodeJS Application Architect | [Applaudo](https://applaudo.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/ApplaudoStudios/postings/744000127721139) |
 | Structural Engineer - 8+ Years Experience | [KPFF Consulting Engineers](https://kpff.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/KPFFConsultingEngineers/postings/3743990013255076) |
 | Seeking an Emerging Structural Engineering Leader – Elevate Your Career with Mentorship and Growth Opportunities | [KPFF Consulting Engineers](https://kpff.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/KPFFConsultingEngineers/postings/3743990013254976) |
+| SVP, Business Development | [Keyfactor](https://keyfactor.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/keyfactorinc/jobs/6002384004) |
 | Associate Systems Engineer | [Pure Storage](https://purestorage.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/7931226) |
+| Senior Data Engineer, Analytics | [Discord](https://discord.com) | $196K–$221K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/discord/jobs/8540239002) |
 | Multi-Platform News Producer  Telemundo Arizona (Phoenix/Tucson) | [NBCUniversal](https://nbcuniversal.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000127713829) |
 | Principal Engineer - Salesforce Business Consultant | [Nagarro](https://nagarro.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000127707989) |
 | 6329- Validation Engineer | [Verista](https://verista.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/veristainc/jobs/5227764008) |
 | Senior Technical Account Manager | [Snowflake](https://snowflake.com) | — | May 21 | [Apply](https://jobs.ashbyhq.com/snowflake/0c0b8a99-ec28-4a91-bfac-a21ced8cbe3b) |
+| Director, Government Partnership Development | [Ginkgo Bioworks](https://ginkgobioworks.com) | $170K–$274K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/ginkgobioworks/jobs/5137761007) |
 | BESS Engineer | [Intersect Labs](https://intersectlabs.io) | — | May 21 | [Apply](https://jobs.lever.co/intersect/e48ea134-0beb-4207-a465-9cb31b98c9a1) |
 | Cariste-Manutentionnaire temps plein 40 heures semaine | [Manitoulin Global Forwarding](https://manitoulingroup.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000127688122) |
 | Metal Process Engineer (AH) | [Distro](https://distro.app) | — | May 21 | [Apply](https://jobs.lever.co/distro/eba58090-495f-45b8-837f-19b6eaf26fce) |
 | OEM Account Executive  | [Oscilar](https://oscilar.com) | — | May 21 | [Apply](https://jobs.ashbyhq.com/oscilar/b3310ef7-547e-46dc-a33f-6707206aeb66) |
+| Senior Solutions Architect II | [Keyfactor](https://keyfactor.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/keyfactorinc/jobs/6002420004) |
 | I&C O&M Technician | [Genpak LLC](https://genpak-llc-2) | — | May 21 | [Apply](https://job-boards.eu.greenhouse.io/lotusworks/jobs/4869981101) |
 | Staff Satellite Operations Engineer | [IonQ](https://ionq.com) | $146K–$191K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/ionq/jobs/6000016004) |
 | Senior Software Engineer | [Canary Technologies](https://canarytechnologies.com) | — | May 21 | [Apply](https://jobs.lever.co/canarytechnologies/3fbb11e2-993a-4535-beb4-43d8d0634668) |
 | Senior Software Engineer - Python - Golang | [Ivanti](https://ivanti.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/a3c41b8b71eff8c4/jobs/7742623003) |
 | Senior Software Engineer - Python - GoLang - Containerization - Cloud | [Ivanti](https://ivanti.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/a3c41b8b71eff8c4/jobs/7742567003) |
 | Data Engineer | [Wildlife Studios](https://wildlifestudios.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/wildlifestudios/jobs/8559682002) |
+| Solutions Architect | [GitLab](https://about.gitlab.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8551474002) |
 | Registered Behavior Technician (RBT) - Jacksonville, FL | [Brightstone Therapy](https://brightstonetherapy.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/brightstonetherapy/jobs/5143923007) |
 | Analytics Manager  | [takealot.com](https://takealot.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/takealotgroup/jobs/7946281) |
 | Senior Business Analyst | [Inetum](https://inetum.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000127650729) |
@@ -68,6 +79,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Software Engineer - Associate | [Experian](https://experianplc.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000127566305) |
 | Engineering Manager (Cloud and Data) | [GROW Inc](https://grow.com) | — | May 21 | [Apply](https://jobs.ashbyhq.com/grow-inc/35ae4350-d11b-4e75-a291-bec3330d922c) |
 | Engineering Manager (Experiences and Core Super) | [GROW Inc](https://grow.com) | — | May 21 | [Apply](https://jobs.ashbyhq.com/grow-inc/1051c09e-4fc7-488e-b853-33429a5f69d2) |
+| Business Operations Associate | [Natera](https://natera.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/natera/jobs/6001837004) |
 | Staff State Estimation Engineer | [Archer](https://archer.com) | $170K–$215K/yr | May 20 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7740904003) |
 | Salesforce Service Cloud & Case Management Specialist | [NCS Australia](https://ncsaustralia.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/NCSAustralia/postings/6000000001092312) |
 | SharePoint Administrator / Microsoft 365 | [Applaudo](https://applaudo.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/ApplaudoStudios/postings/744000127522068) |

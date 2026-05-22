@@ -2,13 +2,15 @@
 
 UX design, UI design, and product design roles. Figma, research, and end-to-end product work.
 
-**47 open roles** — Last updated: 2026-05-22
+**49 open roles** — Last updated: 2026-05-22
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| CPLB Package Design Specialist  | [Coupang](https://coupang.com) | — | May 22 | [Apply](https://boards.greenhouse.io/coupanginternal/jobs/7948439?gh_jid=7948439) |
 | Draftsperson | [BESIX](https://besix.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000127762458) |
+| Senior Design Engineer | [Juniper Square](https://junipersquare.com) | $170K–$210K/yr | May 21 | [Apply](https://jobs.ashbyhq.com/junipersquare/ff074ccc-e040-4f65-9f6c-7c7d0ea2a3fc) |
 | Senior Product Designer, Agentic Vulnerability Elimination | [HackerOne](https://hackerone.com) | $100K–$123K/yr | May 21 | [Apply](https://jobs.ashbyhq.com/hackerone/30ce477b-714d-4468-8083-1445e257a74c) |
 | Midweight Graphic Designer | [dmg events](https://dmgevents.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/dmgevents/jobs/7949934) |
 | Design Leader, Software Design | [ŌURA](https://ouraring.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/oura/jobs/4247176009) |

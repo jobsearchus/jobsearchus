@@ -2,12 +2,14 @@
 
 Project and program management roles across tech, operations, and enterprise.
 
-**31 open roles** — Last updated: 2026-05-22
+**33 open roles** — Last updated: 2026-05-22
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Lead Program Manager, Business Process Transformation  | [Reddit](https://reddit.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/7917818) |
+| Delivery Manager - FTC - 15months | [Gymshark](https://gymshark.com) | — | May 21 | [Apply](https://job-boards.eu.greenhouse.io/gymshark/jobs/4872695101) |
 | Technical Project Manager (Identity) | [NBCUniversal](https://nbcuniversal.com) | $110K–$145K/yr | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000127706160) |
 | Technical Project Manager | [Keyfactor](https://keyfactor.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/keyfactorinc/jobs/6002432004) |
 | Lead Project Manager | [NCS](https://ncs.co) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001093802) |

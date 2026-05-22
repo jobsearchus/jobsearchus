@@ -2,12 +2,13 @@
 
 General developer and programmer roles that did not fit a more specific category.
 
-**40 open roles** — Last updated: 2026-05-22
+**41 open roles** — Last updated: 2026-05-22
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Application Programmer (EBS) | [Horizon Industries](https://horizonindustries.com) | $140K–$150K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/horizonindustrieslimited/jobs/5228155008) |
 | Staff Developer, Identity | [1Password](https://1password.com) | — | May 21 | [Apply](https://jobs.ashbyhq.com/1password/9721f3ab-dca4-4cdc-a8cc-60a7ce488b80) |
 | Lead Flutter Developer  | [BrainRocket](https://brainrocket.com) | — | May 21 | [Apply](https://job-boards.eu.greenhouse.io/brainrocketltd/jobs/4872776101) |
 | Senior Ruby Developer  | [Endava](https://endava.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Endava/postings/744000127513569) |

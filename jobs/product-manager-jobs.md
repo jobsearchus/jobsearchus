@@ -2,12 +2,13 @@
 
 Product manager roles at companies building real products. Sourced directly from career pages.
 
-**51 open roles** — Last updated: 2026-05-22
+**52 open roles** — Last updated: 2026-05-22
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| [쿠팡 Ads]Ad Product Strategist(Ads & Brand Solutions)[L6] | [Coupang](https://coupang.com) | — | May 22 | [Apply](https://boards.greenhouse.io/coupanginternal/jobs/7941861?gh_jid=7941861) |
 | Principal Product Manager - Healthcare Technology (Remote) | [Experian](https://experianplc.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000127758379) |
 | Product Operations Analyst - London | [Flagright](https://flagright.com) | — | May 21 | [Apply](https://jobs.ashbyhq.com/flagright.com/e06aef39-fdaf-44d5-8283-dbe3d8fb5c69) |
 | Senior Product Manager, Reports | [Owner.com](https://owner.com) | $190K–$230K/yr | May 21 | [Apply](https://jobs.ashbyhq.com/Owner/f8401e33-2c9f-449e-bd7b-6a44d4c2e6a3) |

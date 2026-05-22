@@ -2,13 +2,14 @@
 
 DevOps, platform engineering, and infrastructure roles. AWS, GCP, Kubernetes, Terraform.
 
-**23 open roles** — Last updated: 2026-05-22
+**24 open roles** — Last updated: 2026-05-22
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Posted | Apply |
 | --- | --- | --- | --- |
 | Senior DevOps Engineer | [Experian](https://experianplc.com) | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000127759719) |
+| Software Engineer, Network Infrastructure | [Render](https://render.com) | May 21 | [Apply](https://jobs.ashbyhq.com/render/88cb74a4-bc28-40b1-b792-d3041e3e17d3) |
 | Senior DevOps Engineer (Remote Eligible in Bulgaria) | [Smartsheet](https://smartsheet.com) | May 21 | [Apply](https://job-boards.greenhouse.io/smartsheet/jobs/7949821) |
 | Senior Cloud Infrastructure Engineer  | [Dragos](https://dragos.com) | May 21 | [Apply](https://job-boards.greenhouse.io/dragos/jobs/5218498008) |
 | Senior SaaS Platform Engineer | [CapTech](https://captech.com) | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/CapTechConsulting/postings/744000127506009) |

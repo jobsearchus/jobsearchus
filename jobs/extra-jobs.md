@@ -2,13 +2,16 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**342 open roles** — Last updated: 2026-05-22
+**349 open roles** — Last updated: 2026-05-22
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | Supervisor de turno- Farmacéutico | [Delivery Hero](https://deliveryhero.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000127765838) |
+| Housekeeper | [Crestwood Behavioral Health](https://crestwoodbehavioralhealth.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/crestwoodcareers/jobs/7746543003) |
+| Full Time Caregiver (Multiple Shifts) | [Silverado](https://silverado.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/silverado/jobs/5144714007) |
+| Field Visual Merchandiser | [Gymshark](https://gymshark.com) | $81K–$102K/yr | May 21 | [Apply](https://job-boards.eu.greenhouse.io/gymshark/jobs/4873365101) |
 | Plant IV Curing: Pre-Cure Prep- Illinois | [Continental](https://continentalserves.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000127751449) |
 | PLT Plant 1 Curing Material Handler (Illinois) | [Continental](https://continentalserves.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000127751149) |
 | Department Manager | [Primark Tiendas SLU](https://primark.com) | $59K–$72K/yr | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000127747574) |
@@ -24,12 +27,16 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Réceptionniste [Saison 2026] | [Genpak LLC](https://genpak-llc-2) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000127718939) |
 | Agent technique [Saison 2026] | [Genpak LLC](https://genpak-llc-2) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000127717212) |
 | Assistant Cheffe de Reception  | [Genpak LLC](https://genpak-llc-2) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000127718119) |
+| Government Travel Consultant | [CI Azumano](https://ciazumano.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/ciazumano/jobs/4697788005) |
 | Senior Manager, Risk Governance and Reporting | [Standard Bank](https://standardbank.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000127713019) |
+| Dietary Aide - Cook | [Crestwood Behavioral Health](https://crestwoodbehavioralhealth.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/crestwoodcareers/jobs/7742842003) |
 | SharePoint Architecture Specialist | [Applaudo](https://applaudo.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/ApplaudoStudios/postings/744000127702300) |
+| Technical Project Manager  | [Growe](https://growe.com) | — | May 21 | [Apply](https://job-boards.eu.greenhouse.io/growe/jobs/4845329101) |
 | Clow Valve - Occupational Health Nurse | [McWane](https://mcwane.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/McWaneInc/postings/3743990013250811) |
 | AUSHILFE MÖBELAUFBAU ALS MINIJOB (M/W/D) - Braunschweig | [JYSK](https://jysk.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000127689266) |
 | AUSHILFE MÖBELAUFBAU ALS MINIJOB (M/W/D) - Salzgitter-Bad | [JYSK](https://jysk.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000127690996) |
 | AUSHILFE MÖBELAUFBAU ALS MINIJOB (M/W/D) - Einbeck | [JYSK](https://jysk.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000127690449) |
+| Executive Assistant | [WPP](https://wpp.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/wpp/jobs/8523768002) |
 | Group Head Of Sustainability  | [BESIX](https://besix.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000127675378) |
 | Store Representative - Part-Time, grocery stocking | [Serv-U-Success](https://servusuccess.com) | $18/yr | May 21 | [Apply](https://jobs.lever.co/serv-u-success/88cd40d6-0c40-4edf-b484-77e22233c07d) |
 | Store Representative - Day shift, grocery stocking (full time) | [Serv-U-Success](https://servusuccess.com) | $16/yr | May 21 | [Apply](https://jobs.lever.co/serv-u-success/501d2a27-3896-4d47-a962-1dc47ee7152c) |

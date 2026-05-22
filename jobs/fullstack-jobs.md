@@ -2,12 +2,13 @@
 
 Full-stack engineering roles across product, platform, and startup companies.
 
-**14 open roles** — Last updated: 2026-05-22
+**15 open roles** — Last updated: 2026-05-22
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Fullstack Software Engineer, Notifications Lifecycle | [Reddit](https://reddit.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/7895468) |
 | Software Development Engineer II (Fullstack), Studio | [Mapbox](https://mapbox.com) | — | May 20 | [Apply](https://jobs.ashbyhq.com/mapbox/f23aeaf4-cb71-406c-933b-8c4a8086f7bb) |
 | Full Stack Engineer - Associate | [iCapital](https://icapital.com) | $100K–$135K/yr | May 20 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8549590002) |
 | Associate Staff Engineer - Java Full-stack Developer | [Nagarro](https://nagarro.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000127485830) |

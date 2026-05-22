@@ -2,7 +2,7 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**144 open roles** — Last updated: 2026-05-22
+**148 open roles** — Last updated: 2026-05-22
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -10,14 +10,18 @@ Remote marketing roles across growth, content, brand, and performance channels.
 | --- | --- | --- | --- | --- |
 | Marketing Manager | [ACCOR](https://group.accor.com) | $75K–$85K/yr | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000127767879) |
 | Reservations All Rounder | [ACCOR](https://group.accor.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000127766469) |
+| Manager, Market & Competitive Intelligence | [Volito Aviation August 2007](https://trustly.com) | — | May 21 | [Apply](https://jobs.lever.co/trustly/9993ac65-7e8b-4f17-8ef1-4a363cfb9f1c) |
 | Senior Staff Product Marketing Manager, AI Identity Security | [1Password](https://1password.com) | — | May 21 | [Apply](https://jobs.ashbyhq.com/1password/08c3100a-d1d1-4088-95b1-3b453f88a8e2) |
 | CRM Manager - Fixed Term Contract | [Entain](https://entaingroup.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Entain/postings/744000127750569) |
+| Manager, Community Partnerships | [Wikimedia Foundation](https://wikimediafoundation.org) | — | May 21 | [Apply](https://job-boards.greenhouse.io/wikimedia/jobs/7859300) |
+| AI Engineer | [Natera](https://natera.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/natera/jobs/6001272004) |
 | Product Marketing Manager | [TRG Screen](https://trgscreen.com) | — | May 21 | [Apply](https://job-boards.eu.greenhouse.io/trgscreen/jobs/4873337101) |
 | Marketing Planning Activation Manager | [Syngenta](https://syngenta.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000127728558) |
 | Retail Cleaner | [Entain](https://entaingroup.com) | £13/yr | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Entain/postings/744000127723435) |
 | Technical Product Manager | [Kunai](https://kunai.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/kunai/jobs/5124554007) |
 | Head of Corporate PR | [Whatnot](https://whatnot.com) | — | May 21 | [Apply](https://jobs.ashbyhq.com/whatnot/b940f62b-cc36-487b-be64-18eab9f2eb21) |
 | PR & Communications Manager (16 month fixed term contract) | [Monzo](https://monzo.com) | £68K–£80K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7950409) |
+| Manager of Field Events, Growth  | [Engine](https://engine.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/engine/jobs/7721385003) |
 | Account Manager, Digital & Biddable Media  | [WPP Media](https://wppmedia.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5224276008) |
 | Education Growth Lead - UKI | [Canva](https://canva.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001095637) |
 | Content Writing Specialist | [WIN Home Inspection](https://winhomeinspection.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/winhomeinspection/jobs/4683452006) |
