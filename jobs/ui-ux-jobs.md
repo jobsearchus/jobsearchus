@@ -2,15 +2,17 @@
 
 UX design, UI design, and product design roles. Figma, research, and end-to-end product work.
 
-**45 open roles** — Last updated: 2026-05-21
+**47 open roles** — Last updated: 2026-05-22
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Draftsperson | [BESIX](https://besix.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000127762458) |
 | Senior Product Designer, Agentic Vulnerability Elimination | [HackerOne](https://hackerone.com) | $100K–$123K/yr | May 21 | [Apply](https://jobs.ashbyhq.com/hackerone/30ce477b-714d-4468-8083-1445e257a74c) |
 | Midweight Graphic Designer | [dmg events](https://dmgevents.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/dmgevents/jobs/7949934) |
 | Design Leader, Software Design | [ŌURA](https://ouraring.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/oura/jobs/4247176009) |
+| Head of Product Design - Growth | [Canva](https://canva.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001095688) |
 | Senior Content Designer | [ŌURA](https://ouraring.com) | $144K–$169K/yr | May 20 | [Apply](https://job-boards.greenhouse.io/oura/jobs/4253839009) |
 | Senior Product Designer, Ads | [Discord](https://discord.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/discord/jobs/8558992002) |
 | Product Designer | [Experian](https://experianplc.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000127522024) |

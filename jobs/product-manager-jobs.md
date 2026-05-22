@@ -2,13 +2,18 @@
 
 Product manager roles at companies building real products. Sourced directly from career pages.
 
-**46 open roles** — Last updated: 2026-05-21
+**51 open roles** — Last updated: 2026-05-22
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Principal Product Manager - Healthcare Technology (Remote) | [Experian](https://experianplc.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000127758379) |
+| Product Operations Analyst - London | [Flagright](https://flagright.com) | — | May 21 | [Apply](https://jobs.ashbyhq.com/flagright.com/e06aef39-fdaf-44d5-8283-dbe3d8fb5c69) |
 | Senior Product Manager, Reports | [Owner.com](https://owner.com) | $190K–$230K/yr | May 21 | [Apply](https://jobs.ashbyhq.com/Owner/f8401e33-2c9f-449e-bd7b-6a44d4c2e6a3) |
+| Alternance chef de produit e-commerce F/H/X | [BUT](https://but.fr) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000127704885) |
+| Business Development Representative, Emerging AI Products  | [Intercom](https://intercom.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7948297) |
+| Software Engineer, New Grad (Recent 2025 Grads) | [SmithRx](https://smithrx.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/smithrx/jobs/8477698002) |
 | Group Product Manager  | [Synthesia](https://synthesia.io) | — | May 21 | [Apply](https://jobs.ashbyhq.com/synthesia/2732bc00-620f-49ab-a0dc-001631d977df) |
 | Product Specialist (New Grad) | [Grand Games](https://grandgames.com) | — | May 21 | [Apply](https://jobs.lever.co/grand/f0490ae6-6d1b-474f-b75d-ac6ceed4987f) |
 | Group Product Manager | [Coupang](https://coupang.com) | — | May 21 | [Apply](https://boards.greenhouse.io/coupanginternal/jobs/7946300?gh_jid=7946300) |

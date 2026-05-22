@@ -2,19 +2,26 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**311 open roles** — Last updated: 2026-05-21
+**318 open roles** — Last updated: 2026-05-22
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Enterprise Account Director (Commerce/CPG) | [StackAdapt](https://stackadapt.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/stackadapt/jobs/4254224009) |
+| Commercial Sr Analyst | [Delivery Hero](https://deliveryhero.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000127749626) |
+| Field Service Consultant | [MSX International](https://msxi.com) | $80K–$100K/yr | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013259131) |
 | Seasonal Sales Associate (Part time) | [Primark Tiendas SLU](https://primark.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000127735399) |
+| Account Manager | [SmithRx](https://smithrx.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/smithrx/jobs/8560864002) |
+| Enterprise Sales Account Executive (English & German Speaking) | [Sectigo](https://sectigo.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Sectigo/postings/3743990013255837) |
 | Named Account Executive, Hong Kong | [Cloudflare](https://cloudflare.com) | — | May 21 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7868936?gh_jid=7868936) |
 | Enterprise Account Executive - SLED | [Smartsheet](https://smartsheet.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/smartsheet/jobs/7950637) |
 | Business Development Associate | [SecurityScorecard](https://securityscorecard.com) | $60K–$70K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/securityscorecard/jobs/7950623) |
 | Business Development Associate | [SecurityScorecard](https://securityscorecard.com) | $60K–$70K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/securityscorecard/jobs/7950622) |
 | Business Development Associate | [SecurityScorecard](https://securityscorecard.com) | $60K–$70K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/securityscorecard/jobs/7950620) |
 | Account Executive, MM/ENT | [Emburse](https://emburse.com) | — | May 21 | [Apply](https://jobs.lever.co/emburse/2816b137-6dd8-4b31-b277-0f184ff9a59d) |
+| Principal Engineer - Salesforce Architect (Manufacturing) | [Nagarro](https://nagarro.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000127711219) |
+| Mid Market Account Executive (Spanish Speaking) | [Harvey](https://harvey.com) | — | May 21 | [Apply](https://jobs.ashbyhq.com/harvey/5df8c19b-7ed5-408d-bc37-3494eab38a5f) |
 | Account Executive, Corrections | [Axon](https://axon.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/axon/jobs/7742850003) |
 | Account Executive, Enterprise (South Florida) | [Pure Storage](https://purestorage.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/7946949) |
 | Business Development VP | [bswift](https://bswift.com) | $140K–$150K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/bswift/jobs/4682654006) |

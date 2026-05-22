@@ -2,29 +2,43 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**327 open roles** — Last updated: 2026-05-21
+**342 open roles** — Last updated: 2026-05-22
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Supervisor de turno- Farmacéutico | [Delivery Hero](https://deliveryhero.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000127765838) |
+| Plant IV Curing: Pre-Cure Prep- Illinois | [Continental](https://continentalserves.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000127751449) |
+| PLT Plant 1 Curing Material Handler (Illinois) | [Continental](https://continentalserves.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000127751149) |
 | Department Manager | [Primark Tiendas SLU](https://primark.com) | $59K–$72K/yr | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000127747574) |
+| Assistant Store Manager - Nights | [Serv-U-Success](https://servusuccess.com) | $21/yr | May 21 | [Apply](https://jobs.lever.co/serv-u-success/2342f4a9-504f-4729-8e24-a32602aa3909) |
 | Retail General Manager - Trainee | [Pilot Flying J](https://pilotflyingj.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/PilotCompany/postings/744000127740083) |
+| Field Service Consultant | [MSX International](https://msxi.com) | $80K–$100K/yr | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013259456) |
 | Cashier | [Pilot Flying J](https://pilotflyingj.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/PilotCompany/postings/744000127736759) |
 | Stockroom Retail Assistant - Operador de Armazém de Loja (m/f) | [Primark Tiendas SLU](https://primark.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000127729543) |
+| dental nurse | [PortmanDentex](https://portmandentex.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000127726740) |
 | Assistant Responsable Le Marius bar | [Relais & Châteaux](https://relaischateaux.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000127724240) |
 | Commis de salle F/H – Restaurant Jean Sulpice** | [Relais & Châteaux](https://relaischateaux.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000127725075) |
 | Chef(fe) de rang – Restaurant Jean Sulpice** | [Relais & Châteaux](https://relaischateaux.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000127724779) |
 | Réceptionniste [Saison 2026] | [Genpak LLC](https://genpak-llc-2) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000127718939) |
 | Agent technique [Saison 2026] | [Genpak LLC](https://genpak-llc-2) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000127717212) |
 | Assistant Cheffe de Reception  | [Genpak LLC](https://genpak-llc-2) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000127718119) |
+| Senior Manager, Risk Governance and Reporting | [Standard Bank](https://standardbank.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000127713019) |
+| SharePoint Architecture Specialist | [Applaudo](https://applaudo.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/ApplaudoStudios/postings/744000127702300) |
 | Clow Valve - Occupational Health Nurse | [McWane](https://mcwane.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/McWaneInc/postings/3743990013250811) |
 | AUSHILFE MÖBELAUFBAU ALS MINIJOB (M/W/D) - Braunschweig | [JYSK](https://jysk.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000127689266) |
 | AUSHILFE MÖBELAUFBAU ALS MINIJOB (M/W/D) - Salzgitter-Bad | [JYSK](https://jysk.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000127690996) |
 | AUSHILFE MÖBELAUFBAU ALS MINIJOB (M/W/D) - Einbeck | [JYSK](https://jysk.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000127690449) |
+| Group Head Of Sustainability  | [BESIX](https://besix.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000127675378) |
+| Store Representative - Part-Time, grocery stocking | [Serv-U-Success](https://servusuccess.com) | $18/yr | May 21 | [Apply](https://jobs.lever.co/serv-u-success/88cd40d6-0c40-4edf-b484-77e22233c07d) |
+| Store Representative - Day shift, grocery stocking (full time) | [Serv-U-Success](https://servusuccess.com) | $16/yr | May 21 | [Apply](https://jobs.lever.co/serv-u-success/501d2a27-3896-4d47-a962-1dc47ee7152c) |
 | Addetto vandite Part time 25H - La Spezia - c.c. "Le Terrazze" | [JD Sports](https://jdsports.com) | — | May 21 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4872963101) |
+| Automotive Service Manager - Up to $100k & Weekends Off - Blue Valley | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | $100K/yr | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000127668498) |
+| Assistant Director - Jacques Maritain Center | [University of Notre Dame](https://universityofnotredame.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013246796) |
 | Support and Configuration Analyst | [Inetum](https://inetum.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000127650412) |
 | Orthodontist | [PortmanDentex](https://portmandentex.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000127651436) |
+| General Service Technician / Mechanic - Weekends Off - Champions | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000127648462) |
 | Dental Hygienist - Cork Dental Care, Cork | [PortmanDentex](https://portmandentex.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000127650779) |
 | Specialist Orthodontist | [PortmanDentex](https://portmandentex.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000127648964) |
 | Beauty Therapist - Cowshed Amsterdam | [Soho House](https://sohohouse.com) | — | May 21 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4872819101) |
@@ -80,6 +94,7 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Assistant Manager | [Genpak LLC](https://genpak-llc-2) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000127393019) |
 | Analista de Garantías (Automoción) | [MSX International](https://msxi.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013223626) |
 | Technical B2B Specialist | [MSX International](https://msxi.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013223472) |
+| Senior Real Estate Consultant (w/m/d) Facility Management | [Drees & Sommer](https://dreso.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000127374879) |
 | Implementation Consultant | [Motive](https://gomotive.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/gomotive/jobs/8555827002) |
 | Waiter | [Genpak LLC](https://genpak-llc-2) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000127369739) |
 | Frietbakker | [Escape](https://escape.tech) | — | May 20 | [Apply](https://jobs.escape.nl/o/frietbakker-15/c/new) |

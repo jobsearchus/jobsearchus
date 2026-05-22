@@ -2,7 +2,7 @@
 
 Full-stack engineering roles across product, platform, and startup companies.
 
-**14 open roles** — Last updated: 2026-05-21
+**14 open roles** — Last updated: 2026-05-22
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 

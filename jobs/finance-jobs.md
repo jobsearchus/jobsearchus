@@ -2,13 +2,16 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**152 open roles** — Last updated: 2026-05-21
+**155 open roles** — Last updated: 2026-05-22
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Intern, APAC Payroll | [Delivery Hero](https://deliveryhero.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000127798489) |
+| GL Accountant | [Intercom](https://intercom.com) | $123K–$147K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7947756) |
 | Fund Reporting - Associate / Assistant Vice President | [iCapital](https://icapital.com) | $80K–$110K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8535139002) |
+| Project Manager - Logistics | [AUTO1 Group](https://auto1-group.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000127678661) |
 | Electrical O&M Technician  | [Genpak LLC](https://genpak-llc-2) | — | May 21 | [Apply](https://job-boards.eu.greenhouse.io/lotusworks/jobs/4869960101) |
 | Analista Sênior Contábil | [STARK BANK](https://starkbank.com) | — | May 21 | [Apply](https://jobs.lever.co/starkbank/cf09607e-a7e7-4676-b51d-1be84ae0d280) |
 | Estagiário(a) de Controladoria | [STARK BANK](https://starkbank.com) | — | May 21 | [Apply](https://jobs.lever.co/starkbank/2acf5bbc-913b-42ca-86ff-cc7f58998ffa) |

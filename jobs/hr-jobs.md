@@ -2,13 +2,17 @@
 
 Remote HR, recruiting, and people operations roles.
 
-**54 open roles** — Last updated: 2026-05-21
+**58 open roles** — Last updated: 2026-05-22
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| People Advisor | [BESIX](https://besix.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000127784480) |
+| Product Manager - AI | [Oscilar](https://oscilar.com) | — | May 21 | [Apply](https://jobs.ashbyhq.com/oscilar/a951fe3d-3784-47ba-99b7-11117676d20e) |
+| Total Rewards and Analytics Lead | [Decagon](https://decagon.com) | — | May 21 | [Apply](https://jobs.ashbyhq.com/decagon/7c7c3e1d-53c6-445e-89fe-44b94135d6b6) |
 | Senior HR Generalist | [Honeycomb.io](https://honeycomb.io) | — | May 21 | [Apply](https://job-boards.greenhouse.io/honeycomb/jobs/5227819008) |
+| Automotive Technician / Mechanic - Up to $45/Hr & Weekends Off - Blue Valley | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | $45/yr | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000127675562) |
 | Regional Digital HR Specialist | [Egis](https://egis-group.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000127640814) |
 | Learning Business Partner - Tires | [Continental](https://continentalserves.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000127615979) |
 | Sr. Group Manager_SF (EC Payroll)_ REF102027N_2026240091 | [WNS](https://wns.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/WNSGlobalServices144/postings/744000127578230) |

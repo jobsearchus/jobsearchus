@@ -2,12 +2,13 @@
 
 Remote legal, compliance, and counsel roles.
 
-**38 open roles** — Last updated: 2026-05-21
+**39 open roles** — Last updated: 2026-05-22
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Privacy and AI Counsel | [Harvey](https://harvey.com) | $210K–$265K/yr | May 21 | [Apply](https://jobs.ashbyhq.com/harvey/42f38d0c-b931-4edb-b988-a6c6e89f7701) |
 | Commercial Counsel | [LI.FI](https://li.fi) | — | May 21 | [Apply](https://jobs.ashbyhq.com/li.fi/b7273fb8-9e75-43bf-ad2b-8aa6496bf3ca) |
 | Director, Compliance (Compliance Risk Monitoring) | [Coupang](https://coupang.com) | — | May 21 | [Apply](https://boards.greenhouse.io/coupanginternal/jobs/7737217?gh_jid=7737217) |
 | Corporate Counsel, Commercial | [Axon](https://axon.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/axon/jobs/7742303003) |

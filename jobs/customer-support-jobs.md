@@ -2,13 +2,20 @@
 
 Remote customer support and success roles across SaaS, e-commerce, and tech.
 
-**100 open roles** — Last updated: 2026-05-21
+**107 open roles** — Last updated: 2026-05-22
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Revenue Manager | [ACCOR](https://group.accor.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000127766039) |
+| Bilingual Customer Service Representative | [Genpak LLC](https://genpak-llc-2) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000127765019) |
+| Bilingual Customer Service Specialist | [Genpak LLC](https://genpak-llc-2) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000127765598) |
+| Bilingual Inbound Call Center Representative | [SmithRx](https://smithrx.com) | $21/yr | May 21 | [Apply](https://job-boards.greenhouse.io/smithrx/jobs/8560870002) |
+| Enterprise Admin Support Specialist (French speaking) | [Canva](https://canva.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001095960) |
+| JOB ETUDIANT 14H  | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000127719099) |
 | Technical Account Manager, East | [Hightouch](https://hightouch.com) | $165K–$250K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/hightouch/jobs/6000330004) |
+| EXPERT SERVICE CLIENT - CDD H/F  | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000127681471) |
 | Customer Support (Pacific Time) | [Circle](https://circle.so) | $45K–$60K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/circleso/jobs/5218865008) |
 | Customer Support (Oceania) | [Circle](https://circle.so) | $45K–$60K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/circleso/jobs/5218878008) |
 | Customer Support Associate  | [PandaDoc](https://pandadoc.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/pandadoc/jobs/7682068) |

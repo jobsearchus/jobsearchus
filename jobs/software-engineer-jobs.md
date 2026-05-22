@@ -2,25 +2,41 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**519 open roles** — Last updated: 2026-05-21
+**538 open roles** — Last updated: 2026-05-22
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Software Engineer, Agent Orchestration | [Decagon](https://decagon.com) | $200K–$400K/yr | May 21 | [Apply](https://jobs.ashbyhq.com/decagon/d3fca82a-d8e9-43fd-9917-719b051d6aea) |
+| Associate Principal SDET | [Saviynt](https://saviynt.com) | — | May 21 | [Apply](https://jobs.lever.co/saviynt/2a6dc1e4-5053-41b4-b16a-78b0f08e2cb5) |
+| Senior Data Engineer | [Experian](https://experianplc.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000127759527) |
+| Testing IA Discipline Software | [Inetum](https://inetum.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000127758199) |
+| Associate Director - Client Growth Partner  | [Nagarro](https://nagarro.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000127749619) |
+| IT Engineer – SysAdmin & Security (temporary contract) | [Applaudo](https://applaudo.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/ApplaudoStudios/postings/744000127749508) |
+| Senior Manager, HR Business Partner | [StackAdapt](https://stackadapt.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/stackadapt/jobs/4256837009) |
 |  APRENDIZ TÉCNICO EM MECÂNICA | [O-I Glass](https://o-i.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/O-I/postings/744000127732259) |
 | Pesquisadora/Pesquisador Associado(a) II | [Syngenta](https://syngenta.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000127729423) |
 | ESTAGIÁRIO TÉCNICO MECÂNICA INDUSTRIAL | [O-I Glass](https://o-i.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/O-I/postings/744000127730969) |
 | Propulsion Engineer I, Hardware Development | [Relativity Space](https://relativityspace.com) | — | May 21 | [Apply](https://boards.greenhouse.io/relativity/jobs/8560326002?gh_jid=8560326002) |
+| Civil Engineer (1-3 yrs experience) | [KPFF Consulting Engineers](https://kpff.com) | $83K–$100K/yr | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/KPFFConsultingEngineers/postings/3743990013257286) |
+| Journeyman Truck & Trailer Mechanic | [Manitoulin Global Forwarding](https://manitoulingroup.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000127726599) |
 | Mechanical or Aerospace Engineer | [Stratolaunch](https://stratolaunch.com) | $83K–$121K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/stratolaunch/jobs/5228003008) |
 | Business Representative Representative I | [Diligent Corporation](https://diligent.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/diligentcorporation/jobs/5998292004) |
 | Apprenti Opérateur (contrat de 3 mois) | [O-I Glass](https://o-i.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/O-I/postings/744000127721809) |
 | Manager, Data Engineering | [HackerOne](https://hackerone.com) | $170K–$205K/yr | May 21 | [Apply](https://jobs.ashbyhq.com/hackerone/c8f46a18-3347-42e6-9fae-c0dbc3e89618) |
+| NodeJS Application Architect | [Applaudo](https://applaudo.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/ApplaudoStudios/postings/744000127721139) |
+| Structural Engineer - 8+ Years Experience | [KPFF Consulting Engineers](https://kpff.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/KPFFConsultingEngineers/postings/3743990013255076) |
+| Seeking an Emerging Structural Engineering Leader – Elevate Your Career with Mentorship and Growth Opportunities | [KPFF Consulting Engineers](https://kpff.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/KPFFConsultingEngineers/postings/3743990013254976) |
 | Associate Systems Engineer | [Pure Storage](https://purestorage.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/7931226) |
+| Multi-Platform News Producer  Telemundo Arizona (Phoenix/Tucson) | [NBCUniversal](https://nbcuniversal.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000127713829) |
+| Principal Engineer - Salesforce Business Consultant | [Nagarro](https://nagarro.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000127707989) |
 | 6329- Validation Engineer | [Verista](https://verista.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/veristainc/jobs/5227764008) |
 | Senior Technical Account Manager | [Snowflake](https://snowflake.com) | — | May 21 | [Apply](https://jobs.ashbyhq.com/snowflake/0c0b8a99-ec28-4a91-bfac-a21ced8cbe3b) |
 | BESS Engineer | [Intersect Labs](https://intersectlabs.io) | — | May 21 | [Apply](https://jobs.lever.co/intersect/e48ea134-0beb-4207-a465-9cb31b98c9a1) |
+| Cariste-Manutentionnaire temps plein 40 heures semaine | [Manitoulin Global Forwarding](https://manitoulingroup.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000127688122) |
 | Metal Process Engineer (AH) | [Distro](https://distro.app) | — | May 21 | [Apply](https://jobs.lever.co/distro/eba58090-495f-45b8-837f-19b6eaf26fce) |
+| OEM Account Executive  | [Oscilar](https://oscilar.com) | — | May 21 | [Apply](https://jobs.ashbyhq.com/oscilar/b3310ef7-547e-46dc-a33f-6707206aeb66) |
 | I&C O&M Technician | [Genpak LLC](https://genpak-llc-2) | — | May 21 | [Apply](https://job-boards.eu.greenhouse.io/lotusworks/jobs/4869981101) |
 | Staff Satellite Operations Engineer | [IonQ](https://ionq.com) | $146K–$191K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/ionq/jobs/6000016004) |
 | Senior Software Engineer | [Canary Technologies](https://canarytechnologies.com) | — | May 21 | [Apply](https://jobs.lever.co/canarytechnologies/3fbb11e2-993a-4535-beb4-43d8d0634668) |
@@ -38,6 +54,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | AI Applied Scientist | [Wizard](https://wizard.com) | $225K–$280K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/wizardcommerce/jobs/6002368004) |
 | Logistics Engineer (UAE National Only) | [BESIX](https://besix.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000127626723) |
 | HSE Manager - MEP | [BESIX](https://besix.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000127624669) |
+| Principal Solution Engineer, Ecosystem  | [Canva](https://canva.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001095694) |
 | Senior Manager, Technical Support Engineer | [Motive](https://gomotive.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/gomotive/jobs/8526841002) |
 | Senior Data Analyst | [Netomi](https://netomi.com) | — | May 21 | [Apply](https://jobs.lever.co/netomi/6dace09f-ba98-46d2-9184-050851bace22) |
 | Senior Systems Engineer (Windows) | [AHEAD](https://ahead.com) | — | May 21 | [Apply](https://jobs.lever.co/thinkahead/8fb784e1-47a3-4c0c-964e-5e212cef897f) |
@@ -46,6 +63,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | [MSO] Linux Systems Engineer | [Software Mind](https://softwaremind.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/SoftwareMind/postings/744000127581640) |
 | Senior Android Engineer — Mobile Workflows | [Canva](https://canva.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Canva/postings/6000000001095048) |
 | Senior iOS Engineer — Mobile Workflows | [Canva](https://canva.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Canva/postings/6000000001094563) |
+| Speech Pathologist - Early Start Australia Graduate Program | [Genpak LLC](https://genpak-llc-2) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/APMGroup/postings/6000000001094241) |
 | Metrologist | [Stratolaunch](https://stratolaunch.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/stratolaunch/jobs/5227419008) |
 | Software Engineer - Associate | [Experian](https://experianplc.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000127566305) |
 | Engineering Manager (Cloud and Data) | [GROW Inc](https://grow.com) | — | May 21 | [Apply](https://jobs.ashbyhq.com/grow-inc/35ae4350-d11b-4e75-a291-bec3330d922c) |
@@ -124,6 +142,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | IT Netzwerk Spezialist (w/m/d) – Security & Compliance | [Drees & Sommer](https://dreso.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000127391471) |
 | #EG Helpdesk and Concierge Engineer (M365) | [NCS](https://ncs.co) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001091604) |
 | Sr Data Engineer II -  Salesforce (Hybrid) | [Smartsheet](https://smartsheet.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/smartsheet/jobs/7945625) |
+| (Junior / Senior ) Planer und Planungsleitung (w/m/d) – Data Center  | [Drees & Sommer](https://dreso.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000127373802) |
 | xEngineer - Online Stores | [Wix.com](https://wix.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Wix2/postings/744000127370103) |
 | Seed Production Pathologist | [Syngenta](https://syngenta.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000127366690) |
 | Sr. Staff Engineer (Python,Pyspark,AWS) | [Experian](https://experianplc.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000127363221) |

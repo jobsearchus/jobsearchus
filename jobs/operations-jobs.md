@@ -2,21 +2,32 @@
 
 Remote operations and business operations roles across industries.
 
-**335 open roles** — Last updated: 2026-05-21
+**346 open roles** — Last updated: 2026-05-22
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Associate - Training | [Genpak LLC](https://genpak-llc-2) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000127757588) |
+| Warehouse Trucker Operator (WTO) - Illinois | [Continental](https://continentalserves.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000127750539) |
 | Maintenance Technician Senior | [Syngenta](https://syngenta.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000127743309) |
+| Coordenador de Projetos | [MSX International](https://msxi.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013258726) |
+| Account Manager - North Bay | [Manitoulin Global Forwarding](https://manitoulingroup.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000127732291) |
 | Clow Valve - Iron Melt | [McWane](https://mcwane.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/McWaneInc/postings/3743990013257406) |
 | Kennedy Valve-Production Process Intern  | [McWane](https://mcwane.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/McWaneInc/postings/3743990013257104) |
+| EMPLOYE COMMERCIAL (H/F) boulangerie patisserie | [Genpak LLC](https://genpak-llc-2) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127724519) |
+| Demand & Portfolio Manager | [Inetum](https://inetum.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000127717109) |
 | Environmental Test Operator | [IonQ](https://ionq.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/ionq/jobs/5977330004) |
+| Chef boucher (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127715009) |
 | Head of Operations | [Icarus](https://icarus.one) | $150K–$500K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/icarus/jobs/5227794008) |
+| Scaling Associate - LEO | [University of Notre Dame](https://universityofnotredame.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013251969) |
 | Associate Manager, Core Annotations - PIPELINE | [Motive](https://gomotive.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/gomotive/jobs/8558342002) |
+| Archive Management Coordinator | [NBCUniversal](https://nbcuniversal.com) | $65K–$75K/yr | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000127697152) |
+| Systems Engineering Integrator | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $85K–$110K/yr | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000127693439) |
 | Pellet Mill Operator | [Enviva](https://envivabiomass.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/enviva/jobs/7733822003) |
 | People Operations Associate | [Monzo](https://monzo.com) | £34K–£40K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7946774) |
 | Mr D - Mid-level Business Operations Growth Analyst | [takealot.com](https://takealot.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/takealotcom/jobs/7938626) |
+| Inside Sales - Digital Auctions - Antwerpen | [AUTO1 Group](https://auto1-group.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000127674229) |
 | RAVE II, Demo Ops | [Mapbox](https://mapbox.com) | — | May 21 | [Apply](https://jobs.ashbyhq.com/mapbox/f596c22a-6a95-4912-a603-f52fd2bc5c80) |
 | Pellet Mill Operator | [Enviva](https://envivabiomass.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/enviva/jobs/7742149003) |
 | Bolti munkatárs - Wolt Market Óbuda | [Wolt](https://wolt.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7946558) |

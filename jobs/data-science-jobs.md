@@ -2,12 +2,13 @@
 
 Data science, machine learning, and AI engineering roles. Python, SQL, PyTorch, and beyond.
 
-**33 open roles** — Last updated: 2026-05-21
+**34 open roles** — Last updated: 2026-05-22
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Data Scientist | [Fliff](https://fliff.com) | — | May 21 | [Apply](https://jobs.lever.co/Fliff/55a65553-2b15-40ed-97f3-ccf8016bde0c) |
 | Principal Data Scientist (Machine Learning & AI) | [Sopra Steria](https://soprasteria.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/SopraSteria1/postings/744000127530379) |
 | Senior AI Engineer, Voice Platform | [ClickUp](https://clickup.com) | — | May 20 | [Apply](https://jobs.ashbyhq.com/clickup/ab3a5c0c-7f86-47e7-9001-055598908b6a) |
 | Senior Product Data Scientist | [Tripadvisor](https://tripadvisor.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/tripadvisor/jobs/7946763) |

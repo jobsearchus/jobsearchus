@@ -2,12 +2,13 @@
 
 Project and program management roles across tech, operations, and enterprise.
 
-**30 open roles** — Last updated: 2026-05-21
+**31 open roles** — Last updated: 2026-05-22
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Technical Project Manager (Identity) | [NBCUniversal](https://nbcuniversal.com) | $110K–$145K/yr | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000127706160) |
 | Technical Project Manager | [Keyfactor](https://keyfactor.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/keyfactorinc/jobs/6002432004) |
 | Lead Project Manager | [NCS](https://ncs.co) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001093802) |
 | Senior Project Manager | [Sopra Steria](https://soprasteria.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/SopraSteria1/postings/744000127531369) |

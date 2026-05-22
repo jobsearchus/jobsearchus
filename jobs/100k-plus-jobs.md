@@ -2,21 +2,26 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**243 open roles** — Last updated: 2026-05-21
+**248 open roles** — Last updated: 2026-05-22
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Software Engineer, Agent Orchestration | [Decagon](https://decagon.com) | $200K–$400K/yr | May 21 | [Apply](https://jobs.ashbyhq.com/decagon/d3fca82a-d8e9-43fd-9917-719b051d6aea) |
+| Senior Privacy and AI Counsel | [Harvey](https://harvey.com) | $210K–$265K/yr | May 21 | [Apply](https://jobs.ashbyhq.com/harvey/42f38d0c-b931-4edb-b988-a6c6e89f7701) |
+| GL Accountant | [Intercom](https://intercom.com) | $123K–$147K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7947756) |
 | Manager, Data Engineering | [HackerOne](https://hackerone.com) | $170K–$205K/yr | May 21 | [Apply](https://jobs.ashbyhq.com/hackerone/c8f46a18-3347-42e6-9fae-c0dbc3e89618) |
 | Senior AI Automation Engineer | [HackerOne](https://hackerone.com) | $160K–$200K/yr | May 21 | [Apply](https://jobs.ashbyhq.com/hackerone/ab97488e-b159-41e3-8a20-a40b91acbdc4) |
 | Technical Account Manager, East | [Hightouch](https://hightouch.com) | $165K–$250K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/hightouch/jobs/6000330004) |
 | Senior Product Designer, Agentic Vulnerability Elimination | [HackerOne](https://hackerone.com) | $100K–$123K/yr | May 21 | [Apply](https://jobs.ashbyhq.com/hackerone/30ce477b-714d-4468-8083-1445e257a74c) |
 | Head of Operations | [Icarus](https://icarus.one) | $150K–$500K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/icarus/jobs/5227794008) |
 | Senior Product Manager, Reports | [Owner.com](https://owner.com) | $190K–$230K/yr | May 21 | [Apply](https://jobs.ashbyhq.com/Owner/f8401e33-2c9f-449e-bd7b-6a44d4c2e6a3) |
+| Technical Project Manager (Identity) | [NBCUniversal](https://nbcuniversal.com) | $110K–$145K/yr | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000127706160) |
 | Business Development VP | [bswift](https://bswift.com) | $140K–$150K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/bswift/jobs/4682654006) |
 | Senior Account Executive, Start-ups (Austin or Chicago) | [Cloudflare](https://cloudflare.com) | $212K–$292K/yr | May 21 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7947935?gh_jid=7947935) |
 | Staff Satellite Operations Engineer | [IonQ](https://ionq.com) | $146K–$191K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/ionq/jobs/6000016004) |
+| Automotive Service Manager - Up to $100k & Weekends Off - Blue Valley | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | $100K/yr | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000127668498) |
 | Associate Creative Director, Art | [Salt XC](https://saltxc.com) | $120K–$130K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/saltxc/jobs/5143733007) |
 | AI Applied Scientist | [Wizard](https://wizard.com) | $225K–$280K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/wizardcommerce/jobs/6002368004) |
 | Technical Sourcer | [Sigma Computing](https://sigmacomputing.com) | $110K–$120K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/7742383003) |
