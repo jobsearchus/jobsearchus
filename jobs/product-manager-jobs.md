@@ -2,14 +2,18 @@
 
 Product manager roles at companies building real products. Sourced directly from career pages.
 
-**52 open roles** — Last updated: 2026-05-22
+**56 open roles** — Last updated: 2026-05-22
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | [쿠팡 Ads]Ad Product Strategist(Ads & Brand Solutions)[L6] | [Coupang](https://coupang.com) | — | May 22 | [Apply](https://boards.greenhouse.io/coupanginternal/jobs/7941861?gh_jid=7941861) |
+| Sr. Director of Product Engineering | [SecurityScorecard](https://securityscorecard.com) | $260K–$320K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/securityscorecard/jobs/7951969) |
+| Senior Employment Counsel | [xAI](https://x.ai) | $176K–$264K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/xai/jobs/5144826007) |
 | Principal Product Manager - Healthcare Technology (Remote) | [Experian](https://experianplc.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000127758379) |
+| Software Engineer, Servicing | [OnePay](https://onepay.com) | — | May 21 | [Apply](https://jobs.ashbyhq.com/oneapp/cbb93f57-75a6-4478-8323-046fdbff8840) |
+| Commercial Counsel | [Apollo.io](https://apollo.io) | — | May 21 | [Apply](https://job-boards.greenhouse.io/apolloio/jobs/6001983004) |
 | Product Operations Analyst - London | [Flagright](https://flagright.com) | — | May 21 | [Apply](https://jobs.ashbyhq.com/flagright.com/e06aef39-fdaf-44d5-8283-dbe3d8fb5c69) |
 | Senior Product Manager, Reports | [Owner.com](https://owner.com) | $190K–$230K/yr | May 21 | [Apply](https://jobs.ashbyhq.com/Owner/f8401e33-2c9f-449e-bd7b-6a44d4c2e6a3) |
 | Alternance chef de produit e-commerce F/H/X | [BUT](https://but.fr) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000127704885) |

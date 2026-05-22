@@ -2,12 +2,13 @@
 
 Remote creative roles — copywriters, content creators, graphic designers, and brand specialists.
 
-**29 open roles** — Last updated: 2026-05-22
+**30 open roles** — Last updated: 2026-05-22
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Middle Creative Copywriter | [BrainRocket](https://brainrocket.com) | — | May 21 | [Apply](https://job-boards.eu.greenhouse.io/brainrocketltd/jobs/4873176101) |
 | Brand Producer, Product Launches | [Figma](https://figma.com) | — | May 21 | [Apply](https://boards.greenhouse.io/figma/jobs/6000002004?gh_jid=6000002004) |
 | Associate Creative Director, Art | [Salt XC](https://saltxc.com) | $120K–$130K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/saltxc/jobs/5143733007) |
 | Technical Artist – Isometric Strategy Title (12-month contract) | [Blackbird Interactive](https://blackbirdinteractive.com) | — | May 21 | [Apply](https://jobs.lever.co/blackbirdinteractive/02567906-c547-4389-a1ed-909455d68374) |

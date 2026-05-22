@@ -2,15 +2,18 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**157 open roles** — Last updated: 2026-05-22
+**161 open roles** — Last updated: 2026-05-22
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Developer:Java,React,AWS | [Referrals Only](https://thoughtworks.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7952551) |
 | Intern, APAC Payroll | [Delivery Hero](https://deliveryhero.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000127798489) |
+| Director, Financial Planning & Analysis | [Zscaler](https://zscaler.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5132044007) |
 | Full Time Caregiver (AM) | [Silverado](https://silverado.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/silverado/jobs/5144678007) |
 | GL Accountant | [Intercom](https://intercom.com) | $123K–$147K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7947756) |
+| Financial Analyst | [PatientPoint](https://patientpoint.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/patientpoint/jobs/4697041005) |
 | Crypto Senior Accountant | [DRW](https://drw.com) | $100K–$130K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7939602) |
 | Fund Reporting - Associate / Assistant Vice President | [iCapital](https://icapital.com) | $80K–$110K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8535139002) |
 | Project Manager - Logistics | [AUTO1 Group](https://auto1-group.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000127678661) |
@@ -32,6 +35,7 @@ Remote finance, accounting, and analyst roles at companies of all sizes.
 | Finance Student | [VML MAP](https://vml-map.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/map/jobs/8559331002) |
 | Accounts Payable Assistant - Student Position | [Manitoulin Global Forwarding](https://manitoulingroup.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000127501033) |
 | Senior Indirect Tax Compliance Analyst | [GitLab](https://about.gitlab.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8555117002) |
+| Senior Analytics Engineer, GTM | [ClickHouse](https://clickhouse.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/clickhouse/jobs/6000537004) |
 | Accounting Manager | [Human Interest](https://humaninterest.com) | $130K–$155K/yr | May 20 | [Apply](https://job-boards.greenhouse.io/humaninterest/jobs/7944443) |
 | Finance Master Data Lead - HQ | [Delivery Hero](https://deliveryhero.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000127469520) |
 | Senior Credits & Collections Analyst  | [Twilio](https://twilio.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7918845) |

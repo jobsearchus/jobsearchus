@@ -2,13 +2,16 @@
 
 Backend, server-side, and API engineering roles. Node.js, Python, Go, Ruby, Java and beyond.
 
-**21 open roles** — Last updated: 2026-05-22
+**24 open roles** — Last updated: 2026-05-22
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | Backend Software Engineer 2 (UK) | [Sophos](https://sophos.com) | — | May 21 | [Apply](https://jobs.lever.co/sophos/fe3431b2-4e79-45f2-9dca-78c7902bc750) |
+| Staff Software Engineer (Backend) | [Varicent](https://varicent.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/varicent/jobs/5227386008) |
+| Staff Backend Developer | [Varicent](https://varicent.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/varicent/jobs/5227385008) |
+| Staff Backend Developer | [Varicent](https://varicent.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/varicent/jobs/5227382008) |
 | Senior Backend Engineer, Consumer Product  | [Flex](https://withflex.com) | $172K–$212K/yr | May 20 | [Apply](https://job-boards.greenhouse.io/flex/jobs/4694752005) |
 | PL Desenvolvimento Back-end (Node.js)  | [ília](https://lia.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/ilia/jobs/5998556004) |
 | Senior Back-End Engineer (Rust) - Software | [Truelogic](https://truelogic.com) | — | May 19 | [Apply](https://jobs.ashbyhq.com/truelogic/11e28e74-3355-4ac2-ab2a-d43d88e7d5d5) |

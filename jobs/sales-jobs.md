@@ -2,12 +2,14 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**324 open roles** — Last updated: 2026-05-22
+**328 open roles** — Last updated: 2026-05-22
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Account Executive, Enterprise (BeLux) | [Pure Storage](https://purestorage.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/7920652) |
+| Strategic Cybersecurity Advisor | [New Era Technology](https://neweratech.com) | $125K–$150K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8554991002) |
 | Enterprise Account Director (Commerce/CPG) | [StackAdapt](https://stackadapt.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/stackadapt/jobs/4254224009) |
 | Commercial Sr Analyst | [Delivery Hero](https://deliveryhero.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000127749626) |
 | Value Consultant | [Ashby](https://ashbyhq.com) | — | May 21 | [Apply](https://jobs.ashbyhq.com/ashby/e5863f7c-2238-410f-9a72-d40c944d2511) |
@@ -15,6 +17,8 @@ Remote sales roles — account executives, SDRs, and enterprise deals.
 | Field Service Consultant | [MSX International](https://msxi.com) | $80K–$100K/yr | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013259131) |
 | Seasonal Sales Associate (Part time) | [Primark Tiendas SLU](https://primark.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000127735399) |
 | Account Manager | [SmithRx](https://smithrx.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/smithrx/jobs/8560864002) |
+| Engagement Manager | [Scrunch](https://scrunch.com) | — | May 21 | [Apply](https://jobs.ashbyhq.com/scrunch/3517d4c7-f2f6-404d-90b4-895a05c5924c) |
+| Client Executive VP | [bswift](https://bswift.com) | $165K–$175K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/bswift/jobs/4682640006) |
 | Senior Sales Operations Manager | [Juniper Square](https://junipersquare.com) | $116K–$145K/yr | May 21 | [Apply](https://jobs.ashbyhq.com/junipersquare/8aaa87a5-c878-4595-8cd7-d86e063cde2d) |
 | Enterprise Sales Account Executive (English & German Speaking) | [Sectigo](https://sectigo.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Sectigo/postings/3743990013255837) |
 | Named Account Executive, Hong Kong | [Cloudflare](https://cloudflare.com) | — | May 21 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7868936?gh_jid=7868936) |

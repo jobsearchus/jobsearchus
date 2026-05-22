@@ -2,23 +2,41 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**550 open roles** — Last updated: 2026-05-22
+**571 open roles** — Last updated: 2026-05-22
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Expert(e) IBM Z  | [Devoteam](https://devoteam.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Devoteam/postings/744000127864578) |
+| Senior Software Engineer, Device Security | [Box](https://box.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/boxinc/jobs/7942589) |
+| Staff Apple Engineer (iOS / macOS) | [ExpressVPN](https://expressvpn.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/expressvpn/jobs/8561774002) |
+| Lead Technical Partner Enablement Engineer | [Zscaler](https://zscaler.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5128586007) |
+| ASIC Verification EEJ | [Bosch](https://bosch.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/BoschGroup/postings/744000127814124) |
+| Mold Tool Design Engineer (Able to work Aug 2026) | [Bosch](https://bosch.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/BoschGroup/postings/744000127813155) |
+| Data Partnerships Director | [The Trade Desk](https://thetradedesk.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5142535007) |
 | Software Engineer, Agent Orchestration | [Decagon](https://decagon.com) | $200K–$400K/yr | May 21 | [Apply](https://jobs.ashbyhq.com/decagon/d3fca82a-d8e9-43fd-9917-719b051d6aea) |
 | Senior Sourcing Manager, Silicon/EE Components | [ŌURA](https://ouraring.com) | $173K–$203K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/oura/jobs/4256861009) |
+| Director, Analytics Engineering & BI Platform (Remote Eligible) | [Smartsheet](https://smartsheet.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/smartsheet/jobs/7951990) |
+| Senior Product Manager - Credit Card | [OnePay](https://onepay.com) | — | May 21 | [Apply](https://jobs.ashbyhq.com/oneapp/aebb3a2c-509a-474f-94f5-c895fa4a6d1c) |
 | Associate Principal SDET | [Saviynt](https://saviynt.com) | — | May 21 | [Apply](https://jobs.lever.co/saviynt/2a6dc1e4-5053-41b4-b16a-78b0f08e2cb5) |
 | Senior Data Engineer | [Experian](https://experianplc.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000127759527) |
+| Senior Security Engineer II, Application Security (Remote Eligible) | [Smartsheet](https://smartsheet.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/smartsheet/jobs/7951907) |
 | Testing IA Discipline Software | [Inetum](https://inetum.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000127758199) |
+| Principal Product Builder, Deliverability & Connectivity | [Apollo.io](https://apollo.io) | — | May 21 | [Apply](https://job-boards.greenhouse.io/apolloio/jobs/6002001004) |
 | Senior Game Engineer - Graphics | [teamLFG](https://teamlfg.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/teamlfg/jobs/6003126004) |
+| People Operations Specialist | [Too Good To Go](https://toogoodtogo.com) | $70K–$73K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/toogoodtogo/jobs/7743330003) |
+| Senior Software Engineer, CCU | [Archer](https://archer.com) | $140K–$180K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7740908003) |
 | GTM Engineer (Marketing) | [Branch AI](https://branch-ai.com) | $120K–$135K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/branch/jobs/7743278003) |
 | Associate Director - Client Growth Partner  | [Nagarro](https://nagarro.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000127749619) |
 | IT Engineer – SysAdmin & Security (temporary contract) | [Applaudo](https://applaudo.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/ApplaudoStudios/postings/744000127749508) |
+| Manager, Engineering - Product Platform | [MyFitnessPal](https://myfitnesspal.com) | $170K–$190K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/myfitnesspal/jobs/7950414) |
+| Senior Manager, Optical Systems Test | [IonQ](https://ionq.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/ionq/jobs/5990654004) |
+| ECS Integration Engineer | [Archer](https://archer.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7740997003) |
 | Senior Manager, HR Business Partner | [StackAdapt](https://stackadapt.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/stackadapt/jobs/4256837009) |
+| Senior Manager, Corporate Technology | [Chainguard](https://chainguard.dev) | — | May 21 | [Apply](https://job-boards.greenhouse.io/chainguard/jobs/4682837006) |
 | GTM Engineer | [Juniper Square](https://junipersquare.com) | $115K–$150K/yr | May 21 | [Apply](https://jobs.ashbyhq.com/junipersquare/5dff3211-a5c9-47c8-b98c-a3d4719e1c88) |
+| Associate Survivability and Operations Analysis Engineer | [Archer](https://archer.com) | $70K–$97K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7719738003) |
 |  APRENDIZ TÉCNICO EM MECÂNICA | [O-I Glass](https://o-i.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/O-I/postings/744000127732259) |
 | Engineering Manager | [Kite](https://kite.video) | $151K–$201K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/kite/jobs/4683612006) |
 | Pesquisadora/Pesquisador Associado(a) II | [Syngenta](https://syngenta.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000127729423) |
@@ -27,6 +45,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Civil Engineer (1-3 yrs experience) | [KPFF Consulting Engineers](https://kpff.com) | $83K–$100K/yr | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/KPFFConsultingEngineers/postings/3743990013257286) |
 | Manager, Solutions Engineering, Mid-Market | [Hightouch](https://hightouch.com) | $250K–$280K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/hightouch/jobs/6002877004) |
 | Journeyman Truck & Trailer Mechanic | [Manitoulin Global Forwarding](https://manitoulingroup.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000127726599) |
+| Staff Technical Program Manager - Quantum Sensing | [IonQ](https://ionq.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/ionq/jobs/5998673004) |
 | Mechanical or Aerospace Engineer | [Stratolaunch](https://stratolaunch.com) | $83K–$121K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/stratolaunch/jobs/5228003008) |
 | Business Representative Representative I | [Diligent Corporation](https://diligent.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/diligentcorporation/jobs/5998292004) |
 | Apprenti Opérateur (contrat de 3 mois) | [O-I Glass](https://o-i.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/O-I/postings/744000127721809) |
@@ -57,6 +76,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Registered Behavior Technician (RBT) - Jacksonville, FL | [Brightstone Therapy](https://brightstonetherapy.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/brightstonetherapy/jobs/5143923007) |
 | Analytics Manager  | [takealot.com](https://takealot.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/takealotgroup/jobs/7946281) |
 | Senior Business Analyst | [Inetum](https://inetum.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000127650729) |
+| Senior Software Engineer - Postgres | [ClickHouse](https://clickhouse.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/clickhouse/jobs/6002395004) |
 | Senior Business Consultant  | [Inetum](https://inetum.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000127647429) |
 | Senior Accountant - Group Reporting | [WPP](https://wpp.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/wpp/jobs/8554622002) |
 | Senior Java Engineer, Remarketing (f/m/x) | [AUTO1 Group](https://auto1-group.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000127634802) |
@@ -102,6 +122,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Business Development Representative (BDR) | [Diligent Corporation](https://diligent.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/diligentcorporation/jobs/5743261004) |
 | Sr. Chemist, rhode | [e.l.f. Beauty](https://elfbeauty.com) | — | May 20 | [Apply](https://jobs.lever.co/elfbeauty/7b0e7d30-95f7-4a51-b51e-a8ed7b558005) |
 | 6348 - Validation Engineer / CQV Engineer | [Verista](https://verista.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/veristainc/jobs/5226885008) |
+| Senior Analytics Engineer, Product | [ClickHouse](https://clickhouse.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/clickhouse/jobs/6000543004) |
 | Student Laboratory Assistant | [University of Notre Dame](https://universityofnotredame.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013233904) |
 | Data ingénieur Java Scala Expérimenté | [Devoteam](https://devoteam.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Devoteam/postings/744000127490690) |
 | Mechanical Engineer  | [DLR Group](https://dlrgroup.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/dlrgroup/jobs/5224919008) |

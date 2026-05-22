@@ -2,12 +2,14 @@
 
 Data science, machine learning, and AI engineering roles. Python, SQL, PyTorch, and beyond.
 
-**34 open roles** — Last updated: 2026-05-22
+**36 open roles** — Last updated: 2026-05-22
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Engineer Manager - ML Data and Evaluation, Self-Driving Systems | [Applied Intuition](https://applied.co) | $256K–$346K/yr | May 21 | [Apply](https://boards.greenhouse.io/appliedintuition/jobs/4695889005?gh_jid=4695889005) |
+| Staff Forecasting Data Scientist | [Omada Health](https://omadahealth.com) | $202K–$253K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/omadahealth/jobs/7944334) |
 | Senior Data Scientist | [Fliff](https://fliff.com) | — | May 21 | [Apply](https://jobs.lever.co/Fliff/55a65553-2b15-40ed-97f3-ccf8016bde0c) |
 | Principal Data Scientist (Machine Learning & AI) | [Sopra Steria](https://soprasteria.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/SopraSteria1/postings/744000127530379) |
 | Senior AI Engineer, Voice Platform | [ClickUp](https://clickup.com) | — | May 20 | [Apply](https://jobs.ashbyhq.com/clickup/ab3a5c0c-7f86-47e7-9001-055598908b6a) |

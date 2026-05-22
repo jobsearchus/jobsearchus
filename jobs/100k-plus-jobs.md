@@ -2,17 +2,26 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**262 open roles** — Last updated: 2026-05-22
+**272 open roles** — Last updated: 2026-05-22
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Strategic Cybersecurity Advisor | [New Era Technology](https://neweratech.com) | $125K–$150K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8554991002) |
 | Software Engineer, Agent Orchestration | [Decagon](https://decagon.com) | $200K–$400K/yr | May 21 | [Apply](https://jobs.ashbyhq.com/decagon/d3fca82a-d8e9-43fd-9917-719b051d6aea) |
 | Senior Sourcing Manager, Silicon/EE Components | [ŌURA](https://ouraring.com) | $173K–$203K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/oura/jobs/4256861009) |
+| Sr. Director of Product Engineering | [SecurityScorecard](https://securityscorecard.com) | $260K–$320K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/securityscorecard/jobs/7952078) |
+| Sr. Director of Product Engineering | [SecurityScorecard](https://securityscorecard.com) | $260K–$320K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/securityscorecard/jobs/7951969) |
+| Strategy & Operations - Corporate Telecom Compliance Manager | [Twilio](https://twilio.com) | $129K–$161K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7951985) |
+| Senior Employment Counsel | [xAI](https://x.ai) | $176K–$264K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/xai/jobs/5144826007) |
 | Packaging Program Manager | [ŌURA](https://ouraring.com) | $173K–$203K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/oura/jobs/4257181009) |
 | Senior Design Engineer | [Juniper Square](https://junipersquare.com) | $170K–$210K/yr | May 21 | [Apply](https://jobs.ashbyhq.com/junipersquare/ff074ccc-e040-4f65-9f6c-7c7d0ea2a3fc) |
+| Senior Software Engineer, CCU | [Archer](https://archer.com) | $140K–$180K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7740908003) |
 | GTM Engineer (Marketing) | [Branch AI](https://branch-ai.com) | $120K–$135K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/branch/jobs/7743278003) |
+| Engineer Manager - ML Data and Evaluation, Self-Driving Systems | [Applied Intuition](https://applied.co) | $256K–$346K/yr | May 21 | [Apply](https://boards.greenhouse.io/appliedintuition/jobs/4695889005?gh_jid=4695889005) |
+| Manager, Engineering - Product Platform | [MyFitnessPal](https://myfitnesspal.com) | $170K–$190K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/myfitnesspal/jobs/7950414) |
+| Staff Forecasting Data Scientist | [Omada Health](https://omadahealth.com) | $202K–$253K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/omadahealth/jobs/7944334) |
 | Senior Privacy and AI Counsel | [Harvey](https://harvey.com) | $210K–$265K/yr | May 21 | [Apply](https://jobs.ashbyhq.com/harvey/42f38d0c-b931-4edb-b988-a6c6e89f7701) |
 | GL Accountant | [Intercom](https://intercom.com) | $123K–$147K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7947756) |
 | Senior Application Programmer (EBS) | [Horizon Industries](https://horizonindustries.com) | $140K–$150K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/horizonindustrieslimited/jobs/5228155008) |
@@ -20,6 +29,7 @@ Remote roles paying $100,000 or more per year. Salary data pulled directly from 
 | Crypto Senior Accountant | [DRW](https://drw.com) | $100K–$130K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7939602) |
 | Senior Technical Sourcer | [Discord](https://discord.com) | $132K–$149K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/discord/jobs/8552362002) |
 | Engineering Manager | [Kite](https://kite.video) | $151K–$201K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/kite/jobs/4683612006) |
+| Client Executive VP | [bswift](https://bswift.com) | $165K–$175K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/bswift/jobs/4682640006) |
 | Manager, Solutions Engineering, Mid-Market | [Hightouch](https://hightouch.com) | $250K–$280K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/hightouch/jobs/6002877004) |
 | Senior Sales Operations Manager | [Juniper Square](https://junipersquare.com) | $116K–$145K/yr | May 21 | [Apply](https://jobs.ashbyhq.com/junipersquare/8aaa87a5-c878-4595-8cd7-d86e063cde2d) |
 | Senior Customer Success Manager | [Vantage](https://vantage.com) | $140K–$160K/yr | May 21 | [Apply](https://jobs.ashbyhq.com/vantage/1e0cede2-df55-4d9b-bc8c-1386f1c46adc) |

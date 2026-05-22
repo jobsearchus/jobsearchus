@@ -2,17 +2,21 @@
 
 DevOps, platform engineering, and infrastructure roles. AWS, GCP, Kubernetes, Terraform.
 
-**24 open roles** — Last updated: 2026-05-22
+**28 open roles** — Last updated: 2026-05-22
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Posted | Apply |
 | --- | --- | --- | --- |
+| Senior DevOps Engineer | [Devoteam](https://devoteam.com) | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Devoteam/postings/744000127836159) |
 | Senior DevOps Engineer | [Experian](https://experianplc.com) | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000127759719) |
 | Software Engineer, Network Infrastructure | [Render](https://render.com) | May 21 | [Apply](https://jobs.ashbyhq.com/render/88cb74a4-bc28-40b1-b792-d3041e3e17d3) |
+| DC Devops Engineer | [Pure Storage](https://purestorage.com) | May 21 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/7944064) |
 | Senior DevOps Engineer (Remote Eligible in Bulgaria) | [Smartsheet](https://smartsheet.com) | May 21 | [Apply](https://job-boards.greenhouse.io/smartsheet/jobs/7949821) |
 | Senior Cloud Infrastructure Engineer  | [Dragos](https://dragos.com) | May 21 | [Apply](https://job-boards.greenhouse.io/dragos/jobs/5218498008) |
 | Senior SaaS Platform Engineer | [CapTech](https://captech.com) | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/CapTechConsulting/postings/744000127506009) |
+| Senior Platform Engineer - CL | [Referrals Only](https://thoughtworks.com) | May 20 | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7947251) |
+| Senior Platform Engineer - EC | [Referrals Only](https://thoughtworks.com) | May 20 | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7947254) |
 | Ingénieur Devops Informatica (H/F) Nearshore | [Devoteam](https://devoteam.com) | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Devoteam/postings/744000127489639) |
 | Experienced DevOps Engineer (REF5487V) | [Deutsche Telekom IT Solutions](https://deutschetelekomitsolutions.com) | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/DeutscheTelekomITSolutions/postings/744000127430430) |
 | ICT Infrastructure Architect | [Arηs Group](https://arsgroup.com) | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/ARHS/postings/744000127423412) |

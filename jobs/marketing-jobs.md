@@ -2,12 +2,13 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**148 open roles** — Last updated: 2026-05-22
+**150 open roles** — Last updated: 2026-05-22
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Account Executive, Planning (B2B) | [WPP Media](https://wppmedia.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5227546008) |
 | Marketing Manager | [ACCOR](https://group.accor.com) | $75K–$85K/yr | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000127767879) |
 | Reservations All Rounder | [ACCOR](https://group.accor.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000127766469) |
 | Manager, Market & Competitive Intelligence | [Volito Aviation August 2007](https://trustly.com) | — | May 21 | [Apply](https://jobs.lever.co/trustly/9993ac65-7e8b-4f17-8ef1-4a363cfb9f1c) |
@@ -16,6 +17,7 @@ Remote marketing roles across growth, content, brand, and performance channels.
 | Manager, Community Partnerships | [Wikimedia Foundation](https://wikimediafoundation.org) | — | May 21 | [Apply](https://job-boards.greenhouse.io/wikimedia/jobs/7859300) |
 | AI Engineer | [Natera](https://natera.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/natera/jobs/6001272004) |
 | Product Marketing Manager | [TRG Screen](https://trgscreen.com) | — | May 21 | [Apply](https://job-boards.eu.greenhouse.io/trgscreen/jobs/4873337101) |
+| Sr. Client Partner - TikTok | [Aleph](https://aleph.vc) | — | May 21 | [Apply](https://jobs.lever.co/aleph/8f5a5212-8df9-47e5-aeb8-db23a9d6a9f1) |
 | Marketing Planning Activation Manager | [Syngenta](https://syngenta.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000127728558) |
 | Retail Cleaner | [Entain](https://entaingroup.com) | £13/yr | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Entain/postings/744000127723435) |
 | Technical Product Manager | [Kunai](https://kunai.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/kunai/jobs/5124554007) |

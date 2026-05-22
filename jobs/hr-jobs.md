@@ -2,16 +2,18 @@
 
 Remote HR, recruiting, and people operations roles.
 
-**59 open roles** — Last updated: 2026-05-22
+**61 open roles** — Last updated: 2026-05-22
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Payroll Specialist | [The Trade Desk](https://thetradedesk.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5143750007) |
 | People Advisor | [BESIX](https://besix.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000127784480) |
 | Product Manager - AI | [Oscilar](https://oscilar.com) | — | May 21 | [Apply](https://jobs.ashbyhq.com/oscilar/a951fe3d-3784-47ba-99b7-11117676d20e) |
 | Total Rewards and Analytics Lead | [Decagon](https://decagon.com) | — | May 21 | [Apply](https://jobs.ashbyhq.com/decagon/7c7c3e1d-53c6-445e-89fe-44b94135d6b6) |
 | Senior Technical Sourcer | [Discord](https://discord.com) | $132K–$149K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/discord/jobs/8552362002) |
+| Department Coordinator | [DH Pace Company](https://dhpace.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5227797008) |
 | Senior HR Generalist | [Honeycomb.io](https://honeycomb.io) | — | May 21 | [Apply](https://job-boards.greenhouse.io/honeycomb/jobs/5227819008) |
 | Automotive Technician / Mechanic - Up to $45/Hr & Weekends Off - Blue Valley | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | $45/yr | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000127675562) |
 | Regional Digital HR Specialist | [Egis](https://egis-group.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000127640814) |

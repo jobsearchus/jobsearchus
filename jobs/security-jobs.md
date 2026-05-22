@@ -2,12 +2,13 @@
 
 Remote cybersecurity, information security, and security engineering roles.
 
-**43 open roles** — Last updated: 2026-05-22
+**44 open roles** — Last updated: 2026-05-22
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Devoteam Cyber Trust  - SOC Analyst - FinTech Sector | [Devoteam](https://devoteam.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Devoteam/postings/744000127845745) |
 | Sr. Security Architect | [AnaVation](https://anavation.com) | — | May 21 | [Apply](https://jobs.lever.co/anavationllc/660e6aa8-a64f-4ace-aa6c-40e197ea0301) |
 | Security Solutions Consultant (via 3rd party) | [Sophos](https://sophos.com) | — | May 21 | [Apply](https://jobs.lever.co/sophos/c4c977bd-6509-416d-8d47-f70512305b4f) |
 | Security Engineer - Detection & Response (Japan) | [xAI](https://x.ai) | — | May 21 | [Apply](https://job-boards.greenhouse.io/xai/jobs/5143756007) |
