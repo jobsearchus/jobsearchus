@@ -2,12 +2,15 @@
 
 Product manager roles at companies building real products. Sourced directly from career pages.
 
-**57 open roles** — Last updated: 2026-05-22
+**60 open roles** — Last updated: 2026-05-22
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Apartment Manager | [WellPower - All External Jobs](https://wellpower.org) | — | May 22 | [Apply](https://job-boards.greenhouse.io/mentalhealthcenterofdenver/jobs/7743092003) |
+| Product Manager, Accounts   | [Alpaca](https://alpaca.markets) | — | May 22 | [Apply](https://job-boards.greenhouse.io/alpaca/jobs/6002028004) |
+| Lead Product Manager, Workforce | [Clear Gene](https://cleargene.com) | $275K–$350K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/clear/jobs/7927500) |
 | Product Manager | [NEC Software Solutions](https://necsoftwaresolutions.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/NECSWS/postings/744000127832007) |
 | [쿠팡 Ads]Ad Product Strategist(Ads & Brand Solutions)[L6] | [Coupang](https://coupang.com) | — | May 22 | [Apply](https://boards.greenhouse.io/coupanginternal/jobs/7941861?gh_jid=7941861) |
 | Sr. Director of Product Engineering | [SecurityScorecard](https://securityscorecard.com) | $260K–$320K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/securityscorecard/jobs/7951969) |

@@ -2,12 +2,13 @@
 
 Data science, machine learning, and AI engineering roles. Python, SQL, PyTorch, and beyond.
 
-**39 open roles** — Last updated: 2026-05-22
+**40 open roles** — Last updated: 2026-05-22
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior AI Engineer | [GitLab](https://about.gitlab.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8556658002) |
 | Machine Learning Engineering Manager - Evaluations | [Canva](https://canva.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001098974) |
 | Machine Learning Engineering Manager - Evaluations | [Canva](https://canva.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001098969) |
 | Assistant Data Scientist | [Experian](https://experianplc.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000127827611) |

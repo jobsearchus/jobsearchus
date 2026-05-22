@@ -2,13 +2,18 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**331 open roles** — Last updated: 2026-05-22
+**336 open roles** — Last updated: 2026-05-22
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Regional Vice President, West - Remote - CA  | [Grafana Labs](https://grafana.com) | $450K–$490K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6004409004) |
+| Account Manager | [Moonpig Group](https://moonpiggroup.com) | — | May 22 | [Apply](https://jobs.lever.co/moonpig/9fe3f91c-4bba-4a07-be05-4f2fe3cb6351) |
 | Key account manager | [Continental](https://continentalserves.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000127901894) |
+| Senior Account Executive (via 3rd party) | [Sophos](https://sophos.com) | — | May 22 | [Apply](https://jobs.lever.co/sophos/3a4218fb-f136-41a7-b74d-55dddc96e930) |
+| Manager, Account Management | [Coupang](https://coupang.com) | — | May 22 | [Apply](https://boards.greenhouse.io/coupanginternal/jobs/7924300?gh_jid=7924300) |
+| Manager, Account Management | [Coupang](https://coupang.com) | — | May 22 | [Apply](https://boards.greenhouse.io/coupanginternal/jobs/7681542?gh_jid=7681542) |
 | Account Executive, Enterprise (BeLux) | [Pure Storage](https://purestorage.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/7920652) |
 | Strategic Cybersecurity Advisor | [New Era Technology](https://neweratech.com) | $125K–$150K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8554991002) |
 | Assistant Account Manager/ Business Development  | [Avery Dennison](https://averydennison.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000127800839) |

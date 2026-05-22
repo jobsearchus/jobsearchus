@@ -2,19 +2,26 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**363 open roles** — Last updated: 2026-05-22
+**371 open roles** — Last updated: 2026-05-22
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| PT Market Medical Director - Bay Area | [Pine Park Health](https://pineparkhealth.com) | $230K–$285K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/pineparkhealth/jobs/6004623004) |
+| Occupational Therapist, OT ($15,000 Bonus!) | [InHomeTherapy](https://inhometherapy.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/inhometherapy/jobs/5145439007) |
+| LVN - LPT | [Crestwood Behavioral Health](https://crestwoodbehavioralhealth.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/crestwoodcareers/jobs/7747005003) |
+| Senior Director, Solution Architecture - North America | [GitLab](https://about.gitlab.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8561219002) |
+| Senior Director, Commercial Strategy & Programs | [Impiricus](https://impiricus.com) | $170K–$220K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/impiricus/jobs/5228920008) |
 | PLONGEUR (SE) CDI 30 Heures Hebdomadaires  | [ACCOR](https://group.accor.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000127940860) |
+| Customer Success Team Lead - Amman, JOR | [Genpak LLC](https://genpak-llc-2) | — | May 22 | [Apply](https://job-boards.greenhouse.io/kitchenpark/jobs/8557823002) |
 | EMPLOYE(E) BOULANGERIE PATISSERIE 26H00 HEBDO | [Genpak LLC](https://genpak-llc-2) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127920425) |
 | INTERMARCHE - HOTE(SSE) de CAISSE - EMPLOYE COMMERCIAL POLYVALENT (H/F) - CDI tps complet | [Genpak LLC](https://genpak-llc-2) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127917460) |
 | Meccanico Diagnostico - Specialista diagnostica veicoli | [AUTO1 Group](https://auto1-group.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000127917499) |
 | Test Driver – Specialista Validazione e Collaudo | [AUTO1 Group](https://auto1-group.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000127913220) |
 | Perito Tecnico Auto PAVIA – Valuta, Verifica, Garantisce | [AUTO1 Group](https://auto1-group.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000127916978) |
 | Préparateur Drive  (H/F) - CDI Temps complet | [Genpak LLC](https://genpak-llc-2) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127911910) |
+| Product Owner, WPP Open – Product Framework (One Architecture)  | [WPP](https://wpp.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/wpp/jobs/8539369002) |
 | Serveur - H/F | [Genpak LLC](https://genpak-llc-2) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000127901611) |
 | BestDrive Retread Technician | [Continental](https://continentalserves.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000127897542) |
 | Chargé d'accueil et de services hôteliers - H/F | [Genpak LLC](https://genpak-llc-2) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000127874789) |
@@ -22,6 +29,7 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Registered Nurse | [Healthcare Australia](https://healthcareaustralia.com.au) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/HealthcareAustralia1/postings/6000000001096555) |
 | Supervisor de turno- Farmacéutico | [Delivery Hero](https://deliveryhero.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000127765838) |
 | Housekeeper | [Crestwood Behavioral Health](https://crestwoodbehavioralhealth.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/crestwoodcareers/jobs/7746543003) |
+| Full Time Caregiver (NOC) | [Silverado](https://silverado.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/silverado/jobs/5144829007) |
 | Full Time Caregiver (Multiple Shifts) | [Silverado](https://silverado.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/silverado/jobs/5144714007) |
 | Automotive Technician / Mechanic - Weekends Off - Chandler  | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000127758414) |
 | Director of Growth Solutions | [The Trade Desk](https://thetradedesk.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5144719007) |

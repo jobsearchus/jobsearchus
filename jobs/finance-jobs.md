@@ -2,7 +2,7 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**172 open roles** — Last updated: 2026-05-22
+**173 open roles** — Last updated: 2026-05-22
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -12,6 +12,7 @@ Remote finance, accounting, and analyst roles at companies of all sizes.
 | Private Banker | [Standard Bank](https://standardbank.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000127932099) |
 | Assistant Management Accountant (18 month FTC) | [Anglo American](https://angloamerican.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000127926479) |
 | Planning Manager | [Standard Bank](https://standardbank.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000127912775) |
+| FP&A Analyst | [Array Labs](https://arraylabs.io) | — | May 22 | [Apply](https://boards.greenhouse.io/array/jobs/6003611004?gh_jid=6003611004) |
 | Senior Commercial Finance Analyst | [NBCUniversal](https://nbcuniversal.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000127881749) |
 | Senior Accountant for Netcompany Banking Services (f/m) | [Netcompany](https://netcompany.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000127858535) |
 | Fianace Coordinator Shelter | [Avery Dennison](https://averydennison.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000127857946) |

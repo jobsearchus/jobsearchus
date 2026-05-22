@@ -2,17 +2,19 @@
 
 Remote jobs open to candidates with 0–2 years of experience. A real way in — no degree gatekeeping.
 
-**371 open roles** — Last updated: 2026-05-22
+**376 open roles** — Last updated: 2026-05-22
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| LVN - LPT | [Crestwood Behavioral Health](https://crestwoodbehavioralhealth.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/crestwoodcareers/jobs/7747005003) |
 | PLONGEUR (SE) CDI 30 Heures Hebdomadaires  | [ACCOR](https://group.accor.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000127940860) |
 | EMPLOYE(E) BOULANGERIE PATISSERIE 26H00 HEBDO | [Genpak LLC](https://genpak-llc-2) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127920425) |
 | INTERMARCHE - HOTE(SSE) de CAISSE - EMPLOYE COMMERCIAL POLYVALENT (H/F) - CDI tps complet | [Genpak LLC](https://genpak-llc-2) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127917460) |
 | Préparateur Drive  (H/F) - CDI Temps complet | [Genpak LLC](https://genpak-llc-2) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127911910) |
 | Serveur - H/F | [Genpak LLC](https://genpak-llc-2) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000127901611) |
+| Junior Software Analytics Engineer | [takealot.com](https://takealot.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/takealotgroup/jobs/7953913) |
 | BestDrive Service Technician | [Continental](https://continentalserves.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000127898324) |
 | BestDrive Retread Technician | [Continental](https://continentalserves.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000127897542) |
 | Associate Executive - Secretarial | [IQ-EQ](https://iqeq.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000127888314) |
@@ -27,6 +29,7 @@ Remote jobs open to candidates with 0–2 years of experience. A real way in —
 | Bilingual Customer Service Representative | [Genpak LLC](https://genpak-llc-2) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000127765019) |
 | Bilingual Customer Service Specialist | [Genpak LLC](https://genpak-llc-2) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000127765598) |
 | Housekeeper | [Crestwood Behavioral Health](https://crestwoodbehavioralhealth.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/crestwoodcareers/jobs/7746543003) |
+| Full Time Caregiver (NOC) | [Silverado](https://silverado.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/silverado/jobs/5144829007) |
 | Full Time Caregiver (Multiple Shifts) | [Silverado](https://silverado.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/silverado/jobs/5144714007) |
 | General Service Technician / Mechanic - Up to $20/HR & Weekends Off - Ducktown | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | $20/yr | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000127757877) |
 | Backserver (Seasonal Part-time) - Soho Warehouse DTLA | [Soho House](https://sohohouse.com) | — | May 21 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4872318101) |
@@ -35,6 +38,7 @@ Remote jobs open to candidates with 0–2 years of experience. A real way in —
 | Field Service Consultant | [MSX International](https://msxi.com) | $80K–$100K/yr | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013259456) |
 | Cashier | [Pilot Flying J](https://pilotflyingj.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/PilotCompany/postings/744000127736759) |
 | DoD SkillBridge Internship: Junior Estimator | [JRM Construction Management, LLC](https://jrmcm.com) | $65K–$90K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/jrmconstructionmanagementllc/jobs/4682707006) |
+| DoD SkillBridge Internship: Project Engineer | [JRM Construction Management, LLC](https://jrmcm.com) | $65K–$90K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/jrmconstructionmanagementllc/jobs/4682708006) |
 | DoD SkillBridge Internship: Assistant Superintendent | [JRM Construction Management, LLC](https://jrmcm.com) | $65K–$90K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/jrmconstructionmanagementllc/jobs/4682705006) |
 |  APRENDIZ TÉCNICO EM MECÂNICA | [O-I Glass](https://o-i.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/O-I/postings/744000127732259) |
 | ESTAGIÁRIO TÉCNICO MECÂNICA INDUSTRIAL | [O-I Glass](https://o-i.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/O-I/postings/744000127730969) |
@@ -87,6 +91,7 @@ Remote jobs open to candidates with 0–2 years of experience. A real way in —
 | Fuel Attendant | [Pilot Flying J](https://pilotflyingj.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/PilotCompany/postings/744000127527275) |
 | Cleaner | [Greene King](https://greeneking.co.uk) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/GreeneKing/postings/744000127524818) |
 | Onboarding Specialist | [Squire Technologies](https://getsquire.com) | — | May 20 | [Apply](https://jobs.lever.co/getsquire/b81fe423-5d82-4650-b2b6-460fd5a192c8) |
+| Scale House Operator | [Enviva](https://envivabiomass.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/enviva/jobs/7742073003) |
 | Health Science Research Intern | [ŌURA](https://ouraring.com) | $50/yr | May 20 | [Apply](https://job-boards.greenhouse.io/oura/jobs/4251441009) |
 | Fleet & Facilities Associate (Overnight) | [Nabis](https://nabis.com) | $20/yr | May 20 | [Apply](https://job-boards.greenhouse.io/nabis/jobs/6001682004) |
 | Enrollment Success Specialist | [Aviation Institute of Maintenance](https://aviationmaintenance.edu) | $25/yr | May 20 | [Apply](https://job-boards.greenhouse.io/aviationinstituteofmaintenance/jobs/5226070008) |

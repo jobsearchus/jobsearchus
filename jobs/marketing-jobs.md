@@ -2,14 +2,18 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**151 open roles** — Last updated: 2026-05-22
+**155 open roles** — Last updated: 2026-05-22
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Content Marketing Lead | [Mighty Health](https://mightyhealth.com) | $110K–$160K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/mighty/jobs/6004642004) |
+| Senior Manager, Marketing Operations | [Socure](https://socure.com) | — | May 22 | [Apply](https://jobs.ashbyhq.com/socure/fc865d8f-455b-460f-9fc0-7e0f272be3d7) |
 | Associate Staff Consultant (Sales & Marketing) | [Nagarro](https://nagarro.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000127874358) |
 | Account Executive, Planning (B2B) | [WPP Media](https://wppmedia.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5227546008) |
+| Associate-Growth Operations | [Razorpay Software Private Limited](https://razorpay.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4696281005) |
+| Brand Management Specialist  [L4] (Books: Contract) | [Coupang](https://coupang.com) | — | May 22 | [Apply](https://boards.greenhouse.io/coupanginternal/jobs/7952747?gh_jid=7952747) |
 | Marketing Manager | [ACCOR](https://group.accor.com) | $75K–$85K/yr | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000127767879) |
 | Reservations All Rounder | [ACCOR](https://group.accor.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000127766469) |
 | Manager, Market & Competitive Intelligence | [Volito Aviation August 2007](https://trustly.com) | — | May 21 | [Apply](https://jobs.lever.co/trustly/9993ac65-7e8b-4f17-8ef1-4a363cfb9f1c) |

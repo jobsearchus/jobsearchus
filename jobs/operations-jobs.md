@@ -2,16 +2,22 @@
 
 Remote operations and business operations roles across industries.
 
-**375 open roles** — Last updated: 2026-05-22
+**383 open roles** — Last updated: 2026-05-22
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Events Manager  | [Cantina](https://cantina.com) | $140K–$180K/yr | May 22 | [Apply](https://jobs.ashbyhq.com/cantina/4ff89979-0351-4e39-acef-69a33c8a8457) |
+| Strategic Project Lead | [Turing College](https://turingcollege.com) | $120K–$150K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/turing/jobs/5995232004) |
+| Onboarding Manager, Customer Experience (São Paulo, Brazil) | [Figma](https://figma.com) | — | May 22 | [Apply](https://boards.greenhouse.io/figma/jobs/6000248004?gh_jid=6000248004) |
 | FR - Agent/Technicien de maintenance (H/F/X) | [ACCOR](https://group.accor.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000127938329) |
 | Heavy Equipment Technician, Contract, Fly In Fly Out – Gahcho Kué Mine, Northwest Territories  | [Anglo American](https://angloamerican.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000127924509) |
 | Técnico(a) Manutenção Eletrica Filtragem II | [Anglo American](https://angloamerican.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000127907227) |
 | Intermediate Government Contracts Professional | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $65K–$75K/yr | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000127893118) |
+| Product Developer | [Gymshark](https://gymshark.com) | — | May 22 | [Apply](https://job-boards.eu.greenhouse.io/gymshark/jobs/4873887101) |
+| CX Resource & Staffing Manager, EMEA | [GitLab](https://about.gitlab.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8558222002) |
+| Lead Software Development Engineer | [Razorpay Software Private Limited](https://razorpay.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4684256005) |
 | Gym Manager | [Frasers Group](https://frasersgroup.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000127853319) |
 | Gym General Manager | [Frasers Group](https://frasersgroup.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000127852909) |
 | Assistant General Manager | [Frasers Group](https://frasersgroup.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000127833746) |
@@ -26,6 +32,7 @@ Remote operations and business operations roles across industries.
 | Procurement Manager | [Healthcare Australia](https://healthcareaustralia.com.au) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/HealthcareAustralia1/postings/6000000001096063) |
 | General Service Technician / Mechanic - Up to $20/HR & Weekends Off - Ducktown | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | $20/yr | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000127757877) |
 | Associate - Training | [Genpak LLC](https://genpak-llc-2) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000127757588) |
+| Clinical Case Manager II - Competency Diversion Navigator  | [WellPower - All External Jobs](https://wellpower.org) | $30/yr | May 21 | [Apply](https://job-boards.greenhouse.io/mentalhealthcenterofdenver/jobs/7743104003) |
 | Warehouse Trucker Operator (WTO) - Illinois | [Continental](https://continentalserves.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000127750539) |
 | Backserver (Seasonal Part-time) - Soho Warehouse DTLA | [Soho House](https://sohohouse.com) | — | May 21 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4872318101) |
 | Maintenance Technician Senior | [Syngenta](https://syngenta.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000127743309) |
@@ -75,6 +82,7 @@ Remote operations and business operations roles across industries.
 | Project Management.Support | [Experian](https://experianplc.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000127521439) |
 | Director, Indirect Procurement | [Relativity Space](https://relativityspace.com) | — | May 20 | [Apply](https://boards.greenhouse.io/relativity/jobs/8557530002?gh_jid=8557530002) |
 | Truck & Trailer Mechanic | [Manitoulin Global Forwarding](https://manitoulingroup.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000127516969) |
+| Scale House Operator | [Enviva](https://envivabiomass.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/enviva/jobs/7742073003) |
 | Lead Associated Account Director (Political) | [The Trade Desk](https://thetradedesk.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5141490007) |
 | Fleet & Facilities Associate (Overnight) | [Nabis](https://nabis.com) | $20/yr | May 20 | [Apply](https://job-boards.greenhouse.io/nabis/jobs/6001682004) |
 | Chauffeur-livreur Classe 5, salaire moyen de 32,00$ h et plus,avantages sociaux incomparables. | [Manitoulin Global Forwarding](https://manitoulingroup.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000127507120) |

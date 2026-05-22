@@ -2,12 +2,13 @@
 
 Remote HR, recruiting, and people operations roles.
 
-**63 open roles** — Last updated: 2026-05-22
+**64 open roles** — Last updated: 2026-05-22
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Recruiting Coordinator | [Render](https://render.com) | — | May 22 | [Apply](https://jobs.ashbyhq.com/render/9ea0f458-30ca-48ca-a3e3-3db386bafee4) |
 | Senior IT Recruiter | [Miratech](https://miratech.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000127877979) |
 | Payroll Specialist | [The Trade Desk](https://thetradedesk.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5143750007) |
 | Automotive Technician - Up to $52/Hr & Brand New Facility - Millard | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | $52/yr | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000127796489) |

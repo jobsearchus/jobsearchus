@@ -2,14 +2,18 @@
 
 Remote creative roles — copywriters, content creators, graphic designers, and brand specialists.
 
-**33 open roles** — Last updated: 2026-05-22
+**37 open roles** — Last updated: 2026-05-22
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Lighting Artist (7-month contract) | [Blackbird Interactive](https://blackbirdinteractive.com) | — | May 22 | [Apply](https://jobs.lever.co/blackbirdinteractive/e87e47be-d34b-49e2-884e-7eff76ad8f8a) |
+| Senior 2D Animator (Casual/Puzzle) | [Sun Studio](https://sunstudio.com) | — | May 22 | [Apply](https://jobs.lever.co/sunstudio/4cc072a0-4b62-4c2e-8d23-ed23e85e3dba) |
 | Producer, Audio, NBC News Here's the Scoop Podcast | [NBCUniversal](https://nbcuniversal.com) | $93K–$110K/yr | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000127881459) |
 | Senior Manager, Contract Management | [NBCUniversal](https://nbcuniversal.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000127872983) |
+| Integrated Designer (Digital + Print)  | [Genpak LLC](https://genpak-llc-2) | — | May 22 | [Apply](https://job-boards.greenhouse.io/brandtechplus/jobs/7912027) |
+|  Motion Designer  | [Genpak LLC](https://genpak-llc-2) | — | May 22 | [Apply](https://job-boards.greenhouse.io/brandtechplus/jobs/7912022) |
 | Producer, Subscription, NBC News Digital Video | [NBCUniversal](https://nbcuniversal.com) | $93K–$120K/yr | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000127757884) |
 | Middle Creative Copywriter | [BrainRocket](https://brainrocket.com) | — | May 21 | [Apply](https://job-boards.eu.greenhouse.io/brainrocketltd/jobs/4873176101) |
 | Brand Producer, Product Launches | [Figma](https://figma.com) | — | May 21 | [Apply](https://boards.greenhouse.io/figma/jobs/6000002004?gh_jid=6000002004) |

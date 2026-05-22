@@ -2,12 +2,20 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**272 open roles** — Last updated: 2026-05-22
+**280 open roles** — Last updated: 2026-05-22
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Software Engineer, Native Delivery | [Hightouch](https://hightouch.com) | $180K–$320K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/hightouch/jobs/6004706004) |
+| Content Marketing Lead | [Mighty Health](https://mightyhealth.com) | $110K–$160K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/mighty/jobs/6004642004) |
+| PT Market Medical Director - Bay Area | [Pine Park Health](https://pineparkhealth.com) | $230K–$285K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/pineparkhealth/jobs/6004623004) |
+| Regional Vice President, West - Remote - CA  | [Grafana Labs](https://grafana.com) | $450K–$490K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6004409004) |
+| Events Manager  | [Cantina](https://cantina.com) | $140K–$180K/yr | May 22 | [Apply](https://jobs.ashbyhq.com/cantina/4ff89979-0351-4e39-acef-69a33c8a8457) |
+| Senior Director, Commercial Strategy & Programs | [Impiricus](https://impiricus.com) | $170K–$220K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/impiricus/jobs/5228920008) |
+| Strategic Project Lead | [Turing College](https://turingcollege.com) | $120K–$150K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/turing/jobs/5995232004) |
+| Lead Product Manager, Workforce | [Clear Gene](https://cleargene.com) | $275K–$350K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/clear/jobs/7927500) |
 | Strategic Cybersecurity Advisor | [New Era Technology](https://neweratech.com) | $125K–$150K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8554991002) |
 | Software Engineer, Agent Orchestration | [Decagon](https://decagon.com) | $200K–$400K/yr | May 21 | [Apply](https://jobs.ashbyhq.com/decagon/d3fca82a-d8e9-43fd-9917-719b051d6aea) |
 | Senior Sourcing Manager, Silicon/EE Components | [ŌURA](https://ouraring.com) | $173K–$203K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/oura/jobs/4256861009) |
