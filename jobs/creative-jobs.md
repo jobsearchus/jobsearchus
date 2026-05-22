@@ -2,12 +2,15 @@
 
 Remote creative roles — copywriters, content creators, graphic designers, and brand specialists.
 
-**30 open roles** — Last updated: 2026-05-22
+**33 open roles** — Last updated: 2026-05-22
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Producer, Audio, NBC News Here's the Scoop Podcast | [NBCUniversal](https://nbcuniversal.com) | $93K–$110K/yr | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000127881459) |
+| Senior Manager, Contract Management | [NBCUniversal](https://nbcuniversal.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000127872983) |
+| Producer, Subscription, NBC News Digital Video | [NBCUniversal](https://nbcuniversal.com) | $93K–$120K/yr | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000127757884) |
 | Middle Creative Copywriter | [BrainRocket](https://brainrocket.com) | — | May 21 | [Apply](https://job-boards.eu.greenhouse.io/brainrocketltd/jobs/4873176101) |
 | Brand Producer, Product Launches | [Figma](https://figma.com) | — | May 21 | [Apply](https://boards.greenhouse.io/figma/jobs/6000002004?gh_jid=6000002004) |
 | Associate Creative Director, Art | [Salt XC](https://saltxc.com) | $120K–$130K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/saltxc/jobs/5143733007) |

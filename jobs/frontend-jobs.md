@@ -2,12 +2,13 @@
 
 Frontend engineering roles. React, Vue, Angular, TypeScript — direct from company career pages.
 
-**8 open roles** — Last updated: 2026-05-22
+**9 open roles** — Last updated: 2026-05-22
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Middle/Senior Front-End Developer (React/TypeScript) | [Sigma Software](https://sigmasoftware.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/SigmaSoftware2/postings/744000127830904) |
 | Senior Front End Engineer | [Abacum](https://abacum.ai) | — | May 21 | [Apply](https://jobs.ashbyhq.com/abacum/363d45fd-7117-483e-8c2b-7d7b0c765380) |
 | Frontend Engineer - Rich Content | [Wix.com](https://wix.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Wix2/postings/744000127412284) |
 | Frontend Engineer III, Box Apps | [Box](https://box.com) | — | May 19 | [Apply](https://job-boards.greenhouse.io/boxinc/jobs/7926463) |

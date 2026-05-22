@@ -2,14 +2,16 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**328 open roles** — Last updated: 2026-05-22
+**331 open roles** — Last updated: 2026-05-22
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Key account manager | [Continental](https://continentalserves.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000127901894) |
 | Account Executive, Enterprise (BeLux) | [Pure Storage](https://purestorage.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/7920652) |
 | Strategic Cybersecurity Advisor | [New Era Technology](https://neweratech.com) | $125K–$150K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8554991002) |
+| Assistant Account Manager/ Business Development  | [Avery Dennison](https://averydennison.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000127800839) |
 | Enterprise Account Director (Commerce/CPG) | [StackAdapt](https://stackadapt.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/stackadapt/jobs/4254224009) |
 | Commercial Sr Analyst | [Delivery Hero](https://deliveryhero.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000127749626) |
 | Value Consultant | [Ashby](https://ashbyhq.com) | — | May 21 | [Apply](https://jobs.ashbyhq.com/ashby/e5863f7c-2238-410f-9a72-d40c944d2511) |
@@ -61,6 +63,7 @@ Remote sales roles — account executives, SDRs, and enterprise deals.
 | Director of Solutions Architecture | [Diligent Corporation](https://diligent.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/diligentcorporation/jobs/5994317004) |
 | Senior Director Commercial - tMart | [Delivery Hero](https://deliveryhero.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000127489899) |
 | Manager, Technical Success | [Zscaler](https://zscaler.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5136270007) |
+| Associate Sales Professional - Moncton | [Manitoulin Global Forwarding](https://manitoulingroup.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000127482651) |
 | Key Account Manager – Chinese Market | [Tripadvisor](https://tripadvisor.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/tripadvisor/jobs/7921026) |
 | VENDEUR CONSEIL - CDI TEMPS PARTIEL H/F | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000127469980) |
 | GM, Technical Account Management | [The Trade Desk](https://thetradedesk.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5141528007) |

@@ -2,18 +2,35 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**571 open roles** — Last updated: 2026-05-22
+**588 open roles** — Last updated: 2026-05-22
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Maintenance Technician | [ACCOR](https://group.accor.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000127936628) |
+| Ploegbaas Electriciteit - Industriële Laag- en Hoogspanning | [BESIX](https://besix.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000127892744) |
+| Monteur Electriciteit - Industriële Laag- & Hoogspanning | [BESIX](https://besix.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000127891150) |
+| Sr Data Analyst | [MSX International](https://msxi.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013268966) |
+| Amazon Connect Bisness Architect | [Miratech](https://miratech.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000127889046) |
+| Senior Technical Project Manager (Telecom) | [Miratech](https://miratech.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000127877719) |
+| Service Delivery Manager | [Miratech](https://miratech.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000127874190) |
+| Customer Success Manager | [Playtech](https://playtech.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Playtech/postings/744000127870189) |
+| Staff Engineer, GENERATIVE-AI | [Nagarro](https://nagarro.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000127865079) |
 | Expert(e) IBM Z  | [Devoteam](https://devoteam.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Devoteam/postings/744000127864578) |
+| Senior Software Engineer (.Net) | [Experian](https://experianplc.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000127856249) |
 | Senior Software Engineer, Device Security | [Box](https://box.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/boxinc/jobs/7942589) |
+| Ingénieur(e) Conception Mécanique confirmé (F/H) | [Egis](https://egis-group.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000127836960) |
+| Senior BIM Engineer - ELV | [Egis](https://egis-group.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000127830351) |
 | Staff Apple Engineer (iOS / macOS) | [ExpressVPN](https://expressvpn.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/expressvpn/jobs/8561774002) |
+| Japanese Data Labeller | [Canva](https://canva.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001098875) |
 | Lead Technical Partner Enablement Engineer | [Zscaler](https://zscaler.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5128586007) |
+| Service Desk Agent | [Netcompany](https://netcompany.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000127819229) |
+| Data Analyst | [Frasers Group](https://frasersgroup.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000127815624) |
 | ASIC Verification EEJ | [Bosch](https://bosch.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/BoschGroup/postings/744000127814124) |
 | Mold Tool Design Engineer (Able to work Aug 2026) | [Bosch](https://bosch.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/BoschGroup/postings/744000127813155) |
+| Mid/Senior IT Business Analyst (Agile) | [Netcompany](https://netcompany.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000127808059) |
+| Consultant, Governance Risk Compliance (IT Audit, IM8) | [NCS](https://ncs.co) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001098234) |
 | Data Partnerships Director | [The Trade Desk](https://thetradedesk.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5142535007) |
 | Software Engineer, Agent Orchestration | [Decagon](https://decagon.com) | $200K–$400K/yr | May 21 | [Apply](https://jobs.ashbyhq.com/decagon/d3fca82a-d8e9-43fd-9917-719b051d6aea) |
 | Senior Sourcing Manager, Silicon/EE Components | [ŌURA](https://ouraring.com) | $173K–$203K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/oura/jobs/4256861009) |

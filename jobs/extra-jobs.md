@@ -2,15 +2,28 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**350 open roles** — Last updated: 2026-05-22
+**363 open roles** — Last updated: 2026-05-22
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| PLONGEUR (SE) CDI 30 Heures Hebdomadaires  | [ACCOR](https://group.accor.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000127940860) |
+| EMPLOYE(E) BOULANGERIE PATISSERIE 26H00 HEBDO | [Genpak LLC](https://genpak-llc-2) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127920425) |
+| INTERMARCHE - HOTE(SSE) de CAISSE - EMPLOYE COMMERCIAL POLYVALENT (H/F) - CDI tps complet | [Genpak LLC](https://genpak-llc-2) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127917460) |
+| Meccanico Diagnostico - Specialista diagnostica veicoli | [AUTO1 Group](https://auto1-group.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000127917499) |
+| Test Driver – Specialista Validazione e Collaudo | [AUTO1 Group](https://auto1-group.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000127913220) |
+| Perito Tecnico Auto PAVIA – Valuta, Verifica, Garantisce | [AUTO1 Group](https://auto1-group.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000127916978) |
+| Préparateur Drive  (H/F) - CDI Temps complet | [Genpak LLC](https://genpak-llc-2) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127911910) |
+| Serveur - H/F | [Genpak LLC](https://genpak-llc-2) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000127901611) |
+| BestDrive Retread Technician | [Continental](https://continentalserves.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000127897542) |
+| Chargé d'accueil et de services hôteliers - H/F | [Genpak LLC](https://genpak-llc-2) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000127874789) |
+| Receptionniste - H/F | [Genpak LLC](https://genpak-llc-2) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000127873989) |
+| Registered Nurse | [Healthcare Australia](https://healthcareaustralia.com.au) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/HealthcareAustralia1/postings/6000000001096555) |
 | Supervisor de turno- Farmacéutico | [Delivery Hero](https://deliveryhero.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000127765838) |
 | Housekeeper | [Crestwood Behavioral Health](https://crestwoodbehavioralhealth.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/crestwoodcareers/jobs/7746543003) |
 | Full Time Caregiver (Multiple Shifts) | [Silverado](https://silverado.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/silverado/jobs/5144714007) |
+| Automotive Technician / Mechanic - Weekends Off - Chandler  | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000127758414) |
 | Director of Growth Solutions | [The Trade Desk](https://thetradedesk.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5144719007) |
 | Field Visual Merchandiser | [Gymshark](https://gymshark.com) | $81K–$102K/yr | May 21 | [Apply](https://job-boards.eu.greenhouse.io/gymshark/jobs/4873365101) |
 | Plant IV Curing: Pre-Cure Prep- Illinois | [Continental](https://continentalserves.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000127751449) |

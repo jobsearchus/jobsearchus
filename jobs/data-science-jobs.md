@@ -2,12 +2,15 @@
 
 Data science, machine learning, and AI engineering roles. Python, SQL, PyTorch, and beyond.
 
-**36 open roles** — Last updated: 2026-05-22
+**39 open roles** — Last updated: 2026-05-22
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Machine Learning Engineering Manager - Evaluations | [Canva](https://canva.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001098974) |
+| Machine Learning Engineering Manager - Evaluations | [Canva](https://canva.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001098969) |
+| Assistant Data Scientist | [Experian](https://experianplc.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000127827611) |
 | Engineer Manager - ML Data and Evaluation, Self-Driving Systems | [Applied Intuition](https://applied.co) | $256K–$346K/yr | May 21 | [Apply](https://boards.greenhouse.io/appliedintuition/jobs/4695889005?gh_jid=4695889005) |
 | Staff Forecasting Data Scientist | [Omada Health](https://omadahealth.com) | $202K–$253K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/omadahealth/jobs/7944334) |
 | Senior Data Scientist | [Fliff](https://fliff.com) | — | May 21 | [Apply](https://jobs.lever.co/Fliff/55a65553-2b15-40ed-97f3-ccf8016bde0c) |

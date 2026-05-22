@@ -2,17 +2,29 @@
 
 Remote operations and business operations roles across industries.
 
-**363 open roles** — Last updated: 2026-05-22
+**375 open roles** — Last updated: 2026-05-22
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| FR - Agent/Technicien de maintenance (H/F/X) | [ACCOR](https://group.accor.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000127938329) |
+| Heavy Equipment Technician, Contract, Fly In Fly Out – Gahcho Kué Mine, Northwest Territories  | [Anglo American](https://angloamerican.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000127924509) |
+| Técnico(a) Manutenção Eletrica Filtragem II | [Anglo American](https://angloamerican.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000127907227) |
+| Intermediate Government Contracts Professional | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $65K–$75K/yr | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000127893118) |
+| Gym Manager | [Frasers Group](https://frasersgroup.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000127853319) |
+| Gym General Manager | [Frasers Group](https://frasersgroup.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000127852909) |
+| Assistant General Manager | [Frasers Group](https://frasersgroup.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000127833746) |
+| Assistant Gym Manager | [Frasers Group](https://frasersgroup.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000127833939) |
+| General Assistant (Cleaning Team) | [Frasers Group](https://frasersgroup.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000127824964) |
 | Lehrstelle als Kaufmann/-frau 2027  REF286890O | [Bosch](https://bosch.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/BoschGroup/postings/744000127814989) |
 | Life Safety Installation Technician  | [New Era Technology](https://neweratech.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8526385002) |
+| Automotive Technician / Mechanic - Up to $80,000 Annually & Weekends Off - Millard | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000127796419) |
 | Strategy & Operations - Corporate Telecom Compliance Manager | [Twilio](https://twilio.com) | $129K–$161K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7951985) |
 | Fleet Operations Supervisor | [Serve Robotics](https://serverobotics.com) | — | May 21 | [Apply](https://jobs.ashbyhq.com/serverobotics/0f3d1ee1-4ce9-4ef9-b2d9-89aa61979a90) |
 | Packaging Program Manager | [ŌURA](https://ouraring.com) | $173K–$203K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/oura/jobs/4257181009) |
+| Procurement Manager | [Healthcare Australia](https://healthcareaustralia.com.au) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/HealthcareAustralia1/postings/6000000001096063) |
+| General Service Technician / Mechanic - Up to $20/HR & Weekends Off - Ducktown | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | $20/yr | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000127757877) |
 | Associate - Training | [Genpak LLC](https://genpak-llc-2) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000127757588) |
 | Warehouse Trucker Operator (WTO) - Illinois | [Continental](https://continentalserves.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000127750539) |
 | Backserver (Seasonal Part-time) - Soho Warehouse DTLA | [Soho House](https://sohohouse.com) | — | May 21 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4872318101) |

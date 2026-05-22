@@ -2,12 +2,15 @@
 
 UX design, UI design, and product design roles. Figma, research, and end-to-end product work.
 
-**53 open roles** — Last updated: 2026-05-22
+**56 open roles** — Last updated: 2026-05-22
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Designer - Civil 3D | [AECOM](https://aecom.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000127871734) |
+| Designer / Senior Designer - Civil 3D BIM Modeler | [AECOM](https://aecom.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000127873233) |
+| Associate Director - Architecture (Hospitality) | [Egis](https://egis-group.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000127849149) |
 | AI Designer [Portugal] | [BrainRocket](https://brainrocket.com) | — | May 22 | [Apply](https://job-boards.eu.greenhouse.io/brainrocketltd/jobs/4873571101) |
 | AI Designer [Poland] | [BrainRocket](https://brainrocket.com) | — | May 22 | [Apply](https://job-boards.eu.greenhouse.io/brainrocketltd/jobs/4873555101) |
 | CPLB Package Design Specialist  | [Coupang](https://coupang.com) | — | May 22 | [Apply](https://boards.greenhouse.io/coupanginternal/jobs/7948439?gh_jid=7948439) |

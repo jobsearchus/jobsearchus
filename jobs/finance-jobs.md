@@ -2,15 +2,26 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**161 open roles** — Last updated: 2026-05-22
+**172 open roles** — Last updated: 2026-05-22
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Payments Administrator (Fixed Term Contract) | [Standard Bank](https://standardbank.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000127935149) |
+| Private Banker | [Standard Bank](https://standardbank.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000127932099) |
+| Assistant Management Accountant (18 month FTC) | [Anglo American](https://angloamerican.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000127926479) |
+| Planning Manager | [Standard Bank](https://standardbank.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000127912775) |
+| Senior Commercial Finance Analyst | [NBCUniversal](https://nbcuniversal.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000127881749) |
+| Senior Accountant for Netcompany Banking Services (f/m) | [Netcompany](https://netcompany.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000127858535) |
+| Fianace Coordinator Shelter | [Avery Dennison](https://averydennison.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000127857946) |
+| Project Accountant | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000127853733) |
+|  Client Accountant - Funds (Real Estate)  | [IQ-EQ](https://iqeq.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000127843186) |
+| Claim analyst | [Vitol](https://vitol.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Vitol/postings/744000127812455) |
 | Senior Developer:Java,React,AWS | [Referrals Only](https://thoughtworks.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7952551) |
 | Intern, APAC Payroll | [Delivery Hero](https://deliveryhero.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000127798489) |
 | Director, Financial Planning & Analysis | [Zscaler](https://zscaler.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5132044007) |
+| Accounting Assistant  | [SBT Global](https://sbtglobal.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/SBTGlobalInc/postings/3743990013265686) |
 | Full Time Caregiver (AM) | [Silverado](https://silverado.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/silverado/jobs/5144678007) |
 | GL Accountant | [Intercom](https://intercom.com) | $123K–$147K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7947756) |
 | Financial Analyst | [PatientPoint](https://patientpoint.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/patientpoint/jobs/4697041005) |

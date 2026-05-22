@@ -2,12 +2,13 @@
 
 DevOps, platform engineering, and infrastructure roles. AWS, GCP, Kubernetes, Terraform.
 
-**28 open roles** — Last updated: 2026-05-22
+**29 open roles** — Last updated: 2026-05-22
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Posted | Apply |
 | --- | --- | --- | --- |
+| Senior Staff Engineer, DEVOPS | [Nagarro](https://nagarro.com) | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000127865783) |
 | Senior DevOps Engineer | [Devoteam](https://devoteam.com) | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Devoteam/postings/744000127836159) |
 | Senior DevOps Engineer | [Experian](https://experianplc.com) | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000127759719) |
 | Software Engineer, Network Infrastructure | [Render](https://render.com) | May 21 | [Apply](https://jobs.ashbyhq.com/render/88cb74a4-bc28-40b1-b792-d3041e3e17d3) |

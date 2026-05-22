@@ -2,12 +2,16 @@
 
 Project and program management roles across tech, operations, and enterprise.
 
-**34 open roles** — Last updated: 2026-05-22
+**38 open roles** — Last updated: 2026-05-22
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Project Manager - Civil Infrastructure - Water | [AECOM](https://aecom.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000127873309) |
+| (Senior-) Projektleiter/Experte (m/w/d) Onshore-Leitungs- und Trassenbau (Gas / Wasserstoff / Strom) Großprojekte Energieinfrastruktur | [Drees & Sommer](https://dreso.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000127810614) |
+| (Senior-) Projektleiter/Experte (m/w/d) Onshore-Leitungs- und Trassenbau (Gas / Wasserstoff / Strom) Großprojekte Energieinfrastruktur | [Drees & Sommer](https://dreso.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000127812001) |
+| (Senior-) Projektleiter/Experte (m/w/d) Onshore-Leitungs- und Trassenbau (Gas / Wasserstoff / Strom) Großprojekte Energieinfrastruktur | [Drees & Sommer](https://dreso.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000127812619) |
 | Senior Project Manager | [Vonage](https://vonage.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/vonage/jobs/8561764002) |
 | Lead Program Manager, Business Process Transformation  | [Reddit](https://reddit.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/7917818) |
 | Delivery Manager - FTC - 15months | [Gymshark](https://gymshark.com) | — | May 21 | [Apply](https://job-boards.eu.greenhouse.io/gymshark/jobs/4872695101) |

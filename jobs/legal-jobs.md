@@ -2,12 +2,13 @@
 
 Remote legal, compliance, and counsel roles.
 
-**43 open roles** — Last updated: 2026-05-22
+**44 open roles** — Last updated: 2026-05-22
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Associate Manager, Business & Legal Affairs | [NBCUniversal](https://nbcuniversal.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000127832195) |
 | Sr. Director of Product Engineering | [SecurityScorecard](https://securityscorecard.com) | $260K–$320K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/securityscorecard/jobs/7952078) |
 | Commercial Counsel | [SecurityScorecard](https://securityscorecard.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/securityscorecard/jobs/7951961) |
 | Staff Software Engineer I | [Confluent](https://confluent.io) | — | May 21 | [Apply](https://jobs.ashbyhq.com/confluent/b070fb23-7041-4336-bee9-b8f31204dac4) |

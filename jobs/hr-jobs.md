@@ -2,13 +2,15 @@
 
 Remote HR, recruiting, and people operations roles.
 
-**61 open roles** — Last updated: 2026-05-22
+**63 open roles** — Last updated: 2026-05-22
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior IT Recruiter | [Miratech](https://miratech.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000127877979) |
 | Payroll Specialist | [The Trade Desk](https://thetradedesk.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5143750007) |
+| Automotive Technician - Up to $52/Hr & Brand New Facility - Millard | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | $52/yr | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000127796489) |
 | People Advisor | [BESIX](https://besix.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000127784480) |
 | Product Manager - AI | [Oscilar](https://oscilar.com) | — | May 21 | [Apply](https://jobs.ashbyhq.com/oscilar/a951fe3d-3784-47ba-99b7-11117676d20e) |
 | Total Rewards and Analytics Lead | [Decagon](https://decagon.com) | — | May 21 | [Apply](https://jobs.ashbyhq.com/decagon/7c7c3e1d-53c6-445e-89fe-44b94135d6b6) |

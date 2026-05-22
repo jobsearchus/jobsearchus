@@ -2,12 +2,14 @@
 
 Remote administrative and executive assistant roles across industries.
 
-**15 open roles** — Last updated: 2026-05-22
+**17 open roles** — Last updated: 2026-05-22
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Associate Executive - Secretarial | [IQ-EQ](https://iqeq.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000127888314) |
+| Executive - Secretarial  | [IQ-EQ](https://iqeq.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000127869050) |
 | Academic Operations Coordinator | [University of Notre Dame](https://universityofnotredame.com) | $24/yr | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013227886) |
 | Teamassistenz (w/m/d)  | [Drees & Sommer](https://dreso.com) | — | May 20 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000127417725) |
 | Administrative Assistant Notre Dame Athletics - Part-Time | [University of Notre Dame](https://universityofnotredame.com) | $24/yr | May 19 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013203516) |

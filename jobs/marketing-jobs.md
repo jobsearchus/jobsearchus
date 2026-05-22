@@ -2,12 +2,13 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**150 open roles** — Last updated: 2026-05-22
+**151 open roles** — Last updated: 2026-05-22
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Associate Staff Consultant (Sales & Marketing) | [Nagarro](https://nagarro.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000127874358) |
 | Account Executive, Planning (B2B) | [WPP Media](https://wppmedia.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5227546008) |
 | Marketing Manager | [ACCOR](https://group.accor.com) | $75K–$85K/yr | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000127767879) |
 | Reservations All Rounder | [ACCOR](https://group.accor.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000127766469) |
