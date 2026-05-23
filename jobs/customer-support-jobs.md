@@ -2,7 +2,7 @@
 
 Remote customer support and success roles across SaaS, e-commerce, and tech.
 
-**117 open roles** — Last updated: 2026-05-23
+**119 open roles** — Last updated: 2026-05-23
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -11,6 +11,8 @@ Remote customer support and success roles across SaaS, e-commerce, and tech.
 | Customer Service Rep(7936) -  10986 Sierra ave | [Domino's](https://dominos.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000127986444) |
 | Senior Manager, Customer Success Management - Enterprise/EMEA | [Chainguard](https://chainguard.dev) | — | May 22 | [Apply](https://job-boards.greenhouse.io/chainguard/jobs/4679713006) |
 | Tier 2 Help Desk Technician | [Replit](https://replit.com) | — | May 22 | [Apply](https://jobs.ashbyhq.com/replit/60c2656b-5b23-44b8-9b04-98169e7b53e7) |
+| Program Manager - Customer Experience | [Canva](https://canva.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001099075) |
+| Program Manager - Customer Experience | [Canva](https://canva.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001099052) |
 | Associate Customer Success Manager, Oncology | [Natera](https://natera.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/natera/jobs/5999205004) |
 | BestDrive Service Technician | [Continental](https://continentalserves.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000127898324) |
 | Németül beszélő Customer Service Specialist (REF5520R) | [Deutsche Telekom IT Solutions](https://deutschetelekomitsolutions.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/DeutscheTelekomITSolutions/postings/744000127883903) |

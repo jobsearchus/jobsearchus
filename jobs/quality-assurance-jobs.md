@@ -2,12 +2,13 @@
 
 QA, test automation, and SDET roles. Manual and automated testing across all stacks.
 
-**19 open roles** — Last updated: 2026-05-23
+**20 open roles** — Last updated: 2026-05-23
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Associate Principal Engineer - Automation QA Lead  | [Nagarro](https://nagarro.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000127897590) |
 | Senior Staff RF Test Engineer | [IonQ](https://ionq.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/ionq/jobs/5995956004) |
 | Senior AI Automation Engineer | [HackerOne](https://hackerone.com) | $160K–$200K/yr | May 21 | [Apply](https://jobs.ashbyhq.com/hackerone/ab97488e-b159-41e3-8a20-a40b91acbdc4) |
 | QA Engineer  | [VML](https://vml.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/vmlenterprisesolutions/jobs/8559615002) |

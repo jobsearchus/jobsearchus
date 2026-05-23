@@ -2,12 +2,13 @@
 
 Project and program management roles across tech, operations, and enterprise.
 
-**40 open roles** — Last updated: 2026-05-23
+**41 open roles** — Last updated: 2026-05-23
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Program Management Director | [Mirantis](https://mirantis.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Mirantis/postings/744000127914463) |
 | Project Manager (REF5521W) | [Deutsche Telekom IT Solutions](https://deutschetelekomitsolutions.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/DeutscheTelekomITSolutions/postings/744000127892309) |
 | Project Manager - Civil Infrastructure - Water | [AECOM](https://aecom.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000127873309) |
 | (Senior-) Projektleiter/Experte (m/w/d) Onshore-Leitungs- und Trassenbau (Gas / Wasserstoff / Strom) Großprojekte Energieinfrastruktur | [Drees & Sommer](https://dreso.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000127810614) |

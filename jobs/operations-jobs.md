@@ -2,7 +2,7 @@
 
 Remote operations and business operations roles across industries.
 
-**397 open roles** — Last updated: 2026-05-23
+**404 open roles** — Last updated: 2026-05-23
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -12,13 +12,20 @@ Remote operations and business operations roles across industries.
 | Delivery Driver | [Domino's](https://dominos.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000127990359) |
 | General Manager(04890) - 3921 E. Market St | [Domino's](https://dominos.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000127989561) |
 | Director, Real Estate and Workplace Experience | [Coursera](https://coursera.org) | $192K–$241K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/coursera/jobs/6002760004) |
+| Facilities Coordinator | [University of Notre Dame](https://universityofnotredame.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013277286) |
+| Warranty Auditor | [MSX International](https://msxi.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013277176) |
 | Events Manager  | [Cantina](https://cantina.com) | $140K–$180K/yr | May 22 | [Apply](https://jobs.ashbyhq.com/cantina/4ff89979-0351-4e39-acef-69a33c8a8457) |
 | Document Control Specialist – xAI Infrastructure  | [xAI](https://x.ai) | — | May 22 | [Apply](https://job-boards.greenhouse.io/xai/jobs/5145444007) |
+| Shuttle Driver - Weekends Off - Bixby | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000127949054) |
 | Strategic Project Lead | [Turing College](https://turingcollege.com) | $120K–$150K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/turing/jobs/5995232004) |
 | Onboarding Manager, Customer Experience (São Paulo, Brazil) | [Figma](https://figma.com) | — | May 22 | [Apply](https://boards.greenhouse.io/figma/jobs/6000248004?gh_jid=6000248004) |
 | FR - Agent/Technicien de maintenance (H/F/X) | [ACCOR](https://group.accor.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000127938329) |
+| WMS Project Manager (Korean Bilingual Required) | [SBT Global](https://sbtglobal.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/SBTGlobalInc/postings/3743990013273226) |
 | Heavy Equipment Technician, Contract, Fly In Fly Out – Gahcho Kué Mine, Northwest Territories  | [Anglo American](https://angloamerican.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000127924509) |
 | Clinical Operations Manager | [AbbVie](https://abbvie.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AbbVie/postings/3743990013272116) |
+| Magasinier HF | [BUT](https://but.fr) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000127917053) |
+| Automotive Service Manager - Weekends Off - Albuquerque | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000127917089) |
+| Automotive Service Manager - Weekends Off - Wilmington | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000127912950) |
 | Técnico(a) Manutenção Eletrica Filtragem II | [Anglo American](https://angloamerican.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000127907227) |
 | Apprenticeship - Business Analyst - Hove - 2026 | [Legal & General](https://legalgeneral.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/LegalAndGeneral/postings/744000127907389) |
 | Intermediate Government Contracts Professional | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $65K–$75K/yr | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000127893118) |

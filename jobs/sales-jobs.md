@@ -2,7 +2,7 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**351 open roles** — Last updated: 2026-05-23
+**359 open roles** — Last updated: 2026-05-23
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -10,12 +10,19 @@ Remote sales roles — account executives, SDRs, and enterprise deals.
 | --- | --- | --- | --- | --- |
 | Delivery Driver(06611) | [Domino's](https://dominos.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000127989964) |
 | Delivery Expert(06833) - 1926 Crockett Rd, Palestine, Tx 75801 | [Domino's](https://dominos.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000127989604) |
+| PV - Executivo (a) de Vendas Externas Pleno - Aracaju/SE | [Experian](https://experianplc.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000127977459) |
+| PV - Executivo (a) de Vendas Externas Pleno - Aracaju/SE | [Experian](https://experianplc.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000127977399) |
+| PV - Executivo (a) de Vendas Externas Sênior - Juiz de Fora/MG | [Experian](https://experianplc.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000127976510) |
+| Enterprise Customer Success Manager | [Canva](https://canva.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001099097) |
+| Associate Sales Professional – North Western Canada | [Manitoulin Global Forwarding](https://manitoulingroup.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000127975969) |
 | Account Manager, Growth Stage | [Vanta](https://vanta.com) | — | May 22 | [Apply](https://jobs.ashbyhq.com/vanta/d5892780-397b-48d6-90de-60e335ec8b87) |
 | SDR Manager | [Boulevard](https://joinblvd.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/boulevard/jobs/4680601006) |
 | Account Executive, Enterprise | [Demandbase](https://demandbase.com) | — | May 22 | [Apply](https://jobs.ashbyhq.com/demandbase/e1bebad5-02fb-4e13-b2c8-e8e500221962) |
 | Regional Vice President, West - Remote - CA  | [Grafana Labs](https://grafana.com) | $450K–$490K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6004409004) |
 | Account Executive - SLED - California | [Zscaler](https://zscaler.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5128132007) |
 | Enterprise Restaurant Account Manager | [Sharebite](https://sharebite.com) | $90K–$100K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/sharebite/jobs/6004491004) |
+| Connected Services Trainer | [MSX International](https://msxi.com) | $65K–$75K/yr | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013273866) |
+| Casual Sales Assistant | [Frasers Group](https://frasersgroup.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000127928737) |
 | Staff Technical Account Manager | [Illumio](https://illumio.com) | — | May 22 | [Apply](https://jobs.ashbyhq.com/illumio/e5025502-28d0-4e18-b690-83e1bd2142c3) |
 | Account Manager | [Moonpig Group](https://moonpiggroup.com) | — | May 22 | [Apply](https://jobs.lever.co/moonpig/9fe3f91c-4bba-4a07-be05-4f2fe3cb6351) |
 | Ingénieur(e) avant-vente / Bid Manager confirmé(e) - Défense & Sécurité - Le Plessis Robinson  | [Sopra Steria](https://soprasteria.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/SopraSteria1/postings/744000127925040) |
@@ -63,6 +70,7 @@ Remote sales roles — account executives, SDRs, and enterprise deals.
 | Account Executive, Majors | [Vercel](https://vercel.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/vercel/jobs/5999792004) |
 | Distribution Partner Manager | [Ivanti](https://ivanti.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/a3c41b8b71eff8c4/jobs/7740017003) |
 | Marketplace Sales Manager | [takealot.com](https://takealot.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/takealotgroup/jobs/7946390) |
+| Vendeur produit de complément (décoration) F/H/X | [BUT](https://but.fr) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000127655240) |
 | Sales Engineer GridGain | [MariaDB](https://mariadb.com) | — | May 21 | [Apply](https://job-boards.eu.greenhouse.io/mariadbplc/jobs/4803257101) |
 | Team Lead Inside Sales | [AUTO1 Group](https://auto1-group.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000127649479) |
 | Regional Partnership Associate - APAC | [Seesaw](https://seesaw.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/seesaw/jobs/4683436006) |

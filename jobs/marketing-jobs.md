@@ -2,15 +2,18 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**160 open roles** — Last updated: 2026-05-23
+**163 open roles** — Last updated: 2026-05-23
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Counsel / Attorney - Antitrust & Compliance | [Continental](https://continentalserves.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000127971142) |
 | Senior Product Marketing Manager | [Genpak LLC](https://genpak-llc-2) | — | May 22 | [Apply](https://job-boards.greenhouse.io/commvault/jobs/5224302008) |
 | Content Marketing Lead | [Mighty Health](https://mightyhealth.com) | $110K–$160K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/mighty/jobs/6004642004) |
 | Senior Manager, Marketing Operations | [Socure](https://socure.com) | — | May 22 | [Apply](https://jobs.ashbyhq.com/socure/fc865d8f-455b-460f-9fc0-7e0f272be3d7) |
+| Fitness Coach  | [Frasers Group](https://frasersgroup.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000127939129) |
+| Strategic Communications Advisor | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $85K–$105K/yr | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000127928193) |
 | International Digital & Consumer Lead, Allergan Aesthetics | [AbbVie](https://abbvie.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AbbVie/postings/3743990013271728) |
 | Account Director, Publishing  | [WPP Media](https://wppmedia.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5226128008) |
 | International Digital & Consumer Lead, Allergan Aesthetics | [AbbVie](https://abbvie.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AbbVie/postings/3743990013271464) |

@@ -2,12 +2,14 @@
 
 UX design, UI design, and product design roles. Figma, research, and end-to-end product work.
 
-**60 open roles** — Last updated: 2026-05-23
+**62 open roles** — Last updated: 2026-05-23
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Graduate Program Marketing & Sales - Original Equipment (m/f/d) - REF96647C | [Continental](https://continentalserves.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000127974709) |
+| Senior Interaction / Product Designer  | [CapTech](https://captech.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/CapTechConsulting/postings/744000127969545) |
 | Industrial Designer | [Applied Intuition](https://applied.co) | — | May 22 | [Apply](https://boards.greenhouse.io/appliedintuition/jobs/4698803005?gh_jid=4698803005) |
 | Senior Designer & Creative Technologist | [OpenLoop](https://openloop.com) | — | May 22 | [Apply](https://jobs.ashbyhq.com/openloophealth/2ce81b42-760d-414e-9f56-89977303e4c0) |
 | Brand Designer | [Applied Intuition](https://applied.co) | $120K–$160K/yr | May 22 | [Apply](https://boards.greenhouse.io/appliedintuition/jobs/4698802005?gh_jid=4698802005) |

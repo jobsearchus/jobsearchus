@@ -2,7 +2,7 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**616 open roles** — Last updated: 2026-05-23
+**623 open roles** — Last updated: 2026-05-23
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -14,15 +14,20 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Senior Analyst, Powertrain | [Archer](https://archer.com) | $100K–$160K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7741008003) |
 | Forward Deployed Software Engineer | [Pareto](https://pareto.com) | — | May 22 | [Apply](https://jobs.ashbyhq.com/pareto-ai/9b5842fb-f936-47d0-9985-2941264123d8) |
 | Maintenance Technician | [ACCOR](https://group.accor.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000127936628) |
+| Senior Staff Engineer - Scrum Master | [Nagarro](https://nagarro.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000127933123) |
 | Lead Engineer | [Gymshark](https://gymshark.com) | — | May 22 | [Apply](https://job-boards.eu.greenhouse.io/gymshark/jobs/4874067101) |
 | Ingénieur(e) en Développement de Codes de Calcul Scientifique – Mécanique des Structures - Lyon | [Sopra Steria](https://soprasteria.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/SopraSteria1/postings/744000127928332) |
 | Supply Manager [26101] | [Sopra Steria](https://soprasteria.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/SopraSteria1/postings/744000127928357) |
+| Copy of Business Development Consultant | [MSX International](https://msxi.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013273166) |
 | Architecte Data / Avant-Vente (F/H) | [Magellan Partners](https://magellanpartners.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/MagellanPartners/postings/744000127920030) |
 | Distributed Cloud - Managed Services Engineer | [Devoteam](https://devoteam.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Devoteam/postings/744000127921145) |
 | Bartender - 40 Greek Street, Central London | [Soho House](https://sohohouse.com) | — | May 22 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4868128101) |
 | Enterprise Architect  | [Arηs Group](https://arsgroup.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/ARHS/postings/744000127920377) |
 | Research Executive (12m FTC) | [Gymshark](https://gymshark.com) | — | May 22 | [Apply](https://job-boards.eu.greenhouse.io/gymshark/jobs/4874046101) |
+| Manager, FAST Analytics | [NBCUniversal](https://nbcuniversal.com) | $100K–$120K/yr | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000127914342) |
 | Devoteam Cyber Trust - GRC Consultant (Business Continuity & Operational Security Manager) - Banking Sector  | [Devoteam](https://devoteam.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Devoteam/postings/744000127910685) |
+| Senior Director, Growth & Commerce Product Analytics  | [NBCUniversal](https://nbcuniversal.com) | $230K–$280K/yr | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000127911659) |
+| Manager, Advanced Analytics | [NBCUniversal](https://nbcuniversal.com) | $100K–$160K/yr | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000127910491) |
 | Product Engineer (Security) - AI Control Plane | [Speakeasy](https://speakeasy.com) | — | May 22 | [Apply](https://jobs.ashbyhq.com/speakeasy/1e2a2f6d-e91e-48fb-8fd4-5b5736ceaaff) |
 | Account Advocate | [Apollo.io](https://apollo.io) | — | May 22 | [Apply](https://job-boards.greenhouse.io/apolloio/jobs/6003155004) |
 | Junior Software Analytics Engineer | [takealot.com](https://takealot.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/takealotgroup/jobs/7953913) |
@@ -41,6 +46,8 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Customer Success Manager | [Playtech](https://playtech.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Playtech/postings/744000127870189) |
 | Staff Engineer, GENERATIVE-AI | [Nagarro](https://nagarro.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000127865079) |
 | Expert(e) IBM Z  | [Devoteam](https://devoteam.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Devoteam/postings/744000127864578) |
+| Senior Engineer, ERP-INFOR | [Nagarro](https://nagarro.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000127862960) |
+| Cable System Design Engineer (Transmission & Distribution) | [AECOM](https://aecom.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000127858019) |
 | Senior Software Engineer (.Net) | [Experian](https://experianplc.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000127856249) |
 | Senior Software Engineer, Device Security | [Box](https://box.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/boxinc/jobs/7942589) |
 | Senior Marketing Data Analyst (m/f/d) | [Genpak LLC](https://genpak-llc-2) | — | May 22 | [Apply](https://job-boards.greenhouse.io/autotradercanada/jobs/7746689003) |

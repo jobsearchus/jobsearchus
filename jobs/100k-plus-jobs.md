@@ -2,7 +2,7 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**290 open roles** — Last updated: 2026-05-23
+**293 open roles** — Last updated: 2026-05-23
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -23,6 +23,9 @@ Remote roles paying $100,000 or more per year. Salary data pulled directly from 
 | Events Manager  | [Cantina](https://cantina.com) | $140K–$180K/yr | May 22 | [Apply](https://jobs.ashbyhq.com/cantina/4ff89979-0351-4e39-acef-69a33c8a8457) |
 | Senior Director, Commercial Strategy & Programs | [Impiricus](https://impiricus.com) | $170K–$220K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/impiricus/jobs/5228920008) |
 | Strategic Project Lead | [Turing College](https://turingcollege.com) | $120K–$150K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/turing/jobs/5995232004) |
+| Manager, FAST Analytics | [NBCUniversal](https://nbcuniversal.com) | $100K–$120K/yr | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000127914342) |
+| Senior Director, Growth & Commerce Product Analytics  | [NBCUniversal](https://nbcuniversal.com) | $230K–$280K/yr | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000127911659) |
+| Manager, Advanced Analytics | [NBCUniversal](https://nbcuniversal.com) | $100K–$160K/yr | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000127910491) |
 | Brand Designer | [Applied Intuition](https://applied.co) | $120K–$160K/yr | May 22 | [Apply](https://boards.greenhouse.io/appliedintuition/jobs/4698802005?gh_jid=4698802005) |
 | Lead Product Manager, Workforce | [Clear Gene](https://cleargene.com) | $275K–$350K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/clear/jobs/7927500) |
 | Strategic Cybersecurity Advisor | [New Era Technology](https://neweratech.com) | $125K–$150K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8554991002) |
