@@ -2,27 +2,31 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**641 open roles** — Last updated: 2026-05-23
+**646 open roles** — Last updated: 2026-05-23
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | Senior Software Engineer, AI Platform | [Mixpanel](https://mixpanel.com) | $175K–$213K/yr | May 23 | [Apply](https://job-boards.greenhouse.io/mixpanel/jobs/7941944) |
+| Staff Advanced Concepts Optimization Engineer | [Archer](https://archer.com) | $130K–$160K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7742987003) |
 | Practice Manager - Electrical & Software Engineering | [ALTEN](https://alten.com) | $160K–$170K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5145832007) |
 | Desarrollador IBM i / AS400 | [Inetum](https://inetum.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000127976447) |
 | Senior AV Engineer | [Amplitude](https://amplitude.com) | $107K–$161K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/amplitude/jobs/8563162002) |
 | SR Desenvolvimento Python (com foco em dados) | [ília](https://lia.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/ilia/jobs/6004817004) |
+| Senior Software Engineer I (Automation) | [Smartsheet](https://smartsheet.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/smartsheet/jobs/7955075) |
 | Sales Engineer, GTM & Enablement | [Filevine](https://filevine.com) | — | May 22 | [Apply](https://jobs.lever.co/filevine/0046ee28-49d3-4c3b-aec7-fbd4abbb3b1b) |
 | Biologist | [Axle](https://axle.insure) | — | May 22 | [Apply](https://job-boards.greenhouse.io/axle/jobs/5145706007) |
 | [Job -  29519] Cloud Architect, Sao Paulo BR | [CI&T](https://cit.com) | — | May 22 | [Apply](https://jobs.lever.co/ciandt/2742085c-4049-49c4-94f7-dd65e5fedbef) |
 | Senior Manager, Strategic Partnerships | [Flex](https://withflex.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/flex/jobs/4698985005) |
 | Senior Technical ServiceNow Business Analyst - Secret Cleared | [LightFeather](https://lightfeather.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5229585008) |
 | Senior ServiceNow Engineer | [LightFeather](https://lightfeather.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5229580008) |
+| Senior GCP Cloud Engineer | [LightFeather](https://lightfeather.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5229570008) |
 | Expert Test Systems Engineer | [ANSER](https://anser.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/analyticservicesinc/jobs/5223145008?gh_jid=5223145008) |
 | Senior Software Engineer, Unified Platform - Trade Management, Trade and Order Processing, Platform Services | [DRW](https://drw.com) | $200K–$275K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7939741) |
 | Clinic Director - Homewood Broadway | [BenchMark Physical Therapy](https://benchmarkpt.com) | $80K–$95K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/benchmarkpt/jobs/5145595007) |
 | Software Engineer, Native Delivery | [Hightouch](https://hightouch.com) | $180K–$320K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/hightouch/jobs/6004706004) |
+| Staff Survivability and Operations Analysis Engineer | [Archer](https://archer.com) | $131K–$180K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7687082003) |
 | Head of Solutions Engineering, Americas | [Vanta](https://vanta.com) | — | May 22 | [Apply](https://jobs.ashbyhq.com/vanta/b988bf0d-41f8-4e89-9a63-bad73dc85470) |
 | Técnico(a) Desenvolvimento Processos I | [Anglo American](https://angloamerican.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000127960049) |
 | Project Engineer | [ALTEN](https://alten.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5145546007) |
@@ -77,6 +81,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Metallurgical Specialist | [Anglo American](https://angloamerican.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000127822549) |
 | Lead Technical Partner Enablement Engineer | [Zscaler](https://zscaler.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5128586007) |
 | Service Desk Agent | [Netcompany](https://netcompany.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000127819229) |
+| OPC Travaux | [Egis](https://egis-group.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000127816260) |
 | Data Analyst | [Frasers Group](https://frasersgroup.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000127815624) |
 | ASIC Verification EEJ | [Bosch](https://bosch.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/BoschGroup/postings/744000127814124) |
 | Mold Tool Design Engineer (Able to work Aug 2026) | [Bosch](https://bosch.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/BoschGroup/postings/744000127813155) |

@@ -2,7 +2,7 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**373 open roles** — Last updated: 2026-05-23
+**375 open roles** — Last updated: 2026-05-23
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -14,6 +14,7 @@ Remote sales roles — account executives, SDRs, and enterprise deals.
 | Delivery Driver(06611) | [Domino's](https://dominos.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000127989964) |
 | Delivery Expert(06833) - 1926 Crockett Rd, Palestine, Tx 75801 | [Domino's](https://dominos.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000127989604) |
 | Lead Solutions Consultant | [Airtable](https://airtable.com) | — | May 23 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8563194002) |
+| Salesforce Strategic Account Executive, Health & Life Sciences (HLS) | [NeuraFlash](https://neuraflash.com) | $94K–$277K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/neuraflash/jobs/5835950004) |
 | PV - Executivo (a) de Vendas Externas Pleno - Aracaju/SE | [Experian](https://experianplc.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000127977459) |
 | PV - Executivo (a) de Vendas Externas Pleno - Aracaju/SE | [Experian](https://experianplc.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000127977399) |
 | PV - Executivo (a) de Vendas Externas Sênior - Juiz de Fora/MG | [Experian](https://experianplc.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000127976510) |
@@ -23,6 +24,7 @@ Remote sales roles — account executives, SDRs, and enterprise deals.
 | Mid Market Business Development Representative | [Peek](https://peek.com) | — | May 22 | [Apply](https://jobs.ashbyhq.com/peek/bbe71fd6-b9a7-4210-871a-95cdd33a2885) |
 | Senior Sales Development Representative | [ExtraHop](https://extrahop.com) | $70K–$89K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/extrahopnetworks/jobs/6004419004) |
 | Senior Sales Development Representative | [Faire](https://faire.com) | — | May 22 | [Apply](https://boards.greenhouse.io/faire/jobs/8562743002?gh_jid=8562743002) |
+| Revenue Operations Analyst | [Vanta](https://vanta.com) | — | May 22 | [Apply](https://jobs.ashbyhq.com/vanta/cc1cbee0-06cf-4b63-b49c-945b1c12f657) |
 | Account Manager, Growth Stage | [Vanta](https://vanta.com) | — | May 22 | [Apply](https://jobs.ashbyhq.com/vanta/d5892780-397b-48d6-90de-60e335ec8b87) |
 | Account Coordinator | [InHomeTherapy](https://inhometherapy.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/inhometherapy/jobs/5145609007) |
 | Agente Stone - Consultor (a) Comercial Externo - Araras/SP | [Stone](https://stone.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/stone/jobs/7747231003) |

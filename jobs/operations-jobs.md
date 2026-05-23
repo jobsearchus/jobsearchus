@@ -2,7 +2,7 @@
 
 Remote operations and business operations roles across industries.
 
-**412 open roles** — Last updated: 2026-05-23
+**419 open roles** — Last updated: 2026-05-23
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -17,7 +17,11 @@ Remote operations and business operations roles across industries.
 | Senior Facilities Technician | [Inversion Space](https://inversionspace.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/inversionspace/jobs/4699027005) |
 | Senior Applied Scientist | [Garner Health](https://getgarner.com) | $200K–$245K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/garnerhealth/jobs/6004808004) |
 | Spa Manager | [Sensei](https://senseirobotics.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/sensei/jobs/8562999002) |
+| Vice President, Marketplace Operations | [Gametime](https://gametime.co) | — | May 22 | [Apply](https://job-boards.greenhouse.io/gametimeunited/jobs/5229721008) |
 | Director, Real Estate and Workplace Experience | [Coursera](https://coursera.org) | $192K–$241K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/coursera/jobs/6002760004) |
+| Patient Care Coordinator  | [BenchMark Physical Therapy](https://benchmarkpt.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/benchmarkpt/jobs/5145405007) |
+| Especialista de Processos Global - Invoice to Pay (ITP) | [Anglo American](https://angloamerican.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000127967175) |
+| Analista de Processos Pleno | [Anglo American](https://angloamerican.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000127960949) |
 | Facilities Coordinator | [University of Notre Dame](https://universityofnotredame.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013277286) |
 | Warranty Auditor | [MSX International](https://msxi.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013277176) |
 | Events Manager  | [Cantina](https://cantina.com) | $140K–$180K/yr | May 22 | [Apply](https://jobs.ashbyhq.com/cantina/4ff89979-0351-4e39-acef-69a33c8a8457) |
@@ -46,10 +50,13 @@ Remote operations and business operations roles across industries.
 | Lead Software Development Engineer | [Razorpay Software Private Limited](https://razorpay.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4684256005) |
 | Gym Manager | [Frasers Group](https://frasersgroup.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000127853319) |
 | Gym General Manager | [Frasers Group](https://frasersgroup.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000127852909) |
+| Senior Accountant, Fund Accounting - Private Equity and Investran Exposure | [IQ-EQ](https://iqeq.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000127842998) |
 | Assistant General Manager | [Frasers Group](https://frasersgroup.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000127833746) |
 | Assistant Gym Manager | [Frasers Group](https://frasersgroup.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000127833939) |
+| Estimator - MEP  (Infra Project Experience) | [Egis](https://egis-group.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000127827160) |
 | General Assistant (Cleaning Team) | [Frasers Group](https://frasersgroup.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000127824964) |
 | Lehrstelle als Kaufmann/-frau 2027  REF286890O | [Bosch](https://bosch.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/BoschGroup/postings/744000127814989) |
+| Project Controller | [Egis](https://egis-group.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000127811206) |
 | Life Safety Installation Technician  | [New Era Technology](https://neweratech.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8526385002) |
 | Automotive Technician / Mechanic - Up to $80,000 Annually & Weekends Off - Millard | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000127796419) |
 | Strategy & Operations - Corporate Telecom Compliance Manager | [Twilio](https://twilio.com) | $129K–$161K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7951985) |

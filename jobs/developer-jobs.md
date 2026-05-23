@@ -2,13 +2,14 @@
 
 General developer and programmer roles that did not fit a more specific category.
 
-**49 open roles** — Last updated: 2026-05-23
+**50 open roles** — Last updated: 2026-05-23
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | Developer Lead:Java&Kafka&Quarkus | [Referrals Only](https://thoughtworks.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7955105) |
+| Senior ServiceNow Developer - Public Trust Clearance | [LightFeather](https://lightfeather.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5229576008) |
 | Lead Developer Java Quarkus | [Referrals Only](https://thoughtworks.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7954080) |
 | X Developer Platform – Forward Deployed Engineer, X API | [xAI](https://x.ai) | $180K–$440K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/xai/jobs/5136287007) |
 | Analyst / Assistant Manager – IT Developer - Korean Fluency Required | [SBT Global](https://sbtglobal.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/SBTGlobalInc/postings/3743990013273066) |

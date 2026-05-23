@@ -2,13 +2,14 @@
 
 DevOps, platform engineering, and infrastructure roles. AWS, GCP, Kubernetes, Terraform.
 
-**34 open roles** — Last updated: 2026-05-23
+**35 open roles** — Last updated: 2026-05-23
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Posted | Apply |
 | --- | --- | --- | --- |
 | Senior Data Platform Engineer | [1Password](https://1password.com) | May 22 | [Apply](https://jobs.ashbyhq.com/1password/5c42ec98-c227-4f49-8357-5babf51ec1c7) |
+| Senior Azure Cloud Infrastructure Engineer - Cleared | [LightFeather](https://lightfeather.com) | May 22 | [Apply](https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5229555008) |
 | Lead Platform Engineer - Chile | [Referrals Only](https://thoughtworks.com) | May 22 | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7954268) |
 | Senior Staff Engineer, DEVOPS | [Nagarro](https://nagarro.com) | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000127865783) |
 | Site Supervisor - Major Transportation Infrastructure Delivery, Roads & Public Transportation | [AECOM](https://aecom.com) | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000127858039) |

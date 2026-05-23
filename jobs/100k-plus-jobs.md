@@ -2,7 +2,7 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**305 open roles** — Last updated: 2026-05-23
+**308 open roles** — Last updated: 2026-05-23
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -10,6 +10,7 @@ Remote roles paying $100,000 or more per year. Salary data pulled directly from 
 | --- | --- | --- | --- | --- |
 | Senior Software Engineer, AI Platform | [Mixpanel](https://mixpanel.com) | $175K–$213K/yr | May 23 | [Apply](https://job-boards.greenhouse.io/mixpanel/jobs/7941944) |
 | Sr. Director of FP&A | [Fluidstack](https://fluidstack.com) | $237K–$344K/yr | May 23 | [Apply](https://jobs.ashbyhq.com/fluidstack/b438dd5d-e242-4157-957c-6dc27d69c8e5) |
+| Staff Advanced Concepts Optimization Engineer | [Archer](https://archer.com) | $130K–$160K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7742987003) |
 | Practice Manager - Electrical & Software Engineering | [ALTEN](https://alten.com) | $160K–$170K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5145832007) |
 | Category Manager Construction Services | [Fluidstack](https://fluidstack.com) | $180K–$200K/yr | May 22 | [Apply](https://jobs.ashbyhq.com/fluidstack/c712a833-f347-4f41-9a8e-42b54fc3712c) |
 | Product Counsel, ERISA & Operations | [Human Interest](https://humaninterest.com) | $170K–$210K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/humaninterest/jobs/7952022) |
@@ -26,6 +27,7 @@ Remote roles paying $100,000 or more per year. Salary data pulled directly from 
 | X Developer Platform – Forward Deployed Engineer, X API | [xAI](https://x.ai) | $180K–$440K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/xai/jobs/5136287007) |
 | Senior Governance, Risk, and Compliance Engineer | [IonQ](https://ionq.com) | $110K–$144K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/ionq/jobs/6001723004) |
 | Software Engineer, Native Delivery | [Hightouch](https://hightouch.com) | $180K–$320K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/hightouch/jobs/6004706004) |
+| Staff Survivability and Operations Analysis Engineer | [Archer](https://archer.com) | $131K–$180K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7687082003) |
 | Senior Product Manager, Developer Ecosystem | [Boulevard](https://joinblvd.com) | $163K–$221K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/boulevard/jobs/4683617006) |
 | Content Marketing Lead | [Mighty Health](https://mightyhealth.com) | $110K–$160K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/mighty/jobs/6004642004) |
 | Technical Product Marketing Manager  | [Bloomreach](https://bloomreach.com) | $150K–$200K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/bloomreach/jobs/7954646) |
@@ -39,6 +41,7 @@ Remote roles paying $100,000 or more per year. Salary data pulled directly from 
 | Senior Director, Growth & Commerce Product Analytics  | [NBCUniversal](https://nbcuniversal.com) | $230K–$280K/yr | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000127911659) |
 | Manager, Advanced Analytics | [NBCUniversal](https://nbcuniversal.com) | $100K–$160K/yr | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000127910491) |
 | Brand Designer | [Applied Intuition](https://applied.co) | $120K–$160K/yr | May 22 | [Apply](https://boards.greenhouse.io/appliedintuition/jobs/4698802005?gh_jid=4698802005) |
+| Customer Marketer | [Apollo.io](https://apollo.io) | $200K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/apolloio/jobs/6001880004) |
 | Lead Product Manager, Workforce | [Clear Gene](https://cleargene.com) | $275K–$350K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/clear/jobs/7927500) |
 | Strategic Cybersecurity Advisor | [New Era Technology](https://neweratech.com) | $125K–$150K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8554991002) |
 | Software Engineer, Agent Orchestration | [Decagon](https://decagon.com) | $200K–$400K/yr | May 21 | [Apply](https://jobs.ashbyhq.com/decagon/d3fca82a-d8e9-43fd-9917-719b051d6aea) |

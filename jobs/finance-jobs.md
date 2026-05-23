@@ -2,7 +2,7 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**188 open roles** — Last updated: 2026-05-23
+**192 open roles** — Last updated: 2026-05-23
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -12,20 +12,24 @@ Remote finance, accounting, and analyst roles at companies of all sizes.
 | Chief Financial Officer | [Moonshot Brands](https://moonshotbrands.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/moonshot/jobs/4240396009) |
 | Funcional Junior -  Profesional Funcional Pruebas Información Tributaria | [Inetum](https://inetum.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000127975919) |
 | Associate Payroll Analyst | [Volito Aviation August 2007](https://trustly.com) | — | May 22 | [Apply](https://jobs.lever.co/trustly/a2b1902f-1f00-41de-9506-543e9a308dd0) |
+| Treasury Specialist | [Anglo American](https://angloamerican.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000127970140) |
 | Director, FP&A | [StackAdapt](https://stackadapt.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/stackadapt/jobs/4257553009) |
 | Billing & Collections Specialist | [Dragos](https://dragos.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/dragos/jobs/5208029008) |
 | Pensions Manager | [The Trade Desk](https://thetradedesk.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5145491007) |
+| Intern – Middle Office Operations | [IQ-EQ](https://iqeq.com) | $25/yr | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000127948799) |
 | Senior Payments Administrator (Fixed Term Contract) | [Standard Bank](https://standardbank.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000127935149) |
 | Private Banker | [Standard Bank](https://standardbank.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000127932099) |
 | Senior Delegated Solutions Manager  | [Legal & General](https://legalgeneral.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/LegalAndGeneral/postings/744000127927749) |
 | Assistant Management Accountant (18 month FTC) | [Anglo American](https://angloamerican.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000127926479) |
 | Planning Manager | [Standard Bank](https://standardbank.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000127912775) |
 | FP&A Analyst | [Array Labs](https://arraylabs.io) | — | May 22 | [Apply](https://boards.greenhouse.io/array/jobs/6003611004?gh_jid=6003611004) |
+| Personal and Private Banking (PPB) SA SB Private Limpopo Graduate Programme  | [Standard Bank](https://standardbank.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000127903799) |
 |  Billing Advocate | [Apollo.io](https://apollo.io) | — | May 22 | [Apply](https://job-boards.greenhouse.io/apolloio/jobs/6003592004) |
 | Associate Portfolio Manager | [Legal & General](https://legalgeneral.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/LegalAndGeneral/postings/744000127903499) |
 | Digital Financial Accountant | [Entain](https://entaingroup.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Entain/postings/744000127897619) |
 | Digital Financial Accountant | [Entain](https://entaingroup.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Entain/postings/744000127890780) |
 | Senior Commercial Finance Analyst | [NBCUniversal](https://nbcuniversal.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000127881749) |
+| Transactional Banker, Wealth and Investment (Fixed Term Contract) | [Standard Bank](https://standardbank.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000127861139) |
 | Senior Accountant for Netcompany Banking Services (f/m) | [Netcompany](https://netcompany.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000127858535) |
 | Banker, Business | [Standard Bank](https://standardbank.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000127859284) |
 | Fianace Coordinator Shelter | [Avery Dennison](https://averydennison.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000127857946) |

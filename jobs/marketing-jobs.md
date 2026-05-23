@@ -2,7 +2,7 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**169 open roles** — Last updated: 2026-05-23
+**171 open roles** — Last updated: 2026-05-23
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -24,6 +24,8 @@ Remote marketing roles across growth, content, brand, and performance channels.
 | Account Director, Publishing  | [WPP Media](https://wppmedia.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5226128008) |
 | International Digital & Consumer Lead, Allergan Aesthetics | [AbbVie](https://abbvie.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AbbVie/postings/3743990013271464) |
 | Account Director, Digital & Biddable Media  (Parental Cover) | [WPP Media](https://wppmedia.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5224314008) |
+| Lead Product Marketing Manager | [Apollo.io](https://apollo.io) | — | May 22 | [Apply](https://job-boards.greenhouse.io/apolloio/jobs/6001879004) |
+| Customer Marketer | [Apollo.io](https://apollo.io) | $200K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/apolloio/jobs/6001880004) |
 | Associate Staff Consultant (Sales & Marketing) | [Nagarro](https://nagarro.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000127874358) |
 | Account Executive, Planning (B2B) | [WPP Media](https://wppmedia.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5227546008) |
 | Associate-Growth Operations | [Razorpay Software Private Limited](https://razorpay.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4696281005) |

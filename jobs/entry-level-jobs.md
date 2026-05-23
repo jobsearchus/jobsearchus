@@ -2,7 +2,7 @@
 
 Remote jobs open to candidates with 0–2 years of experience. A real way in — no degree gatekeeping.
 
-**395 open roles** — Last updated: 2026-05-23
+**399 open roles** — Last updated: 2026-05-23
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -17,6 +17,7 @@ Remote jobs open to candidates with 0–2 years of experience. A real way in —
 | Delivery Expert(06833) - 1926 Crockett Rd, Palestine, Tx 75801 | [Domino's](https://dominos.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000127989604) |
 | Funcional Junior -  Profesional Funcional Pruebas Información Tributaria | [Inetum](https://inetum.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000127975919) |
 | Counsel / Attorney - Antitrust & Compliance | [Continental](https://continentalserves.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000127971142) |
+| Patient Care Coordinator  | [BenchMark Physical Therapy](https://benchmarkpt.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/benchmarkpt/jobs/5145405007) |
 | Técnico(a) Desenvolvimento Processos I | [Anglo American](https://angloamerican.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000127960049) |
 | Store Representative - Part-Time Days | [Serv-U-Success](https://servusuccess.com) | $16/yr | May 22 | [Apply](https://jobs.lever.co/serv-u-success/0b1c1c89-01d0-49e9-a7d9-f3c80e0e56a3) |
 | Store Representative - Days | [Serv-U-Success](https://servusuccess.com) | $16/yr | May 22 | [Apply](https://jobs.lever.co/serv-u-success/37f99088-53af-4ef9-82ec-6a860e530521) |
@@ -30,6 +31,7 @@ Remote jobs open to candidates with 0–2 years of experience. A real way in —
 | INTERMARCHE - HOTE(SSE) de CAISSE - EMPLOYE COMMERCIAL POLYVALENT (H/F) - CDI tps complet | [Genpak LLC](https://genpak-llc-2) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127917460) |
 | Préparateur Drive  (H/F) - CDI Temps complet | [Genpak LLC](https://genpak-llc-2) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127911910) |
 | Apprenticeship - Business Analyst - Hove - 2026 | [Legal & General](https://legalgeneral.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/LegalAndGeneral/postings/744000127907389) |
+| Personal and Private Banking (PPB) SA SB Private Limpopo Graduate Programme  | [Standard Bank](https://standardbank.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000127903799) |
 | Serveur - H/F | [Genpak LLC](https://genpak-llc-2) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000127901611) |
 | Junior Software Analytics Engineer | [takealot.com](https://takealot.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/takealotgroup/jobs/7953913) |
 | BestDrive Service Technician | [Continental](https://continentalserves.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000127898324) |
@@ -37,8 +39,10 @@ Remote jobs open to candidates with 0–2 years of experience. A real way in —
 | Associate Executive - Secretarial | [IQ-EQ](https://iqeq.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000127888314) |
 | Chargé d'accueil et de services hôteliers - H/F | [Genpak LLC](https://genpak-llc-2) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000127874789) |
 | Receptionniste - H/F | [Genpak LLC](https://genpak-llc-2) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000127873989) |
+| Senior Accountant, Fund Accounting - Private Equity and Investran Exposure | [IQ-EQ](https://iqeq.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000127842998) |
 | Account Executive, Planning (B2B) | [WPP Media](https://wppmedia.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5227546008) |
 | HR Operations Officer | [IQ-EQ](https://iqeq.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000127839009) |
+| Estimator - MEP  (Infra Project Experience) | [Egis](https://egis-group.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000127827160) |
 | General Assistant (Cleaning Team) | [Frasers Group](https://frasersgroup.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000127824964) |
 | Japanese Data Labeller | [Canva](https://canva.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001098875) |
 | Lehrstelle als Kaufmann/-frau 2027  REF286890O | [Bosch](https://bosch.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/BoschGroup/postings/744000127814989) |

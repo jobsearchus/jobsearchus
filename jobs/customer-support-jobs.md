@@ -2,7 +2,7 @@
 
 Remote customer support and success roles across SaaS, e-commerce, and tech.
 
-**125 open roles** — Last updated: 2026-05-23
+**126 open roles** — Last updated: 2026-05-23
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -12,6 +12,7 @@ Remote customer support and success roles across SaaS, e-commerce, and tech.
 | Customer Service Rep(7936) -  10986 Sierra ave | [Domino's](https://dominos.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000127986444) |
 | Patient Billing Associate | [BillionToOne](https://billiontoone.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/billiontoone/jobs/4699041005) |
 | Patient Billing Associate | [BillionToOne](https://billiontoone.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/billiontoone/jobs/4699040005) |
+| Manager, Customer Onboarding | [Owner.com](https://owner.com) | — | May 22 | [Apply](https://jobs.ashbyhq.com/Owner/89d8bfb8-5bed-4481-b9c6-5f7a98c8b243) |
 | Prinicpal Customer Success Manager, Enterprise | [1Password](https://1password.com) | — | May 22 | [Apply](https://jobs.ashbyhq.com/1password/d1f1214c-e344-4fab-b9af-413ca1134383) |
 | Health Claims Specialists | [Genpak LLC](https://genpak-llc-2) | $14/yr | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000127972878) |
 | Sports Customer Service Specialists - Work At Home | [Genpak LLC](https://genpak-llc-2) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000127970268) |
