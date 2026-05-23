@@ -2,23 +2,31 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**597 open roles** — Last updated: 2026-05-22
+**609 open roles** — Last updated: 2026-05-23
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Clinic Director - Homewood Broadway | [BenchMark Physical Therapy](https://benchmarkpt.com) | $80K–$95K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/benchmarkpt/jobs/5145595007) |
 | Software Engineer, Native Delivery | [Hightouch](https://hightouch.com) | $180K–$320K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/hightouch/jobs/6004706004) |
+| Head of Solutions Engineering, Americas | [Vanta](https://vanta.com) | — | May 22 | [Apply](https://jobs.ashbyhq.com/vanta/b988bf0d-41f8-4e89-9a63-bad73dc85470) |
+| Senior Analyst, Powertrain | [Archer](https://archer.com) | $100K–$160K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7741008003) |
 | Forward Deployed Software Engineer | [Pareto](https://pareto.com) | — | May 22 | [Apply](https://jobs.ashbyhq.com/pareto-ai/9b5842fb-f936-47d0-9985-2941264123d8) |
 | Maintenance Technician | [ACCOR](https://group.accor.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000127936628) |
 | Lead Engineer | [Gymshark](https://gymshark.com) | — | May 22 | [Apply](https://job-boards.eu.greenhouse.io/gymshark/jobs/4874067101) |
 | Bartender - 40 Greek Street, Central London | [Soho House](https://sohohouse.com) | — | May 22 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4868128101) |
 | Research Executive (12m FTC) | [Gymshark](https://gymshark.com) | — | May 22 | [Apply](https://job-boards.eu.greenhouse.io/gymshark/jobs/4874046101) |
+| Devoteam Cyber Trust - GRC Consultant (Business Continuity & Operational Security Manager) - Banking Sector  | [Devoteam](https://devoteam.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Devoteam/postings/744000127910685) |
+| Product Engineer (Security) - AI Control Plane | [Speakeasy](https://speakeasy.com) | — | May 22 | [Apply](https://jobs.ashbyhq.com/speakeasy/1e2a2f6d-e91e-48fb-8fd4-5b5736ceaaff) |
+| Account Advocate | [Apollo.io](https://apollo.io) | — | May 22 | [Apply](https://job-boards.greenhouse.io/apolloio/jobs/6003155004) |
 | Junior Software Analytics Engineer | [takealot.com](https://takealot.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/takealotgroup/jobs/7953913) |
 | Ploegbaas Electriciteit - Industriële Laag- en Hoogspanning | [BESIX](https://besix.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000127892744) |
 | Monteur Electriciteit - Industriële Laag- & Hoogspanning | [BESIX](https://besix.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000127891150) |
 | Sr Data Analyst | [MSX International](https://msxi.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013268966) |
 | Amazon Connect Bisness Architect | [Miratech](https://miratech.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000127889046) |
+| Associate Vehicle Test Specialist | [Bosch](https://bosch.com) | $76K–$85K/yr | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/BoschGroup/postings/744000127881559) |
+| EMC Hardware Engineer | [Bosch](https://bosch.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/BoschGroup/postings/744000127879600) |
 | Senior Technical Project Manager (Telecom) | [Miratech](https://miratech.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000127877719) |
 | Service Delivery Manager | [Miratech](https://miratech.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000127874190) |
 | iOS Software Engineer | [takealot.com](https://takealot.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/takealotgroup/jobs/7953637) |
@@ -28,7 +36,10 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Expert(e) IBM Z  | [Devoteam](https://devoteam.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Devoteam/postings/744000127864578) |
 | Senior Software Engineer (.Net) | [Experian](https://experianplc.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000127856249) |
 | Senior Software Engineer, Device Security | [Box](https://box.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/boxinc/jobs/7942589) |
+| Senior Marketing Data Analyst (m/f/d) | [Genpak LLC](https://genpak-llc-2) | — | May 22 | [Apply](https://job-boards.greenhouse.io/autotradercanada/jobs/7746689003) |
 | Ingénieur(e) Conception Mécanique confirmé (F/H) | [Egis](https://egis-group.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000127836960) |
+| Senior Software Engineer - Data Integration & JVM Ecosystem | [ClickHouse](https://clickhouse.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/clickhouse/jobs/6000805004) |
+| Senior Software Engineer - Data Integration & JVM Ecosystem | [ClickHouse](https://clickhouse.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/clickhouse/jobs/6000801004) |
 | Senior BIM Engineer - ELV | [Egis](https://egis-group.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000127830351) |
 | Staff Apple Engineer (iOS / macOS) | [ExpressVPN](https://expressvpn.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/expressvpn/jobs/8561774002) |
 | Japanese Data Labeller | [Canva](https://canva.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001098875) |
@@ -62,6 +73,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Senior Manager, Corporate Technology | [Chainguard](https://chainguard.dev) | — | May 21 | [Apply](https://job-boards.greenhouse.io/chainguard/jobs/4682837006) |
 | GTM Engineer | [Juniper Square](https://junipersquare.com) | $115K–$150K/yr | May 21 | [Apply](https://jobs.ashbyhq.com/junipersquare/5dff3211-a5c9-47c8-b98c-a3d4719e1c88) |
 | Associate Survivability and Operations Analysis Engineer | [Archer](https://archer.com) | $70K–$97K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7719738003) |
+| Senior Staff Manufacturing Engineer | [Archer](https://archer.com) | $154K–$216K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7728466003) |
 | DoD SkillBridge Internship: Project Engineer | [JRM Construction Management, LLC](https://jrmcm.com) | $65K–$90K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/jrmconstructionmanagementllc/jobs/4682708006) |
 |  APRENDIZ TÉCNICO EM MECÂNICA | [O-I Glass](https://o-i.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/O-I/postings/744000127732259) |
 | Engineering Manager | [Kite](https://kite.video) | $151K–$201K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/kite/jobs/4683612006) |

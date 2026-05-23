@@ -2,12 +2,18 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**371 open roles** — Last updated: 2026-05-22
+**381 open roles** — Last updated: 2026-05-23
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Client Office Phlebotomist-Full-time Days CW | [Northwestern Medicine](https://northwesternmedicine.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/NorthwesternMedicine/postings/744000127977520) |
+| Phlebotomist-Part-time Days  | [Northwestern Medicine](https://northwesternmedicine.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/NorthwesternMedicine/postings/744000127977959) |
+| Respiratory Care Assistant, Casual Days | [Northwestern Medicine](https://northwesternmedicine.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/NorthwesternMedicine/postings/744000127972949) |
+| Assistant Teacher - Kid's Country | [Kid's Country Child Care Center](https://kidscountry.net) | — | May 22 | [Apply](https://job-boards.greenhouse.io/kidscountry/jobs/7747015003) |
+| Manager, Mechanical Actuator Development  | [Archer](https://archer.com) | $172K–$230K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7741005003) |
+| Channel Manager | [Vanta](https://vanta.com) | — | May 22 | [Apply](https://jobs.ashbyhq.com/vanta/5cba09a5-a8f9-4efb-a227-a69019df43ed) |
 | PT Market Medical Director - Bay Area | [Pine Park Health](https://pineparkhealth.com) | $230K–$285K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/pineparkhealth/jobs/6004623004) |
 | Occupational Therapist, OT ($15,000 Bonus!) | [InHomeTherapy](https://inhometherapy.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/inhometherapy/jobs/5145439007) |
 | LVN - LPT | [Crestwood Behavioral Health](https://crestwoodbehavioralhealth.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/crestwoodcareers/jobs/7747005003) |
@@ -20,10 +26,14 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Meccanico Diagnostico - Specialista diagnostica veicoli | [AUTO1 Group](https://auto1-group.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000127917499) |
 | Test Driver – Specialista Validazione e Collaudo | [AUTO1 Group](https://auto1-group.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000127913220) |
 | Perito Tecnico Auto PAVIA – Valuta, Verifica, Garantisce | [AUTO1 Group](https://auto1-group.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000127916978) |
+| Clinic Director/Partner - Physical Therapist | [BenchMark Physical Therapy](https://benchmarkpt.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/benchmarkpt/jobs/5145302007) |
 | Préparateur Drive  (H/F) - CDI Temps complet | [Genpak LLC](https://genpak-llc-2) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127911910) |
+| Head of Market Solutions | [Legal & General](https://legalgeneral.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/LegalAndGeneral/postings/744000127910479) |
 | Product Owner, WPP Open – Product Framework (One Architecture)  | [WPP](https://wpp.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/wpp/jobs/8539369002) |
+| Account Advocate | [Apollo.io](https://apollo.io) | — | May 22 | [Apply](https://job-boards.greenhouse.io/apolloio/jobs/6003612004) |
 | Serveur - H/F | [Genpak LLC](https://genpak-llc-2) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000127901611) |
 | BestDrive Retread Technician | [Continental](https://continentalserves.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000127897542) |
+| Account Executive (Acciones Especiales) | [WPP Media](https://wppmedia.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5228886008) |
 | Chargé d'accueil et de services hôteliers - H/F | [Genpak LLC](https://genpak-llc-2) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000127874789) |
 | Receptionniste - H/F | [Genpak LLC](https://genpak-llc-2) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000127873989) |
 | Registered Nurse | [Healthcare Australia](https://healthcareaustralia.com.au) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/HealthcareAustralia1/postings/6000000001096555) |

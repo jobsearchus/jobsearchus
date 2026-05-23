@@ -2,7 +2,7 @@
 
 Remote jobs open to candidates with 0–2 years of experience. A real way in — no degree gatekeeping.
 
-**376 open roles** — Last updated: 2026-05-22
+**378 open roles** — Last updated: 2026-05-23
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -13,6 +13,7 @@ Remote jobs open to candidates with 0–2 years of experience. A real way in —
 | EMPLOYE(E) BOULANGERIE PATISSERIE 26H00 HEBDO | [Genpak LLC](https://genpak-llc-2) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127920425) |
 | INTERMARCHE - HOTE(SSE) de CAISSE - EMPLOYE COMMERCIAL POLYVALENT (H/F) - CDI tps complet | [Genpak LLC](https://genpak-llc-2) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127917460) |
 | Préparateur Drive  (H/F) - CDI Temps complet | [Genpak LLC](https://genpak-llc-2) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127911910) |
+| Apprenticeship - Business Analyst - Hove - 2026 | [Legal & General](https://legalgeneral.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/LegalAndGeneral/postings/744000127907389) |
 | Serveur - H/F | [Genpak LLC](https://genpak-llc-2) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000127901611) |
 | Junior Software Analytics Engineer | [takealot.com](https://takealot.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/takealotgroup/jobs/7953913) |
 | BestDrive Service Technician | [Continental](https://continentalserves.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000127898324) |
@@ -41,6 +42,7 @@ Remote jobs open to candidates with 0–2 years of experience. A real way in —
 | DoD SkillBridge Internship: Project Engineer | [JRM Construction Management, LLC](https://jrmcm.com) | $65K–$90K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/jrmconstructionmanagementllc/jobs/4682708006) |
 | DoD SkillBridge Internship: Assistant Superintendent | [JRM Construction Management, LLC](https://jrmcm.com) | $65K–$90K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/jrmconstructionmanagementllc/jobs/4682705006) |
 |  APRENDIZ TÉCNICO EM MECÂNICA | [O-I Glass](https://o-i.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/O-I/postings/744000127732259) |
+| Student Enrollment Specialist  | [Aviation Institute of Maintenance](https://aviationmaintenance.edu) | $29/yr | May 21 | [Apply](https://job-boards.greenhouse.io/aviationinstituteofmaintenance/jobs/5228090008) |
 | ESTAGIÁRIO TÉCNICO MECÂNICA INDUSTRIAL | [O-I Glass](https://o-i.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/O-I/postings/744000127730969) |
 | Assistant-In-Training, Golf Course Maintenance | [Sensei](https://senseirobotics.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/sensei/jobs/8560565002) |
 | Propulsion Engineer I, Hardware Development | [Relativity Space](https://relativityspace.com) | — | May 21 | [Apply](https://boards.greenhouse.io/relativity/jobs/8560326002?gh_jid=8560326002) |

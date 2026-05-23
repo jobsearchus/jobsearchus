@@ -2,16 +2,25 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**336 open roles** — Last updated: 2026-05-22
+**345 open roles** — Last updated: 2026-05-23
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Account Manager, Growth Stage | [Vanta](https://vanta.com) | — | May 22 | [Apply](https://jobs.ashbyhq.com/vanta/d5892780-397b-48d6-90de-60e335ec8b87) |
+| SDR Manager | [Boulevard](https://joinblvd.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/boulevard/jobs/4680601006) |
+| Account Executive, Enterprise | [Demandbase](https://demandbase.com) | — | May 22 | [Apply](https://jobs.ashbyhq.com/demandbase/e1bebad5-02fb-4e13-b2c8-e8e500221962) |
 | Regional Vice President, West - Remote - CA  | [Grafana Labs](https://grafana.com) | $450K–$490K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6004409004) |
+| Account Executive - SLED - California | [Zscaler](https://zscaler.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5128132007) |
+| Enterprise Restaurant Account Manager | [Sharebite](https://sharebite.com) | $90K–$100K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/sharebite/jobs/6004491004) |
+| Staff Technical Account Manager | [Illumio](https://illumio.com) | — | May 22 | [Apply](https://jobs.ashbyhq.com/illumio/e5025502-28d0-4e18-b690-83e1bd2142c3) |
 | Account Manager | [Moonpig Group](https://moonpiggroup.com) | — | May 22 | [Apply](https://jobs.lever.co/moonpig/9fe3f91c-4bba-4a07-be05-4f2fe3cb6351) |
+| Key Account Manager, Immunology | [AbbVie](https://abbvie.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AbbVie/postings/3743990013269896) |
+| Key Account Manager Immunology | [AbbVie](https://abbvie.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AbbVie/postings/3743990013269826) |
 | Key account manager | [Continental](https://continentalserves.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000127901894) |
 | Senior Account Executive (via 3rd party) | [Sophos](https://sophos.com) | — | May 22 | [Apply](https://jobs.lever.co/sophos/3a4218fb-f136-41a7-b74d-55dddc96e930) |
+| Senior Software Engineer - Data Integration & JVM Ecosystem | [ClickHouse](https://clickhouse.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/clickhouse/jobs/6000796004) |
 | Manager, Account Management | [Coupang](https://coupang.com) | — | May 22 | [Apply](https://boards.greenhouse.io/coupanginternal/jobs/7924300?gh_jid=7924300) |
 | Manager, Account Management | [Coupang](https://coupang.com) | — | May 22 | [Apply](https://boards.greenhouse.io/coupanginternal/jobs/7681542?gh_jid=7681542) |
 | Account Executive, Enterprise (BeLux) | [Pure Storage](https://purestorage.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/7920652) |

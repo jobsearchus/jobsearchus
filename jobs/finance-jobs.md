@@ -2,17 +2,20 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**173 open roles** — Last updated: 2026-05-22
+**176 open roles** — Last updated: 2026-05-23
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Pensions Manager | [The Trade Desk](https://thetradedesk.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5145491007) |
 | Senior Payments Administrator (Fixed Term Contract) | [Standard Bank](https://standardbank.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000127935149) |
 | Private Banker | [Standard Bank](https://standardbank.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000127932099) |
 | Assistant Management Accountant (18 month FTC) | [Anglo American](https://angloamerican.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000127926479) |
 | Planning Manager | [Standard Bank](https://standardbank.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000127912775) |
 | FP&A Analyst | [Array Labs](https://arraylabs.io) | — | May 22 | [Apply](https://boards.greenhouse.io/array/jobs/6003611004?gh_jid=6003611004) |
+|  Billing Advocate | [Apollo.io](https://apollo.io) | — | May 22 | [Apply](https://job-boards.greenhouse.io/apolloio/jobs/6003592004) |
+| Associate Portfolio Manager | [Legal & General](https://legalgeneral.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/LegalAndGeneral/postings/744000127903499) |
 | Senior Commercial Finance Analyst | [NBCUniversal](https://nbcuniversal.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000127881749) |
 | Senior Accountant for Netcompany Banking Services (f/m) | [Netcompany](https://netcompany.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000127858535) |
 | Fianace Coordinator Shelter | [Avery Dennison](https://averydennison.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000127857946) |

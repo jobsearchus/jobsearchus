@@ -2,13 +2,16 @@
 
 UX design, UI design, and product design roles. Figma, research, and end-to-end product work.
 
-**57 open roles** — Last updated: 2026-05-22
+**60 open roles** — Last updated: 2026-05-23
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Industrial Designer | [Applied Intuition](https://applied.co) | — | May 22 | [Apply](https://boards.greenhouse.io/appliedintuition/jobs/4698803005?gh_jid=4698803005) |
 | Senior Designer & Creative Technologist | [OpenLoop](https://openloop.com) | — | May 22 | [Apply](https://jobs.ashbyhq.com/openloophealth/2ce81b42-760d-414e-9f56-89977303e4c0) |
+| Brand Designer | [Applied Intuition](https://applied.co) | $120K–$160K/yr | May 22 | [Apply](https://boards.greenhouse.io/appliedintuition/jobs/4698802005?gh_jid=4698802005) |
+| Senior UX Designer | [Trainline](https://trainlinegroup.com) | — | May 22 | [Apply](https://jobs.ashbyhq.com/trainline/5b88d883-6200-4501-8df0-13da39b503ce) |
 | Designer - Civil 3D | [AECOM](https://aecom.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000127871734) |
 | Designer / Senior Designer - Civil 3D BIM Modeler | [AECOM](https://aecom.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000127873233) |
 | Associate Director - Architecture (Hospitality) | [Egis](https://egis-group.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000127849149) |

@@ -2,21 +2,30 @@
 
 Remote operations and business operations roles across industries.
 
-**383 open roles** — Last updated: 2026-05-22
+**393 open roles** — Last updated: 2026-05-23
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Delivery Driver(09281) - 401 E Business 83 | [Domino's](https://dominos.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000127988434) |
+| Delivery Driver | [Domino's](https://dominos.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000127990359) |
+| Director, Real Estate and Workplace Experience | [Coursera](https://coursera.org) | $192K–$241K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/coursera/jobs/6002760004) |
 | Events Manager  | [Cantina](https://cantina.com) | $140K–$180K/yr | May 22 | [Apply](https://jobs.ashbyhq.com/cantina/4ff89979-0351-4e39-acef-69a33c8a8457) |
+| Document Control Specialist – xAI Infrastructure  | [xAI](https://x.ai) | — | May 22 | [Apply](https://job-boards.greenhouse.io/xai/jobs/5145444007) |
 | Strategic Project Lead | [Turing College](https://turingcollege.com) | $120K–$150K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/turing/jobs/5995232004) |
 | Onboarding Manager, Customer Experience (São Paulo, Brazil) | [Figma](https://figma.com) | — | May 22 | [Apply](https://boards.greenhouse.io/figma/jobs/6000248004?gh_jid=6000248004) |
 | FR - Agent/Technicien de maintenance (H/F/X) | [ACCOR](https://group.accor.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000127938329) |
 | Heavy Equipment Technician, Contract, Fly In Fly Out – Gahcho Kué Mine, Northwest Territories  | [Anglo American](https://angloamerican.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000127924509) |
 | Técnico(a) Manutenção Eletrica Filtragem II | [Anglo American](https://angloamerican.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000127907227) |
+| Apprenticeship - Business Analyst - Hove - 2026 | [Legal & General](https://legalgeneral.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/LegalAndGeneral/postings/744000127907389) |
 | Intermediate Government Contracts Professional | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $65K–$75K/yr | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000127893118) |
+| Key Accounts Partner Operations | [Deliveroo](https://deliveroo.co.uk) | — | May 22 | [Apply](https://jobs.ashbyhq.com/deliveroo/4277053d-8c64-4af1-b4dd-b538d33a6f9c) |
+| Pflichtpraktikum in der Kunden- und Beschaffungsplanung | [Bosch](https://bosch.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/BoschGroup/postings/744000127880656) |
 | Product Developer | [Gymshark](https://gymshark.com) | — | May 22 | [Apply](https://job-boards.eu.greenhouse.io/gymshark/jobs/4873887101) |
 | CX Resource & Staffing Manager, EMEA | [GitLab](https://about.gitlab.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8558222002) |
+| Assistant Manager, Ocean Operations (Gurugram) | [Flexport](https://flexport.com) | — | May 22 | [Apply](https://boards.greenhouse.io/flexport/jobs/7953585?gh_jid=7953585) |
+| Assistant Manager, Ocean Operations (Chennai) | [Flexport](https://flexport.com) | — | May 22 | [Apply](https://boards.greenhouse.io/flexport/jobs/7953608?gh_jid=7953608) |
 | Lead Software Development Engineer | [Razorpay Software Private Limited](https://razorpay.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4684256005) |
 | Gym Manager | [Frasers Group](https://frasersgroup.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000127853319) |
 | Gym General Manager | [Frasers Group](https://frasersgroup.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000127852909) |
@@ -40,6 +49,7 @@ Remote operations and business operations roles across industries.
 | Account Manager - North Bay | [Manitoulin Global Forwarding](https://manitoulingroup.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000127732291) |
 | DoD SkillBridge Internship: Junior Estimator | [JRM Construction Management, LLC](https://jrmcm.com) | $65K–$90K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/jrmconstructionmanagementllc/jobs/4682707006) |
 | DoD SkillBridge Internship: Assistant Superintendent | [JRM Construction Management, LLC](https://jrmcm.com) | $65K–$90K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/jrmconstructionmanagementllc/jobs/4682705006) |
+| Student Enrollment Specialist  | [Aviation Institute of Maintenance](https://aviationmaintenance.edu) | $29/yr | May 21 | [Apply](https://job-boards.greenhouse.io/aviationinstituteofmaintenance/jobs/5228090008) |
 | Mechanical Supervisor | [Enviva](https://envivabiomass.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/enviva/jobs/7743101003) |
 | Assistant-In-Training, Golf Course Maintenance | [Sensei](https://senseirobotics.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/sensei/jobs/8560565002) |
 | Clow Valve - Iron Melt | [McWane](https://mcwane.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/McWaneInc/postings/3743990013257406) |

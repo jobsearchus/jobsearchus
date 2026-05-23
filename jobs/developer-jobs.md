@@ -2,12 +2,15 @@
 
 General developer and programmer roles that did not fit a more specific category.
 
-**43 open roles** — Last updated: 2026-05-22
+**46 open roles** — Last updated: 2026-05-23
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Developer Lead:Java&Kafka&Quarkus | [Referrals Only](https://thoughtworks.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7955105) |
+| Lead Developer Java Quarkus | [Referrals Only](https://thoughtworks.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7954080) |
+| X Developer Platform – Forward Deployed Engineer, X API | [xAI](https://x.ai) | $180K–$440K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/xai/jobs/5136287007) |
 | Sr. Staff Python Developer (Python,AWS,AI) | [Experian](https://experianplc.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000127849629) |
 | Lead Java Developer (Fitness sphere) | [Coherent Solutions](https://coherentsolutions.com) | — | May 22 | [Apply](https://job-boards.eu.greenhouse.io/coherentsolutions/jobs/4838197101) |
 | Senior Application Programmer (EBS) | [Horizon Industries](https://horizonindustries.com) | $140K–$150K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/horizonindustrieslimited/jobs/5228155008) |

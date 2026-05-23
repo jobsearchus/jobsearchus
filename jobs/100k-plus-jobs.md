@@ -2,19 +2,28 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**280 open roles** — Last updated: 2026-05-22
+**290 open roles** — Last updated: 2026-05-23
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Corporate Counsel - East Coast/UK | [Drata](https://drata.com) | $180K–$223K/yr | May 22 | [Apply](https://jobs.ashbyhq.com/drata/bfa0a5cd-f5d1-436c-8198-e90951faede4) |
+| Director, Real Estate and Workplace Experience | [Coursera](https://coursera.org) | $192K–$241K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/coursera/jobs/6002760004) |
+| Manager, Mechanical Actuator Development  | [Archer](https://archer.com) | $172K–$230K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7741005003) |
+| Senior Counsel | [LaunchDarkly](https://launchdarkly.com) | $138K–$189K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/launchdarkly/jobs/7747213003) |
+| X Developer Platform – Forward Deployed Engineer, X API | [xAI](https://x.ai) | $180K–$440K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/xai/jobs/5136287007) |
+| Senior Governance, Risk, and Compliance Engineer | [IonQ](https://ionq.com) | $110K–$144K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/ionq/jobs/6001723004) |
 | Software Engineer, Native Delivery | [Hightouch](https://hightouch.com) | $180K–$320K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/hightouch/jobs/6004706004) |
+| Senior Product Manager, Developer Ecosystem | [Boulevard](https://joinblvd.com) | $163K–$221K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/boulevard/jobs/4683617006) |
 | Content Marketing Lead | [Mighty Health](https://mightyhealth.com) | $110K–$160K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/mighty/jobs/6004642004) |
+| Senior Analyst, Powertrain | [Archer](https://archer.com) | $100K–$160K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7741008003) |
 | PT Market Medical Director - Bay Area | [Pine Park Health](https://pineparkhealth.com) | $230K–$285K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/pineparkhealth/jobs/6004623004) |
 | Regional Vice President, West - Remote - CA  | [Grafana Labs](https://grafana.com) | $450K–$490K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6004409004) |
 | Events Manager  | [Cantina](https://cantina.com) | $140K–$180K/yr | May 22 | [Apply](https://jobs.ashbyhq.com/cantina/4ff89979-0351-4e39-acef-69a33c8a8457) |
 | Senior Director, Commercial Strategy & Programs | [Impiricus](https://impiricus.com) | $170K–$220K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/impiricus/jobs/5228920008) |
 | Strategic Project Lead | [Turing College](https://turingcollege.com) | $120K–$150K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/turing/jobs/5995232004) |
+| Brand Designer | [Applied Intuition](https://applied.co) | $120K–$160K/yr | May 22 | [Apply](https://boards.greenhouse.io/appliedintuition/jobs/4698802005?gh_jid=4698802005) |
 | Lead Product Manager, Workforce | [Clear Gene](https://cleargene.com) | $275K–$350K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/clear/jobs/7927500) |
 | Strategic Cybersecurity Advisor | [New Era Technology](https://neweratech.com) | $125K–$150K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8554991002) |
 | Software Engineer, Agent Orchestration | [Decagon](https://decagon.com) | $200K–$400K/yr | May 21 | [Apply](https://jobs.ashbyhq.com/decagon/d3fca82a-d8e9-43fd-9917-719b051d6aea) |
@@ -34,6 +43,7 @@ Remote roles paying $100,000 or more per year. Salary data pulled directly from 
 | GL Accountant | [Intercom](https://intercom.com) | $123K–$147K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7947756) |
 | Senior Application Programmer (EBS) | [Horizon Industries](https://horizonindustries.com) | $140K–$150K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/horizonindustrieslimited/jobs/5228155008) |
 | GTM Engineer | [Juniper Square](https://junipersquare.com) | $115K–$150K/yr | May 21 | [Apply](https://jobs.ashbyhq.com/junipersquare/5dff3211-a5c9-47c8-b98c-a3d4719e1c88) |
+| Senior Staff Manufacturing Engineer | [Archer](https://archer.com) | $154K–$216K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7728466003) |
 | Crypto Senior Accountant | [DRW](https://drw.com) | $100K–$130K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7939602) |
 | Senior Technical Sourcer | [Discord](https://discord.com) | $132K–$149K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/discord/jobs/8552362002) |
 | Engineering Manager | [Kite](https://kite.video) | $151K–$201K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/kite/jobs/4683612006) |
