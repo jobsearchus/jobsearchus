@@ -2,16 +2,32 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**623 open roles** — Last updated: 2026-05-23
+**641 open roles** — Last updated: 2026-05-23
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Software Engineer, AI Platform | [Mixpanel](https://mixpanel.com) | $175K–$213K/yr | May 23 | [Apply](https://job-boards.greenhouse.io/mixpanel/jobs/7941944) |
+| Practice Manager - Electrical & Software Engineering | [ALTEN](https://alten.com) | $160K–$170K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5145832007) |
+| Desarrollador IBM i / AS400 | [Inetum](https://inetum.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000127976447) |
+| Senior AV Engineer | [Amplitude](https://amplitude.com) | $107K–$161K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/amplitude/jobs/8563162002) |
+| SR Desenvolvimento Python (com foco em dados) | [ília](https://lia.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/ilia/jobs/6004817004) |
+| Sales Engineer, GTM & Enablement | [Filevine](https://filevine.com) | — | May 22 | [Apply](https://jobs.lever.co/filevine/0046ee28-49d3-4c3b-aec7-fbd4abbb3b1b) |
+| Biologist | [Axle](https://axle.insure) | — | May 22 | [Apply](https://job-boards.greenhouse.io/axle/jobs/5145706007) |
+| [Job -  29519] Cloud Architect, Sao Paulo BR | [CI&T](https://cit.com) | — | May 22 | [Apply](https://jobs.lever.co/ciandt/2742085c-4049-49c4-94f7-dd65e5fedbef) |
+| Senior Manager, Strategic Partnerships | [Flex](https://withflex.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/flex/jobs/4698985005) |
+| Senior Technical ServiceNow Business Analyst - Secret Cleared | [LightFeather](https://lightfeather.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5229585008) |
+| Senior ServiceNow Engineer | [LightFeather](https://lightfeather.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5229580008) |
+| Expert Test Systems Engineer | [ANSER](https://anser.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/analyticservicesinc/jobs/5223145008?gh_jid=5223145008) |
+| Senior Software Engineer, Unified Platform - Trade Management, Trade and Order Processing, Platform Services | [DRW](https://drw.com) | $200K–$275K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7939741) |
 | Clinic Director - Homewood Broadway | [BenchMark Physical Therapy](https://benchmarkpt.com) | $80K–$95K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/benchmarkpt/jobs/5145595007) |
 | Software Engineer, Native Delivery | [Hightouch](https://hightouch.com) | $180K–$320K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/hightouch/jobs/6004706004) |
 | Head of Solutions Engineering, Americas | [Vanta](https://vanta.com) | — | May 22 | [Apply](https://jobs.ashbyhq.com/vanta/b988bf0d-41f8-4e89-9a63-bad73dc85470) |
+| Técnico(a) Desenvolvimento Processos I | [Anglo American](https://angloamerican.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000127960049) |
+| Project Engineer | [ALTEN](https://alten.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5145546007) |
 | Senior Analyst, Powertrain | [Archer](https://archer.com) | $100K–$160K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7741008003) |
+| Senior Business Engineer - Ads | [Reddit](https://reddit.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/7954598) |
 | Forward Deployed Software Engineer | [Pareto](https://pareto.com) | — | May 22 | [Apply](https://jobs.ashbyhq.com/pareto-ai/9b5842fb-f936-47d0-9985-2941264123d8) |
 | Maintenance Technician | [ACCOR](https://group.accor.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000127936628) |
 | Senior Staff Engineer - Scrum Master | [Nagarro](https://nagarro.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000127933123) |
@@ -31,6 +47,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Product Engineer (Security) - AI Control Plane | [Speakeasy](https://speakeasy.com) | — | May 22 | [Apply](https://jobs.ashbyhq.com/speakeasy/1e2a2f6d-e91e-48fb-8fd4-5b5736ceaaff) |
 | Account Advocate | [Apollo.io](https://apollo.io) | — | May 22 | [Apply](https://job-boards.greenhouse.io/apolloio/jobs/6003155004) |
 | Junior Software Analytics Engineer | [takealot.com](https://takealot.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/takealotgroup/jobs/7953913) |
+| Security Engineer, AI Vulnerability Management | [Robinhood](https://robinhood.com) | — | May 22 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7939818?t=gh_src=&gh_jid=7939818) |
 | Ploegbaas Electriciteit - Industriële Laag- en Hoogspanning | [BESIX](https://besix.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000127892744) |
 | Monteur Electriciteit - Industriële Laag- & Hoogspanning | [BESIX](https://besix.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000127891150) |
 | Sr Data Analyst | [MSX International](https://msxi.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013268966) |
@@ -57,6 +74,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Senior BIM Engineer - ELV | [Egis](https://egis-group.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000127830351) |
 | Staff Apple Engineer (iOS / macOS) | [ExpressVPN](https://expressvpn.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/expressvpn/jobs/8561774002) |
 | Japanese Data Labeller | [Canva](https://canva.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001098875) |
+| Metallurgical Specialist | [Anglo American](https://angloamerican.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000127822549) |
 | Lead Technical Partner Enablement Engineer | [Zscaler](https://zscaler.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5128586007) |
 | Service Desk Agent | [Netcompany](https://netcompany.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000127819229) |
 | Data Analyst | [Frasers Group](https://frasersgroup.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000127815624) |

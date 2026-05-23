@@ -2,12 +2,15 @@
 
 Data science, machine learning, and AI engineering roles. Python, SQL, PyTorch, and beyond.
 
-**40 open roles** — Last updated: 2026-05-23
+**43 open roles** — Last updated: 2026-05-23
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Machine Learning Engineer, AI Generation Engine | [SandboxAQ](https://sandboxaq.com) | — | May 22 | [Apply](https://jobs.ashbyhq.com/sandboxaq/5d096708-36f4-4f94-96b9-59b5e9b88f3f) |
+| Senior Machine Learning Engineer | [Calendly](https://calendly.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/calendly/jobs/8563197002) |
+| Automation & AI Engineer | [Genpak LLC](https://genpak-llc-2) | — | May 22 | [Apply](https://job-boards.greenhouse.io/martellgrowthsolutions/jobs/5229530008) |
 | Senior AI Engineer | [GitLab](https://about.gitlab.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8556658002) |
 | Machine Learning Engineering Manager - Evaluations | [Canva](https://canva.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001098974) |
 | Machine Learning Engineering Manager - Evaluations | [Canva](https://canva.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001098969) |

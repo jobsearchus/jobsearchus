@@ -2,22 +2,32 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**388 open roles** — Last updated: 2026-05-23
+**403 open roles** — Last updated: 2026-05-23
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Responsable Univers (Manager Commerce) CDI - Temps plein (H/F)- Futur Directeur de magasin | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000127997379) |
 | INTERMARCHE RECRUTE SES FUTURS APPRENTIS ( H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127995299) |
 | EMPLOYE DE RAYON BAZAR BEAUTE BEBE (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127994399) |
 | CONTRAT ETUDIANT - EMPLOYE COMMERCIAL (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127994000) |
+| Front Office Manager | [ACCOR](https://group.accor.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000127993579) |
+| Assistant Manager Food & Beverage Service | [ACCOR](https://group.accor.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000127993479) |
 | Client Office Phlebotomist-Full-time Days CW | [Northwestern Medicine](https://northwesternmedicine.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/NorthwesternMedicine/postings/744000127977520) |
 | Phlebotomist-Part-time Days  | [Northwestern Medicine](https://northwesternmedicine.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/NorthwesternMedicine/postings/744000127977959) |
+| Executive Assistant - Cairo - Onsite | [Genpak LLC](https://genpak-llc-2) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000127974198) |
 | Respiratory Care Assistant, Casual Days | [Northwestern Medicine](https://northwesternmedicine.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/NorthwesternMedicine/postings/744000127972949) |
 | Assistant Teacher - Kid's Country | [Kid's Country Child Care Center](https://kidscountry.net) | — | May 22 | [Apply](https://job-boards.greenhouse.io/kidscountry/jobs/7747015003) |
+| AI Principal Technical Consultant, AI Services | [AHEAD](https://ahead.com) | — | May 22 | [Apply](https://jobs.lever.co/thinkahead/e9349a95-65b6-43e8-9c45-12bb8dd6483b) |
 | Senior Interaction / Product Designer  | [CapTech](https://captech.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/CapTechConsulting/postings/744000127968310) |
+| GTM Enablement Lead, SMB | [Reddit](https://reddit.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/7954949) |
+| Actuary – Product Development | [Fetch](https://fetchtruck.com) | $140K–$180K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/fetch/jobs/4257981009) |
 | Manager, Mechanical Actuator Development  | [Archer](https://archer.com) | $172K–$230K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7741005003) |
+| Physical Therapist Assistant, PTA Rockford | [InHomeTherapy](https://inhometherapy.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/inhometherapy/jobs/5133386007) |
 | Channel Manager | [Vanta](https://vanta.com) | — | May 22 | [Apply](https://jobs.ashbyhq.com/vanta/5cba09a5-a8f9-4efb-a227-a69019df43ed) |
+| Store Representative - Part-Time Days | [Serv-U-Success](https://servusuccess.com) | $16/yr | May 22 | [Apply](https://jobs.lever.co/serv-u-success/0b1c1c89-01d0-49e9-a7d9-f3c80e0e56a3) |
+| Store Representative - Days | [Serv-U-Success](https://servusuccess.com) | $16/yr | May 22 | [Apply](https://jobs.lever.co/serv-u-success/37f99088-53af-4ef9-82ec-6a860e530521) |
 | Cook 1 - Shields Athletic Dining Facility | [University of Notre Dame](https://universityofnotredame.com) | $18/yr | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013276546) |
 | PT Market Medical Director - Bay Area | [Pine Park Health](https://pineparkhealth.com) | $230K–$285K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/pineparkhealth/jobs/6004623004) |
 | Occupational Therapist, OT ($15,000 Bonus!) | [InHomeTherapy](https://inhometherapy.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/inhometherapy/jobs/5145439007) |
@@ -27,12 +37,15 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | PLONGEUR (SE) CDI 30 Heures Hebdomadaires  | [ACCOR](https://group.accor.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000127940860) |
 | Customer Success Team Lead - Amman, JOR | [Genpak LLC](https://genpak-llc-2) | — | May 22 | [Apply](https://job-boards.greenhouse.io/kitchenpark/jobs/8557823002) |
 | (IRELAND ONLY) Part Time Sales Assistant - Sports Direct (IRELAND ONLY) | [Frasers Group](https://frasersgroup.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000127936324) |
+| LVN - LPT | [Crestwood Behavioral Health](https://crestwoodbehavioralhealth.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/crestwoodcareers/jobs/7746950003) |
 | Référent Conduite du Changement Microsoft 365 et Copilot (H/F) | [Magellan Partners](https://magellanpartners.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/MagellanPartners/postings/744000127923189) |
 | EMPLOYE(E) BOULANGERIE PATISSERIE 26H00 HEBDO | [Genpak LLC](https://genpak-llc-2) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127920425) |
 | INTERMARCHE - HOTE(SSE) de CAISSE - EMPLOYE COMMERCIAL POLYVALENT (H/F) - CDI tps complet | [Genpak LLC](https://genpak-llc-2) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127917460) |
 | Meccanico Diagnostico - Specialista diagnostica veicoli | [AUTO1 Group](https://auto1-group.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000127917499) |
 | Test Driver – Specialista Validazione e Collaudo | [AUTO1 Group](https://auto1-group.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000127913220) |
 | Perito Tecnico Auto PAVIA – Valuta, Verifica, Garantisce | [AUTO1 Group](https://auto1-group.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000127916978) |
+| Perito Tecnico Auto PAVIA – Valuta, Verifica, Garantisce | [AUTO1 Group](https://auto1-group.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000127915510) |
+| Perito Tecnico Auto PAVIA – Valuta, Verifica, Garantisce | [AUTO1 Group](https://auto1-group.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000127916838) |
 | Clinic Director/Partner - Physical Therapist | [BenchMark Physical Therapy](https://benchmarkpt.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/benchmarkpt/jobs/5145302007) |
 | Préparateur Drive  (H/F) - CDI Temps complet | [Genpak LLC](https://genpak-llc-2) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127911910) |
 | Head of Market Solutions | [Legal & General](https://legalgeneral.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/LegalAndGeneral/postings/744000127910479) |
@@ -43,6 +56,7 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Account Executive (Acciones Especiales) | [WPP Media](https://wppmedia.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5228886008) |
 | Chargé d'accueil et de services hôteliers - H/F | [Genpak LLC](https://genpak-llc-2) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000127874789) |
 | Receptionniste - H/F | [Genpak LLC](https://genpak-llc-2) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000127873989) |
+| Associate Dentist (NHS/ Private) | [PortmanDentex](https://portmandentex.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000127870350) |
 | Registered Nurse | [Healthcare Australia](https://healthcareaustralia.com.au) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/HealthcareAustralia1/postings/6000000001096555) |
 | Supervisor de turno- Farmacéutico | [Delivery Hero](https://deliveryhero.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000127765838) |
 | Housekeeper | [Crestwood Behavioral Health](https://crestwoodbehavioralhealth.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/crestwoodcareers/jobs/7746543003) |
@@ -63,6 +77,7 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Assistant Responsable Le Marius bar | [Relais & Châteaux](https://relaischateaux.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000127724240) |
 | Commis de salle F/H – Restaurant Jean Sulpice** | [Relais & Châteaux](https://relaischateaux.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000127725075) |
 | Chef(fe) de rang – Restaurant Jean Sulpice** | [Relais & Châteaux](https://relaischateaux.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000127724779) |
+| Full Time Certified Nursing Assistant, CNA (PM) | [Silverado](https://silverado.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/silverado/jobs/5144186007) |
 | Réceptionniste [Saison 2026] | [Genpak LLC](https://genpak-llc-2) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000127718939) |
 | Agent technique [Saison 2026] | [Genpak LLC](https://genpak-llc-2) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000127717212) |
 | Assistant Cheffe de Reception  | [Genpak LLC](https://genpak-llc-2) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000127718119) |

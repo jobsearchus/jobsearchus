@@ -2,12 +2,18 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**177 open roles** — Last updated: 2026-05-23
+**188 open roles** — Last updated: 2026-05-23
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Sr. Director of FP&A | [Fluidstack](https://fluidstack.com) | $237K–$344K/yr | May 23 | [Apply](https://jobs.ashbyhq.com/fluidstack/b438dd5d-e242-4157-957c-6dc27d69c8e5) |
+| Chief Financial Officer | [Moonshot Brands](https://moonshotbrands.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/moonshot/jobs/4240396009) |
+| Funcional Junior -  Profesional Funcional Pruebas Información Tributaria | [Inetum](https://inetum.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000127975919) |
+| Associate Payroll Analyst | [Volito Aviation August 2007](https://trustly.com) | — | May 22 | [Apply](https://jobs.lever.co/trustly/a2b1902f-1f00-41de-9506-543e9a308dd0) |
+| Director, FP&A | [StackAdapt](https://stackadapt.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/stackadapt/jobs/4257553009) |
+| Billing & Collections Specialist | [Dragos](https://dragos.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/dragos/jobs/5208029008) |
 | Pensions Manager | [The Trade Desk](https://thetradedesk.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5145491007) |
 | Senior Payments Administrator (Fixed Term Contract) | [Standard Bank](https://standardbank.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000127935149) |
 | Private Banker | [Standard Bank](https://standardbank.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000127932099) |
@@ -17,11 +23,16 @@ Remote finance, accounting, and analyst roles at companies of all sizes.
 | FP&A Analyst | [Array Labs](https://arraylabs.io) | — | May 22 | [Apply](https://boards.greenhouse.io/array/jobs/6003611004?gh_jid=6003611004) |
 |  Billing Advocate | [Apollo.io](https://apollo.io) | — | May 22 | [Apply](https://job-boards.greenhouse.io/apolloio/jobs/6003592004) |
 | Associate Portfolio Manager | [Legal & General](https://legalgeneral.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/LegalAndGeneral/postings/744000127903499) |
+| Digital Financial Accountant | [Entain](https://entaingroup.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Entain/postings/744000127897619) |
+| Digital Financial Accountant | [Entain](https://entaingroup.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Entain/postings/744000127890780) |
 | Senior Commercial Finance Analyst | [NBCUniversal](https://nbcuniversal.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000127881749) |
 | Senior Accountant for Netcompany Banking Services (f/m) | [Netcompany](https://netcompany.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000127858535) |
+| Banker, Business | [Standard Bank](https://standardbank.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000127859284) |
 | Fianace Coordinator Shelter | [Avery Dennison](https://averydennison.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000127857946) |
 | Project Accountant | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000127853733) |
+| Risk Associate with Greek | [Entain](https://entaingroup.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Entain/postings/744000127852829) |
 |  Client Accountant - Funds (Real Estate)  | [IQ-EQ](https://iqeq.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000127843186) |
+| Accountant 2, Fund Accounting | [IQ-EQ](https://iqeq.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000127827279) |
 | Claim analyst | [Vitol](https://vitol.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Vitol/postings/744000127812455) |
 | Senior Developer:Java,React,AWS | [Referrals Only](https://thoughtworks.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7952551) |
 | Intern, APAC Payroll | [Delivery Hero](https://deliveryhero.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000127798489) |

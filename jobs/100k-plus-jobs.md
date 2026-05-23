@@ -2,21 +2,33 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**293 open roles** — Last updated: 2026-05-23
+**305 open roles** — Last updated: 2026-05-23
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Software Engineer, AI Platform | [Mixpanel](https://mixpanel.com) | $175K–$213K/yr | May 23 | [Apply](https://job-boards.greenhouse.io/mixpanel/jobs/7941944) |
+| Sr. Director of FP&A | [Fluidstack](https://fluidstack.com) | $237K–$344K/yr | May 23 | [Apply](https://jobs.ashbyhq.com/fluidstack/b438dd5d-e242-4157-957c-6dc27d69c8e5) |
+| Practice Manager - Electrical & Software Engineering | [ALTEN](https://alten.com) | $160K–$170K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5145832007) |
+| Category Manager Construction Services | [Fluidstack](https://fluidstack.com) | $180K–$200K/yr | May 22 | [Apply](https://jobs.ashbyhq.com/fluidstack/c712a833-f347-4f41-9a8e-42b54fc3712c) |
+| Product Counsel, ERISA & Operations | [Human Interest](https://humaninterest.com) | $170K–$210K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/humaninterest/jobs/7952022) |
+| Additive Manufacturing Product Manager | [Momentus](https://momentus.space) | $140K–$175K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/momentus/jobs/6004816004) |
+| Senior AV Engineer | [Amplitude](https://amplitude.com) | $107K–$161K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/amplitude/jobs/8563162002) |
+| Senior Product Manager (AI Care Management) | [Pair Team](https://pairteam.com) | $195K–$220K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/pairteam/jobs/8563140002) |
+| Senior Applied Scientist | [Garner Health](https://getgarner.com) | $200K–$245K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/garnerhealth/jobs/6004808004) |
 | Corporate Counsel - East Coast/UK | [Drata](https://drata.com) | $180K–$223K/yr | May 22 | [Apply](https://jobs.ashbyhq.com/drata/bfa0a5cd-f5d1-436c-8198-e90951faede4) |
 | Director, Real Estate and Workplace Experience | [Coursera](https://coursera.org) | $192K–$241K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/coursera/jobs/6002760004) |
+| Actuary – Product Development | [Fetch](https://fetchtruck.com) | $140K–$180K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/fetch/jobs/4257981009) |
 | Manager, Mechanical Actuator Development  | [Archer](https://archer.com) | $172K–$230K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7741005003) |
+| Senior Software Engineer, Unified Platform - Trade Management, Trade and Order Processing, Platform Services | [DRW](https://drw.com) | $200K–$275K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7939741) |
 | Senior Counsel | [LaunchDarkly](https://launchdarkly.com) | $138K–$189K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/launchdarkly/jobs/7747213003) |
 | X Developer Platform – Forward Deployed Engineer, X API | [xAI](https://x.ai) | $180K–$440K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/xai/jobs/5136287007) |
 | Senior Governance, Risk, and Compliance Engineer | [IonQ](https://ionq.com) | $110K–$144K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/ionq/jobs/6001723004) |
 | Software Engineer, Native Delivery | [Hightouch](https://hightouch.com) | $180K–$320K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/hightouch/jobs/6004706004) |
 | Senior Product Manager, Developer Ecosystem | [Boulevard](https://joinblvd.com) | $163K–$221K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/boulevard/jobs/4683617006) |
 | Content Marketing Lead | [Mighty Health](https://mightyhealth.com) | $110K–$160K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/mighty/jobs/6004642004) |
+| Technical Product Marketing Manager  | [Bloomreach](https://bloomreach.com) | $150K–$200K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/bloomreach/jobs/7954646) |
 | Senior Analyst, Powertrain | [Archer](https://archer.com) | $100K–$160K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7741008003) |
 | PT Market Medical Director - Bay Area | [Pine Park Health](https://pineparkhealth.com) | $230K–$285K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/pineparkhealth/jobs/6004623004) |
 | Regional Vice President, West - Remote - CA  | [Grafana Labs](https://grafana.com) | $450K–$490K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6004409004) |

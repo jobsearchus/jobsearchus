@@ -2,13 +2,19 @@
 
 Remote customer support and success roles across SaaS, e-commerce, and tech.
 
-**119 open roles** — Last updated: 2026-05-23
+**125 open roles** — Last updated: 2026-05-23
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Customer Success Manager | [Snappr](https://snappr.com) | — | May 23 | [Apply](https://jobs.lever.co/snappr/73d1de4f-deb0-40c8-8068-12417c928004) |
 | Customer Service Rep(7936) -  10986 Sierra ave | [Domino's](https://dominos.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000127986444) |
+| Patient Billing Associate | [BillionToOne](https://billiontoone.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/billiontoone/jobs/4699041005) |
+| Patient Billing Associate | [BillionToOne](https://billiontoone.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/billiontoone/jobs/4699040005) |
+| Prinicpal Customer Success Manager, Enterprise | [1Password](https://1password.com) | — | May 22 | [Apply](https://jobs.ashbyhq.com/1password/d1f1214c-e344-4fab-b9af-413ca1134383) |
+| Health Claims Specialists | [Genpak LLC](https://genpak-llc-2) | $14/yr | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000127972878) |
+| Sports Customer Service Specialists - Work At Home | [Genpak LLC](https://genpak-llc-2) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000127970268) |
 | Senior Manager, Customer Success Management - Enterprise/EMEA | [Chainguard](https://chainguard.dev) | — | May 22 | [Apply](https://job-boards.greenhouse.io/chainguard/jobs/4679713006) |
 | Tier 2 Help Desk Technician | [Replit](https://replit.com) | — | May 22 | [Apply](https://jobs.ashbyhq.com/replit/60c2656b-5b23-44b8-9b04-98169e7b53e7) |
 | Program Manager - Customer Experience | [Canva](https://canva.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001099075) |

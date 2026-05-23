@@ -2,12 +2,20 @@
 
 Product manager roles at companies building real products. Sourced directly from career pages.
 
-**62 open roles** — Last updated: 2026-05-23
+**70 open roles** — Last updated: 2026-05-23
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Staff Product Manager, New Product Area | [Jump](https://jump.com) | — | May 23 | [Apply](https://jobs.ashbyhq.com/jump-app/f50e7985-112e-4b65-9bf5-636be2d7a411) |
+| Additive Manufacturing Product Manager | [Momentus](https://momentus.space) | $140K–$175K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/momentus/jobs/6004816004) |
+| Senior Product Manager (AI Care Management) | [Pair Team](https://pairteam.com) | $195K–$220K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/pairteam/jobs/8563140002) |
+| Product Owner - Normativos | [Inetum](https://inetum.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000127975450) |
+| Senior Manager, Premium Products | [Clear Gene](https://cleargene.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/clear/jobs/7955113) |
+| Senior Product Manager | [Zynga](https://zynga.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/zyngacareers/jobs/6000475004) |
+| ServiceNow Business Analyst (Technical) | [LightFeather](https://lightfeather.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5229594008) |
+| [Job - 29506] Senior Product Analyst, Titusville, NJ | [CI&T](https://cit.com) | — | May 22 | [Apply](https://jobs.lever.co/ciandt/d39b37cc-b05b-46d8-ae86-b2da5980f503) |
 | Senior Product Manager, Developer Ecosystem | [Boulevard](https://joinblvd.com) | $163K–$221K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/boulevard/jobs/4683617006) |
 | Product Manager II - Growth (Remote Eligible) | [Smartsheet](https://smartsheet.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/smartsheet/jobs/7951915) |
 | Apartment Manager | [WellPower - All External Jobs](https://wellpower.org) | — | May 22 | [Apply](https://job-boards.greenhouse.io/mentalhealthcenterofdenver/jobs/7743092003) |

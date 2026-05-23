@@ -2,20 +2,33 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**359 open roles** — Last updated: 2026-05-23
+**373 open roles** — Last updated: 2026-05-23
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Sweathouz-  Sales Associate, Pasadena (Part-time) | [Momentic](https://momentic.ai) | $18/yr | May 23 | [Apply](https://job-boards.greenhouse.io/momentic/jobs/5230005008) |
+| Sr. Key Account manager | [Delivery Hero](https://deliveryhero.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000127996589) |
+| VENDEUR / VENDEUSE CONSEIL - CDD TEMPS PARTIEL H/F | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000127996009) |
 | Delivery Driver(06611) | [Domino's](https://dominos.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000127989964) |
 | Delivery Expert(06833) - 1926 Crockett Rd, Palestine, Tx 75801 | [Domino's](https://dominos.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000127989604) |
+| Lead Solutions Consultant | [Airtable](https://airtable.com) | — | May 23 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8563194002) |
 | PV - Executivo (a) de Vendas Externas Pleno - Aracaju/SE | [Experian](https://experianplc.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000127977459) |
 | PV - Executivo (a) de Vendas Externas Pleno - Aracaju/SE | [Experian](https://experianplc.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000127977399) |
 | PV - Executivo (a) de Vendas Externas Sênior - Juiz de Fora/MG | [Experian](https://experianplc.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000127976510) |
 | Enterprise Customer Success Manager | [Canva](https://canva.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001099097) |
 | Associate Sales Professional – North Western Canada | [Manitoulin Global Forwarding](https://manitoulingroup.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000127975969) |
+| Sales Enablement Specialist | [SingleStore](https://singlestore.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/singlestore/jobs/7955119) |
+| Mid Market Business Development Representative | [Peek](https://peek.com) | — | May 22 | [Apply](https://jobs.ashbyhq.com/peek/bbe71fd6-b9a7-4210-871a-95cdd33a2885) |
+| Senior Sales Development Representative | [ExtraHop](https://extrahop.com) | $70K–$89K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/extrahopnetworks/jobs/6004419004) |
+| Senior Sales Development Representative | [Faire](https://faire.com) | — | May 22 | [Apply](https://boards.greenhouse.io/faire/jobs/8562743002?gh_jid=8562743002) |
 | Account Manager, Growth Stage | [Vanta](https://vanta.com) | — | May 22 | [Apply](https://jobs.ashbyhq.com/vanta/d5892780-397b-48d6-90de-60e335ec8b87) |
+| Account Coordinator | [InHomeTherapy](https://inhometherapy.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/inhometherapy/jobs/5145609007) |
+| Agente Stone - Consultor (a) Comercial Externo - Araras/SP | [Stone](https://stone.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/stone/jobs/7747231003) |
+| Agente Stone - Consultor (a) Comercial Externo - Atibaia/SP | [Stone](https://stone.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/stone/jobs/7747229003) |
+| Agente Stone - Consultor (a) Comercial Externo -  Jundiaí/SP | [Stone](https://stone.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/stone/jobs/7747228003) |
+| Director, Sales Development Americas - United States - Remote | [Grafana Labs](https://grafana.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6004701004) |
 | SDR Manager | [Boulevard](https://joinblvd.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/boulevard/jobs/4680601006) |
 | Account Executive, Enterprise | [Demandbase](https://demandbase.com) | — | May 22 | [Apply](https://jobs.ashbyhq.com/demandbase/e1bebad5-02fb-4e13-b2c8-e8e500221962) |
 | Regional Vice President, West - Remote - CA  | [Grafana Labs](https://grafana.com) | $450K–$490K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6004409004) |
@@ -37,6 +50,7 @@ Remote sales roles — account executives, SDRs, and enterprise deals.
 | Manager, Account Management | [Coupang](https://coupang.com) | — | May 22 | [Apply](https://boards.greenhouse.io/coupanginternal/jobs/7924300?gh_jid=7924300) |
 | Manager, Account Management | [Coupang](https://coupang.com) | — | May 22 | [Apply](https://boards.greenhouse.io/coupanginternal/jobs/7681542?gh_jid=7681542) |
 | Account Executive, Enterprise (BeLux) | [Pure Storage](https://purestorage.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/7920652) |
+| Sales Director, Debt Capital Markets & Corporate | [IQ-EQ](https://iqeq.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000127821905) |
 | Strategic Cybersecurity Advisor | [New Era Technology](https://neweratech.com) | $125K–$150K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8554991002) |
 | Assistant Account Manager/ Business Development  | [Avery Dennison](https://averydennison.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000127800839) |
 | Enterprise Account Director (Commerce/CPG) | [StackAdapt](https://stackadapt.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/stackadapt/jobs/4254224009) |

@@ -2,15 +2,21 @@
 
 Remote operations and business operations roles across industries.
 
-**404 open roles** — Last updated: 2026-05-23
+**412 open roles** — Last updated: 2026-05-23
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Chauffeur, livreur, installateur | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000127996959) |
+| Specialist, Category -Food | [Delivery Hero](https://deliveryhero.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000127995639) |
 | Delivery Driver(09281) - 401 E Business 83 | [Domino's](https://dominos.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000127988434) |
 | Delivery Driver | [Domino's](https://dominos.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000127990359) |
 | General Manager(04890) - 3921 E. Market St | [Domino's](https://dominos.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000127989561) |
+| Category Manager Construction Services | [Fluidstack](https://fluidstack.com) | $180K–$200K/yr | May 22 | [Apply](https://jobs.ashbyhq.com/fluidstack/c712a833-f347-4f41-9a8e-42b54fc3712c) |
+| Senior Facilities Technician | [Inversion Space](https://inversionspace.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/inversionspace/jobs/4699027005) |
+| Senior Applied Scientist | [Garner Health](https://getgarner.com) | $200K–$245K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/garnerhealth/jobs/6004808004) |
+| Spa Manager | [Sensei](https://senseirobotics.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/sensei/jobs/8562999002) |
 | Director, Real Estate and Workplace Experience | [Coursera](https://coursera.org) | $192K–$241K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/coursera/jobs/6002760004) |
 | Facilities Coordinator | [University of Notre Dame](https://universityofnotredame.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013277286) |
 | Warranty Auditor | [MSX International](https://msxi.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013277176) |
@@ -60,9 +66,11 @@ Remote operations and business operations roles across industries.
 | Account Manager - North Bay | [Manitoulin Global Forwarding](https://manitoulingroup.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000127732291) |
 | DoD SkillBridge Internship: Junior Estimator | [JRM Construction Management, LLC](https://jrmcm.com) | $65K–$90K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/jrmconstructionmanagementllc/jobs/4682707006) |
 | DoD SkillBridge Internship: Assistant Superintendent | [JRM Construction Management, LLC](https://jrmcm.com) | $65K–$90K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/jrmconstructionmanagementllc/jobs/4682705006) |
+| Shift Supervisor Night Shift | [Enviva](https://envivabiomass.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/enviva/jobs/7743102003) |
 | Student Enrollment Specialist  | [Aviation Institute of Maintenance](https://aviationmaintenance.edu) | $29/yr | May 21 | [Apply](https://job-boards.greenhouse.io/aviationinstituteofmaintenance/jobs/5228090008) |
 | Mechanical Supervisor | [Enviva](https://envivabiomass.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/enviva/jobs/7743101003) |
 | Assistant-In-Training, Golf Course Maintenance | [Sensei](https://senseirobotics.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/sensei/jobs/8560565002) |
+| Mecânico Industrial III - Afirmativa para Mulheres | [Anglo American](https://angloamerican.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000127729532) |
 | Clow Valve - Iron Melt | [McWane](https://mcwane.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/McWaneInc/postings/3743990013257406) |
 | Kennedy Valve-Production Process Intern  | [McWane](https://mcwane.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/McWaneInc/postings/3743990013257104) |
 | EMPLOYE COMMERCIAL (H/F) boulangerie patisserie | [Genpak LLC](https://genpak-llc-2) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127724519) |
