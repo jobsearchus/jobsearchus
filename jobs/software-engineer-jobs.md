@@ -2,7 +2,7 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**609 open roles** — Last updated: 2026-05-23
+**616 open roles** — Last updated: 2026-05-23
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -15,7 +15,12 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Forward Deployed Software Engineer | [Pareto](https://pareto.com) | — | May 22 | [Apply](https://jobs.ashbyhq.com/pareto-ai/9b5842fb-f936-47d0-9985-2941264123d8) |
 | Maintenance Technician | [ACCOR](https://group.accor.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000127936628) |
 | Lead Engineer | [Gymshark](https://gymshark.com) | — | May 22 | [Apply](https://job-boards.eu.greenhouse.io/gymshark/jobs/4874067101) |
+| Ingénieur(e) en Développement de Codes de Calcul Scientifique – Mécanique des Structures - Lyon | [Sopra Steria](https://soprasteria.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/SopraSteria1/postings/744000127928332) |
+| Supply Manager [26101] | [Sopra Steria](https://soprasteria.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/SopraSteria1/postings/744000127928357) |
+| Architecte Data / Avant-Vente (F/H) | [Magellan Partners](https://magellanpartners.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/MagellanPartners/postings/744000127920030) |
+| Distributed Cloud - Managed Services Engineer | [Devoteam](https://devoteam.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Devoteam/postings/744000127921145) |
 | Bartender - 40 Greek Street, Central London | [Soho House](https://sohohouse.com) | — | May 22 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4868128101) |
+| Enterprise Architect  | [Arηs Group](https://arsgroup.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/ARHS/postings/744000127920377) |
 | Research Executive (12m FTC) | [Gymshark](https://gymshark.com) | — | May 22 | [Apply](https://job-boards.eu.greenhouse.io/gymshark/jobs/4874046101) |
 | Devoteam Cyber Trust - GRC Consultant (Business Continuity & Operational Security Manager) - Banking Sector  | [Devoteam](https://devoteam.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Devoteam/postings/744000127910685) |
 | Product Engineer (Security) - AI Control Plane | [Speakeasy](https://speakeasy.com) | — | May 22 | [Apply](https://jobs.ashbyhq.com/speakeasy/1e2a2f6d-e91e-48fb-8fd4-5b5736ceaaff) |
@@ -24,7 +29,9 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Ploegbaas Electriciteit - Industriële Laag- en Hoogspanning | [BESIX](https://besix.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000127892744) |
 | Monteur Electriciteit - Industriële Laag- & Hoogspanning | [BESIX](https://besix.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000127891150) |
 | Sr Data Analyst | [MSX International](https://msxi.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013268966) |
+| PreMaster Program - Embedded Sensor Computing (RISC‑V) (f/m/div) | [Bosch](https://bosch.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/BoschGroup/postings/744000127888753) |
 | Amazon Connect Bisness Architect | [Miratech](https://miratech.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000127889046) |
+| [PS/SC] HW エンジニア (Engine Control Unit / Vehicle Control Unit) | [Bosch](https://bosch.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/BoschGroup/postings/744000127884609) |
 | Associate Vehicle Test Specialist | [Bosch](https://bosch.com) | $76K–$85K/yr | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/BoschGroup/postings/744000127881559) |
 | EMC Hardware Engineer | [Bosch](https://bosch.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/BoschGroup/postings/744000127879600) |
 | Senior Technical Project Manager (Telecom) | [Miratech](https://miratech.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000127877719) |

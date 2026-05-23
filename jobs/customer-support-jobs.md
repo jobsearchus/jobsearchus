@@ -2,7 +2,7 @@
 
 Remote customer support and success roles across SaaS, e-commerce, and tech.
 
-**116 open roles** — Last updated: 2026-05-23
+**117 open roles** — Last updated: 2026-05-23
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -13,6 +13,7 @@ Remote customer support and success roles across SaaS, e-commerce, and tech.
 | Tier 2 Help Desk Technician | [Replit](https://replit.com) | — | May 22 | [Apply](https://jobs.ashbyhq.com/replit/60c2656b-5b23-44b8-9b04-98169e7b53e7) |
 | Associate Customer Success Manager, Oncology | [Natera](https://natera.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/natera/jobs/5999205004) |
 | BestDrive Service Technician | [Continental](https://continentalserves.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000127898324) |
+| Németül beszélő Customer Service Specialist (REF5520R) | [Deutsche Telekom IT Solutions](https://deutschetelekomitsolutions.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/DeutscheTelekomITSolutions/postings/744000127883903) |
 | Customer Support Quality Specialist | [Genpak LLC](https://genpak-llc-2) | — | May 22 | [Apply](https://job-boards.eu.greenhouse.io/growetalents/jobs/4846477101) |
 | Customer Success Manager | [GitLab](https://about.gitlab.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8512758002) |
 | Revenue Manager | [ACCOR](https://group.accor.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000127766039) |

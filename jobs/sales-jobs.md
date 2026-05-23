@@ -2,12 +2,14 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**345 open roles** — Last updated: 2026-05-23
+**351 open roles** — Last updated: 2026-05-23
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Delivery Driver(06611) | [Domino's](https://dominos.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000127989964) |
+| Delivery Expert(06833) - 1926 Crockett Rd, Palestine, Tx 75801 | [Domino's](https://dominos.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000127989604) |
 | Account Manager, Growth Stage | [Vanta](https://vanta.com) | — | May 22 | [Apply](https://jobs.ashbyhq.com/vanta/d5892780-397b-48d6-90de-60e335ec8b87) |
 | SDR Manager | [Boulevard](https://joinblvd.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/boulevard/jobs/4680601006) |
 | Account Executive, Enterprise | [Demandbase](https://demandbase.com) | — | May 22 | [Apply](https://jobs.ashbyhq.com/demandbase/e1bebad5-02fb-4e13-b2c8-e8e500221962) |
@@ -16,6 +18,10 @@ Remote sales roles — account executives, SDRs, and enterprise deals.
 | Enterprise Restaurant Account Manager | [Sharebite](https://sharebite.com) | $90K–$100K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/sharebite/jobs/6004491004) |
 | Staff Technical Account Manager | [Illumio](https://illumio.com) | — | May 22 | [Apply](https://jobs.ashbyhq.com/illumio/e5025502-28d0-4e18-b690-83e1bd2142c3) |
 | Account Manager | [Moonpig Group](https://moonpiggroup.com) | — | May 22 | [Apply](https://jobs.lever.co/moonpig/9fe3f91c-4bba-4a07-be05-4f2fe3cb6351) |
+| Ingénieur(e) avant-vente / Bid Manager confirmé(e) - Défense & Sécurité - Le Plessis Robinson  | [Sopra Steria](https://soprasteria.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/SopraSteria1/postings/744000127925040) |
+| Ingénieur Commercial (H/F) | [Magellan Partners](https://magellanpartners.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/MagellanPartners/postings/744000127921584) |
+| Aesthetic Surgical Rep (AS), Allergan Aesthetics, North LA/Ventura | [AbbVie](https://abbvie.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AbbVie/postings/3743990013271537) |
+| Sr. Account Manager | [Devoteam](https://devoteam.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Devoteam/postings/744000127913450) |
 | Key Account Manager, Immunology | [AbbVie](https://abbvie.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AbbVie/postings/3743990013269896) |
 | Key Account Manager Immunology | [AbbVie](https://abbvie.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AbbVie/postings/3743990013269826) |
 | Key account manager | [Continental](https://continentalserves.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000127901894) |

@@ -2,7 +2,7 @@
 
 Remote operations and business operations roles across industries.
 
-**393 open roles** — Last updated: 2026-05-23
+**397 open roles** — Last updated: 2026-05-23
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -10,6 +10,7 @@ Remote operations and business operations roles across industries.
 | --- | --- | --- | --- | --- |
 | Delivery Driver(09281) - 401 E Business 83 | [Domino's](https://dominos.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000127988434) |
 | Delivery Driver | [Domino's](https://dominos.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000127990359) |
+| General Manager(04890) - 3921 E. Market St | [Domino's](https://dominos.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000127989561) |
 | Director, Real Estate and Workplace Experience | [Coursera](https://coursera.org) | $192K–$241K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/coursera/jobs/6002760004) |
 | Events Manager  | [Cantina](https://cantina.com) | $140K–$180K/yr | May 22 | [Apply](https://jobs.ashbyhq.com/cantina/4ff89979-0351-4e39-acef-69a33c8a8457) |
 | Document Control Specialist – xAI Infrastructure  | [xAI](https://x.ai) | — | May 22 | [Apply](https://job-boards.greenhouse.io/xai/jobs/5145444007) |
@@ -17,9 +18,12 @@ Remote operations and business operations roles across industries.
 | Onboarding Manager, Customer Experience (São Paulo, Brazil) | [Figma](https://figma.com) | — | May 22 | [Apply](https://boards.greenhouse.io/figma/jobs/6000248004?gh_jid=6000248004) |
 | FR - Agent/Technicien de maintenance (H/F/X) | [ACCOR](https://group.accor.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000127938329) |
 | Heavy Equipment Technician, Contract, Fly In Fly Out – Gahcho Kué Mine, Northwest Territories  | [Anglo American](https://angloamerican.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000127924509) |
+| Clinical Operations Manager | [AbbVie](https://abbvie.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AbbVie/postings/3743990013272116) |
 | Técnico(a) Manutenção Eletrica Filtragem II | [Anglo American](https://angloamerican.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000127907227) |
 | Apprenticeship - Business Analyst - Hove - 2026 | [Legal & General](https://legalgeneral.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/LegalAndGeneral/postings/744000127907389) |
 | Intermediate Government Contracts Professional | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $65K–$75K/yr | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000127893118) |
+| Working Student in Digitization, IT and Office Support (f/m/div.) | [Bosch](https://bosch.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/BoschGroup/postings/744000127888889) |
+| Service Delivery Manager - Experienced (REF5258B) | [Deutsche Telekom IT Solutions](https://deutschetelekomitsolutions.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/DeutscheTelekomITSolutions/postings/744000127883342) |
 | Key Accounts Partner Operations | [Deliveroo](https://deliveroo.co.uk) | — | May 22 | [Apply](https://jobs.ashbyhq.com/deliveroo/4277053d-8c64-4af1-b4dd-b538d33a6f9c) |
 | Pflichtpraktikum in der Kunden- und Beschaffungsplanung | [Bosch](https://bosch.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/BoschGroup/postings/744000127880656) |
 | Product Developer | [Gymshark](https://gymshark.com) | — | May 22 | [Apply](https://job-boards.eu.greenhouse.io/gymshark/jobs/4873887101) |

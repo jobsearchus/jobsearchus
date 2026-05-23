@@ -2,7 +2,7 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**381 open roles** — Last updated: 2026-05-23
+**382 open roles** — Last updated: 2026-05-23
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -21,6 +21,7 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Senior Director, Commercial Strategy & Programs | [Impiricus](https://impiricus.com) | $170K–$220K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/impiricus/jobs/5228920008) |
 | PLONGEUR (SE) CDI 30 Heures Hebdomadaires  | [ACCOR](https://group.accor.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000127940860) |
 | Customer Success Team Lead - Amman, JOR | [Genpak LLC](https://genpak-llc-2) | — | May 22 | [Apply](https://job-boards.greenhouse.io/kitchenpark/jobs/8557823002) |
+| Référent Conduite du Changement Microsoft 365 et Copilot (H/F) | [Magellan Partners](https://magellanpartners.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/MagellanPartners/postings/744000127923189) |
 | EMPLOYE(E) BOULANGERIE PATISSERIE 26H00 HEBDO | [Genpak LLC](https://genpak-llc-2) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127920425) |
 | INTERMARCHE - HOTE(SSE) de CAISSE - EMPLOYE COMMERCIAL POLYVALENT (H/F) - CDI tps complet | [Genpak LLC](https://genpak-llc-2) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127917460) |
 | Meccanico Diagnostico - Specialista diagnostica veicoli | [AUTO1 Group](https://auto1-group.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000127917499) |

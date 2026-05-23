@@ -2,7 +2,7 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**159 open roles** — Last updated: 2026-05-23
+**160 open roles** — Last updated: 2026-05-23
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -11,6 +11,7 @@ Remote marketing roles across growth, content, brand, and performance channels.
 | Senior Product Marketing Manager | [Genpak LLC](https://genpak-llc-2) | — | May 22 | [Apply](https://job-boards.greenhouse.io/commvault/jobs/5224302008) |
 | Content Marketing Lead | [Mighty Health](https://mightyhealth.com) | $110K–$160K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/mighty/jobs/6004642004) |
 | Senior Manager, Marketing Operations | [Socure](https://socure.com) | — | May 22 | [Apply](https://jobs.ashbyhq.com/socure/fc865d8f-455b-460f-9fc0-7e0f272be3d7) |
+| International Digital & Consumer Lead, Allergan Aesthetics | [AbbVie](https://abbvie.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AbbVie/postings/3743990013271728) |
 | Account Director, Publishing  | [WPP Media](https://wppmedia.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5226128008) |
 | International Digital & Consumer Lead, Allergan Aesthetics | [AbbVie](https://abbvie.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AbbVie/postings/3743990013271464) |
 | Account Director, Digital & Biddable Media  (Parental Cover) | [WPP Media](https://wppmedia.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5224314008) |

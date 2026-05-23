@@ -2,7 +2,7 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**176 open roles** — Last updated: 2026-05-23
+**177 open roles** — Last updated: 2026-05-23
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -11,6 +11,7 @@ Remote finance, accounting, and analyst roles at companies of all sizes.
 | Pensions Manager | [The Trade Desk](https://thetradedesk.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5145491007) |
 | Senior Payments Administrator (Fixed Term Contract) | [Standard Bank](https://standardbank.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000127935149) |
 | Private Banker | [Standard Bank](https://standardbank.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000127932099) |
+| Senior Delegated Solutions Manager  | [Legal & General](https://legalgeneral.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/LegalAndGeneral/postings/744000127927749) |
 | Assistant Management Accountant (18 month FTC) | [Anglo American](https://angloamerican.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000127926479) |
 | Planning Manager | [Standard Bank](https://standardbank.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000127912775) |
 | FP&A Analyst | [Array Labs](https://arraylabs.io) | — | May 22 | [Apply](https://boards.greenhouse.io/array/jobs/6003611004?gh_jid=6003611004) |
