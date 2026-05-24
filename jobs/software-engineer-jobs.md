@@ -2,7 +2,7 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**651 open roles** — Last updated: 2026-05-24
+**655 open roles** — Last updated: 2026-05-24
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -16,6 +16,8 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Senior AV Engineer | [Amplitude](https://amplitude.com) | $107K–$161K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/amplitude/jobs/8563162002) |
 | SR Desenvolvimento Python (com foco em dados) | [ília](https://lia.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/ilia/jobs/6004817004) |
 | Senior Software Engineer I (Automation) | [Smartsheet](https://smartsheet.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/smartsheet/jobs/7955075) |
+| Analista Junior de Data Analytics para Seguridad  | [Inetum](https://inetum.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000127973249) |
+| Analista Junior de Accesos Lógicos e IAM  | [Inetum](https://inetum.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000127971910) |
 | Sales Engineer, GTM & Enablement | [Filevine](https://filevine.com) | — | May 22 | [Apply](https://jobs.lever.co/filevine/0046ee28-49d3-4c3b-aec7-fbd4abbb3b1b) |
 | Biologist | [Axle](https://axle.insure) | — | May 22 | [Apply](https://job-boards.greenhouse.io/axle/jobs/5145706007) |
 | [Job -  29519] Cloud Architect, Sao Paulo BR | [CI&T](https://cit.com) | — | May 22 | [Apply](https://jobs.lever.co/ciandt/2742085c-4049-49c4-94f7-dd65e5fedbef) |
@@ -75,6 +77,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Staff Engineer, SAP-HUMAN-EXPERIENCE-MGMT | [Nagarro](https://nagarro.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000127863439) |
 | Cable System Design Engineer (Transmission & Distribution) | [AECOM](https://aecom.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000127858019) |
 | Senior Software Engineer (.Net) | [Experian](https://experianplc.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000127856249) |
+| Data Engineer | [Standard Bank](https://standardbank.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000127848665) |
 | Senior Software Engineer, Device Security | [Box](https://box.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/boxinc/jobs/7942589) |
 | Senior Marketing Data Analyst (m/f/d) | [Genpak LLC](https://genpak-llc-2) | — | May 22 | [Apply](https://job-boards.greenhouse.io/autotradercanada/jobs/7746689003) |
 | Ingénieur(e) Conception Mécanique confirmé (F/H) | [Egis](https://egis-group.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000127836960) |
@@ -90,6 +93,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Data Analyst | [Frasers Group](https://frasersgroup.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000127815624) |
 | ASIC Verification EEJ | [Bosch](https://bosch.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/BoschGroup/postings/744000127814124) |
 | Mold Tool Design Engineer (Able to work Aug 2026) | [Bosch](https://bosch.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/BoschGroup/postings/744000127813155) |
+| Team Manager - Data Annotation | [Genpak LLC](https://genpak-llc-2) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000127812650) |
 | Mid/Senior IT Business Analyst (Agile) | [Netcompany](https://netcompany.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000127808059) |
 | Consultant, Governance Risk Compliance (IT Audit, IM8) | [NCS](https://ncs.co) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001098234) |
 | Data Partnerships Director | [The Trade Desk](https://thetradedesk.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5142535007) |

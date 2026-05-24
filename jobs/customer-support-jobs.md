@@ -2,14 +2,18 @@
 
 Remote customer support and success roles across SaaS, e-commerce, and tech.
 
-**128 open roles** — Last updated: 2026-05-24
+**133 open roles** — Last updated: 2026-05-24
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Apprentice Interpretive Guide - Spring/Summer 2026 | [ACCOR](https://group.accor.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128003299) |
+| Verkoopmedewerker - (M/V) 24u - Breda | [Frasers Group](https://frasersgroup.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000128000549) |
 | Customer Success Manager | [Snappr](https://snappr.com) | — | May 23 | [Apply](https://jobs.lever.co/snappr/73d1de4f-deb0-40c8-8068-12417c928004) |
 | Customer Service Rep(7936) -  10986 Sierra ave | [Domino's](https://dominos.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000127986444) |
+| Assistant manager | [Domino's](https://dominos.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000127987374) |
+| Customer Service Rep(05825) - 2650 Zelda Road | [Domino's](https://dominos.com) | $10/yr | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000127987107) |
 | Customer Service Rep(05703) - 3645 Browns Bridge Road Suite 106A | [Domino's](https://dominos.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000127988039) |
 | Patient Billing Associate | [BillionToOne](https://billiontoone.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/billiontoone/jobs/4699041005) |
 | Patient Billing Associate | [BillionToOne](https://billiontoone.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/billiontoone/jobs/4699040005) |
@@ -26,6 +30,7 @@ Remote customer support and success roles across SaaS, e-commerce, and tech.
 | Németül beszélő Customer Service Specialist (REF5520R) | [Deutsche Telekom IT Solutions](https://deutschetelekomitsolutions.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/DeutscheTelekomITSolutions/postings/744000127883903) |
 | Customer Support Quality Specialist | [Genpak LLC](https://genpak-llc-2) | — | May 22 | [Apply](https://job-boards.eu.greenhouse.io/growetalents/jobs/4846477101) |
 | Technical Helpdesk Engineer | [MSX International](https://msxi.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013267576) |
+| Airline Customer Support Specialist with English (remote from Bulgaria) | [Genpak LLC](https://genpak-llc-2) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000127814501) |
 | Customer Success Manager | [GitLab](https://about.gitlab.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8512758002) |
 | Revenue Manager | [ACCOR](https://group.accor.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000127766039) |
 | Bilingual Customer Service Representative | [Genpak LLC](https://genpak-llc-2) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000127765019) |

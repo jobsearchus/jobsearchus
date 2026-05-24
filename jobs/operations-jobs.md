@@ -2,7 +2,7 @@
 
 Remote operations and business operations roles across industries.
 
-**424 open roles** — Last updated: 2026-05-24
+**426 open roles** — Last updated: 2026-05-24
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -60,6 +60,8 @@ Remote operations and business operations roles across industries.
 | Assistant Gym Manager | [Frasers Group](https://frasersgroup.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000127833939) |
 | Estimator - MEP  (Infra Project Experience) | [Egis](https://egis-group.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000127827160) |
 | General Assistant (Cleaning Team) | [Frasers Group](https://frasersgroup.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000127824964) |
+| Senior Officer, Corporate Administration | [IQ-EQ](https://iqeq.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000127815564) |
+| Officer 3, Corporate Administration | [IQ-EQ](https://iqeq.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000127815579) |
 | Lehrstelle als Kaufmann/-frau 2027  REF286890O | [Bosch](https://bosch.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/BoschGroup/postings/744000127814989) |
 | Project Controller | [Egis](https://egis-group.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000127811206) |
 | Life Safety Installation Technician  | [New Era Technology](https://neweratech.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8526385002) |

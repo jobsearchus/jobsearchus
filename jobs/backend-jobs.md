@@ -2,7 +2,7 @@
 
 Backend, server-side, and API engineering roles. Node.js, Python, Go, Ruby, Java and beyond.
 
-**27 open roles** — Last updated: 2026-05-24
+**28 open roles** — Last updated: 2026-05-24
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -11,6 +11,7 @@ Backend, server-side, and API engineering roles. Node.js, Python, Go, Ruby, Java
 | (Senior) Backend Engineer, Platform | [Wheely](https://wheely.com) | £90K–£120K/yr | May 22 | [Apply](https://boards.greenhouse.io/wheely/jobs/7746904003?gh_jid=7746904003) |
 | (Senior) Backend Engineer, Marketpace | [Wheely](https://wheely.com) | £90K–£120K/yr | May 22 | [Apply](https://boards.greenhouse.io/wheely/jobs/7746861003?gh_jid=7746861003) |
 | (Senior) Backend Engineer, Maps | [Wheely](https://wheely.com) | £90K–£120K/yr | May 22 | [Apply](https://boards.greenhouse.io/wheely/jobs/7746899003?gh_jid=7746899003) |
+| Senior Back-end Software Engineer (Node.js and Java) | [Genpak LLC](https://genpak-llc-2) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000127819145) |
 | Backend Software Engineer 2 (UK) | [Sophos](https://sophos.com) | — | May 21 | [Apply](https://jobs.lever.co/sophos/fe3431b2-4e79-45f2-9dca-78c7902bc750) |
 | Staff Software Engineer (Backend) | [Varicent](https://varicent.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/varicent/jobs/5227386008) |
 | Staff Backend Developer | [Varicent](https://varicent.com) | — | May 20 | [Apply](https://job-boards.greenhouse.io/varicent/jobs/5227385008) |

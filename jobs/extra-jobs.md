@@ -2,12 +2,13 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**425 open roles** — Last updated: 2026-05-24
+**433 open roles** — Last updated: 2026-05-24
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Host, Flower & Wolf (Part-time) | [ACCOR](https://group.accor.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128003949) |
 | Cashier | [Pilot Flying J](https://pilotflyingj.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/PilotCompany/postings/744000128003259) |
 | Intern: EHS focused on Health | [AbbVie](https://abbvie.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/AbbVie/postings/3743990013282465) |
 | Hôte de caisse polyvalent HF | [BUT](https://but.fr) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000128001539) |
@@ -30,6 +31,7 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Retail Assistant Nijmegen  | [Primark Tiendas SLU](https://primark.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000127993899) |
 | Front Office Manager | [ACCOR](https://group.accor.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000127993579) |
 | Assistant Manager Food & Beverage Service | [ACCOR](https://group.accor.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000127993479) |
+| Assistant Manager(06979) - 5000 Main St | [Domino's](https://dominos.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000127986494) |
 | General Manager(05133) - 12100 Lem Turner Road | [Domino's](https://dominos.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000127988078) |
 | Client Office Phlebotomist-Full-time Days CW | [Northwestern Medicine](https://northwesternmedicine.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/NorthwesternMedicine/postings/744000127977520) |
 | Phlebotomist-Part-time Days  | [Northwestern Medicine](https://northwesternmedicine.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/NorthwesternMedicine/postings/744000127977959) |
@@ -66,10 +68,13 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Perito Tecnico Auto PAVIA – Valuta, Verifica, Garantisce | [AUTO1 Group](https://auto1-group.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000127916978) |
 | Perito Tecnico Auto PAVIA – Valuta, Verifica, Garantisce | [AUTO1 Group](https://auto1-group.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000127915510) |
 | Perito Tecnico Auto PAVIA – Valuta, Verifica, Garantisce | [AUTO1 Group](https://auto1-group.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000127916838) |
+| Perito Tecnico Auto – Valuta, Verifica, Garantisce | [AUTO1 Group](https://auto1-group.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000127915775) |
 | Clinic Director/Partner - Physical Therapist | [BenchMark Physical Therapy](https://benchmarkpt.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/benchmarkpt/jobs/5145302007) |
 | Préparateur Drive  (H/F) - CDI Temps complet | [Genpak LLC](https://genpak-llc-2) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127911910) |
 | Head of Market Solutions | [Legal & General](https://legalgeneral.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/LegalAndGeneral/postings/744000127910479) |
+| Responsable en Prevención de Riesgos Laborales - Madrid | [AUTO1 Group](https://auto1-group.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000127907242) |
 | Product Owner, WPP Open – Product Framework (One Architecture)  | [WPP](https://wpp.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/wpp/jobs/8539369002) |
+| Técnico/a Senior de Prevención de Riesgos Laborales - Madrid | [AUTO1 Group](https://auto1-group.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000127905270) |
 | Account Advocate | [Apollo.io](https://apollo.io) | — | May 22 | [Apply](https://job-boards.greenhouse.io/apolloio/jobs/6003612004) |
 | Serveur - H/F | [Genpak LLC](https://genpak-llc-2) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000127901611) |
 | BestDrive Retread Technician | [Continental](https://continentalserves.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000127897542) |
@@ -79,6 +84,9 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Chargé d'accueil et de services hôteliers - H/F | [Genpak LLC](https://genpak-llc-2) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000127874789) |
 | Receptionniste - H/F | [Genpak LLC](https://genpak-llc-2) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000127873989) |
 | Associate Dentist (NHS/ Private) | [PortmanDentex](https://portmandentex.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000127870350) |
+| Associate Dentist (Private) | [PortmanDentex](https://portmandentex.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000127857474) |
+| TCO/Administrator | [PortmanDentex](https://portmandentex.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000127855514) |
+| Officer, Third Party Suppliers Management | [Standard Bank](https://standardbank.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000127847138) |
 | Registered Nurse | [Healthcare Australia](https://healthcareaustralia.com.au) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/HealthcareAustralia1/postings/6000000001096555) |
 | Supervisor de turno- Farmacéutico | [Delivery Hero](https://deliveryhero.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000127765838) |
 | Housekeeper | [Crestwood Behavioral Health](https://crestwoodbehavioralhealth.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/crestwoodcareers/jobs/7746543003) |

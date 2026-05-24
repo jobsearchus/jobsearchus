@@ -2,7 +2,7 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**172 open roles** — Last updated: 2026-05-24
+**173 open roles** — Last updated: 2026-05-24
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -10,6 +10,7 @@ Remote marketing roles across growth, content, brand, and performance channels.
 | --- | --- | --- | --- | --- |
 | Senior Software Engineer, iOS | [Wikimedia Foundation](https://wikimediafoundation.org) | — | May 22 | [Apply](https://job-boards.greenhouse.io/wikimedia/jobs/7955274) |
 | Counsel / Attorney - Antitrust & Compliance | [Continental](https://continentalserves.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000127971142) |
+| Online Marketing Analyst | [Delivery Hero](https://deliveryhero.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000127970201) |
 | Director, Growth - Olo Network | [Olo](https://olo.com) | — | May 22 | [Apply](https://jobs.lever.co/olo/e267ce4e-edc5-43f4-a7f3-b944d0ca26cb) |
 | GTM Enablement Lead, SMB | [Reddit](https://reddit.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/7954945) |
 | Staff Design Systems Engineer | [ClickUp](https://clickup.com) | — | May 22 | [Apply](https://jobs.ashbyhq.com/clickup/4f5e6fd3-908e-4258-a9a4-37a30a2a7b6b) |

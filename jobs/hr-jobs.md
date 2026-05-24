@@ -2,12 +2,13 @@
 
 Remote HR, recruiting, and people operations roles.
 
-**66 open roles** — Last updated: 2026-05-24
+**67 open roles** — Last updated: 2026-05-24
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| People & Culture Supervisor (Maternity Coverage - 12 Month Contract) | [ACCOR](https://group.accor.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128003359) |
 | GTM Recruiter | [ShopMy](https://shopmy.us) | — | May 22 | [Apply](https://job-boards.greenhouse.io/shopmy/jobs/5229314008) |
 | Recruiting Coordinator | [Render](https://render.com) | — | May 22 | [Apply](https://jobs.ashbyhq.com/render/9ea0f458-30ca-48ca-a3e3-3db386bafee4) |
 | Senior IT Recruiter | [Miratech](https://miratech.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000127877979) |

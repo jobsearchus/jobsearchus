@@ -2,14 +2,17 @@
 
 Remote cybersecurity, information security, and security engineering roles.
 
-**50 open roles** — Last updated: 2026-05-24
+**53 open roles** — Last updated: 2026-05-24
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | Staff Security Engineer | [Delivery Hero](https://deliveryhero.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000127994579) |
+| Security Governance, Risk & Compliance (GRC) Lead  | [Delivery Hero](https://deliveryhero.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000127994089) |
 | Fire Officer | [ACCOR](https://group.accor.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000127993679) |
+| Security Operations Analyst  | [Delivery Hero](https://deliveryhero.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000127993349) |
+| Especialista/Senior en Ciberseguridad (Operación, Incidentes y Vulnerabilidades)  | [Inetum](https://inetum.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000127973165) |
 | Governance, Risk, and Compliance Engineer | [IonQ](https://ionq.com) | $83K–$109K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/ionq/jobs/6001768004) |
 | Senior Governance, Risk, and Compliance Engineer | [IonQ](https://ionq.com) | $110K–$144K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/ionq/jobs/6001723004) |
 | Sr. Technical Account Manager | [Dragos](https://dragos.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/dragos/jobs/5223486008) |
