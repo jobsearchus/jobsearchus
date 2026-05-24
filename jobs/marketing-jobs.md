@@ -2,12 +2,13 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**173 open roles** — Last updated: 2026-05-24
+**175 open roles** — Last updated: 2026-05-24
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Marketing Artist | [Zynga](https://zynga.com) | — | May 23 | [Apply](https://job-boards.greenhouse.io/zyngacareers/jobs/6000442004) |
 | Senior Software Engineer, iOS | [Wikimedia Foundation](https://wikimediafoundation.org) | — | May 22 | [Apply](https://job-boards.greenhouse.io/wikimedia/jobs/7955274) |
 | Counsel / Attorney - Antitrust & Compliance | [Continental](https://continentalserves.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000127971142) |
 | Online Marketing Analyst | [Delivery Hero](https://deliveryhero.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000127970201) |
@@ -25,6 +26,7 @@ Remote marketing roles across growth, content, brand, and performance channels.
 | Account Director, Publishing  | [WPP Media](https://wppmedia.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5226128008) |
 | International Digital & Consumer Lead, Allergan Aesthetics | [AbbVie](https://abbvie.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AbbVie/postings/3743990013271464) |
 | Account Director, Digital & Biddable Media  (Parental Cover) | [WPP Media](https://wppmedia.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5224314008) |
+|  Senior Content Marketer | [Apollo.io](https://apollo.io) | — | May 22 | [Apply](https://job-boards.greenhouse.io/apolloio/jobs/6001895004) |
 | Lead Product Marketing Manager | [Apollo.io](https://apollo.io) | — | May 22 | [Apply](https://job-boards.greenhouse.io/apolloio/jobs/6001879004) |
 | Customer Marketer | [Apollo.io](https://apollo.io) | $200K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/apolloio/jobs/6001880004) |
 | Associate Staff Consultant (Sales & Marketing) | [Nagarro](https://nagarro.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000127874358) |

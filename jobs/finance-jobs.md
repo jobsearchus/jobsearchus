@@ -2,12 +2,14 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**194 open roles** — Last updated: 2026-05-24
+**197 open roles** — Last updated: 2026-05-24
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Assistant Manager, Fund Administration (Onboarding) | [Juniper Square](https://junipersquare.com) | $110K–$125K/yr | May 23 | [Apply](https://jobs.ashbyhq.com/junipersquare/42ab3ae6-6792-4727-8b85-b655f7f3014b) |
+| Risk Manager | [Robinhood](https://robinhood.com) | — | May 23 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7900901?t=gh_src=&gh_jid=7900901) |
 | Sr. Director of FP&A | [Fluidstack](https://fluidstack.com) | $237K–$344K/yr | May 23 | [Apply](https://jobs.ashbyhq.com/fluidstack/b438dd5d-e242-4157-957c-6dc27d69c8e5) |
 | Chief Financial Officer | [Moonshot Brands](https://moonshotbrands.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/moonshot/jobs/4240396009) |
 | Funcional Junior -  Profesional Funcional Pruebas Información Tributaria | [Inetum](https://inetum.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000127975919) |
@@ -37,6 +39,7 @@ Remote finance, accounting, and analyst roles at companies of all sizes.
 | Fianace Coordinator Shelter | [Avery Dennison](https://averydennison.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000127857946) |
 | Project Accountant | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000127853733) |
 | Risk Associate with Greek | [Entain](https://entaingroup.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Entain/postings/744000127852829) |
+| Risk Associate with Portuguese  | [Entain](https://entaingroup.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Entain/postings/744000127848469) |
 |  Client Accountant - Funds (Real Estate)  | [IQ-EQ](https://iqeq.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000127843186) |
 | Accountant 2, Fund Accounting | [IQ-EQ](https://iqeq.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000127827279) |
 | Claim analyst | [Vitol](https://vitol.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Vitol/postings/744000127812455) |

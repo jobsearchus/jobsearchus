@@ -2,12 +2,13 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**309 open roles** — Last updated: 2026-05-24
+**310 open roles** — Last updated: 2026-05-24
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Assistant Manager, Fund Administration (Onboarding) | [Juniper Square](https://junipersquare.com) | $110K–$125K/yr | May 23 | [Apply](https://jobs.ashbyhq.com/junipersquare/42ab3ae6-6792-4727-8b85-b655f7f3014b) |
 | Senior Software Engineer, AI Platform | [Mixpanel](https://mixpanel.com) | $175K–$213K/yr | May 23 | [Apply](https://job-boards.greenhouse.io/mixpanel/jobs/7941944) |
 | Store Manager | [Primark Tiendas SLU](https://primark.com) | $106K–$143K/yr | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000127990429) |
 | Sr. Director of FP&A | [Fluidstack](https://fluidstack.com) | $237K–$344K/yr | May 23 | [Apply](https://jobs.ashbyhq.com/fluidstack/b438dd5d-e242-4157-957c-6dc27d69c8e5) |

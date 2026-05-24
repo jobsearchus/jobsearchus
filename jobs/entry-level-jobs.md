@@ -2,7 +2,7 @@
 
 Remote jobs open to candidates with 0–2 years of experience. A real way in — no degree gatekeeping.
 
-**420 open roles** — Last updated: 2026-05-24
+**427 open roles** — Last updated: 2026-05-24
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -16,6 +16,9 @@ Remote jobs open to candidates with 0–2 years of experience. A real way in —
 | Phlebotomist-Inpatient Phlebotomy Full-time Days | [Northwestern Medicine](https://northwesternmedicine.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/NorthwesternMedicine/postings/744000128000799) |
 |  Phlebotomist-Inpatient Phlebotomy Full-time Day Shift | [Northwestern Medicine](https://northwesternmedicine.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/NorthwesternMedicine/postings/744000128000629) |
 | Verkoopmedewerker - (M/V) 24u - Breda | [Frasers Group](https://frasersgroup.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000128000549) |
+| Bilingual Case Management Specialist (Remote Flexible, Spanish Speaking) | [Pair Team](https://pairteam.com) | $25/yr | May 23 | [Apply](https://job-boards.greenhouse.io/pairteam/jobs/8563318002) |
+|  Bilingual Case Manager (Remote Flexible, Spanish Speaking) | [Pair Team](https://pairteam.com) | $25/yr | May 23 | [Apply](https://job-boards.greenhouse.io/pairteam/jobs/8563313002) |
+|  Bilingual Case Management Specialist (Remote, Spanish Speaking) | [Pair Team](https://pairteam.com) | $25/yr | May 23 | [Apply](https://job-boards.greenhouse.io/pairteam/jobs/8563310002) |
 | STAGE Nola CC Vulcano Buono | [JD Sports](https://jdsports.com) | — | May 23 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4874141101) |
 | Sales Assistant (Part Time) - Nola CC Vulcano Buono  | [JD Sports](https://jdsports.com) | — | May 23 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4874148101) |
 | Vendeur Polyvalent | [Primark Tiendas SLU](https://primark.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000127998309) |
@@ -29,6 +32,10 @@ Remote jobs open to candidates with 0–2 years of experience. A real way in —
 | Retail Assistant Nijmegen  | [Primark Tiendas SLU](https://primark.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000127993899) |
 | Delivery Driver(06611) | [Domino's](https://dominos.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000127989964) |
 | Delivery Expert(06833) - 1926 Crockett Rd, Palestine, Tx 75801 | [Domino's](https://dominos.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000127989604) |
+| Domino's Delivery Driver - UW,  WA (7084) | [Domino's](https://dominos.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000127987813) |
+| Customer Service Rep(08584) - 421 Blue Ravine Road, Suite 300 | [Domino's](https://dominos.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000127986437) |
+| Delivery Driver (02582) - 1104 E Tipton St, Seymour IN | [Domino's](https://dominos.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000127988054) |
+| Delivery Driver (01074) 913 N Leroy St | [Domino's](https://dominos.com) | $25/yr | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000127987762) |
 | Customer Service Rep(05703) - 3645 Browns Bridge Road Suite 106A | [Domino's](https://dominos.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000127988039) |
 | Delivery Driver(08028) - 13650 Eastlake Dr. | [Domino's](https://dominos.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000127986045) |
 | Funcional Junior -  Profesional Funcional Pruebas Información Tributaria | [Inetum](https://inetum.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000127975919) |

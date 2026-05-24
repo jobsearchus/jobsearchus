@@ -2,12 +2,13 @@
 
 Remote operations and business operations roles across industries.
 
-**426 open roles** — Last updated: 2026-05-24
+**429 open roles** — Last updated: 2026-05-24
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| SweatHouz- Studio Manager, San Diego | [Momentic](https://momentic.ai) | — | May 23 | [Apply](https://job-boards.greenhouse.io/momentic/jobs/5230008008) |
 | Supervisor - Albufeira | [Frasers Group](https://frasersgroup.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000128000049) |
 | RESPONSABLE MAGASIN (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127997429) |
 | Chauffeur, livreur, installateur | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000127996959) |
@@ -18,6 +19,7 @@ Remote operations and business operations roles across industries.
 | Delivery Driver(09281) - 401 E Business 83 | [Domino's](https://dominos.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000127988434) |
 | Delivery Driver | [Domino's](https://dominos.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000127990359) |
 | General Manager(04890) - 3921 E. Market St | [Domino's](https://dominos.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000127989561) |
+| Assistant Manager(01202) - 7081 Dixie Hwy | [Domino's](https://dominos.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000127987036) |
 | Category Manager Construction Services | [Fluidstack](https://fluidstack.com) | $180K–$200K/yr | May 22 | [Apply](https://jobs.ashbyhq.com/fluidstack/c712a833-f347-4f41-9a8e-42b54fc3712c) |
 | Senior Facilities Technician | [Inversion Space](https://inversionspace.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/inversionspace/jobs/4699027005) |
 | Senior Applied Scientist | [Garner Health](https://getgarner.com) | $200K–$245K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/garnerhealth/jobs/6004808004) |
@@ -56,6 +58,7 @@ Remote operations and business operations roles across industries.
 | Gym Manager | [Frasers Group](https://frasersgroup.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000127853319) |
 | Gym General Manager | [Frasers Group](https://frasersgroup.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000127852909) |
 | Senior Accountant, Fund Accounting - Private Equity and Investran Exposure | [IQ-EQ](https://iqeq.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000127842998) |
+| Real Time Resource Manager - (Back Office) | [Entain](https://entaingroup.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Entain/postings/744000127841574) |
 | Assistant General Manager | [Frasers Group](https://frasersgroup.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000127833746) |
 | Assistant Gym Manager | [Frasers Group](https://frasersgroup.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000127833939) |
 | Estimator - MEP  (Infra Project Experience) | [Egis](https://egis-group.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000127827160) |

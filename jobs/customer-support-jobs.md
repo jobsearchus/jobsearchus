@@ -2,7 +2,7 @@
 
 Remote customer support and success roles across SaaS, e-commerce, and tech.
 
-**133 open roles** — Last updated: 2026-05-24
+**135 open roles** — Last updated: 2026-05-24
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -10,8 +10,10 @@ Remote customer support and success roles across SaaS, e-commerce, and tech.
 | --- | --- | --- | --- | --- |
 | Apprentice Interpretive Guide - Spring/Summer 2026 | [ACCOR](https://group.accor.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128003299) |
 | Verkoopmedewerker - (M/V) 24u - Breda | [Frasers Group](https://frasersgroup.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000128000549) |
+| EXPERT SERVICE CLIENT - CDI H/F  Contrat étudiant 8H | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000127995919) |
 | Customer Success Manager | [Snappr](https://snappr.com) | — | May 23 | [Apply](https://jobs.lever.co/snappr/73d1de4f-deb0-40c8-8068-12417c928004) |
 | Customer Service Rep(7936) -  10986 Sierra ave | [Domino's](https://dominos.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000127986444) |
+| Customer Service Rep(08584) - 421 Blue Ravine Road, Suite 300 | [Domino's](https://dominos.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000127986437) |
 | Assistant manager | [Domino's](https://dominos.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000127987374) |
 | Customer Service Rep(05825) - 2650 Zelda Road | [Domino's](https://dominos.com) | $10/yr | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000127987107) |
 | Customer Service Rep(05703) - 3645 Browns Bridge Road Suite 106A | [Domino's](https://dominos.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000127988039) |

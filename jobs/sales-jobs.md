@@ -2,12 +2,16 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**388 open roles** — Last updated: 2026-05-24
+**392 open roles** — Last updated: 2026-05-24
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Sales Engineer - Japan | [Vanta](https://vanta.com) | — | May 24 | [Apply](https://jobs.ashbyhq.com/vanta/0d8925dc-e6ad-47da-9458-a8dac56a6b15) |
+| INTERMARCHE - EMPLOYE COMMERCIAL CDI TEMPS COMPLET AVEC EXPERIENCE (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000128002719) |
+| Account Executive, EMEA | [Webflow](https://webflow.com) | — | May 23 | [Apply](https://job-boards.greenhouse.io/webflow/jobs/7951428) |
+| Vendeur / Vendeuse CDI - Temps partiel 25H (H/F) Expérience exigée en Vente de produits d'Electrodomestique | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000128000659) |
 | Verkoopmedewerker weekend/koopavond - Breda | [Frasers Group](https://frasersgroup.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000128000279) |
 | Sales Trainee | [Syngenta](https://syngenta.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000127999529) |
 | Bijbaan Verkoopmedewerker  | [JYSK](https://jysk.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000127998959) |
