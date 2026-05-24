@@ -2,7 +2,7 @@
 
 General developer and programmer roles that did not fit a more specific category.
 
-**50 open roles** — Last updated: 2026-05-23
+**53 open roles** — Last updated: 2026-05-24
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -15,6 +15,9 @@ General developer and programmer roles that did not fit a more specific category
 | Analyst / Assistant Manager – IT Developer - Korean Fluency Required | [SBT Global](https://sbtglobal.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/SBTGlobalInc/postings/3743990013273066) |
 | Senior Specialist IT Systems Developer  | [Standard Bank](https://standardbank.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000127856569) |
 | Senior Specialist Compass Developer | [Standard Bank](https://standardbank.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000127853939) |
+| Senior Developer - Salesforce Marketing Cloud  | [VML MAP](https://vml-map.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/map/jobs/8561861002) |
+| Senior Developer - Salesforce Marketing Cloud  | [VML MAP](https://vml-map.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/map/jobs/8561857002) |
+| Senior Developer - Salesforce Marketing Cloud  | [VML MAP](https://vml-map.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/map/jobs/8561852002) |
 | Sr. Staff Python Developer (Python,AWS,AI) | [Experian](https://experianplc.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000127849629) |
 | Lead Java Developer (Fitness sphere) | [Coherent Solutions](https://coherentsolutions.com) | — | May 22 | [Apply](https://job-boards.eu.greenhouse.io/coherentsolutions/jobs/4838197101) |
 | Senior Application Programmer (EBS) | [Horizon Industries](https://horizonindustries.com) | $140K–$150K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/horizonindustrieslimited/jobs/5228155008) |

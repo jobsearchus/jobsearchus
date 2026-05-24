@@ -2,21 +2,35 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**406 open roles** — Last updated: 2026-05-23
+**425 open roles** — Last updated: 2026-05-24
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Cashier | [Pilot Flying J](https://pilotflyingj.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/PilotCompany/postings/744000128003259) |
+| Intern: EHS focused on Health | [AbbVie](https://abbvie.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/AbbVie/postings/3743990013282465) |
+| Hôte de caisse polyvalent HF | [BUT](https://but.fr) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000128001539) |
+| Phlebotomist-Inpatient Phlebotomy Full-time Night Shift | [Northwestern Medicine](https://northwesternmedicine.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/NorthwesternMedicine/postings/744000128000859) |
+| Phlebotomist-Inpatient Phlebotomy Full-time Days | [Northwestern Medicine](https://northwesternmedicine.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/NorthwesternMedicine/postings/744000128000799) |
+|  Phlebotomist-Inpatient Phlebotomy Full-time Day Shift | [Northwestern Medicine](https://northwesternmedicine.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/NorthwesternMedicine/postings/744000128000629) |
+| STAGE Nola CC Vulcano Buono | [JD Sports](https://jdsports.com) | — | May 23 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4874141101) |
+| Sales Assistant (Part Time) - Nola CC Vulcano Buono  | [JD Sports](https://jdsports.com) | — | May 23 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4874148101) |
+| Vendeur Polyvalent | [Primark Tiendas SLU](https://primark.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000127998309) |
 | Responsable Univers (Manager Commerce) CDI - Temps plein (H/F)- Futur Directeur de magasin | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000127997379) |
+| Helicopter Pilot | [Relais & Châteaux](https://relaischateaux.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000127996919) |
 | Executive Housekeeper  | [ACCOR](https://group.accor.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000127995589) |
 | INTERMARCHE RECRUTE SES FUTURS APPRENTIS ( H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127995299) |
 | Serveur / Chef de rang Extra | [ACCOR](https://group.accor.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000127995095) |
 | Commis (South Indian Cuisine) | [ACCOR](https://group.accor.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000127994949) |
+| Voiturier / Bagagiste - Extra du 11 au 21 Juin 2026 - Hôtel Richer de Belleval - Relais & Châteaux - 5 étoiles | [Relais & Châteaux](https://relaischateaux.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000127994549) |
 | EMPLOYE DE RAYON BAZAR BEAUTE BEBE (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127994399) |
+| Commis de Salle (H/F) - Bistrot La Canourgue - CDD saisonnier - Montpellier | [Relais & Châteaux](https://relaischateaux.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000127994359) |
 | CONTRAT ETUDIANT - EMPLOYE COMMERCIAL (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127994000) |
+| Retail Assistant Nijmegen  | [Primark Tiendas SLU](https://primark.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000127993899) |
 | Front Office Manager | [ACCOR](https://group.accor.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000127993579) |
 | Assistant Manager Food & Beverage Service | [ACCOR](https://group.accor.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000127993479) |
+| General Manager(05133) - 12100 Lem Turner Road | [Domino's](https://dominos.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000127988078) |
 | Client Office Phlebotomist-Full-time Days CW | [Northwestern Medicine](https://northwesternmedicine.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/NorthwesternMedicine/postings/744000127977520) |
 | Phlebotomist-Part-time Days  | [Northwestern Medicine](https://northwesternmedicine.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/NorthwesternMedicine/postings/744000127977959) |
 | Executive Assistant - Cairo - Onsite | [Genpak LLC](https://genpak-llc-2) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000127974198) |
@@ -32,6 +46,9 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Store Representative - Part-Time Days | [Serv-U-Success](https://servusuccess.com) | $16/yr | May 22 | [Apply](https://jobs.lever.co/serv-u-success/0b1c1c89-01d0-49e9-a7d9-f3c80e0e56a3) |
 | Store Representative - Days | [Serv-U-Success](https://servusuccess.com) | $16/yr | May 22 | [Apply](https://jobs.lever.co/serv-u-success/37f99088-53af-4ef9-82ec-6a860e530521) |
 | Cook 1 - Shields Athletic Dining Facility | [University of Notre Dame](https://universityofnotredame.com) | $18/yr | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013276546) |
+| Cook 2 - Shields Athletic Dining Facility  | [University of Notre Dame](https://universityofnotredame.com) | $19/yr | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013276496) |
+| Cook 3 - Shields Athletic Dining Facility | [University of Notre Dame](https://universityofnotredame.com) | $20/yr | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013276426) |
+| Part-time Cook 1 - Shields Athletic Dining Facility | [University of Notre Dame](https://universityofnotredame.com) | $18/yr | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013276257) |
 | PT Market Medical Director - Bay Area | [Pine Park Health](https://pineparkhealth.com) | $230K–$285K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/pineparkhealth/jobs/6004623004) |
 | Occupational Therapist, OT ($15,000 Bonus!) | [InHomeTherapy](https://inhometherapy.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/inhometherapy/jobs/5145439007) |
 | LVN - LPT | [Crestwood Behavioral Health](https://crestwoodbehavioralhealth.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/crestwoodcareers/jobs/7747005003) |
@@ -57,6 +74,8 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Serveur - H/F | [Genpak LLC](https://genpak-llc-2) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000127901611) |
 | BestDrive Retread Technician | [Continental](https://continentalserves.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000127897542) |
 | Account Executive (Acciones Especiales) | [WPP Media](https://wppmedia.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5228886008) |
+| Commis de salle en alternance (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000127889432) |
+| Commis de cuisine en alternance (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000127889909) |
 | Chargé d'accueil et de services hôteliers - H/F | [Genpak LLC](https://genpak-llc-2) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000127874789) |
 | Receptionniste - H/F | [Genpak LLC](https://genpak-llc-2) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000127873989) |
 | Associate Dentist (NHS/ Private) | [PortmanDentex](https://portmandentex.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000127870350) |

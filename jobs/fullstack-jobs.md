@@ -2,12 +2,13 @@
 
 Full-stack engineering roles across product, platform, and startup companies.
 
-**16 open roles** — Last updated: 2026-05-23
+**17 open roles** — Last updated: 2026-05-24
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Full Stack Developer (Python/Nodejs+React) | [Referrals Only](https://thoughtworks.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7928927) |
 | Lead Full Stack Developer (Outbound and Selfservice) | [Miratech](https://miratech.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000127848899) |
 | Fullstack Software Engineer, Notifications Lifecycle | [Reddit](https://reddit.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/7895468) |
 | Software Development Engineer II (Fullstack), Studio | [Mapbox](https://mapbox.com) | — | May 20 | [Apply](https://jobs.ashbyhq.com/mapbox/f23aeaf4-cb71-406c-933b-8c4a8086f7bb) |

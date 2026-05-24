@@ -2,17 +2,25 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**375 open roles** — Last updated: 2026-05-23
+**388 open roles** — Last updated: 2026-05-24
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Verkoopmedewerker weekend/koopavond - Breda | [Frasers Group](https://frasersgroup.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000128000279) |
+| Sales Trainee | [Syngenta](https://syngenta.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000127999529) |
+| Bijbaan Verkoopmedewerker  | [JYSK](https://jysk.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000127998959) |
+| Vakantiewerk Verkoopmedewerker | [JYSK](https://jysk.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000127998859) |
 | Sweathouz-  Sales Associate, Pasadena (Part-time) | [Momentic](https://momentic.ai) | $18/yr | May 23 | [Apply](https://job-boards.greenhouse.io/momentic/jobs/5230005008) |
+| Assistente de Venda a Tempo Parcial - Portimao | [Frasers Group](https://frasersgroup.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000127998039) |
+| Sales Assistant 20/24 h - Catania Etnapolis. | [JYSK](https://jysk.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000127997839) |
+| EMPLOYE COMMERCIAL (H/F) RAYON BAZAR/ TEXTILE CDD 6 MOIS | [Genpak LLC](https://genpak-llc-2) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127997339) |
 | Sr. Key Account manager | [Delivery Hero](https://deliveryhero.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000127996589) |
 | VENDEUR / VENDEUSE CONSEIL - CDD TEMPS PARTIEL H/F | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000127996009) |
 | Delivery Driver(06611) | [Domino's](https://dominos.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000127989964) |
 | Delivery Expert(06833) - 1926 Crockett Rd, Palestine, Tx 75801 | [Domino's](https://dominos.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000127989604) |
+| Delivery Driver(08028) - 13650 Eastlake Dr. | [Domino's](https://dominos.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000127986045) |
 | Lead Solutions Consultant | [Airtable](https://airtable.com) | — | May 23 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8563194002) |
 | Salesforce Strategic Account Executive, Health & Life Sciences (HLS) | [NeuraFlash](https://neuraflash.com) | $94K–$277K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/neuraflash/jobs/5835950004) |
 | PV - Executivo (a) de Vendas Externas Pleno - Aracaju/SE | [Experian](https://experianplc.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000127977459) |
@@ -24,6 +32,7 @@ Remote sales roles — account executives, SDRs, and enterprise deals.
 | Mid Market Business Development Representative | [Peek](https://peek.com) | — | May 22 | [Apply](https://jobs.ashbyhq.com/peek/bbe71fd6-b9a7-4210-871a-95cdd33a2885) |
 | Senior Sales Development Representative | [ExtraHop](https://extrahop.com) | $70K–$89K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/extrahopnetworks/jobs/6004419004) |
 | Senior Sales Development Representative | [Faire](https://faire.com) | — | May 22 | [Apply](https://boards.greenhouse.io/faire/jobs/8562743002?gh_jid=8562743002) |
+| PV - Executivo (a) de Vendas Externas Sênior - Fortaleza/CE | [Experian](https://experianplc.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000127968679) |
 | Revenue Operations Analyst | [Vanta](https://vanta.com) | — | May 22 | [Apply](https://jobs.ashbyhq.com/vanta/cc1cbee0-06cf-4b63-b49c-945b1c12f657) |
 | Account Manager, Growth Stage | [Vanta](https://vanta.com) | — | May 22 | [Apply](https://jobs.ashbyhq.com/vanta/d5892780-397b-48d6-90de-60e335ec8b87) |
 | Account Coordinator | [InHomeTherapy](https://inhometherapy.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/inhometherapy/jobs/5145609007) |
@@ -36,7 +45,10 @@ Remote sales roles — account executives, SDRs, and enterprise deals.
 | Regional Vice President, West - Remote - CA  | [Grafana Labs](https://grafana.com) | $450K–$490K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6004409004) |
 | Account Executive - SLED - California | [Zscaler](https://zscaler.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5128132007) |
 | Enterprise Restaurant Account Manager | [Sharebite](https://sharebite.com) | $90K–$100K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/sharebite/jobs/6004491004) |
+| Doradca ds. Produktów Biologicznych – region Dolnośląskie (część centralno-zachodnia) | [Syngenta](https://syngenta.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000127941023) |
 | Connected Services Trainer | [MSX International](https://msxi.com) | $65K–$75K/yr | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013273866) |
+| SMB Account Executive (DACH) —  London | [Canva](https://canva.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Canva/postings/6000000001099047) |
+| SMB Account Executive (DACH) —  London | [Canva](https://canva.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Canva/postings/6000000001099042) |
 | Casual Sales Assistant | [Frasers Group](https://frasersgroup.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000127928737) |
 | Staff Technical Account Manager | [Illumio](https://illumio.com) | — | May 22 | [Apply](https://jobs.ashbyhq.com/illumio/e5025502-28d0-4e18-b690-83e1bd2142c3) |
 | Account Manager | [Moonpig Group](https://moonpiggroup.com) | — | May 22 | [Apply](https://jobs.lever.co/moonpig/9fe3f91c-4bba-4a07-be05-4f2fe3cb6351) |
@@ -47,6 +59,7 @@ Remote sales roles — account executives, SDRs, and enterprise deals.
 | Key Account Manager, Immunology | [AbbVie](https://abbvie.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AbbVie/postings/3743990013269896) |
 | Key Account Manager Immunology | [AbbVie](https://abbvie.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AbbVie/postings/3743990013269826) |
 | Key account manager | [Continental](https://continentalserves.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000127901894) |
+| Assistant(e) Commercial(e) | [Genpak LLC](https://genpak-llc-2) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000127895409) |
 | Senior Account Executive (via 3rd party) | [Sophos](https://sophos.com) | — | May 22 | [Apply](https://jobs.lever.co/sophos/3a4218fb-f136-41a7-b74d-55dddc96e930) |
 | Senior Software Engineer - Data Integration & JVM Ecosystem | [ClickHouse](https://clickhouse.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/clickhouse/jobs/6000796004) |
 | Manager, Account Management | [Coupang](https://coupang.com) | — | May 22 | [Apply](https://boards.greenhouse.io/coupanginternal/jobs/7924300?gh_jid=7924300) |

@@ -2,13 +2,14 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**308 open roles** — Last updated: 2026-05-23
+**309 open roles** — Last updated: 2026-05-24
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | Senior Software Engineer, AI Platform | [Mixpanel](https://mixpanel.com) | $175K–$213K/yr | May 23 | [Apply](https://job-boards.greenhouse.io/mixpanel/jobs/7941944) |
+| Store Manager | [Primark Tiendas SLU](https://primark.com) | $106K–$143K/yr | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000127990429) |
 | Sr. Director of FP&A | [Fluidstack](https://fluidstack.com) | $237K–$344K/yr | May 23 | [Apply](https://jobs.ashbyhq.com/fluidstack/b438dd5d-e242-4157-957c-6dc27d69c8e5) |
 | Staff Advanced Concepts Optimization Engineer | [Archer](https://archer.com) | $130K–$160K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7742987003) |
 | Practice Manager - Electrical & Software Engineering | [ALTEN](https://alten.com) | $160K–$170K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5145832007) |

@@ -2,13 +2,14 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**646 open roles** — Last updated: 2026-05-23
+**651 open roles** — Last updated: 2026-05-24
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | Senior Software Engineer, AI Platform | [Mixpanel](https://mixpanel.com) | $175K–$213K/yr | May 23 | [Apply](https://job-boards.greenhouse.io/mixpanel/jobs/7941944) |
+| R&D Intern | [Syngenta](https://syngenta.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000127994629) |
 | Staff Advanced Concepts Optimization Engineer | [Archer](https://archer.com) | $130K–$160K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7742987003) |
 | Practice Manager - Electrical & Software Engineering | [ALTEN](https://alten.com) | $160K–$170K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5145832007) |
 | Desarrollador IBM i / AS400 | [Inetum](https://inetum.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000127976447) |
@@ -18,10 +19,12 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Sales Engineer, GTM & Enablement | [Filevine](https://filevine.com) | — | May 22 | [Apply](https://jobs.lever.co/filevine/0046ee28-49d3-4c3b-aec7-fbd4abbb3b1b) |
 | Biologist | [Axle](https://axle.insure) | — | May 22 | [Apply](https://job-boards.greenhouse.io/axle/jobs/5145706007) |
 | [Job -  29519] Cloud Architect, Sao Paulo BR | [CI&T](https://cit.com) | — | May 22 | [Apply](https://jobs.lever.co/ciandt/2742085c-4049-49c4-94f7-dd65e5fedbef) |
+| PV - Coordenador de Desenvolvimento de Software | [Experian](https://experianplc.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000127968849) |
 | Senior Manager, Strategic Partnerships | [Flex](https://withflex.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/flex/jobs/4698985005) |
 | Senior Technical ServiceNow Business Analyst - Secret Cleared | [LightFeather](https://lightfeather.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5229585008) |
 | Senior ServiceNow Engineer | [LightFeather](https://lightfeather.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5229580008) |
 | Senior GCP Cloud Engineer | [LightFeather](https://lightfeather.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5229570008) |
+| Lead GCP Cloud Engineer | [LightFeather](https://lightfeather.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5229563008) |
 | Expert Test Systems Engineer | [ANSER](https://anser.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/analyticservicesinc/jobs/5223145008?gh_jid=5223145008) |
 | Senior Software Engineer, Unified Platform - Trade Management, Trade and Order Processing, Platform Services | [DRW](https://drw.com) | $200K–$275K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7939741) |
 | Clinic Director - Homewood Broadway | [BenchMark Physical Therapy](https://benchmarkpt.com) | $80K–$95K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/benchmarkpt/jobs/5145595007) |
@@ -34,6 +37,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Senior Business Engineer - Ads | [Reddit](https://reddit.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/7954598) |
 | Forward Deployed Software Engineer | [Pareto](https://pareto.com) | — | May 22 | [Apply](https://jobs.ashbyhq.com/pareto-ai/9b5842fb-f936-47d0-9985-2941264123d8) |
 | Maintenance Technician | [ACCOR](https://group.accor.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000127936628) |
+| Automation/Controls Engineer | [Continental](https://continentalserves.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000127934179) |
 | Senior Staff Engineer - Scrum Master | [Nagarro](https://nagarro.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000127933123) |
 | Lead Engineer | [Gymshark](https://gymshark.com) | — | May 22 | [Apply](https://job-boards.eu.greenhouse.io/gymshark/jobs/4874067101) |
 | Ingénieur(e) en Développement de Codes de Calcul Scientifique – Mécanique des Structures - Lyon | [Sopra Steria](https://soprasteria.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/SopraSteria1/postings/744000127928332) |
@@ -68,6 +72,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Staff Engineer, GENERATIVE-AI | [Nagarro](https://nagarro.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000127865079) |
 | Expert(e) IBM Z  | [Devoteam](https://devoteam.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Devoteam/postings/744000127864578) |
 | Senior Engineer, ERP-INFOR | [Nagarro](https://nagarro.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000127862960) |
+| Staff Engineer, SAP-HUMAN-EXPERIENCE-MGMT | [Nagarro](https://nagarro.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000127863439) |
 | Cable System Design Engineer (Transmission & Distribution) | [AECOM](https://aecom.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000127858019) |
 | Senior Software Engineer (.Net) | [Experian](https://experianplc.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000127856249) |
 | Senior Software Engineer, Device Security | [Box](https://box.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/boxinc/jobs/7942589) |

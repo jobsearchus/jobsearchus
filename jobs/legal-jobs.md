@@ -2,7 +2,7 @@
 
 Remote legal, compliance, and counsel roles.
 
-**51 open roles** — Last updated: 2026-05-23
+**53 open roles** — Last updated: 2026-05-24
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -14,6 +14,8 @@ Remote legal, compliance, and counsel roles.
 | Commercial Counsel | [AlertMedia](https://alertmedia.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/alertmedia/jobs/8562732002) |
 | Product Owner Digital Solutions | [Continental](https://continentalserves.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000127945365) |
 | Vice President, Legal | [Illumio](https://illumio.com) | — | May 22 | [Apply](https://jobs.ashbyhq.com/illumio/f2ebf2d7-efe5-4649-87c4-b1565c32424e) |
+| (Senior) Legal Counsel (m/w/d) - befristet bis 28.02.2028 - REF93931H | [Continental](https://continentalserves.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000127927956) |
+| (Senior) Legal Counsel (m/w/d) -  befristet bis 28.02.2028 - REF93931H  | [Continental](https://continentalserves.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000127927800) |
 | Group Head Of Sustainability  | [BESIX](https://besix.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000127842349) |
 | Associate Manager, Business & Legal Affairs | [NBCUniversal](https://nbcuniversal.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000127832195) |
 | Sr. Director of Product Engineering | [SecurityScorecard](https://securityscorecard.com) | $260K–$320K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/securityscorecard/jobs/7952078) |

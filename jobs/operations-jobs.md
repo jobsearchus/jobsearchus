@@ -2,14 +2,19 @@
 
 Remote operations and business operations roles across industries.
 
-**419 open roles** — Last updated: 2026-05-23
+**424 open roles** — Last updated: 2026-05-24
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Supervisor - Albufeira | [Frasers Group](https://frasersgroup.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000128000049) |
+| RESPONSABLE MAGASIN (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127997429) |
 | Chauffeur, livreur, installateur | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000127996959) |
+| Project Controls - Document Controller | [AECOM](https://aecom.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000127996709) |
+| MANAGER DE RAYON (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127996229) |
 | Specialist, Category -Food | [Delivery Hero](https://deliveryhero.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000127995639) |
+| Store Manager | [Primark Tiendas SLU](https://primark.com) | $106K–$143K/yr | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000127990429) |
 | Delivery Driver(09281) - 401 E Business 83 | [Domino's](https://dominos.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000127988434) |
 | Delivery Driver | [Domino's](https://dominos.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000127990359) |
 | General Manager(04890) - 3921 E. Market St | [Domino's](https://dominos.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000127989561) |

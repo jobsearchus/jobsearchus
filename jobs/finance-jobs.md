@@ -2,7 +2,7 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**192 open roles** — Last updated: 2026-05-23
+**194 open roles** — Last updated: 2026-05-24
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -27,6 +27,8 @@ Remote finance, accounting, and analyst roles at companies of all sizes.
 |  Billing Advocate | [Apollo.io](https://apollo.io) | — | May 22 | [Apply](https://job-boards.greenhouse.io/apolloio/jobs/6003592004) |
 | Associate Portfolio Manager | [Legal & General](https://legalgeneral.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/LegalAndGeneral/postings/744000127903499) |
 | Digital Financial Accountant | [Entain](https://entaingroup.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Entain/postings/744000127897619) |
+| SAP FI Business Analyst | [O-I Glass](https://o-i.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/O-I/postings/744000127895870) |
+| SAP FI Business Analyst | [O-I Glass](https://o-i.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/O-I/postings/744000127895332) |
 | Digital Financial Accountant | [Entain](https://entaingroup.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Entain/postings/744000127890780) |
 | Senior Commercial Finance Analyst | [NBCUniversal](https://nbcuniversal.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000127881749) |
 | Transactional Banker, Wealth and Investment (Fixed Term Contract) | [Standard Bank](https://standardbank.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000127861139) |
