@@ -2,12 +2,14 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**658 open roles** — Last updated: 2026-05-24
+**661 open roles** — Last updated: 2026-05-24
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Transport Planner - Public Transport Master Plan (National Level) | [Egis](https://egis-group.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000128030279) |
+| GIS Mapping and Application Development / GIS Expert  | [Egis](https://egis-group.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000128030229) |
 | Senior Finance Systems Engineer -Zuora system (Bay Area only) | [Canva](https://canva.com) | $185K–$237K/yr | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/Canva/postings/6000000001099130) |
 | Senior Software Engineer, AI Platform | [Mixpanel](https://mixpanel.com) | $175K–$213K/yr | May 23 | [Apply](https://job-boards.greenhouse.io/mixpanel/jobs/7941944) |
 | R&D Intern | [Syngenta](https://syngenta.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000127994629) |
@@ -28,6 +30,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Senior ServiceNow Engineer | [LightFeather](https://lightfeather.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5229580008) |
 | Senior GCP Cloud Engineer | [LightFeather](https://lightfeather.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5229570008) |
 | Lead GCP Cloud Engineer | [LightFeather](https://lightfeather.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5229563008) |
+| TESTER STAFF INTEGRAL | [Inetum](https://inetum.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000127966620) |
 | Expert Test Systems Engineer | [ANSER](https://anser.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/analyticservicesinc/jobs/5223145008?gh_jid=5223145008) |
 | Senior Software Engineer, Unified Platform - Trade Management, Trade and Order Processing, Platform Services | [DRW](https://drw.com) | $200K–$275K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7939741) |
 | Clinic Director - Homewood Broadway | [BenchMark Physical Therapy](https://benchmarkpt.com) | $80K–$95K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/benchmarkpt/jobs/5145595007) |

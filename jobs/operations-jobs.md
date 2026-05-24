@@ -2,13 +2,15 @@
 
 Remote operations and business operations roles across industries.
 
-**436 open roles** — Last updated: 2026-05-24
+**438 open roles** — Last updated: 2026-05-24
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | Regional Training Manager | [MSX International](https://msxi.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013283016) |
+| Sr. Manager Logistics Operations | [Delivery Hero](https://deliveryhero.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000128030369) |
+| Manager, Commercial Ops Specialist | [Delivery Hero](https://deliveryhero.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000128029949) |
 | EMPLOYE FRUITS ET LEGUMES (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000128028789) |
 | Delivery Driver (05882) - 437 Hughes Rd. | [Domino's](https://dominos.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000128018995) |
 | Assistant Manager (8921) - 3551 MLK Jr Blvd | [Domino's](https://dominos.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000128018931) |

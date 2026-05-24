@@ -2,12 +2,13 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**402 open roles** — Last updated: 2026-05-24
+**403 open roles** — Last updated: 2026-05-24
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| FR - Potel et Chabot | [ACCOR](https://group.accor.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128034599) |
 | (TEMPLATE 2025-26) Casual Sales Assistant - Sports Direct | [Frasers Group](https://frasersgroup.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000128030419) |
 | Sales Assistant  20h -PIEVE FISSIRAGA | [JYSK](https://jysk.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000128029799) |
 | Sales Assistant  part time -PIEVE FISSIRAGA | [JYSK](https://jysk.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000128029724) |

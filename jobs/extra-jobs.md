@@ -2,16 +2,21 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**453 open roles** — Last updated: 2026-05-24
+**458 open roles** — Last updated: 2026-05-24
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Director of Food and Beverage  | [ACCOR](https://group.accor.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128035809) |
+| Reservations Agent | [ACCOR](https://group.accor.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128034379) |
+| Officer 1, Corporate Administration | [IQ-EQ](https://iqeq.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000128031629) |
 | Lead Consultant, Site Solutions | [Ramboll](https://ramboll.com) | $82K–$103K/yr | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/Ramboll3/postings/744000128030430) |
 | STAGE ASSISTANTE GOUVERNANTE | [Relais & Châteaux](https://relaischateaux.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000128030179) |
 | Team Leader | [Greene King](https://greeneking.co.uk) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/GreeneKing/postings/744000128029849) |
 | Operations Manager | [Sensei](https://senseirobotics.com) | $72K–$85K/yr | May 24 | [Apply](https://job-boards.greenhouse.io/sensei/jobs/8563601002) |
+| Delivery Driver (8808) - 100 NC Hwy 172 | [Domino's](https://dominos.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000128017180) |
+| Assistant Manager (03114) - 17274 San Carlos Blvd #201 | [Domino's](https://dominos.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000128018661) |
 | Host, Flower & Wolf (Part-time) | [ACCOR](https://group.accor.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128003949) |
 | Cashier | [Pilot Flying J](https://pilotflyingj.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/PilotCompany/postings/744000128003259) |
 | Intern: EHS focused on Health | [AbbVie](https://abbvie.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/AbbVie/postings/3743990013282465) |
