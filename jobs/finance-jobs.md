@@ -2,12 +2,13 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**197 open roles** — Last updated: 2026-05-24
+**198 open roles** — Last updated: 2026-05-24
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Finance Manager | [Bosch](https://bosch.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/BoschGroup/postings/744000128029249) |
 | Assistant Manager, Fund Administration (Onboarding) | [Juniper Square](https://junipersquare.com) | $110K–$125K/yr | May 23 | [Apply](https://jobs.ashbyhq.com/junipersquare/42ab3ae6-6792-4727-8b85-b655f7f3014b) |
 | Risk Manager | [Robinhood](https://robinhood.com) | — | May 23 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7900901?t=gh_src=&gh_jid=7900901) |
 | Sr. Director of FP&A | [Fluidstack](https://fluidstack.com) | $237K–$344K/yr | May 23 | [Apply](https://jobs.ashbyhq.com/fluidstack/b438dd5d-e242-4157-957c-6dc27d69c8e5) |

@@ -2,12 +2,14 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**175 open roles** — Last updated: 2026-05-24
+**177 open roles** — Last updated: 2026-05-24
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| AI Product Marketer | [Wix.com](https://wix.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/Wix2/postings/744000128032309) |
+| Partnership Manager - Base44 | [Wix.com](https://wix.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/Wix2/postings/744000128031348) |
 | Senior Marketing Artist | [Zynga](https://zynga.com) | — | May 23 | [Apply](https://job-boards.greenhouse.io/zyngacareers/jobs/6000442004) |
 | Senior Software Engineer, iOS | [Wikimedia Foundation](https://wikimediafoundation.org) | — | May 22 | [Apply](https://job-boards.greenhouse.io/wikimedia/jobs/7955274) |
 | Counsel / Attorney - Antitrust & Compliance | [Continental](https://continentalserves.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000127971142) |

@@ -2,12 +2,13 @@
 
 Remote legal, compliance, and counsel roles.
 
-**53 open roles** — Last updated: 2026-05-24
+**54 open roles** — Last updated: 2026-05-24
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Consultant, Due Diligence & Compliance | [Ramboll](https://ramboll.com) | $69K–$87K/yr | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/Ramboll3/postings/744000128030529) |
 | Product Counsel, ERISA & Operations | [Human Interest](https://humaninterest.com) | $170K–$210K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/humaninterest/jobs/7952022) |
 | Corporate Counsel - East Coast/UK | [Drata](https://drata.com) | $180K–$223K/yr | May 22 | [Apply](https://jobs.ashbyhq.com/drata/bfa0a5cd-f5d1-436c-8198-e90951faede4) |
 | Senior Counsel | [LaunchDarkly](https://launchdarkly.com) | $138K–$189K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/launchdarkly/jobs/7747213003) |

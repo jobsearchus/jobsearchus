@@ -2,12 +2,17 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**392 open roles** — Last updated: 2026-05-24
+**402 open roles** — Last updated: 2026-05-24
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| (TEMPLATE 2025-26) Casual Sales Assistant - Sports Direct | [Frasers Group](https://frasersgroup.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000128030419) |
+| Sales Assistant  20h -PIEVE FISSIRAGA | [JYSK](https://jysk.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000128029799) |
+| Sales Assistant  part time -PIEVE FISSIRAGA | [JYSK](https://jysk.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000128029724) |
+| RETAIL ASSISTANT - WEEKEND ONLY | [Primark Tiendas SLU](https://primark.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000128029489) |
+| Sales Assistant (Full Time) – Busango C.C. “Globo" | [JD Sports](https://jdsports.com) | — | May 24 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4874300101) |
 | Sales Engineer - Japan | [Vanta](https://vanta.com) | — | May 24 | [Apply](https://jobs.ashbyhq.com/vanta/0d8925dc-e6ad-47da-9458-a8dac56a6b15) |
 | INTERMARCHE - EMPLOYE COMMERCIAL CDI TEMPS COMPLET AVEC EXPERIENCE (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000128002719) |
 | Account Executive, EMEA | [Webflow](https://webflow.com) | — | May 23 | [Apply](https://job-boards.greenhouse.io/webflow/jobs/7951428) |
@@ -34,7 +39,9 @@ Remote sales roles — account executives, SDRs, and enterprise deals.
 | Associate Sales Professional – North Western Canada | [Manitoulin Global Forwarding](https://manitoulingroup.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000127975969) |
 | Sales Enablement Specialist | [SingleStore](https://singlestore.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/singlestore/jobs/7955119) |
 | Mid Market Business Development Representative | [Peek](https://peek.com) | — | May 22 | [Apply](https://jobs.ashbyhq.com/peek/bbe71fd6-b9a7-4210-871a-95cdd33a2885) |
+| Early Morning Part Time Sales Associate | [Primark Tiendas SLU](https://primark.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000127971349) |
 | Senior Sales Development Representative | [ExtraHop](https://extrahop.com) | $70K–$89K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/extrahopnetworks/jobs/6004419004) |
+| Seasonal Part Time Sales Associate  | [Primark Tiendas SLU](https://primark.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000127971308) |
 | Senior Sales Development Representative | [Faire](https://faire.com) | — | May 22 | [Apply](https://boards.greenhouse.io/faire/jobs/8562743002?gh_jid=8562743002) |
 | PV - Executivo (a) de Vendas Externas Sênior - Fortaleza/CE | [Experian](https://experianplc.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000127968679) |
 | Revenue Operations Analyst | [Vanta](https://vanta.com) | — | May 22 | [Apply](https://jobs.ashbyhq.com/vanta/cc1cbee0-06cf-4b63-b49c-945b1c12f657) |
@@ -50,6 +57,9 @@ Remote sales roles — account executives, SDRs, and enterprise deals.
 | Account Executive - SLED - California | [Zscaler](https://zscaler.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5128132007) |
 | Enterprise Restaurant Account Manager | [Sharebite](https://sharebite.com) | $90K–$100K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/sharebite/jobs/6004491004) |
 | Doradca ds. Produktów Biologicznych – region Dolnośląskie (część centralno-zachodnia) | [Syngenta](https://syngenta.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000127941023) |
+| Doradca ds. Produktów Biologicznych – region Zachodni (Lubuskie + zach. Wielkopolskie) | [Syngenta](https://syngenta.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000127941389) |
+| Doradca ds. Produktów Biologicznych – region Dolnośląskie (Wrocław i okolice) | [Syngenta](https://syngenta.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000127939354) |
+| Doradca ds. Produktów Biologicznych – region Północno-Centralny | [Syngenta](https://syngenta.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000127940259) |
 | Connected Services Trainer | [MSX International](https://msxi.com) | $65K–$75K/yr | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013273866) |
 | SMB Account Executive (DACH) —  London | [Canva](https://canva.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Canva/postings/6000000001099047) |
 | SMB Account Executive (DACH) —  London | [Canva](https://canva.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Canva/postings/6000000001099042) |

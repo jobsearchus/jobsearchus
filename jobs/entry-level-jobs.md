@@ -2,12 +2,21 @@
 
 Remote jobs open to candidates with 0–2 years of experience. A real way in — no degree gatekeeping.
 
-**427 open roles** — Last updated: 2026-05-24
+**443 open roles** — Last updated: 2026-05-24
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| (TEMPLATE 2025-26) Casual Sales Assistant - Sports Direct | [Frasers Group](https://frasersgroup.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000128030419) |
+| STAGE ASSISTANTE GOUVERNANTE | [Relais & Châteaux](https://relaischateaux.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000128030179) |
+| Team Leader | [Greene King](https://greeneking.co.uk) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/GreeneKing/postings/744000128029849) |
+| Sales Assistant  20h -PIEVE FISSIRAGA | [JYSK](https://jysk.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000128029799) |
+| Sales Assistant  part time -PIEVE FISSIRAGA | [JYSK](https://jysk.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000128029724) |
+| RETAIL ASSISTANT - WEEKEND ONLY | [Primark Tiendas SLU](https://primark.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000128029489) |
+| Sales Assistant (Full Time) – Busango C.C. “Globo" | [JD Sports](https://jdsports.com) | — | May 24 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4874300101) |
+| EMPLOYE FRUITS ET LEGUMES (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000128028789) |
+| Delivery Driver (05882) - 437 Hughes Rd. | [Domino's](https://dominos.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000128018995) |
 | Apprentice Interpretive Guide - Spring/Summer 2026 | [ACCOR](https://group.accor.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128003299) |
 | Cashier | [Pilot Flying J](https://pilotflyingj.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/PilotCompany/postings/744000128003259) |
 | Intern: EHS focused on Health | [AbbVie](https://abbvie.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/AbbVie/postings/3743990013282465) |
@@ -30,8 +39,11 @@ Remote jobs open to candidates with 0–2 years of experience. A real way in —
 | EMPLOYE DE RAYON BAZAR BEAUTE BEBE (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127994399) |
 | CONTRAT ETUDIANT - EMPLOYE COMMERCIAL (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127994000) |
 | Retail Assistant Nijmegen  | [Primark Tiendas SLU](https://primark.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000127993899) |
+| Commis de Cuisine (H/F) - Le Saint-Paul 5* R&C - CDD saisonnier Logement Possible | [Relais & Châteaux](https://relaischateaux.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000127992139) |
 | Delivery Driver(06611) | [Domino's](https://dominos.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000127989964) |
 | Delivery Expert(06833) - 1926 Crockett Rd, Palestine, Tx 75801 | [Domino's](https://dominos.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000127989604) |
+| Assistant Manager(02779) - 5016 S. Pulaski Rd. | [Domino's](https://dominos.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000127988250) |
+| Customer Service Rep(06996) - 1610 Teasley Ln | [Domino's](https://dominos.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000127987870) |
 | Domino's Delivery Driver - UW,  WA (7084) | [Domino's](https://dominos.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000127987813) |
 | Customer Service Rep(08584) - 421 Blue Ravine Road, Suite 300 | [Domino's](https://dominos.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000127986437) |
 | Delivery Driver (02582) - 1104 E Tipton St, Seymour IN | [Domino's](https://dominos.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000127988054) |
@@ -41,6 +53,8 @@ Remote jobs open to candidates with 0–2 years of experience. A real way in —
 | Funcional Junior -  Profesional Funcional Pruebas Información Tributaria | [Inetum](https://inetum.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000127975919) |
 | Analista Junior de Data Analytics para Seguridad  | [Inetum](https://inetum.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000127973249) |
 | Counsel / Attorney - Antitrust & Compliance | [Continental](https://continentalserves.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000127971142) |
+| Early Morning Part Time Sales Associate | [Primark Tiendas SLU](https://primark.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000127971349) |
+| Seasonal Part Time Sales Associate  | [Primark Tiendas SLU](https://primark.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000127971308) |
 | Patient Care Coordinator  | [BenchMark Physical Therapy](https://benchmarkpt.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/benchmarkpt/jobs/5145405007) |
 | Técnico(a) Desenvolvimento Processos I | [Anglo American](https://angloamerican.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000127960049) |
 | Store Representative - Part-Time Days | [Serv-U-Success](https://servusuccess.com) | $16/yr | May 22 | [Apply](https://jobs.lever.co/serv-u-success/0b1c1c89-01d0-49e9-a7d9-f3c80e0e56a3) |
@@ -48,6 +62,8 @@ Remote jobs open to candidates with 0–2 years of experience. A real way in —
 | Cook 1 - Shields Athletic Dining Facility | [University of Notre Dame](https://universityofnotredame.com) | $18/yr | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013276546) |
 | Cook 2 - Shields Athletic Dining Facility  | [University of Notre Dame](https://universityofnotredame.com) | $19/yr | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013276496) |
 | Part-time Cook 1 - Shields Athletic Dining Facility | [University of Notre Dame](https://universityofnotredame.com) | $18/yr | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013276257) |
+| Culinary Service Associate - Shields Athletic Dining Facility | [University of Notre Dame](https://universityofnotredame.com) | $18/yr | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013276326) |
+| Part-time Culinary Service Associate - Shields Athletic Dining Facility | [University of Notre Dame](https://universityofnotredame.com) | $18/yr | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013276286) |
 | Shuttle Driver - Weekends Off - Bixby | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000127949054) |
 | LVN - LPT | [Crestwood Behavioral Health](https://crestwoodbehavioralhealth.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/crestwoodcareers/jobs/7747005003) |
 | PLONGEUR (SE) CDI 30 Heures Hebdomadaires  | [ACCOR](https://group.accor.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000127940860) |

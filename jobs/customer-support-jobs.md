@@ -2,7 +2,7 @@
 
 Remote customer support and success roles across SaaS, e-commerce, and tech.
 
-**135 open roles** — Last updated: 2026-05-24
+**141 open roles** — Last updated: 2026-05-24
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -11,8 +11,11 @@ Remote customer support and success roles across SaaS, e-commerce, and tech.
 | Apprentice Interpretive Guide - Spring/Summer 2026 | [ACCOR](https://group.accor.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128003299) |
 | Verkoopmedewerker - (M/V) 24u - Breda | [Frasers Group](https://frasersgroup.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000128000549) |
 | EXPERT SERVICE CLIENT - CDI H/F  Contrat étudiant 8H | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000127995919) |
+| Commis de Cuisine (H/F) - Le Saint-Paul 5* R&C - CDD saisonnier Logement Possible | [Relais & Châteaux](https://relaischateaux.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000127992139) |
 | Customer Success Manager | [Snappr](https://snappr.com) | — | May 23 | [Apply](https://jobs.lever.co/snappr/73d1de4f-deb0-40c8-8068-12417c928004) |
 | Customer Service Rep(7936) -  10986 Sierra ave | [Domino's](https://dominos.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000127986444) |
+| Assistant Manager(02779) - 5016 S. Pulaski Rd. | [Domino's](https://dominos.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000127988250) |
+| Customer Service Rep(06996) - 1610 Teasley Ln | [Domino's](https://dominos.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000127987870) |
 | Customer Service Rep(08584) - 421 Blue Ravine Road, Suite 300 | [Domino's](https://dominos.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000127986437) |
 | Assistant manager | [Domino's](https://dominos.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000127987374) |
 | Customer Service Rep(05825) - 2650 Zelda Road | [Domino's](https://dominos.com) | $10/yr | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000127987107) |
@@ -24,6 +27,9 @@ Remote customer support and success roles across SaaS, e-commerce, and tech.
 | Health Claims Specialists | [Genpak LLC](https://genpak-llc-2) | $14/yr | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000127972878) |
 | Sports Customer Service Specialists - Work At Home | [Genpak LLC](https://genpak-llc-2) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000127970268) |
 | Senior Manager, Customer Success Management - Enterprise/EMEA | [Chainguard](https://chainguard.dev) | — | May 22 | [Apply](https://job-boards.greenhouse.io/chainguard/jobs/4679713006) |
+| Demi Sous Chef - Shields Athletic Dining Facility | [University of Notre Dame](https://universityofnotredame.com) | $23/yr | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013276366) |
+| Culinary Service Associate - Shields Athletic Dining Facility | [University of Notre Dame](https://universityofnotredame.com) | $18/yr | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013276326) |
+| Part-time Culinary Service Associate - Shields Athletic Dining Facility | [University of Notre Dame](https://universityofnotredame.com) | $18/yr | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013276286) |
 | Tier 2 Help Desk Technician | [Replit](https://replit.com) | — | May 22 | [Apply](https://jobs.ashbyhq.com/replit/60c2656b-5b23-44b8-9b04-98169e7b53e7) |
 | Program Manager - Customer Experience | [Canva](https://canva.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001099075) |
 | Program Manager - Customer Experience | [Canva](https://canva.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001099052) |

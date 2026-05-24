@@ -2,12 +2,15 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**448 open roles** — Last updated: 2026-05-24
+**453 open roles** — Last updated: 2026-05-24
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Lead Consultant, Site Solutions | [Ramboll](https://ramboll.com) | $82K–$103K/yr | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/Ramboll3/postings/744000128030430) |
+| STAGE ASSISTANTE GOUVERNANTE | [Relais & Châteaux](https://relaischateaux.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000128030179) |
+| Team Leader | [Greene King](https://greeneking.co.uk) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/GreeneKing/postings/744000128029849) |
 | Operations Manager | [Sensei](https://senseirobotics.com) | $72K–$85K/yr | May 24 | [Apply](https://job-boards.greenhouse.io/sensei/jobs/8563601002) |
 | Host, Flower & Wolf (Part-time) | [ACCOR](https://group.accor.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128003949) |
 | Cashier | [Pilot Flying J](https://pilotflyingj.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/PilotCompany/postings/744000128003259) |
@@ -22,6 +25,7 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Bilingual Case Manager (Remote Flexible, Spanish Speaking) | [Pair Team](https://pairteam.com) | $25/yr | May 23 | [Apply](https://job-boards.greenhouse.io/pairteam/jobs/8563314002) |
 | Bilingual Case Manager (Remote Flexible, Spanish Speaking) | [Pair Team](https://pairteam.com) | $25/yr | May 23 | [Apply](https://job-boards.greenhouse.io/pairteam/jobs/8563312002) |
 |  Bilingual Case Management Specialist (Remote, Spanish Speaking) | [Pair Team](https://pairteam.com) | $25/yr | May 23 | [Apply](https://job-boards.greenhouse.io/pairteam/jobs/8563310002) |
+| Bilingual Case Management Specialist (Remote Flexible, Spanish Speaking) | [Pair Team](https://pairteam.com) | $25/yr | May 23 | [Apply](https://job-boards.greenhouse.io/pairteam/jobs/8563309002) |
 | STAGE Nola CC Vulcano Buono | [JD Sports](https://jdsports.com) | — | May 23 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4874141101) |
 | Sales Assistant (Part Time) - Nola CC Vulcano Buono  | [JD Sports](https://jdsports.com) | — | May 23 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4874148101) |
 | MODELE INTERMARCHE - EMPLOYE COMMERCIAL (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127999009) |
@@ -37,6 +41,7 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Voiturier / Bagagiste - Extra du 11 au 21 Juin 2026 - Hôtel Richer de Belleval - Relais & Châteaux - 5 étoiles | [Relais & Châteaux](https://relaischateaux.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000127994549) |
 | EMPLOYE DE RAYON BAZAR BEAUTE BEBE (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127994399) |
 | Commis de Salle (H/F) - Bistrot La Canourgue - CDD saisonnier - Montpellier | [Relais & Châteaux](https://relaischateaux.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000127994359) |
+| chef de rang (H/F) - Bistrot la Canourgue - CDD Saisonnier - Montpellier  | [Relais & Châteaux](https://relaischateaux.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000127994319) |
 | CONTRAT ETUDIANT - EMPLOYE COMMERCIAL (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127994000) |
 | Retail Assistant Nijmegen  | [Primark Tiendas SLU](https://primark.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000127993899) |
 | Front Office Manager | [ACCOR](https://group.accor.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000127993579) |

@@ -2,12 +2,13 @@
 
 General developer and programmer roles that did not fit a more specific category.
 
-**53 open roles** — Last updated: 2026-05-24
+**54 open roles** — Last updated: 2026-05-24
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Mobile Developer - Base44 | [Wix.com](https://wix.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/Wix2/postings/744000128030989) |
 | Developer Lead:Java&Kafka&Quarkus | [Referrals Only](https://thoughtworks.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7955105) |
 | Senior ServiceNow Developer - Public Trust Clearance | [LightFeather](https://lightfeather.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5229576008) |
 | Lead Developer Java Quarkus | [Referrals Only](https://thoughtworks.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7954080) |

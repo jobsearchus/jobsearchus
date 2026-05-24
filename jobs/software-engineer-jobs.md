@@ -2,12 +2,13 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**655 open roles** — Last updated: 2026-05-24
+**658 open roles** — Last updated: 2026-05-24
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Finance Systems Engineer -Zuora system (Bay Area only) | [Canva](https://canva.com) | $185K–$237K/yr | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/Canva/postings/6000000001099130) |
 | Senior Software Engineer, AI Platform | [Mixpanel](https://mixpanel.com) | $175K–$213K/yr | May 23 | [Apply](https://job-boards.greenhouse.io/mixpanel/jobs/7941944) |
 | R&D Intern | [Syngenta](https://syngenta.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000127994629) |
 | Staff Advanced Concepts Optimization Engineer | [Archer](https://archer.com) | $130K–$160K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7742987003) |
@@ -31,11 +32,13 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Senior Software Engineer, Unified Platform - Trade Management, Trade and Order Processing, Platform Services | [DRW](https://drw.com) | $200K–$275K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7939741) |
 | Clinic Director - Homewood Broadway | [BenchMark Physical Therapy](https://benchmarkpt.com) | $80K–$95K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/benchmarkpt/jobs/5145595007) |
 | Software Engineer, Native Delivery | [Hightouch](https://hightouch.com) | $180K–$320K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/hightouch/jobs/6004706004) |
+| Staff Software Architect (AI) | [Experian](https://experianplc.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000127963096) |
 | Staff Survivability and Operations Analysis Engineer | [Archer](https://archer.com) | $131K–$180K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7687082003) |
 | Head of Solutions Engineering, Americas | [Vanta](https://vanta.com) | — | May 22 | [Apply](https://jobs.ashbyhq.com/vanta/b988bf0d-41f8-4e89-9a63-bad73dc85470) |
 | Técnico(a) Desenvolvimento Processos I | [Anglo American](https://angloamerican.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000127960049) |
 | Project Engineer | [ALTEN](https://alten.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5145546007) |
 | Senior Analyst, Powertrain | [Archer](https://archer.com) | $100K–$160K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7741008003) |
+| Engenheiro de Software Sênior | [Experian](https://experianplc.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000127954489) |
 | Senior Business Engineer - Ads | [Reddit](https://reddit.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/7954598) |
 | Forward Deployed Software Engineer | [Pareto](https://pareto.com) | — | May 22 | [Apply](https://jobs.ashbyhq.com/pareto-ai/9b5842fb-f936-47d0-9985-2941264123d8) |
 | Maintenance Technician | [ACCOR](https://group.accor.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000127936628) |

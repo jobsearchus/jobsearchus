@@ -2,23 +2,30 @@
 
 Remote operations and business operations roles across industries.
 
-**429 open roles** — Last updated: 2026-05-24
+**436 open roles** — Last updated: 2026-05-24
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Regional Training Manager | [MSX International](https://msxi.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013283016) |
+| EMPLOYE FRUITS ET LEGUMES (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000128028789) |
+| Delivery Driver (05882) - 437 Hughes Rd. | [Domino's](https://dominos.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000128018995) |
+| Assistant Manager (8921) - 3551 MLK Jr Blvd | [Domino's](https://dominos.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000128018931) |
+| Assistant Manager(05501) - 2658 S Saunders | [Domino's](https://dominos.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000128018207) |
 | SweatHouz- Studio Manager, San Diego | [Momentic](https://momentic.ai) | — | May 23 | [Apply](https://job-boards.greenhouse.io/momentic/jobs/5230008008) |
 | Supervisor - Albufeira | [Frasers Group](https://frasersgroup.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000128000049) |
 | RESPONSABLE MAGASIN (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127997429) |
 | Chauffeur, livreur, installateur | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000127996959) |
 | Project Controls - Document Controller | [AECOM](https://aecom.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000127996709) |
 | MANAGER DE RAYON (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127996229) |
+| Manager de secteur Non Alimentaire (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127996129) |
 | Specialist, Category -Food | [Delivery Hero](https://deliveryhero.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000127995639) |
 | Store Manager | [Primark Tiendas SLU](https://primark.com) | $106K–$143K/yr | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000127990429) |
 | Delivery Driver(09281) - 401 E Business 83 | [Domino's](https://dominos.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000127988434) |
 | Delivery Driver | [Domino's](https://dominos.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000127990359) |
 | General Manager(04890) - 3921 E. Market St | [Domino's](https://dominos.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000127989561) |
+| Assistant General Manager (05118) - 5618 Hallandale Beach Blvd $18.50/hr. | [Domino's](https://dominos.com) | $19/yr | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000127986720) |
 | Assistant Manager(01202) - 7081 Dixie Hwy | [Domino's](https://dominos.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000127987036) |
 | Category Manager Construction Services | [Fluidstack](https://fluidstack.com) | $180K–$200K/yr | May 22 | [Apply](https://jobs.ashbyhq.com/fluidstack/c712a833-f347-4f41-9a8e-42b54fc3712c) |
 | Senior Facilities Technician | [Inversion Space](https://inversionspace.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/inversionspace/jobs/4699027005) |
