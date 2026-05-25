@@ -2,16 +2,20 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**403 open roles** — Last updated: 2026-05-24
+**407 open roles** — Last updated: 2026-05-25
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Sales Associate - Middle Shift (12pm-5pm)  | [Primark Tiendas SLU](https://primark.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000128038579) |
+| Sales Associate - (5pm-10pm) | [Primark Tiendas SLU](https://primark.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000128038480) |
 | FR - Potel et Chabot | [ACCOR](https://group.accor.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128034599) |
+| SPRZEDAWCA / SPRZEDAWCZYNI JYSK Warszawa Gocław 1/2 ETATU (2750 Brutto PLN) | [JYSK](https://jysk.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000128030649) |
 | (TEMPLATE 2025-26) Casual Sales Assistant - Sports Direct | [Frasers Group](https://frasersgroup.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000128030419) |
 | Sales Assistant  20h -PIEVE FISSIRAGA | [JYSK](https://jysk.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000128029799) |
 | Sales Assistant  part time -PIEVE FISSIRAGA | [JYSK](https://jysk.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000128029724) |
+| Sales Assistant 20/24h - Busnago (MB) | [JYSK](https://jysk.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000128029539) |
 | RETAIL ASSISTANT - WEEKEND ONLY | [Primark Tiendas SLU](https://primark.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000128029489) |
 | Sales Assistant (Full Time) – Busango C.C. “Globo" | [JD Sports](https://jdsports.com) | — | May 24 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4874300101) |
 | Sales Engineer - Japan | [Vanta](https://vanta.com) | — | May 24 | [Apply](https://jobs.ashbyhq.com/vanta/0d8925dc-e6ad-47da-9458-a8dac56a6b15) |

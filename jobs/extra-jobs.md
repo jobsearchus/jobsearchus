@@ -2,19 +2,27 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**458 open roles** — Last updated: 2026-05-24
+**466 open roles** — Last updated: 2026-05-25
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Kitchen Team Leader | [Greene King](https://greeneking.co.uk) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/GreeneKing/postings/744000128041839) |
+| Part time Assistente de Sala de 2ª -Real by Casa da Calçada - Porto | [Relais & Châteaux](https://relaischateaux.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000128036585) |
 | Director of Food and Beverage  | [ACCOR](https://group.accor.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128035809) |
 | Reservations Agent | [ACCOR](https://group.accor.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128034379) |
+| Masseur / Bodytherapeut / Physiotherapeut (m/w/d) - Weissenhaus | [Relais & Châteaux](https://relaischateaux.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000128033159) |
+| Empfangsmitarbeiter (m/w/d) - Weissenhaus | [Relais & Châteaux](https://relaischateaux.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000128033059) |
+| Barback - Electric House, West London | [Soho House](https://sohohouse.com) | — | May 24 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4868010101) |
 | Officer 1, Corporate Administration | [IQ-EQ](https://iqeq.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000128031629) |
 | Lead Consultant, Site Solutions | [Ramboll](https://ramboll.com) | $82K–$103K/yr | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/Ramboll3/postings/744000128030430) |
 | STAGE ASSISTANTE GOUVERNANTE | [Relais & Châteaux](https://relaischateaux.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000128030179) |
 | Team Leader | [Greene King](https://greeneking.co.uk) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/GreeneKing/postings/744000128029849) |
 | Operations Manager | [Sensei](https://senseirobotics.com) | $72K–$85K/yr | May 24 | [Apply](https://job-boards.greenhouse.io/sensei/jobs/8563601002) |
+| Delivery Driver (03875) - 13125 Tamiami Trl | [Domino's](https://dominos.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000128018850) |
+| Crew Member (04256) - $13.50/hr - Wal Mart Way | [Domino's](https://dominos.com) | $14/yr | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000128019458) |
+| Assistant Manager (05040) -1100 N. Tuttle Avenue, Space No. 9 | [Domino's](https://dominos.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000128019439) |
 | Delivery Driver (8808) - 100 NC Hwy 172 | [Domino's](https://dominos.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000128017180) |
 | Assistant Manager (03114) - 17274 San Carlos Blvd #201 | [Domino's](https://dominos.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000128018661) |
 | Host, Flower & Wolf (Part-time) | [ACCOR](https://group.accor.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128003949) |

@@ -2,22 +2,33 @@
 
 Remote jobs open to candidates with 0–2 years of experience. A real way in — no degree gatekeeping.
 
-**447 open roles** — Last updated: 2026-05-24
+**458 open roles** — Last updated: 2026-05-25
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Janitorial Maintenance | [Pilot Flying J](https://pilotflyingj.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/PilotCompany/postings/744000128039409) |
+| Sales Associate - Middle Shift (12pm-5pm)  | [Primark Tiendas SLU](https://primark.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000128038579) |
+| Sales Associate - (5pm-10pm) | [Primark Tiendas SLU](https://primark.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000128038480) |
+| Janitorial Maintenance | [Pilot Flying J](https://pilotflyingj.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/PilotCompany/postings/744000128037629) |
+| Part time Assistente de Sala de 2ª -Real by Casa da Calçada - Porto | [Relais & Châteaux](https://relaischateaux.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000128036585) |
+| Stage HR - People & Culture Administrator | [Primark Tiendas SLU](https://primark.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000128035200) |
 | Reservations Agent | [ACCOR](https://group.accor.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128034379) |
 | Officer 1, Corporate Administration | [IQ-EQ](https://iqeq.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000128031629) |
+| SPRZEDAWCA / SPRZEDAWCZYNI JYSK Warszawa Gocław 1/2 ETATU (2750 Brutto PLN) | [JYSK](https://jysk.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000128030649) |
 | (TEMPLATE 2025-26) Casual Sales Assistant - Sports Direct | [Frasers Group](https://frasersgroup.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000128030419) |
 | STAGE ASSISTANTE GOUVERNANTE | [Relais & Châteaux](https://relaischateaux.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000128030179) |
 | Team Leader | [Greene King](https://greeneking.co.uk) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/GreeneKing/postings/744000128029849) |
 | Sales Assistant  20h -PIEVE FISSIRAGA | [JYSK](https://jysk.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000128029799) |
 | Sales Assistant  part time -PIEVE FISSIRAGA | [JYSK](https://jysk.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000128029724) |
+| Sales Assistant 20/24h - Busnago (MB) | [JYSK](https://jysk.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000128029539) |
 | RETAIL ASSISTANT - WEEKEND ONLY | [Primark Tiendas SLU](https://primark.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000128029489) |
 | Sales Assistant (Full Time) – Busango C.C. “Globo" | [JD Sports](https://jdsports.com) | — | May 24 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4874300101) |
 | EMPLOYE FRUITS ET LEGUMES (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000128028789) |
+| Customer Service Rep(06453) - 1201 E Carl Albert Prkwy | [Domino's](https://dominos.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000128019054) |
+| Delivery Driver (03875) - 13125 Tamiami Trl | [Domino's](https://dominos.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000128018850) |
+| Crew Member (04256) - $13.50/hr - Wal Mart Way | [Domino's](https://dominos.com) | $14/yr | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000128019458) |
 | Customer Service Rep (8953) - 7075 Hwy 70 East | [Domino's](https://dominos.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000128019349) |
 | Delivery Driver (8808) - 100 NC Hwy 172 | [Domino's](https://dominos.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000128017180) |
 | Delivery Driver (05882) - 437 Hughes Rd. | [Domino's](https://dominos.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000128018995) |
