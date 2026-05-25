@@ -2,12 +2,13 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**204 open roles** — Last updated: 2026-05-25
+**205 open roles** — Last updated: 2026-05-25
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Interlines Payable Clerk - Gore Bay | [Manitoulin Global Forwarding](https://manitoulingroup.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000128247439) |
 | Business Finance Specialist (Area Sales Specialist) - Prepaid Card | [Tide](https://tide.com) | — | May 25 | [Apply](https://job-boards.greenhouse.io/tide/jobs/7742580003) |
 | Graduate Trainee, Global Markets | [Standard Bank](https://standardbank.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000128202549) |
 | Pricing Analyst | [Experian](https://experianplc.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000128192849) |

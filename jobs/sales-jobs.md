@@ -2,12 +2,14 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**424 open roles** — Last updated: 2026-05-25
+**426 open roles** — Last updated: 2026-05-25
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| ALTERNANCE Vendeur polyvalent F/H/X | [BUT](https://but.fr) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000128247180) |
+| Ford Connected Services Trainer | [MSX International](https://msxi.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013285071) |
 | Account Development Associate - Fever For Business (German Speaker) | [Fever](https://feverup.com) | — | May 25 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4874555101) |
 | CDD 25h RENFORT ETE H/F | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000128210139) |
 | Vendeur / Vendeuse CDD 35H + Temps partiel [15H-24H] (H/F) | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000128209340) |

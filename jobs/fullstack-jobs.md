@@ -2,12 +2,13 @@
 
 Full-stack engineering roles across product, platform, and startup companies.
 
-**18 open roles** — Last updated: 2026-05-25
+**19 open roles** — Last updated: 2026-05-25
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+|  Senior Staff Engineer - Dotnet Fullstack | [Nagarro](https://nagarro.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000128253959) |
 | Senior Software Engineer- Fullstack | [Zynga](https://zynga.com) | — | May 25 | [Apply](https://job-boards.greenhouse.io/zyngacareers/jobs/6004573004) |
 | Senior Full Stack Developer (Python/Nodejs+React) | [Referrals Only](https://thoughtworks.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7928927) |
 | Lead Full Stack Developer (Outbound and Selfservice) | [Miratech](https://miratech.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000127848899) |

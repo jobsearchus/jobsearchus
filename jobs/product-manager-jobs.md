@@ -2,12 +2,13 @@
 
 Product manager roles at companies building real products. Sourced directly from career pages.
 
-**73 open roles** — Last updated: 2026-05-25
+**74 open roles** — Last updated: 2026-05-25
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Product Manager - Pexels | [Canva](https://canva.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001102641) |
 | Product Analyst | [Genpak LLC](https://genpak-llc-2) | — | May 25 | [Apply](https://job-boards.eu.greenhouse.io/growetalents/jobs/4871625101) |
 | Senior Product Manager | [Delivery Hero](https://deliveryhero.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000128199039) |
 | Staff Product Manager, New Product Area | [Jump](https://jump.com) | — | May 23 | [Apply](https://jobs.ashbyhq.com/jump-app/f50e7985-112e-4b65-9bf5-636be2d7a411) |

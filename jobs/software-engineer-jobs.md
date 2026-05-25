@@ -2,15 +2,25 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**689 open roles** — Last updated: 2026-05-25
+**699 open roles** — Last updated: 2026-05-25
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Co-op Fall 2026 - System Architecture - 8-12 Months | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000128256129) |
+| Co-op Fall 2026 - System Architecture - 8-12 Months | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000128253439) |
+| Coordenador(a) de Engenharia de Software | [Experian](https://experianplc.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000128253419) |
+| Coordenador(a) de Engenharia de Software | [Experian](https://experianplc.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000128252659) |
+| Title Governance Coordinator | [NBCUniversal](https://nbcuniversal.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000128245379) |
 | FOH Team 18+ | [Greene King](https://greeneking.co.uk) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/GreeneKing/postings/744000128243929) |
 | Senior RF Engineer | [D-Fend Solutions](https://d-fendsolutions.com) | — | May 25 | [Apply](https://jobs.lever.co/d-fendsolutions/edfc36d0-0bbf-4bdc-bcae-03256b3ba138) |
+| Senior AI & Data Architect | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $95K–$130K/yr | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000128235539) |
+| Quality Engineer R&D – CoP (Conformity of Product) | [Continental](https://continentalserves.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000128227429) |
+| Product Industrialization Engineer CTTR | [Continental](https://continentalserves.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000128219052) |
 | Staff React Native Engineer - Pro | [Kraken](https://kraken.com) | — | May 25 | [Apply](https://jobs.ashbyhq.com/kraken.com/52ccad44-e0a6-4b15-8b2a-ca6a17a40d6b) |
+| Amazon Connect Architect | [Miratech](https://miratech.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000128212199) |
+| Amazon Connect Architect | [Miratech](https://miratech.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000128212109) |
 | Engineering Manager - Platform - Usage - Spain - Remote | [Grafana Labs](https://grafana.com) | — | May 25 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/5999714004) |
 | Engineering Manager - Platform - Usage - Ireland - Remote | [Grafana Labs](https://grafana.com) | — | May 25 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/5999717004) |
 | Engineering Manager - Platform - Usage - UK - Remote | [Grafana Labs](https://grafana.com) | — | May 25 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/5999716004) |

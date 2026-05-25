@@ -2,17 +2,22 @@
 
 Remote jobs open to candidates with 0–2 years of experience. A real way in — no degree gatekeeping.
 
-**487 open roles** — Last updated: 2026-05-25
+**492 open roles** — Last updated: 2026-05-25
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Co-op Fall 2026 - System Architecture - 8-12 Months | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000128256129) |
+| Co-op Fall 2026 - System Architecture - 8-12 Months | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000128253439) |
+| Cuisinier / commis de cuisine | [Genpak LLC](https://genpak-llc-2) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000128249999) |
 | Commis di Ristorante  | [Relais & Châteaux](https://relaischateaux.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000128246089) |
 | VERKÄUFER:IN (m/w/d) TEILZEIT (25 Std) –  4060 Leonding – Vorlage JAT | [JYSK](https://jysk.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000128245859) |
 | Addetto Caffetteria  | [Relais & Châteaux](https://relaischateaux.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000128245679) |
 | VENDEDOR/A - Iterinidad | [JYSK](https://jysk.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000128243324) |
 | Sales Assistant 30 h - Civezzano | [JYSK](https://jysk.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000128242552) |
+| Part Time Dock Worker - Immediate Start | [Manitoulin Global Forwarding](https://manitoulingroup.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000128237950) |
+| Internship HR (8h) - Tires | [Continental](https://continentalserves.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000128233531) |
 | Retail Merchandiser | [Pilot Flying J](https://pilotflyingj.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/PilotCompany/postings/744000128231119) |
 | CDD 25h RENFORT ETE H/F | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000128210139) |
 | FEMME DE CHAMBRE EXTRA H/F | [ACCOR](https://group.accor.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128205709) |

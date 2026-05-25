@@ -2,12 +2,13 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**490 open roles** — Last updated: 2026-05-25
+**491 open roles** — Last updated: 2026-05-25
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Cuisinier / commis de cuisine | [Genpak LLC](https://genpak-llc-2) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000128249999) |
 | Commis di Ristorante  | [Relais & Châteaux](https://relaischateaux.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000128246089) |
 | VERKÄUFER:IN (m/w/d) TEILZEIT (25 Std) –  4060 Leonding – Vorlage JAT | [JYSK](https://jysk.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000128245859) |
 | Addetto Caffetteria  | [Relais & Châteaux](https://relaischateaux.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000128245679) |

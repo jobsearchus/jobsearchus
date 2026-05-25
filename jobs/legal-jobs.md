@@ -2,12 +2,13 @@
 
 Remote legal, compliance, and counsel roles.
 
-**57 open roles** — Last updated: 2026-05-25
+**58 open roles** — Last updated: 2026-05-25
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| PV - Advogado Júnior  | [Experian](https://experianplc.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000128252039) |
 | Commercial Paralegal - Contracts Manager | [Sigma Computing](https://sigmacomputing.com) | $180K–$205K/yr | May 25 | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/7747616003) |
 | Corporate Counsel - Commercial | [Sigma Computing](https://sigmacomputing.com) | $200K–$235K/yr | May 25 | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/7747542003) |
 | Contracts Specialist | [NBCUniversal](https://nbcuniversal.com) | $65K–$85K/yr | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000128039209) |

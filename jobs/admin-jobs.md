@@ -2,12 +2,13 @@
 
 Remote administrative and executive assistant roles across industries.
 
-**18 open roles** — Last updated: 2026-05-25
+**19 open roles** — Last updated: 2026-05-25
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Analista de Treinamento (Gerenciador de Sharepoint) | [MSX International](https://msxi.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013285586) |
 | Senior Administrative Professional | [Ramboll](https://ramboll.com) | $67K–$83K/yr | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/Ramboll3/postings/744000128030519) |
 | Associate Executive - Secretarial | [IQ-EQ](https://iqeq.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000127888314) |
 | Executive - Secretarial  | [IQ-EQ](https://iqeq.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000127869050) |
