@@ -2,12 +2,25 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**407 open roles** — Last updated: 2026-05-25
+**420 open roles** — Last updated: 2026-05-25
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| CDD 25h RENFORT ETE H/F | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000128210139) |
+| Vendeur / Vendeuse CDD 35H + Temps partiel [15H-24H] (H/F) | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000128209340) |
+| Sales Executive | [ACCOR](https://group.accor.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128204600) |
+| VENDEUR CONSEIL - CDI ETUDIANT TEMPS PARTIEL H/F (08H00) | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000128203113) |
+| Field Sales Representative Madrid | [Tripadvisor](https://tripadvisor.com) | — | May 25 | [Apply](https://job-boards.greenhouse.io/tripadvisor/jobs/7956225) |
+| Team Lead Équipe Commerciale Autohero (H/F) | [AUTO1 Group](https://auto1-group.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000128199159) |
+| URGE- Tasador/a Administrativo/a Automoción (Valencia) | [AUTO1 Group](https://auto1-group.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000128197219) |
+|  EMPLOYE COMMERCIAL RAYON FRAIS (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000128197098) |
+| Stagiaire service Commercial  | [Genpak LLC](https://genpak-llc-2) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000128189510) |
+| Casual Sales Associate (Pacific Fair) | [Princess Polly](https://princesspolly.com) | — | May 25 | [Apply](https://jobs.lever.co/princesspolly/7958bf71-fc2f-47ec-b9b1-f6b547188623) |
+| Delivery Driver (06627) - 50 Aldine Bender Rd | [Domino's](https://dominos.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000128177798) |
+| Delivery Driver(05927) - 2535 N Hill St | [Domino's](https://dominos.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000128177701) |
+| FT Sales Associate (Pacific Fair) | [Princess Polly](https://princesspolly.com) | — | May 25 | [Apply](https://jobs.lever.co/princesspolly/97c272ea-4d66-42f2-9257-9b6b61c8e399) |
 | Sales Associate - Middle Shift (12pm-5pm)  | [Primark Tiendas SLU](https://primark.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000128038579) |
 | Sales Associate - (5pm-10pm) | [Primark Tiendas SLU](https://primark.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000128038480) |
 | FR - Potel et Chabot | [ACCOR](https://group.accor.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128034599) |

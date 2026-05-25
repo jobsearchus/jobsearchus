@@ -2,12 +2,14 @@
 
 Project and program management roles across tech, operations, and enterprise.
 
-**43 open roles** — Last updated: 2026-05-25
+**45 open roles** — Last updated: 2026-05-25
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Manager SAP | [Inetum](https://inetum.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000128200464) |
+| Directeur de Projet SAP H/F | [Inetum](https://inetum.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000128199744) |
 | 2027 Graduate Project Manager (Civil/Construction) | [AECOM](https://aecom.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000128040830) |
 | Program Manager (Enterprise Modernization, Platforms and Cloud) | [Referrals Only](https://thoughtworks.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7954842) |
 | Program Management Director | [Mirantis](https://mirantis.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Mirantis/postings/744000127914463) |

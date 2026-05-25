@@ -2,12 +2,14 @@
 
 QA, test automation, and SDET roles. Manual and automated testing across all stacks.
 
-**20 open roles** — Last updated: 2026-05-25
+**22 open roles** — Last updated: 2026-05-25
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| QA Engineer | [Envoy Global](https://envoyglobal.com) | — | May 25 | [Apply](https://job-boards.greenhouse.io/envoyglobalinc/jobs/5997730004) |
+| QA Automation Engineer (Fitness sphere) | [Coherent Solutions](https://coherentsolutions.com) | — | May 25 | [Apply](https://job-boards.eu.greenhouse.io/coherentsolutions/jobs/4872854101) |
 | Associate Principal Engineer - Automation QA Lead  | [Nagarro](https://nagarro.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000127897590) |
 | Senior Staff RF Test Engineer | [IonQ](https://ionq.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/ionq/jobs/5995956004) |
 | Senior AI Automation Engineer | [HackerOne](https://hackerone.com) | $160K–$200K/yr | May 21 | [Apply](https://jobs.ashbyhq.com/hackerone/ab97488e-b159-41e3-8a20-a40b91acbdc4) |

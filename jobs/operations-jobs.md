@@ -2,15 +2,22 @@
 
 Remote operations and business operations roles across industries.
 
-**446 open roles** — Last updated: 2026-05-25
+**453 open roles** — Last updated: 2026-05-25
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Kitchens Dispatch Support Lead -  Arabic Speaker | [Delivery Hero](https://deliveryhero.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000128196559) |
+| Area Supervisor - Scanning Operations | [Delivery Hero](https://deliveryhero.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000128195310) |
+| CHEF(FE) DE MAGASIN | [Genpak LLC](https://genpak-llc-2) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000128194264) |
 | Sr. Manager- Revenue Operations | [Experian](https://experianplc.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000128183380) |
+| General Manager(06127) - 3439 L. St. | [Domino's](https://dominos.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000128177828) |
+| Assistant Manager (04312) 135 Grafton Station Ln : $17.50 / HR | [Domino's](https://dominos.com) | $18/yr | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000128176752) |
+| General Manager(07323) - 9322 Zane Ave N | [Domino's](https://dominos.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000128177709) |
 | General Manager(3112) - 96118 Lofton Square Suite 5 | [Domino's](https://dominos.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000128171454) |
 | Assistant Manager (08087) 426 Granby St : $17.50 / HR | [Domino's](https://dominos.com) | $18/yr | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000128176953) |
+| Officer 2, Depositary  | [IQ-EQ](https://iqeq.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000128093131) |
 | Janitorial Maintenance | [Pilot Flying J](https://pilotflyingj.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/PilotCompany/postings/744000128039409) |
 | Janitorial Maintenance | [Pilot Flying J](https://pilotflyingj.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/PilotCompany/postings/744000128037629) |
 | Regional Training Manager | [MSX International](https://msxi.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013283016) |

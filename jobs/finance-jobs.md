@@ -2,13 +2,18 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**199 open roles** — Last updated: 2026-05-25
+**204 open roles** — Last updated: 2026-05-25
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Business Finance Specialist (Area Sales Specialist) - Prepaid Card | [Tide](https://tide.com) | — | May 25 | [Apply](https://job-boards.greenhouse.io/tide/jobs/7742580003) |
+| Graduate Trainee, Global Markets | [Standard Bank](https://standardbank.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000128202549) |
 | Pricing Analyst | [Experian](https://experianplc.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000128192849) |
+| Consultant / Senior Consultant - Financial Services | [Baringa](https://baringa.com) | — | May 25 | [Apply](https://job-boards.eu.greenhouse.io/baringa/jobs/4836120101) |
+| Accountant I | [Continental](https://continentalserves.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000128184679) |
+| Accountant I | [Continental](https://continentalserves.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000128183904) |
 | Finance Manager | [Bosch](https://bosch.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/BoschGroup/postings/744000128029249) |
 | Assistant Manager, Fund Administration (Onboarding) | [Juniper Square](https://junipersquare.com) | $110K–$125K/yr | May 23 | [Apply](https://jobs.ashbyhq.com/junipersquare/42ab3ae6-6792-4727-8b85-b655f7f3014b) |
 | Risk Manager | [Robinhood](https://robinhood.com) | — | May 23 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7900901?t=gh_src=&gh_jid=7900901) |

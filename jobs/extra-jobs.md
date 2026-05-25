@@ -2,12 +2,16 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**470 open roles** — Last updated: 2026-05-25
+**475 open roles** — Last updated: 2026-05-25
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| FEMME DE CHAMBRE EXTRA H/F | [ACCOR](https://group.accor.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128205709) |
+| Commis I | [ACCOR](https://group.accor.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128205009) |
+| Associate, KYC Compliance Operations | [Convera](https://convera.com) | — | May 25 | [Apply](https://job-boards.eu.greenhouse.io/convera/jobs/4870002101) |
+| Electronic Health Records (EHR) Specialist | [Genpak LLC](https://genpak-llc-2) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000128184294) |
 | Aged Care Comprehensive Assessor | [Genpak LLC](https://genpak-llc-2) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/APMGroup/postings/6000000001102121) |
 | Counsellor | [Genpak LLC](https://genpak-llc-2) | $65K–$90K/yr | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/APMGroup/postings/6000000001102114) |
 | RN Triage AOD | [Healthcare Australia](https://healthcareaustralia.com.au) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/HealthcareAustralia1/postings/6000000001100529) |
@@ -48,6 +52,7 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | MODELE INTERMARCHE - EMPLOYE COMMERCIAL (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127999009) |
 | Vendeur comptoir magasinier H/F | [Genpak LLC](https://genpak-llc-2) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000127998689) |
 | Vendeur Polyvalent | [Primark Tiendas SLU](https://primark.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000127998309) |
+| Chef de Partie - Soho Farmhouse(Hay Barn) | [Soho House](https://sohohouse.com) | — | May 23 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4870960101) |
 | EXPERT SERVICE CLIENT - CDI et CDD - Temps complet et Temps partiel H/F - OUVERTURE BASSE GOULAINE | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000127997699) |
 | Responsable Univers (Manager Commerce) CDI - Temps plein (H/F)- Futur Directeur de magasin | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000127997379) |
 | Helicopter Pilot | [Relais & Châteaux](https://relaischateaux.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000127996919) |
