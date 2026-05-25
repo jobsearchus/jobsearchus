@@ -2,7 +2,7 @@
 
 Remote HR, recruiting, and people operations roles.
 
-**72 open roles** — Last updated: 2026-05-25
+**75 open roles** — Last updated: 2026-05-25
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -10,6 +10,9 @@ Remote HR, recruiting, and people operations roles.
 | --- | --- | --- | --- | --- |
 | Talent & Performance Specialist | [Moniepoint](https://moniepoint.com) | — | May 25 | [Apply](https://job-boards.eu.greenhouse.io/moniepoint/jobs/4874150101) |
 | Talent Acquisition Specialist | [WIN Home Inspection](https://winhomeinspection.com) | — | May 25 | [Apply](https://job-boards.greenhouse.io/winhomeinspection/jobs/4684065006) |
+| Talent Management Capabilities SME | [O-I Glass](https://o-i.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/O-I/postings/744000128193659) |
+| Core HR and Total Rewards Capabilities SME | [O-I Glass](https://o-i.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/O-I/postings/744000128192769) |
+| Senior Recruitment Specialist - ME Region | [AECOM](https://aecom.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000128181029) |
 | AI Enablement Partner - HR | [Canva](https://canva.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001101018) |
 | Senior Learning & Development Advisor | [BESIX](https://besix.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000128040868) |
 | Stage HR - People & Culture Administrator | [Primark Tiendas SLU](https://primark.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000128035200) |

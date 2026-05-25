@@ -2,12 +2,14 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**311 open roles** — Last updated: 2026-05-25
+**313 open roles** — Last updated: 2026-05-25
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Commercial Paralegal - Contracts Manager | [Sigma Computing](https://sigmacomputing.com) | $180K–$205K/yr | May 25 | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/7747616003) |
+| Corporate Counsel - Commercial | [Sigma Computing](https://sigmacomputing.com) | $200K–$235K/yr | May 25 | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/7747542003) |
 | Senior Finance Systems Engineer -Zuora system (Bay Area only) | [Canva](https://canva.com) | $185K–$237K/yr | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/Canva/postings/6000000001099130) |
 | Assistant Manager, Fund Administration (Onboarding) | [Juniper Square](https://junipersquare.com) | $110K–$125K/yr | May 23 | [Apply](https://jobs.ashbyhq.com/junipersquare/42ab3ae6-6792-4727-8b85-b655f7f3014b) |
 | Senior Software Engineer, AI Platform | [Mixpanel](https://mixpanel.com) | $175K–$213K/yr | May 23 | [Apply](https://job-boards.greenhouse.io/mixpanel/jobs/7941944) |

@@ -2,15 +2,23 @@
 
 Remote jobs open to candidates with 0–2 years of experience. A real way in — no degree gatekeeping.
 
-**477 open roles** — Last updated: 2026-05-25
+**487 open roles** — Last updated: 2026-05-25
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Commis di Ristorante  | [Relais & Châteaux](https://relaischateaux.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000128246089) |
+| VERKÄUFER:IN (m/w/d) TEILZEIT (25 Std) –  4060 Leonding – Vorlage JAT | [JYSK](https://jysk.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000128245859) |
+| Addetto Caffetteria  | [Relais & Châteaux](https://relaischateaux.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000128245679) |
+| VENDEDOR/A - Iterinidad | [JYSK](https://jysk.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000128243324) |
+| Sales Assistant 30 h - Civezzano | [JYSK](https://jysk.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000128242552) |
+| Retail Merchandiser | [Pilot Flying J](https://pilotflyingj.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/PilotCompany/postings/744000128231119) |
 | CDD 25h RENFORT ETE H/F | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000128210139) |
 | FEMME DE CHAMBRE EXTRA H/F | [ACCOR](https://group.accor.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128205709) |
 | Commis I | [ACCOR](https://group.accor.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128205009) |
+| Hôtesse - Assistante Clientèle (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000128204540) |
+| Assistant Clientèle / Caissier (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000128204594) |
 | Sales Executive | [ACCOR](https://group.accor.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128204600) |
 | Graduate Trainee, Global Markets | [Standard Bank](https://standardbank.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000128202549) |
 | URGE- Tasador/a Administrativo/a Automoción (Valencia) | [AUTO1 Group](https://auto1-group.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000128197219) |
@@ -21,6 +29,8 @@ Remote jobs open to candidates with 0–2 years of experience. A real way in —
 | Accountant I | [Continental](https://continentalserves.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000128184679) |
 | Accountant I | [Continental](https://continentalserves.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000128183904) |
 | Casual Sales Associate (Pacific Fair) | [Princess Polly](https://princesspolly.com) | — | May 25 | [Apply](https://jobs.lever.co/princesspolly/7958bf71-fc2f-47ec-b9b1-f6b547188623) |
+| Customer Service Rep (09457) - 14640 E State Rd 70 | [Domino's](https://dominos.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000128177133) |
+| Delivery Driver(05129) - 2915 Kerry Forest Pkwy | [Domino's](https://dominos.com) | $24/yr | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000128177512) |
 | Delivery Driver (06627) - 50 Aldine Bender Rd | [Domino's](https://dominos.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000128177798) |
 | Delivery Driver(05927) - 2535 N Hill St | [Domino's](https://dominos.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000128177701) |
 | Customer Service Rep(01825) - 912 5th St SE | [Domino's](https://dominos.com) | $12/yr | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000128170835) |

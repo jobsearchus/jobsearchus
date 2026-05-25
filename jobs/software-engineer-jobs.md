@@ -2,24 +2,35 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**678 open roles** — Last updated: 2026-05-25
+**689 open roles** — Last updated: 2026-05-25
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| FOH Team 18+ | [Greene King](https://greeneking.co.uk) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/GreeneKing/postings/744000128243929) |
+| Senior RF Engineer | [D-Fend Solutions](https://d-fendsolutions.com) | — | May 25 | [Apply](https://jobs.lever.co/d-fendsolutions/edfc36d0-0bbf-4bdc-bcae-03256b3ba138) |
+| Staff React Native Engineer - Pro | [Kraken](https://kraken.com) | — | May 25 | [Apply](https://jobs.ashbyhq.com/kraken.com/52ccad44-e0a6-4b15-8b2a-ca6a17a40d6b) |
 | Engineering Manager - Platform - Usage - Spain - Remote | [Grafana Labs](https://grafana.com) | — | May 25 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/5999714004) |
 | Engineering Manager - Platform - Usage - Ireland - Remote | [Grafana Labs](https://grafana.com) | — | May 25 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/5999717004) |
 | Engineering Manager - Platform - Usage - UK - Remote | [Grafana Labs](https://grafana.com) | — | May 25 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/5999716004) |
 | Tower Manager ( Senior Technical Consultan +Engagement Manager) | [Inetum](https://inetum.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000128208704) |
+| Associate Compliance Manager | [Meesho](https://meesho.com) | — | May 25 | [Apply](https://jobs.lever.co/meesho/80ab7795-de6b-4dfe-9a66-a8ad5e7b8a83) |
 | Senior Heating and Cooling Engineer, Mechanical Design Engineer | [Drees & Sommer](https://dreso.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000128202664) |
 | Analyst, Feature | [Standard Bank](https://standardbank.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000128198060) |
 | Lead Product Engineer | [NCS](https://ncs.co) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001102535) |
 | Senior Product Engineer | [NCS](https://ncs.co) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001102512) |
+| Data Protection Engineer | [Genpak LLC](https://genpak-llc-2) | — | May 25 | [Apply](https://job-boards.greenhouse.io/commvault/jobs/5224301008) |
 | Principal Software Engineer 1 (NSG Firewall) | [Sophos](https://sophos.com) | — | May 25 | [Apply](https://jobs.lever.co/sophos/76606093-369d-436c-8541-ad2e8571e6c8) |
+| Senior Applied Scientist | [OnePay](https://onepay.com) | — | May 25 | [Apply](https://jobs.ashbyhq.com/oneapp/bfd2c27c-47a4-40ef-853e-232a7e2d8683) |
+| Senior Data Engineer | [Referrals Only](https://thoughtworks.com) | — | May 25 | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7937027) |
 | Software Engineer - Development  | [Genpak LLC](https://genpak-llc-2) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000128185039) |
 | Associate Staff Engineer(AI) | [Nagarro](https://nagarro.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000128183759) |
 | Senior Software Engineer - Configuration Team (Golang) | [Canva](https://canva.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001101612) |
+| Copy of Aviation Lead  | [AECOM](https://aecom.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000128173124) |
+| Aviation Lead  | [AECOM](https://aecom.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000128179063) |
+| Aviation Lead  | [AECOM](https://aecom.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000128179215) |
+| Aviation Lead  | [AECOM](https://aecom.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000128178438) |
 | Aviation Lead  | [AECOM](https://aecom.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000128173442) |
 | Aviation Lead  | [AECOM](https://aecom.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000128172362) |
 | Aviation Lead  | [AECOM](https://aecom.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000128171753) |

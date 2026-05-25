@@ -2,16 +2,28 @@
 
 Remote operations and business operations roles across industries.
 
-**453 open roles** — Last updated: 2026-05-25
+**465 open roles** — Last updated: 2026-05-25
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Planning Team Lead | [Syngenta](https://syngenta.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000128233617) |
+| Planning Team Lead | [Syngenta](https://syngenta.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000128233460) |
+| Planning Team Lead | [Syngenta](https://syngenta.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000128232630) |
+| License Operations & Strategy Manager | [Kraken](https://kraken.com) | — | May 25 | [Apply](https://jobs.ashbyhq.com/kraken.com/c3c8d6b8-dc05-4289-85ff-ef1f6c3a5468) |
+| Director of Engineering – Multi-Disciplinary | [D-Fend Solutions](https://d-fendsolutions.com) | — | May 25 | [Apply](https://jobs.lever.co/d-fendsolutions/4c023bc1-9863-47b6-9143-8e15bd837e22) |
+| Customer Success Associate | [QA Wolf](https://qawolf.com) | — | May 25 | [Apply](https://jobs.ashbyhq.com/qawolf/a6afbc1d-9c5b-4006-98d4-13ae7e1952b7) |
 | Kitchens Dispatch Support Lead -  Arabic Speaker | [Delivery Hero](https://deliveryhero.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000128196559) |
 | Area Supervisor - Scanning Operations | [Delivery Hero](https://deliveryhero.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000128195310) |
+| Administration Controller | [takealot.com](https://takealot.com) | — | May 25 | [Apply](https://job-boards.greenhouse.io/takealotcom/jobs/7938456) |
 | CHEF(FE) DE MAGASIN | [Genpak LLC](https://genpak-llc-2) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000128194264) |
+| DC Process Controller | [takealot.com](https://takealot.com) | — | May 25 | [Apply](https://job-boards.greenhouse.io/takealotcom/jobs/7946591) |
+| Assistant Manager, Air Operations (Gurugram) | [Flexport](https://flexport.com) | — | May 25 | [Apply](https://boards.greenhouse.io/flexport/jobs/7953626?gh_jid=7953626) |
 | Sr. Manager- Revenue Operations | [Experian](https://experianplc.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000128183380) |
+| Delivery Driver(07906) - 6306 Fair Oaks Blvd | [Domino's](https://dominos.com) | $20/yr | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000128176347) |
+| Customer Service Rep (09457) - 14640 E State Rd 70 | [Domino's](https://dominos.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000128177133) |
+| Delivery Driver(05129) - 2915 Kerry Forest Pkwy | [Domino's](https://dominos.com) | $24/yr | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000128177512) |
 | General Manager(06127) - 3439 L. St. | [Domino's](https://dominos.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000128177828) |
 | Assistant Manager (04312) 135 Grafton Station Ln : $17.50 / HR | [Domino's](https://dominos.com) | $18/yr | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000128176752) |
 | General Manager(07323) - 9322 Zane Ave N | [Domino's](https://dominos.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000128177709) |

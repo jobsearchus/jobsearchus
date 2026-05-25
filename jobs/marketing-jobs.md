@@ -2,7 +2,7 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**182 open roles** — Last updated: 2026-05-25
+**184 open roles** — Last updated: 2026-05-25
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -11,6 +11,8 @@ Remote marketing roles across growth, content, brand, and performance channels.
 | Marketing Associate - Singapore | [Flagright](https://flagright.com) | — | May 25 | [Apply](https://jobs.ashbyhq.com/flagright.com/05872eb1-a0f9-44a8-bf3c-745ced82d7dd) |
 | Senior Associate, Growth Marketing | [Razorpay Software Private Limited](https://razorpay.com) | — | May 25 | [Apply](https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4698731005) |
 | Marketing Creative Producer (12-month contract) | [Canva](https://canva.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001102434) |
+| Public Relations Manager I, APAC | [Coursera](https://coursera.org) | — | May 25 | [Apply](https://job-boards.greenhouse.io/coursera/jobs/6000017004) |
+| Contractual --  Office Coordinator | [Instawork](https://instawork.com) | — | May 25 | [Apply](https://job-boards.greenhouse.io/instawork/jobs/4684058006) |
 | Proposal Specialist (12 months) | [AECOM](https://aecom.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000128043419) |
 | AI Product Marketer | [Wix.com](https://wix.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/Wix2/postings/744000128032309) |
 | Partnership Manager - Base44 | [Wix.com](https://wix.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/Wix2/postings/744000128031348) |

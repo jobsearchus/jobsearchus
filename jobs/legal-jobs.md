@@ -2,12 +2,14 @@
 
 Remote legal, compliance, and counsel roles.
 
-**55 open roles** — Last updated: 2026-05-25
+**57 open roles** — Last updated: 2026-05-25
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Commercial Paralegal - Contracts Manager | [Sigma Computing](https://sigmacomputing.com) | $180K–$205K/yr | May 25 | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/7747616003) |
+| Corporate Counsel - Commercial | [Sigma Computing](https://sigmacomputing.com) | $200K–$235K/yr | May 25 | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/7747542003) |
 | Contracts Specialist | [NBCUniversal](https://nbcuniversal.com) | $65K–$85K/yr | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000128039209) |
 | Consultant, Due Diligence & Compliance | [Ramboll](https://ramboll.com) | $69K–$87K/yr | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/Ramboll3/postings/744000128030529) |
 | Product Counsel, ERISA & Operations | [Human Interest](https://humaninterest.com) | $170K–$210K/yr | May 22 | [Apply](https://job-boards.greenhouse.io/humaninterest/jobs/7952022) |

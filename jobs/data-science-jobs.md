@@ -2,13 +2,14 @@
 
 Data science, machine learning, and AI engineering roles. Python, SQL, PyTorch, and beyond.
 
-**44 open roles** — Last updated: 2026-05-25
+**45 open roles** — Last updated: 2026-05-25
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | Senior GenAI Engineer | [NCS](https://ncs.co) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001102410) |
+| APAC:AU:DAI:AI Engineer:Senior Consultant | [Referrals Only](https://thoughtworks.com) | — | May 25 | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7955952) |
 | Senior Machine Learning Engineer, AI Generation Engine | [SandboxAQ](https://sandboxaq.com) | — | May 22 | [Apply](https://jobs.ashbyhq.com/sandboxaq/5d096708-36f4-4f94-96b9-59b5e9b88f3f) |
 | Senior Machine Learning Engineer | [Calendly](https://calendly.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/calendly/jobs/8563197002) |
 | Automation & AI Engineer | [Genpak LLC](https://genpak-llc-2) | — | May 22 | [Apply](https://job-boards.greenhouse.io/martellgrowthsolutions/jobs/5229530008) |

@@ -2,20 +2,35 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**475 open roles** — Last updated: 2026-05-25
+**490 open roles** — Last updated: 2026-05-25
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Commis di Ristorante  | [Relais & Châteaux](https://relaischateaux.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000128246089) |
+| VERKÄUFER:IN (m/w/d) TEILZEIT (25 Std) –  4060 Leonding – Vorlage JAT | [JYSK](https://jysk.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000128245859) |
+| Addetto Caffetteria  | [Relais & Châteaux](https://relaischateaux.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000128245679) |
+| VENDEDOR/A - Iterinidad | [JYSK](https://jysk.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000128243324) |
+| Chef de rang- POGGIO ROSSO - Borgo San Felice Resort | [Relais & Châteaux](https://relaischateaux.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000128242456) |
+| Sales Assistant 30 h - Civezzano | [JYSK](https://jysk.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000128242552) |
+| Kitchen Assistant | [Greene King](https://greeneking.co.uk) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/GreeneKing/postings/744000128239279) |
+| Assistant Manager - Merano Lagundo C.C. "Algo Shopping Center" | [JD Sports](https://jdsports.com) | — | May 25 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4874703101) |
+| Retail Merchandiser | [Pilot Flying J](https://pilotflyingj.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/PilotCompany/postings/744000128231119) |
+| Vehicle Inspector | [Clutch](https://clutch.io) | $20/yr | May 25 | [Apply](https://job-boards.greenhouse.io/clutch/jobs/6005493004) |
+| Buyer: Stationery | [takealot.com](https://takealot.com) | — | May 25 | [Apply](https://job-boards.greenhouse.io/takealotcom/jobs/5638005) |
 | FEMME DE CHAMBRE EXTRA H/F | [ACCOR](https://group.accor.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128205709) |
 | Commis I | [ACCOR](https://group.accor.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128205009) |
+| Hôtesse - Assistante Clientèle (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000128204540) |
 | Associate, KYC Compliance Operations | [Convera](https://convera.com) | — | May 25 | [Apply](https://job-boards.eu.greenhouse.io/convera/jobs/4870002101) |
 | Electronic Health Records (EHR) Specialist | [Genpak LLC](https://genpak-llc-2) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000128184294) |
 | Aged Care Comprehensive Assessor | [Genpak LLC](https://genpak-llc-2) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/APMGroup/postings/6000000001102121) |
 | Counsellor | [Genpak LLC](https://genpak-llc-2) | $65K–$90K/yr | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/APMGroup/postings/6000000001102114) |
+| Senior Heritage Specialist | [AECOM](https://aecom.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000128182379) |
+| CRM Manager | [Mable](https://trymable.com) | — | May 25 | [Apply](https://jobs.lever.co/mable/68ab5465-4712-4ca9-976d-8593061e9a5e) |
 | RN Triage AOD | [Healthcare Australia](https://healthcareaustralia.com.au) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/HealthcareAustralia1/postings/6000000001100529) |
 | RN Triage Mental Health | [Healthcare Australia](https://healthcareaustralia.com.au) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/HealthcareAustralia1/postings/6000000001100461) |
+| Material Handler | [Carbon Crusher](https://carboncrusher.io) | $27/yr | May 25 | [Apply](https://job-boards.greenhouse.io/carbon/jobs/5144183007) |
 | Kitchen Team Leader | [Greene King](https://greeneking.co.uk) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/GreeneKing/postings/744000128041839) |
 | Part time Assistente de Sala de 2ª -Real by Casa da Calçada - Porto | [Relais & Châteaux](https://relaischateaux.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000128036585) |
 | Director of Food and Beverage  | [ACCOR](https://group.accor.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128035809) |

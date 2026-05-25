@@ -2,13 +2,14 @@
 
 General developer and programmer roles that did not fit a more specific category.
 
-**55 open roles** — Last updated: 2026-05-25
+**56 open roles** — Last updated: 2026-05-25
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | Python Developer (Sports sphere) | [Coherent Solutions](https://coherentsolutions.com) | — | May 25 | [Apply](https://job-boards.eu.greenhouse.io/coherentsolutions/jobs/4874460101) |
+| AI Developer | [Genpak LLC](https://genpak-llc-2) | — | May 25 | [Apply](https://job-boards.eu.greenhouse.io/valtech/jobs/4872440101) |
 | Mobile Developer - Base44 | [Wix.com](https://wix.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/Wix2/postings/744000128030989) |
 | Developer Lead:Java&Kafka&Quarkus | [Referrals Only](https://thoughtworks.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7955105) |
 | Senior ServiceNow Developer - Public Trust Clearance | [LightFeather](https://lightfeather.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5229576008) |

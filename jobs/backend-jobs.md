@@ -2,12 +2,13 @@
 
 Backend, server-side, and API engineering roles. Node.js, Python, Go, Ruby, Java and beyond.
 
-**29 open roles** — Last updated: 2026-05-25
+**30 open roles** — Last updated: 2026-05-25
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Backend Engineer, Wolt+ | [Wolt](https://wolt.com) | — | May 25 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7956265) |
 | Desarrollador Backend Java | [Inetum](https://inetum.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000127968356) |
 | (Senior) Backend Engineer, Platform | [Wheely](https://wheely.com) | £90K–£120K/yr | May 22 | [Apply](https://boards.greenhouse.io/wheely/jobs/7746904003?gh_jid=7746904003) |
 | (Senior) Backend Engineer, Marketpace | [Wheely](https://wheely.com) | £90K–£120K/yr | May 22 | [Apply](https://boards.greenhouse.io/wheely/jobs/7746861003?gh_jid=7746861003) |

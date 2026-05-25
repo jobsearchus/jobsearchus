@@ -2,12 +2,13 @@
 
 Remote customer support and success roles across SaaS, e-commerce, and tech.
 
-**150 open roles** — Last updated: 2026-05-25
+**151 open roles** — Last updated: 2026-05-25
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Assistant Clientèle / Caissier (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000128204594) |
 | Director, Customer Service [L7-1] (Contact Center Operations) | [Coupang](https://coupang.com) | — | May 25 | [Apply](https://boards.greenhouse.io/coupanginternal/jobs/7955951?gh_jid=7955951) |
 | Warranty Specialist | [MSX International](https://msxi.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013284207) |
 | Recruitment Consultant  | [Healthcare Australia](https://healthcareaustralia.com.au) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/HealthcareAustralia1/postings/6000000001101868) |

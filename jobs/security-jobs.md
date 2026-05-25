@@ -2,12 +2,13 @@
 
 Remote cybersecurity, information security, and security engineering roles.
 
-**53 open roles** — Last updated: 2026-05-25
+**54 open roles** — Last updated: 2026-05-25
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Agent de sécurité - Contrôleur aux entrées (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000128202370) |
 | Staff Security Engineer | [Delivery Hero](https://deliveryhero.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000127994579) |
 | Security Governance, Risk & Compliance (GRC) Lead  | [Delivery Hero](https://deliveryhero.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000127994089) |
 | Fire Officer | [ACCOR](https://group.accor.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000127993679) |
