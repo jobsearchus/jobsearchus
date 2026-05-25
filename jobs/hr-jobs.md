@@ -2,12 +2,13 @@
 
 Remote HR, recruiting, and people operations roles.
 
-**68 open roles** — Last updated: 2026-05-25
+**69 open roles** — Last updated: 2026-05-25
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| AI Enablement Partner - HR | [Canva](https://canva.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001101018) |
 | Stage HR - People & Culture Administrator | [Primark Tiendas SLU](https://primark.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000128035200) |
 | People & Culture Supervisor (Maternity Coverage - 12 Month Contract) | [ACCOR](https://group.accor.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128003359) |
 | GTM Recruiter | [ShopMy](https://shopmy.us) | — | May 22 | [Apply](https://job-boards.greenhouse.io/shopmy/jobs/5229314008) |

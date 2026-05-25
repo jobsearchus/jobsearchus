@@ -2,12 +2,15 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**661 open roles** — Last updated: 2026-05-25
+**664 open roles** — Last updated: 2026-05-25
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Associate Staff Engineer(AI) | [Nagarro](https://nagarro.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000128183759) |
+| Senior Software Engineer - Configuration Team (Golang) | [Canva](https://canva.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001101612) |
+| Principal Secondary System Engineer I NSW | [AECOM](https://aecom.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000128037230) |
 | Senior Transport Planner - Public Transport Master Plan (National Level) | [Egis](https://egis-group.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000128030279) |
 | GIS Mapping and Application Development / GIS Expert  | [Egis](https://egis-group.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000128030229) |
 | Senior Finance Systems Engineer -Zuora system (Bay Area only) | [Canva](https://canva.com) | $185K–$237K/yr | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/Canva/postings/6000000001099130) |

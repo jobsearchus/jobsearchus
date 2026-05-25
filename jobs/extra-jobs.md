@@ -2,12 +2,16 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**466 open roles** — Last updated: 2026-05-25
+**470 open roles** — Last updated: 2026-05-25
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Aged Care Comprehensive Assessor | [Genpak LLC](https://genpak-llc-2) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/APMGroup/postings/6000000001102121) |
+| Counsellor | [Genpak LLC](https://genpak-llc-2) | $65K–$90K/yr | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/APMGroup/postings/6000000001102114) |
+| RN Triage AOD | [Healthcare Australia](https://healthcareaustralia.com.au) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/HealthcareAustralia1/postings/6000000001100529) |
+| RN Triage Mental Health | [Healthcare Australia](https://healthcareaustralia.com.au) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/HealthcareAustralia1/postings/6000000001100461) |
 | Kitchen Team Leader | [Greene King](https://greeneking.co.uk) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/GreeneKing/postings/744000128041839) |
 | Part time Assistente de Sala de 2ª -Real by Casa da Calçada - Porto | [Relais & Châteaux](https://relaischateaux.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000128036585) |
 | Director of Food and Beverage  | [ACCOR](https://group.accor.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128035809) |

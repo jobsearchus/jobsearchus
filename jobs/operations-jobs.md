@@ -2,12 +2,15 @@
 
 Remote operations and business operations roles across industries.
 
-**443 open roles** — Last updated: 2026-05-25
+**446 open roles** — Last updated: 2026-05-25
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Sr. Manager- Revenue Operations | [Experian](https://experianplc.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000128183380) |
+| General Manager(3112) - 96118 Lofton Square Suite 5 | [Domino's](https://dominos.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000128171454) |
+| Assistant Manager (08087) 426 Granby St : $17.50 / HR | [Domino's](https://dominos.com) | $18/yr | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000128176953) |
 | Janitorial Maintenance | [Pilot Flying J](https://pilotflyingj.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/PilotCompany/postings/744000128039409) |
 | Janitorial Maintenance | [Pilot Flying J](https://pilotflyingj.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/PilotCompany/postings/744000128037629) |
 | Regional Training Manager | [MSX International](https://msxi.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013283016) |

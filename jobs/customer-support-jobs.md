@@ -2,12 +2,17 @@
 
 Remote customer support and success roles across SaaS, e-commerce, and tech.
 
-**143 open roles** — Last updated: 2026-05-25
+**148 open roles** — Last updated: 2026-05-25
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Warranty Specialist | [MSX International](https://msxi.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013284207) |
+| Recruitment Consultant  | [Healthcare Australia](https://healthcareaustralia.com.au) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/HealthcareAustralia1/postings/6000000001101868) |
+| CSR | [Avery Dennison](https://averydennison.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000128181709) |
+| Customer Service Rep(02074) - 2149 Miller Pkwy | [Domino's](https://dominos.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000128174864) |
+| Senior Customer Service Manager, Mainland South East Asia (MSEA)  | [Avery Dennison](https://averydennison.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000128113199) |
 | Customer Service Rep(06453) - 1201 E Carl Albert Prkwy | [Domino's](https://dominos.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000128019054) |
 | Customer Service Rep (8953) - 7075 Hwy 70 East | [Domino's](https://dominos.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000128019349) |
 | Apprentice Interpretive Guide - Spring/Summer 2026 | [ACCOR](https://group.accor.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128003299) |

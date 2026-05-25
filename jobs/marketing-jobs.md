@@ -2,12 +2,14 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**178 open roles** — Last updated: 2026-05-25
+**180 open roles** — Last updated: 2026-05-25
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Marketing Creative Producer (12-month contract) | [Canva](https://canva.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001102434) |
+| Proposal Specialist (12 months) | [AECOM](https://aecom.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000128043419) |
 | AI Product Marketer | [Wix.com](https://wix.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/Wix2/postings/744000128032309) |
 | Partnership Manager - Base44 | [Wix.com](https://wix.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/Wix2/postings/744000128031348) |
 | Manager Retail Media & Campaigns | [Delivery Hero](https://deliveryhero.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000128030539) |
