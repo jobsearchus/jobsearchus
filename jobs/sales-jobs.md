@@ -2,24 +2,28 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**455 open roles** — Last updated: 2026-05-26
+**460 open roles** — Last updated: 2026-05-26
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Client Solutions Manager - X | [Aleph Lab](https://alephlab.ai) | — | May 26 | [Apply](https://jobs.lever.co/aleph/07cad096-d7ab-4cc9-97fb-1b881418d907) |
 | Implementation Specialist | [Karbon](https://karbon.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/karbon/jobs/6006035004) |
 | Senior Capture Success Manager  | [HavocAI](https://havocai.com) | — | May 26 | [Apply](https://jobs.ashbyhq.com/havocai/b051be52-24f3-44d5-9b92-70f2f3a72467) |
 | Renewal Specialist (MM/ENT) (Position located in Singapore)   | [KnowBe4](https://knowbe4.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8564718002) |
 | Implementation Specialist | [Karbon](https://karbon.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/karbon/jobs/6005928004) |
+| Business Development Manager | [Dandy](https://meetdandy.com) | — | May 26 | [Apply](https://jobs.ashbyhq.com/dandy/1ad66b71-b93f-43bf-8da9-99260b3a6b16) |
 | Business Development Specialist (must reside in Boca Raton, Florida) | [Innovative Solutions](https://innovativesolutions.com) | $80K–$95K/yr | May 26 | [Apply](https://jobs.lever.co/innovativesol-2/d0956371-5eaa-48d2-bef4-829f51b98b3b) |
 | Kundenberater Fahrzeugbewertung & Ankauf (m/w/d) | [AUTO1 Group](https://auto1-group.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000128502229) |
 | Agente Stone - Consultor(a) Comercial Externo -  Americana/SP | [Stone](https://stone.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/stone/jobs/7748194003) |
 | Area Sales Specialist (Working Capital) | [Tide](https://tide.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/tide/jobs/7747916003) |
 | Business Development Manager | [Experian](https://experianplc.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000128454064) |
 | Principal Consultant | [Nagarro](https://nagarro.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000128442810) |
+| Client Solutions Manager - TikTok | [Aleph Lab](https://alephlab.ai) | — | May 26 | [Apply](https://jobs.lever.co/aleph/f9d9ba8a-1b1b-4f2f-9475-84ab4d95bb30) |
 | PTSA | [Frasers Group](https://frasersgroup.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000128428559) |
 | Sales Advisor  | [Frasers Group](https://frasersgroup.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000128415590) |
+| Chef des Ventes (H/F) | [Ixora](https://ixora.org) | — | May 26 | [Apply](https://emploi.ixora-conseil.fr/o/chef-des-ventes-hf-5/c/new) |
 | Senior Renewal Representative (Middle East) | [Sophos](https://sophos.com) | — | May 26 | [Apply](https://jobs.lever.co/sophos/383aa958-006c-4fae-98b1-2d061137fa89) |
 | Account Manager , EMI Sales | [Razorpay Software Private Limited](https://razorpay.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4698735005) |
 | Sales Executive Senior | [Delivery Hero](https://deliveryhero.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000128265039) |
@@ -55,6 +59,7 @@ Remote sales roles — account executives, SDRs, and enterprise deals.
 | Delivery Driver (06627) - 50 Aldine Bender Rd | [Domino's](https://dominos.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000128177798) |
 | Delivery Driver(05927) - 2535 N Hill St | [Domino's](https://dominos.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000128177701) |
 | FT Sales Associate (Pacific Fair) | [Princess Polly](https://princesspolly.com) | — | May 25 | [Apply](https://jobs.lever.co/princesspolly/97c272ea-4d66-42f2-9257-9b6b61c8e399) |
+| Enterprise Account Executive | [Sigma Computing](https://sigmacomputing.com) | $110K/yr | May 25 | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/7747552003) |
 | Emerging Account Executive | [Sigma Computing](https://sigmacomputing.com) | $80K–$90K/yr | May 25 | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/7747546003) |
 | Sales Associate - Middle Shift (12pm-5pm)  | [Primark Tiendas SLU](https://primark.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000128038579) |
 | Sales Associate - (5pm-10pm) | [Primark Tiendas SLU](https://primark.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000128038480) |

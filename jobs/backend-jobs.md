@@ -2,13 +2,16 @@
 
 Backend, server-side, and API engineering roles. Node.js, Python, Go, Ruby, Java and beyond.
 
-**35 open roles** — Last updated: 2026-05-26
+**38 open roles** — Last updated: 2026-05-26
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Software Engineer, Backend | [Finch](https://tryfinch.com) | — | May 26 | [Apply](https://jobs.lever.co/finch/694319b3-97e4-405c-a6ec-92567b2d88fb) |
+| Senior Software Engineer II AI-Native, backend Growth | [Life360](https://life360.com) | $148K–$216K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/life360/jobs/8564809002) |
 | Senior Backend Engineer, Space Operations Intelligence & Autonomy (SOIA) | [Slingshot Aerospace](https://slingshotaerospace.com) | $150K–$200K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/slingshotaerospace/jobs/6005857004?gh_jid=6005857004) |
+| Software Engineer II, Backend (Repayment UX) | [Affirm](https://affirm.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7746922003) |
 | Backend Staff Engineer | [Scopely](https://scopely.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/scopely/jobs/5212435008) |
 | Pessoa Desenvolvedora Backend Kotlin Sênior | [Zup Innovation](https://zupinnovation.com) | — | May 25 | [Apply](https://job-boards.greenhouse.io/zupinnovation/jobs/7747764003) |
 | [Job - 29503] Backend Developer (Java / Spring Boot), Brazil | [CI&T](https://cit.com) | — | May 25 | [Apply](https://jobs.lever.co/ciandt/cf73c2a8-0e46-4dbc-9133-07007a7afbc5) |

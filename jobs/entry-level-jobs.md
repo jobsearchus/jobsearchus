@@ -2,13 +2,15 @@
 
 Remote jobs open to candidates with 0–2 years of experience. A real way in — no degree gatekeeping.
 
-**527 open roles** — Last updated: 2026-05-26
+**532 open roles** — Last updated: 2026-05-26
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Junior Copywriter | [Grüns](https://gruns.co) | $70K–$80K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/gruns/jobs/5230941008) |
 | Valon Externship Program | [Valon](https://valon.com) | — | May 26 | [Apply](https://jobs.ashbyhq.com/valon/03c13b4c-2105-4258-97e0-842ef8ea0368) |
+| KYC Screening Representative (3 month FTC) | [GoCardless](https://gocardless.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/gocardless/jobs/7957736) |
 | Dental Nurse / Receptionist | [PortmanDentex](https://portmandentex.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000128526719) |
 | Kundenservice Mitarbeiter im Online Check- Out (d/m/w) | [AUTO1 Group](https://auto1-group.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000128509600) |
 | Alternant Welcomer Polyvalent (H/F) | [ACCOR](https://group.accor.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128508759) |
@@ -18,14 +20,17 @@ Remote jobs open to candidates with 0–2 years of experience. A real way in —
 | 2026 Internship - Software Engineer | [Qube Research & Technologies](https://quberesearch.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8562105002) |
 | Digital Press Operator - HP Indigo | [Avery Dennison](https://averydennison.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000128441661) |
 | Junior Operations Engineer | [Netcompany](https://netcompany.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000128440742) |
+| Product Design Intern | [FamPay](https://fampay.in) | — | May 26 | [Apply](https://jobs.lever.co/fampay/f1a64ab7-a22d-49e5-93a2-f7feb1668ccf) |
 | PTSA | [Frasers Group](https://frasersgroup.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000128428559) |
 | Stage consultant Grande Distribution | [VusionGroup SA](https://vusiongroup.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/VusionGroupSA/postings/744000128423829) |
 | Sales Advisor  | [Frasers Group](https://frasersgroup.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000128415590) |
 | Lehrling Kfz-Technik (m/w/d) | [Continental](https://continentalserves.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000128412445) |
+| CLOSED, APPLICATIONS OPEN JUNE 15 - Munich Investment Group Internship (Large Cap + MMF) - 3-months - Q2-27 | [Job Alchemist](https://jobalchemist.com) | — | May 26 | [Apply](https://careers.paipartners.com/o/closed-applications-open-june-15-munich-investment-group-internship-large-cap-mmf-3-months-q2-27/c/new) |
 | Junior Design Engineer - BIW | [SEGULA Technologies](https://segulatechnologies.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/SegulaTechnologies/postings/744000128400209) |
 | Auto.Quality Tester | [Avery Dennison](https://averydennison.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000128398479) |
 | Accounting Associates Graduate (Global Finance)  | [Experian](https://experianplc.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000128392595) |
 | Electrical Intern (Fall 26) | [Spaceium Inc](https://spaceium.com) | — | May 25 | [Apply](https://job-boards.greenhouse.io/spaceium/jobs/4258525009) |
+| Jr Accountant | [Distro](https://distro.app) | — | May 25 | [Apply](https://jobs.lever.co/distro/d8c80f10-7ab3-49b9-b5fb-6508c5dbc5d2) |
 | 2027 Graduate Mechanical Engineer (Energy) | [AECOM](https://aecom.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000128264379) |
 | PV -  Analista de Prevencao a Fraude Junior | [Experian](https://experianplc.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000128263910) |
 | Aide - serveur·euse, Champlain / Dufferin (H/F/D) - Saisonnier | [ACCOR](https://group.accor.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128261279) |

@@ -2,17 +2,19 @@
 
 Product manager roles at companies building real products. Sourced directly from career pages.
 
-**82 open roles** — Last updated: 2026-05-26
+**84 open roles** — Last updated: 2026-05-26
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Product Manager, Brokerage | [Robinhood](https://robinhood.com) | — | May 26 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7947548?t=gh_src=&gh_jid=7947548) |
 | [Job - 29552] Senior Product Owner, Brazil | [CI&T](https://cit.com) | — | May 26 | [Apply](https://jobs.lever.co/ciandt/df242c71-dae3-4dcd-9a73-981f19d33142) |
 | Senior Product Manager - Spain - Remote | [Grafana Labs](https://grafana.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6005889004) |
 | Senior Product Manager - Ireland - Remote | [Grafana Labs](https://grafana.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6005888004) |
 | Senior Product Manager - Germany - Remote | [Grafana Labs](https://grafana.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6005891004) |
 | Product Manager II  | [Razorpay Software Private Limited](https://razorpay.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4699228005) |
+| Staff Product Manager - Cloud Data Platform | [SingleStore](https://singlestore.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/singlestore/jobs/7956719) |
 | Director, Product Management | [Coupang](https://coupang.com) | — | May 26 | [Apply](https://boards.greenhouse.io/coupanginternal/jobs/7919601?gh_jid=7919601) |
 | Director, Product Management | [Coupang](https://coupang.com) | — | May 26 | [Apply](https://boards.greenhouse.io/coupanginternal/jobs/7919228?gh_jid=7919228) |
 | Senior Product Marketing Manager | [Hatch](https://hatch.com) | $106K–$198K/yr | May 25 | [Apply](https://jobs.ashbyhq.com/hatch/32605aec-37a4-4ffb-b829-87ccf8e78350) |

@@ -2,7 +2,7 @@
 
 General developer and programmer roles that did not fit a more specific category.
 
-**60 open roles** — Last updated: 2026-05-26
+**61 open roles** — Last updated: 2026-05-26
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -10,6 +10,7 @@ General developer and programmer roles that did not fit a more specific category
 | --- | --- | --- | --- | --- |
 | Senior Java IVR Developer | [Miratech](https://miratech.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000128418535) |
 |  Low Latency Market Data Developer - C++ | [Qube Research & Technologies](https://quberesearch.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8544834002) |
+| Laserfiche Developer | [Distro](https://distro.app) | — | May 25 | [Apply](https://jobs.lever.co/distro/48a14e8c-7851-4c47-bb08-b6551dd3b269) |
 | Associate Staff Engineer - Mendix Developer | [Nagarro](https://nagarro.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000128254297) |
 | Associate Staff Engineer - Mendix Developer | [Nagarro](https://nagarro.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000128255014) |
 | Python Developer (Sports sphere) | [Coherent Solutions](https://coherentsolutions.com) | — | May 25 | [Apply](https://job-boards.eu.greenhouse.io/coherentsolutions/jobs/4874460101) |

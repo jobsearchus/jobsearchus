@@ -2,13 +2,16 @@
 
 Remote cybersecurity, information security, and security engineering roles.
 
-**61 open roles** — Last updated: 2026-05-26
+**64 open roles** — Last updated: 2026-05-26
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Engineering Manager, Anti-Abuse & Security | [Replit](https://replit.com) | — | May 26 | [Apply](https://jobs.ashbyhq.com/replit/ccab8626-7245-4ed9-9c99-b77df70b2dc8) |
+| Senior Security Engineer | [IonQ](https://ionq.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/ionq/jobs/6002009004) |
 | Client Platforms Security Engineer | [DRW](https://drw.com) | $150K–$200K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7957926) |
+| NERC (CIP) Compliance Lead | [Intersect Labs](https://intersectlabs.io) | — | May 26 | [Apply](https://jobs.lever.co/intersect/2dbfa1da-054d-4da8-b4e6-213e4104415d) |
 | Computer Network Defense Analyst (EAIRS) | [Horizon Industries](https://horizonindustries.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/horizonindustrieslimited/jobs/5230902008) |
 | Information Security Engineer, Bare Metal | [Fluidstack](https://fluidstack.com) | $230K–$310K/yr | May 26 | [Apply](https://jobs.ashbyhq.com/fluidstack/a703f8f6-469e-493c-8f3c-e7de5746a6e3) |
 | Cyber Security Analyst - Governance, Risk and Culture (GRC) | [Baringa](https://baringa.com) | — | May 26 | [Apply](https://job-boards.eu.greenhouse.io/baringa/jobs/4870447101) |

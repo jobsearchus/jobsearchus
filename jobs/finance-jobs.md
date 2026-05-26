@@ -2,19 +2,22 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**219 open roles** — Last updated: 2026-05-26
+**222 open roles** — Last updated: 2026-05-26
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior GL Accountant | [Amplitude](https://amplitude.com) | $121K–$181K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/amplitude/jobs/8565092002) |
 | Business Analyst / AMOA - secteur bancaire | [Inetum](https://inetum.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000128514546) |
 | Senior Manager - Conformité  | [IQ-EQ](https://iqeq.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000128499945) |
 | Funds Onboarding, Manager | [IQ-EQ](https://iqeq.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000128496511) |
 | Comercial de Crédito | [ComparaJá](https://comparaja.pt) | — | May 26 | [Apply](https://job-boards.greenhouse.io/comparaja/jobs/7748236003) |
 | Client Relationship Manager | [ComparaJá](https://comparaja.pt) | — | May 26 | [Apply](https://job-boards.greenhouse.io/comparaja/jobs/7748209003) |
 | Finance Manager (Corporate FP&A)  | [NCS](https://ncs.co) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001106419) |
+| Senior Manager – Investor Relations & Strategic Finance | [Meesho](https://meesho.com) | — | May 26 | [Apply](https://jobs.lever.co/meesho/cd0ee165-d61b-42f6-80d0-95d522af2d77) |
 | Accounting Associates Graduate (Global Finance)  | [Experian](https://experianplc.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000128392595) |
+| Jr Accountant | [Distro](https://distro.app) | — | May 25 | [Apply](https://jobs.lever.co/distro/d8c80f10-7ab3-49b9-b5fb-6508c5dbc5d2) |
 | PV -  Analista de Prevencao a Fraude Junior | [Experian](https://experianplc.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000128263910) |
 | Manager, Reconciliations | [Standard Bank](https://standardbank.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000128259829) |
 | Interlines Payable Clerk - Gore Bay | [Manitoulin Global Forwarding](https://manitoulingroup.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000128247439) |

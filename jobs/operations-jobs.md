@@ -2,15 +2,18 @@
 
 Remote operations and business operations roles across industries.
 
-**491 open roles** — Last updated: 2026-05-26
+**495 open roles** — Last updated: 2026-05-26
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Sanitation Specialist | [Tovala](https://tovala.com) | — | May 26 | [Apply](https://jobs.lever.co/tovala/7d18343e-39e2-4fd5-b429-e8a720f32b55) |
 | Project Controls Lead  | [Fluidstack](https://fluidstack.com) | $200K–$300K/yr | May 26 | [Apply](https://jobs.ashbyhq.com/fluidstack/a8aed766-d326-41e9-9fd0-8005ef92aca1) |
 | Configuration Manager | [Slingshot Aerospace](https://slingshotaerospace.com) | $120K–$170K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/slingshotaerospace/jobs/6005934004?gh_jid=6005934004) |
+| KYC Screening Representative (3 month FTC) | [GoCardless](https://gocardless.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/gocardless/jobs/7957736) |
 | Operation and Food and Beverage Manager | [ACCOR](https://group.accor.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128508089) |
+|  Senior Building Operator (Overnight Shift) | [Clutch](https://clutch.io) | — | May 26 | [Apply](https://job-boards.greenhouse.io/clutch/jobs/6005852004) |
 | Jefe Mantención Mina Dewatering LB | [Anglo American](https://angloamerican.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000128500160) |
 | OPC Essais et Systèmes | [Egis](https://egis-group.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000128491659) |
 | Mechanical O&M Technician  | [Genpak LLC](https://genpak-llc-2) | — | May 26 | [Apply](https://job-boards.eu.greenhouse.io/lotusworks/jobs/4871245101) |
@@ -24,6 +27,7 @@ Remote operations and business operations roles across industries.
 | Auto.Quality Tester | [Avery Dennison](https://averydennison.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000128398479) |
 | Sprinter Diesel Technician | [Fletcher Jones Automotive Group](https://fletcherjonesautomotivegroup.com) | — | May 25 | [Apply](https://boards.greenhouse.io/fletcherjonesautomotivegroup/jobs/5146125007?gh_jid=5146125007) |
 | Especialista Mejoramiento Continua Mina LB | [Anglo American](https://angloamerican.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000128261509) |
+| Closing Virtual Assitant Remote | [Distro](https://distro.app) | — | May 25 | [Apply](https://jobs.lever.co/distro/bf9d9488-6ab1-4379-bf99-6514315a34fb) |
 | Last Mile Coordinator  | [Clutch](https://clutch.io) | — | May 25 | [Apply](https://job-boards.greenhouse.io/clutch/jobs/6005570004) |
 | Gerente Manutenção Filtragem Rejeitos | [Anglo American](https://angloamerican.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000128253379) |
 | Eletricista II | [Anglo American](https://angloamerican.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000128246542) |

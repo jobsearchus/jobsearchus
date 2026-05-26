@@ -2,12 +2,13 @@
 
 Full-stack engineering roles across product, platform, and startup companies.
 
-**22 open roles** — Last updated: 2026-05-26
+**23 open roles** — Last updated: 2026-05-26
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Analytics Manager, Full Stack | [Affirm](https://affirm.com) | €96K–€126K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7732927003) |
 | Full Stack Staff Engineer | [Scopely](https://scopely.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/scopely/jobs/5212410008) |
 | Senior Full Stack Engineer, Insights | [StackAdapt](https://stackadapt.com) | — | May 25 | [Apply](https://job-boards.greenhouse.io/stackadapt/jobs/4258397009) |
 | [Job - 29518] Desenvolvedor Fullstack Sênior (Java e Angular) | [CI&T](https://cit.com) | — | May 25 | [Apply](https://jobs.lever.co/ciandt/a778f436-8fd0-462a-8e51-c8c5441dbc72) |

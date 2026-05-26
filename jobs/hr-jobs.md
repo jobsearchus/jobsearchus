@@ -2,12 +2,13 @@
 
 Remote HR, recruiting, and people operations roles.
 
-**82 open roles** — Last updated: 2026-05-26
+**83 open roles** — Last updated: 2026-05-26
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior HR Business Partner | [xAI](https://x.ai) | $160K–$198K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/xai/jobs/5146610007) |
 | Global Payroll Implementation Country Lead - France | [Remote](https://remote.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/remotecom/jobs/7741910003) |
 | Staff Consultant (HRBP) | [Nagarro](https://nagarro.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000128404194) |
 | Internship HR (8h) - Tires | [Continental](https://continentalserves.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000128233531) |

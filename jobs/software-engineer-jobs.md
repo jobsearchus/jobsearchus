@@ -2,22 +2,34 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**748 open roles** — Last updated: 2026-05-26
+**761 open roles** — Last updated: 2026-05-26
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Staff Software Engineer, Developer Productivity Async | [Gusto](https://gusto.com) | $189K–$210K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/gusto/jobs/7947658) |
 | Electrical Engineer  | [HavocAI](https://havocai.com) | — | May 26 | [Apply](https://jobs.ashbyhq.com/havocai/4a18122e-bc47-4a79-8d72-4699411254cb) |
 | Staff/Principal Software Engineer - South America | [Jump](https://jump.com) | $70/yr | May 26 | [Apply](https://jobs.ashbyhq.com/jump-app/5e360c01-af10-4e20-8e94-e2f7ce94c6ec) |
+| Chief Architect - Optical Communication Terminals | [IonQ](https://ionq.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/ionq/jobs/6005910004) |
+| Senior Software Engineer - C++ - Trading Technologies | [Kraken](https://kraken.com) | — | May 26 | [Apply](https://jobs.ashbyhq.com/kraken.com/6d6bb529-d52b-4879-8354-602cfbe92afd) |
 | Staff Software Engineer (AI) | [Juniper Square](https://junipersquare.com) | $210K–$260K/yr | May 26 | [Apply](https://jobs.ashbyhq.com/junipersquare/c0f6d8c5-7dad-4599-be77-b04b8a2b8af0) |
+| Software Engineer - Applied Science | [Clipboard](https://clipboardhealth.com) | — | May 26 | [Apply](https://jobs.ashbyhq.com/clipboard/3a34ce39-3e6f-4537-be33-1229b47fd6f9) |
 | Staff Software Engineer, Data (AI) | [Juniper Square](https://junipersquare.com) | $210K–$260K/yr | May 26 | [Apply](https://jobs.ashbyhq.com/junipersquare/c499f5d0-bc2f-47a6-8058-415d3cb4d2a3) |
 | Senior Software Engineer, Data (AI) | [Juniper Square](https://junipersquare.com) | $185K–$225K/yr | May 26 | [Apply](https://jobs.ashbyhq.com/junipersquare/b48d4fe8-439d-4560-913f-d79236291d8e) |
 | Valon Externship Program | [Valon](https://valon.com) | — | May 26 | [Apply](https://jobs.ashbyhq.com/valon/03c13b4c-2105-4258-97e0-842ef8ea0368) |
 | QE Automation Data | [Inetum](https://inetum.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000128540380) |
 | Software Developer .NET (Web Applications) | [Inetum](https://inetum.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000128533801) |
+| AI Product Engineer, Evidence | [Drata](https://drata.com) | $145K–$196K/yr | May 26 | [Apply](https://jobs.ashbyhq.com/drata/fc8faeba-28e3-4d57-adca-8ca96e726d93) |
+| Senior AI Product Engineer 2, Control Monitoring | [Drata](https://drata.com) | $192K–$260K/yr | May 26 | [Apply](https://jobs.ashbyhq.com/drata/175ec348-e46a-4f8b-9903-cf94a822f2f5) |
+| Senior AI Product Engineer 2, Evidence | [Drata](https://drata.com) | $192K–$260K/yr | May 26 | [Apply](https://jobs.ashbyhq.com/drata/c3f6a93b-59d4-4e5a-994c-539f8dc2d273) |
+| Head of Flight | [Skyways](https://skyways.com) | — | May 26 | [Apply](https://jobs.lever.co/skyways/83816c80-4ddd-4508-a455-87e7a7ffafb3) |
+| Senior Flight Operator | [Skyways](https://skyways.com) | — | May 26 | [Apply](https://jobs.lever.co/skyways/15380355-5bcd-4467-9286-85f0a38d3c11) |
+| UAS Field Operations Engineer | [Skyways](https://skyways.com) | — | May 26 | [Apply](https://jobs.lever.co/skyways/3e8db216-ad77-4355-96d1-1eb4d767cf10) |
+| Support Engineer | [SingleStore](https://singlestore.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/singlestore/jobs/7956718) |
 | 2026 Internship - Software Engineer | [Qube Research & Technologies](https://quberesearch.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8562105002) |
 | Research Scientist | [Canva](https://canva.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001106516) |
+| Software Engineer | [SingleStore](https://singlestore.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/singlestore/jobs/7912783) |
 | Junior Operations Engineer | [Netcompany](https://netcompany.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000128440742) |
 | Data Engineer (Azure Databricks) | [Miratech](https://miratech.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000128429885) |
 | Teamlead Application Engineering  - Power Transmission Solutions CTTR | [Continental](https://continentalserves.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000128425191) |
@@ -30,6 +42,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Lehrling Kfz-Technik (m/w/d) | [Continental](https://continentalserves.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000128412445) |
 | Software Engineer [Java Core] | [NCS](https://ncs.co) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001106286) |
 | Junior Design Engineer - BIW | [SEGULA Technologies](https://segulatechnologies.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/SegulaTechnologies/postings/744000128400209) |
+| Architect - Android | [Meesho](https://meesho.com) | — | May 26 | [Apply](https://jobs.lever.co/meesho/040a5a75-28d2-4b56-904b-071c41d4ea90) |
 | Technical Operations Manager  | [Customer.io](https://customer.io) | $117K–$120K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/customerio/jobs/7956906) |
 | Cloud GTM Practice Lead | [Suger](https://suger.io) | — | May 26 | [Apply](https://jobs.lever.co/suger/43aed476-1ce1-41f0-9b35-7f98e5057c10) |
 | Partnerships / Cloud Alliance Lead | [Suger](https://suger.io) | — | May 26 | [Apply](https://jobs.lever.co/suger/10bfe850-af99-42e6-832f-c426af692cfb) |

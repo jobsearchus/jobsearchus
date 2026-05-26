@@ -2,20 +2,27 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**331 open roles** — Last updated: 2026-05-26
+**339 open roles** — Last updated: 2026-05-26
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior HR Business Partner | [xAI](https://x.ai) | $160K–$198K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/xai/jobs/5146610007) |
+| Senior GL Accountant | [Amplitude](https://amplitude.com) | $121K–$181K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/amplitude/jobs/8565092002) |
+| Staff Software Engineer, Developer Productivity Async | [Gusto](https://gusto.com) | $189K–$210K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/gusto/jobs/7947658) |
 | Client Platforms Security Engineer | [DRW](https://drw.com) | $150K–$200K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7957926) |
 | Project Controls Lead  | [Fluidstack](https://fluidstack.com) | $200K–$300K/yr | May 26 | [Apply](https://jobs.ashbyhq.com/fluidstack/a8aed766-d326-41e9-9fd0-8005ef92aca1) |
 | Off-Page SEO Specialist | [Firecrawl](https://firecrawl.com) | $140K–$180K/yr | May 26 | [Apply](https://jobs.ashbyhq.com/firecrawl/15565a5d-7e35-4f11-97cf-d93cee88f1df) |
 | In-House Technical Writer | [Firecrawl](https://firecrawl.com) | $160K–$200K/yr | May 26 | [Apply](https://jobs.ashbyhq.com/firecrawl/27a38804-9e98-49bb-8a43-b8dddea1ae15) |
+| Senior Software Engineer II AI-Native, backend Growth | [Life360](https://life360.com) | $148K–$216K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/life360/jobs/8564809002) |
 | Staff Software Engineer (AI) | [Juniper Square](https://junipersquare.com) | $210K–$260K/yr | May 26 | [Apply](https://jobs.ashbyhq.com/junipersquare/c0f6d8c5-7dad-4599-be77-b04b8a2b8af0) |
 | Staff Software Engineer, Data (AI) | [Juniper Square](https://junipersquare.com) | $210K–$260K/yr | May 26 | [Apply](https://jobs.ashbyhq.com/junipersquare/c499f5d0-bc2f-47a6-8058-415d3cb4d2a3) |
 | Senior Software Engineer, Data (AI) | [Juniper Square](https://junipersquare.com) | $185K–$225K/yr | May 26 | [Apply](https://jobs.ashbyhq.com/junipersquare/b48d4fe8-439d-4560-913f-d79236291d8e) |
 | Configuration Manager | [Slingshot Aerospace](https://slingshotaerospace.com) | $120K–$170K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/slingshotaerospace/jobs/6005934004?gh_jid=6005934004) |
+| AI Product Engineer, Evidence | [Drata](https://drata.com) | $145K–$196K/yr | May 26 | [Apply](https://jobs.ashbyhq.com/drata/fc8faeba-28e3-4d57-adca-8ca96e726d93) |
+| Senior AI Product Engineer 2, Control Monitoring | [Drata](https://drata.com) | $192K–$260K/yr | May 26 | [Apply](https://jobs.ashbyhq.com/drata/175ec348-e46a-4f8b-9903-cf94a822f2f5) |
+| Senior AI Product Engineer 2, Evidence | [Drata](https://drata.com) | $192K–$260K/yr | May 26 | [Apply](https://jobs.ashbyhq.com/drata/c3f6a93b-59d4-4e5a-994c-539f8dc2d273) |
 | Senior Backend Engineer, Space Operations Intelligence & Autonomy (SOIA) | [Slingshot Aerospace](https://slingshotaerospace.com) | $150K–$200K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/slingshotaerospace/jobs/6005857004?gh_jid=6005857004) |
 | Information Security Engineer, Bare Metal | [Fluidstack](https://fluidstack.com) | $230K–$310K/yr | May 26 | [Apply](https://jobs.ashbyhq.com/fluidstack/a703f8f6-469e-493c-8f3c-e7de5746a6e3) |
 | Technical Operations Manager  | [Customer.io](https://customer.io) | $117K–$120K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/customerio/jobs/7956906) |
@@ -27,6 +34,7 @@ Remote roles paying $100,000 or more per year. Salary data pulled directly from 
 | Machine Learning Engineer II | [Affirm](https://affirm.com) | $125K–$175K/yr | May 25 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7719653003) |
 | Machine Learning Engineer II | [Affirm](https://affirm.com) | $160K–$210K/yr | May 25 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7719651003) |
 | Commercial Paralegal - Contracts Manager | [Sigma Computing](https://sigmacomputing.com) | $180K–$205K/yr | May 25 | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/7747616003) |
+| Enterprise Account Executive | [Sigma Computing](https://sigmacomputing.com) | $110K/yr | May 25 | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/7747552003) |
 | Corporate Counsel - Commercial | [Sigma Computing](https://sigmacomputing.com) | $200K–$235K/yr | May 25 | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/7747542003) |
 | Senior Finance Systems Engineer -Zuora system (Bay Area only) | [Canva](https://canva.com) | $185K–$237K/yr | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/Canva/postings/6000000001099130) |
 | Assistant Manager, Fund Administration (Onboarding) | [Juniper Square](https://junipersquare.com) | $110K–$125K/yr | May 23 | [Apply](https://jobs.ashbyhq.com/junipersquare/42ab3ae6-6792-4727-8b85-b655f7f3014b) |

@@ -2,14 +2,22 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**190 open roles** — Last updated: 2026-05-26
+**198 open roles** — Last updated: 2026-05-26
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Field Marketing Manager - Nordics & Benelux | [Chainguard](https://chainguard.dev) | — | May 26 | [Apply](https://job-boards.greenhouse.io/chainguard/jobs/4681893006) |
+| Growth Marketing Manager, Web & CRO | [Cresta](https://cresta.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/cresta/jobs/5231220008) |
 | Off-Page SEO Specialist | [Firecrawl](https://firecrawl.com) | $140K–$180K/yr | May 26 | [Apply](https://jobs.ashbyhq.com/firecrawl/15565a5d-7e35-4f11-97cf-d93cee88f1df) |
 | In-House Technical Writer | [Firecrawl](https://firecrawl.com) | $160K–$200K/yr | May 26 | [Apply](https://jobs.ashbyhq.com/firecrawl/27a38804-9e98-49bb-8a43-b8dddea1ae15) |
+| Strategic Events Specialist  | [Chainguard](https://chainguard.dev) | — | May 26 | [Apply](https://job-boards.greenhouse.io/chainguard/jobs/4683314006) |
+| Senior Social Media Specialist - xstocks | [Kraken](https://kraken.com) | — | May 26 | [Apply](https://jobs.ashbyhq.com/kraken.com/328a2384-53a2-4e26-96b2-318350e4762a) |
+| Senior Social Media Specialist - xstocks | [Kraken](https://kraken.com) | — | May 26 | [Apply](https://jobs.ashbyhq.com/kraken.com/addb3815-8f55-4547-81c8-c2a1d4065900) |
+| Regional Marketing Manager | [Dandy](https://meetdandy.com) | — | May 26 | [Apply](https://jobs.ashbyhq.com/dandy/defa4e4e-919d-45c5-81ea-143b5f2b0cc0) |
+| Regional Marketing Manager | [Dandy](https://meetdandy.com) | — | May 26 | [Apply](https://jobs.ashbyhq.com/dandy/7886d5b9-3547-4f4d-9f19-3def0430403c) |
+| Client Solutions Manager - X | [Aleph Lab](https://alephlab.ai) | — | May 26 | [Apply](https://jobs.lever.co/aleph/da42472c-628d-45a2-97f4-4a10bff505ab) |
 | Senior UA Manager | [Zynga](https://zynga.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/zyngacareers/jobs/6005749004) |
 | Senior Growth Copywriter | [Canva](https://canva.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001106315) |
 | Senior Growth Copywriter | [Canva](https://canva.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001106310) |

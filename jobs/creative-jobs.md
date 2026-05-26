@@ -2,12 +2,13 @@
 
 Remote creative roles — copywriters, content creators, graphic designers, and brand specialists.
 
-**40 open roles** — Last updated: 2026-05-26
+**41 open roles** — Last updated: 2026-05-26
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Junior Copywriter | [Grüns](https://gruns.co) | $70K–$80K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/gruns/jobs/5230941008) |
 | Associate Producer / Producer | [Nex](https://nex.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/nex/jobs/5230607008) |
 | Visual Merchandiser - Full Time - Amsterdam | [Gymshark](https://gymshark.com) | — | May 26 | [Apply](https://job-boards.eu.greenhouse.io/gymshark/jobs/4875224101) |
 | Creative Copywriter (Performance Marketing) | [Fever](https://feverup.com) | — | May 26 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4874974101) |
