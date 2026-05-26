@@ -2,17 +2,19 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**719 open roles** — Last updated: 2026-05-26
+**724 open roles** — Last updated: 2026-05-26
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Technical Operations Manager  | [Customer.io](https://customer.io) | $117K–$120K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/customerio/jobs/7956906) |
 | Cloud GTM Practice Lead | [Suger](https://suger.io) | — | May 26 | [Apply](https://jobs.lever.co/suger/43aed476-1ce1-41f0-9b35-7f98e5057c10) |
 | Partnerships / Cloud Alliance Lead | [Suger](https://suger.io) | — | May 26 | [Apply](https://jobs.lever.co/suger/10bfe850-af99-42e6-832f-c426af692cfb) |
 | Electrical Intern (Fall 26) | [Spaceium Inc](https://spaceium.com) | — | May 25 | [Apply](https://job-boards.greenhouse.io/spaceium/jobs/4258525009) |
 | UX Researcher | [Skydropx](https://skydropx.com) | — | May 25 | [Apply](https://jobs.ashbyhq.com/skydropx/c5757b6d-8e40-40d5-965c-6c58a6be91b7) |
 | Cleared Senior Cloud Engineer (Washington, DC) | [Accenture Federal Services](https://accenturefederalservices.com) | — | May 25 | [Apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4684107006?gh_jid=4684107006) |
+| Technical Team Leader | [New Era Technology](https://neweratech.com) | — | May 25 | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8546701002) |
 | Senior Engineering Leader - Discovery Experience | [Faire](https://faire.com) | $231K–$318K/yr | May 25 | [Apply](https://boards.greenhouse.io/faire/jobs/8564077002?gh_jid=8564077002) |
 | [Job - 29546] Systems Architect: Java + Springboot, Brazil | [CI&T](https://cit.com) | — | May 25 | [Apply](https://jobs.lever.co/ciandt/63830516-84bd-446c-9f8a-830306f9bb87) |
 | Officer, Applications Support | [Standard Bank](https://standardbank.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000128257890) |
@@ -31,9 +33,12 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Senior AI & Data Architect | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $95K–$130K/yr | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000128235539) |
 | Apprentissage – Développeur Junior Data Integration Microsoft LogicApp/ADF (H/F) | [VusionGroup SA](https://vusiongroup.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/VusionGroupSA/postings/744000128233689) |
 | Pessoa Engenheira de Inteligência Artificial Sênior | [Zup Innovation](https://zupinnovation.com) | — | May 25 | [Apply](https://job-boards.greenhouse.io/zupinnovation/jobs/7719637003) |
+| Network Engineer - WAN | [Miratech](https://miratech.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000128226954) |
+| Network Engineer - WAN | [Miratech](https://miratech.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000128227665) |
 | Quality Engineer R&D – CoP (Conformity of Product) | [Continental](https://continentalserves.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000128227429) |
 |  DBA SQL (Maria DB) | [Inetum](https://inetum.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000128226666) |
 | Product Industrialization Engineer CTTR | [Continental](https://continentalserves.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000128219052) |
+| Java Application Engineer | [Miratech](https://miratech.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000128215516) |
 | Staff React Native Engineer - Pro | [Kraken](https://kraken.com) | — | May 25 | [Apply](https://jobs.ashbyhq.com/kraken.com/52ccad44-e0a6-4b15-8b2a-ca6a17a40d6b) |
 | Google DialogFlow Engineer (Python) | [Miratech](https://miratech.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000128212501) |
 | Google DialogFlow Engineer (Python) | [Miratech](https://miratech.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000128212639) |

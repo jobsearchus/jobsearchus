@@ -2,12 +2,15 @@
 
 Data science, machine learning, and AI engineering roles. Python, SQL, PyTorch, and beyond.
 
-**45 open roles** — Last updated: 2026-05-26
+**48 open roles** — Last updated: 2026-05-26
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Data Scientist | [Customer.io](https://customer.io) | $140K–$150K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/customerio/jobs/7956880) |
+| Machine Learning Engineer II | [Affirm](https://affirm.com) | $125K–$175K/yr | May 25 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7719653003) |
+| Machine Learning Engineer II | [Affirm](https://affirm.com) | $160K–$210K/yr | May 25 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7719651003) |
 | Senior GenAI Engineer | [NCS](https://ncs.co) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001102410) |
 | APAC:AU:DAI:AI Engineer:Senior Consultant | [Referrals Only](https://thoughtworks.com) | — | May 25 | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7955952) |
 | Senior Machine Learning Engineer, AI Generation Engine | [SandboxAQ](https://sandboxaq.com) | — | May 22 | [Apply](https://jobs.ashbyhq.com/sandboxaq/5d096708-36f4-4f94-96b9-59b5e9b88f3f) |

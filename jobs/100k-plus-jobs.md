@@ -2,16 +2,20 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**317 open roles** — Last updated: 2026-05-26
+**321 open roles** — Last updated: 2026-05-26
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Technical Operations Manager  | [Customer.io](https://customer.io) | $117K–$120K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/customerio/jobs/7956906) |
+| Senior Data Scientist | [Customer.io](https://customer.io) | $140K–$150K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/customerio/jobs/7956880) |
 | Senior Engineering Leader - Discovery Experience | [Faire](https://faire.com) | $231K–$318K/yr | May 25 | [Apply](https://boards.greenhouse.io/faire/jobs/8564077002?gh_jid=8564077002) |
 | Senior Product Marketing Manager | [Hatch](https://hatch.com) | $106K–$198K/yr | May 25 | [Apply](https://jobs.ashbyhq.com/hatch/32605aec-37a4-4ffb-b829-87ccf8e78350) |
 | Physical Security Systems Specialist, Deployment & Ops | [Fluidstack](https://fluidstack.com) | $200K–$300K/yr | May 25 | [Apply](https://jobs.ashbyhq.com/fluidstack/3d9eb20e-9b1d-4886-99a5-fef4a765c5c0) |
 | Security Lead, Deployment & Ops  | [Fluidstack](https://fluidstack.com) | $300K–$400K/yr | May 25 | [Apply](https://jobs.ashbyhq.com/fluidstack/afebea2a-3b06-4f2b-887a-0fc43242c451) |
+| Machine Learning Engineer II | [Affirm](https://affirm.com) | $125K–$175K/yr | May 25 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7719653003) |
+| Machine Learning Engineer II | [Affirm](https://affirm.com) | $160K–$210K/yr | May 25 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7719651003) |
 | Commercial Paralegal - Contracts Manager | [Sigma Computing](https://sigmacomputing.com) | $180K–$205K/yr | May 25 | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/7747616003) |
 | Corporate Counsel - Commercial | [Sigma Computing](https://sigmacomputing.com) | $200K–$235K/yr | May 25 | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/7747542003) |
 | Senior Finance Systems Engineer -Zuora system (Bay Area only) | [Canva](https://canva.com) | $185K–$237K/yr | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/Canva/postings/6000000001099130) |

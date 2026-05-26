@@ -2,7 +2,7 @@
 
 Remote jobs open to candidates with 0–2 years of experience. A real way in — no degree gatekeeping.
 
-**504 open roles** — Last updated: 2026-05-26
+**507 open roles** — Last updated: 2026-05-26
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -21,6 +21,8 @@ Remote jobs open to candidates with 0–2 years of experience. A real way in —
 | HTML & CSS Web Support | [Genpak LLC](https://genpak-llc-2) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000128244389) |
 | VENDEDOR/A - Iterinidad | [JYSK](https://jysk.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000128243324) |
 | Sales Assistant 30 h - Civezzano | [JYSK](https://jysk.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000128242552) |
+| Casual Sales Assistant  | [Frasers Group](https://frasersgroup.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000128240229) |
+| Casual Sales Assistant  | [Frasers Group](https://frasersgroup.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000128238834) |
 | Part Time Dock Worker - Immediate Start | [Manitoulin Global Forwarding](https://manitoulingroup.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000128237950) |
 | Técnico reclamaciones automoción (H/M) | [AUTO1 Group](https://auto1-group.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000128238559) |
 | Tasador Comercial VO (H/M) - Badajoz | [AUTO1 Group](https://auto1-group.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000128237409) |
@@ -42,6 +44,7 @@ Remote jobs open to candidates with 0–2 years of experience. A real way in —
 |  EMPLOYE COMMERCIAL RAYON FRAIS (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000128197098) |
 | Marketing Associate - Singapore | [Flagright](https://flagright.com) | — | May 25 | [Apply](https://jobs.ashbyhq.com/flagright.com/05872eb1-a0f9-44a8-bf3c-745ced82d7dd) |
 | Associate, KYC Compliance Operations | [Convera](https://convera.com) | — | May 25 | [Apply](https://job-boards.eu.greenhouse.io/convera/jobs/4870002101) |
+| Asst. GPD Officer | [Avery Dennison](https://averydennison.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000128191789) |
 | Stagiaire service Commercial  | [Genpak LLC](https://genpak-llc-2) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000128189510) |
 | Accountant I | [Continental](https://continentalserves.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000128184679) |
 | Accountant I | [Continental](https://continentalserves.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000128183904) |

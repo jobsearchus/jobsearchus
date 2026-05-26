@@ -2,7 +2,7 @@
 
 Remote operations and business operations roles across industries.
 
-**476 open roles** — Last updated: 2026-05-26
+**477 open roles** — Last updated: 2026-05-26
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -30,6 +30,7 @@ Remote operations and business operations roles across industries.
 | Administration Controller | [takealot.com](https://takealot.com) | — | May 25 | [Apply](https://job-boards.greenhouse.io/takealotcom/jobs/7938456) |
 | CHEF(FE) DE MAGASIN | [Genpak LLC](https://genpak-llc-2) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000128194264) |
 | DC Process Controller | [takealot.com](https://takealot.com) | — | May 25 | [Apply](https://job-boards.greenhouse.io/takealotcom/jobs/7946591) |
+| Asst. GPD Officer | [Avery Dennison](https://averydennison.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000128191789) |
 | Assistant Manager, Air Operations (Gurugram) | [Flexport](https://flexport.com) | — | May 25 | [Apply](https://boards.greenhouse.io/flexport/jobs/7953626?gh_jid=7953626) |
 | Sr. Manager- Revenue Operations | [Experian](https://experianplc.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000128183380) |
 | Delivery Driver(07906) - 6306 Fair Oaks Blvd | [Domino's](https://dominos.com) | $20/yr | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000128176347) |

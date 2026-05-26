@@ -2,12 +2,13 @@
 
 Remote creative roles — copywriters, content creators, graphic designers, and brand specialists.
 
-**37 open roles** — Last updated: 2026-05-26
+**38 open roles** — Last updated: 2026-05-26
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Creative Copywriter (Performance Marketing) | [Fever](https://feverup.com) | — | May 26 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4874974101) |
 | Lighting Artist (7-month contract) | [Blackbird Interactive](https://blackbirdinteractive.com) | — | May 22 | [Apply](https://jobs.lever.co/blackbirdinteractive/e87e47be-d34b-49e2-884e-7eff76ad8f8a) |
 | Senior 2D Animator (Casual/Puzzle) | [Sun Studio](https://sunstudio.com) | — | May 22 | [Apply](https://jobs.lever.co/sunstudio/4cc072a0-4b62-4c2e-8d23-ed23e85e3dba) |
 | Producer, Audio, NBC News Here's the Scoop Podcast | [NBCUniversal](https://nbcuniversal.com) | $93K–$110K/yr | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000127881459) |

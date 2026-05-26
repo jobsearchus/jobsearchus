@@ -2,7 +2,7 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**435 open roles** — Last updated: 2026-05-26
+**441 open roles** — Last updated: 2026-05-26
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -12,11 +12,16 @@ Remote sales roles — account executives, SDRs, and enterprise deals.
 | Agente Stone - Consultor (a) Comercial Externo -  Contagem/MG | [Stone](https://stone.com) | — | May 25 | [Apply](https://job-boards.greenhouse.io/stone/jobs/7747836003) |
 | Business Development Representative | [Accord](https://accord.com) | — | May 25 | [Apply](https://jobs.ashbyhq.com/accord/7f73b58a-3704-4bc9-8529-643efd69d174) |
 | ALTERNANCE Vendeur polyvalent F/H/X | [BUT](https://but.fr) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000128247180) |
+| Casual Sales Assistant  | [Frasers Group](https://frasersgroup.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000128240229) |
+| Casual Sales Assistant  | [Frasers Group](https://frasersgroup.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000128238834) |
 | Logistic Account Manager - Bulgaria | [Delivery Hero](https://deliveryhero.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000128238829) |
 | Tasador Comercial VO (H/M) - Badajoz | [AUTO1 Group](https://auto1-group.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000128237409) |
 | Vendeur / Vendeuse CDI -  Temps partiel [28H] (H/F)  à Antibes | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000128231749) |
 | Renewals Representative (French Speaking) | [Sophos](https://sophos.com) | — | May 25 | [Apply](https://jobs.lever.co/sophos/083957b8-aaaa-40eb-a800-faa10db2b61b) |
+| Renewals Representative (Dutch Speaking) | [Sophos](https://sophos.com) | — | May 25 | [Apply](https://jobs.lever.co/sophos/4730e616-d6b7-40c0-8aaa-25b2729f04a1) |
 | Renewals Representative (French Speaking) | [Sophos](https://sophos.com) | — | May 25 | [Apply](https://jobs.lever.co/sophos/1812bdd3-b2ce-4482-b5d7-825b24ee0b7b) |
+| Renewals Representative (Dutch Speaking) | [Sophos](https://sophos.com) | — | May 25 | [Apply](https://jobs.lever.co/sophos/4d695944-bded-49d3-a09e-185e5ae67a4f) |
+| Renewals Representative (Dutch Speaking) | [Sophos](https://sophos.com) | — | May 25 | [Apply](https://jobs.lever.co/sophos/52408303-9403-41ae-89c0-dbcfc0b9ad5f) |
 | Senior Technical Account Manager | [Sophos](https://sophos.com) | — | May 25 | [Apply](https://jobs.lever.co/sophos/f6f8053b-5ac3-468b-b5d7-66b2cb0729a5) |
 | Ford Connected Services Trainer | [MSX International](https://msxi.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013285071) |
 | Account Development Associate - Fever For Business (German Speaker) | [Fever](https://feverup.com) | — | May 25 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4874555101) |
@@ -36,6 +41,7 @@ Remote sales roles — account executives, SDRs, and enterprise deals.
 | Delivery Driver (06627) - 50 Aldine Bender Rd | [Domino's](https://dominos.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000128177798) |
 | Delivery Driver(05927) - 2535 N Hill St | [Domino's](https://dominos.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000128177701) |
 | FT Sales Associate (Pacific Fair) | [Princess Polly](https://princesspolly.com) | — | May 25 | [Apply](https://jobs.lever.co/princesspolly/97c272ea-4d66-42f2-9257-9b6b61c8e399) |
+| Emerging Account Executive | [Sigma Computing](https://sigmacomputing.com) | $80K–$90K/yr | May 25 | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/7747546003) |
 | Sales Associate - Middle Shift (12pm-5pm)  | [Primark Tiendas SLU](https://primark.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000128038579) |
 | Sales Associate - (5pm-10pm) | [Primark Tiendas SLU](https://primark.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000128038480) |
 | FR - Potel et Chabot | [ACCOR](https://group.accor.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128034599) |

@@ -2,7 +2,7 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**497 open roles** — Last updated: 2026-05-26
+**498 open roles** — Last updated: 2026-05-26
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -25,6 +25,7 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Assistant Manager - Merano Lagundo C.C. "Algo Shopping Center" | [JD Sports](https://jdsports.com) | — | May 25 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4874703101) |
 | Retail Merchandiser | [Pilot Flying J](https://pilotflyingj.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/PilotCompany/postings/744000128231119) |
 | Vehicle Inspector | [Clutch](https://clutch.io) | $20/yr | May 25 | [Apply](https://job-boards.greenhouse.io/clutch/jobs/6005493004) |
+| Head Coach | [Frasers Group](https://frasersgroup.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000128218739) |
 | Buyer: Stationery | [takealot.com](https://takealot.com) | — | May 25 | [Apply](https://job-boards.greenhouse.io/takealotcom/jobs/5638005) |
 | FEMME DE CHAMBRE EXTRA H/F | [ACCOR](https://group.accor.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128205709) |
 | Commis I | [ACCOR](https://group.accor.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128205009) |
