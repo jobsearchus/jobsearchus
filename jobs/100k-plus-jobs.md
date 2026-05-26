@@ -2,12 +2,22 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**321 open roles** — Last updated: 2026-05-26
+**331 open roles** — Last updated: 2026-05-26
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Client Platforms Security Engineer | [DRW](https://drw.com) | $150K–$200K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7957926) |
+| Project Controls Lead  | [Fluidstack](https://fluidstack.com) | $200K–$300K/yr | May 26 | [Apply](https://jobs.ashbyhq.com/fluidstack/a8aed766-d326-41e9-9fd0-8005ef92aca1) |
+| Off-Page SEO Specialist | [Firecrawl](https://firecrawl.com) | $140K–$180K/yr | May 26 | [Apply](https://jobs.ashbyhq.com/firecrawl/15565a5d-7e35-4f11-97cf-d93cee88f1df) |
+| In-House Technical Writer | [Firecrawl](https://firecrawl.com) | $160K–$200K/yr | May 26 | [Apply](https://jobs.ashbyhq.com/firecrawl/27a38804-9e98-49bb-8a43-b8dddea1ae15) |
+| Staff Software Engineer (AI) | [Juniper Square](https://junipersquare.com) | $210K–$260K/yr | May 26 | [Apply](https://jobs.ashbyhq.com/junipersquare/c0f6d8c5-7dad-4599-be77-b04b8a2b8af0) |
+| Staff Software Engineer, Data (AI) | [Juniper Square](https://junipersquare.com) | $210K–$260K/yr | May 26 | [Apply](https://jobs.ashbyhq.com/junipersquare/c499f5d0-bc2f-47a6-8058-415d3cb4d2a3) |
+| Senior Software Engineer, Data (AI) | [Juniper Square](https://junipersquare.com) | $185K–$225K/yr | May 26 | [Apply](https://jobs.ashbyhq.com/junipersquare/b48d4fe8-439d-4560-913f-d79236291d8e) |
+| Configuration Manager | [Slingshot Aerospace](https://slingshotaerospace.com) | $120K–$170K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/slingshotaerospace/jobs/6005934004?gh_jid=6005934004) |
+| Senior Backend Engineer, Space Operations Intelligence & Autonomy (SOIA) | [Slingshot Aerospace](https://slingshotaerospace.com) | $150K–$200K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/slingshotaerospace/jobs/6005857004?gh_jid=6005857004) |
+| Information Security Engineer, Bare Metal | [Fluidstack](https://fluidstack.com) | $230K–$310K/yr | May 26 | [Apply](https://jobs.ashbyhq.com/fluidstack/a703f8f6-469e-493c-8f3c-e7de5746a6e3) |
 | Technical Operations Manager  | [Customer.io](https://customer.io) | $117K–$120K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/customerio/jobs/7956906) |
 | Senior Data Scientist | [Customer.io](https://customer.io) | $140K–$150K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/customerio/jobs/7956880) |
 | Senior Engineering Leader - Discovery Experience | [Faire](https://faire.com) | $231K–$318K/yr | May 25 | [Apply](https://boards.greenhouse.io/faire/jobs/8564077002?gh_jid=8564077002) |

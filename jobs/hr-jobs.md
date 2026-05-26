@@ -2,13 +2,16 @@
 
 Remote HR, recruiting, and people operations roles.
 
-**79 open roles** — Last updated: 2026-05-26
+**82 open roles** — Last updated: 2026-05-26
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Global Payroll Implementation Country Lead - France | [Remote](https://remote.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/remotecom/jobs/7741910003) |
+| Staff Consultant (HRBP) | [Nagarro](https://nagarro.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000128404194) |
 | Internship HR (8h) - Tires | [Continental](https://continentalserves.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000128233531) |
+| Human Resources Business Partner (New Grad Opportunity) | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $62K–$68K/yr | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000128232579) |
 | Manager, People Partner | [Delivery Hero](https://deliveryhero.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000128226489) |
 | Talent & Performance Specialist | [Moniepoint](https://moniepoint.com) | — | May 25 | [Apply](https://job-boards.eu.greenhouse.io/moniepoint/jobs/4874150101) |
 | Talent Acquisition Specialist | [WIN Home Inspection](https://winhomeinspection.com) | — | May 25 | [Apply](https://job-boards.greenhouse.io/winhomeinspection/jobs/4684065006) |

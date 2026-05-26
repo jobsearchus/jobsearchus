@@ -2,12 +2,16 @@
 
 Remote cybersecurity, information security, and security engineering roles.
 
-**57 open roles** — Last updated: 2026-05-26
+**61 open roles** — Last updated: 2026-05-26
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Client Platforms Security Engineer | [DRW](https://drw.com) | $150K–$200K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7957926) |
+| Computer Network Defense Analyst (EAIRS) | [Horizon Industries](https://horizonindustries.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/horizonindustrieslimited/jobs/5230902008) |
+| Information Security Engineer, Bare Metal | [Fluidstack](https://fluidstack.com) | $230K–$310K/yr | May 26 | [Apply](https://jobs.ashbyhq.com/fluidstack/a703f8f6-469e-493c-8f3c-e7de5746a6e3) |
+| Cyber Security Analyst - Governance, Risk and Culture (GRC) | [Baringa](https://baringa.com) | — | May 26 | [Apply](https://job-boards.eu.greenhouse.io/baringa/jobs/4870447101) |
 | Physical Security Systems Specialist, Deployment & Ops | [Fluidstack](https://fluidstack.com) | $200K–$300K/yr | May 25 | [Apply](https://jobs.ashbyhq.com/fluidstack/3d9eb20e-9b1d-4886-99a5-fef4a765c5c0) |
 | Security Lead, Deployment & Ops  | [Fluidstack](https://fluidstack.com) | $300K–$400K/yr | May 25 | [Apply](https://jobs.ashbyhq.com/fluidstack/afebea2a-3b06-4f2b-887a-0fc43242c451) |
 | Consultor(a) Pentester  | [Inetum](https://inetum.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000128244829) |

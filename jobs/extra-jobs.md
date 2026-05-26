@@ -2,13 +2,30 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**502 open roles** — Last updated: 2026-05-26
+**519 open roles** — Last updated: 2026-05-26
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Area Head of Bars & Beverage - New York | [Soho House](https://sohohouse.com) | — | May 26 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4872288101) |
+| Certified Personal Trainer - Soho House Nashville | [Soho House](https://sohohouse.com) | — | May 26 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4874161101) |
+| Dental Nurse / Receptionist | [PortmanDentex](https://portmandentex.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000128526719) |
+| Alternant Welcomer Polyvalent (H/F) | [ACCOR](https://group.accor.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128508759) |
+| Valet femme de chambre (F/M/X) saison | [ACCOR](https://group.accor.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128507681) |
+| Universal Banking Team Leader | [Standard Bank](https://standardbank.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000128507223) |
+| Banco de Talentos - Vagas Exclusivas PCD | [Egis](https://egis-group.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000128502799) |
+| Fahrzeug-Qualitätsprüfer (m/w/d) | [AUTO1 Group](https://auto1-group.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000128501149) |
+|  Business Planning & Performance Director | [Egis](https://egis-group.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000128494178) |
+|  Consultant - Growth Consulting, WPP Open | [WPP](https://wpp.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/wpp/jobs/8564404002) |
+| Manager, Client Experience | [Standard Bank](https://standardbank.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000128479525) |
+| DIRECTEUR DE MAGASIN (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000128471569) |
+| Bediening/Keukenhulp | [Genpak LLC](https://genpak-llc-2) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000128465129) |
+| Consultant (w/m/d) Energiekonzepte und Dekarbonisierung | [Drees & Sommer](https://dreso.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000128464799) |
+| Gestor de Negócio | [Standard Bank](https://standardbank.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000128459361) |
+| Insurance Consulting, Senior Manager (General Insurance) | [Baringa](https://baringa.com) | — | May 26 | [Apply](https://job-boards.eu.greenhouse.io/baringa/jobs/4739006101) |
 | Assistant Manager  | [Frasers Group](https://frasersgroup.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000128429504) |
+| Stage consultant Grande Distribution | [VusionGroup SA](https://vusiongroup.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/VusionGroupSA/postings/744000128423829) |
 | Executive Assistant - Television Distribution, Singapore | [NBCUniversal](https://nbcuniversal.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000128414255) |
 | Implementation Consultant | [Acumatica](https://acumatica.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Acumatica/postings/744000128406339) |
 | Mental Health Professional | [Genpak LLC](https://genpak-llc-2) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/APMGroup/postings/6000000001106112) |

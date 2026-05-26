@@ -2,19 +2,38 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**729 open roles** — Last updated: 2026-05-26
+**748 open roles** — Last updated: 2026-05-26
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Electrical Engineer  | [HavocAI](https://havocai.com) | — | May 26 | [Apply](https://jobs.ashbyhq.com/havocai/4a18122e-bc47-4a79-8d72-4699411254cb) |
+| Staff/Principal Software Engineer - South America | [Jump](https://jump.com) | $70/yr | May 26 | [Apply](https://jobs.ashbyhq.com/jump-app/5e360c01-af10-4e20-8e94-e2f7ce94c6ec) |
+| Staff Software Engineer (AI) | [Juniper Square](https://junipersquare.com) | $210K–$260K/yr | May 26 | [Apply](https://jobs.ashbyhq.com/junipersquare/c0f6d8c5-7dad-4599-be77-b04b8a2b8af0) |
+| Staff Software Engineer, Data (AI) | [Juniper Square](https://junipersquare.com) | $210K–$260K/yr | May 26 | [Apply](https://jobs.ashbyhq.com/junipersquare/c499f5d0-bc2f-47a6-8058-415d3cb4d2a3) |
+| Senior Software Engineer, Data (AI) | [Juniper Square](https://junipersquare.com) | $185K–$225K/yr | May 26 | [Apply](https://jobs.ashbyhq.com/junipersquare/b48d4fe8-439d-4560-913f-d79236291d8e) |
+| Valon Externship Program | [Valon](https://valon.com) | — | May 26 | [Apply](https://jobs.ashbyhq.com/valon/03c13b4c-2105-4258-97e0-842ef8ea0368) |
+| QE Automation Data | [Inetum](https://inetum.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000128540380) |
+| Software Developer .NET (Web Applications) | [Inetum](https://inetum.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000128533801) |
+| 2026 Internship - Software Engineer | [Qube Research & Technologies](https://quberesearch.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8562105002) |
+| Research Scientist | [Canva](https://canva.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001106516) |
 | Junior Operations Engineer | [Netcompany](https://netcompany.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000128440742) |
 | Data Engineer (Azure Databricks) | [Miratech](https://miratech.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000128429885) |
+| Teamlead Application Engineering  - Power Transmission Solutions CTTR | [Continental](https://continentalserves.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000128425191) |
+| Analyst (Reporting & Dashboards) | [Veeam Software](https://veeam.com) | — | May 26 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4875054101) |
+| Analyst (Reporting & Dashboards) | [Veeam Software](https://veeam.com) | — | May 26 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4853060101) |
 | End Point Administrator | [Netcompany](https://netcompany.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000128421009) |
+| Instrumentation and Controls Commissioning Lead | [Genpak LLC](https://genpak-llc-2) | — | May 26 | [Apply](https://job-boards.eu.greenhouse.io/lotusworks/jobs/4871753101) |
+| VAN Development Engineer | [Continental](https://continentalserves.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000128416269) |
 | MySQL Database Administrator | [Miratech](https://miratech.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000128415104) |
+| Lehrling Kfz-Technik (m/w/d) | [Continental](https://continentalserves.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000128412445) |
+| Software Engineer [Java Core] | [NCS](https://ncs.co) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001106286) |
+| Junior Design Engineer - BIW | [SEGULA Technologies](https://segulatechnologies.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/SegulaTechnologies/postings/744000128400209) |
 | Technical Operations Manager  | [Customer.io](https://customer.io) | $117K–$120K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/customerio/jobs/7956906) |
 | Cloud GTM Practice Lead | [Suger](https://suger.io) | — | May 26 | [Apply](https://jobs.lever.co/suger/43aed476-1ce1-41f0-9b35-7f98e5057c10) |
 | Partnerships / Cloud Alliance Lead | [Suger](https://suger.io) | — | May 26 | [Apply](https://jobs.lever.co/suger/10bfe850-af99-42e6-832f-c426af692cfb) |
+| Senior Software Development Engineer | [Razorpay Software Private Limited](https://razorpay.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4694070005) |
 | Electrical Intern (Fall 26) | [Spaceium Inc](https://spaceium.com) | — | May 25 | [Apply](https://job-boards.greenhouse.io/spaceium/jobs/4258525009) |
 | UX Researcher | [Skydropx](https://skydropx.com) | — | May 25 | [Apply](https://jobs.ashbyhq.com/skydropx/c5757b6d-8e40-40d5-965c-6c58a6be91b7) |
 | Cleared Senior Cloud Engineer (Washington, DC) | [Accenture Federal Services](https://accenturefederalservices.com) | — | May 25 | [Apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4684107006?gh_jid=4684107006) |

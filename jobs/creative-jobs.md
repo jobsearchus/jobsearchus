@@ -2,12 +2,14 @@
 
 Remote creative roles — copywriters, content creators, graphic designers, and brand specialists.
 
-**38 open roles** — Last updated: 2026-05-26
+**40 open roles** — Last updated: 2026-05-26
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Associate Producer / Producer | [Nex](https://nex.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/nex/jobs/5230607008) |
+| Visual Merchandiser - Full Time - Amsterdam | [Gymshark](https://gymshark.com) | — | May 26 | [Apply](https://job-boards.eu.greenhouse.io/gymshark/jobs/4875224101) |
 | Creative Copywriter (Performance Marketing) | [Fever](https://feverup.com) | — | May 26 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4874974101) |
 | Lighting Artist (7-month contract) | [Blackbird Interactive](https://blackbirdinteractive.com) | — | May 22 | [Apply](https://jobs.lever.co/blackbirdinteractive/e87e47be-d34b-49e2-884e-7eff76ad8f8a) |
 | Senior 2D Animator (Casual/Puzzle) | [Sun Studio](https://sunstudio.com) | — | May 22 | [Apply](https://jobs.lever.co/sunstudio/4cc072a0-4b62-4c2e-8d23-ed23e85e3dba) |

@@ -2,12 +2,14 @@
 
 Backend, server-side, and API engineering roles. Node.js, Python, Go, Ruby, Java and beyond.
 
-**33 open roles** — Last updated: 2026-05-26
+**35 open roles** — Last updated: 2026-05-26
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Backend Engineer, Space Operations Intelligence & Autonomy (SOIA) | [Slingshot Aerospace](https://slingshotaerospace.com) | $150K–$200K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/slingshotaerospace/jobs/6005857004?gh_jid=6005857004) |
+| Backend Staff Engineer | [Scopely](https://scopely.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/scopely/jobs/5212435008) |
 | Pessoa Desenvolvedora Backend Kotlin Sênior | [Zup Innovation](https://zupinnovation.com) | — | May 25 | [Apply](https://job-boards.greenhouse.io/zupinnovation/jobs/7747764003) |
 | [Job - 29503] Backend Developer (Java / Spring Boot), Brazil | [CI&T](https://cit.com) | — | May 25 | [Apply](https://jobs.lever.co/ciandt/cf73c2a8-0e46-4dbc-9133-07007a7afbc5) |
 | Senior back-end developer (java/javascript) | [VusionGroup SA](https://vusiongroup.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/VusionGroupSA/postings/744000128220890) |

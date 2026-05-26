@@ -2,12 +2,16 @@
 
 Remote customer support and success roles across SaaS, e-commerce, and tech.
 
-**151 open roles** — Last updated: 2026-05-26
+**155 open roles** — Last updated: 2026-05-26
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Technical Support Engineer I | [Sectigo](https://sectigo.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Sectigo/postings/3743990013296456) |
+| Kundenservice Mitarbeiter im Online Check- Out (d/m/w) | [AUTO1 Group](https://auto1-group.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000128509600) |
+| Certificate Support Associate | [Sectigo](https://sectigo.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Sectigo/postings/3743990013293346) |
+| Director, Customer Service (TW Planning and Development) | [Coupang](https://coupang.com) | — | May 26 | [Apply](https://boards.greenhouse.io/coupanginternal/jobs/7956182?gh_jid=7956182) |
 | Assistant Clientèle / Caissier (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000128204594) |
 | Director, Customer Service [L7-1] (Contact Center Operations) | [Coupang](https://coupang.com) | — | May 25 | [Apply](https://boards.greenhouse.io/coupanginternal/jobs/7955951?gh_jid=7955951) |
 | Warranty Specialist | [MSX International](https://msxi.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013284207) |

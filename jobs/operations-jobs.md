@@ -2,13 +2,25 @@
 
 Remote operations and business operations roles across industries.
 
-**479 open roles** — Last updated: 2026-05-26
+**491 open roles** — Last updated: 2026-05-26
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Project Controls Lead  | [Fluidstack](https://fluidstack.com) | $200K–$300K/yr | May 26 | [Apply](https://jobs.ashbyhq.com/fluidstack/a8aed766-d326-41e9-9fd0-8005ef92aca1) |
+| Configuration Manager | [Slingshot Aerospace](https://slingshotaerospace.com) | $120K–$170K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/slingshotaerospace/jobs/6005934004?gh_jid=6005934004) |
+| Operation and Food and Beverage Manager | [ACCOR](https://group.accor.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128508089) |
+| Jefe Mantención Mina Dewatering LB | [Anglo American](https://angloamerican.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000128500160) |
+| OPC Essais et Systèmes | [Egis](https://egis-group.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000128491659) |
+| Mechanical O&M Technician  | [Genpak LLC](https://genpak-llc-2) | — | May 26 | [Apply](https://job-boards.eu.greenhouse.io/lotusworks/jobs/4871245101) |
+| Torneira Mecânica / Torneiro Mecânico | [Anglo American](https://angloamerican.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000128470242) |
+| Técnica / Técnico Mineração Pleno  (Sala de Controle Mina) | [Anglo American](https://angloamerican.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000128464329) |
+| CX AI & Automation Lead | [Remote](https://remote.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/remotecom/jobs/7747671003) |
+| Apprenti Chargé de Projets RSE - Environnement (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000128453779) |
 | Digital Press Operator - HP Indigo | [Avery Dennison](https://averydennison.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000128441661) |
+| Projectleider HVAC | [BESIX](https://besix.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000128431970) |
+| Facilities and Admin executive - Analyst | [Nagarro](https://nagarro.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000128403450) |
 | Auto.Quality Tester | [Avery Dennison](https://averydennison.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000128398479) |
 | Sprinter Diesel Technician | [Fletcher Jones Automotive Group](https://fletcherjonesautomotivegroup.com) | — | May 25 | [Apply](https://boards.greenhouse.io/fletcherjonesautomotivegroup/jobs/5146125007?gh_jid=5146125007) |
 | Especialista Mejoramiento Continua Mina LB | [Anglo American](https://angloamerican.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000128261509) |

@@ -2,12 +2,17 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**185 open roles** — Last updated: 2026-05-26
+**190 open roles** — Last updated: 2026-05-26
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Off-Page SEO Specialist | [Firecrawl](https://firecrawl.com) | $140K–$180K/yr | May 26 | [Apply](https://jobs.ashbyhq.com/firecrawl/15565a5d-7e35-4f11-97cf-d93cee88f1df) |
+| In-House Technical Writer | [Firecrawl](https://firecrawl.com) | $160K–$200K/yr | May 26 | [Apply](https://jobs.ashbyhq.com/firecrawl/27a38804-9e98-49bb-8a43-b8dddea1ae15) |
+| Senior UA Manager | [Zynga](https://zynga.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/zyngacareers/jobs/6005749004) |
+| Senior Growth Copywriter | [Canva](https://canva.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001106315) |
+| Senior Growth Copywriter | [Canva](https://canva.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001106310) |
 | (Junior) YouTube Content Specialist | [Rovio](https://rovio.com) | — | May 25 | [Apply](https://jobs.lever.co/rovio-2/b22d6ba6-eaea-493c-a4be-4dd4e764d0f5) |
 | Marketing Associate - Singapore | [Flagright](https://flagright.com) | — | May 25 | [Apply](https://jobs.ashbyhq.com/flagright.com/05872eb1-a0f9-44a8-bf3c-745ced82d7dd) |
 | Senior Associate, Growth Marketing | [Razorpay Software Private Limited](https://razorpay.com) | — | May 25 | [Apply](https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4698731005) |
