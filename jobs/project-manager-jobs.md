@@ -2,12 +2,16 @@
 
 Project and program management roles across tech, operations, and enterprise.
 
-**46 open roles** — Last updated: 2026-05-25
+**50 open roles** — Last updated: 2026-05-26
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| CRM Project Manager  | [Medier](https://medier.com) | — | May 25 | [Apply](https://job-boards.eu.greenhouse.io/medier/jobs/4874709101) |
+| Senior Technical Project Manager (Telecom) | [Miratech](https://miratech.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000128214609) |
+| Senior Technical Project Manager (Telecom) | [Miratech](https://miratech.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000128213893) |
+| Senior Technical Project Manager (Telecom) | [Miratech](https://miratech.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000128214529) |
 | Project Manager | [Miratech](https://miratech.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000128208039) |
 | Manager SAP | [Inetum](https://inetum.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000128200464) |
 | Directeur de Projet SAP H/F | [Inetum](https://inetum.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000128199744) |

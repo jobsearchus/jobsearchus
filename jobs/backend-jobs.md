@@ -2,12 +2,15 @@
 
 Backend, server-side, and API engineering roles. Node.js, Python, Go, Ruby, Java and beyond.
 
-**30 open roles** — Last updated: 2026-05-25
+**33 open roles** — Last updated: 2026-05-26
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Pessoa Desenvolvedora Backend Kotlin Sênior | [Zup Innovation](https://zupinnovation.com) | — | May 25 | [Apply](https://job-boards.greenhouse.io/zupinnovation/jobs/7747764003) |
+| [Job - 29503] Backend Developer (Java / Spring Boot), Brazil | [CI&T](https://cit.com) | — | May 25 | [Apply](https://jobs.lever.co/ciandt/cf73c2a8-0e46-4dbc-9133-07007a7afbc5) |
+| Senior back-end developer (java/javascript) | [VusionGroup SA](https://vusiongroup.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/VusionGroupSA/postings/744000128220890) |
 | Backend Engineer, Wolt+ | [Wolt](https://wolt.com) | — | May 25 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7956265) |
 | Desarrollador Backend Java | [Inetum](https://inetum.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000127968356) |
 | (Senior) Backend Engineer, Platform | [Wheely](https://wheely.com) | £90K–£120K/yr | May 22 | [Apply](https://boards.greenhouse.io/wheely/jobs/7746904003?gh_jid=7746904003) |

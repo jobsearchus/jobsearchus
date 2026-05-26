@@ -2,23 +2,35 @@
 
 Remote jobs open to candidates with 0–2 years of experience. A real way in — no degree gatekeeping.
 
-**492 open roles** — Last updated: 2026-05-25
+**504 open roles** — Last updated: 2026-05-26
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Electrical Intern (Fall 26) | [Spaceium Inc](https://spaceium.com) | — | May 25 | [Apply](https://job-boards.greenhouse.io/spaceium/jobs/4258525009) |
+| Aide - serveur·euse, Champlain / Dufferin (H/F/D) - Saisonnier | [ACCOR](https://group.accor.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128261279) |
+| Engineering Coordinator (Maternity Leave Coverage) | [ACCOR](https://group.accor.com) | $56K–$59K/yr | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128258760) |
+| Conference Services Coordinator | [ACCOR](https://group.accor.com) | $56K–$58K/yr | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128257809) |
 | Co-op Fall 2026 - System Architecture - 8-12 Months | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000128256129) |
 | Co-op Fall 2026 - System Architecture - 8-12 Months | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000128253439) |
 | Cuisinier / commis de cuisine | [Genpak LLC](https://genpak-llc-2) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000128249999) |
 | Commis di Ristorante  | [Relais & Châteaux](https://relaischateaux.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000128246089) |
 | VERKÄUFER:IN (m/w/d) TEILZEIT (25 Std) –  4060 Leonding – Vorlage JAT | [JYSK](https://jysk.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000128245859) |
 | Addetto Caffetteria  | [Relais & Châteaux](https://relaischateaux.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000128245679) |
+| HTML & CSS Web Support | [Genpak LLC](https://genpak-llc-2) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000128244389) |
 | VENDEDOR/A - Iterinidad | [JYSK](https://jysk.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000128243324) |
 | Sales Assistant 30 h - Civezzano | [JYSK](https://jysk.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000128242552) |
 | Part Time Dock Worker - Immediate Start | [Manitoulin Global Forwarding](https://manitoulingroup.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000128237950) |
+| Técnico reclamaciones automoción (H/M) | [AUTO1 Group](https://auto1-group.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000128238559) |
+| Tasador Comercial VO (H/M) - Badajoz | [AUTO1 Group](https://auto1-group.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000128237409) |
+| Apprentissage – Développeur Junior Data Integration Microsoft LogicApp/ADF (H/F) | [VusionGroup SA](https://vusiongroup.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/VusionGroupSA/postings/744000128233689) |
 | Internship HR (8h) - Tires | [Continental](https://continentalserves.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000128233531) |
+| Vendeur / Vendeuse CDI -  Temps partiel [28H] (H/F)  à Antibes | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000128231749) |
+| Junior Banking Operations (Porto) | [Inetum](https://inetum.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000128231491) |
 | Retail Merchandiser | [Pilot Flying J](https://pilotflyingj.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/PilotCompany/postings/744000128231119) |
+| (Junior) YouTube Content Specialist | [Rovio](https://rovio.com) | — | May 25 | [Apply](https://jobs.lever.co/rovio-2/b22d6ba6-eaea-493c-a4be-4dd4e764d0f5) |
+|  Accountant 1, Corporate Accounting | [IQ-EQ](https://iqeq.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000128222559) |
 | CDD 25h RENFORT ETE H/F | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000128210139) |
 | FEMME DE CHAMBRE EXTRA H/F | [ACCOR](https://group.accor.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128205709) |
 | Commis I | [ACCOR](https://group.accor.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128205009) |

@@ -2,17 +2,25 @@
 
 Remote operations and business operations roles across industries.
 
-**468 open roles** — Last updated: 2026-05-25
+**476 open roles** — Last updated: 2026-05-26
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Sprinter Diesel Technician | [Fletcher Jones Automotive Group](https://fletcherjonesautomotivegroup.com) | — | May 25 | [Apply](https://boards.greenhouse.io/fletcherjonesautomotivegroup/jobs/5146125007?gh_jid=5146125007) |
+| Especialista Mejoramiento Continua Mina LB | [Anglo American](https://angloamerican.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000128261509) |
+| Last Mile Coordinator  | [Clutch](https://clutch.io) | — | May 25 | [Apply](https://job-boards.greenhouse.io/clutch/jobs/6005570004) |
+| Gerente Manutenção Filtragem Rejeitos | [Anglo American](https://angloamerican.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000128253379) |
+| Eletricista II | [Anglo American](https://angloamerican.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000128246542) |
 | Part Time Dock Worker - Immediate Start | [Manitoulin Global Forwarding](https://manitoulingroup.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000128237950) |
+| Técnico reclamaciones automoción (H/M) | [AUTO1 Group](https://auto1-group.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000128238559) |
 | Class 1 LCV Line Haul  Night Driver Great Wages $32.55 + Premiums | [Manitoulin Global Forwarding](https://manitoulingroup.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000128236979) |
 | Planning Team Lead | [Syngenta](https://syngenta.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000128233617) |
 | Planning Team Lead | [Syngenta](https://syngenta.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000128233460) |
 | Planning Team Lead | [Syngenta](https://syngenta.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000128232630) |
+| Junior Banking Operations (Porto) | [Inetum](https://inetum.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000128231491) |
+| UPW Technician | [Genpak LLC](https://genpak-llc-2) | — | May 25 | [Apply](https://job-boards.eu.greenhouse.io/lotusworks/jobs/4873646101) |
 | License Operations & Strategy Manager | [Kraken](https://kraken.com) | — | May 25 | [Apply](https://jobs.ashbyhq.com/kraken.com/c3c8d6b8-dc05-4289-85ff-ef1f6c3a5468) |
 | Consultor de Processos Sr - (Veículos Pesados e Agrícolas) | [MSX International](https://msxi.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013285356) |
 | Director of Engineering – Multi-Disciplinary | [D-Fend Solutions](https://d-fendsolutions.com) | — | May 25 | [Apply](https://jobs.lever.co/d-fendsolutions/4c023bc1-9863-47b6-9143-8e15bd837e22) |

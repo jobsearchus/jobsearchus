@@ -2,12 +2,13 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**184 open roles** — Last updated: 2026-05-25
+**185 open roles** — Last updated: 2026-05-26
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| (Junior) YouTube Content Specialist | [Rovio](https://rovio.com) | — | May 25 | [Apply](https://jobs.lever.co/rovio-2/b22d6ba6-eaea-493c-a4be-4dd4e764d0f5) |
 | Marketing Associate - Singapore | [Flagright](https://flagright.com) | — | May 25 | [Apply](https://jobs.ashbyhq.com/flagright.com/05872eb1-a0f9-44a8-bf3c-745ced82d7dd) |
 | Senior Associate, Growth Marketing | [Razorpay Software Private Limited](https://razorpay.com) | — | May 25 | [Apply](https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4698731005) |
 | Marketing Creative Producer (12-month contract) | [Canva](https://canva.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001102434) |

@@ -2,12 +2,14 @@
 
 Full-stack engineering roles across product, platform, and startup companies.
 
-**19 open roles** — Last updated: 2026-05-25
+**21 open roles** — Last updated: 2026-05-26
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Full Stack Engineer, Insights | [StackAdapt](https://stackadapt.com) | — | May 25 | [Apply](https://job-boards.greenhouse.io/stackadapt/jobs/4258397009) |
+| [Job - 29518] Desenvolvedor Fullstack Sênior (Java e Angular) | [CI&T](https://cit.com) | — | May 25 | [Apply](https://jobs.lever.co/ciandt/a778f436-8fd0-462a-8e51-c8c5441dbc72) |
 |  Senior Staff Engineer - Dotnet Fullstack | [Nagarro](https://nagarro.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000128253959) |
 | Senior Software Engineer- Fullstack | [Zynga](https://zynga.com) | — | May 25 | [Apply](https://job-boards.greenhouse.io/zyngacareers/jobs/6004573004) |
 | Senior Full Stack Developer (Python/Nodejs+React) | [Referrals Only](https://thoughtworks.com) | — | May 22 | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7928927) |

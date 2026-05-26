@@ -2,12 +2,13 @@
 
 DevOps, platform engineering, and infrastructure roles. AWS, GCP, Kubernetes, Terraform.
 
-**40 open roles** — Last updated: 2026-05-25
+**41 open roles** — Last updated: 2026-05-26
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Posted | Apply |
 | --- | --- | --- | --- |
+| Cloud Data Platform Engineer | [NCS](https://ncs.co) | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001100748) |
 | Associate Director Mechanical Engineering - Water Infrastructure | [AECOM](https://aecom.com) | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000128043729) |
 | Software Engineer - Secret, Cryptographic and Identity Infrastructure | [Snowflake](https://snowflake.com) | May 23 | [Apply](https://jobs.ashbyhq.com/snowflake/eb704210-4c4a-4ab7-8838-8ba7abd55af3) |
 | Senior Data Platform Engineer | [1Password](https://1password.com) | May 22 | [Apply](https://jobs.ashbyhq.com/1password/5c42ec98-c227-4f49-8357-5babf51ec1c7) |

@@ -2,23 +2,42 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**699 open roles** — Last updated: 2026-05-25
+**719 open roles** — Last updated: 2026-05-26
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Cloud GTM Practice Lead | [Suger](https://suger.io) | — | May 26 | [Apply](https://jobs.lever.co/suger/43aed476-1ce1-41f0-9b35-7f98e5057c10) |
+| Partnerships / Cloud Alliance Lead | [Suger](https://suger.io) | — | May 26 | [Apply](https://jobs.lever.co/suger/10bfe850-af99-42e6-832f-c426af692cfb) |
+| Electrical Intern (Fall 26) | [Spaceium Inc](https://spaceium.com) | — | May 25 | [Apply](https://job-boards.greenhouse.io/spaceium/jobs/4258525009) |
+| UX Researcher | [Skydropx](https://skydropx.com) | — | May 25 | [Apply](https://jobs.ashbyhq.com/skydropx/c5757b6d-8e40-40d5-965c-6c58a6be91b7) |
+| Cleared Senior Cloud Engineer (Washington, DC) | [Accenture Federal Services](https://accenturefederalservices.com) | — | May 25 | [Apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4684107006?gh_jid=4684107006) |
+| Senior Engineering Leader - Discovery Experience | [Faire](https://faire.com) | $231K–$318K/yr | May 25 | [Apply](https://boards.greenhouse.io/faire/jobs/8564077002?gh_jid=8564077002) |
+| [Job - 29546] Systems Architect: Java + Springboot, Brazil | [CI&T](https://cit.com) | — | May 25 | [Apply](https://jobs.lever.co/ciandt/63830516-84bd-446c-9f8a-830306f9bb87) |
+| Officer, Applications Support | [Standard Bank](https://standardbank.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000128257890) |
 | Co-op Fall 2026 - System Architecture - 8-12 Months | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000128256129) |
+| Senior Project Manager - Building Science | [Egis](https://egis-group.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000128254382) |
+| Senior Software Engineer, Aura Platform  | [SingleStore](https://singlestore.com) | — | May 25 | [Apply](https://job-boards.greenhouse.io/singlestore/jobs/7956622) |
 | Co-op Fall 2026 - System Architecture - 8-12 Months | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000128253439) |
 | Coordenador(a) de Engenharia de Software | [Experian](https://experianplc.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000128253419) |
 | Coordenador(a) de Engenharia de Software | [Experian](https://experianplc.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000128252659) |
 | Title Governance Coordinator | [NBCUniversal](https://nbcuniversal.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000128245379) |
+| HTML & CSS Web Support | [Genpak LLC](https://genpak-llc-2) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000128244389) |
+| Solution Engineer  | [VusionGroup SA](https://vusiongroup.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/VusionGroupSA/postings/744000128244159) |
 | FOH Team 18+ | [Greene King](https://greeneking.co.uk) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/GreeneKing/postings/744000128243929) |
 | Senior RF Engineer | [D-Fend Solutions](https://d-fendsolutions.com) | — | May 25 | [Apply](https://jobs.lever.co/d-fendsolutions/edfc36d0-0bbf-4bdc-bcae-03256b3ba138) |
+| SR Desenvolvimento Salesforce  | [ília](https://lia.com) | — | May 25 | [Apply](https://job-boards.greenhouse.io/ilia/jobs/5998577004) |
 | Senior AI & Data Architect | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $95K–$130K/yr | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000128235539) |
+| Apprentissage – Développeur Junior Data Integration Microsoft LogicApp/ADF (H/F) | [VusionGroup SA](https://vusiongroup.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/VusionGroupSA/postings/744000128233689) |
+| Pessoa Engenheira de Inteligência Artificial Sênior | [Zup Innovation](https://zupinnovation.com) | — | May 25 | [Apply](https://job-boards.greenhouse.io/zupinnovation/jobs/7719637003) |
 | Quality Engineer R&D – CoP (Conformity of Product) | [Continental](https://continentalserves.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000128227429) |
+|  DBA SQL (Maria DB) | [Inetum](https://inetum.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000128226666) |
 | Product Industrialization Engineer CTTR | [Continental](https://continentalserves.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000128219052) |
 | Staff React Native Engineer - Pro | [Kraken](https://kraken.com) | — | May 25 | [Apply](https://jobs.ashbyhq.com/kraken.com/52ccad44-e0a6-4b15-8b2a-ca6a17a40d6b) |
+| Google DialogFlow Engineer (Python) | [Miratech](https://miratech.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000128212501) |
+| Google DialogFlow Engineer (Python) | [Miratech](https://miratech.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000128212639) |
+| Google DialogFlow Engineer (Python) | [Miratech](https://miratech.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000128212460) |
 | Amazon Connect Architect | [Miratech](https://miratech.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000128212199) |
 | Amazon Connect Architect | [Miratech](https://miratech.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000128212109) |
 | Engineering Manager - Platform - Usage - Spain - Remote | [Grafana Labs](https://grafana.com) | — | May 25 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/5999714004) |
@@ -45,6 +64,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Aviation Lead  | [AECOM](https://aecom.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000128172362) |
 | Aviation Lead  | [AECOM](https://aecom.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000128171753) |
 | Water Source Planner | [AECOM](https://aecom.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000128118172) |
+| Service Delivery Manager | [NCS](https://ncs.co) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001100094) |
 | Principal Secondary System Engineer I NSW | [AECOM](https://aecom.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000128037230) |
 | Senior Transport Planner - Public Transport Master Plan (National Level) | [Egis](https://egis-group.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000128030279) |
 | GIS Mapping and Application Development / GIS Expert  | [Egis](https://egis-group.com) | — | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000128030229) |

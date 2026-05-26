@@ -2,14 +2,20 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**205 open roles** — Last updated: 2026-05-25
+**211 open roles** — Last updated: 2026-05-26
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Manager, Reconciliations | [Standard Bank](https://standardbank.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000128259829) |
 | Interlines Payable Clerk - Gore Bay | [Manitoulin Global Forwarding](https://manitoulingroup.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000128247439) |
+| Private Banking Relationship Manager | [Standard Bank](https://standardbank.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000128239228) |
+| Pricing Analyst | [IQ-EQ](https://iqeq.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000128236266) |
+| Senior Financial Controller | [Egis](https://egis-group.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000128225314) |
+|  Accountant 1, Corporate Accounting | [IQ-EQ](https://iqeq.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000128222559) |
 | Business Finance Specialist (Area Sales Specialist) - Prepaid Card | [Tide](https://tide.com) | — | May 25 | [Apply](https://job-boards.greenhouse.io/tide/jobs/7742580003) |
+| Associate Manager - Fund Administration | [IQ-EQ](https://iqeq.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000128207889) |
 | Graduate Trainee, Global Markets | [Standard Bank](https://standardbank.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000128202549) |
 | Pricing Analyst | [Experian](https://experianplc.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000128192849) |
 | Consultant / Senior Consultant - Financial Services | [Baringa](https://baringa.com) | — | May 25 | [Apply](https://job-boards.eu.greenhouse.io/baringa/jobs/4836120101) |

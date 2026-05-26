@@ -2,13 +2,14 @@
 
 Remote HR, recruiting, and people operations roles.
 
-**78 open roles** — Last updated: 2026-05-25
+**79 open roles** — Last updated: 2026-05-26
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | Internship HR (8h) - Tires | [Continental](https://continentalserves.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000128233531) |
+| Manager, People Partner | [Delivery Hero](https://deliveryhero.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000128226489) |
 | Talent & Performance Specialist | [Moniepoint](https://moniepoint.com) | — | May 25 | [Apply](https://job-boards.eu.greenhouse.io/moniepoint/jobs/4874150101) |
 | Talent Acquisition Specialist | [WIN Home Inspection](https://winhomeinspection.com) | — | May 25 | [Apply](https://job-boards.greenhouse.io/winhomeinspection/jobs/4684065006) |
 | Talent Management Capabilities SME | [O-I Glass](https://o-i.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/O-I/postings/744000128193659) |

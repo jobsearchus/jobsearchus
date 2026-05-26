@@ -2,13 +2,22 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**426 open roles** — Last updated: 2026-05-25
+**435 open roles** — Last updated: 2026-05-26
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Sales Executive Senior | [Delivery Hero](https://deliveryhero.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000128265039) |
+| Agente Stone - Consultor (a) Comercial Externo -  Contagem/MG | [Stone](https://stone.com) | — | May 25 | [Apply](https://job-boards.greenhouse.io/stone/jobs/7747836003) |
+| Business Development Representative | [Accord](https://accord.com) | — | May 25 | [Apply](https://jobs.ashbyhq.com/accord/7f73b58a-3704-4bc9-8529-643efd69d174) |
 | ALTERNANCE Vendeur polyvalent F/H/X | [BUT](https://but.fr) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000128247180) |
+| Logistic Account Manager - Bulgaria | [Delivery Hero](https://deliveryhero.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000128238829) |
+| Tasador Comercial VO (H/M) - Badajoz | [AUTO1 Group](https://auto1-group.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000128237409) |
+| Vendeur / Vendeuse CDI -  Temps partiel [28H] (H/F)  à Antibes | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000128231749) |
+| Renewals Representative (French Speaking) | [Sophos](https://sophos.com) | — | May 25 | [Apply](https://jobs.lever.co/sophos/083957b8-aaaa-40eb-a800-faa10db2b61b) |
+| Renewals Representative (French Speaking) | [Sophos](https://sophos.com) | — | May 25 | [Apply](https://jobs.lever.co/sophos/1812bdd3-b2ce-4482-b5d7-825b24ee0b7b) |
+| Senior Technical Account Manager | [Sophos](https://sophos.com) | — | May 25 | [Apply](https://jobs.lever.co/sophos/f6f8053b-5ac3-468b-b5d7-66b2cb0729a5) |
 | Ford Connected Services Trainer | [MSX International](https://msxi.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013285071) |
 | Account Development Associate - Fever For Business (German Speaker) | [Fever](https://feverup.com) | — | May 25 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4874555101) |
 | CDD 25h RENFORT ETE H/F | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000128210139) |

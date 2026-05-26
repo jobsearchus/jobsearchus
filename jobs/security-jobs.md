@@ -2,12 +2,15 @@
 
 Remote cybersecurity, information security, and security engineering roles.
 
-**54 open roles** — Last updated: 2026-05-25
+**57 open roles** — Last updated: 2026-05-26
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Physical Security Systems Specialist, Deployment & Ops | [Fluidstack](https://fluidstack.com) | $200K–$300K/yr | May 25 | [Apply](https://jobs.ashbyhq.com/fluidstack/3d9eb20e-9b1d-4886-99a5-fef4a765c5c0) |
+| Security Lead, Deployment & Ops  | [Fluidstack](https://fluidstack.com) | $300K–$400K/yr | May 25 | [Apply](https://jobs.ashbyhq.com/fluidstack/afebea2a-3b06-4f2b-887a-0fc43242c451) |
+| Consultor(a) Pentester  | [Inetum](https://inetum.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000128244829) |
 | Agent de sécurité - Contrôleur aux entrées (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000128202370) |
 | Staff Security Engineer | [Delivery Hero](https://deliveryhero.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000127994579) |
 | Security Governance, Risk & Compliance (GRC) Lead  | [Delivery Hero](https://deliveryhero.com) | — | May 23 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000127994089) |

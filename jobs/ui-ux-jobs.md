@@ -2,12 +2,13 @@
 
 UX design, UI design, and product design roles. Figma, research, and end-to-end product work.
 
-**70 open roles** — Last updated: 2026-05-25
+**71 open roles** — Last updated: 2026-05-26
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Transit Lead, Canada East | [Egis](https://egis-group.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000128242576) |
 | BIM Designer- Wet Utilities | [Egis](https://egis-group.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000128186789) |
 | BIM Designer/CAD Draughtsman- Roads and Highways | [Egis](https://egis-group.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000128186649) |
 | BIM Designer- Dry Utilities | [Egis](https://egis-group.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000128186529) |
