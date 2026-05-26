@@ -2,12 +2,13 @@
 
 Project and program management roles across tech, operations, and enterprise.
 
-**50 open roles** — Last updated: 2026-05-26
+**51 open roles** — Last updated: 2026-05-26
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Project Controls Manager - Rail  | [AECOM](https://aecom.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000128259729) |
 | CRM Project Manager  | [Medier](https://medier.com) | — | May 25 | [Apply](https://job-boards.eu.greenhouse.io/medier/jobs/4874709101) |
 | Senior Technical Project Manager (Telecom) | [Miratech](https://miratech.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000128214609) |
 | Senior Technical Project Manager (Telecom) | [Miratech](https://miratech.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000128213893) |

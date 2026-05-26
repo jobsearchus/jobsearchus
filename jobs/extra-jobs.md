@@ -2,12 +2,16 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**498 open roles** — Last updated: 2026-05-26
+**502 open roles** — Last updated: 2026-05-26
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Assistant Manager  | [Frasers Group](https://frasersgroup.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000128429504) |
+| Executive Assistant - Television Distribution, Singapore | [NBCUniversal](https://nbcuniversal.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000128414255) |
+| Implementation Consultant | [Acumatica](https://acumatica.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Acumatica/postings/744000128406339) |
+| Mental Health Professional | [Genpak LLC](https://genpak-llc-2) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/APMGroup/postings/6000000001106112) |
 | Cleared Business Systems Analyst (Washington, DC) | [Accenture Federal Services](https://accenturefederalservices.com) | — | May 25 | [Apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4684108006?gh_jid=4684108006) |
 | Aide - serveur·euse, Champlain / Dufferin (H/F/D) - Saisonnier | [ACCOR](https://group.accor.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128261279) |
 | Bartender - Soho House Holloway | [Soho House](https://sohohouse.com) | — | May 25 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4868515101) |

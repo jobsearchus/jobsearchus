@@ -2,12 +2,13 @@
 
 General developer and programmer roles that did not fit a more specific category.
 
-**58 open roles** — Last updated: 2026-05-26
+**59 open roles** — Last updated: 2026-05-26
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Java IVR Developer | [Miratech](https://miratech.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000128418535) |
 | Associate Staff Engineer - Mendix Developer | [Nagarro](https://nagarro.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000128254297) |
 | Associate Staff Engineer - Mendix Developer | [Nagarro](https://nagarro.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000128255014) |
 | Python Developer (Sports sphere) | [Coherent Solutions](https://coherentsolutions.com) | — | May 25 | [Apply](https://job-boards.eu.greenhouse.io/coherentsolutions/jobs/4874460101) |

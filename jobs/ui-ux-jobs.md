@@ -2,12 +2,13 @@
 
 UX design, UI design, and product design roles. Figma, research, and end-to-end product work.
 
-**72 open roles** — Last updated: 2026-05-26
+**73 open roles** — Last updated: 2026-05-26
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Game Economy Designer | [Gameloft](https://gameloft.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Gameloft/postings/744000128423255) |
 | CX Designer Sr | [Genpak LLC](https://genpak-llc-2) | — | May 25 | [Apply](https://job-boards.eu.greenhouse.io/valtech/jobs/4873902101) |
 | Transit Lead, Canada East | [Egis](https://egis-group.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000128242576) |
 | BIM Designer- Wet Utilities | [Egis](https://egis-group.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000128186789) |

@@ -2,18 +2,23 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**724 open roles** — Last updated: 2026-05-26
+**729 open roles** — Last updated: 2026-05-26
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Junior Operations Engineer | [Netcompany](https://netcompany.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000128440742) |
+| Data Engineer (Azure Databricks) | [Miratech](https://miratech.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000128429885) |
+| End Point Administrator | [Netcompany](https://netcompany.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000128421009) |
+| MySQL Database Administrator | [Miratech](https://miratech.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000128415104) |
 | Technical Operations Manager  | [Customer.io](https://customer.io) | $117K–$120K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/customerio/jobs/7956906) |
 | Cloud GTM Practice Lead | [Suger](https://suger.io) | — | May 26 | [Apply](https://jobs.lever.co/suger/43aed476-1ce1-41f0-9b35-7f98e5057c10) |
 | Partnerships / Cloud Alliance Lead | [Suger](https://suger.io) | — | May 26 | [Apply](https://jobs.lever.co/suger/10bfe850-af99-42e6-832f-c426af692cfb) |
 | Electrical Intern (Fall 26) | [Spaceium Inc](https://spaceium.com) | — | May 25 | [Apply](https://job-boards.greenhouse.io/spaceium/jobs/4258525009) |
 | UX Researcher | [Skydropx](https://skydropx.com) | — | May 25 | [Apply](https://jobs.ashbyhq.com/skydropx/c5757b6d-8e40-40d5-965c-6c58a6be91b7) |
 | Cleared Senior Cloud Engineer (Washington, DC) | [Accenture Federal Services](https://accenturefederalservices.com) | — | May 25 | [Apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4684107006?gh_jid=4684107006) |
+| 2027 Graduate Mechanical Engineer (Energy) | [AECOM](https://aecom.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000128264379) |
 | Technical Team Leader | [New Era Technology](https://neweratech.com) | — | May 25 | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8546701002) |
 | Senior Engineering Leader - Discovery Experience | [Faire](https://faire.com) | $231K–$318K/yr | May 25 | [Apply](https://boards.greenhouse.io/faire/jobs/8564077002?gh_jid=8564077002) |
 | [Job - 29546] Systems Architect: Java + Springboot, Brazil | [CI&T](https://cit.com) | — | May 25 | [Apply](https://jobs.lever.co/ciandt/63830516-84bd-446c-9f8a-830306f9bb87) |

@@ -2,12 +2,14 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**441 open roles** — Last updated: 2026-05-26
+**443 open roles** — Last updated: 2026-05-26
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| PTSA | [Frasers Group](https://frasersgroup.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000128428559) |
+| Sales Advisor  | [Frasers Group](https://frasersgroup.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000128415590) |
 | Sales Executive Senior | [Delivery Hero](https://deliveryhero.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000128265039) |
 | Agente Stone - Consultor (a) Comercial Externo -  Contagem/MG | [Stone](https://stone.com) | — | May 25 | [Apply](https://job-boards.greenhouse.io/stone/jobs/7747836003) |
 | Business Development Representative | [Accord](https://accord.com) | — | May 25 | [Apply](https://jobs.ashbyhq.com/accord/7f73b58a-3704-4bc9-8529-643efd69d174) |

@@ -2,13 +2,19 @@
 
 Remote jobs open to candidates with 0–2 years of experience. A real way in — no degree gatekeeping.
 
-**507 open roles** — Last updated: 2026-05-26
+**513 open roles** — Last updated: 2026-05-26
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Digital Press Operator - HP Indigo | [Avery Dennison](https://averydennison.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000128441661) |
+| Junior Operations Engineer | [Netcompany](https://netcompany.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000128440742) |
+| PTSA | [Frasers Group](https://frasersgroup.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000128428559) |
+| Sales Advisor  | [Frasers Group](https://frasersgroup.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000128415590) |
+| Auto.Quality Tester | [Avery Dennison](https://averydennison.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000128398479) |
 | Electrical Intern (Fall 26) | [Spaceium Inc](https://spaceium.com) | — | May 25 | [Apply](https://job-boards.greenhouse.io/spaceium/jobs/4258525009) |
+| 2027 Graduate Mechanical Engineer (Energy) | [AECOM](https://aecom.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000128264379) |
 | Aide - serveur·euse, Champlain / Dufferin (H/F/D) - Saisonnier | [ACCOR](https://group.accor.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128261279) |
 | Engineering Coordinator (Maternity Leave Coverage) | [ACCOR](https://group.accor.com) | $56K–$59K/yr | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128258760) |
 | Conference Services Coordinator | [ACCOR](https://group.accor.com) | $56K–$58K/yr | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128257809) |

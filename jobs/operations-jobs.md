@@ -2,12 +2,14 @@
 
 Remote operations and business operations roles across industries.
 
-**477 open roles** — Last updated: 2026-05-26
+**479 open roles** — Last updated: 2026-05-26
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Digital Press Operator - HP Indigo | [Avery Dennison](https://averydennison.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000128441661) |
+| Auto.Quality Tester | [Avery Dennison](https://averydennison.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000128398479) |
 | Sprinter Diesel Technician | [Fletcher Jones Automotive Group](https://fletcherjonesautomotivegroup.com) | — | May 25 | [Apply](https://boards.greenhouse.io/fletcherjonesautomotivegroup/jobs/5146125007?gh_jid=5146125007) |
 | Especialista Mejoramiento Continua Mina LB | [Anglo American](https://angloamerican.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000128261509) |
 | Last Mile Coordinator  | [Clutch](https://clutch.io) | — | May 25 | [Apply](https://job-boards.greenhouse.io/clutch/jobs/6005570004) |
