@@ -2,17 +2,21 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**238 open roles** — Last updated: 2026-05-27
+**242 open roles** — Last updated: 2026-05-27
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Financial Controls Manager  | [Monzo](https://monzo.com) | £75K–£85K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7957299) |
 | Comptable H/F | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000128644164) |
 | Financial Controller | [ACCOR](https://group.accor.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128638510) |
 | Commercial Manager | [Anglo American](https://angloamerican.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000128637829) |
 | IT Financial Analyst | [Genpak LLC](https://genpak-llc-2) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/APMGroup/postings/6000000001107384) |
+| Senior Director, Fund Administration (Accounting) | [Juniper Square](https://junipersquare.com) | $190K–$230K/yr | May 26 | [Apply](https://jobs.ashbyhq.com/junipersquare/3b240bdc-f283-4690-92ff-c20f8215a203) |
+| Senior Indirect Tax Analyst | [Discord](https://discord.com) | $144K–$162K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/discord/jobs/8565373002) |
 | Director- Private Equity and Hedge Fund Accounting (CFO Services) | [IQ-EQ](https://iqeq.com) | $130K–$155K/yr | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000128584088) |
+| Senior Accountant  | [Cerebras Systems](https://cerebras.net) | — | May 26 | [Apply](https://job-boards.greenhouse.io/cerebrassystems/jobs/7748840003) |
 | Director- Private Equity and Hedge Fund Accounting (CFO Services) | [IQ-EQ](https://iqeq.com) | $130K–$155K/yr | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000128583596) |
 | CAPEX Intern | [O-I Glass](https://o-i.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/O-I/postings/744000128575581) |
 | Senior GL Accountant | [Amplitude](https://amplitude.com) | $121K–$181K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/amplitude/jobs/8565092002) |

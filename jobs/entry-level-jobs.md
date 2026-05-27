@@ -2,14 +2,17 @@
 
 Remote jobs open to candidates with 0–2 years of experience. A real way in — no degree gatekeeping.
 
-**547 open roles** — Last updated: 2026-05-27
+**550 open roles** — Last updated: 2026-05-27
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Bolti munkatárs - Wolt Market Lehel | [Wolt](https://wolt.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7946499) |
+| Stage Sales Assistant (Full Time) - Lecco C.C. "La Meridiana" | [JD Sports](https://jdsports.com) | — | May 27 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4831581101) |
 | Chat Support Specialist with English and Bulgarian language | [Genpak LLC](https://genpak-llc-2) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000128647419) |
 | Chat Support Specialist with English and Bulgarian language | [Genpak LLC](https://genpak-llc-2) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000128646436) |
+| Tradelane Operations Intern | [Flexport](https://flexport.com) | — | May 27 | [Apply](https://boards.greenhouse.io/flexport/jobs/7959463?gh_jid=7959463) |
 | Retail Customer Service Associate | [Genpak LLC](https://genpak-llc-2) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000128600668) |
 | MODELE BRICOMARCHE - CONSEILLER DE VENTE - VENDEUR (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000128584690) |
 | Electrical Technician - Project-Based | [Continental](https://continentalserves.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000128584959) |

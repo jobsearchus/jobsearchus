@@ -2,12 +2,15 @@
 
 Remote creative roles — copywriters, content creators, graphic designers, and brand specialists.
 
-**44 open roles** — Last updated: 2026-05-27
+**47 open roles** — Last updated: 2026-05-27
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Creative Lead | [VML MAP](https://vml-map.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/map/jobs/8565942002) |
+| Snr  Integrated Designer with motion skills | [Genpak LLC](https://genpak-llc-2) | — | May 26 | [Apply](https://job-boards.greenhouse.io/brandtechplus/jobs/7959046) |
+| Snr  Integrated Designer with motion skills | [Genpak LLC](https://genpak-llc-2) | — | May 26 | [Apply](https://job-boards.greenhouse.io/brandtechplus/jobs/7959042) |
 | Junior Copywriter | [Grüns](https://gruns.co) | $70K–$80K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/gruns/jobs/5230941008) |
 | KBLR Content Producer Intern - Summer 2026 | [NBCUniversal](https://nbcuniversal.com) | $17/yr | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000128516918) |
 | Designer/Editor, NBC Sports Boston | [NBCUniversal](https://nbcuniversal.com) | $75K–$90K/yr | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000128515387) |

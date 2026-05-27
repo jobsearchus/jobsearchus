@@ -2,16 +2,29 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**470 open roles** — Last updated: 2026-05-27
+**484 open roles** — Last updated: 2026-05-27
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Automation QA Engineer | [Genpak LLC](https://genpak-llc-2) | — | May 27 | [Apply](https://job-boards.eu.greenhouse.io/growetalents/jobs/4874624101) |
+| Regional Sales Director | [Zscaler](https://zscaler.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5139784007) |
+| Account Manager - CCaaS UK | [Vonage](https://vonage.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/vonage/jobs/8537801002) |
+| Inside Hosting Manager for Eastern Europe | [Veeam Software](https://veeam.com) | — | May 27 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4876087101) |
+| Stage Sales Assistant (Full Time) - Lecco C.C. "La Meridiana" | [JD Sports](https://jdsports.com) | — | May 27 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4831581101) |
 | Account Manager (Retail) - Romania (They/She/He) | [Delivery Hero](https://deliveryhero.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000128655519) |
 | Senior Account Manager - Bucharest (They/She/He) | [Delivery Hero](https://deliveryhero.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000128655249) |
+| Senior Associate, Emerging Business | [Razorpay Software Private Limited](https://razorpay.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4699204005) |
+| Commercial Account Executive - GCR | [ClickHouse](https://clickhouse.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/clickhouse/jobs/6001615004) |
+| Enterprise Business Development Representative - Central | [Chainguard](https://chainguard.dev) | — | May 26 | [Apply](https://job-boards.greenhouse.io/chainguard/jobs/4677342006) |
+| Senior Manager, Mid-Market | [Mural](https://mural.co) | $260K–$350K/yr | May 26 | [Apply](https://jobs.ashbyhq.com/mural/6bf6abd4-4553-4f0f-a1fb-d76ab5847252) |
+| Sr. Enterprise Sales Engineer - Bay Area | [Chainguard](https://chainguard.dev) | $250K–$275K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/chainguard/jobs/4684113006) |
+| New Business Hunter (BDR) – High Commission Role | [Distro](https://distro.app) | $70K–$80K/yr | May 26 | [Apply](https://jobs.lever.co/distro/35454f95-ad1a-46eb-a472-c2a08b887c59) |
+| Director, Sales (People Manager) | [Morning Brew](https://morningbrew.com) | — | May 26 | [Apply](https://jobs.lever.co/morningbrew/976c6a1b-079b-4c31-8f04-e14c4ffe76e1) |
 | MODELE BRICOMARCHE - CONSEILLER DE VENTE - VENDEUR (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000128584690) |
 | SDR - Base44 | [Wix.com](https://wix.com) | $65K–$75K/yr | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Wix2/postings/744000128574599) |
+| Analytics Engineer | [Reddit](https://reddit.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/7958385) |
 | Client Solutions Manager - X | [Aleph Lab](https://alephlab.ai) | — | May 26 | [Apply](https://jobs.lever.co/aleph/07cad096-d7ab-4cc9-97fb-1b881418d907) |
 | McWane Ductile Ohio - Poles Inside Sales Reprentative | [McWane](https://mcwane.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/McWaneInc/postings/3743990013300276) |
 | Senior Account Executive - Federal System Integrators | [Endgame Systems](https://endgamesystems.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/endgamesystemsllc/jobs/5226516008) |
@@ -24,6 +37,7 @@ Remote sales roles — account executives, SDRs, and enterprise deals.
 | Business Development Manager | [Dandy](https://meetdandy.com) | — | May 26 | [Apply](https://jobs.ashbyhq.com/dandy/1ad66b71-b93f-43bf-8da9-99260b3a6b16) |
 | Business Development Specialist (must reside in Boca Raton, Florida) | [Innovative Solutions](https://innovativesolutions.com) | $80K–$95K/yr | May 26 | [Apply](https://jobs.lever.co/innovativesol-2/d0956371-5eaa-48d2-bef4-829f51b98b3b) |
 | Kundenberater Fahrzeugbewertung & Ankauf (m/w/d) | [AUTO1 Group](https://auto1-group.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000128502229) |
+| Customer Success Manager - Retail Partners | [Wolt](https://wolt.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7955734) |
 | Agente Stone - Consultor(a) Comercial Externo -  Americana/SP | [Stone](https://stone.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/stone/jobs/7748194003) |
 | Area Sales Specialist (Working Capital) | [Tide](https://tide.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/tide/jobs/7747916003) |
 | Ad Sales - Enterprise Retail Media | [Wolt](https://wolt.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7957399) |

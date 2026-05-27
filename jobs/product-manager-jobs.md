@@ -2,14 +2,18 @@
 
 Product manager roles at companies building real products. Sourced directly from career pages.
 
-**86 open roles** — Last updated: 2026-05-27
+**90 open roles** — Last updated: 2026-05-27
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Director, Product Management (Coupang Partners Programmatic Product) | [Coupang](https://coupang.com) | — | May 27 | [Apply](https://boards.greenhouse.io/coupanginternal/jobs/7959543?gh_jid=7959543) |
+| Coordinator, Product Development, rhode | [e.l.f. Beauty](https://elfbeauty.com) | — | May 26 | [Apply](https://jobs.lever.co/elfbeauty/ed87c325-72cc-4383-930e-f7b7fcf73d7c) |
 | Product Manager, Brokerage | [Robinhood](https://robinhood.com) | — | May 26 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7947548?t=gh_src=&gh_jid=7947548) |
 | [Job - 29552] Senior Product Owner, Brazil | [CI&T](https://cit.com) | — | May 26 | [Apply](https://jobs.lever.co/ciandt/df242c71-dae3-4dcd-9a73-981f19d33142) |
+| Senior Product Manager - UK - Remote | [Grafana Labs](https://grafana.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6005892004) |
+| Senior Product Manager - Sweden - Remote | [Grafana Labs](https://grafana.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6005893004) |
 | Senior Product Manager - Spain - Remote | [Grafana Labs](https://grafana.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6005889004) |
 | Senior Product Manager - Ireland - Remote | [Grafana Labs](https://grafana.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6005888004) |
 | Senior Product Manager - Germany - Remote | [Grafana Labs](https://grafana.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6005891004) |

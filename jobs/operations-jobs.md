@@ -2,15 +2,33 @@
 
 Remote operations and business operations roles across industries.
 
-**510 open roles** — Last updated: 2026-05-27
+**532 open roles** — Last updated: 2026-05-27
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Supervisor (Capo Reparto) - New Opening Parma C.C. "Promenade" | [JD Sports](https://jdsports.com) | — | May 27 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4876437101) |
+| Bolti munkatárs - Wolt Market Lehel | [Wolt](https://wolt.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7946499) |
+| Account Director (4 Month FTC) | [WPP Media](https://wppmedia.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5228872008) |
+| Product & Engineering Operations Manager | [Mindtickle](https://mindtickle.com) | — | May 27 | [Apply](https://jobs.lever.co/mindtickle/94688682-f114-4d11-bde2-e9cef4f8c446) |
 | Solutions Superintendent | [Anglo American](https://angloamerican.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000128643595) |
+| [쿠팡이츠] Key Enterprise Management | [Coupang](https://coupang.com) | — | May 27 | [Apply](https://boards.greenhouse.io/coupanginternal/jobs/7881547?gh_jid=7881547) |
+| Senior Field Enablement Manager (Tokyo, Japan)  | [Figma](https://figma.com) | — | May 27 | [Apply](https://boards.greenhouse.io/figma/jobs/6003308004?gh_jid=6003308004) |
+| Tradelane Operations Intern | [Flexport](https://flexport.com) | — | May 27 | [Apply](https://boards.greenhouse.io/flexport/jobs/7959463?gh_jid=7959463) |
+| Overnight Class A CDL Driver | [Nabis](https://nabis.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/nabis/jobs/6006509004) |
+| Senior Label Relations Manager | [Twitch](https://twitch.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8565777002) |
+| Senior Label Relations Manager | [Twitch](https://twitch.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8563250002) |
+| GTM Operations Manager | [RADAR](https://goradar.com) | $150K–$190K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/radar/jobs/7958776) |
+| Operations Manager - Medical Groups | [Akido Labs](https://akidolabs.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/akidolabs/jobs/4682553006) |
+| Operations Manager - Patient Relations | [Akido Labs](https://akidolabs.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/akidolabs/jobs/4682554006) |
 | Senior Government Contracts Professional | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $90K–$115K/yr | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000128589879) |
+| Club Reception - Ludlow House  | [Soho House](https://sohohouse.com) | — | May 26 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4871969101) |
+| HVAC & Chiller Technician | [Genpak LLC](https://genpak-llc-2) | — | May 26 | [Apply](https://job-boards.greenhouse.io/asiasp/jobs/5231556008) |
 | Transport Specialist | [JYSK](https://jysk.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000128581610) |
+| General Manager – Candlewood Suites | [Distro](https://distro.app) | — | May 26 | [Apply](https://jobs.lever.co/distro/47c0a78b-c9b2-477d-912c-8e15b68f95d7) |
+| Logistics Specialist | [GOAT Group](https://goatgroup.com) | $56K–$70K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/goatgroup/jobs/4696483005) |
+| Partner Operations Specialist | [GOAT Group](https://goatgroup.com) | $56K–$70K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/goatgroup/jobs/4696479005) |
 | Sanitation Specialist | [Tovala](https://tovala.com) | — | May 26 | [Apply](https://jobs.lever.co/tovala/7d18343e-39e2-4fd5-b429-e8a720f32b55) |
 | Property Maintenance - Student | [Manitoulin Global Forwarding](https://manitoulingroup.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000128561839) |
 | Survey Project Manager | [KPFF Consulting Engineers](https://kpff.com) | $135K–$160K/yr | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/KPFFConsultingEngineers/postings/3743990013299015) |
@@ -18,13 +36,17 @@ Remote operations and business operations roles across industries.
 | PREPARATEUR DRIVE 30H (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000128551300) |
 | Configuration Manager | [Slingshot Aerospace](https://slingshotaerospace.com) | $120K–$170K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/slingshotaerospace/jobs/6005934004?gh_jid=6005934004) |
 | KYC Screening Representative (3 month FTC) | [GoCardless](https://gocardless.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/gocardless/jobs/7957736) |
+| Business Growth Analyst (Madrid based) | [Fever](https://feverup.com) | — | May 26 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4875601101) |
+| Business Growth Analyst (Madrid based) | [Fever](https://feverup.com) | — | May 26 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4875600101) |
 | Associate Director (5.1) | [Nagarro](https://nagarro.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000128531780) |
 | AZ 4x4 Highway Driver Great Wages $33.68 an hour!! | [Manitoulin Global Forwarding](https://manitoulingroup.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000128527290) |
+| Product Operations Specialist | [Varicent](https://varicent.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/varicent/jobs/5230799008) |
 | People Experience Intern | [Applaudo](https://applaudo.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/ApplaudoStudios/postings/744000128520648) |
 | Futur Directeur de magasin F/H/X | [BUT](https://but.fr) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000128520259) |
 | Floor Manager - Milano | [JD Sports](https://jdsports.com) | — | May 26 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4875459101) |
 | Operation and Food and Beverage Manager | [ACCOR](https://group.accor.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128508089) |
 |  Senior Building Operator (Overnight Shift) | [Clutch](https://clutch.io) | — | May 26 | [Apply](https://job-boards.greenhouse.io/clutch/jobs/6005852004) |
+| Strategic Account Executive - South Africa | [GitLab](https://about.gitlab.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8555134002) |
 | Assistant Manager (sostituzione maternita') - Limbiate Milano C.C. "Carrefour" | [JD Sports](https://jdsports.com) | — | May 26 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4875447101) |
 |  Assistant Category Manager Fashion & Living and Food, Beauty & Care - France & Benelux - Juillet 2026 | [NBCUniversal](https://nbcuniversal.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000128497126) |
 | Kfz-Lackierer & Karosseriespengler (m/w/d) | [AUTO1 Group](https://auto1-group.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000128500736) |

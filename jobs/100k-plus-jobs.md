@@ -2,15 +2,33 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**345 open roles** — Last updated: 2026-05-27
+**365 open roles** — Last updated: 2026-05-27
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Director of Marketing, Business Banking | [Monzo](https://monzo.com) | £140K–£180K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7771697) |
+| Talent Management Program Manager | [Archer](https://archer.com) | $131K–$164K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7741018003) |
+| VP of People | [RADAR](https://goradar.com) | $225K–$280K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/radar/jobs/7955065) |
+| Senior Director, Fund Administration (Accounting) | [Juniper Square](https://junipersquare.com) | $190K–$230K/yr | May 26 | [Apply](https://jobs.ashbyhq.com/junipersquare/3b240bdc-f283-4690-92ff-c20f8215a203) |
+| GTM Operations Manager | [RADAR](https://goradar.com) | $150K–$190K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/radar/jobs/7958776) |
+| Product Designer II | [Garner Health](https://getgarner.com) | $143K–$160K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/garnerhealth/jobs/6006458004) |
+| Senior Platform AI Engineer | [Drata](https://drata.com) | $192K–$260K/yr | May 26 | [Apply](https://jobs.ashbyhq.com/drata/f0ab62fb-c0a8-4bf2-bfd6-9d9d2e68fb91) |
+| Software Architect – Manufacturing Test | [Cerebras Systems](https://cerebras.net) | $204K–$245K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/cerebrassystems/jobs/7749004003) |
+| Demand Generation Manager, Enterprise | [Cresta](https://cresta.com) | $120K–$165K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/cresta/jobs/5231787008) |
+| Chief of Staff, Data | [Coursera](https://coursera.org) | $188K–$236K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/coursera/jobs/5999885004) |
+| Senior Manager, Mid-Market | [Mural](https://mural.co) | $260K–$350K/yr | May 26 | [Apply](https://jobs.ashbyhq.com/mural/6bf6abd4-4553-4f0f-a1fb-d76ab5847252) |
+| Director of B2B & Content Marketing | [Pair Team](https://pairteam.com) | $175K–$200K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/pairteam/jobs/8557414002) |
+| Instrumentation Telemetry and Radio Technician/Engineer | [Archer](https://archer.com) | $152K–$240K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7708884003) |
 | Cybersecurity System Engineering, Air & Naval   | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $100K–$145K/yr | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000128590247) |
+| Sr. Enterprise Sales Engineer - Bay Area | [Chainguard](https://chainguard.dev) | $250K–$275K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/chainguard/jobs/4684113006) |
+| Senior Indirect Tax Analyst | [Discord](https://discord.com) | $144K–$162K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/discord/jobs/8565373002) |
 | Director- Private Equity and Hedge Fund Accounting (CFO Services) | [IQ-EQ](https://iqeq.com) | $130K–$155K/yr | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000128584088) |
 | Director- Private Equity and Hedge Fund Accounting (CFO Services) | [IQ-EQ](https://iqeq.com) | $130K–$155K/yr | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000128583596) |
+| Senior Security Operations Engineer | [AssemblyAI](https://assemblyai.com) | $180K–$220K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/assemblyai/jobs/4699429005) |
+| Scientist I, Formulations | [Flagship Pioneering, Inc.](https://flagshippioneering.com) | $100K–$127K/yr | May 26 | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8563002002?gh_jid=8563002002) |
+| Manager, CRM Marketing | [Clear Gene](https://cleargene.com) | $110K–$140K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/clear/jobs/7958436) |
 | Senior HR Business Partner | [xAI](https://x.ai) | $160K–$198K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/xai/jobs/5146610007) |
 | Senior GL Accountant | [Amplitude](https://amplitude.com) | $121K–$181K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/amplitude/jobs/8565092002) |
 | Staff Software Engineer, Developer Productivity Async | [Gusto](https://gusto.com) | $189K–$210K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/gusto/jobs/7947658) |
@@ -25,7 +43,9 @@ Remote roles paying $100,000 or more per year. Salary data pulled directly from 
 | Senior Software Engineer, Data (AI) | [Juniper Square](https://junipersquare.com) | $185K–$225K/yr | May 26 | [Apply](https://jobs.ashbyhq.com/junipersquare/b48d4fe8-439d-4560-913f-d79236291d8e) |
 | Configuration Manager | [Slingshot Aerospace](https://slingshotaerospace.com) | $120K–$170K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/slingshotaerospace/jobs/6005934004?gh_jid=6005934004) |
 | AI Product Engineer, Evidence | [Drata](https://drata.com) | $145K–$196K/yr | May 26 | [Apply](https://jobs.ashbyhq.com/drata/fc8faeba-28e3-4d57-adca-8ca96e726d93) |
+| Senior AI Product Engineer 2, Audit | [Drata](https://drata.com) | $192K–$260K/yr | May 26 | [Apply](https://jobs.ashbyhq.com/drata/d3fd0f22-f933-4a3d-85a6-c37d70a3f7a9) |
 | Senior AI Product Engineer 2, Control Monitoring | [Drata](https://drata.com) | $192K–$260K/yr | May 26 | [Apply](https://jobs.ashbyhq.com/drata/175ec348-e46a-4f8b-9903-cf94a822f2f5) |
+| Senior AI Product Engineer 2, Control Remidiation | [Drata](https://drata.com) | $192K–$260K/yr | May 26 | [Apply](https://jobs.ashbyhq.com/drata/9d4b9089-763f-478d-ba1a-605732ab6e93) |
 | Senior AI Product Engineer 2, Evidence | [Drata](https://drata.com) | $192K–$260K/yr | May 26 | [Apply](https://jobs.ashbyhq.com/drata/c3f6a93b-59d4-4e5a-994c-539f8dc2d273) |
 | Sr. Broadcast/Projects Systems Engineer - NBC4 &T44 | [NBCUniversal](https://nbcuniversal.com) | $110K–$120K/yr | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000128525139) |
 | Senior Backend Engineer, Space Operations Intelligence & Autonomy (SOIA) | [Slingshot Aerospace](https://slingshotaerospace.com) | $150K–$200K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/slingshotaerospace/jobs/6005857004?gh_jid=6005857004) |

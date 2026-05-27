@@ -2,20 +2,27 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**201 open roles** — Last updated: 2026-05-27
+**208 open roles** — Last updated: 2026-05-27
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Director of Marketing, Business Banking | [Monzo](https://monzo.com) | £140K–£180K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7771697) |
+| Marketing Project Manager, Brand and Comms | [Genpak LLC](https://genpak-llc-2) | — | May 27 | [Apply](https://job-boards.eu.greenhouse.io/valtech/jobs/4874197101) |
+| Staff Content Strategist | [Gusto](https://gusto.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/gusto/jobs/7793745) |
+| Demand Generation Manager, Enterprise | [Cresta](https://cresta.com) | $120K–$165K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/cresta/jobs/5231787008) |
 | Brand Experience specialist | [SBT Global](https://sbtglobal.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/SBTGlobalInc/postings/3743990013309137) |
+| Director of B2B & Content Marketing | [Pair Team](https://pairteam.com) | $175K–$200K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/pairteam/jobs/8557414002) |
 | Field Marketing Manager - Nordics & Benelux | [Chainguard](https://chainguard.dev) | — | May 26 | [Apply](https://job-boards.greenhouse.io/chainguard/jobs/4681893006) |
+| Manager, CRM Marketing | [Clear Gene](https://cleargene.com) | $110K–$140K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/clear/jobs/7958436) |
 | Growth Marketing Manager, Web & CRO | [Cresta](https://cresta.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/cresta/jobs/5231220008) |
 | Off-Page SEO Specialist | [Firecrawl](https://firecrawl.com) | $140K–$180K/yr | May 26 | [Apply](https://jobs.ashbyhq.com/firecrawl/15565a5d-7e35-4f11-97cf-d93cee88f1df) |
 | In-House Technical Writer | [Firecrawl](https://firecrawl.com) | $160K–$200K/yr | May 26 | [Apply](https://jobs.ashbyhq.com/firecrawl/27a38804-9e98-49bb-8a43-b8dddea1ae15) |
 | Strategic Events Specialist  | [Chainguard](https://chainguard.dev) | — | May 26 | [Apply](https://job-boards.greenhouse.io/chainguard/jobs/4683314006) |
 | Senior Social Media Specialist - xstocks | [Kraken](https://kraken.com) | — | May 26 | [Apply](https://jobs.ashbyhq.com/kraken.com/328a2384-53a2-4e26-96b2-318350e4762a) |
 | Senior Social Media Specialist - xstocks | [Kraken](https://kraken.com) | — | May 26 | [Apply](https://jobs.ashbyhq.com/kraken.com/addb3815-8f55-4547-81c8-c2a1d4065900) |
+| Business Growth Analyst (Madrid based) | [Fever](https://feverup.com) | — | May 26 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4875589101) |
 | Regional Marketing Manager | [Dandy](https://meetdandy.com) | — | May 26 | [Apply](https://jobs.ashbyhq.com/dandy/defa4e4e-919d-45c5-81ea-143b5f2b0cc0) |
 | Regional Marketing Manager | [Dandy](https://meetdandy.com) | — | May 26 | [Apply](https://jobs.ashbyhq.com/dandy/7886d5b9-3547-4f4d-9f19-3def0430403c) |
 | Field Marketing Manager, Commercial / Germany | [Pure Storage](https://purestorage.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/7907776) |

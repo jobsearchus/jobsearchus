@@ -2,18 +2,36 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**791 open roles** — Last updated: 2026-05-27
+**819 open roles** — Last updated: 2026-05-27
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Automatisierungstechniker (m/w/d) Instandhaltung | [BeGo](https://bego.ai) | — | May 27 | [Apply](https://career.bego.com/o/automatisierungstechniker-mwd-instandhaltung/c/new) |
+| パートナーグローススペシャリスト/Partner Growth Specialist  | [Too Good To Go](https://toogoodtogo.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/toogoodtogo/jobs/7747867003) |
+| Quality Analyst  | [Referrals Only](https://thoughtworks.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7953568) |
+| Engineering Manager | [Razorpay Software Private Limited](https://razorpay.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4697514005) |
 | experto en tecnología Angular | [Inetum](https://inetum.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000128643090) |
 | experto en tecnología API RESTFul JEE | [Inetum](https://inetum.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000128642979) |
+| Director of Data Management | [New Era Technology](https://neweratech.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8538705002) |
+| Senior Engineering Manager - Wikimedia Enterprise  | [Wikimedia Foundation](https://wikimediafoundation.org) | — | May 27 | [Apply](https://job-boards.greenhouse.io/wikimedia/jobs/7946475) |
+| Chef de projet marketing, marque et communication | [Genpak LLC](https://genpak-llc-2) | — | May 27 | [Apply](https://job-boards.eu.greenhouse.io/valtech/jobs/4874199101) |
 | Material Quality Engineer - Railway (Contract/Freelance) | [Egis](https://egis-group.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000128629972) |
+| [CFS] HVAC 설계 엔지니어 (L6) | [Coupang](https://coupang.com) | — | May 27 | [Apply](https://boards.greenhouse.io/coupanginternal/jobs/7486108?gh_jid=7486108) |
+| Emerging Talent - Recruiting Program Manager | [Replit](https://replit.com) | — | May 27 | [Apply](https://jobs.ashbyhq.com/replit/eedcefbc-7ed6-41ea-9ba9-865ac23bcf8b) |
+| Software Development Manager, Payments | [Twitch](https://twitch.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8563240002) |
 | Especialista Windows | [Inetum](https://inetum.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000128606156) |
 | PV I Analista Sênior de Compliance I | [Experian](https://experianplc.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000128601209) |
+| Senior RF Engineer, Devices | [Gridware](https://gridware.io) | — | May 26 | [Apply](https://jobs.lever.co/gridware/47f23056-7568-438a-a098-44b7081bd1eb) |
+| Senior Software Engineer, Risk | [Replit](https://replit.com) | — | May 26 | [Apply](https://jobs.ashbyhq.com/replit/3a657901-8b8e-47cd-a122-e45881eef124) |
+| Senior Software Engineer, Trust & Safety | [Replit](https://replit.com) | — | May 26 | [Apply](https://jobs.ashbyhq.com/replit/75477d6d-82e2-413c-b355-ec9426e56555) |
+| Senior Software Engineer, Content Storage Gateway | [Box](https://box.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/boxinc/jobs/7926192) |
+| Software Architect – Manufacturing Test | [Cerebras Systems](https://cerebras.net) | $204K–$245K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/cerebrassystems/jobs/7749004003) |
 | Systems Engineer SME | [AnaVation](https://anavation.com) | — | May 26 | [Apply](https://jobs.lever.co/anavationllc/6160848c-41e3-404c-9438-a878424dfff6) |
+| Chief of Staff, Data | [Coursera](https://coursera.org) | $188K–$236K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/coursera/jobs/5999885004) |
+| Senior Business Systems Manager | [IonQ](https://ionq.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/ionq/jobs/6002000004) |
+| Optimization Engineer | [Intersect Labs](https://intersectlabs.io) | — | May 26 | [Apply](https://jobs.lever.co/intersect/40b4c47a-5854-40d7-9ba9-15d73c1609e7) |
 | Lead Systems Architect | [AnaVation](https://anavation.com) | — | May 26 | [Apply](https://jobs.lever.co/anavationllc/ac9dfa44-01a1-4d9f-b5c4-ec517ca5b562) |
 | Senior Software Engineer - Cloud Enablement (Python/Golang) | [Canva](https://canva.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001106733) |
 | Senior Software Engineer - Cloud Enablement (Python/Golang) | [Canva](https://canva.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001106728) |
@@ -21,11 +39,18 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Production Engineering Manager (SMT/ PCBA) | [Relativity Space](https://relativityspace.com) | — | May 26 | [Apply](https://boards.greenhouse.io/relativity/jobs/8561519002?gh_jid=8561519002) |
 | Avionics Production Specialist (SMT) | [Relativity Space](https://relativityspace.com) | — | May 26 | [Apply](https://boards.greenhouse.io/relativity/jobs/8561482002?gh_jid=8561482002) |
 | Server Administrator (Manager / Sr. Manager) | [SBT Global](https://sbtglobal.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/SBTGlobalInc/postings/3743990013307175) |
+| Test Instrumentation Engineer | [Archer](https://archer.com) | $96K–$120K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7708880003) |
+| Instrumentation Telemetry and Radio Technician/Engineer | [Archer](https://archer.com) | $152K–$240K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7708884003) |
+| Senior Solutions Engineer, Public Sector | [Box](https://box.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/boxinc/jobs/7958705) |
+| Head of High Voltage Operations & Maintenance | [Intersect Labs](https://intersectlabs.io) | — | May 26 | [Apply](https://jobs.lever.co/intersect/2c621c8c-4a3f-4ca7-8743-63fb7e475b9b) |
 | Electrical Technician - Project-Based | [Continental](https://continentalserves.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000128584959) |
 | Maintenance Technician - 1st Shift | [Continental](https://continentalserves.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000128584005) |
 | MHV Foundry Tooling Engineer | [McWane](https://mcwane.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/McWaneInc/postings/3743990013304576) |
 | Market Intelligence (Business Intelligence) Specialist  | [Continental](https://continentalserves.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000128579654) |
+| Scientist I, Formulations | [Flagship Pioneering, Inc.](https://flagshippioneering.com) | $100K–$127K/yr | May 26 | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8563002002?gh_jid=8563002002) |
 | Regulatory Scientist | [Syngenta](https://syngenta.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000128573949) |
+| Program Manager, Vendor Operations | [Reddit](https://reddit.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/7396638) |
+| Analytics Engineer | [Reddit](https://reddit.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/7958354) |
 | HSE Coordinator Brasil | [Syngenta](https://syngenta.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000128565660) |
 | IT Support Specialist - The Wickaninnish Inn | [Relais & Châteaux](https://relaischateaux.com) | $24/yr | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000128565177) |
 | Research Technician Lead | [Syngenta](https://syngenta.com) | $49K–$61K/yr | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000128561879) |
@@ -43,12 +68,15 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | QE Automation Data | [Inetum](https://inetum.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000128540380) |
 | Software Developer .NET (Web Applications) | [Inetum](https://inetum.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000128533801) |
 | AI Product Engineer, Evidence | [Drata](https://drata.com) | $145K–$196K/yr | May 26 | [Apply](https://jobs.ashbyhq.com/drata/fc8faeba-28e3-4d57-adca-8ca96e726d93) |
+| Senior AI Product Engineer 2, Audit | [Drata](https://drata.com) | $192K–$260K/yr | May 26 | [Apply](https://jobs.ashbyhq.com/drata/d3fd0f22-f933-4a3d-85a6-c37d70a3f7a9) |
 | Senior AI Product Engineer 2, Control Monitoring | [Drata](https://drata.com) | $192K–$260K/yr | May 26 | [Apply](https://jobs.ashbyhq.com/drata/175ec348-e46a-4f8b-9903-cf94a822f2f5) |
+| Senior AI Product Engineer 2, Control Remidiation | [Drata](https://drata.com) | $192K–$260K/yr | May 26 | [Apply](https://jobs.ashbyhq.com/drata/9d4b9089-763f-478d-ba1a-605732ab6e93) |
 | Senior AI Product Engineer 2, Evidence | [Drata](https://drata.com) | $192K–$260K/yr | May 26 | [Apply](https://jobs.ashbyhq.com/drata/c3f6a93b-59d4-4e5a-994c-539f8dc2d273) |
 | Sr. Broadcast/Projects Systems Engineer - NBC4 &T44 | [NBCUniversal](https://nbcuniversal.com) | $110K–$120K/yr | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000128525139) |
 | Head of Flight | [Skyways](https://skyways.com) | — | May 26 | [Apply](https://jobs.lever.co/skyways/83816c80-4ddd-4508-a455-87e7a7ffafb3) |
 | Data Support Team Lead | [BrainRocket](https://brainrocket.com) | — | May 26 | [Apply](https://job-boards.eu.greenhouse.io/brainrocketltd/jobs/4875525101) |
 | Senior Solutions Engineer, Named Accounts - Cincinnati, OH | [Cloudflare](https://cloudflare.com) | — | May 26 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7954702?gh_jid=7954702) |
+| Technical Operations Specialist | [Varicent](https://varicent.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/varicent/jobs/5230786008) |
 | Senior Flight Operator | [Skyways](https://skyways.com) | — | May 26 | [Apply](https://jobs.lever.co/skyways/15380355-5bcd-4467-9286-85f0a38d3c11) |
 | UAS Field Operations Engineer | [Skyways](https://skyways.com) | — | May 26 | [Apply](https://jobs.lever.co/skyways/3e8db216-ad77-4355-96d1-1eb4d767cf10) |
 | Credit Forecasting Manager I | [Best Egg](https://bestegg.com) | — | May 26 | [Apply](https://jobs.lever.co/BestEgg/95f9d3db-9bf3-42e9-9075-8167d8ae32fc) |

@@ -2,24 +2,34 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**549 open roles** — Last updated: 2026-05-27
+**559 open roles** — Last updated: 2026-05-27
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior IPAM Engineer | [New Era Technology](https://neweratech.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8554788002) |
+| Early Years Educator (Unqualified) - Christchurch | [Fennies Day Nurseries](https://fennies.com) | — | May 27 | [Apply](https://job-boards.eu.greenhouse.io/fenniesdaynurseries/jobs/4876357101) |
+| Middleware Engineer | [Applied Intuition](https://applied.co) | — | May 27 | [Apply](https://boards.greenhouse.io/appliedintuition/jobs/4698379005?gh_jid=4698379005) |
 | Private Assosiate Dentist  | [PortmanDentex](https://portmandentex.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000128653129) |
 | Private Assosiate Dentist  | [PortmanDentex](https://portmandentex.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000128649980) |
 | Reservation Executive | [ACCOR](https://group.accor.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128644049) |
 | Bar Attendant | [ACCOR](https://group.accor.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128639881) |
 | Mining Supervisor: Drilling & Mine Services | [Anglo American](https://angloamerican.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000128639909) |
+| Student Success Advisor (Certification and Career Readiness) | [Aviation Institute of Maintenance](https://aviationmaintenance.edu) | $32/yr | May 27 | [Apply](https://job-boards.greenhouse.io/aviationinstituteofmaintenance/jobs/5231984008) |
+| Program Coordinator for Aviation Education | [Aviation Institute of Maintenance](https://aviationmaintenance.edu) | $80K–$85K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/aviationinstituteofmaintenance/jobs/5231976008) |
+| Lead Mechanic for Aviation Education | [Aviation Institute of Maintenance](https://aviationmaintenance.edu) | $80K–$85K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/aviationinstituteofmaintenance/jobs/5231979008) |
 | Deli Shift Leader I | [Pilot Flying J](https://pilotflyingj.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/PilotCompany/postings/744000128595059) |
+| Director of Nursing, RN | [Silverado](https://silverado.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/silverado/jobs/5147058007) |
+| Shipping and Receiving Clerk | [Fletcher Jones Automotive Group](https://fletcherjonesautomotivegroup.com) | — | May 26 | [Apply](https://boards.greenhouse.io/fletcherjonesautomotivegroup/jobs/5147079007?gh_jid=5147079007) |
 | Full Time Gardener | [Relais & Châteaux](https://relaischateaux.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000128589182) |
 | Interim Visual Merchandiser   | [Primark Tiendas SLU](https://primark.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000128585152) |
 | Area Specialist Almacenes Externos | [JYSK](https://jysk.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000128579261) |
 | Temporary - Room Attendant (Morris Inn) | [University of Notre Dame](https://universityofnotredame.com) | $18/yr | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013304177) |
+| Co-Responder RTD | [WellPower - All External Jobs](https://wellpower.org) | $31/yr | May 26 | [Apply](https://job-boards.greenhouse.io/mentalhealthcenterofdenver/jobs/7739986003) |
 | Part-Time Cook 3 - Hospitality | [University of Notre Dame](https://universityofnotredame.com) | $20/yr | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013303756) |
 | Temporary - Cook (Hospitality Department) | [University of Notre Dame](https://universityofnotredame.com) | $20/yr | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013303419) |
+| Pricing Associate - Contractor | [Garner Health](https://getgarner.com) | $40/yr | May 26 | [Apply](https://job-boards.greenhouse.io/garnerhealth/jobs/6006151004) |
 | Analista de Treinamento Pl (Gerenciador de Sharepoint) | [MSX International](https://msxi.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013302196) |
 | Area Head of Bars & Beverage - New York | [Soho House](https://sohohouse.com) | — | May 26 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4872288101) |
 | ESTAGIÁRIO QUALIDADE | [O-I Glass](https://o-i.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/O-I/postings/744000128555223) |

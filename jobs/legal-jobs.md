@@ -2,12 +2,13 @@
 
 Remote legal, compliance, and counsel roles.
 
-**59 open roles** — Last updated: 2026-05-27
+**60 open roles** — Last updated: 2026-05-27
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Product & Privacy Counsel | [Teleport](https://goteleport.com) | — | May 27 | [Apply](https://jobs.ashbyhq.com/goteleport/fc87af71-8464-4e05-ae4d-668e029818d2) |
 | Lawyer/Fintech Lawyer | [GR8 Tech](https://gr8.com) | — | May 26 | [Apply](https://job-boards.eu.greenhouse.io/gr8tech/jobs/4874637101) |
 | PV - Advogado Júnior  | [Experian](https://experianplc.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000128252039) |
 | Commercial Paralegal - Contracts Manager | [Sigma Computing](https://sigmacomputing.com) | $180K–$205K/yr | May 25 | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/7747616003) |

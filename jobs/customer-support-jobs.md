@@ -2,7 +2,7 @@
 
 Remote customer support and success roles across SaaS, e-commerce, and tech.
 
-**162 open roles** — Last updated: 2026-05-27
+**164 open roles** — Last updated: 2026-05-27
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -10,7 +10,9 @@ Remote customer support and success roles across SaaS, e-commerce, and tech.
 | --- | --- | --- | --- | --- |
 | Chat Support Specialist with English and Bulgarian language | [Genpak LLC](https://genpak-llc-2) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000128647419) |
 | Chat Support Specialist with English and Bulgarian language | [Genpak LLC](https://genpak-llc-2) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000128646436) |
+| Technical Support Specialist II - Core Apps (Remote Eligible - Costa Rica) | [Smartsheet](https://smartsheet.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/smartsheet/jobs/7944523) |
 | Retail Customer Service Associate | [Genpak LLC](https://genpak-llc-2) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000128600668) |
+| Customer Success Enablement Manager | [Canary Technologies](https://canarytechnologies.com) | — | May 26 | [Apply](https://jobs.lever.co/canarytechnologies/fca344b5-ed5e-4e01-b4cb-6cf1a2401dbd) |
 | Customer Success Specialist- Restaurants | [Wolt](https://wolt.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7958240) |
 | Lifecycle Specialist, Digital Success & Expansion | [Apollo.io](https://apollo.io) | — | May 26 | [Apply](https://job-boards.greenhouse.io/apolloio/jobs/6000326004) |
 | Technical Support Engineer I | [Sectigo](https://sectigo.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Sectigo/postings/3743990013296456) |

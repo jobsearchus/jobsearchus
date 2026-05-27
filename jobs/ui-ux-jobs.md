@@ -2,12 +2,16 @@
 
 UX design, UI design, and product design roles. Figma, research, and end-to-end product work.
 
-**77 open roles** — Last updated: 2026-05-27
+**81 open roles** — Last updated: 2026-05-27
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Product Designer | [Holywater](https://holywater.com) | — | May 27 | [Apply](https://jobs.ashbyhq.com/holywater/f68821a6-0b25-4795-8b7e-d732ea82fad2) |
+| Zahntechniker (m/w/d) Design Service | [BeGo](https://bego.ai) | — | May 27 | [Apply](https://career.bego.com/o/zahntechniker-mwd-design-service-4/c/new) |
+| Product Designer II | [Garner Health](https://getgarner.com) | $143K–$160K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/garnerhealth/jobs/6006458004) |
+| Director of Design Technology | [The Trade Desk](https://thetradedesk.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5147050007) |
 | AI Conversation Designer | [Checkr](https://checkr.com) | $25K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/checkr/jobs/7958414) |
 | UX Architect | [CapTech](https://captech.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/CapTechConsulting/postings/744000128524209) |
 | UX Architect | [CapTech](https://captech.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/CapTechConsulting/postings/744000128517601) |

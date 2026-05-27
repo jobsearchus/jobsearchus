@@ -2,7 +2,7 @@
 
 Remote cybersecurity, information security, and security engineering roles.
 
-**67 open roles** — Last updated: 2026-05-27
+**68 open roles** — Last updated: 2026-05-27
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -11,6 +11,7 @@ Remote cybersecurity, information security, and security engineering roles.
 | Senior Security Engineer, GRC Automation | [1Password](https://1password.com) | — | May 26 | [Apply](https://jobs.ashbyhq.com/1password/739b8cc9-6c96-4afb-825e-1bf5aa5e1f00) |
 | Physical Security Specialist - Sydney Campus | [Canva](https://canva.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001107308) |
 | Cybersecurity System Engineering, Air & Naval   | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $100K–$145K/yr | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000128590247) |
+| Senior Security Operations Engineer | [AssemblyAI](https://assemblyai.com) | $180K–$220K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/assemblyai/jobs/4699429005) |
 | Engineering Manager, Anti-Abuse & Security | [Replit](https://replit.com) | — | May 26 | [Apply](https://jobs.ashbyhq.com/replit/ccab8626-7245-4ed9-9c99-b77df70b2dc8) |
 | Senior Security Engineer | [IonQ](https://ionq.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/ionq/jobs/6002009004) |
 | Client Platforms Security Engineer | [DRW](https://drw.com) | $150K–$200K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7957926) |
