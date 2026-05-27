@@ -2,16 +2,18 @@
 
 Remote operations and business operations roles across industries.
 
-**507 open roles** — Last updated: 2026-05-27
+**510 open roles** — Last updated: 2026-05-27
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Solutions Superintendent | [Anglo American](https://angloamerican.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000128643595) |
 | Senior Government Contracts Professional | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $90K–$115K/yr | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000128589879) |
 | Transport Specialist | [JYSK](https://jysk.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000128581610) |
 | Sanitation Specialist | [Tovala](https://tovala.com) | — | May 26 | [Apply](https://jobs.lever.co/tovala/7d18343e-39e2-4fd5-b429-e8a720f32b55) |
 | Property Maintenance - Student | [Manitoulin Global Forwarding](https://manitoulingroup.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000128561839) |
+| Survey Project Manager | [KPFF Consulting Engineers](https://kpff.com) | $135K–$160K/yr | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/KPFFConsultingEngineers/postings/3743990013299015) |
 | Project Controls Lead  | [Fluidstack](https://fluidstack.com) | $200K–$300K/yr | May 26 | [Apply](https://jobs.ashbyhq.com/fluidstack/a8aed766-d326-41e9-9fd0-8005ef92aca1) |
 | PREPARATEUR DRIVE 30H (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000128551300) |
 | Configuration Manager | [Slingshot Aerospace](https://slingshotaerospace.com) | $120K–$170K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/slingshotaerospace/jobs/6005934004?gh_jid=6005934004) |
@@ -25,6 +27,7 @@ Remote operations and business operations roles across industries.
 |  Senior Building Operator (Overnight Shift) | [Clutch](https://clutch.io) | — | May 26 | [Apply](https://job-boards.greenhouse.io/clutch/jobs/6005852004) |
 | Assistant Manager (sostituzione maternita') - Limbiate Milano C.C. "Carrefour" | [JD Sports](https://jdsports.com) | — | May 26 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4875447101) |
 |  Assistant Category Manager Fashion & Living and Food, Beauty & Care - France & Benelux - Juillet 2026 | [NBCUniversal](https://nbcuniversal.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000128497126) |
+| Kfz-Lackierer & Karosseriespengler (m/w/d) | [AUTO1 Group](https://auto1-group.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000128500736) |
 | Jefe Mantención Mina Dewatering LB | [Anglo American](https://angloamerican.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000128500160) |
 | OPC Essais et Systèmes | [Egis](https://egis-group.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000128491659) |
 | Mechanical O&M Technician  | [Genpak LLC](https://genpak-llc-2) | — | May 26 | [Apply](https://job-boards.eu.greenhouse.io/lotusworks/jobs/4871245101) |

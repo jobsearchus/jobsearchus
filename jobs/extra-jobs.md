@@ -2,12 +2,17 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**543 open roles** — Last updated: 2026-05-27
+**549 open roles** — Last updated: 2026-05-27
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Private Assosiate Dentist  | [PortmanDentex](https://portmandentex.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000128653129) |
+| Private Assosiate Dentist  | [PortmanDentex](https://portmandentex.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000128649980) |
+| Reservation Executive | [ACCOR](https://group.accor.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128644049) |
+| Bar Attendant | [ACCOR](https://group.accor.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128639881) |
+| Mining Supervisor: Drilling & Mine Services | [Anglo American](https://angloamerican.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000128639909) |
 | Deli Shift Leader I | [Pilot Flying J](https://pilotflyingj.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/PilotCompany/postings/744000128595059) |
 | Full Time Gardener | [Relais & Châteaux](https://relaischateaux.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000128589182) |
 | Interim Visual Merchandiser   | [Primark Tiendas SLU](https://primark.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000128585152) |
@@ -24,6 +29,7 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Veterinary Technicians - Specialty, ER & Critical Care | [Veritas Veterinary Partners](https://veritasveterinarypartners.com) | $45/yr | May 26 | [Apply](https://job-boards.greenhouse.io/veritasvetpartners/jobs/5230951008) |
 | Registered Veterinary Technicians - Specialty, ER & Critical Care | [Veritas Veterinary Partners](https://veritasveterinarypartners.com) | $29/yr | May 26 | [Apply](https://job-boards.greenhouse.io/veritasvetpartners/jobs/5229077008) |
 |  Registered Veterinary Technicians - Specialty, ER & Critical Care | [Veritas Veterinary Partners](https://veritasveterinarypartners.com) | $32/yr | May 26 | [Apply](https://job-boards.greenhouse.io/veritasvetpartners/jobs/5230990008) |
+| Real Estate Expansion Manager (d/m/w) | [AUTO1 Group](https://auto1-group.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000128543789) |
 | Barman | [Genpak LLC](https://genpak-llc-2) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000128538079) |
 | Kennedy Valve-Finishing Front Line Supervisor | [McWane](https://mcwane.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/McWaneInc/postings/3743990013296316) |
 | Certified Personal Trainer - Soho House Nashville | [Soho House](https://sohohouse.com) | — | May 26 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4874161101) |

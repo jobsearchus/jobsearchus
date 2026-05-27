@@ -2,12 +2,13 @@
 
 General developer and programmer roles that did not fit a more specific category.
 
-**61 open roles** — Last updated: 2026-05-27
+**62 open roles** — Last updated: 2026-05-27
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| BIM Content Developer- Revit | [Egis](https://egis-group.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000128572449) |
 | Senior Java IVR Developer | [Miratech](https://miratech.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000128418535) |
 |  Low Latency Market Data Developer - C++ | [Qube Research & Technologies](https://quberesearch.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8544834002) |
 | Laserfiche Developer | [Distro](https://distro.app) | — | May 25 | [Apply](https://jobs.lever.co/distro/48a14e8c-7851-4c47-bb08-b6551dd3b269) |

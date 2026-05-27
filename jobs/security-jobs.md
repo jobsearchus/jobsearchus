@@ -2,12 +2,13 @@
 
 Remote cybersecurity, information security, and security engineering roles.
 
-**66 open roles** — Last updated: 2026-05-27
+**67 open roles** — Last updated: 2026-05-27
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Security Engineer, GRC Automation | [1Password](https://1password.com) | — | May 26 | [Apply](https://jobs.ashbyhq.com/1password/739b8cc9-6c96-4afb-825e-1bf5aa5e1f00) |
 | Physical Security Specialist - Sydney Campus | [Canva](https://canva.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001107308) |
 | Cybersecurity System Engineering, Air & Naval   | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $100K–$145K/yr | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000128590247) |
 | Engineering Manager, Anti-Abuse & Security | [Replit](https://replit.com) | — | May 26 | [Apply](https://jobs.ashbyhq.com/replit/ccab8626-7245-4ed9-9c99-b77df70b2dc8) |

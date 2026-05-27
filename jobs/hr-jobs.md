@@ -2,12 +2,13 @@
 
 Remote HR, recruiting, and people operations roles.
 
-**86 open roles** — Last updated: 2026-05-27
+**87 open roles** — Last updated: 2026-05-27
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| People & TA Partner | [Egis](https://egis-group.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000128632765) |
 | Analista de Talent Acquisition - Future Opportunities | [Experian](https://experianplc.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000128602029) |
 | HR Recruiter | [JYSK](https://jysk.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000128581549) |
 | Senior HR Business Partner | [xAI](https://x.ai) | $160K–$198K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/xai/jobs/5146610007) |

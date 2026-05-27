@@ -2,18 +2,22 @@
 
 Remote customer support and success roles across SaaS, e-commerce, and tech.
 
-**158 open roles** — Last updated: 2026-05-27
+**162 open roles** — Last updated: 2026-05-27
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Chat Support Specialist with English and Bulgarian language | [Genpak LLC](https://genpak-llc-2) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000128647419) |
+| Chat Support Specialist with English and Bulgarian language | [Genpak LLC](https://genpak-llc-2) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000128646436) |
+| Retail Customer Service Associate | [Genpak LLC](https://genpak-llc-2) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000128600668) |
 | Customer Success Specialist- Restaurants | [Wolt](https://wolt.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7958240) |
 | Lifecycle Specialist, Digital Success & Expansion | [Apollo.io](https://apollo.io) | — | May 26 | [Apply](https://job-boards.greenhouse.io/apolloio/jobs/6000326004) |
 | Technical Support Engineer I | [Sectigo](https://sectigo.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Sectigo/postings/3743990013296456) |
 | QA Analyst | [Monzo](https://monzo.com) | €41K–€50K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7957585) |
 | Kundenservice Mitarbeiter im Online Check- Out (d/m/w) | [AUTO1 Group](https://auto1-group.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000128509600) |
 | Certificate Support Associate | [Sectigo](https://sectigo.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Sectigo/postings/3743990013293346) |
+| EXPERT SERVICE CLIENT - CDI TEMPS PARTIEL H/F  | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000128507160) |
 | Director, Customer Service (TW Planning and Development) | [Coupang](https://coupang.com) | — | May 26 | [Apply](https://boards.greenhouse.io/coupanginternal/jobs/7956182?gh_jid=7956182) |
 | Assistant Clientèle / Caissier (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000128204594) |
 | Director, Customer Service [L7-1] (Contact Center Operations) | [Coupang](https://coupang.com) | — | May 25 | [Apply](https://boards.greenhouse.io/coupanginternal/jobs/7955951?gh_jid=7955951) |

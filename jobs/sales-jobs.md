@@ -2,18 +2,22 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**466 open roles** — Last updated: 2026-05-27
+**470 open roles** — Last updated: 2026-05-27
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Account Manager (Retail) - Romania (They/She/He) | [Delivery Hero](https://deliveryhero.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000128655519) |
+| Senior Account Manager - Bucharest (They/She/He) | [Delivery Hero](https://deliveryhero.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000128655249) |
 | MODELE BRICOMARCHE - CONSEILLER DE VENTE - VENDEUR (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000128584690) |
 | SDR - Base44 | [Wix.com](https://wix.com) | $65K–$75K/yr | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Wix2/postings/744000128574599) |
 | Client Solutions Manager - X | [Aleph Lab](https://alephlab.ai) | — | May 26 | [Apply](https://jobs.lever.co/aleph/07cad096-d7ab-4cc9-97fb-1b881418d907) |
 | McWane Ductile Ohio - Poles Inside Sales Reprentative | [McWane](https://mcwane.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/McWaneInc/postings/3743990013300276) |
+| Senior Account Executive - Federal System Integrators | [Endgame Systems](https://endgamesystems.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/endgamesystemsllc/jobs/5226516008) |
 | Implementation Specialist | [Karbon](https://karbon.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/karbon/jobs/6006035004) |
 | Senior Capture Success Manager  | [HavocAI](https://havocai.com) | — | May 26 | [Apply](https://jobs.ashbyhq.com/havocai/b051be52-24f3-44d5-9b92-70f2f3a72467) |
+| Kundenberater Fahrzeugbewertung (d/m/w) - 750€ Startbonus | [AUTO1 Group](https://auto1-group.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000128545209) |
 | Renewal Specialist (MM/ENT) (Position located in Singapore)   | [KnowBe4](https://knowbe4.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8564718002) |
 | Implementation Specialist | [Karbon](https://karbon.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/karbon/jobs/6005928004) |
 | SI Partner Manager - UK | [Freshworks](https://freshworks.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000128527175) |

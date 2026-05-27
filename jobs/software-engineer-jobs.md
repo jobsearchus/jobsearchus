@@ -2,13 +2,19 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**782 open roles** — Last updated: 2026-05-27
+**791 open roles** — Last updated: 2026-05-27
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| experto en tecnología Angular | [Inetum](https://inetum.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000128643090) |
+| experto en tecnología API RESTFul JEE | [Inetum](https://inetum.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000128642979) |
+| Material Quality Engineer - Railway (Contract/Freelance) | [Egis](https://egis-group.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000128629972) |
+| Especialista Windows | [Inetum](https://inetum.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000128606156) |
 | PV I Analista Sênior de Compliance I | [Experian](https://experianplc.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000128601209) |
+| Systems Engineer SME | [AnaVation](https://anavation.com) | — | May 26 | [Apply](https://jobs.lever.co/anavationllc/6160848c-41e3-404c-9438-a878424dfff6) |
+| Lead Systems Architect | [AnaVation](https://anavation.com) | — | May 26 | [Apply](https://jobs.lever.co/anavationllc/ac9dfa44-01a1-4d9f-b5c4-ec517ca5b562) |
 | Senior Software Engineer - Cloud Enablement (Python/Golang) | [Canva](https://canva.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001106733) |
 | Senior Software Engineer - Cloud Enablement (Python/Golang) | [Canva](https://canva.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001106728) |
 | Manager, Environmental Test | [Relativity Space](https://relativityspace.com) | — | May 26 | [Apply](https://boards.greenhouse.io/relativity/jobs/8564927002?gh_jid=8564927002) |
@@ -39,6 +45,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | AI Product Engineer, Evidence | [Drata](https://drata.com) | $145K–$196K/yr | May 26 | [Apply](https://jobs.ashbyhq.com/drata/fc8faeba-28e3-4d57-adca-8ca96e726d93) |
 | Senior AI Product Engineer 2, Control Monitoring | [Drata](https://drata.com) | $192K–$260K/yr | May 26 | [Apply](https://jobs.ashbyhq.com/drata/175ec348-e46a-4f8b-9903-cf94a822f2f5) |
 | Senior AI Product Engineer 2, Evidence | [Drata](https://drata.com) | $192K–$260K/yr | May 26 | [Apply](https://jobs.ashbyhq.com/drata/c3f6a93b-59d4-4e5a-994c-539f8dc2d273) |
+| Sr. Broadcast/Projects Systems Engineer - NBC4 &T44 | [NBCUniversal](https://nbcuniversal.com) | $110K–$120K/yr | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000128525139) |
 | Head of Flight | [Skyways](https://skyways.com) | — | May 26 | [Apply](https://jobs.lever.co/skyways/83816c80-4ddd-4508-a455-87e7a7ffafb3) |
 | Data Support Team Lead | [BrainRocket](https://brainrocket.com) | — | May 26 | [Apply](https://job-boards.eu.greenhouse.io/brainrocketltd/jobs/4875525101) |
 | Senior Solutions Engineer, Named Accounts - Cincinnati, OH | [Cloudflare](https://cloudflare.com) | — | May 26 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7954702?gh_jid=7954702) |
@@ -48,6 +55,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Support Engineer | [SingleStore](https://singlestore.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/singlestore/jobs/7956718) |
 | Expert Level Data Engineer (AI concepts) | [Nagarro](https://nagarro.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000128477864) |
 | Engineering Team Lead - Storefront | [Wolt](https://wolt.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7957346) |
+| Projektleiter (w/m/d) Hafen- und Wasserbau | [Drees & Sommer](https://dreso.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000128453679) |
 | 2026 Internship - Software Engineer | [Qube Research & Technologies](https://quberesearch.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8562105002) |
 | Research Scientist | [Canva](https://canva.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001106516) |
 | Software Engineer | [SingleStore](https://singlestore.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/singlestore/jobs/7912783) |
@@ -67,6 +75,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Technical Operations Manager  | [Customer.io](https://customer.io) | $117K–$120K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/customerio/jobs/7956906) |
 | Cloud GTM Practice Lead | [Suger](https://suger.io) | — | May 26 | [Apply](https://jobs.lever.co/suger/43aed476-1ce1-41f0-9b35-7f98e5057c10) |
 | Partnerships / Cloud Alliance Lead | [Suger](https://suger.io) | — | May 26 | [Apply](https://jobs.lever.co/suger/10bfe850-af99-42e6-832f-c426af692cfb) |
+|  Microsoft Exchange Server Hands-on Support Engineer / Team Lead (On Prem) | [NCS](https://ncs.co) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001103729) |
 | Senior Software Development Engineer | [Razorpay Software Private Limited](https://razorpay.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4694070005) |
 | Electrical Intern (Fall 26) | [Spaceium Inc](https://spaceium.com) | — | May 25 | [Apply](https://job-boards.greenhouse.io/spaceium/jobs/4258525009) |
 | UX Researcher | [Skydropx](https://skydropx.com) | — | May 25 | [Apply](https://jobs.ashbyhq.com/skydropx/c5757b6d-8e40-40d5-965c-6c58a6be91b7) |

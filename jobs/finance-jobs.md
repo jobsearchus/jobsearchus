@@ -2,19 +2,27 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**230 open roles** — Last updated: 2026-05-27
+**238 open roles** — Last updated: 2026-05-27
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Comptable H/F | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000128644164) |
+| Financial Controller | [ACCOR](https://group.accor.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128638510) |
+| Commercial Manager | [Anglo American](https://angloamerican.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000128637829) |
 | IT Financial Analyst | [Genpak LLC](https://genpak-llc-2) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/APMGroup/postings/6000000001107384) |
+| Director- Private Equity and Hedge Fund Accounting (CFO Services) | [IQ-EQ](https://iqeq.com) | $130K–$155K/yr | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000128584088) |
+| Director- Private Equity and Hedge Fund Accounting (CFO Services) | [IQ-EQ](https://iqeq.com) | $130K–$155K/yr | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000128583596) |
 | CAPEX Intern | [O-I Glass](https://o-i.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/O-I/postings/744000128575581) |
 | Senior GL Accountant | [Amplitude](https://amplitude.com) | $121K–$181K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/amplitude/jobs/8565092002) |
 | Direct Tax Manager | [Axon](https://axon.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/axon/jobs/7748547003) |
 | Direct Tax Manager | [Axon](https://axon.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/axon/jobs/7748543003) |
 | Direct Tax Manager | [Axon](https://axon.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/axon/jobs/7748542003) |
+| Branch Team Leader | [Standard Bank](https://standardbank.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000128537706) |
 | Middle Office & Accounting Analyst | [Man Group](https://man.com) | — | May 26 | [Apply](https://job-boards.eu.greenhouse.io/mangroup/jobs/4875308101) |
+| Universal Banking Team Leader Local Market Initiatives | [Standard Bank](https://standardbank.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000128534988) |
+| Sr. Financial Analyst - NBC Sports | [NBCUniversal](https://nbcuniversal.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000128526489) |
 | Business Analyst / AMOA - secteur bancaire | [Inetum](https://inetum.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000128514546) |
 | Senior Credit Strategy Analyst - Affiliates and Lead Gen UW | [Best Egg](https://bestegg.com) | — | May 26 | [Apply](https://jobs.lever.co/BestEgg/f1255a90-ec99-424e-be69-cd5e5e154712) |
 | Senior Manager - Conformité  | [IQ-EQ](https://iqeq.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000128499945) |

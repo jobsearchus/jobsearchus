@@ -2,16 +2,19 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**341 open roles** — Last updated: 2026-05-27
+**345 open roles** — Last updated: 2026-05-27
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | Cybersecurity System Engineering, Air & Naval   | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $100K–$145K/yr | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000128590247) |
+| Director- Private Equity and Hedge Fund Accounting (CFO Services) | [IQ-EQ](https://iqeq.com) | $130K–$155K/yr | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000128584088) |
+| Director- Private Equity and Hedge Fund Accounting (CFO Services) | [IQ-EQ](https://iqeq.com) | $130K–$155K/yr | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000128583596) |
 | Senior HR Business Partner | [xAI](https://x.ai) | $160K–$198K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/xai/jobs/5146610007) |
 | Senior GL Accountant | [Amplitude](https://amplitude.com) | $121K–$181K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/amplitude/jobs/8565092002) |
 | Staff Software Engineer, Developer Productivity Async | [Gusto](https://gusto.com) | $189K–$210K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/gusto/jobs/7947658) |
+| Survey Project Manager | [KPFF Consulting Engineers](https://kpff.com) | $135K–$160K/yr | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/KPFFConsultingEngineers/postings/3743990013299015) |
 | Client Platforms Security Engineer | [DRW](https://drw.com) | $150K–$200K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7957926) |
 | Project Controls Lead  | [Fluidstack](https://fluidstack.com) | $200K–$300K/yr | May 26 | [Apply](https://jobs.ashbyhq.com/fluidstack/a8aed766-d326-41e9-9fd0-8005ef92aca1) |
 | Off-Page SEO Specialist | [Firecrawl](https://firecrawl.com) | $140K–$180K/yr | May 26 | [Apply](https://jobs.ashbyhq.com/firecrawl/15565a5d-7e35-4f11-97cf-d93cee88f1df) |
@@ -24,6 +27,7 @@ Remote roles paying $100,000 or more per year. Salary data pulled directly from 
 | AI Product Engineer, Evidence | [Drata](https://drata.com) | $145K–$196K/yr | May 26 | [Apply](https://jobs.ashbyhq.com/drata/fc8faeba-28e3-4d57-adca-8ca96e726d93) |
 | Senior AI Product Engineer 2, Control Monitoring | [Drata](https://drata.com) | $192K–$260K/yr | May 26 | [Apply](https://jobs.ashbyhq.com/drata/175ec348-e46a-4f8b-9903-cf94a822f2f5) |
 | Senior AI Product Engineer 2, Evidence | [Drata](https://drata.com) | $192K–$260K/yr | May 26 | [Apply](https://jobs.ashbyhq.com/drata/c3f6a93b-59d4-4e5a-994c-539f8dc2d273) |
+| Sr. Broadcast/Projects Systems Engineer - NBC4 &T44 | [NBCUniversal](https://nbcuniversal.com) | $110K–$120K/yr | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000128525139) |
 | Senior Backend Engineer, Space Operations Intelligence & Autonomy (SOIA) | [Slingshot Aerospace](https://slingshotaerospace.com) | $150K–$200K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/slingshotaerospace/jobs/6005857004?gh_jid=6005857004) |
 | Information Security Engineer, Bare Metal | [Fluidstack](https://fluidstack.com) | $230K–$310K/yr | May 26 | [Apply](https://jobs.ashbyhq.com/fluidstack/a703f8f6-469e-493c-8f3c-e7de5746a6e3) |
 | SVP, Americas | [Ping Identity](https://pingidentity.com) | $275K–$290K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/pingidentity/jobs/8561083002) |

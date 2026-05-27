@@ -2,12 +2,15 @@
 
 Remote jobs open to candidates with 0–2 years of experience. A real way in — no degree gatekeeping.
 
-**543 open roles** — Last updated: 2026-05-27
+**547 open roles** — Last updated: 2026-05-27
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Chat Support Specialist with English and Bulgarian language | [Genpak LLC](https://genpak-llc-2) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000128647419) |
+| Chat Support Specialist with English and Bulgarian language | [Genpak LLC](https://genpak-llc-2) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000128646436) |
+| Retail Customer Service Associate | [Genpak LLC](https://genpak-llc-2) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000128600668) |
 | MODELE BRICOMARCHE - CONSEILLER DE VENTE - VENDEUR (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000128584690) |
 | Electrical Technician - Project-Based | [Continental](https://continentalserves.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000128584959) |
 | Maintenance Technician - 1st Shift | [Continental](https://continentalserves.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000128584005) |
@@ -23,6 +26,7 @@ Remote jobs open to candidates with 0–2 years of experience. A real way in —
 | KYC Screening Representative (3 month FTC) | [GoCardless](https://gocardless.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/gocardless/jobs/7957736) |
 | Dental Nurse / Receptionist | [PortmanDentex](https://portmandentex.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000128526719) |
 | People Experience Intern | [Applaudo](https://applaudo.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/ApplaudoStudios/postings/744000128520648) |
+| KBLR Content Producer Intern - Summer 2026 | [NBCUniversal](https://nbcuniversal.com) | $17/yr | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000128516918) |
 | Kundenservice Mitarbeiter im Online Check- Out (d/m/w) | [AUTO1 Group](https://auto1-group.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000128509600) |
 | Alternant Welcomer Polyvalent (H/F) | [ACCOR](https://group.accor.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128508759) |
 | Valet femme de chambre (F/M/X) saison | [ACCOR](https://group.accor.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128507681) |
