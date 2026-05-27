@@ -2,13 +2,15 @@
 
 Remote creative roles — copywriters, content creators, graphic designers, and brand specialists.
 
-**41 open roles** — Last updated: 2026-05-26
+**43 open roles** — Last updated: 2026-05-27
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | Junior Copywriter | [Grüns](https://gruns.co) | $70K–$80K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/gruns/jobs/5230941008) |
+| Designer/Editor, NBC Sports Boston | [NBCUniversal](https://nbcuniversal.com) | $75K–$90K/yr | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000128515387) |
+| Senior Writer/Producer, NBC News | [NBCUniversal](https://nbcuniversal.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000128512991) |
 | Associate Producer / Producer | [Nex](https://nex.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/nex/jobs/5230607008) |
 | Visual Merchandiser - Full Time - Amsterdam | [Gymshark](https://gymshark.com) | — | May 26 | [Apply](https://job-boards.eu.greenhouse.io/gymshark/jobs/4875224101) |
 | Creative Copywriter (Performance Marketing) | [Fever](https://feverup.com) | — | May 26 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4874974101) |

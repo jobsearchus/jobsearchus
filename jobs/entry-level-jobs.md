@@ -2,16 +2,27 @@
 
 Remote jobs open to candidates with 0–2 years of experience. A real way in — no degree gatekeeping.
 
-**532 open roles** — Last updated: 2026-05-26
+**543 open roles** — Last updated: 2026-05-27
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| MODELE BRICOMARCHE - CONSEILLER DE VENTE - VENDEUR (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000128584690) |
+| Electrical Technician - Project-Based | [Continental](https://continentalserves.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000128584959) |
+| Maintenance Technician - 1st Shift | [Continental](https://continentalserves.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000128584005) |
+| Temporary - Room Attendant (Morris Inn) | [University of Notre Dame](https://universityofnotredame.com) | $18/yr | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013304177) |
+| Temporary - Cook (Hospitality Department) | [University of Notre Dame](https://universityofnotredame.com) | $20/yr | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013303419) |
+| CAPEX Intern | [O-I Glass](https://o-i.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/O-I/postings/744000128575581) |
 | Junior Copywriter | [Grüns](https://gruns.co) | $70K–$80K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/gruns/jobs/5230941008) |
+| Customer Success Specialist- Restaurants | [Wolt](https://wolt.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7958240) |
+| ESTAGIÁRIO QUALIDADE | [O-I Glass](https://o-i.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/O-I/postings/744000128555223) |
+| PREPARATEUR DRIVE 30H (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000128551300) |
+| Commis de salle - Restaurant Joy (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000128545304) |
 | Valon Externship Program | [Valon](https://valon.com) | — | May 26 | [Apply](https://jobs.ashbyhq.com/valon/03c13b4c-2105-4258-97e0-842ef8ea0368) |
 | KYC Screening Representative (3 month FTC) | [GoCardless](https://gocardless.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/gocardless/jobs/7957736) |
 | Dental Nurse / Receptionist | [PortmanDentex](https://portmandentex.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000128526719) |
+| People Experience Intern | [Applaudo](https://applaudo.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/ApplaudoStudios/postings/744000128520648) |
 | Kundenservice Mitarbeiter im Online Check- Out (d/m/w) | [AUTO1 Group](https://auto1-group.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000128509600) |
 | Alternant Welcomer Polyvalent (H/F) | [ACCOR](https://group.accor.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128508759) |
 | Valet femme de chambre (F/M/X) saison | [ACCOR](https://group.accor.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128507681) |

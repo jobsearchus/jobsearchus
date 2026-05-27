@@ -2,22 +2,28 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**460 open roles** — Last updated: 2026-05-26
+**466 open roles** — Last updated: 2026-05-27
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| MODELE BRICOMARCHE - CONSEILLER DE VENTE - VENDEUR (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000128584690) |
+| SDR - Base44 | [Wix.com](https://wix.com) | $65K–$75K/yr | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Wix2/postings/744000128574599) |
 | Client Solutions Manager - X | [Aleph Lab](https://alephlab.ai) | — | May 26 | [Apply](https://jobs.lever.co/aleph/07cad096-d7ab-4cc9-97fb-1b881418d907) |
+| McWane Ductile Ohio - Poles Inside Sales Reprentative | [McWane](https://mcwane.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/McWaneInc/postings/3743990013300276) |
 | Implementation Specialist | [Karbon](https://karbon.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/karbon/jobs/6006035004) |
 | Senior Capture Success Manager  | [HavocAI](https://havocai.com) | — | May 26 | [Apply](https://jobs.ashbyhq.com/havocai/b051be52-24f3-44d5-9b92-70f2f3a72467) |
 | Renewal Specialist (MM/ENT) (Position located in Singapore)   | [KnowBe4](https://knowbe4.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8564718002) |
 | Implementation Specialist | [Karbon](https://karbon.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/karbon/jobs/6005928004) |
+| SI Partner Manager - UK | [Freshworks](https://freshworks.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000128527175) |
 | Business Development Manager | [Dandy](https://meetdandy.com) | — | May 26 | [Apply](https://jobs.ashbyhq.com/dandy/1ad66b71-b93f-43bf-8da9-99260b3a6b16) |
 | Business Development Specialist (must reside in Boca Raton, Florida) | [Innovative Solutions](https://innovativesolutions.com) | $80K–$95K/yr | May 26 | [Apply](https://jobs.lever.co/innovativesol-2/d0956371-5eaa-48d2-bef4-829f51b98b3b) |
 | Kundenberater Fahrzeugbewertung & Ankauf (m/w/d) | [AUTO1 Group](https://auto1-group.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000128502229) |
 | Agente Stone - Consultor(a) Comercial Externo -  Americana/SP | [Stone](https://stone.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/stone/jobs/7748194003) |
 | Area Sales Specialist (Working Capital) | [Tide](https://tide.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/tide/jobs/7747916003) |
+| Ad Sales - Enterprise Retail Media | [Wolt](https://wolt.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7957399) |
+| SVP, Americas | [Ping Identity](https://pingidentity.com) | $275K–$290K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/pingidentity/jobs/8561083002) |
 | Business Development Manager | [Experian](https://experianplc.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000128454064) |
 | Principal Consultant | [Nagarro](https://nagarro.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000128442810) |
 | Client Solutions Manager - TikTok | [Aleph Lab](https://alephlab.ai) | — | May 26 | [Apply](https://jobs.lever.co/aleph/f9d9ba8a-1b1b-4f2f-9475-84ab4d95bb30) |

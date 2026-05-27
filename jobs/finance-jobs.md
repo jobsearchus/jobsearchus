@@ -2,17 +2,25 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**222 open roles** — Last updated: 2026-05-26
+**230 open roles** — Last updated: 2026-05-27
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| IT Financial Analyst | [Genpak LLC](https://genpak-llc-2) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/APMGroup/postings/6000000001107384) |
+| CAPEX Intern | [O-I Glass](https://o-i.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/O-I/postings/744000128575581) |
 | Senior GL Accountant | [Amplitude](https://amplitude.com) | $121K–$181K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/amplitude/jobs/8565092002) |
+| Direct Tax Manager | [Axon](https://axon.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/axon/jobs/7748547003) |
+| Direct Tax Manager | [Axon](https://axon.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/axon/jobs/7748543003) |
+| Direct Tax Manager | [Axon](https://axon.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/axon/jobs/7748542003) |
+| Middle Office & Accounting Analyst | [Man Group](https://man.com) | — | May 26 | [Apply](https://job-boards.eu.greenhouse.io/mangroup/jobs/4875308101) |
 | Business Analyst / AMOA - secteur bancaire | [Inetum](https://inetum.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000128514546) |
+| Senior Credit Strategy Analyst - Affiliates and Lead Gen UW | [Best Egg](https://bestegg.com) | — | May 26 | [Apply](https://jobs.lever.co/BestEgg/f1255a90-ec99-424e-be69-cd5e5e154712) |
 | Senior Manager - Conformité  | [IQ-EQ](https://iqeq.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000128499945) |
 | Funds Onboarding, Manager | [IQ-EQ](https://iqeq.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000128496511) |
 | Comercial de Crédito | [ComparaJá](https://comparaja.pt) | — | May 26 | [Apply](https://job-boards.greenhouse.io/comparaja/jobs/7748236003) |
+| Decisioning Execution Analyst | [Best Egg](https://bestegg.com) | — | May 26 | [Apply](https://jobs.lever.co/BestEgg/3c81eddb-ca7c-46d7-a459-8c4186287acb) |
 | Client Relationship Manager | [ComparaJá](https://comparaja.pt) | — | May 26 | [Apply](https://job-boards.greenhouse.io/comparaja/jobs/7748209003) |
 | Finance Manager (Corporate FP&A)  | [NCS](https://ncs.co) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001106419) |
 | Senior Manager – Investor Relations & Strategic Finance | [Meesho](https://meesho.com) | — | May 26 | [Apply](https://jobs.lever.co/meesho/cd0ee165-d61b-42f6-80d0-95d522af2d77) |

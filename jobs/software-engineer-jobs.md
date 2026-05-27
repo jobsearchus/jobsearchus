@@ -2,12 +2,28 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**761 open roles** — Last updated: 2026-05-26
+**782 open roles** — Last updated: 2026-05-27
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| PV I Analista Sênior de Compliance I | [Experian](https://experianplc.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000128601209) |
+| Senior Software Engineer - Cloud Enablement (Python/Golang) | [Canva](https://canva.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001106733) |
+| Senior Software Engineer - Cloud Enablement (Python/Golang) | [Canva](https://canva.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001106728) |
+| Manager, Environmental Test | [Relativity Space](https://relativityspace.com) | — | May 26 | [Apply](https://boards.greenhouse.io/relativity/jobs/8564927002?gh_jid=8564927002) |
+| Production Engineering Manager (SMT/ PCBA) | [Relativity Space](https://relativityspace.com) | — | May 26 | [Apply](https://boards.greenhouse.io/relativity/jobs/8561519002?gh_jid=8561519002) |
+| Avionics Production Specialist (SMT) | [Relativity Space](https://relativityspace.com) | — | May 26 | [Apply](https://boards.greenhouse.io/relativity/jobs/8561482002?gh_jid=8561482002) |
+| Server Administrator (Manager / Sr. Manager) | [SBT Global](https://sbtglobal.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/SBTGlobalInc/postings/3743990013307175) |
+| Electrical Technician - Project-Based | [Continental](https://continentalserves.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000128584959) |
+| Maintenance Technician - 1st Shift | [Continental](https://continentalserves.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000128584005) |
+| MHV Foundry Tooling Engineer | [McWane](https://mcwane.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/McWaneInc/postings/3743990013304576) |
+| Market Intelligence (Business Intelligence) Specialist  | [Continental](https://continentalserves.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000128579654) |
+| Regulatory Scientist | [Syngenta](https://syngenta.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000128573949) |
+| HSE Coordinator Brasil | [Syngenta](https://syngenta.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000128565660) |
+| IT Support Specialist - The Wickaninnish Inn | [Relais & Châteaux](https://relaischateaux.com) | $24/yr | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000128565177) |
+| Research Technician Lead | [Syngenta](https://syngenta.com) | $49K–$61K/yr | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000128561879) |
+| Senior ISTAR Software Engineer | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $85K–$100K/yr | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000128559959) |
 | Staff Software Engineer, Developer Productivity Async | [Gusto](https://gusto.com) | $189K–$210K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/gusto/jobs/7947658) |
 | Electrical Engineer  | [HavocAI](https://havocai.com) | — | May 26 | [Apply](https://jobs.ashbyhq.com/havocai/4a18122e-bc47-4a79-8d72-4699411254cb) |
 | Staff/Principal Software Engineer - South America | [Jump](https://jump.com) | $70/yr | May 26 | [Apply](https://jobs.ashbyhq.com/jump-app/5e360c01-af10-4e20-8e94-e2f7ce94c6ec) |
@@ -24,9 +40,14 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Senior AI Product Engineer 2, Control Monitoring | [Drata](https://drata.com) | $192K–$260K/yr | May 26 | [Apply](https://jobs.ashbyhq.com/drata/175ec348-e46a-4f8b-9903-cf94a822f2f5) |
 | Senior AI Product Engineer 2, Evidence | [Drata](https://drata.com) | $192K–$260K/yr | May 26 | [Apply](https://jobs.ashbyhq.com/drata/c3f6a93b-59d4-4e5a-994c-539f8dc2d273) |
 | Head of Flight | [Skyways](https://skyways.com) | — | May 26 | [Apply](https://jobs.lever.co/skyways/83816c80-4ddd-4508-a455-87e7a7ffafb3) |
+| Data Support Team Lead | [BrainRocket](https://brainrocket.com) | — | May 26 | [Apply](https://job-boards.eu.greenhouse.io/brainrocketltd/jobs/4875525101) |
+| Senior Solutions Engineer, Named Accounts - Cincinnati, OH | [Cloudflare](https://cloudflare.com) | — | May 26 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7954702?gh_jid=7954702) |
 | Senior Flight Operator | [Skyways](https://skyways.com) | — | May 26 | [Apply](https://jobs.lever.co/skyways/15380355-5bcd-4467-9286-85f0a38d3c11) |
 | UAS Field Operations Engineer | [Skyways](https://skyways.com) | — | May 26 | [Apply](https://jobs.lever.co/skyways/3e8db216-ad77-4355-96d1-1eb4d767cf10) |
+| Credit Forecasting Manager I | [Best Egg](https://bestegg.com) | — | May 26 | [Apply](https://jobs.lever.co/BestEgg/95f9d3db-9bf3-42e9-9075-8167d8ae32fc) |
 | Support Engineer | [SingleStore](https://singlestore.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/singlestore/jobs/7956718) |
+| Expert Level Data Engineer (AI concepts) | [Nagarro](https://nagarro.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000128477864) |
+| Engineering Team Lead - Storefront | [Wolt](https://wolt.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7957346) |
 | 2026 Internship - Software Engineer | [Qube Research & Technologies](https://quberesearch.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8562105002) |
 | Research Scientist | [Canva](https://canva.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001106516) |
 | Software Engineer | [SingleStore](https://singlestore.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/singlestore/jobs/7912783) |

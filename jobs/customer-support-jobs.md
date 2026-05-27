@@ -2,12 +2,13 @@
 
 Remote customer support and success roles across SaaS, e-commerce, and tech.
 
-**157 open roles** — Last updated: 2026-05-26
+**158 open roles** — Last updated: 2026-05-27
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Customer Success Specialist- Restaurants | [Wolt](https://wolt.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7958240) |
 | Lifecycle Specialist, Digital Success & Expansion | [Apollo.io](https://apollo.io) | — | May 26 | [Apply](https://job-boards.greenhouse.io/apolloio/jobs/6000326004) |
 | Technical Support Engineer I | [Sectigo](https://sectigo.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Sectigo/postings/3743990013296456) |
 | QA Analyst | [Monzo](https://monzo.com) | €41K–€50K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7957585) |

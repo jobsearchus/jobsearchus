@@ -2,13 +2,15 @@
 
 UX design, UI design, and product design roles. Figma, research, and end-to-end product work.
 
-**75 open roles** — Last updated: 2026-05-26
+**77 open roles** — Last updated: 2026-05-27
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | AI Conversation Designer | [Checkr](https://checkr.com) | $25K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/checkr/jobs/7958414) |
+| UX Architect | [CapTech](https://captech.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/CapTechConsulting/postings/744000128524209) |
+| UX Architect | [CapTech](https://captech.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/CapTechConsulting/postings/744000128517601) |
 | Product Design Intern | [FamPay](https://fampay.in) | — | May 26 | [Apply](https://jobs.lever.co/fampay/f1a64ab7-a22d-49e5-93a2-f7feb1668ccf) |
 | Game Economy Designer | [Gameloft](https://gameloft.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Gameloft/postings/744000128423255) |
 | CX Designer Sr | [Genpak LLC](https://genpak-llc-2) | — | May 25 | [Apply](https://job-boards.eu.greenhouse.io/valtech/jobs/4873902101) |

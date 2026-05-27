@@ -2,15 +2,35 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**523 open roles** — Last updated: 2026-05-26
+**543 open roles** — Last updated: 2026-05-27
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Deli Shift Leader I | [Pilot Flying J](https://pilotflyingj.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/PilotCompany/postings/744000128595059) |
+| Full Time Gardener | [Relais & Châteaux](https://relaischateaux.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000128589182) |
+| Interim Visual Merchandiser   | [Primark Tiendas SLU](https://primark.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000128585152) |
+| Area Specialist Almacenes Externos | [JYSK](https://jysk.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000128579261) |
+| Temporary - Room Attendant (Morris Inn) | [University of Notre Dame](https://universityofnotredame.com) | $18/yr | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013304177) |
+| Part-Time Cook 3 - Hospitality | [University of Notre Dame](https://universityofnotredame.com) | $20/yr | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013303756) |
+| Temporary - Cook (Hospitality Department) | [University of Notre Dame](https://universityofnotredame.com) | $20/yr | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013303419) |
+| Analista de Treinamento Pl (Gerenciador de Sharepoint) | [MSX International](https://msxi.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013302196) |
 | Area Head of Bars & Beverage - New York | [Soho House](https://sohohouse.com) | — | May 26 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4872288101) |
+| ESTAGIÁRIO QUALIDADE | [O-I Glass](https://o-i.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/O-I/postings/744000128555223) |
+| Stock Room Assistant | [Primark Tiendas SLU](https://primark.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000128549666) |
+| Waiter | [Relais & Châteaux](https://relaischateaux.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000128547009) |
+| Commis de salle - Restaurant Joy (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000128545304) |
+| Veterinary Technicians - Specialty, ER & Critical Care | [Veritas Veterinary Partners](https://veritasveterinarypartners.com) | $45/yr | May 26 | [Apply](https://job-boards.greenhouse.io/veritasvetpartners/jobs/5230951008) |
+| Registered Veterinary Technicians - Specialty, ER & Critical Care | [Veritas Veterinary Partners](https://veritasveterinarypartners.com) | $29/yr | May 26 | [Apply](https://job-boards.greenhouse.io/veritasvetpartners/jobs/5229077008) |
+|  Registered Veterinary Technicians - Specialty, ER & Critical Care | [Veritas Veterinary Partners](https://veritasveterinarypartners.com) | $32/yr | May 26 | [Apply](https://job-boards.greenhouse.io/veritasvetpartners/jobs/5230990008) |
+| Barman | [Genpak LLC](https://genpak-llc-2) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000128538079) |
+| Kennedy Valve-Finishing Front Line Supervisor | [McWane](https://mcwane.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/McWaneInc/postings/3743990013296316) |
 | Certified Personal Trainer - Soho House Nashville | [Soho House](https://sohohouse.com) | — | May 26 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4874161101) |
+| Commis de Pâtisserie  | [Genpak LLC](https://genpak-llc-2) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000128528515) |
 | Dental Nurse / Receptionist | [PortmanDentex](https://portmandentex.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000128526719) |
+| Connected Services Coach | [MSX International](https://msxi.com) | $65K–$75K/yr | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013295067) |
+| Connected Services Coach | [MSX International](https://msxi.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013294926) |
 | Alternant Welcomer Polyvalent (H/F) | [ACCOR](https://group.accor.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128508759) |
 | Valet femme de chambre (F/M/X) saison | [ACCOR](https://group.accor.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128507681) |
 | Universal Banking Team Leader | [Standard Bank](https://standardbank.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000128507223) |

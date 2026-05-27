@@ -2,12 +2,13 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**198 open roles** — Last updated: 2026-05-26
+**201 open roles** — Last updated: 2026-05-27
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Brand Experience specialist | [SBT Global](https://sbtglobal.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/SBTGlobalInc/postings/3743990013309137) |
 | Field Marketing Manager - Nordics & Benelux | [Chainguard](https://chainguard.dev) | — | May 26 | [Apply](https://job-boards.greenhouse.io/chainguard/jobs/4681893006) |
 | Growth Marketing Manager, Web & CRO | [Cresta](https://cresta.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/cresta/jobs/5231220008) |
 | Off-Page SEO Specialist | [Firecrawl](https://firecrawl.com) | $140K–$180K/yr | May 26 | [Apply](https://jobs.ashbyhq.com/firecrawl/15565a5d-7e35-4f11-97cf-d93cee88f1df) |
@@ -17,6 +18,8 @@ Remote marketing roles across growth, content, brand, and performance channels.
 | Senior Social Media Specialist - xstocks | [Kraken](https://kraken.com) | — | May 26 | [Apply](https://jobs.ashbyhq.com/kraken.com/addb3815-8f55-4547-81c8-c2a1d4065900) |
 | Regional Marketing Manager | [Dandy](https://meetdandy.com) | — | May 26 | [Apply](https://jobs.ashbyhq.com/dandy/defa4e4e-919d-45c5-81ea-143b5f2b0cc0) |
 | Regional Marketing Manager | [Dandy](https://meetdandy.com) | — | May 26 | [Apply](https://jobs.ashbyhq.com/dandy/7886d5b9-3547-4f4d-9f19-3def0430403c) |
+| Field Marketing Manager, Commercial / Germany | [Pure Storage](https://purestorage.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/7907776) |
+| Alternance Consultant Média F/H | [WPP Media](https://wppmedia.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5230573008) |
 | Client Solutions Manager - X | [Aleph Lab](https://alephlab.ai) | — | May 26 | [Apply](https://jobs.lever.co/aleph/da42472c-628d-45a2-97f4-4a10bff505ab) |
 | Senior UA Manager | [Zynga](https://zynga.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/zyngacareers/jobs/6005749004) |
 | Senior Growth Copywriter | [Canva](https://canva.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001106315) |

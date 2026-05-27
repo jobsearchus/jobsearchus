@@ -2,7 +2,7 @@
 
 Product manager roles at companies building real products. Sourced directly from career pages.
 
-**84 open roles** — Last updated: 2026-05-26
+**86 open roles** — Last updated: 2026-05-27
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -15,6 +15,8 @@ Product manager roles at companies building real products. Sourced directly from
 | Senior Product Manager - Germany - Remote | [Grafana Labs](https://grafana.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6005891004) |
 | Product Manager II  | [Razorpay Software Private Limited](https://razorpay.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4699228005) |
 | Staff Product Manager - Cloud Data Platform | [SingleStore](https://singlestore.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/singlestore/jobs/7956719) |
+| Direct Funds Product Manager  | [iCapital](https://icapital.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8564195002) |
+| Direct Funds Product Manager  | [iCapital](https://icapital.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8564197002) |
 | Director, Product Management | [Coupang](https://coupang.com) | — | May 26 | [Apply](https://boards.greenhouse.io/coupanginternal/jobs/7919601?gh_jid=7919601) |
 | Director, Product Management | [Coupang](https://coupang.com) | — | May 26 | [Apply](https://boards.greenhouse.io/coupanginternal/jobs/7919228?gh_jid=7919228) |
 | Senior Product Marketing Manager | [Hatch](https://hatch.com) | $106K–$198K/yr | May 25 | [Apply](https://jobs.ashbyhq.com/hatch/32605aec-37a4-4ffb-b829-87ccf8e78350) |

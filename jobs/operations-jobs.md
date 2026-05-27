@@ -2,18 +2,29 @@
 
 Remote operations and business operations roles across industries.
 
-**495 open roles** — Last updated: 2026-05-26
+**507 open roles** — Last updated: 2026-05-27
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Government Contracts Professional | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $90K–$115K/yr | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000128589879) |
+| Transport Specialist | [JYSK](https://jysk.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000128581610) |
 | Sanitation Specialist | [Tovala](https://tovala.com) | — | May 26 | [Apply](https://jobs.lever.co/tovala/7d18343e-39e2-4fd5-b429-e8a720f32b55) |
+| Property Maintenance - Student | [Manitoulin Global Forwarding](https://manitoulingroup.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000128561839) |
 | Project Controls Lead  | [Fluidstack](https://fluidstack.com) | $200K–$300K/yr | May 26 | [Apply](https://jobs.ashbyhq.com/fluidstack/a8aed766-d326-41e9-9fd0-8005ef92aca1) |
+| PREPARATEUR DRIVE 30H (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000128551300) |
 | Configuration Manager | [Slingshot Aerospace](https://slingshotaerospace.com) | $120K–$170K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/slingshotaerospace/jobs/6005934004?gh_jid=6005934004) |
 | KYC Screening Representative (3 month FTC) | [GoCardless](https://gocardless.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/gocardless/jobs/7957736) |
+| Associate Director (5.1) | [Nagarro](https://nagarro.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000128531780) |
+| AZ 4x4 Highway Driver Great Wages $33.68 an hour!! | [Manitoulin Global Forwarding](https://manitoulingroup.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000128527290) |
+| People Experience Intern | [Applaudo](https://applaudo.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/ApplaudoStudios/postings/744000128520648) |
+| Futur Directeur de magasin F/H/X | [BUT](https://but.fr) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000128520259) |
+| Floor Manager - Milano | [JD Sports](https://jdsports.com) | — | May 26 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4875459101) |
 | Operation and Food and Beverage Manager | [ACCOR](https://group.accor.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128508089) |
 |  Senior Building Operator (Overnight Shift) | [Clutch](https://clutch.io) | — | May 26 | [Apply](https://job-boards.greenhouse.io/clutch/jobs/6005852004) |
+| Assistant Manager (sostituzione maternita') - Limbiate Milano C.C. "Carrefour" | [JD Sports](https://jdsports.com) | — | May 26 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4875447101) |
+|  Assistant Category Manager Fashion & Living and Food, Beauty & Care - France & Benelux - Juillet 2026 | [NBCUniversal](https://nbcuniversal.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000128497126) |
 | Jefe Mantención Mina Dewatering LB | [Anglo American](https://angloamerican.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000128500160) |
 | OPC Essais et Systèmes | [Egis](https://egis-group.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000128491659) |
 | Mechanical O&M Technician  | [Genpak LLC](https://genpak-llc-2) | — | May 26 | [Apply](https://job-boards.eu.greenhouse.io/lotusworks/jobs/4871245101) |
@@ -40,6 +51,7 @@ Remote operations and business operations roles across industries.
 | Junior Banking Operations (Porto) | [Inetum](https://inetum.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000128231491) |
 | UPW Technician | [Genpak LLC](https://genpak-llc-2) | — | May 25 | [Apply](https://job-boards.eu.greenhouse.io/lotusworks/jobs/4873646101) |
 | License Operations & Strategy Manager | [Kraken](https://kraken.com) | — | May 25 | [Apply](https://jobs.ashbyhq.com/kraken.com/c3c8d6b8-dc05-4289-85ff-ef1f6c3a5468) |
+| GENERAL LABOURER (WAREHOUSE) | [Manitoulin Global Forwarding](https://manitoulingroup.com) | $18/yr | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000128223649) |
 | Consultor de Processos Sr - (Veículos Pesados e Agrícolas) | [MSX International](https://msxi.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013285356) |
 | Director of Engineering – Multi-Disciplinary | [D-Fend Solutions](https://d-fendsolutions.com) | — | May 25 | [Apply](https://jobs.lever.co/d-fendsolutions/4c023bc1-9863-47b6-9143-8e15bd837e22) |
 | Customer Success Associate | [QA Wolf](https://qawolf.com) | — | May 25 | [Apply](https://jobs.ashbyhq.com/qawolf/a6afbc1d-9c5b-4006-98d4-13ae7e1952b7) |
