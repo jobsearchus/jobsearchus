@@ -2,12 +2,18 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**836 open roles** — Last updated: 2026-05-27
+**844 open roles** — Last updated: 2026-05-27
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Engenheiro Civil Jr  | [Egis](https://egis-group.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000128784639) |
+| Consultant Chef de Projet Digital H/F | [Egis](https://egis-group.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000128757619) |
+| Consultant Chef de Projet Digital H/F | [Egis](https://egis-group.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000128756420) |
+| Especialista de Desenvolvimento de Software (Tech Lead Java) | [Experian](https://experianplc.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000128756079) |
+| Analista Sênior de Inteligência de Negócios (Produto Seguros) | [Experian](https://experianplc.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000128745950) |
+| Cientista de Dados III | [Experian](https://experianplc.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000128742931) |
 | Software Development & Product Test  | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $76K–$90K/yr | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000128724305) |
 | System Engineering Analyst, ISTAR Program, Electronic Warfare | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $90K–$110K/yr | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000128722404) |
 | Flying Doc  (m/w/d)   | [MSX International](https://msxi.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013323814) |
@@ -16,10 +22,12 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Middle/Senior Business Analyst (Swedish Ad Platform) | [Sigma Software](https://sigmasoftware.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/SigmaSoftware2/postings/744000128710069) |
 | IT Specialist | [Evolution](https://evolution.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/Evolution/postings/744000128704624) |
 | Senior BI Engineer  | [Sigma Software](https://sigmasoftware.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/SigmaSoftware2/postings/744000128699499) |
+| Principal Engineer, FASTAPP (Mendix) | [Nagarro](https://nagarro.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000128687807) |
 | Principal Engineer (Mendix + java) | [Nagarro](https://nagarro.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000128687339) |
 | Senior Software Engineer, EOS - Sydney | [Arista Networks](https://aristanetworks.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000128686310) |
 | Senior Software Engineer, Platforms - Sydney | [Arista Networks](https://aristanetworks.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000128683773) |
 | Automatisierungstechniker (m/w/d) Instandhaltung | [BeGo](https://bego.ai) | — | May 27 | [Apply](https://career.bego.com/o/automatisierungstechniker-mwd-instandhaltung/c/new) |
+| Business Value Engineer (m/w/d) | [VusionGroup SA](https://vusiongroup.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/VusionGroupSA/postings/744000128680787) |
 | パートナーグローススペシャリスト/Partner Growth Specialist  | [Too Good To Go](https://toogoodtogo.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/toogoodtogo/jobs/7747867003) |
 | Quality Analyst  | [Referrals Only](https://thoughtworks.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7953568) |
 | Engineering Manager | [Razorpay Software Private Limited](https://razorpay.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4697514005) |

@@ -2,14 +2,19 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**209 open roles** — Last updated: 2026-05-27
+**214 open roles** — Last updated: 2026-05-27
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Especialista Locations Communication | [Continental](https://continentalserves.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000128748718) |
+| Alternant (H/F) en communication  | [Genpak LLC](https://genpak-llc-2) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000128740814) |
+| Digital/Social Producer - NBC Boston & Telemundo Nueva Inglaterra | [NBCUniversal](https://nbcuniversal.com) | $55K–$75K/yr | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000128734810) |
 | Senior Director of Marketing, Business Banking | [Monzo](https://monzo.com) | £140K–£180K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7771697) |
+| Senior B2B Product Marketing Manager | [Canva](https://canva.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001109925) |
 | Marketing Project Manager, Brand and Comms | [Genpak LLC](https://genpak-llc-2) | — | May 27 | [Apply](https://job-boards.eu.greenhouse.io/valtech/jobs/4874197101) |
+| Head of Consumer Communications, US | [Canva](https://canva.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001107944) |
 | Staff Content Strategist | [Gusto](https://gusto.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/gusto/jobs/7793745) |
 | Demand Generation Manager, Enterprise | [Cresta](https://cresta.com) | $120K–$165K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/cresta/jobs/5231787008) |
 | Brand Experience specialist | [SBT Global](https://sbtglobal.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/SBTGlobalInc/postings/3743990013309137) |

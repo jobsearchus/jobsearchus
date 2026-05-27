@@ -2,12 +2,17 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**242 open roles** — Last updated: 2026-05-27
+**247 open roles** — Last updated: 2026-05-27
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Specialist, Business Development Risk | [Standard Bank](https://standardbank.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000128780274) |
+|  AML/KYC Assistant Manager | [IQ-EQ](https://iqeq.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000128759279) |
+| Assistant(e) comptable | [Genpak LLC](https://genpak-llc-2) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000128724299) |
+| Senior Officer AML/KYC | [IQ-EQ](https://iqeq.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000128716594) |
+| Senior Fund Accounting Officer - Private Equity  | [IQ-EQ](https://iqeq.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000128679309) |
 | Financial Controls Manager  | [Monzo](https://monzo.com) | £75K–£85K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7957299) |
 | Comptable H/F | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000128644164) |
 | Financial Controller | [ACCOR](https://group.accor.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128638510) |

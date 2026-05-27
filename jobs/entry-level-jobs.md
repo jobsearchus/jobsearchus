@@ -2,16 +2,26 @@
 
 Remote jobs open to candidates with 0–2 years of experience. A real way in — no degree gatekeeping.
 
-**556 open roles** — Last updated: 2026-05-27
+**566 open roles** — Last updated: 2026-05-27
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Bartender - Orangery  | [ACCOR](https://group.accor.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128796849) |
+| Bartender - Gordon Ramsay at The Mere | [ACCOR](https://group.accor.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128795920) |
+| Bartender - Banqueting  | [ACCOR](https://group.accor.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128796489) |
+| Engenheiro Civil Jr  | [Egis](https://egis-group.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000128784639) |
 | EMPLOYE BOULANGERIE 34,5H (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000128762847) |
+| Berufsausbildung Kfz-Mechatroniker (m/w/d) Schwerpunkt Pkw-Technik, bei Vergölst im Fachbetrieb | [Continental](https://continentalserves.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000128749903) |
+| Alternant (H/F) en communication  | [Genpak LLC](https://genpak-llc-2) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000128740814) |
+| Temporary - Dish Crew  | [University of Notre Dame](https://universityofnotredame.com) | $18/yr | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013326395) |
 | Temporary - Houseperson | [University of Notre Dame](https://universityofnotredame.com) | $18/yr | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013325139) |
+| Assistant(e) comptable | [Genpak LLC](https://genpak-llc-2) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000128724299) |
 | PLT Final Finish Material Handler (MHL)- Illinois | [Continental](https://continentalserves.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000128716481) |
 | PLT Plant I Curing  Setup Tech | [Continental](https://continentalserves.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000128713575) |
+| Insurance & Asset Management Technology Graduate Programme - AI Engineer | [Standard Bank](https://standardbank.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000128711749) |
+| Allround Receptionist (24 tot 32 uur) | [Genpak LLC](https://genpak-llc-2) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000128695803) |
 | Bolti munkatárs - Wolt Market Lehel | [Wolt](https://wolt.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7946499) |
 | Stage Sales Assistant (Full Time) - Lecco C.C. "La Meridiana" | [JD Sports](https://jdsports.com) | — | May 27 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4831581101) |
 | Chat Support Specialist with English and Bulgarian language | [Genpak LLC](https://genpak-llc-2) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000128647419) |

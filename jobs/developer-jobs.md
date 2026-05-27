@@ -2,13 +2,14 @@
 
 General developer and programmer roles that did not fit a more specific category.
 
-**64 open roles** — Last updated: 2026-05-27
+**65 open roles** — Last updated: 2026-05-27
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | Senior Java Developer (Angular) | [Applaudo](https://applaudo.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/ApplaudoStudios/postings/744000128751582) |
+| Working Testing Engineering Developer | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $85K–$110K/yr | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000128739359) |
 | Network Automation Developer (Python) | [Playtech](https://playtech.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/Playtech/postings/744000128644510) |
 | BIM Content Developer- Revit | [Egis](https://egis-group.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000128572449) |
 | Senior Java IVR Developer | [Miratech](https://miratech.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000128418535) |

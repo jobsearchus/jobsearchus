@@ -2,19 +2,27 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**571 open roles** — Last updated: 2026-05-27
+**579 open roles** — Last updated: 2026-05-27
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Bartender - Orangery  | [ACCOR](https://group.accor.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128796849) |
+| Bartender - Gordon Ramsay at The Mere | [ACCOR](https://group.accor.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128795920) |
+| Bartender - Banqueting  | [ACCOR](https://group.accor.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128796489) |
+| Villa Residence Rector (Rome, Italy) | [University of Notre Dame](https://universityofnotredame.com) | €30K–€32K/yr | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013330426) |
+| SAP DRC Analyst | [Continental](https://continentalserves.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000128764869) |
 | EMPLOYE BOULANGERIE 34,5H (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000128762847) |
+| Consultant, Motor Insurance Claims | [Standard Bank](https://standardbank.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000128750169) |
+| Temporary - Dish Crew  | [University of Notre Dame](https://universityofnotredame.com) | $18/yr | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013326395) |
 | Health & Safety Analyst | [Continental](https://continentalserves.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000128739089) |
 | Temporary - Houseperson | [University of Notre Dame](https://universityofnotredame.com) | $18/yr | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013325139) |
 | Physician: Pathology: Anatomic and Clinical - Lake Forest, IL | [Northwestern Medicine](https://northwesternmedicine.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/NorthwesternMedicine/postings/744000128732378) |
 | PLT Final Finish Material Handler (MHL)- Illinois | [Continental](https://continentalserves.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000128716481) |
 | PLT Plant I Curing  Setup Tech | [Continental](https://continentalserves.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000128713575) |
 | Senior IPAM Engineer | [New Era Technology](https://neweratech.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8554788002) |
+| Allround Receptionist (24 tot 32 uur) | [Genpak LLC](https://genpak-llc-2) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000128695803) |
 | Early Years Educator (Unqualified) - Christchurch | [Fennies Day Nurseries](https://fennies.com) | — | May 27 | [Apply](https://job-boards.eu.greenhouse.io/fenniesdaynurseries/jobs/4876357101) |
 | Middleware Engineer | [Applied Intuition](https://applied.co) | — | May 27 | [Apply](https://boards.greenhouse.io/appliedintuition/jobs/4698379005?gh_jid=4698379005) |
 | Private Assosiate Dentist  | [PortmanDentex](https://portmandentex.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000128653129) |

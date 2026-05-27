@@ -2,7 +2,7 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**365 open roles** — Last updated: 2026-05-27
+**366 open roles** — Last updated: 2026-05-27
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -10,6 +10,7 @@ Remote roles paying $100,000 or more per year. Salary data pulled directly from 
 | --- | --- | --- | --- | --- |
 | Senior Director of Marketing, Business Banking | [Monzo](https://monzo.com) | £140K–£180K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7771697) |
 | Talent Management Program Manager | [Archer](https://archer.com) | $131K–$164K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7741018003) |
+| Sr Manager CW Tech Svcs & Ops Planning | [NBCUniversal](https://nbcuniversal.com) | $120K–$160K/yr | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000128634119) |
 | VP of People | [RADAR](https://goradar.com) | $225K–$280K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/radar/jobs/7955065) |
 | Senior Director, Fund Administration (Accounting) | [Juniper Square](https://junipersquare.com) | $190K–$230K/yr | May 26 | [Apply](https://jobs.ashbyhq.com/junipersquare/3b240bdc-f283-4690-92ff-c20f8215a203) |
 | GTM Operations Manager | [RADAR](https://goradar.com) | $150K–$190K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/radar/jobs/7958776) |

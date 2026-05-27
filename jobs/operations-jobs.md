@@ -2,18 +2,22 @@
 
 Remote operations and business operations roles across industries.
 
-**540 open roles** — Last updated: 2026-05-27
+**545 open roles** — Last updated: 2026-05-27
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Analista de Planejamento e Controle PL. - Exclusiva para Mulheres | [Anglo American](https://angloamerican.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000128776560) |
+| Mecânico Industrial III | [Anglo American](https://angloamerican.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000128778039) |
 | Chauffeur classe 1, pour (Switch) Grand Remous, départ fixe & planifié. Salaire à l'heure débutant à 33.68$ h plan de retraite et avantages sociaux incomparable dans industries. | [Manitoulin Global Forwarding](https://manitoulingroup.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000128758749) |
+| Berufsausbildung Kfz-Mechatroniker (m/w/d) Schwerpunkt Pkw-Technik, bei Vergölst im Fachbetrieb | [Continental](https://continentalserves.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000128749903) |
 | Class 1 Flat  Deck Super B Driver based out of Saskatoon!! | [Manitoulin Global Forwarding](https://manitoulingroup.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000128749167) |
 | Futur Directeur de magasin F/H/X | [BUT](https://but.fr) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000128746070) |
 | Futur Directeur de magasin F/H/X | [BUT](https://but.fr) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000128722690) |
 | Futur Directeur de magasin F/H/X | [BUT](https://but.fr) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000128722590) |
 | Supervisor (Capo Reparto) - New Opening Parma C.C. "Promenade" | [JD Sports](https://jdsports.com) | — | May 27 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4876437101) |
+| Field Services Expert  | [VusionGroup SA](https://vusiongroup.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/VusionGroupSA/postings/744000128685300) |
 | Bolti munkatárs - Wolt Market Lehel | [Wolt](https://wolt.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7946499) |
 | Project Coordinator | [Sigma Software](https://sigmasoftware.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/SigmaSoftware2/postings/744000128676710) |
 | Account Director (4 Month FTC) | [WPP Media](https://wppmedia.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5228872008) |
@@ -21,6 +25,7 @@ Remote operations and business operations roles across industries.
 | Solutions Superintendent | [Anglo American](https://angloamerican.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000128643595) |
 | [쿠팡이츠] Key Enterprise Management | [Coupang](https://coupang.com) | — | May 27 | [Apply](https://boards.greenhouse.io/coupanginternal/jobs/7881547?gh_jid=7881547) |
 | Senior Field Enablement Manager (Tokyo, Japan)  | [Figma](https://figma.com) | — | May 27 | [Apply](https://boards.greenhouse.io/figma/jobs/6003308004?gh_jid=6003308004) |
+| Sr Manager CW Tech Svcs & Ops Planning | [NBCUniversal](https://nbcuniversal.com) | $120K–$160K/yr | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000128634119) |
 | Tradelane Operations Intern | [Flexport](https://flexport.com) | — | May 27 | [Apply](https://boards.greenhouse.io/flexport/jobs/7959463?gh_jid=7959463) |
 | Overnight Class A CDL Driver | [Nabis](https://nabis.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/nabis/jobs/6006509004) |
 | Senior Label Relations Manager | [Twitch](https://twitch.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8565777002) |

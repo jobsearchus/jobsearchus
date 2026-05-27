@@ -2,12 +2,13 @@
 
 Data science, machine learning, and AI engineering roles. Python, SQL, PyTorch, and beyond.
 
-**50 open roles** — Last updated: 2026-05-27
+**51 open roles** — Last updated: 2026-05-27
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Insurance & Asset Management Technology Graduate Programme - AI Engineer | [Standard Bank](https://standardbank.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000128711749) |
 | Applied AI Engineer  | [HackerRank](https://hackerrank.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/hackerrank/jobs/7959585) |
 | Senior Platform AI Engineer | [Drata](https://drata.com) | $192K–$260K/yr | May 26 | [Apply](https://jobs.ashbyhq.com/drata/f0ab62fb-c0a8-4bf2-bfd6-9d9d2e68fb91) |
 | Senior Data Scientist | [Customer.io](https://customer.io) | $140K–$150K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/customerio/jobs/7956880) |
