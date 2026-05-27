@@ -2,14 +2,20 @@
 
 Remote operations and business operations roles across industries.
 
-**532 open roles** — Last updated: 2026-05-27
+**540 open roles** — Last updated: 2026-05-27
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Chauffeur classe 1, pour (Switch) Grand Remous, départ fixe & planifié. Salaire à l'heure débutant à 33.68$ h plan de retraite et avantages sociaux incomparable dans industries. | [Manitoulin Global Forwarding](https://manitoulingroup.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000128758749) |
+| Class 1 Flat  Deck Super B Driver based out of Saskatoon!! | [Manitoulin Global Forwarding](https://manitoulingroup.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000128749167) |
+| Futur Directeur de magasin F/H/X | [BUT](https://but.fr) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000128746070) |
+| Futur Directeur de magasin F/H/X | [BUT](https://but.fr) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000128722690) |
+| Futur Directeur de magasin F/H/X | [BUT](https://but.fr) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000128722590) |
 | Supervisor (Capo Reparto) - New Opening Parma C.C. "Promenade" | [JD Sports](https://jdsports.com) | — | May 27 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4876437101) |
 | Bolti munkatárs - Wolt Market Lehel | [Wolt](https://wolt.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7946499) |
+| Project Coordinator | [Sigma Software](https://sigmasoftware.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/SigmaSoftware2/postings/744000128676710) |
 | Account Director (4 Month FTC) | [WPP Media](https://wppmedia.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5228872008) |
 | Product & Engineering Operations Manager | [Mindtickle](https://mindtickle.com) | — | May 27 | [Apply](https://jobs.lever.co/mindtickle/94688682-f114-4d11-bde2-e9cef4f8c446) |
 | Solutions Superintendent | [Anglo American](https://angloamerican.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000128643595) |
@@ -19,6 +25,7 @@ Remote operations and business operations roles across industries.
 | Overnight Class A CDL Driver | [Nabis](https://nabis.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/nabis/jobs/6006509004) |
 | Senior Label Relations Manager | [Twitch](https://twitch.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8565777002) |
 | Senior Label Relations Manager | [Twitch](https://twitch.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8563250002) |
+| Office Assistant (Housekeeper) | [Evolution](https://evolution.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/Evolution/postings/744000128602949) |
 | GTM Operations Manager | [RADAR](https://goradar.com) | $150K–$190K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/radar/jobs/7958776) |
 | Operations Manager - Medical Groups | [Akido Labs](https://akidolabs.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/akidolabs/jobs/4682553006) |
 | Operations Manager - Patient Relations | [Akido Labs](https://akidolabs.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/akidolabs/jobs/4682554006) |
@@ -34,6 +41,7 @@ Remote operations and business operations roles across industries.
 | Survey Project Manager | [KPFF Consulting Engineers](https://kpff.com) | $135K–$160K/yr | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/KPFFConsultingEngineers/postings/3743990013299015) |
 | Project Controls Lead  | [Fluidstack](https://fluidstack.com) | $200K–$300K/yr | May 26 | [Apply](https://jobs.ashbyhq.com/fluidstack/a8aed766-d326-41e9-9fd0-8005ef92aca1) |
 | PREPARATEUR DRIVE 30H (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000128551300) |
+| Steward - Shields Athletic Dining Facility | [University of Notre Dame](https://universityofnotredame.com) | $18/yr | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013298086) |
 | Configuration Manager | [Slingshot Aerospace](https://slingshotaerospace.com) | $120K–$170K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/slingshotaerospace/jobs/6005934004?gh_jid=6005934004) |
 | KYC Screening Representative (3 month FTC) | [GoCardless](https://gocardless.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/gocardless/jobs/7957736) |
 | Business Growth Analyst (Madrid based) | [Fever](https://feverup.com) | — | May 26 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4875601101) |

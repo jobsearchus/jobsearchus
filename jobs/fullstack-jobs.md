@@ -2,12 +2,14 @@
 
 Full-stack engineering roles across product, platform, and startup companies.
 
-**24 open roles** — Last updated: 2026-05-27
+**26 open roles** — Last updated: 2026-05-27
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Full Stack Engineer (Node.js/Python) | [Applaudo](https://applaudo.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/ApplaudoStudios/postings/744000128751689) |
+| Full Stack Application Developer | [Arista Networks](https://aristanetworks.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000128632704) |
 | Programmeur·euse Fullstack Senior - Observability | [Haven](https://usehaven.ai) | — | May 26 | [Apply](https://job-boards.greenhouse.io/haven/jobs/6006203004) |
 | Analytics Manager, Full Stack | [Affirm](https://affirm.com) | €96K–€126K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7732927003) |
 | Full Stack Staff Engineer | [Scopely](https://scopely.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/scopely/jobs/5212410008) |

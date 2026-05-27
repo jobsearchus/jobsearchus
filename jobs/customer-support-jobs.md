@@ -2,14 +2,16 @@
 
 Remote customer support and success roles across SaaS, e-commerce, and tech.
 
-**164 open roles** — Last updated: 2026-05-27
+**166 open roles** — Last updated: 2026-05-27
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Customer Service Associate | [Playtech](https://playtech.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/Playtech/postings/744000128648739) |
 | Chat Support Specialist with English and Bulgarian language | [Genpak LLC](https://genpak-llc-2) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000128647419) |
 | Chat Support Specialist with English and Bulgarian language | [Genpak LLC](https://genpak-llc-2) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000128646436) |
+| Customer Care Manager  - Home Care | [Healthcare Australia](https://healthcareaustralia.com.au) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/HealthcareAustralia1/postings/6000000001108999) |
 | Technical Support Specialist II - Core Apps (Remote Eligible - Costa Rica) | [Smartsheet](https://smartsheet.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/smartsheet/jobs/7944523) |
 | Retail Customer Service Associate | [Genpak LLC](https://genpak-llc-2) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000128600668) |
 | Customer Success Enablement Manager | [Canary Technologies](https://canarytechnologies.com) | — | May 26 | [Apply](https://jobs.lever.co/canarytechnologies/fca344b5-ed5e-4e01-b4cb-6cf1a2401dbd) |

@@ -2,16 +2,23 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**559 open roles** — Last updated: 2026-05-27
+**571 open roles** — Last updated: 2026-05-27
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| EMPLOYE BOULANGERIE 34,5H (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000128762847) |
+| Health & Safety Analyst | [Continental](https://continentalserves.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000128739089) |
+| Temporary - Houseperson | [University of Notre Dame](https://universityofnotredame.com) | $18/yr | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013325139) |
+| Physician: Pathology: Anatomic and Clinical - Lake Forest, IL | [Northwestern Medicine](https://northwesternmedicine.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/NorthwesternMedicine/postings/744000128732378) |
+| PLT Final Finish Material Handler (MHL)- Illinois | [Continental](https://continentalserves.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000128716481) |
+| PLT Plant I Curing  Setup Tech | [Continental](https://continentalserves.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000128713575) |
 | Senior IPAM Engineer | [New Era Technology](https://neweratech.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8554788002) |
 | Early Years Educator (Unqualified) - Christchurch | [Fennies Day Nurseries](https://fennies.com) | — | May 27 | [Apply](https://job-boards.eu.greenhouse.io/fenniesdaynurseries/jobs/4876357101) |
 | Middleware Engineer | [Applied Intuition](https://applied.co) | — | May 27 | [Apply](https://boards.greenhouse.io/appliedintuition/jobs/4698379005?gh_jid=4698379005) |
 | Private Assosiate Dentist  | [PortmanDentex](https://portmandentex.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000128653129) |
+| Training Facilitator | [Genpak LLC](https://genpak-llc-2) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/APMGroup/postings/6000000001109951) |
 | Private Assosiate Dentist  | [PortmanDentex](https://portmandentex.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000128649980) |
 | Reservation Executive | [ACCOR](https://group.accor.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128644049) |
 | Bar Attendant | [ACCOR](https://group.accor.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128639881) |
@@ -19,6 +26,11 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Student Success Advisor (Certification and Career Readiness) | [Aviation Institute of Maintenance](https://aviationmaintenance.edu) | $32/yr | May 27 | [Apply](https://job-boards.greenhouse.io/aviationinstituteofmaintenance/jobs/5231984008) |
 | Program Coordinator for Aviation Education | [Aviation Institute of Maintenance](https://aviationmaintenance.edu) | $80K–$85K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/aviationinstituteofmaintenance/jobs/5231976008) |
 | Lead Mechanic for Aviation Education | [Aviation Institute of Maintenance](https://aviationmaintenance.edu) | $80K–$85K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/aviationinstituteofmaintenance/jobs/5231979008) |
+| Director, Field Access and Reimbursement | [AbbVie](https://abbvie.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/AbbVie/postings/3743990013310906) |
+| Director, Field Access and Reimbursement | [AbbVie](https://abbvie.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/AbbVie/postings/3743990013310866) |
+| Director, Field Access and Reimbursement | [AbbVie](https://abbvie.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/AbbVie/postings/3743990013310826) |
+| Phlebotomist - Outpatient, Full-Time, Days | [Northwestern Medicine](https://northwesternmedicine.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/NorthwesternMedicine/postings/744000128601899) |
+| Sonologist Associate - Ultrasound, Per-Diem, Rotating Shifts | [Northwestern Medicine](https://northwesternmedicine.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/NorthwesternMedicine/postings/744000128601749) |
 | Deli Shift Leader I | [Pilot Flying J](https://pilotflyingj.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/PilotCompany/postings/744000128595059) |
 | Director of Nursing, RN | [Silverado](https://silverado.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/silverado/jobs/5147058007) |
 | Shipping and Receiving Clerk | [Fletcher Jones Automotive Group](https://fletcherjonesautomotivegroup.com) | — | May 26 | [Apply](https://boards.greenhouse.io/fletcherjonesautomotivegroup/jobs/5147079007?gh_jid=5147079007) |

@@ -2,12 +2,15 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**484 open roles** — Last updated: 2026-05-27
+**487 open roles** — Last updated: 2026-05-27
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| PV - Executivo (a) de Vendas Externas Sênior - Sobral/CE | [Experian](https://experianplc.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000128743119) |
+| PV - Executivo (a) de Vendas Externas Pleno - São Luís/MA | [Experian](https://experianplc.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000128740605) |
+| PV - Executivo (a) de Vendas Externas Pleno - Campinas/SP | [Experian](https://experianplc.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000128730189) |
 | Senior Automation QA Engineer | [Genpak LLC](https://genpak-llc-2) | — | May 27 | [Apply](https://job-boards.eu.greenhouse.io/growetalents/jobs/4874624101) |
 | Regional Sales Director | [Zscaler](https://zscaler.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5139784007) |
 | Account Manager - CCaaS UK | [Vonage](https://vonage.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/vonage/jobs/8537801002) |

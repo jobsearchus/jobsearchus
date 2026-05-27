@@ -2,12 +2,15 @@
 
 DevOps, platform engineering, and infrastructure roles. AWS, GCP, Kubernetes, Terraform.
 
-**44 open roles** — Last updated: 2026-05-27
+**47 open roles** — Last updated: 2026-05-27
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Posted | Apply |
 | --- | --- | --- | --- |
+| Senior Azure DevOps Engineer | [Applaudo](https://applaudo.com) | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/ApplaudoStudios/postings/744000128757688) |
+| Azure Infrastructure Engineer | [BETSOL](https://betsol.com) | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/BETSOL/postings/744000128740850) |
+| Lead DevOps Engineer | [Playtech](https://playtech.com) | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/Playtech/postings/744000128648649) |
 | [Job 29555] Senior Back End / Devops Developer, Brazil | [CI&T](https://cit.com) | May 26 | [Apply](https://jobs.lever.co/ciandt/6f02f614-051d-4b91-9abb-fb32c423e7be) |
 | Cloud DevSecOps Modernisation Architect | [NCS](https://ncs.co) | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001106463) |
 | Senior Mechanical Engineer - Water Infrastructure | [AECOM](https://aecom.com) | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000128264109) |

@@ -2,7 +2,7 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**208 open roles** — Last updated: 2026-05-27
+**209 open roles** — Last updated: 2026-05-27
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -31,6 +31,7 @@ Remote marketing roles across growth, content, brand, and performance channels.
 | Senior UA Manager | [Zynga](https://zynga.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/zyngacareers/jobs/6005749004) |
 | Senior Growth Copywriter | [Canva](https://canva.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001106315) |
 | Senior Growth Copywriter | [Canva](https://canva.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001106310) |
+| Marketing Graphic Designer (12-month contract) | [Canva](https://canva.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001106218) |
 | (Junior) YouTube Content Specialist | [Rovio](https://rovio.com) | — | May 25 | [Apply](https://jobs.lever.co/rovio-2/b22d6ba6-eaea-493c-a4be-4dd4e764d0f5) |
 | Marketing Associate - Singapore | [Flagright](https://flagright.com) | — | May 25 | [Apply](https://jobs.ashbyhq.com/flagright.com/05872eb1-a0f9-44a8-bf3c-745ced82d7dd) |
 | Senior Associate, Growth Marketing | [Razorpay Software Private Limited](https://razorpay.com) | — | May 25 | [Apply](https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4698731005) |

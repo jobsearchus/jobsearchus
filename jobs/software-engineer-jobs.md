@@ -2,12 +2,23 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**819 open roles** — Last updated: 2026-05-27
+**836 open roles** — Last updated: 2026-05-27
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Software Development & Product Test  | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $76K–$90K/yr | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000128724305) |
+| System Engineering Analyst, ISTAR Program, Electronic Warfare | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $90K–$110K/yr | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000128722404) |
+| Flying Doc  (m/w/d)   | [MSX International](https://msxi.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013323814) |
+|  Flying Doc  (m/w/d)   | [MSX International](https://msxi.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013323856) |
+| Flying Doc  (m/w/d)   | [MSX International](https://msxi.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013323636) |
+| Middle/Senior Business Analyst (Swedish Ad Platform) | [Sigma Software](https://sigmasoftware.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/SigmaSoftware2/postings/744000128710069) |
+| IT Specialist | [Evolution](https://evolution.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/Evolution/postings/744000128704624) |
+| Senior BI Engineer  | [Sigma Software](https://sigmasoftware.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/SigmaSoftware2/postings/744000128699499) |
+| Principal Engineer (Mendix + java) | [Nagarro](https://nagarro.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000128687339) |
+| Senior Software Engineer, EOS - Sydney | [Arista Networks](https://aristanetworks.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000128686310) |
+| Senior Software Engineer, Platforms - Sydney | [Arista Networks](https://aristanetworks.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000128683773) |
 | Automatisierungstechniker (m/w/d) Instandhaltung | [BeGo](https://bego.ai) | — | May 27 | [Apply](https://career.bego.com/o/automatisierungstechniker-mwd-instandhaltung/c/new) |
 | パートナーグローススペシャリスト/Partner Growth Specialist  | [Too Good To Go](https://toogoodtogo.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/toogoodtogo/jobs/7747867003) |
 | Quality Analyst  | [Referrals Only](https://thoughtworks.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7953568) |
@@ -35,7 +46,9 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Lead Systems Architect | [AnaVation](https://anavation.com) | — | May 26 | [Apply](https://jobs.lever.co/anavationllc/ac9dfa44-01a1-4d9f-b5c4-ec517ca5b562) |
 | Senior Software Engineer - Cloud Enablement (Python/Golang) | [Canva](https://canva.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001106733) |
 | Senior Software Engineer - Cloud Enablement (Python/Golang) | [Canva](https://canva.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001106728) |
+| Principal Partner Engineer — Ecosystem | [Canva](https://canva.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001106698) |
 | Manager, Environmental Test | [Relativity Space](https://relativityspace.com) | — | May 26 | [Apply](https://boards.greenhouse.io/relativity/jobs/8564927002?gh_jid=8564927002) |
+| Principal Partner Engineer — Ecosystem | [Canva](https://canva.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001106693) |
 | Production Engineering Manager (SMT/ PCBA) | [Relativity Space](https://relativityspace.com) | — | May 26 | [Apply](https://boards.greenhouse.io/relativity/jobs/8561519002?gh_jid=8561519002) |
 | Avionics Production Specialist (SMT) | [Relativity Space](https://relativityspace.com) | — | May 26 | [Apply](https://boards.greenhouse.io/relativity/jobs/8561482002?gh_jid=8561482002) |
 | Server Administrator (Manager / Sr. Manager) | [SBT Global](https://sbtglobal.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/SBTGlobalInc/postings/3743990013307175) |
@@ -59,6 +72,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Electrical Engineer  | [HavocAI](https://havocai.com) | — | May 26 | [Apply](https://jobs.ashbyhq.com/havocai/4a18122e-bc47-4a79-8d72-4699411254cb) |
 | Staff/Principal Software Engineer - South America | [Jump](https://jump.com) | $70/yr | May 26 | [Apply](https://jobs.ashbyhq.com/jump-app/5e360c01-af10-4e20-8e94-e2f7ce94c6ec) |
 | Chief Architect - Optical Communication Terminals | [IonQ](https://ionq.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/ionq/jobs/6005910004) |
+| IT Solutions Consultant - College of Arts & Letters | [University of Notre Dame](https://universityofnotredame.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013297236) |
 | Senior Software Engineer - C++ - Trading Technologies | [Kraken](https://kraken.com) | — | May 26 | [Apply](https://jobs.ashbyhq.com/kraken.com/6d6bb529-d52b-4879-8354-602cfbe92afd) |
 | Staff Software Engineer (AI) | [Juniper Square](https://junipersquare.com) | $210K–$260K/yr | May 26 | [Apply](https://jobs.ashbyhq.com/junipersquare/c0f6d8c5-7dad-4599-be77-b04b8a2b8af0) |
 | Software Engineer - Applied Science | [Clipboard](https://clipboardhealth.com) | — | May 26 | [Apply](https://jobs.ashbyhq.com/clipboard/3a34ce39-3e6f-4537-be33-1229b47fd6f9) |
@@ -72,6 +86,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Senior AI Product Engineer 2, Control Monitoring | [Drata](https://drata.com) | $192K–$260K/yr | May 26 | [Apply](https://jobs.ashbyhq.com/drata/175ec348-e46a-4f8b-9903-cf94a822f2f5) |
 | Senior AI Product Engineer 2, Control Remidiation | [Drata](https://drata.com) | $192K–$260K/yr | May 26 | [Apply](https://jobs.ashbyhq.com/drata/9d4b9089-763f-478d-ba1a-605732ab6e93) |
 | Senior AI Product Engineer 2, Evidence | [Drata](https://drata.com) | $192K–$260K/yr | May 26 | [Apply](https://jobs.ashbyhq.com/drata/c3f6a93b-59d4-4e5a-994c-539f8dc2d273) |
+| Senior Quality Manager | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000128527486) |
 | Sr. Broadcast/Projects Systems Engineer - NBC4 &T44 | [NBCUniversal](https://nbcuniversal.com) | $110K–$120K/yr | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000128525139) |
 | Head of Flight | [Skyways](https://skyways.com) | — | May 26 | [Apply](https://jobs.lever.co/skyways/83816c80-4ddd-4508-a455-87e7a7ffafb3) |
 | Data Support Team Lead | [BrainRocket](https://brainrocket.com) | — | May 26 | [Apply](https://job-boards.eu.greenhouse.io/brainrocketltd/jobs/4875525101) |
@@ -99,6 +114,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Lehrling Kfz-Technik (m/w/d) | [Continental](https://continentalserves.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000128412445) |
 | Software Engineer [Java Core] | [NCS](https://ncs.co) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001106286) |
 | Junior Design Engineer - BIW | [SEGULA Technologies](https://segulatechnologies.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/SegulaTechnologies/postings/744000128400209) |
+| Temenos Transact Business Consultant | [Nagarro](https://nagarro.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000128397789) |
 | Architect - Android | [Meesho](https://meesho.com) | — | May 26 | [Apply](https://jobs.lever.co/meesho/040a5a75-28d2-4b56-904b-071c41d4ea90) |
 | Technical Operations Manager  | [Customer.io](https://customer.io) | $117K–$120K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/customerio/jobs/7956906) |
 | Cloud GTM Practice Lead | [Suger](https://suger.io) | — | May 26 | [Apply](https://jobs.lever.co/suger/43aed476-1ce1-41f0-9b35-7f98e5057c10) |
@@ -106,6 +122,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 |  Microsoft Exchange Server Hands-on Support Engineer / Team Lead (On Prem) | [NCS](https://ncs.co) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001103729) |
 | Senior Software Development Engineer | [Razorpay Software Private Limited](https://razorpay.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4694070005) |
 | Electrical Intern (Fall 26) | [Spaceium Inc](https://spaceium.com) | — | May 25 | [Apply](https://job-boards.greenhouse.io/spaceium/jobs/4258525009) |
+| Staff Engineer - InfraOps | [Nagarro](https://nagarro.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000128265319) |
 | UX Researcher | [Skydropx](https://skydropx.com) | — | May 25 | [Apply](https://jobs.ashbyhq.com/skydropx/c5757b6d-8e40-40d5-965c-6c58a6be91b7) |
 | Cleared Senior Cloud Engineer (Washington, DC) | [Accenture Federal Services](https://accenturefederalservices.com) | — | May 25 | [Apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4684107006?gh_jid=4684107006) |
 | 2027 Graduate Mechanical Engineer (Energy) | [AECOM](https://aecom.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000128264379) |
