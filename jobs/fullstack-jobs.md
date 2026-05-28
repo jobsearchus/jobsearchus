@@ -2,13 +2,17 @@
 
 Full-stack engineering roles across product, platform, and startup companies.
 
-**26 open roles** — Last updated: 2026-05-27
+**30 open roles** — Last updated: 2026-05-28
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Full Stack Engineer, AgentControl | [LaunchDarkly](https://launchdarkly.com) | $171K–$235K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/launchdarkly/jobs/7750116003) |
+| Full Stack Engineer | [Oddball](https://oddball.com) | $100K–$140K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/oddball/jobs/7749864003) |
 | Senior Full Stack Engineer (Node.js/Python) | [Applaudo](https://applaudo.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/ApplaudoStudios/postings/744000128751689) |
+| Senior Full Stack Developer | [Capstone Integrated Solutions](https://capstoneintegratedsolutions.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/capstoneintegratedsolutions/jobs/5147385007) |
+| [Job 29559] Developer Fullstack Sr  (Java, APIs Rest, MySQL e Angular (básico) | [CI&T](https://cit.com) | — | May 27 | [Apply](https://jobs.lever.co/ciandt/4affbb87-f791-4608-959d-a9527a0bf87f) |
 | Full Stack Application Developer | [Arista Networks](https://aristanetworks.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000128632704) |
 | Programmeur·euse Fullstack Senior - Observability | [Haven](https://usehaven.ai) | — | May 26 | [Apply](https://job-boards.greenhouse.io/haven/jobs/6006203004) |
 | Analytics Manager, Full Stack | [Affirm](https://affirm.com) | €96K–€126K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7732927003) |

@@ -2,14 +2,21 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**214 open roles** — Last updated: 2026-05-27
+**221 open roles** — Last updated: 2026-05-28
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Creator Partner Manager | [Cantina](https://cantina.com) | $120K–$160K/yr | May 27 | [Apply](https://jobs.ashbyhq.com/cantina/04eaf201-fe7a-44fb-9520-7df9c03d256d) |
+| Field Marketing Manager - China | [ClickHouse](https://clickhouse.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/clickhouse/jobs/5790458004) |
+| Sr. Growth Marketing Specialist - Cal AI | [MyFitnessPal](https://myfitnesspal.com) | $90K–$115K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/myfitnesspal/jobs/7960912) |
+| EMEA Growth Lead | [Replit](https://replit.com) | — | May 27 | [Apply](https://jobs.ashbyhq.com/replit/ff1bbbed-8506-4850-8d74-f2678c0da78e) |
+| Social Media Multimedia Specialist Intern (Hybrid) | [KnowBe4](https://knowbe4.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8566934002) |
+| Vice President of Growth | [Peek](https://peek.com) | — | May 27 | [Apply](https://jobs.ashbyhq.com/peek/5e081486-6fa8-42cd-8d97-4cd43bbf6d18) |
 | Especialista Locations Communication | [Continental](https://continentalserves.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000128748718) |
 | Alternant (H/F) en communication  | [Genpak LLC](https://genpak-llc-2) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000128740814) |
+| Social Media Production Intern (Hybrid) | [KnowBe4](https://knowbe4.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8566568002) |
 | Digital/Social Producer - NBC Boston & Telemundo Nueva Inglaterra | [NBCUniversal](https://nbcuniversal.com) | $55K–$75K/yr | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000128734810) |
 | Senior Director of Marketing, Business Banking | [Monzo](https://monzo.com) | £140K–£180K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7771697) |
 | Senior B2B Product Marketing Manager | [Canva](https://canva.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001109925) |

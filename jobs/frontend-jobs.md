@@ -2,7 +2,7 @@
 
 Frontend engineering roles. React, Vue, Angular, TypeScript — direct from company career pages.
 
-**10 open roles** — Last updated: 2026-05-27
+**10 open roles** — Last updated: 2026-05-28
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 

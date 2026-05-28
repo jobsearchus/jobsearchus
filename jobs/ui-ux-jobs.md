@@ -2,12 +2,13 @@
 
 UX design, UI design, and product design roles. Figma, research, and end-to-end product work.
 
-**81 open roles** — Last updated: 2026-05-27
+**82 open roles** — Last updated: 2026-05-28
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Instructional Designer | [dbt Labs](https://getdbt.com) | $125K–$170K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/dbtlabsinc/jobs/4699905005) |
 | Senior Product Designer | [Holywater](https://holywater.com) | — | May 27 | [Apply](https://jobs.ashbyhq.com/holywater/f68821a6-0b25-4795-8b7e-d732ea82fad2) |
 | Zahntechniker (m/w/d) Design Service | [BeGo](https://bego.ai) | — | May 27 | [Apply](https://career.bego.com/o/zahntechniker-mwd-design-service-4/c/new) |
 | Product Designer II | [Garner Health](https://getgarner.com) | $143K–$160K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/garnerhealth/jobs/6006458004) |

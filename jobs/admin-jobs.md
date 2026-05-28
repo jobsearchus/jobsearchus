@@ -2,12 +2,13 @@
 
 Remote administrative and executive assistant roles across industries.
 
-**20 open roles** — Last updated: 2026-05-27
+**21 open roles** — Last updated: 2026-05-28
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Account Coordinator | [DH Pace Company](https://dhpace.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5227275008) |
 | Senior Receptionist | [Genpak LLC](https://genpak-llc-2) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/APMGroup/postings/6000000001109199) |
 | Analista de Treinamento (Gerenciador de Sharepoint) | [MSX International](https://msxi.com) | — | May 25 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013285586) |
 | Senior Administrative Professional | [Ramboll](https://ramboll.com) | $67K–$83K/yr | May 24 | [Apply](https://api.smartrecruiters.com/v1/companies/Ramboll3/postings/744000128030519) |

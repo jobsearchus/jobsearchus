@@ -2,14 +2,17 @@
 
 General developer and programmer roles that did not fit a more specific category.
 
-**65 open roles** — Last updated: 2026-05-27
+**68 open roles** — Last updated: 2026-05-28
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| [Job - 29550]  Cobol PL/Sr (DB2, JCL, Changeman)  Developer | [CI&T](https://cit.com) | — | May 27 | [Apply](https://jobs.lever.co/ciandt/29af7abb-8aa0-4ebc-abb5-d60520e970aa) |
 | Senior Java Developer (Angular) | [Applaudo](https://applaudo.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/ApplaudoStudios/postings/744000128751582) |
+| [Job -  29573] Mid Level/ Senior Developer Android (Kotlin e Java), Brazil | [CI&T](https://cit.com) | — | May 27 | [Apply](https://jobs.lever.co/ciandt/903b93f8-fb3f-44a8-ac29-60bde32e4db1) |
 | Working Testing Engineering Developer | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $85K–$110K/yr | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000128739359) |
+| Principal Developer (Java & Python) | [Referrals Only](https://thoughtworks.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7960216) |
 | Network Automation Developer (Python) | [Playtech](https://playtech.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/Playtech/postings/744000128644510) |
 | BIM Content Developer- Revit | [Egis](https://egis-group.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000128572449) |
 | Senior Java IVR Developer | [Miratech](https://miratech.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000128418535) |

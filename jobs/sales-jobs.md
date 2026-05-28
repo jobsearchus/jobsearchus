@@ -2,18 +2,33 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**491 open roles** — Last updated: 2026-05-27
+**506 open roles** — Last updated: 2026-05-28
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Enterprise Account Executive, Insurance (Chicago, IL) | [Box](https://box.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/boxinc/jobs/7960852) |
+| Enterprise Account Executive, Insurance (New York, NY) | [Box](https://box.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/boxinc/jobs/7958721) |
+| Enterprise Account Executive, Financial Services (New York, NY) | [Box](https://box.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/boxinc/jobs/7958711) |
+| VP, Provider Solutions | [PatientPoint](https://patientpoint.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/patientpoint/jobs/4699983005) |
+| VP, Provider Solutions | [PatientPoint](https://patientpoint.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/patientpoint/jobs/4699980005) |
+| VP, Provider Solutions | [PatientPoint](https://patientpoint.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/patientpoint/jobs/4699977005) |
+| Vice President, Revenue Operations | [Demandbase](https://demandbase.com) | — | May 27 | [Apply](https://jobs.ashbyhq.com/demandbase/6d75dd0d-7c6e-454c-9792-95c36442699b) |
+| Strategic Account Executive  | [The Knot Worldwide](https://theknotworldwide.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/theknotworldwide/jobs/5186920008) |
+| Remote Database Administrator - Cloud | [MariaDB](https://mariadb.com) | — | May 27 | [Apply](https://job-boards.eu.greenhouse.io/mariadbplc/jobs/4851096101) |
+| Agente Stone - Consultor(a) Comercial Externo -  Cariacica/ES | [Stone](https://stone.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/stone/jobs/7749780003) |
+| Agente Stone - Consultor(a) Comercial Externo -  Macaé/RJ | [Stone](https://stone.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/stone/jobs/7749774003) |
 | Account Manager | [MSX International](https://msxi.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013330476) |
 | Associate Director - Customer Growth Partner (Healthcare and Life Sciences) | [Nagarro](https://nagarro.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000128756729) |
 | Account Manager | [MSX International](https://msxi.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013328025) |
+| Account Development Associate (Portuguese Speaker) | [Fever](https://feverup.com) | — | May 27 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4876773101) |
+| Strategic Account Executive 4 | [Twilio](https://twilio.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7960217) |
 | PV - Executivo (a) de Vendas Externas Sênior - Sobral/CE | [Experian](https://experianplc.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000128743119) |
 | PV - Executivo (a) de Vendas Externas Pleno - São Luís/MA | [Experian](https://experianplc.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000128740605) |
+| Sales Development Representative Intern (Hybrid) | [KnowBe4](https://knowbe4.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8566454002) |
 | PV - Executivo (a) de Vendas Externas Pleno - Campinas/SP | [Experian](https://experianplc.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000128730189) |
+| Senior Client Solutions Manager | [Aleph](https://aleph.vc) | — | May 27 | [Apply](https://jobs.lever.co/aleph/0b621694-32da-414f-a82c-dc2969ac3442) |
 | Retail Strategic Account Manager - CSM | [VusionGroup SA](https://vusiongroup.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/VusionGroupSA/postings/744000128707194) |
 | Senior Automation QA Engineer | [Genpak LLC](https://genpak-llc-2) | — | May 27 | [Apply](https://job-boards.eu.greenhouse.io/growetalents/jobs/4874624101) |
 | Regional Sales Director | [Zscaler](https://zscaler.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5139784007) |

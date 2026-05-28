@@ -2,19 +2,24 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**579 open roles** — Last updated: 2026-05-27
+**586 open roles** — Last updated: 2026-05-28
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Projects Editor, Editorial Operations, NYT Wirecutter | [The New York Times](https://thenewyorktimes.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4699885005) |
 | Bartender - Orangery  | [ACCOR](https://group.accor.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128796849) |
 | Bartender - Gordon Ramsay at The Mere | [ACCOR](https://group.accor.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128795920) |
 | Bartender - Banqueting  | [ACCOR](https://group.accor.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128796489) |
 | Villa Residence Rector (Rome, Italy) | [University of Notre Dame](https://universityofnotredame.com) | €30K–€32K/yr | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013330426) |
 | SAP DRC Analyst | [Continental](https://continentalserves.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000128764869) |
+| Correspondent, Business & Economics (Persian Gulf) | [The New York Times](https://thenewyorktimes.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4699399005) |
 | EMPLOYE BOULANGERIE 34,5H (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000128762847) |
+| Early Years Educator (Qualified) - Sanderstead | [Fennies Day Nurseries](https://fennies.com) | — | May 27 | [Apply](https://job-boards.eu.greenhouse.io/fenniesdaynurseries/jobs/4876817101) |
+| Agente Stone - Consultor(a) Comercial Externo -  Criciúma/SC | [Stone](https://stone.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/stone/jobs/7749653003) |
 | Consultant, Motor Insurance Claims | [Standard Bank](https://standardbank.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000128750169) |
+| Physical Therapist | [BenchMark Physical Therapy](https://benchmarkpt.com) | $80K–$95K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/benchmarkpt/jobs/5142358007) |
 | Temporary - Dish Crew  | [University of Notre Dame](https://universityofnotredame.com) | $18/yr | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013326395) |
 | Health & Safety Analyst | [Continental](https://continentalserves.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000128739089) |
 | Temporary - Houseperson | [University of Notre Dame](https://universityofnotredame.com) | $18/yr | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013325139) |
@@ -81,8 +86,10 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Consultant (w/m/d) Energiekonzepte und Dekarbonisierung | [Drees & Sommer](https://dreso.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000128464799) |
 | Gestor de Negócio | [Standard Bank](https://standardbank.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000128459361) |
 | Insurance Consulting, Senior Manager (General Insurance) | [Baringa](https://baringa.com) | — | May 26 | [Apply](https://job-boards.eu.greenhouse.io/baringa/jobs/4739006101) |
+| Kaufmännischer Geschäftsführer (m/w/d) | [Genpak LLC](https://genpak-llc-2) | — | May 26 | [Apply](https://job-boards.eu.greenhouse.io/eterniteamgmbh/jobs/4798762101) |
 | CEO (w/m/d) | [Genpak LLC](https://genpak-llc-2) | — | May 26 | [Apply](https://job-boards.eu.greenhouse.io/eterniteamgmbh/jobs/4798766101) |
 | CEO (w/m/d) | [Genpak LLC](https://genpak-llc-2) | — | May 26 | [Apply](https://job-boards.eu.greenhouse.io/eterniteamgmbh/jobs/4798755101) |
+| Geschäftsführer (w/m/d) - KFZ-Betrieb | [Genpak LLC](https://genpak-llc-2) | — | May 26 | [Apply](https://job-boards.eu.greenhouse.io/eterniteamgmbh/jobs/4805280101) |
 | Assistant Manager  | [Frasers Group](https://frasersgroup.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000128429504) |
 | Stage consultant Grande Distribution | [VusionGroup SA](https://vusiongroup.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/VusionGroupSA/postings/744000128423829) |
 | Executive Assistant - Television Distribution, Singapore | [NBCUniversal](https://nbcuniversal.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000128414255) |

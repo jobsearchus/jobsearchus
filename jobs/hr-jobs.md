@@ -2,13 +2,14 @@
 
 Remote HR, recruiting, and people operations roles.
 
-**93 open roles** — Last updated: 2026-05-27
+**94 open roles** — Last updated: 2026-05-28
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | Coordinator, Talent Development | [NBCUniversal](https://nbcuniversal.com) | $55K–$65K/yr | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000128723429) |
+| People Operations & Benefits Specialist (Contractor) | [Scopely](https://scopely.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/scopely/jobs/5230561008) |
 | Talent Management Program Manager | [Archer](https://archer.com) | $131K–$164K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7741018003) |
 | People & TA Partner | [Egis](https://egis-group.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000128632765) |
 | VP of People | [RADAR](https://goradar.com) | $225K–$280K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/radar/jobs/7955065) |

@@ -2,18 +2,34 @@
 
 Remote operations and business operations roles across industries.
 
-**545 open roles** — Last updated: 2026-05-27
+**561 open roles** — Last updated: 2026-05-28
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Customer Asset Lifecycle Lead | [Owner.com](https://owner.com) | — | May 27 | [Apply](https://jobs.ashbyhq.com/Owner/744ccf24-3356-4560-bfb7-6812a16a723f) |
+| Student Success Coordinator  | [Aviation Institute of Maintenance](https://aviationmaintenance.edu) | $35/yr | May 27 | [Apply](https://job-boards.greenhouse.io/aviationinstituteofmaintenance/jobs/5233188008) |
+| Lead Programs Manager, TRT/HRT | [OpenLoop](https://openloop.com) | — | May 27 | [Apply](https://jobs.ashbyhq.com/openloophealth/ca798243-fe27-4c33-b07b-64e8cade5fc7) |
+| Lead Program Manager, RPM/CCM/RCM | [OpenLoop](https://openloop.com) | — | May 27 | [Apply](https://jobs.ashbyhq.com/openloophealth/b0074446-726b-4303-8e97-67700e6f132e) |
+| Lead Programs Manager, Medical Weight Loss | [OpenLoop](https://openloop.com) | — | May 27 | [Apply](https://jobs.ashbyhq.com/openloophealth/3e409317-02b3-48ad-8c50-55cdc2679af7) |
+| Class A Commercial Driver | [Super-Sod](https://supersod.com) | $52K–$100K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/supersod/jobs/5231391008) |
+| Maintenance Supervisor | [IRCA](https://irca.eu) | — | May 27 | [Apply](https://jobs.lever.co/ircagroup/b8602720-e203-46dd-a901-af355d0e7a99) |
 | Analista de Planejamento e Controle PL. - Exclusiva para Mulheres | [Anglo American](https://angloamerican.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000128776560) |
 | Mecânico Industrial III | [Anglo American](https://angloamerican.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000128778039) |
 | Chauffeur classe 1, pour (Switch) Grand Remous, départ fixe & planifié. Salaire à l'heure débutant à 33.68$ h plan de retraite et avantages sociaux incomparable dans industries. | [Manitoulin Global Forwarding](https://manitoulingroup.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000128758749) |
+| Implementation Delivery Lead - CP Managed Services  | [bswift](https://bswift.com) | $65K–$85K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/bswift/jobs/4683408006) |
+| Commercial Door Installer | [DH Pace Company](https://dhpace.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5232536008) |
+| Commercial Door Installer | [DH Pace Company](https://dhpace.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5232535008) |
+| Machinist | [Stratolaunch](https://stratolaunch.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/stratolaunch/jobs/5232482008) |
 | Berufsausbildung Kfz-Mechatroniker (m/w/d) Schwerpunkt Pkw-Technik, bei Vergölst im Fachbetrieb | [Continental](https://continentalserves.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000128749903) |
+| Lead Machinist | [Stratolaunch](https://stratolaunch.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/stratolaunch/jobs/5232388008) |
 | Class 1 Flat  Deck Super B Driver based out of Saskatoon!! | [Manitoulin Global Forwarding](https://manitoulingroup.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000128749167) |
 | Futur Directeur de magasin F/H/X | [BUT](https://but.fr) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000128746070) |
+| Global Director of Logistics & Fulfilment  | [Too Good To Go](https://toogoodtogo.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/toogoodtogo/jobs/7746717003) |
+| Global Director of Logistics & Fulfilment  | [Too Good To Go](https://toogoodtogo.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/toogoodtogo/jobs/7746716003) |
+| Global Director of Logistics & Fulfilment  | [Too Good To Go](https://toogoodtogo.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/toogoodtogo/jobs/7734214003) |
+| Principal Computer Scientist | [ANSER](https://anser.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/analyticservicesinc/jobs/5231265008?gh_jid=5231265008) |
 | Futur Directeur de magasin F/H/X | [BUT](https://but.fr) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000128722690) |
 | Futur Directeur de magasin F/H/X | [BUT](https://but.fr) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000128722590) |
 | Supervisor (Capo Reparto) - New Opening Parma C.C. "Promenade" | [JD Sports](https://jdsports.com) | — | May 27 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4876437101) |

@@ -2,15 +2,20 @@
 
 Data science, machine learning, and AI engineering roles. Python, SQL, PyTorch, and beyond.
 
-**51 open roles** — Last updated: 2026-05-27
+**56 open roles** — Last updated: 2026-05-28
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Machine Learning Scientist, Algorithmic Recommendations (Email Targeting) | [The New York Times](https://thenewyorktimes.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4699761005) |
+| Staff ML Application Engineer | [Dragos](https://dragos.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/dragos/jobs/5200695008) |
+| Staff Machine Learning Engineer, AI Generation Engine | [SandboxAQ](https://sandboxaq.com) | — | May 27 | [Apply](https://jobs.ashbyhq.com/sandboxaq/54e2b57a-50dd-4e9a-beed-81ec2abcc9fa) |
 | Insurance & Asset Management Technology Graduate Programme - AI Engineer | [Standard Bank](https://standardbank.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000128711749) |
+| AI/ML Developer (Speech AI) | [Coherent Solutions](https://coherentsolutions.com) | — | May 27 | [Apply](https://job-boards.eu.greenhouse.io/coherentsolutions/jobs/4875207101) |
 | Applied AI Engineer  | [HackerRank](https://hackerrank.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/hackerrank/jobs/7959585) |
 | Senior Platform AI Engineer | [Drata](https://drata.com) | $192K–$260K/yr | May 26 | [Apply](https://jobs.ashbyhq.com/drata/f0ab62fb-c0a8-4bf2-bfd6-9d9d2e68fb91) |
+| Data Scientist | [Spotify](https://open.spotify.com) | — | May 26 | [Apply](https://jobs.lever.co/spotify/759f6c62-e450-4112-9db6-0c01eef47c76) |
 | Senior Data Scientist | [Customer.io](https://customer.io) | $140K–$150K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/customerio/jobs/7956880) |
 | Machine Learning Engineer II | [Affirm](https://affirm.com) | $125K–$175K/yr | May 25 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7719653003) |
 | Machine Learning Engineer II | [Affirm](https://affirm.com) | $160K–$210K/yr | May 25 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7719651003) |

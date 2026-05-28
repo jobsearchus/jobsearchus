@@ -2,14 +2,18 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**247 open roles** — Last updated: 2026-05-27
+**251 open roles** — Last updated: 2026-05-28
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Head of Accounting Policy & Financial Reporting | [OnePay](https://onepay.com) | — | May 27 | [Apply](https://jobs.ashbyhq.com/oneapp/8901a28f-98d0-4069-8c20-b52bb7416fc6) |
 | Senior Specialist, Business Development Risk | [Standard Bank](https://standardbank.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000128780274) |
+| Head of Finance | [Volta Labs, Inc.](https://voltalabs.com) | — | May 27 | [Apply](https://jobs.lever.co/voltalabs/4355379e-b44d-4dbc-9848-a0d1480fb9a4) |
 |  AML/KYC Assistant Manager | [IQ-EQ](https://iqeq.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000128759279) |
+| Executive Compensation Analyst | [Scopely](https://scopely.com) | $102K–$126K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/scopely/jobs/5230832008) |
+| Banking Onboarding Officer | [Capital.com](https://capitalcom.com) | — | May 27 | [Apply](https://jobs.lever.co/capital/76849913-60f4-4a10-b230-1f94db1e3ef5) |
 | Assistant(e) comptable | [Genpak LLC](https://genpak-llc-2) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000128724299) |
 | Senior Officer AML/KYC | [IQ-EQ](https://iqeq.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000128716594) |
 | Senior Fund Accounting Officer - Private Equity  | [IQ-EQ](https://iqeq.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000128679309) |

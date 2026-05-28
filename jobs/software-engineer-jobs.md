@@ -2,23 +2,46 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**844 open roles** — Last updated: 2026-05-27
+**869 open roles** — Last updated: 2026-05-28
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Electrical Engineer - Compute Hardware | [Applied Intuition](https://applied.co) | — | May 28 | [Apply](https://boards.greenhouse.io/appliedintuition/jobs/4700032005?gh_jid=4700032005) |
+| Senior Software Engineer, RestX | [Owner.com](https://owner.com) | $210K–$230K/yr | May 28 | [Apply](https://jobs.ashbyhq.com/Owner/fc0836f0-a4f2-437f-b438-5774e0021fbc) |
+| Senior Software Engineer, GTM Engineering | [Vanta](https://vanta.com) | — | May 28 | [Apply](https://jobs.ashbyhq.com/vanta/91c73485-5d0c-4272-9643-401ebcfff9d1) |
+| IT Operations Engineer | [Applied Intuition](https://applied.co) | $108K–$125K/yr | May 27 | [Apply](https://boards.greenhouse.io/appliedintuition/jobs/4698138005?gh_jid=4698138005) |
+| Azure Cloud Engineer | [LightFeather](https://lightfeather.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5233402008) |
+| Flight Sciences Tools and HPC engineer | [Archer](https://archer.com) | $163K–$218K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7740993003) |
+| Senior Design Assurance & Quality Engineer | [Archer](https://archer.com) | $144K–$180K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7710060003) |
+| Sr. AI Integration Engineer | [LightEdge](https://lightedge.com) | — | May 27 | [Apply](https://jobs.lever.co/lightedge/a6bda155-e9fe-4943-a140-eb57badde34d) |
 | Engenheiro Civil Jr  | [Egis](https://egis-group.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000128784639) |
+| Network Engineer, Global Sensor Network | [Slingshot Aerospace](https://slingshotaerospace.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/slingshotaerospace/jobs/6007431004?gh_jid=6007431004) |
+| Sr. Business Operations Engineer | [Yubico Inc.](https://yubico.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/yubico/jobs/4260240009) |
+| Sr. Business Operations Engineer | [Yubico Inc.](https://yubico.com) | $6K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/yubico/jobs/4260211009) |
+| Technical Support Engineer - POS | [Owner.com](https://owner.com) | — | May 27 | [Apply](https://jobs.ashbyhq.com/Owner/3a19b3c4-0277-49f3-b3ec-bc212aef5d29) |
+| Engineering Manager, Client Foundation | [Chime](https://chime.com) | $15K/yr | May 27 | [Apply](https://boards.greenhouse.io/chime/jobs/8557625002?gh_jid=8557625002) |
+| Staff Solutions Engineer | [LaunchDarkly](https://launchdarkly.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/launchdarkly/jobs/7749034003) |
+| Senior Quality Engineer- AI Augmented | [Peek](https://peek.com) | — | May 27 | [Apply](https://jobs.ashbyhq.com/peek/a4bd5ea7-d564-48db-b1e8-56ddd7905dea) |
+| Senior Staff Quality Engineer, Hardware | [IonQ](https://ionq.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/ionq/jobs/6006403004) |
+| Space Surveillance Engineer II | [Slingshot Aerospace](https://slingshotaerospace.com) | $128K–$213K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/slingshotaerospace/jobs/6007253004?gh_jid=6007253004) |
 | Consultant Chef de Projet Digital H/F | [Egis](https://egis-group.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000128757619) |
 | Consultant Chef de Projet Digital H/F | [Egis](https://egis-group.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000128756420) |
 | Especialista de Desenvolvimento de Software (Tech Lead Java) | [Experian](https://experianplc.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000128756079) |
+| Revenue Analytics Manager | [Cresta](https://cresta.com) | $120K–$175K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/cresta/jobs/5232532008) |
 | Analista Sênior de Inteligência de Negócios (Produto Seguros) | [Experian](https://experianplc.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000128745950) |
 | Cientista de Dados III | [Experian](https://experianplc.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000128742931) |
+| Senior Systems Engineer | [ANSER](https://anser.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/analyticservicesinc/jobs/5223143008?gh_jid=5223143008) |
+| Senior Computer Scientist | [ANSER](https://anser.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/analyticservicesinc/jobs/5231261008?gh_jid=5231261008) |
 | Software Development & Product Test  | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $76K–$90K/yr | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000128724305) |
+| Manufacturing Engineer - Digital Test Lead | [ALTEN](https://alten.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5147426007) |
 | System Engineering Analyst, ISTAR Program, Electronic Warfare | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $90K–$110K/yr | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000128722404) |
 | Flying Doc  (m/w/d)   | [MSX International](https://msxi.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013323814) |
 |  Flying Doc  (m/w/d)   | [MSX International](https://msxi.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013323856) |
 | Flying Doc  (m/w/d)   | [MSX International](https://msxi.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013323636) |
+| Principal Data Analyst | [Zynga](https://zynga.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/zyngacareers/jobs/6001960004) |
+| Data Engineering Manager  | [Dragos](https://dragos.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/dragos/jobs/5207887008) |
 | Middle/Senior Business Analyst (Swedish Ad Platform) | [Sigma Software](https://sigmasoftware.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/SigmaSoftware2/postings/744000128710069) |
 | IT Specialist | [Evolution](https://evolution.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/Evolution/postings/744000128704624) |
 | Senior BI Engineer  | [Sigma Software](https://sigmasoftware.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/SigmaSoftware2/postings/744000128699499) |
@@ -43,6 +66,8 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Especialista Windows | [Inetum](https://inetum.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000128606156) |
 | PV I Analista Sênior de Compliance I | [Experian](https://experianplc.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000128601209) |
 | Senior RF Engineer, Devices | [Gridware](https://gridware.io) | — | May 26 | [Apply](https://jobs.lever.co/gridware/47f23056-7568-438a-a098-44b7081bd1eb) |
+| Staff Software Engineer, Trust & Safety | [Replit](https://replit.com) | — | May 26 | [Apply](https://jobs.ashbyhq.com/replit/bd27a146-a100-4eef-80b5-f24a7ddff344) |
+| Senior Software Engineer, Fraud | [Replit](https://replit.com) | — | May 26 | [Apply](https://jobs.ashbyhq.com/replit/649b284a-75c3-4d58-9958-4db2740e6f8d) |
 | Senior Software Engineer, Risk | [Replit](https://replit.com) | — | May 26 | [Apply](https://jobs.ashbyhq.com/replit/3a657901-8b8e-47cd-a122-e45881eef124) |
 | Senior Software Engineer, Trust & Safety | [Replit](https://replit.com) | — | May 26 | [Apply](https://jobs.ashbyhq.com/replit/75477d6d-82e2-413c-b355-ec9426e56555) |
 | Senior Software Engineer, Content Storage Gateway | [Box](https://box.com) | — | May 26 | [Apply](https://job-boards.greenhouse.io/boxinc/jobs/7926192) |

@@ -2,12 +2,24 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**366 open roles** — Last updated: 2026-05-27
+**378 open roles** — Last updated: 2026-05-28
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Software Engineer, RestX | [Owner.com](https://owner.com) | $210K–$230K/yr | May 28 | [Apply](https://jobs.ashbyhq.com/Owner/fc0836f0-a4f2-437f-b438-5774e0021fbc) |
+| IT Operations Engineer | [Applied Intuition](https://applied.co) | $108K–$125K/yr | May 27 | [Apply](https://boards.greenhouse.io/appliedintuition/jobs/4698138005?gh_jid=4698138005) |
+| Full Stack Engineer, AgentControl | [LaunchDarkly](https://launchdarkly.com) | $171K–$235K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/launchdarkly/jobs/7750116003) |
+| Flight Sciences Tools and HPC engineer | [Archer](https://archer.com) | $163K–$218K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7740993003) |
+| Senior Design Assurance & Quality Engineer | [Archer](https://archer.com) | $144K–$180K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7710060003) |
+| Senior Instructional Designer | [dbt Labs](https://getdbt.com) | $125K–$170K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/dbtlabsinc/jobs/4699905005) |
+| Full Stack Engineer | [Oddball](https://oddball.com) | $100K–$140K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/oddball/jobs/7749864003) |
+| Creator Partner Manager | [Cantina](https://cantina.com) | $120K–$160K/yr | May 27 | [Apply](https://jobs.ashbyhq.com/cantina/04eaf201-fe7a-44fb-9520-7df9c03d256d) |
+| Space Surveillance Engineer II | [Slingshot Aerospace](https://slingshotaerospace.com) | $128K–$213K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/slingshotaerospace/jobs/6007253004?gh_jid=6007253004) |
+| Revenue Analytics Manager | [Cresta](https://cresta.com) | $120K–$175K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/cresta/jobs/5232532008) |
+| Assistant General Counsel, Corporate Governance | [NPR](https://npr.com) | $150K–$165K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/nationalpublicradioinc/jobs/4692729005) |
+| Executive Compensation Analyst | [Scopely](https://scopely.com) | $102K–$126K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/scopely/jobs/5230832008) |
 | Senior Director of Marketing, Business Banking | [Monzo](https://monzo.com) | £140K–£180K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7771697) |
 | Talent Management Program Manager | [Archer](https://archer.com) | $131K–$164K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7741018003) |
 | Sr Manager CW Tech Svcs & Ops Planning | [NBCUniversal](https://nbcuniversal.com) | $120K–$160K/yr | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000128634119) |

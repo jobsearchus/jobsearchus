@@ -2,12 +2,13 @@
 
 Remote creative roles — copywriters, content creators, graphic designers, and brand specialists.
 
-**49 open roles** — Last updated: 2026-05-27
+**50 open roles** — Last updated: 2026-05-28
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Dealer Services Representative - GTA (Part-Time) [Mobile Automotive Photographer] | [Genpak LLC](https://genpak-llc-2) | — | May 27 | [Apply](https://job-boards.greenhouse.io/autotradercanada/jobs/7739822003) |
 | 2D Artist | [Evolution](https://evolution.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/Evolution/postings/744000128723223) |
 | Creative Lead | [VML MAP](https://vml-map.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/map/jobs/8565942002) |
 | Creative Services Executive | [NBCUniversal](https://nbcuniversal.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000128632050) |
