@@ -2,21 +2,45 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**892 open roles** — Last updated: 2026-05-28
+**920 open roles** — Last updated: 2026-05-28
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| [8PV] Software Architect | [Software Mind](https://softwaremind.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/SoftwareMind/postings/744000129023682) |
+| Senior Software Engineer, Platform | [Omada Health](https://omadahealth.com) | $179K–$224K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/omadahealth/jobs/7958282) |
+| Sr. Manager, Engineering - Core Platform | [Vanta](https://vanta.com) | — | May 28 | [Apply](https://jobs.ashbyhq.com/vanta/c455a90c-03b4-4ae9-998d-28469600af88) |
+| Senior Research Engineer - Video Agents  | [Canva](https://canva.com) | $220K–$280K/yr | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Canva/postings/6000000001113930) |
+| Product Engineer - AI Control Plane | [Speakeasy](https://speakeasy.com) | — | May 28 | [Apply](https://jobs.ashbyhq.com/speakeasy/df5263bd-c529-4563-9d93-136a5d5b1dd5) |
+| Senior Systems Engineer | [New Era Technology](https://neweratech.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8555875002) |
+| Principal Architect (Application Architecture ) | [Endava](https://endava.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Endava/postings/744000128993879) |
+| Forward Deployed Engineer | [Sixfold Bioscience](https://sixfold.bio) | $155K–$200K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/sixfold/jobs/5234031008) |
+| Scientist I, In Vitro Pharmacology | [Flagship Pioneering, Inc.](https://flagshippioneering.com) | $100K–$127K/yr | May 28 | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8567001002?gh_jid=8567001002) |
+| Senior Product Counsel | [ClickHouse](https://clickhouse.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/clickhouse/jobs/6007957004) |
+| Senior Scientist, Proteomics | [Flagship Pioneering, Inc.](https://flagshippioneering.com) | $126K–$160K/yr | May 28 | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8567761002?gh_jid=8567761002) |
+| Strategic Solutions Engineer, Pacific Northwest | [ClickUp](https://clickup.com) | — | May 28 | [Apply](https://jobs.ashbyhq.com/clickup/9065fdd6-2d92-4f7c-8600-8c425bd410ac) |
+| Ingénieur Big Data – Python / PySpark / Hadoop – Bordeaux (H/F) | [Everience](https://everience.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/EVERIENCE/postings/744000128956964) |
+| Data Engineer | [Gymshark](https://gymshark.com) | — | May 28 | [Apply](https://job-boards.eu.greenhouse.io/gymshark/jobs/4877514101) |
+| MS Fabric / Azure  Data Engineer  ( 5- 7 yrs ) - Immediate Joiners | [WNS](https://wns.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/WNSGlobalServices144/postings/744000128938944) |
+| Architecte Sécurité / Avant-Vente (H/F) | [Magellan Partners](https://magellanpartners.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/MagellanPartners/postings/744000128941219) |
 | Intern, Data Labeler (Mandarin Speaker) - (Global Discovery, Consumer) | [Delivery Hero](https://deliveryhero.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000128938409) |
+| Staff Software Engineer - API Platform | [Canva](https://canva.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Canva/postings/6000000001113880) |
 | Développeur Confirmé | [Inetum](https://inetum.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000128936199) |
+| Consultant Systems Support Engineer (node and react) | [Referrals Only](https://thoughtworks.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7962880) |
 | Cloud Architect | [Inetum](https://inetum.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000128917419) |
 | Projectingenieur Engineering & BIM | [BESIX](https://besix.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000128916525) |
+| [GFA] Tech Lead Software Engineer (Angular, Nest.js) | [Software Mind](https://softwaremind.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/SoftwareMind/postings/744000128913979) |
 | OPC Systèmes & Essais | [Egis](https://egis-group.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000128908355) |
+| Junior iOS Engineer  | [Trainline](https://trainlinegroup.com) | — | May 28 | [Apply](https://jobs.ashbyhq.com/trainline/854524b3-119a-4152-9e96-cf16d05ba9e9) |
 | Technicien Surveillant de Travaux MOE Hydraulique Urbaine H/F | [Egis](https://egis-group.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000128905394) |
+| Architecte Sécurité Microsoft (H/F) | [Magellan Partners](https://magellanpartners.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/MagellanPartners/postings/744000128900880) |
+| Architecte Modern Endpoint (H/F) | [Magellan Partners](https://magellanpartners.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/MagellanPartners/postings/744000128900729) |
 | Chef de Projet confirmé MOE Hydraulique Urbaine H/F | [Egis](https://egis-group.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000128897566) |
+| Ratasuunnittelun projektipäällikkö / asiantuntija (kansainvälisiin hankkeisiin) | [Ramboll](https://ramboll.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Ramboll3/postings/744000128897569) |
 | Staff Engineer, SAP Material Management | [Nagarro](https://nagarro.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000128893384) |
 | Staff Engineer, SAP Human Experience Management | [Nagarro](https://nagarro.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000128892439) |
+| Staff Enterprise Security Engineer, AI Security | [Twilio](https://twilio.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7962686) |
 | Solution Architect - Microsoft | [NCS](https://ncs.co) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001113751) |
 | UI Engineer (Outbound/Selfservice) | [Miratech](https://miratech.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000128879029) |
 | Diagnostic Support Engineer  | [MSX International](https://msxi.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013342746) |
@@ -25,6 +49,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Application Engineer (AI Automation) | [Pure Storage](https://purestorage.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/7929039) |
 | Senior Electrical Engineer - Compute Hardware | [Applied Intuition](https://applied.co) | — | May 28 | [Apply](https://boards.greenhouse.io/appliedintuition/jobs/4700032005?gh_jid=4700032005) |
 | Senior Data Analyst | [CertiK](https://certik.com) | — | May 28 | [Apply](https://jobs.lever.co/certik/20ea2502-dd24-40f9-a2e7-59a96d37ec88) |
+| Staff Software Engineer, RestX | [Owner.com](https://owner.com) | $220K–$240K/yr | May 28 | [Apply](https://jobs.ashbyhq.com/Owner/835c2f86-eeb7-4b23-a285-b26b339ad80a) |
 | Senior Software Engineer, RestX | [Owner.com](https://owner.com) | $210K–$230K/yr | May 28 | [Apply](https://jobs.ashbyhq.com/Owner/fc0836f0-a4f2-437f-b438-5774e0021fbc) |
 | Senior Software Engineer, GTM Engineering | [Vanta](https://vanta.com) | — | May 28 | [Apply](https://jobs.ashbyhq.com/vanta/91c73485-5d0c-4272-9643-401ebcfff9d1) |
 | IT Operations Engineer | [Applied Intuition](https://applied.co) | $108K–$125K/yr | May 27 | [Apply](https://boards.greenhouse.io/appliedintuition/jobs/4698138005?gh_jid=4698138005) |
@@ -88,7 +113,10 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Software Development Manager, Payments | [Twitch](https://twitch.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8563240002) |
 | Especialista Windows | [Inetum](https://inetum.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000128606156) |
 | PV I Analista Sênior de Compliance I | [Experian](https://experianplc.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000128601209) |
+| Security Engineer - Vuln Management (Infra) | [Replit](https://replit.com) | — | May 26 | [Apply](https://jobs.ashbyhq.com/replit/4b290489-9ce6-45f9-bbc8-e1baa4bd8b6f) |
 | Senior RF Engineer, Devices | [Gridware](https://gridware.io) | — | May 26 | [Apply](https://jobs.lever.co/gridware/47f23056-7568-438a-a098-44b7081bd1eb) |
+| Staff Software Engineer, Fraud | [Replit](https://replit.com) | — | May 26 | [Apply](https://jobs.ashbyhq.com/replit/27618f18-d516-42c0-a321-592f18606431) |
+| Staff Software Engineer, Risk | [Replit](https://replit.com) | — | May 26 | [Apply](https://jobs.ashbyhq.com/replit/76aebfe2-f481-4463-9650-1bdaffaeb24d) |
 | Staff Software Engineer, Trust & Safety | [Replit](https://replit.com) | — | May 26 | [Apply](https://jobs.ashbyhq.com/replit/bd27a146-a100-4eef-80b5-f24a7ddff344) |
 | Senior Software Engineer, Fraud | [Replit](https://replit.com) | — | May 26 | [Apply](https://jobs.ashbyhq.com/replit/649b284a-75c3-4d58-9958-4db2740e6f8d) |
 | Senior Software Engineer, Risk | [Replit](https://replit.com) | — | May 26 | [Apply](https://jobs.ashbyhq.com/replit/3a657901-8b8e-47cd-a122-e45881eef124) |

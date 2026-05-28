@@ -2,12 +2,14 @@
 
 Full-stack engineering roles across product, platform, and startup companies.
 
-**31 open roles** — Last updated: 2026-05-28
+**33 open roles** — Last updated: 2026-05-28
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Fullstack Forward Deployed Engineer  | [Turing College](https://turingcollege.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/turing/jobs/6007383004) |
+| Fullstack Product Engineer  | [Turing College](https://turingcollege.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/turing/jobs/6007382004) |
 | Full Stack Engineer, AgentControl | [LaunchDarkly](https://launchdarkly.com) | $171K–$235K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/launchdarkly/jobs/7750116003) |
 | Full Stack Engineer | [Oddball](https://oddball.com) | $100K–$140K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/oddball/jobs/7749864003) |
 | Full Stack Engineer - Assistant Vice President | [iCapital](https://icapital.com) | $100K–$130K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8452446002) |

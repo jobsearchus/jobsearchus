@@ -2,12 +2,14 @@
 
 Remote creative roles — copywriters, content creators, graphic designers, and brand specialists.
 
-**53 open roles** — Last updated: 2026-05-28
+**55 open roles** — Last updated: 2026-05-28
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Graphics Production Assistant, MS NOW The Beat | [Versant](https://versant.com) | $30/yr | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Versant3/postings/744000129005189) |
+| Web Content/ Web content publishing/CMS/AEM/PIM - Gurgaon Immediate joiners  ( 1+ yrs ) | [WNS](https://wns.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/WNSGlobalServices144/postings/744000128948965) |
 | Technical Content Researcher | [MSX International](https://msxi.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013343576) |
 | Multimedia Producer | [Netcompany](https://netcompany.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000128881736) |
 | Dealer Services Representative - GTA (Part-Time) [Mobile Automotive Photographer] | [Genpak LLC](https://genpak-llc-2) | — | May 27 | [Apply](https://job-boards.greenhouse.io/autotradercanada/jobs/7739822003) |

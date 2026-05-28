@@ -2,23 +2,34 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**264 open roles** — Last updated: 2026-05-28
+**275 open roles** — Last updated: 2026-05-28
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Prime Brokerage Business Architect | [Endava](https://endava.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Endava/postings/744000129014216) |
+| Senior Accountant (Revenue) | [Apollo.io](https://apollo.io) | — | May 28 | [Apply](https://job-boards.greenhouse.io/apolloio/jobs/6006160004) |
+| Staff Accountant | [Seed](https://seed.co) | $75K–$95K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/seed/jobs/7743291003) |
+| Compensation and Benefits Analyst  | [Nielsen](https://nielsen.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990013348367) |
+| Financial Planning & Analysis Manager/Senior Manager | [Exploding Kittens](https://explodingkittens.com) | — | May 28 | [Apply](https://jobs.lever.co/explodingkittens/5b52fa63-bea2-4370-95c6-e65c3ebd9dab) |
 | O2C Process Excellence Lead - HQ | [Delivery Hero](https://deliveryhero.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000128943999) |
 | Lead Process Owner O2C | [Delivery Hero](https://deliveryhero.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000128940755) |
 | Cluster Cashier Manager  | [ACCOR](https://group.accor.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128933722) |
 | Personal and Private Banking (PPB) SA SB Private Mpumalanga Graduate Programme  | [Standard Bank](https://standardbank.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000128934749) |
 |  Associate Director, Funds KYC | [IQ-EQ](https://iqeq.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000128926892) |
+| Financial Accounting Specialist (AR Ops) (계약직) | [Coupang](https://coupang.com) | — | May 28 | [Apply](https://boards.greenhouse.io/coupanginternal/jobs/7962824?gh_jid=7962824) |
+| Payroll Specialist/Accountant | [Genpak LLC](https://genpak-llc-2) | — | May 28 | [Apply](https://job-boards.eu.greenhouse.io/growetalents/jobs/4876883101) |
+| Payroll Specialist/Accountant | [Growe](https://growe.com) | — | May 28 | [Apply](https://job-boards.eu.greenhouse.io/growe/jobs/4876882101) |
 |  Invoicing Officer | [IQ-EQ](https://iqeq.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000128918329) |
 | SAP Analyst - Product Owner | [Anglo American](https://angloamerican.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000128916688) |
 |  Senior Invoicing Officer | [IQ-EQ](https://iqeq.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000128911931) |
+| SOX Analyst | [Clear Gene](https://cleargene.com) | $110K–$140K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/clear/jobs/7962814) |
 | Head, Non-Financial Risk, Jersey | [Standard Bank](https://standardbank.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000128902549) |
 | Team Lead, Feature Trade Support | [Standard Bank](https://standardbank.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000128894625) |
+| Compliance Analyst I | [Affirm](https://affirm.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7738010003) |
 | Summer Student - Finance | [Entain](https://entaingroup.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Entain/postings/744000128893531) |
+| Finance Director | [Juniper Square](https://junipersquare.com) | $165K–$200K/yr | May 27 | [Apply](https://jobs.ashbyhq.com/junipersquare/8ea579d5-206d-4e61-801c-a534ddf766ef) |
 | Head of Accounting Policy & Financial Reporting | [OnePay](https://onepay.com) | — | May 27 | [Apply](https://jobs.ashbyhq.com/oneapp/8901a28f-98d0-4069-8c20-b52bb7416fc6) |
 | Accounting Analyst | [Flexport](https://flexport.com) | — | May 27 | [Apply](https://boards.greenhouse.io/flexport/jobs/7961631?gh_jid=7961631) |
 | Senior Specialist, Business Development Risk | [Standard Bank](https://standardbank.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000128780274) |

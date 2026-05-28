@@ -2,13 +2,16 @@
 
 Remote legal, compliance, and counsel roles.
 
-**63 open roles** — Last updated: 2026-05-28
+**66 open roles** — Last updated: 2026-05-28
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Enablement Experience Manager | [Vanta](https://vanta.com) | — | May 28 | [Apply](https://jobs.ashbyhq.com/vanta/3cd8f71d-9397-40fd-8fda-037d622e6c79) |
+| Paralegal, State Supreme Court Initiative (SSCI) | [ACLU](https://aclu.org) | — | May 28 | [Apply](https://job-boards.greenhouse.io/aclu/jobs/8551448002) |
 | Legal Engineer - Tax | [Genpak LLC](https://genpak-llc-2) | — | May 28 | [Apply](https://jobs.ashbyhq.com/legora/080a5ada-9842-46cb-ad30-aed8bfd67f0f) |
+| Senior Corporate Counsel, Commercial | [Clear Gene](https://cleargene.com) | $225K–$275K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/clear/jobs/7962724) |
 | Assistant General Counsel, Corporate Governance | [NPR](https://npr.com) | $150K–$165K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/nationalpublicradioinc/jobs/4692729005) |
 | Legal Counsel  | [Wolt](https://wolt.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7959620) |
 | Product & Privacy Counsel | [Teleport](https://goteleport.com) | — | May 27 | [Apply](https://jobs.ashbyhq.com/goteleport/fc87af71-8464-4e05-ae4d-668e029818d2) |

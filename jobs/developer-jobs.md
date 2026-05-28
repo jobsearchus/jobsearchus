@@ -2,12 +2,13 @@
 
 General developer and programmer roles that did not fit a more specific category.
 
-**72 open roles** — Last updated: 2026-05-28
+**73 open roles** — Last updated: 2026-05-28
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Enterprise Platforms Professional I ( SAP HANA BODS Developer) | [Nielsen](https://nielsen.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990013348078) |
 | Oracle Apex Developer | [Inetum](https://inetum.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000128913649) |
 | NICE CX-One Developer | [Miratech](https://miratech.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000128877869) |
 | NICE CX-One Developer | [Miratech](https://miratech.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000128875161) |

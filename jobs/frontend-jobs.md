@@ -2,12 +2,13 @@
 
 Frontend engineering roles. React, Vue, Angular, TypeScript — direct from company career pages.
 
-**10 open roles** — Last updated: 2026-05-28
+**11 open roles** — Last updated: 2026-05-28
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Lead Front End Shopify Engineer  | [VML](https://vml.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/vmlenterprisesolutions/jobs/8568395002) |
 | Engenheiro de Software Front-end Sênior | [Experian](https://experianplc.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000128600639) |
 | Middle/Senior Front-End Developer (React/TypeScript) | [Sigma Software](https://sigmasoftware.com) | — | May 22 | [Apply](https://api.smartrecruiters.com/v1/companies/SigmaSoftware2/postings/744000127830904) |
 | Senior Front End Engineer | [Abacum](https://abacum.ai) | — | May 21 | [Apply](https://jobs.ashbyhq.com/abacum/363d45fd-7117-483e-8c2b-7d7b0c765380) |

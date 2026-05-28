@@ -2,12 +2,14 @@
 
 UX design, UI design, and product design roles. Figma, research, and end-to-end product work.
 
-**85 open roles** — Last updated: 2026-05-28
+**87 open roles** — Last updated: 2026-05-28
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Digital Designer (German fluent) | [Genpak LLC](https://genpak-llc-2) | — | May 28 | [Apply](https://job-boards.greenhouse.io/brandtechplus/jobs/7963251) |
+| Digital Designer (French fluent) | [Genpak LLC](https://genpak-llc-2) | — | May 28 | [Apply](https://job-boards.greenhouse.io/brandtechplus/jobs/7963249) |
 | Mid Weight Product Designer | [Experian](https://experianplc.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000128901832) |
 | Senior Graphic Designer | [Netcompany](https://netcompany.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000128884079) |
 | Senior Product Designer | [Genpak LLC](https://genpak-llc-2) | — | May 28 | [Apply](https://jobs.ashbyhq.com/legora/89073502-e8e3-49d9-ba4b-5642ef1a933d) |

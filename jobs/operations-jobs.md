@@ -2,18 +2,30 @@
 
 Remote operations and business operations roles across industries.
 
-**580 open roles** — Last updated: 2026-05-28
+**592 open roles** — Last updated: 2026-05-28
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Sr. Manager, Engineering - Core Platform | [Vanta](https://vanta.com) | — | May 28 | [Apply](https://jobs.ashbyhq.com/vanta/cb97ac48-29a5-49da-a804-f19b907a8163) |
+| Staff Technical Program Manager, Batteries  | [ŌURA](https://ouraring.com) | $198K–$233K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/oura/jobs/4260161009) |
+| Analyste, Planification de la production  | [Vosker](https://vosker.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Vosker/postings/744000128970821) |
+| Lead eCommerce, Transactional Services | [Vosker](https://vosker.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Vosker/postings/744000128971305) |
+| Middle Payments Operations Specialist | [GR8 Tech](https://gr8.com) | — | May 28 | [Apply](https://job-boards.eu.greenhouse.io/gr8tech/jobs/4877324101) |
+| Key Account Manager (API) | [Vonage](https://vonage.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/vonage/jobs/8549510002) |
 | Contracts Administrator | [PortmanDentex](https://portmandentex.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000128925836) |
 | commis 2 | [ACCOR](https://group.accor.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128922829) |
+| Superviseur - Comptes payables | [Vosker](https://vosker.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Vosker/postings/744000128920212) |
+| Business Operations & Strategy Manager | [Tailscale](https://tailscale.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/tailscale/jobs/4699962005) |
+| Business Operations & Strategy Manager | [Tailscale](https://tailscale.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/tailscale/jobs/4694081005) |
 | Préparateur / Préparatrice de Commandes Drive — H/F | [Genpak LLC](https://genpak-llc-2) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000128909910) |
 | Mitarbeiter Leitstand Energieversorgung (m/w/divers) - REF89048E | [Continental](https://continentalserves.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000128907329) |
+| [CPLB] Instock Management Specialist (PL Instock Management-Fresh) [L4] | [Coupang](https://coupang.com) | — | May 28 | [Apply](https://boards.greenhouse.io/coupanginternal/jobs/7959643?gh_jid=7959643) |
 | Sequencing Planner (Working in Shift) | [Continental](https://continentalserves.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000128883739) |
 | Dispatcher FTE | [Anglo American](https://angloamerican.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000128876560) |
+| Experienced Low Voltage Service Technician | [New Era Technology](https://neweratech.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8562573002) |
+| Cinema Programmer - Soho House Hong Kong | [Soho House](https://sohohouse.com) | — | May 28 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4876984101) |
 |  General Affairs  | [SBT Global](https://sbtglobal.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/SBTGlobalInc/postings/3743990013341736) |
 | Customer Asset Lifecycle Lead | [Owner.com](https://owner.com) | — | May 27 | [Apply](https://jobs.ashbyhq.com/Owner/744ccf24-3356-4560-bfb7-6812a16a723f) |
 | Purchasing Support - Bilingual in Korean | [SBT Global](https://sbtglobal.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/SBTGlobalInc/postings/3743990013340636) |

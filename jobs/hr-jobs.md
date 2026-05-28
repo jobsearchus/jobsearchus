@@ -2,12 +2,14 @@
 
 Remote HR, recruiting, and people operations roles.
 
-**96 open roles** — Last updated: 2026-05-28
+**98 open roles** — Last updated: 2026-05-28
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Confidential Assistant to Chief Human Resources Officer | [ACLU](https://aclu.org) | — | May 28 | [Apply](https://job-boards.greenhouse.io/aclu/jobs/8568784002) |
+| EMEA Payroll Specialist - Romania and Overseas | [Sophos](https://sophos.com) | — | May 28 | [Apply](https://jobs.lever.co/sophos/c03194a3-e01e-42aa-828f-9da20d7536a5) |
 | HR / Recruiting Coordinator  | [SBT Global](https://sbtglobal.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/SBTGlobalInc/postings/3743990013341686) |
 | HR Business Partner | [CertiK](https://certik.com) | — | May 27 | [Apply](https://jobs.lever.co/certik/bc89a6d2-060b-4ec3-a096-42bfecbf4c26) |
 | Coordinator, Talent Development | [NBCUniversal](https://nbcuniversal.com) | $55K–$65K/yr | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000128723429) |

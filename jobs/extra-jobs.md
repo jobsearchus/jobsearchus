@@ -2,17 +2,25 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**599 open roles** — Last updated: 2026-05-28
+**611 open roles** — Last updated: 2026-05-28
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Electrical Technician Instructor | [Aviation Institute of Maintenance](https://aviationmaintenance.edu) | $42/yr | May 28 | [Apply](https://job-boards.greenhouse.io/aviationinstituteofmaintenance/jobs/5234415008) |
+| Chief Revenue Officer | [Swayable](https://swayable.com) | $250K–$300K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/swayable/jobs/5148809007) |
+| Business Development Lead | [Growe](https://growe.com) | — | May 28 | [Apply](https://job-boards.eu.greenhouse.io/growe/jobs/4874323101) |
 | IT Support Specialist - London | [Genpak LLC](https://genpak-llc-2) | — | May 28 | [Apply](https://jobs.ashbyhq.com/legora/1375ee19-aa7e-479e-bbfa-a8ad53907968) |
+| Bartender - Soho Farmhouse (Pen Yen) | [Soho House](https://sohohouse.com) | — | May 28 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4877269101) |
+| Développeur/se Data Senior (Spark, Scala) - Transport - Nantes | [Sopra Steria](https://soprasteria.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/SopraSteria1/postings/744000128902253) |
+| Support Officer | [Sopra Steria](https://soprasteria.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/SopraSteria1/postings/744000128888589) |
 | STELLVERTRETENDE/R FILIALLEITER/IN (M/W/D) - Bad Dürkheim (30h) | [JYSK](https://jysk.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000128864909) |
 | SPRZEDAWCA / SPRZEDAWCZYNI JYSK Białystok, al. Solidarności 9, (1/2 ETATU, 2550 PLN brutto) | [JYSK](https://jysk.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000128864199) |
 | STELLVERTRETENDE/R FILIALLEITER/IN (M/W/D) - Weinheim | [JYSK](https://jysk.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000128864099) |
 | Rehabilitation Consultant (Occupational Therapist) | [Genpak LLC](https://genpak-llc-2) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/APMGroup/postings/6000000001112742) |
+| Manager, Regulatory | [e.l.f. Beauty](https://elfbeauty.com) | — | May 28 | [Apply](https://jobs.lever.co/elfbeauty/8317dcf3-73db-4865-b8c4-f21f9ff58e4b) |
+| Physical Therapist Assistant, PTA ($12,000 in Bonuses!) | [InHomeTherapy](https://inhometherapy.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/inhometherapy/jobs/5145851007) |
 | Projects Editor, Editorial Operations, NYT Wirecutter | [The New York Times](https://thenewyorktimes.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4699885005) |
 | Graduate Program Director | [University of Notre Dame](https://universityofnotredame.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013336352) |
 | Bartender - Orangery  | [ACCOR](https://group.accor.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128796849) |
@@ -20,6 +28,8 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Bartender - Banqueting  | [ACCOR](https://group.accor.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128796489) |
 | Country Director, India | [Cloudflare](https://cloudflare.com) | — | May 27 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7588061?gh_jid=7588061) |
 | Lead Barista - Cafe J/Ivan's Cafe | [University of Notre Dame](https://universityofnotredame.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013335996) |
+| Business Performance Associate | [Fever](https://feverup.com) | — | May 27 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4876911101) |
+| Physical Therapist Clinic Director  | [Genpak LLC](https://genpak-llc-2) | $85K–$105K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/drayerpt/jobs/5147887007) |
 | Lead Associate Trading Director | [The Trade Desk](https://thetradedesk.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5144209007) |
 | Villa Residence Rector (Rome, Italy) | [University of Notre Dame](https://universityofnotredame.com) | €30K–€32K/yr | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013330426) |
 | Sales Assistant (Part Time) – Busango C.C. “Globo"  | [JD Sports](https://jdsports.com) | — | May 27 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4876831101) |
@@ -37,8 +47,10 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Health & Safety Analyst | [Continental](https://continentalserves.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000128739089) |
 | Temporary - Houseperson | [University of Notre Dame](https://universityofnotredame.com) | $18/yr | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013325139) |
 | Physician: Pathology: Anatomic and Clinical - Lake Forest, IL | [Northwestern Medicine](https://northwesternmedicine.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/NorthwesternMedicine/postings/744000128732378) |
+| Physical Therapist Assistant | [BenchMark Physical Therapy](https://benchmarkpt.com) | $78K–$95K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/benchmarkpt/jobs/5147396007) |
 | PLT Final Finish Material Handler (MHL)- Illinois | [Continental](https://continentalserves.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000128716481) |
 | PLT Plant I Curing  Setup Tech | [Continental](https://continentalserves.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000128713575) |
+| Chef de Partie - Shoreditch House, East London | [Soho House](https://sohohouse.com) | — | May 27 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4869710101) |
 | Senior IPAM Engineer | [New Era Technology](https://neweratech.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8554788002) |
 | Allround Receptionist (24 tot 32 uur) | [Genpak LLC](https://genpak-llc-2) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000128695803) |
 | Early Years Educator (Unqualified) - Christchurch | [Fennies Day Nurseries](https://fennies.com) | — | May 27 | [Apply](https://job-boards.eu.greenhouse.io/fenniesdaynurseries/jobs/4876357101) |

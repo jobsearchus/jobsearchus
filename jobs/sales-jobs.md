@@ -2,22 +2,37 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**526 open roles** — Last updated: 2026-05-28
+**543 open roles** — Last updated: 2026-05-28
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Enterprise Account Executive | [Canva](https://canva.com) | $212K–$326K/yr | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Canva/postings/6000000001113935) |
+| Account Executive, Enterprise - Carolinas | [Zscaler](https://zscaler.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5147247007) |
+| Account Executive, Majors - PacNW | [Zscaler](https://zscaler.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5147249007) |
+| Account Executive - Central HigherEd SLED | [Zscaler](https://zscaler.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5141033007) |
+| Lead Account Executive | [Nielsen](https://nielsen.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990013346324) |
+| Manager, Patient Success | [Natera](https://natera.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/natera/jobs/6007779004) |
+| Customer Growth Specialist - Key Accounts (w/m/d) | [Too Good To Go](https://toogoodtogo.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/toogoodtogo/jobs/7750983003) |
+| Sales Director | [Loop Health](https://loophealth.com) | $350K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/loop/jobs/6008046004) |
+| Channel Account Executive MSP | [Sophos](https://sophos.com) | — | May 28 | [Apply](https://jobs.lever.co/sophos/92a2a904-50ae-427a-bf2e-f4060a1b0694) |
 | Kundenberater Fahrzeugbewertung (d/m/w) | [AUTO1 Group](https://auto1-group.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000128940891) |
 | Kundenberater Fahrzeugbewertung (d/m/w) | [AUTO1 Group](https://auto1-group.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000128941439) |
+| Mid-Market Account Manager (German Speaking) | [Vonage](https://vonage.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/vonage/jobs/8559471002) |
+| Sales Development Representative, Strategic Accounts, with Spanish | [Veeam Software](https://veeam.com) | — | May 28 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4875442101) |
 | Vendeur / Vendeuse CDD -  Temps partiel 25H (H/F) | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000128929929) |
+| Partner Manager - South Africa | [Veeam Software](https://veeam.com) | — | May 28 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4868150101) |
 | CONSEILLER DE VENTE ETUDIANT CDD | [Genpak LLC](https://genpak-llc-2) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000128912793) |
+| City Business Lead – Field Sales & Operations | [Instawork](https://instawork.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/instawork/jobs/4684940006) |
 | VENDEUR CONSEIL - CDD TEMPS PLEIN H/F | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000128887473) |
 | Sales Manager (m/f/d) | [Experian](https://experianplc.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000128886983) |
 | Vendeur petit électroménager F/H/X | [BUT](https://but.fr) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000128869970) |
 | Business Relationship Lead - Home Care Warrnambool | [Healthcare Australia](https://healthcareaustralia.com.au) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/HealthcareAustralia1/postings/6000000001113339) |
 | Business Development Lead - Home Care Warrnambool | [Healthcare Australia](https://healthcareaustralia.com.au) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/HealthcareAustralia1/postings/6000000001113315) |
 | Enterprise Sales Account Executive | [Sectigo](https://sectigo.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Sectigo/postings/3743990013342321) |
+| Technical Account Manager (Tokyo, Japan) | [Figma](https://figma.com) | — | May 28 | [Apply](https://boards.greenhouse.io/figma/jobs/6006175004?gh_jid=6006175004) |
+| Senior Sales Enablement Manager (Singapore) | [Figma](https://figma.com) | — | May 28 | [Apply](https://boards.greenhouse.io/figma/jobs/6005428004?gh_jid=6005428004) |
 | Director of Global AWS Cloud Alliance | [Zscaler](https://zscaler.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5147255007) |
 | Account Executive - NSW | [Diligent Corporation](https://diligent.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/diligentcorporation/jobs/6007827004) |
 | Associate Director, Business Development | [The Trade Desk](https://thetradedesk.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5148349007) |
@@ -43,9 +58,11 @@ Remote sales roles — account executives, SDRs, and enterprise deals.
 | PV - Executivo (a) de Vendas Externas Sênior - Sobral/CE | [Experian](https://experianplc.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000128743119) |
 | PV - Executivo (a) de Vendas Externas Pleno - São Luís/MA | [Experian](https://experianplc.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000128740605) |
 | Sales Development Representative Intern (Hybrid) | [KnowBe4](https://knowbe4.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8566454002) |
+| Large Enterprise Account Executive, Financial Services (New York, NY) | [Box](https://box.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/boxinc/jobs/7960383) |
 | PV - Executivo (a) de Vendas Externas Pleno - Campinas/SP | [Experian](https://experianplc.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000128730189) |
 | Account Manager Planning - CDI - F/H | [WPP Media](https://wppmedia.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5232192008) |
 | Account Manager, OOH | [WPP Media](https://wppmedia.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5195292008) |
+| Key Account Manager - NL | [Too Good To Go](https://toogoodtogo.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/toogoodtogo/jobs/7749323003) |
 | Senior Partner Sales Specialist | [Diligent Corporation](https://diligent.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/diligentcorporation/jobs/6007037004) |
 | Senior Client Solutions Manager | [Aleph](https://aleph.vc) | — | May 27 | [Apply](https://jobs.lever.co/aleph/0b621694-32da-414f-a82c-dc2969ac3442) |
 | Retail Strategic Account Manager - CSM | [VusionGroup SA](https://vusiongroup.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/VusionGroupSA/postings/744000128707194) |

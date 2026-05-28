@@ -2,12 +2,14 @@
 
 DevOps, platform engineering, and infrastructure roles. AWS, GCP, Kubernetes, Terraform.
 
-**53 open roles** — Last updated: 2026-05-28
+**55 open roles** — Last updated: 2026-05-28
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Posted | Apply |
 | --- | --- | --- | --- |
+| Senior Azure Data Platform Engineer | [New Era Technology](https://neweratech.com) | May 28 | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8555568002) |
+| Java DevOps Engineer (m/w/d) | [Everience](https://everience.com) | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/EVERIENCE/postings/744000128887759) |
 | Associate Staff Engineer(Devops) | [Nagarro](https://nagarro.com) | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000128846049) |
 | Azure DevOps Engineer | [LightFeather](https://lightfeather.com) | May 27 | [Apply](https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5233403008) |
 | Azure Cloud/DevOps Engineer | [LightFeather](https://lightfeather.com) | May 27 | [Apply](https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5233401008) |

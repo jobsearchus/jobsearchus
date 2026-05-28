@@ -2,19 +2,24 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**225 open roles** — Last updated: 2026-05-28
+**230 open roles** — Last updated: 2026-05-28
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Marketing Manager - CNBC | [Versant](https://versant.com) | $68K–$100K/yr | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Versant3/postings/744000129014140) |
+| Partnerships Manager (Webselence) | [ExpressVPN](https://expressvpn.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/expressvpn/jobs/8568487002) |
 | Digital Business Development Specialist, UAE | [Drees & Sommer](https://dreso.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000128921989) |
+| Product Marketing Manager, New Ventures - Travel | [Clear Gene](https://cleargene.com) | $110K–$150K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/clear/jobs/7962723) |
+| Entertainment Marketing Executive | [Gymshark](https://gymshark.com) | — | May 28 | [Apply](https://job-boards.eu.greenhouse.io/gymshark/jobs/4876128101) |
 | Content Producer Telemundo T31 Orlando | [NBCUniversal](https://nbcuniversal.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000128779871) |
 | Creator Partner Manager | [Cantina](https://cantina.com) | $120K–$160K/yr | May 27 | [Apply](https://jobs.ashbyhq.com/cantina/04eaf201-fe7a-44fb-9520-7df9c03d256d) |
 | Field Marketing Manager - China | [ClickHouse](https://clickhouse.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/clickhouse/jobs/5790458004) |
 | Sr. Growth Marketing Specialist - Cal AI | [MyFitnessPal](https://myfitnesspal.com) | $90K–$115K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/myfitnesspal/jobs/7960912) |
 | Reporter/MMJ, NBC6 South Florida | [NBCUniversal](https://nbcuniversal.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000128767600) |
 | EMEA Growth Lead | [Replit](https://replit.com) | — | May 27 | [Apply](https://jobs.ashbyhq.com/replit/ff1bbbed-8506-4850-8d74-f2678c0da78e) |
+| Programmatic Trading Specialist | [The Trade Desk](https://thetradedesk.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5134043007) |
 | Social Media Multimedia Specialist Intern (Hybrid) | [KnowBe4](https://knowbe4.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8566934002) |
 | Vice President of Growth | [Peek](https://peek.com) | — | May 27 | [Apply](https://jobs.ashbyhq.com/peek/5e081486-6fa8-42cd-8d97-4cd43bbf6d18) |
 | Especialista Locations Communication | [Continental](https://continentalserves.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000128748718) |

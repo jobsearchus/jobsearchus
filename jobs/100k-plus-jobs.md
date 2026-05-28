@@ -2,13 +2,27 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**381 open roles** — Last updated: 2026-05-28
+**395 open roles** — Last updated: 2026-05-28
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Software Engineer, Platform | [Omada Health](https://omadahealth.com) | $179K–$224K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/omadahealth/jobs/7958282) |
+| Enterprise Account Executive | [Canva](https://canva.com) | $212K–$326K/yr | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Canva/postings/6000000001113935) |
+| Senior Research Engineer - Video Agents  | [Canva](https://canva.com) | $220K–$280K/yr | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Canva/postings/6000000001113930) |
+| Chief Revenue Officer | [Swayable](https://swayable.com) | $250K–$300K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/swayable/jobs/5148809007) |
+| Forward Deployed Engineer | [Sixfold Bioscience](https://sixfold.bio) | $155K–$200K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/sixfold/jobs/5234031008) |
+| Staff Technical Program Manager, Batteries  | [ŌURA](https://ouraring.com) | $198K–$233K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/oura/jobs/4260161009) |
+| Scientist I, In Vitro Pharmacology | [Flagship Pioneering, Inc.](https://flagshippioneering.com) | $100K–$127K/yr | May 28 | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8567001002?gh_jid=8567001002) |
+| Senior Scientist, Proteomics | [Flagship Pioneering, Inc.](https://flagshippioneering.com) | $126K–$160K/yr | May 28 | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8567761002?gh_jid=8567761002) |
+| Sales Director | [Loop Health](https://loophealth.com) | $350K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/loop/jobs/6008046004) |
+| SOX Analyst | [Clear Gene](https://cleargene.com) | $110K–$140K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/clear/jobs/7962814) |
+| Senior Corporate Counsel, Commercial | [Clear Gene](https://cleargene.com) | $225K–$275K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/clear/jobs/7962724) |
+| Product Marketing Manager, New Ventures - Travel | [Clear Gene](https://cleargene.com) | $110K–$150K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/clear/jobs/7962723) |
+| Staff Software Engineer, RestX | [Owner.com](https://owner.com) | $220K–$240K/yr | May 28 | [Apply](https://jobs.ashbyhq.com/Owner/835c2f86-eeb7-4b23-a285-b26b339ad80a) |
 | Senior Software Engineer, RestX | [Owner.com](https://owner.com) | $210K–$230K/yr | May 28 | [Apply](https://jobs.ashbyhq.com/Owner/fc0836f0-a4f2-437f-b438-5774e0021fbc) |
+| Finance Director | [Juniper Square](https://junipersquare.com) | $165K–$200K/yr | May 27 | [Apply](https://jobs.ashbyhq.com/junipersquare/8ea579d5-206d-4e61-801c-a534ddf766ef) |
 | IT Operations Engineer | [Applied Intuition](https://applied.co) | $108K–$125K/yr | May 27 | [Apply](https://boards.greenhouse.io/appliedintuition/jobs/4698138005?gh_jid=4698138005) |
 | Full Stack Engineer, AgentControl | [LaunchDarkly](https://launchdarkly.com) | $171K–$235K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/launchdarkly/jobs/7750116003) |
 | Flight Sciences Tools and HPC engineer | [Archer](https://archer.com) | $163K–$218K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7740993003) |
