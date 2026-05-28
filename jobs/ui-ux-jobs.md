@@ -2,12 +2,15 @@
 
 UX design, UI design, and product design roles. Figma, research, and end-to-end product work.
 
-**82 open roles** — Last updated: 2026-05-28
+**85 open roles** — Last updated: 2026-05-28
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Mid Weight Product Designer | [Experian](https://experianplc.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000128901832) |
+| Senior Graphic Designer | [Netcompany](https://netcompany.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000128884079) |
+| Senior Product Designer | [Genpak LLC](https://genpak-llc-2) | — | May 28 | [Apply](https://jobs.ashbyhq.com/legora/89073502-e8e3-49d9-ba4b-5642ef1a933d) |
 | Senior Instructional Designer | [dbt Labs](https://getdbt.com) | $125K–$170K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/dbtlabsinc/jobs/4699905005) |
 | Senior Product Designer | [Holywater](https://holywater.com) | — | May 27 | [Apply](https://jobs.ashbyhq.com/holywater/f68821a6-0b25-4795-8b7e-d732ea82fad2) |
 | Zahntechniker (m/w/d) Design Service | [BeGo](https://bego.ai) | — | May 27 | [Apply](https://career.bego.com/o/zahntechniker-mwd-design-service-4/c/new) |

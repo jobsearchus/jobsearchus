@@ -2,18 +2,32 @@
 
 Remote jobs open to candidates with 0–2 years of experience. A real way in — no degree gatekeeping.
 
-**574 open roles** — Last updated: 2026-05-28
+**589 open roles** — Last updated: 2026-05-28
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Kundenberater Fahrzeugbewertung (d/m/w) | [AUTO1 Group](https://auto1-group.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000128940891) |
+| Intern, Data Labeler (Mandarin Speaker) - (Global Discovery, Consumer) | [Delivery Hero](https://deliveryhero.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000128938409) |
+| Personal and Private Banking (PPB) SA SB Private Mpumalanga Graduate Programme  | [Standard Bank](https://standardbank.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000128934749) |
+| commis 2 | [ACCOR](https://group.accor.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128922829) |
+| CONSEILLER DE VENTE ETUDIANT CDD | [Genpak LLC](https://genpak-llc-2) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000128912793) |
+| Préparateur / Préparatrice de Commandes Drive — H/F | [Genpak LLC](https://genpak-llc-2) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000128909910) |
+| Technicien Surveillant de Travaux MOE Hydraulique Urbaine H/F | [Egis](https://egis-group.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000128905394) |
+| Internship - OT Cybersecurity Reporting and Awareness - REF97160B | [Continental](https://continentalserves.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000128899059) |
+| Dispatcher FTE | [Anglo American](https://angloamerican.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000128876560) |
 | SPRZEDAWCA / SPRZEDAWCZYNI JYSK Białystok, al. Solidarności 9, (1/2 ETATU, 2550 PLN brutto) | [JYSK](https://jysk.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000128864199) |
+|  General Affairs  | [SBT Global](https://sbtglobal.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/SBTGlobalInc/postings/3743990013341736) |
+| HR / Recruiting Coordinator  | [SBT Global](https://sbtglobal.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/SBTGlobalInc/postings/3743990013341686) |
+| Purchasing Support - Bilingual in Korean | [SBT Global](https://sbtglobal.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/SBTGlobalInc/postings/3743990013340636) |
 | 6366 - CQV Engineer / Validation Engineer | [Verista](https://verista.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/veristainc/jobs/5233451008) |
 | Student Success Coordinator  | [Aviation Institute of Maintenance](https://aviationmaintenance.edu) | $35/yr | May 27 | [Apply](https://job-boards.greenhouse.io/aviationinstituteofmaintenance/jobs/5233188008) |
+| Faculty Support, Meetings & Events Assistant | [University of Notre Dame](https://universityofnotredame.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013337351) |
 | Bartender - Orangery  | [ACCOR](https://group.accor.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128796849) |
 | Bartender - Gordon Ramsay at The Mere | [ACCOR](https://group.accor.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128795920) |
 | Bartender - Banqueting  | [ACCOR](https://group.accor.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128796489) |
+| Lead Barista - Cafe J/Ivan's Cafe | [University of Notre Dame](https://universityofnotredame.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013335996) |
 | Engenheiro Civil Jr  | [Egis](https://egis-group.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000128784639) |
 | Customer Support Analyst | [Oddball](https://oddball.com) | $60K–$90K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/oddball/jobs/7749868003) |
 | Social Media Multimedia Specialist Intern (Hybrid) | [KnowBe4](https://knowbe4.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8566934002) |
@@ -24,6 +38,7 @@ Remote jobs open to candidates with 0–2 years of experience. A real way in —
 | Temporary - Dish Crew  | [University of Notre Dame](https://universityofnotredame.com) | $18/yr | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013326395) |
 | Sales Development Representative Intern (Hybrid) | [KnowBe4](https://knowbe4.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8566454002) |
 | Temporary - Houseperson | [University of Notre Dame](https://universityofnotredame.com) | $18/yr | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013325139) |
+| Entry-Level Structural Engineer | [KPFF Consulting Engineers](https://kpff.com) | $70K–$80K/yr | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/KPFFConsultingEngineers/postings/3743990013324874) |
 | Assistant(e) comptable | [Genpak LLC](https://genpak-llc-2) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000128724299) |
 | Stage - Assistant.e New Business & Gen AI (H/F) - Artefact 3000 | [LinkedIn Job Wrapping](https://artefact.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/artefactlinkedin/jobs/8566227002) |
 | PLT Final Finish Material Handler (MHL)- Illinois | [Continental](https://continentalserves.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000128716481) |

@@ -2,12 +2,16 @@
 
 General developer and programmer roles that did not fit a more specific category.
 
-**68 open roles** — Last updated: 2026-05-28
+**72 open roles** — Last updated: 2026-05-28
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Oracle Apex Developer | [Inetum](https://inetum.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000128913649) |
+| NICE CX-One Developer | [Miratech](https://miratech.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000128877869) |
+| NICE CX-One Developer | [Miratech](https://miratech.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000128875161) |
+| Senior Java Developer | [Applaudo](https://applaudo.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/ApplaudoStudios/postings/744000128817488) |
 | [Job - 29550]  Cobol PL/Sr (DB2, JCL, Changeman)  Developer | [CI&T](https://cit.com) | — | May 27 | [Apply](https://jobs.lever.co/ciandt/29af7abb-8aa0-4ebc-abb5-d60520e970aa) |
 | Senior Java Developer (Angular) | [Applaudo](https://applaudo.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/ApplaudoStudios/postings/744000128751582) |
 | [Job -  29573] Mid Level/ Senior Developer Android (Kotlin e Java), Brazil | [CI&T](https://cit.com) | — | May 27 | [Apply](https://jobs.lever.co/ciandt/903b93f8-fb3f-44a8-ac29-60bde32e4db1) |

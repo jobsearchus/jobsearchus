@@ -2,12 +2,13 @@
 
 Remote HR, recruiting, and people operations roles.
 
-**95 open roles** — Last updated: 2026-05-28
+**96 open roles** — Last updated: 2026-05-28
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| HR / Recruiting Coordinator  | [SBT Global](https://sbtglobal.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/SBTGlobalInc/postings/3743990013341686) |
 | HR Business Partner | [CertiK](https://certik.com) | — | May 27 | [Apply](https://jobs.lever.co/certik/bc89a6d2-060b-4ec3-a096-42bfecbf4c26) |
 | Coordinator, Talent Development | [NBCUniversal](https://nbcuniversal.com) | $55K–$65K/yr | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000128723429) |
 | People Operations & Benefits Specialist (Contractor) | [Scopely](https://scopely.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/scopely/jobs/5230561008) |

@@ -2,14 +2,16 @@
 
 DevOps, platform engineering, and infrastructure roles. AWS, GCP, Kubernetes, Terraform.
 
-**51 open roles** — Last updated: 2026-05-28
+**53 open roles** — Last updated: 2026-05-28
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Posted | Apply |
 | --- | --- | --- | --- |
+| Associate Staff Engineer(Devops) | [Nagarro](https://nagarro.com) | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000128846049) |
 | Azure DevOps Engineer | [LightFeather](https://lightfeather.com) | May 27 | [Apply](https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5233403008) |
 | Azure Cloud/DevOps Engineer | [LightFeather](https://lightfeather.com) | May 27 | [Apply](https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5233401008) |
+| Senior SaaS Platform Engineer | [CapTech](https://captech.com) | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/CapTechConsulting/postings/744000128795437) |
 | Senior Azure DevOps Engineer | [Applaudo](https://applaudo.com) | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/ApplaudoStudios/postings/744000128757688) |
 | Azure Infrastructure Engineer | [BETSOL](https://betsol.com) | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/BETSOL/postings/744000128740850) |
 | Senior Azure Cloud & DevOps Engineer | [New Era Technology](https://neweratech.com) | May 27 | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8562605002) |

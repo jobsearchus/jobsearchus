@@ -2,12 +2,26 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**877 open roles** — Last updated: 2026-05-28
+**892 open roles** — Last updated: 2026-05-28
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Intern, Data Labeler (Mandarin Speaker) - (Global Discovery, Consumer) | [Delivery Hero](https://deliveryhero.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000128938409) |
+| Développeur Confirmé | [Inetum](https://inetum.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000128936199) |
+| Cloud Architect | [Inetum](https://inetum.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000128917419) |
+| Projectingenieur Engineering & BIM | [BESIX](https://besix.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000128916525) |
+| OPC Systèmes & Essais | [Egis](https://egis-group.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000128908355) |
+| Technicien Surveillant de Travaux MOE Hydraulique Urbaine H/F | [Egis](https://egis-group.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000128905394) |
+| Chef de Projet confirmé MOE Hydraulique Urbaine H/F | [Egis](https://egis-group.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000128897566) |
+| Staff Engineer, SAP Material Management | [Nagarro](https://nagarro.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000128893384) |
+| Staff Engineer, SAP Human Experience Management | [Nagarro](https://nagarro.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000128892439) |
+| Solution Architect - Microsoft | [NCS](https://ncs.co) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001113751) |
+| UI Engineer (Outbound/Selfservice) | [Miratech](https://miratech.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000128879029) |
+| Diagnostic Support Engineer  | [MSX International](https://msxi.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013342746) |
+| Senior Operations Engineer  | [Netcompany](https://netcompany.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000128854569) |
+| #EG Software Engineer | [NCS](https://ncs.co) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001112022) |
 | Application Engineer (AI Automation) | [Pure Storage](https://purestorage.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/7929039) |
 | Senior Electrical Engineer - Compute Hardware | [Applied Intuition](https://applied.co) | — | May 28 | [Apply](https://boards.greenhouse.io/appliedintuition/jobs/4700032005?gh_jid=4700032005) |
 | Senior Data Analyst | [CertiK](https://certik.com) | — | May 28 | [Apply](https://jobs.lever.co/certik/20ea2502-dd24-40f9-a2e7-59a96d37ec88) |
@@ -38,6 +52,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Cientista de Dados III | [Experian](https://experianplc.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000128742931) |
 | Senior Systems Engineer | [ANSER](https://anser.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/analyticservicesinc/jobs/5223143008?gh_jid=5223143008) |
 | Senior Computer Scientist | [ANSER](https://anser.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/analyticservicesinc/jobs/5231261008?gh_jid=5231261008) |
+| Entry-Level Structural Engineer | [KPFF Consulting Engineers](https://kpff.com) | $70K–$80K/yr | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/KPFFConsultingEngineers/postings/3743990013324874) |
 | Software Development & Product Test  | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $76K–$90K/yr | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000128724305) |
 | Manufacturing Engineer - Digital Test Lead | [ALTEN](https://alten.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5147426007) |
 | System Engineering Analyst, ISTAR Program, Electronic Warfare | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $90K–$110K/yr | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000128722404) |

@@ -2,23 +2,35 @@
 
 Remote operations and business operations roles across industries.
 
-**568 open roles** — Last updated: 2026-05-28
+**580 open roles** — Last updated: 2026-05-28
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Contracts Administrator | [PortmanDentex](https://portmandentex.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000128925836) |
+| commis 2 | [ACCOR](https://group.accor.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128922829) |
+| Préparateur / Préparatrice de Commandes Drive — H/F | [Genpak LLC](https://genpak-llc-2) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000128909910) |
+| Mitarbeiter Leitstand Energieversorgung (m/w/divers) - REF89048E | [Continental](https://continentalserves.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000128907329) |
+| Sequencing Planner (Working in Shift) | [Continental](https://continentalserves.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000128883739) |
+| Dispatcher FTE | [Anglo American](https://angloamerican.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000128876560) |
+|  General Affairs  | [SBT Global](https://sbtglobal.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/SBTGlobalInc/postings/3743990013341736) |
 | Customer Asset Lifecycle Lead | [Owner.com](https://owner.com) | — | May 27 | [Apply](https://jobs.ashbyhq.com/Owner/744ccf24-3356-4560-bfb7-6812a16a723f) |
+| Purchasing Support - Bilingual in Korean | [SBT Global](https://sbtglobal.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/SBTGlobalInc/postings/3743990013340636) |
 | 6366 - CQV Engineer / Validation Engineer | [Verista](https://verista.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/veristainc/jobs/5233451008) |
 | 6365 - Senior CQV Engineer / Senior Validation Engineer | [Verista](https://verista.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/veristainc/jobs/5233447008) |
 | Student Success Coordinator  | [Aviation Institute of Maintenance](https://aviationmaintenance.edu) | $35/yr | May 27 | [Apply](https://job-boards.greenhouse.io/aviationinstituteofmaintenance/jobs/5233188008) |
 | Lead Programs Manager, TRT/HRT | [OpenLoop](https://openloop.com) | — | May 27 | [Apply](https://jobs.ashbyhq.com/openloophealth/ca798243-fe27-4c33-b07b-64e8cade5fc7) |
 | Lead Program Manager, RPM/CCM/RCM | [OpenLoop](https://openloop.com) | — | May 27 | [Apply](https://jobs.ashbyhq.com/openloophealth/b0074446-726b-4303-8e97-67700e6f132e) |
+| Faculty Support, Meetings & Events Assistant | [University of Notre Dame](https://universityofnotredame.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013337351) |
 | Lead Programs Manager, Medical Weight Loss | [OpenLoop](https://openloop.com) | — | May 27 | [Apply](https://jobs.ashbyhq.com/openloophealth/3e409317-02b3-48ad-8c50-55cdc2679af7) |
 | Class A Commercial Driver | [Super-Sod](https://supersod.com) | $52K–$100K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/supersod/jobs/5231391008) |
 | Maintenance Supervisor | [IRCA](https://irca.eu) | — | May 27 | [Apply](https://jobs.lever.co/ircagroup/b8602720-e203-46dd-a901-af355d0e7a99) |
+| Automotive Master Technician / Mechanic - Up to $65/HR* & Weekends Off - Waunakee | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | $65/yr | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000128785276) |
+| Automotive Technician / Mechanic - Air-Conditioned Shop & Weekends Off - Jacksonville (Bartram Park) | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000128783985) |
 | Analista de Planejamento e Controle PL. - Exclusiva para Mulheres | [Anglo American](https://angloamerican.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000128776560) |
 | Mecânico Industrial III | [Anglo American](https://angloamerican.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000128778039) |
+|  Automotive Technician / Mechanic - Up To $45/Hr* & Weekends Off - Rio Rancho | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | $45/yr | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000128777639) |
 | Warehouse Supervisor | [Deliveroo](https://deliveroo.co.uk) | £16/yr | May 27 | [Apply](https://jobs.ashbyhq.com/deliveroo/125b4338-5386-4b8a-9963-13d91077fcd5) |
 | Warehouse Supervisor | [Deliveroo](https://deliveroo.co.uk) | £16/yr | May 27 | [Apply](https://jobs.ashbyhq.com/deliveroo/c169485d-53ea-4380-9d8b-5fa3be1be1ff) |
 | Commercial Enablement Innovation Lead | [Omada Health](https://omadahealth.com) | $130K–$162K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/omadahealth/jobs/7952135) |

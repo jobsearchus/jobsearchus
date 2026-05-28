@@ -2,12 +2,22 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**516 open roles** — Last updated: 2026-05-28
+**526 open roles** — Last updated: 2026-05-28
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Kundenberater Fahrzeugbewertung (d/m/w) | [AUTO1 Group](https://auto1-group.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000128940891) |
+| Kundenberater Fahrzeugbewertung (d/m/w) | [AUTO1 Group](https://auto1-group.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000128941439) |
+| Vendeur / Vendeuse CDD -  Temps partiel 25H (H/F) | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000128929929) |
+| CONSEILLER DE VENTE ETUDIANT CDD | [Genpak LLC](https://genpak-llc-2) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000128912793) |
+| VENDEUR CONSEIL - CDD TEMPS PLEIN H/F | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000128887473) |
+| Sales Manager (m/f/d) | [Experian](https://experianplc.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000128886983) |
+| Vendeur petit électroménager F/H/X | [BUT](https://but.fr) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000128869970) |
+| Business Relationship Lead - Home Care Warrnambool | [Healthcare Australia](https://healthcareaustralia.com.au) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/HealthcareAustralia1/postings/6000000001113339) |
+| Business Development Lead - Home Care Warrnambool | [Healthcare Australia](https://healthcareaustralia.com.au) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/HealthcareAustralia1/postings/6000000001113315) |
+| Enterprise Sales Account Executive | [Sectigo](https://sectigo.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Sectigo/postings/3743990013342321) |
 | Director of Global AWS Cloud Alliance | [Zscaler](https://zscaler.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5147255007) |
 | Account Executive - NSW | [Diligent Corporation](https://diligent.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/diligentcorporation/jobs/6007827004) |
 | Associate Director, Business Development | [The Trade Desk](https://thetradedesk.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5148349007) |

@@ -2,12 +2,23 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**253 open roles** — Last updated: 2026-05-28
+**264 open roles** — Last updated: 2026-05-28
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| O2C Process Excellence Lead - HQ | [Delivery Hero](https://deliveryhero.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000128943999) |
+| Lead Process Owner O2C | [Delivery Hero](https://deliveryhero.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000128940755) |
+| Cluster Cashier Manager  | [ACCOR](https://group.accor.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128933722) |
+| Personal and Private Banking (PPB) SA SB Private Mpumalanga Graduate Programme  | [Standard Bank](https://standardbank.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000128934749) |
+|  Associate Director, Funds KYC | [IQ-EQ](https://iqeq.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000128926892) |
+|  Invoicing Officer | [IQ-EQ](https://iqeq.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000128918329) |
+| SAP Analyst - Product Owner | [Anglo American](https://angloamerican.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000128916688) |
+|  Senior Invoicing Officer | [IQ-EQ](https://iqeq.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000128911931) |
+| Head, Non-Financial Risk, Jersey | [Standard Bank](https://standardbank.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000128902549) |
+| Team Lead, Feature Trade Support | [Standard Bank](https://standardbank.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000128894625) |
+| Summer Student - Finance | [Entain](https://entaingroup.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Entain/postings/744000128893531) |
 | Head of Accounting Policy & Financial Reporting | [OnePay](https://onepay.com) | — | May 27 | [Apply](https://jobs.ashbyhq.com/oneapp/8901a28f-98d0-4069-8c20-b52bb7416fc6) |
 | Accounting Analyst | [Flexport](https://flexport.com) | — | May 27 | [Apply](https://boards.greenhouse.io/flexport/jobs/7961631?gh_jid=7961631) |
 | Senior Specialist, Business Development Risk | [Standard Bank](https://standardbank.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000128780274) |

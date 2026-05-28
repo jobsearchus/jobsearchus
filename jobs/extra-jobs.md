@@ -2,20 +2,24 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**595 open roles** — Last updated: 2026-05-28
+**599 open roles** — Last updated: 2026-05-28
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| IT Support Specialist - London | [Genpak LLC](https://genpak-llc-2) | — | May 28 | [Apply](https://jobs.ashbyhq.com/legora/1375ee19-aa7e-479e-bbfa-a8ad53907968) |
 | STELLVERTRETENDE/R FILIALLEITER/IN (M/W/D) - Bad Dürkheim (30h) | [JYSK](https://jysk.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000128864909) |
 | SPRZEDAWCA / SPRZEDAWCZYNI JYSK Białystok, al. Solidarności 9, (1/2 ETATU, 2550 PLN brutto) | [JYSK](https://jysk.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000128864199) |
 | STELLVERTRETENDE/R FILIALLEITER/IN (M/W/D) - Weinheim | [JYSK](https://jysk.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000128864099) |
+| Rehabilitation Consultant (Occupational Therapist) | [Genpak LLC](https://genpak-llc-2) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/APMGroup/postings/6000000001112742) |
 | Projects Editor, Editorial Operations, NYT Wirecutter | [The New York Times](https://thenewyorktimes.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4699885005) |
+| Graduate Program Director | [University of Notre Dame](https://universityofnotredame.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013336352) |
 | Bartender - Orangery  | [ACCOR](https://group.accor.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128796849) |
 | Bartender - Gordon Ramsay at The Mere | [ACCOR](https://group.accor.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128795920) |
 | Bartender - Banqueting  | [ACCOR](https://group.accor.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128796489) |
 | Country Director, India | [Cloudflare](https://cloudflare.com) | — | May 27 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7588061?gh_jid=7588061) |
+| Lead Barista - Cafe J/Ivan's Cafe | [University of Notre Dame](https://universityofnotredame.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013335996) |
 | Lead Associate Trading Director | [The Trade Desk](https://thetradedesk.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5144209007) |
 | Villa Residence Rector (Rome, Italy) | [University of Notre Dame](https://universityofnotredame.com) | €30K–€32K/yr | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013330426) |
 | Sales Assistant (Part Time) – Busango C.C. “Globo"  | [JD Sports](https://jdsports.com) | — | May 27 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4876831101) |

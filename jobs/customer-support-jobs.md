@@ -2,12 +2,14 @@
 
 Remote customer support and success roles across SaaS, e-commerce, and tech.
 
-**170 open roles** — Last updated: 2026-05-28
+**172 open roles** — Last updated: 2026-05-28
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| EN - Food & Beverage Manager | [ACCOR](https://group.accor.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128924619) |
+| Retail Customer Service Weekends only | [Entain](https://entaingroup.com) | £13/yr | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Entain/postings/744000128896190) |
 | Customer Support Engineer | [Oddball](https://oddball.com) | $75K–$110K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/oddball/jobs/7749872003) |
 | Customer Support Analyst | [Oddball](https://oddball.com) | $60K–$90K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/oddball/jobs/7749868003) |
 | Automotive Warranty & Technical Support Agent | [MSX International](https://msxi.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013326457) |

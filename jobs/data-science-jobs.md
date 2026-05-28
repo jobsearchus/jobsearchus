@@ -2,12 +2,13 @@
 
 Data science, machine learning, and AI engineering roles. Python, SQL, PyTorch, and beyond.
 
-**56 open roles** — Last updated: 2026-05-28
+**57 open roles** — Last updated: 2026-05-28
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Data Science Manager - GTM Sales | [Canva](https://canva.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001113764) |
 | Machine Learning Scientist, Algorithmic Recommendations (Email Targeting) | [The New York Times](https://thenewyorktimes.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4699761005) |
 | Staff ML Application Engineer | [Dragos](https://dragos.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/dragos/jobs/5200695008) |
 | Staff Machine Learning Engineer, AI Generation Engine | [SandboxAQ](https://sandboxaq.com) | — | May 27 | [Apply](https://jobs.ashbyhq.com/sandboxaq/54e2b57a-50dd-4e9a-beed-81ec2abcc9fa) |

@@ -2,12 +2,15 @@
 
 Project and program management roles across tech, operations, and enterprise.
 
-**55 open roles** — Last updated: 2026-05-28
+**58 open roles** — Last updated: 2026-05-28
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Projektmanager (w/m/d) EPCM Industry | [Drees & Sommer](https://dreso.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000128905599) |
+| Projektmanager (w/m/d) EPCM Industry | [Drees & Sommer](https://dreso.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000128905319) |
+| Project Manager - Supplier Spare Parts Quality Process   | [MSX International](https://msxi.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013343406) |
 | Automation & Agentic Program Manager - Vice President | [iCapital](https://icapital.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8566346002) |
 | Program Manager (App Dev) | [AnaVation](https://anavation.com) | — | May 26 | [Apply](https://jobs.lever.co/anavationllc/c0a2bbfd-0a71-4b5e-9cd2-574a7f81a455) |
 | Projektleiter (w/m/d) Hafen- und Wasserbau | [Drees & Sommer](https://dreso.com) | — | May 26 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000128453462) |

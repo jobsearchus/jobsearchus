@@ -2,12 +2,14 @@
 
 Product manager roles at companies building real products. Sourced directly from career pages.
 
-**91 open roles** — Last updated: 2026-05-28
+**93 open roles** — Last updated: 2026-05-28
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Product & Proposition Manager - Digital Onboarding | [Experian](https://experianplc.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000128902480) |
+| Technical Product Manager | [Applaudo](https://applaudo.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/ApplaudoStudios/postings/744000128817128) |
 | Director of Product Management, AI Generation Engine | [SandboxAQ](https://sandboxaq.com) | — | May 27 | [Apply](https://jobs.ashbyhq.com/sandboxaq/a5897e7a-5453-4098-a16e-d8566a2c1992) |
 | Director, Product Management (Coupang Partners Programmatic Product) | [Coupang](https://coupang.com) | — | May 27 | [Apply](https://boards.greenhouse.io/coupanginternal/jobs/7959543?gh_jid=7959543) |
 | Coordinator, Product Development, rhode | [e.l.f. Beauty](https://elfbeauty.com) | — | May 26 | [Apply](https://jobs.lever.co/elfbeauty/ed87c325-72cc-4383-930e-f7b7fcf73d7c) |
