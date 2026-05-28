@@ -2,12 +2,13 @@
 
 QA, test automation, and SDET roles. Manual and automated testing across all stacks.
 
-**26 open roles** — Last updated: 2026-05-28
+**27 open roles** — Last updated: 2026-05-28
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Agentic Automation Engineer - Assistant Vice President / Vice President | [iCapital](https://icapital.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8566331002) |
 | QA Automation Engineer | [OnePay](https://onepay.com) | — | May 27 | [Apply](https://jobs.ashbyhq.com/oneapp/3ae6df7a-bdc7-49da-8772-88bf7c2fe095) |
 | Network Automation Engineer | [RTB House](https://rtbhouse.com) | — | May 26 | [Apply](https://job-boards.eu.greenhouse.io/rtbhouse/jobs/4872887101) |
 | Senior QA Engineer | [Saga AI](https://usesaga.ai) | — | May 26 | [Apply](https://careers.sagalegal.io/o/senior-qa-engineer/c/new) |

@@ -2,12 +2,13 @@
 
 Remote cybersecurity, information security, and security engineering roles.
 
-**70 open roles** — Last updated: 2026-05-28
+**71 open roles** — Last updated: 2026-05-28
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Security Engineer | [CertiK](https://certik.com) | — | May 27 | [Apply](https://jobs.lever.co/certik/d2917cb0-3aaa-4fdf-b03a-22d2f16a0b5c) |
 | Lead Consultant, IT Security (SOC Experience) | [NCS](https://ncs.co) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001110248) |
 | Enterprise Security - Team Lead | [Canva](https://canva.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001108230) |
 | Senior Security Engineer, GRC Automation | [1Password](https://1password.com) | — | May 26 | [Apply](https://jobs.ashbyhq.com/1password/739b8cc9-6c96-4afb-825e-1bf5aa5e1f00) |

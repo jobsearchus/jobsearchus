@@ -2,13 +2,15 @@
 
 Remote operations and business operations roles across industries.
 
-**561 open roles** — Last updated: 2026-05-28
+**568 open roles** — Last updated: 2026-05-28
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | Customer Asset Lifecycle Lead | [Owner.com](https://owner.com) | — | May 27 | [Apply](https://jobs.ashbyhq.com/Owner/744ccf24-3356-4560-bfb7-6812a16a723f) |
+| 6366 - CQV Engineer / Validation Engineer | [Verista](https://verista.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/veristainc/jobs/5233451008) |
+| 6365 - Senior CQV Engineer / Senior Validation Engineer | [Verista](https://verista.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/veristainc/jobs/5233447008) |
 | Student Success Coordinator  | [Aviation Institute of Maintenance](https://aviationmaintenance.edu) | $35/yr | May 27 | [Apply](https://job-boards.greenhouse.io/aviationinstituteofmaintenance/jobs/5233188008) |
 | Lead Programs Manager, TRT/HRT | [OpenLoop](https://openloop.com) | — | May 27 | [Apply](https://jobs.ashbyhq.com/openloophealth/ca798243-fe27-4c33-b07b-64e8cade5fc7) |
 | Lead Program Manager, RPM/CCM/RCM | [OpenLoop](https://openloop.com) | — | May 27 | [Apply](https://jobs.ashbyhq.com/openloophealth/b0074446-726b-4303-8e97-67700e6f132e) |
@@ -17,10 +19,14 @@ Remote operations and business operations roles across industries.
 | Maintenance Supervisor | [IRCA](https://irca.eu) | — | May 27 | [Apply](https://jobs.lever.co/ircagroup/b8602720-e203-46dd-a901-af355d0e7a99) |
 | Analista de Planejamento e Controle PL. - Exclusiva para Mulheres | [Anglo American](https://angloamerican.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000128776560) |
 | Mecânico Industrial III | [Anglo American](https://angloamerican.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000128778039) |
+| Warehouse Supervisor | [Deliveroo](https://deliveroo.co.uk) | £16/yr | May 27 | [Apply](https://jobs.ashbyhq.com/deliveroo/125b4338-5386-4b8a-9963-13d91077fcd5) |
+| Warehouse Supervisor | [Deliveroo](https://deliveroo.co.uk) | £16/yr | May 27 | [Apply](https://jobs.ashbyhq.com/deliveroo/c169485d-53ea-4380-9d8b-5fa3be1be1ff) |
+| Commercial Enablement Innovation Lead | [Omada Health](https://omadahealth.com) | $130K–$162K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/omadahealth/jobs/7952135) |
 | Chauffeur classe 1, pour (Switch) Grand Remous, départ fixe & planifié. Salaire à l'heure débutant à 33.68$ h plan de retraite et avantages sociaux incomparable dans industries. | [Manitoulin Global Forwarding](https://manitoulingroup.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000128758749) |
 | Implementation Delivery Lead - CP Managed Services  | [bswift](https://bswift.com) | $65K–$85K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/bswift/jobs/4683408006) |
 | Commercial Door Installer | [DH Pace Company](https://dhpace.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5232536008) |
 | Commercial Door Installer | [DH Pace Company](https://dhpace.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5232535008) |
+| Environmental Test Specialist | [Relativity Space](https://relativityspace.com) | — | May 27 | [Apply](https://boards.greenhouse.io/relativity/jobs/8565039002?gh_jid=8565039002) |
 | Machinist | [Stratolaunch](https://stratolaunch.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/stratolaunch/jobs/5232482008) |
 | Berufsausbildung Kfz-Mechatroniker (m/w/d) Schwerpunkt Pkw-Technik, bei Vergölst im Fachbetrieb | [Continental](https://continentalserves.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000128749903) |
 | Lead Machinist | [Stratolaunch](https://stratolaunch.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/stratolaunch/jobs/5232388008) |
@@ -32,6 +38,7 @@ Remote operations and business operations roles across industries.
 | Principal Computer Scientist | [ANSER](https://anser.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/analyticservicesinc/jobs/5231265008?gh_jid=5231265008) |
 | Futur Directeur de magasin F/H/X | [BUT](https://but.fr) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000128722690) |
 | Futur Directeur de magasin F/H/X | [BUT](https://but.fr) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000128722590) |
+| Continuous Improvement Specialist | [takealot.com](https://takealot.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/takealotcom/jobs/7957129) |
 | Supervisor (Capo Reparto) - New Opening Parma C.C. "Promenade" | [JD Sports](https://jdsports.com) | — | May 27 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4876437101) |
 | Field Services Expert  | [VusionGroup SA](https://vusiongroup.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/VusionGroupSA/postings/744000128685300) |
 | Bolti munkatárs - Wolt Market Lehel | [Wolt](https://wolt.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7946499) |

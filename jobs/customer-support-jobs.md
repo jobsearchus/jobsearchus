@@ -2,7 +2,7 @@
 
 Remote customer support and success roles across SaaS, e-commerce, and tech.
 
-**169 open roles** — Last updated: 2026-05-28
+**170 open roles** — Last updated: 2026-05-28
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -11,6 +11,7 @@ Remote customer support and success roles across SaaS, e-commerce, and tech.
 | Customer Support Engineer | [Oddball](https://oddball.com) | $75K–$110K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/oddball/jobs/7749872003) |
 | Customer Support Analyst | [Oddball](https://oddball.com) | $60K–$90K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/oddball/jobs/7749868003) |
 | Automotive Warranty & Technical Support Agent | [MSX International](https://msxi.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013326457) |
+| Senior Customer Success Manager | [Ping Identity](https://pingidentity.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/pingidentity/jobs/8508523002) |
 | Customer Service Associate | [Playtech](https://playtech.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/Playtech/postings/744000128648739) |
 | Chat Support Specialist with English and Bulgarian language | [Genpak LLC](https://genpak-llc-2) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000128647419) |
 | Chat Support Specialist with English and Bulgarian language | [Genpak LLC](https://genpak-llc-2) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000128646436) |

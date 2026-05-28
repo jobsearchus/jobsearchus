@@ -2,12 +2,14 @@
 
 Remote jobs open to candidates with 0–2 years of experience. A real way in — no degree gatekeeping.
 
-**571 open roles** — Last updated: 2026-05-28
+**574 open roles** — Last updated: 2026-05-28
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| SPRZEDAWCA / SPRZEDAWCZYNI JYSK Białystok, al. Solidarności 9, (1/2 ETATU, 2550 PLN brutto) | [JYSK](https://jysk.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000128864199) |
+| 6366 - CQV Engineer / Validation Engineer | [Verista](https://verista.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/veristainc/jobs/5233451008) |
 | Student Success Coordinator  | [Aviation Institute of Maintenance](https://aviationmaintenance.edu) | $35/yr | May 27 | [Apply](https://job-boards.greenhouse.io/aviationinstituteofmaintenance/jobs/5233188008) |
 | Bartender - Orangery  | [ACCOR](https://group.accor.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128796849) |
 | Bartender - Gordon Ramsay at The Mere | [ACCOR](https://group.accor.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128795920) |
@@ -23,6 +25,7 @@ Remote jobs open to candidates with 0–2 years of experience. A real way in —
 | Sales Development Representative Intern (Hybrid) | [KnowBe4](https://knowbe4.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8566454002) |
 | Temporary - Houseperson | [University of Notre Dame](https://universityofnotredame.com) | $18/yr | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013325139) |
 | Assistant(e) comptable | [Genpak LLC](https://genpak-llc-2) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000128724299) |
+| Stage - Assistant.e New Business & Gen AI (H/F) - Artefact 3000 | [LinkedIn Job Wrapping](https://artefact.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/artefactlinkedin/jobs/8566227002) |
 | PLT Final Finish Material Handler (MHL)- Illinois | [Continental](https://continentalserves.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000128716481) |
 | PLT Plant I Curing  Setup Tech | [Continental](https://continentalserves.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000128713575) |
 | Insurance & Asset Management Technology Graduate Programme - AI Engineer | [Standard Bank](https://standardbank.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000128711749) |

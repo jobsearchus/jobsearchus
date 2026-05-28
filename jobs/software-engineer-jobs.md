@@ -2,16 +2,19 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**869 open roles** — Last updated: 2026-05-28
+**877 open roles** — Last updated: 2026-05-28
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Application Engineer (AI Automation) | [Pure Storage](https://purestorage.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/7929039) |
 | Senior Electrical Engineer - Compute Hardware | [Applied Intuition](https://applied.co) | — | May 28 | [Apply](https://boards.greenhouse.io/appliedintuition/jobs/4700032005?gh_jid=4700032005) |
+| Senior Data Analyst | [CertiK](https://certik.com) | — | May 28 | [Apply](https://jobs.lever.co/certik/20ea2502-dd24-40f9-a2e7-59a96d37ec88) |
 | Senior Software Engineer, RestX | [Owner.com](https://owner.com) | $210K–$230K/yr | May 28 | [Apply](https://jobs.ashbyhq.com/Owner/fc0836f0-a4f2-437f-b438-5774e0021fbc) |
 | Senior Software Engineer, GTM Engineering | [Vanta](https://vanta.com) | — | May 28 | [Apply](https://jobs.ashbyhq.com/vanta/91c73485-5d0c-4272-9643-401ebcfff9d1) |
 | IT Operations Engineer | [Applied Intuition](https://applied.co) | $108K–$125K/yr | May 27 | [Apply](https://boards.greenhouse.io/appliedintuition/jobs/4698138005?gh_jid=4698138005) |
+| 6375 - Data Analytics/AI Validation Engineer / Lead Validation Engineer | [Verista](https://verista.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/veristainc/jobs/5233410008) |
 | Azure Cloud Engineer | [LightFeather](https://lightfeather.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5233402008) |
 | Flight Sciences Tools and HPC engineer | [Archer](https://archer.com) | $163K–$218K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7740993003) |
 | Senior Design Assurance & Quality Engineer | [Archer](https://archer.com) | $144K–$180K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7710060003) |
@@ -23,6 +26,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Technical Support Engineer - POS | [Owner.com](https://owner.com) | — | May 27 | [Apply](https://jobs.ashbyhq.com/Owner/3a19b3c4-0277-49f3-b3ec-bc212aef5d29) |
 | Engineering Manager, Client Foundation | [Chime](https://chime.com) | $15K/yr | May 27 | [Apply](https://boards.greenhouse.io/chime/jobs/8557625002?gh_jid=8557625002) |
 | Staff Solutions Engineer | [LaunchDarkly](https://launchdarkly.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/launchdarkly/jobs/7749034003) |
+| Field Solutions Engineer  | [Cloudflare](https://cloudflare.com) | — | May 27 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7956758?gh_jid=7956758) |
 | Senior Quality Engineer- AI Augmented | [Peek](https://peek.com) | — | May 27 | [Apply](https://jobs.ashbyhq.com/peek/a4bd5ea7-d564-48db-b1e8-56ddd7905dea) |
 | Senior Staff Quality Engineer, Hardware | [IonQ](https://ionq.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/ionq/jobs/6006403004) |
 | Space Surveillance Engineer II | [Slingshot Aerospace](https://slingshotaerospace.com) | $128K–$213K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/slingshotaerospace/jobs/6007253004?gh_jid=6007253004) |
@@ -37,9 +41,13 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Software Development & Product Test  | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $76K–$90K/yr | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000128724305) |
 | Manufacturing Engineer - Digital Test Lead | [ALTEN](https://alten.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5147426007) |
 | System Engineering Analyst, ISTAR Program, Electronic Warfare | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $90K–$110K/yr | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000128722404) |
+| Engineering Manager | [BrainRocket](https://brainrocket.com) | — | May 27 | [Apply](https://job-boards.eu.greenhouse.io/brainrocketltd/jobs/4876618101) |
+| Engineering Manager | [BrainRocket](https://brainrocket.com) | — | May 27 | [Apply](https://job-boards.eu.greenhouse.io/brainrocketltd/jobs/4876616101) |
 | Flying Doc  (m/w/d)   | [MSX International](https://msxi.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013323814) |
 |  Flying Doc  (m/w/d)   | [MSX International](https://msxi.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013323856) |
 | Flying Doc  (m/w/d)   | [MSX International](https://msxi.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013323636) |
+| Escalation Engineer - ZIA/ZPA | [Zscaler](https://zscaler.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5116395007) |
+| Escalation Engineer - AI Security | [Zscaler](https://zscaler.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5105253007) |
 | Principal Data Analyst | [Zynga](https://zynga.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/zyngacareers/jobs/6001960004) |
 | Data Engineering Manager  | [Dragos](https://dragos.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/dragos/jobs/5207887008) |
 | Middle/Senior Business Analyst (Swedish Ad Platform) | [Sigma Software](https://sigmasoftware.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/SigmaSoftware2/postings/744000128710069) |

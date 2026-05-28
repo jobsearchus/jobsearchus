@@ -2,15 +2,21 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**506 open roles** — Last updated: 2026-05-28
+**516 open roles** — Last updated: 2026-05-28
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Director of Global AWS Cloud Alliance | [Zscaler](https://zscaler.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5147255007) |
+| Account Executive - NSW | [Diligent Corporation](https://diligent.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/diligentcorporation/jobs/6007827004) |
+| Associate Director, Business Development | [The Trade Desk](https://thetradedesk.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5148349007) |
+| Associate Director, Business Development | [The Trade Desk](https://thetradedesk.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5145041007) |
 | Enterprise Account Executive, Insurance (Chicago, IL) | [Box](https://box.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/boxinc/jobs/7960852) |
 | Enterprise Account Executive, Insurance (New York, NY) | [Box](https://box.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/boxinc/jobs/7958721) |
 | Enterprise Account Executive, Financial Services (New York, NY) | [Box](https://box.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/boxinc/jobs/7958711) |
+| Account Executive, Air  | [Axon](https://axon.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/axon/jobs/7750303003) |
+| Account Executive, Air  | [Axon](https://axon.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/axon/jobs/7750261003) |
 | VP, Provider Solutions | [PatientPoint](https://patientpoint.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/patientpoint/jobs/4699983005) |
 | VP, Provider Solutions | [PatientPoint](https://patientpoint.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/patientpoint/jobs/4699980005) |
 | VP, Provider Solutions | [PatientPoint](https://patientpoint.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/patientpoint/jobs/4699977005) |
@@ -28,11 +34,15 @@ Remote sales roles — account executives, SDRs, and enterprise deals.
 | PV - Executivo (a) de Vendas Externas Pleno - São Luís/MA | [Experian](https://experianplc.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000128740605) |
 | Sales Development Representative Intern (Hybrid) | [KnowBe4](https://knowbe4.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8566454002) |
 | PV - Executivo (a) de Vendas Externas Pleno - Campinas/SP | [Experian](https://experianplc.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000128730189) |
+| Account Manager Planning - CDI - F/H | [WPP Media](https://wppmedia.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5232192008) |
+| Account Manager, OOH | [WPP Media](https://wppmedia.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5195292008) |
+| Senior Partner Sales Specialist | [Diligent Corporation](https://diligent.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/diligentcorporation/jobs/6007037004) |
 | Senior Client Solutions Manager | [Aleph](https://aleph.vc) | — | May 27 | [Apply](https://jobs.lever.co/aleph/0b621694-32da-414f-a82c-dc2969ac3442) |
 | Retail Strategic Account Manager - CSM | [VusionGroup SA](https://vusiongroup.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/VusionGroupSA/postings/744000128707194) |
 | Senior Automation QA Engineer | [Genpak LLC](https://genpak-llc-2) | — | May 27 | [Apply](https://job-boards.eu.greenhouse.io/growetalents/jobs/4874624101) |
 | Regional Sales Director | [Zscaler](https://zscaler.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5139784007) |
 | Account Manager - CCaaS UK | [Vonage](https://vonage.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/vonage/jobs/8537801002) |
+| Junior Account Manager, SMB Restaurants (Food Delivery) (m/w/d) | [Wolt](https://wolt.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7959881) |
 | Inside Hosting Manager for Eastern Europe | [Veeam Software](https://veeam.com) | — | May 27 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4876087101) |
 | Stage Sales Assistant (Full Time) - Lecco C.C. "La Meridiana" | [JD Sports](https://jdsports.com) | — | May 27 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4831581101) |
 | Account Manager (Retail) - Romania (They/She/He) | [Delivery Hero](https://deliveryhero.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000128655519) |

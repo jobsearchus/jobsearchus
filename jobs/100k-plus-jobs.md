@@ -2,7 +2,7 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**378 open roles** — Last updated: 2026-05-28
+**381 open roles** — Last updated: 2026-05-28
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -16,10 +16,13 @@ Remote roles paying $100,000 or more per year. Salary data pulled directly from 
 | Senior Instructional Designer | [dbt Labs](https://getdbt.com) | $125K–$170K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/dbtlabsinc/jobs/4699905005) |
 | Full Stack Engineer | [Oddball](https://oddball.com) | $100K–$140K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/oddball/jobs/7749864003) |
 | Creator Partner Manager | [Cantina](https://cantina.com) | $120K–$160K/yr | May 27 | [Apply](https://jobs.ashbyhq.com/cantina/04eaf201-fe7a-44fb-9520-7df9c03d256d) |
+| Commercial Enablement Innovation Lead | [Omada Health](https://omadahealth.com) | $130K–$162K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/omadahealth/jobs/7952135) |
 | Space Surveillance Engineer II | [Slingshot Aerospace](https://slingshotaerospace.com) | $128K–$213K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/slingshotaerospace/jobs/6007253004?gh_jid=6007253004) |
+| Full Stack Engineer - Assistant Vice President | [iCapital](https://icapital.com) | $100K–$130K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8452446002) |
 | Revenue Analytics Manager | [Cresta](https://cresta.com) | $120K–$175K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/cresta/jobs/5232532008) |
 | Assistant General Counsel, Corporate Governance | [NPR](https://npr.com) | $150K–$165K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/nationalpublicradioinc/jobs/4692729005) |
 | Executive Compensation Analyst | [Scopely](https://scopely.com) | $102K–$126K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/scopely/jobs/5230832008) |
+| Veterinary Internist | [Veritas Veterinary Partners](https://veritasveterinarypartners.com) | $200K–$250K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/veritasvetpartners/jobs/4810583008) |
 | Senior Director of Marketing, Business Banking | [Monzo](https://monzo.com) | £140K–£180K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7771697) |
 | Talent Management Program Manager | [Archer](https://archer.com) | $131K–$164K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7741018003) |
 | Sr Manager CW Tech Svcs & Ops Planning | [NBCUniversal](https://nbcuniversal.com) | $120K–$160K/yr | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000128634119) |

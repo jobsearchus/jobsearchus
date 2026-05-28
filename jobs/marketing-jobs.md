@@ -2,7 +2,7 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**221 open roles** — Last updated: 2026-05-28
+**222 open roles** — Last updated: 2026-05-28
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -18,6 +18,7 @@ Remote marketing roles across growth, content, brand, and performance channels.
 | Alternant (H/F) en communication  | [Genpak LLC](https://genpak-llc-2) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000128740814) |
 | Social Media Production Intern (Hybrid) | [KnowBe4](https://knowbe4.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8566568002) |
 | Digital/Social Producer - NBC Boston & Telemundo Nueva Inglaterra | [NBCUniversal](https://nbcuniversal.com) | $55K–$75K/yr | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000128734810) |
+| Stage - Assistant.e New Business & Gen AI (H/F) - Artefact 3000 | [LinkedIn Job Wrapping](https://artefact.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/artefactlinkedin/jobs/8566227002) |
 | Senior Director of Marketing, Business Banking | [Monzo](https://monzo.com) | £140K–£180K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7771697) |
 | Senior B2B Product Marketing Manager | [Canva](https://canva.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001109925) |
 | Marketing Project Manager, Brand and Comms | [Genpak LLC](https://genpak-llc-2) | — | May 27 | [Apply](https://job-boards.eu.greenhouse.io/valtech/jobs/4874197101) |

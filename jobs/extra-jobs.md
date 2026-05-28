@@ -2,25 +2,34 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**586 open roles** — Last updated: 2026-05-28
+**595 open roles** — Last updated: 2026-05-28
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| STELLVERTRETENDE/R FILIALLEITER/IN (M/W/D) - Bad Dürkheim (30h) | [JYSK](https://jysk.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000128864909) |
+| SPRZEDAWCA / SPRZEDAWCZYNI JYSK Białystok, al. Solidarności 9, (1/2 ETATU, 2550 PLN brutto) | [JYSK](https://jysk.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000128864199) |
+| STELLVERTRETENDE/R FILIALLEITER/IN (M/W/D) - Weinheim | [JYSK](https://jysk.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000128864099) |
 | Projects Editor, Editorial Operations, NYT Wirecutter | [The New York Times](https://thenewyorktimes.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4699885005) |
 | Bartender - Orangery  | [ACCOR](https://group.accor.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128796849) |
 | Bartender - Gordon Ramsay at The Mere | [ACCOR](https://group.accor.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128795920) |
 | Bartender - Banqueting  | [ACCOR](https://group.accor.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128796489) |
+| Country Director, India | [Cloudflare](https://cloudflare.com) | — | May 27 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7588061?gh_jid=7588061) |
+| Lead Associate Trading Director | [The Trade Desk](https://thetradedesk.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5144209007) |
 | Villa Residence Rector (Rome, Italy) | [University of Notre Dame](https://universityofnotredame.com) | €30K–€32K/yr | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013330426) |
+| Sales Assistant (Part Time) – Busango C.C. “Globo"  | [JD Sports](https://jdsports.com) | — | May 27 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4876831101) |
 | SAP DRC Analyst | [Continental](https://continentalserves.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000128764869) |
 | Correspondent, Business & Economics (Persian Gulf) | [The New York Times](https://thenewyorktimes.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4699399005) |
 | EMPLOYE BOULANGERIE 34,5H (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000128762847) |
 | Early Years Educator (Qualified) - Sanderstead | [Fennies Day Nurseries](https://fennies.com) | — | May 27 | [Apply](https://job-boards.eu.greenhouse.io/fenniesdaynurseries/jobs/4876817101) |
 | Agente Stone - Consultor(a) Comercial Externo -  Criciúma/SC | [Stone](https://stone.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/stone/jobs/7749653003) |
+| Visual Merchandiser di negozio - Livorno C.C. "Porta a Mare" | [JD Sports](https://jdsports.com) | — | May 27 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4876775101) |
+| Veterinary Client Services Manager | [Veritas Veterinary Partners](https://veritasveterinarypartners.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/veritasvetpartners/jobs/5232478008) |
 | Consultant, Motor Insurance Claims | [Standard Bank](https://standardbank.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000128750169) |
 | Physical Therapist | [BenchMark Physical Therapy](https://benchmarkpt.com) | $80K–$95K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/benchmarkpt/jobs/5142358007) |
 | Temporary - Dish Crew  | [University of Notre Dame](https://universityofnotredame.com) | $18/yr | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013326395) |
+| Veterinary Internist | [Veritas Veterinary Partners](https://veritasveterinarypartners.com) | $200K–$250K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/veritasvetpartners/jobs/4810583008) |
 | Health & Safety Analyst | [Continental](https://continentalserves.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000128739089) |
 | Temporary - Houseperson | [University of Notre Dame](https://universityofnotredame.com) | $18/yr | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013325139) |
 | Physician: Pathology: Anatomic and Clinical - Lake Forest, IL | [Northwestern Medicine](https://northwesternmedicine.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/NorthwesternMedicine/postings/744000128732378) |
