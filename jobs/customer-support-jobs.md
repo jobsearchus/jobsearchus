@@ -2,12 +2,14 @@
 
 Remote customer support and success roles across SaaS, e-commerce, and tech.
 
-**182 open roles** — Last updated: 2026-05-29
+**184 open roles** — Last updated: 2026-05-29
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Junior Customer Service Operations Manager (f/m/d) | [AUTO1 Group](https://auto1-group.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000129214895) |
+| Customer Support Officer | [Genpak LLC](https://genpak-llc-2) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/APMGroup/postings/6000000001117046) |
 | Arby's Team Member | [Pilot Flying J](https://pilotflyingj.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/PilotCompany/postings/744000129086599) |
 | Incident Management Specialist (CX)  | [Coupang](https://coupang.com) | — | May 29 | [Apply](https://boards.greenhouse.io/coupanginternal/jobs/7964995?gh_jid=7964995) |
 | Customer Success Manager - Dedicated | [Contentful](https://contentful.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/contentful/jobs/7947500) |

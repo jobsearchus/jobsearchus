@@ -2,12 +2,16 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**295 open roles** — Last updated: 2026-05-29
+**300 open roles** — Last updated: 2026-05-29
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Analyst, AML | [IQ-EQ](https://iqeq.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000129209673) |
+| Fund Accountant | [IQ-EQ](https://iqeq.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000129209379) |
+| Analyst, Business (Commercial Asset Finance) | [Standard Bank](https://standardbank.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000129201115) |
+| Specialist, Commercial Asset Finance | [Standard Bank](https://standardbank.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000129186016) |
 | Indirect Tax Compliance Senior Analyst role | [Pure Storage](https://purestorage.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/7962624) |
 | Finance Systems Development Specialist - Payments & PTP | [Wolt](https://wolt.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7962870) |
 | Senior Corporate Development Manager | [Firmus Technologies](https://firmus.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/firmus/jobs/5235054008) |
@@ -23,6 +27,7 @@ Remote finance, accounting, and analyst roles at companies of all sizes.
 | Senior Manager, Payment Network Development & Oversight | [Convera](https://convera.com) | — | May 28 | [Apply](https://job-boards.eu.greenhouse.io/convera/jobs/4873398101) |
 | Assistant Director, Finance | [University of Notre Dame](https://universityofnotredame.com) | $70K–$88K/yr | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013352849) |
 | Head of FinOps & Platform Economics | [Creative Fabrica](https://creativefabrica.com) | — | May 28 | [Apply](https://job-boards.eu.greenhouse.io/creativefabrica/jobs/4877858101) |
+| Assistant Director of Finance | [University of Notre Dame](https://universityofnotredame.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013352536) |
 | Director, International Tax | [Shift4](https://shift4.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/shift4/jobs/5127440007) |
 | Senior Accountant - Marketing | [Truelogic](https://truelogic.com) | — | May 28 | [Apply](https://jobs.ashbyhq.com/truelogic/85c8833b-f78d-4589-aac0-8fef0d60c667) |
 | Senior Accountant (Revenue) | [Apollo.io](https://apollo.io) | — | May 28 | [Apply](https://job-boards.greenhouse.io/apolloio/jobs/6006160004) |

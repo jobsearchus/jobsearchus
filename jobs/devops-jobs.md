@@ -2,12 +2,14 @@
 
 DevOps, platform engineering, and infrastructure roles. AWS, GCP, Kubernetes, Terraform.
 
-**56 open roles** — Last updated: 2026-05-29
+**58 open roles** — Last updated: 2026-05-29
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Posted | Apply |
 | --- | --- | --- | --- |
+| #EX DevOps Engineer | [NCS](https://ncs.co) | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001118087) |
+| Cloud DevSecOps Engineer | [NCS](https://ncs.co) | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001117925) |
 | AI Platform Engineer | [Qube Research & Technologies](https://quberesearch.com) | May 28 | [Apply](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8568734002) |
 | Senior Azure Data Platform Engineer | [New Era Technology](https://neweratech.com) | May 28 | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8555568002) |
 | Java DevOps Engineer (m/w/d) | [Everience](https://everience.com) | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/EVERIENCE/postings/744000128887759) |

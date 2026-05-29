@@ -2,12 +2,15 @@
 
 Backend, server-side, and API engineering roles. Node.js, Python, Go, Ruby, Java and beyond.
 
-**41 open roles** — Last updated: 2026-05-29
+**44 open roles** — Last updated: 2026-05-29
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Backend Engineer (Node.js) | [Miratech](https://miratech.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000129131824) |
+| Senior Backend Engineer (Node.js) | [Miratech](https://miratech.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000129131789) |
+| Senior Backend Engineer (Node.js) | [Miratech](https://miratech.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000129130560) |
 | Director, Back-End Engineering (Fulfillment Tech) | [Coupang](https://coupang.com) | — | May 29 | [Apply](https://boards.greenhouse.io/coupanginternal/jobs/7965069?gh_jid=7965069) |
 | PL Desenvolvimento Backend (Java) | [ília](https://lia.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/ilia/jobs/6008525004) |
 | Senior Backend Engineer - Java - Product Platform | [Canva](https://canva.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001113630) |

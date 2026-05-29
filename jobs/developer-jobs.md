@@ -2,12 +2,13 @@
 
 General developer and programmer roles that did not fit a more specific category.
 
-**74 open roles** — Last updated: 2026-05-29
+**75 open roles** — Last updated: 2026-05-29
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Java Developer | [Miratech](https://miratech.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000129137789) |
 | Salesforce CPQ Developer | [CapTech](https://captech.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/CapTechConsulting/postings/744000128978613) |
 | Senior Enterprise Platforms Professional I ( SAP HANA BODS Developer) | [Nielsen](https://nielsen.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990013348078) |
 | Oracle Apex Developer | [Inetum](https://inetum.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000128913649) |

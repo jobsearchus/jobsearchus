@@ -2,7 +2,7 @@
 
 Remote creative roles — copywriters, content creators, graphic designers, and brand specialists.
 
-**58 open roles** — Last updated: 2026-05-29
+**59 open roles** — Last updated: 2026-05-29
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -10,6 +10,7 @@ Remote creative roles — copywriters, content creators, graphic designers, and 
 | --- | --- | --- | --- | --- |
 | Creative Strategist | [Fever](https://feverup.com) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4878245101) |
 | Creative Strategist | [Fever](https://feverup.com) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4878241101) |
+| Freelance Production Assistant - NBC Sports | [NBCUniversal](https://nbcuniversal.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000129043679) |
 | Graphics Production Assistant, MS NOW The Beat | [Versant](https://versant.com) | $30/yr | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Versant3/postings/744000129005189) |
 | Jr. Graphic Designer - BetMGM | [Entain](https://entaingroup.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Entain/postings/744000128959649) |
 | Web Content/ Web content publishing/CMS/AEM/PIM - Gurgaon Immediate joiners  ( 1+ yrs ) | [WNS](https://wns.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/WNSGlobalServices144/postings/744000128948965) |

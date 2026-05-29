@@ -2,12 +2,14 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**419 open roles** — Last updated: 2026-05-29
+**423 open roles** — Last updated: 2026-05-29
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Technical Business Systems Analyst | [CapTech](https://captech.com) | $115K–$150K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/CapTechConsulting/postings/744000129189779) |
+| Channel Sales Account Executive (South West Region) | [Sectigo](https://sectigo.com) | $170K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Sectigo/postings/3743990013367697) |
 | Change & Adoption Manager | [Western Sydney University](https://westernsydney.edu.au) | $138K–$147K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/WesternSydneyUniversity/postings/6000000001117732) |
 | Research Project Manager | [Western Sydney University](https://westernsydney.edu.au) | $119K–$132K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/WesternSydneyUniversity/postings/6000000001117592) |
 | Head of Student Voice, Advocacy and Wellbeing | [Western Sydney University](https://westernsydney.edu.au) | $118K–$147K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/WesternSydneyUniversity/postings/6000000001117409) |
@@ -19,6 +21,8 @@ Remote roles paying $100,000 or more per year. Salary data pulled directly from 
 | Fund Attorney - Assistant Vice President | [iCapital](https://icapital.com) | $160K–$210K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8568888002) |
 | Underwriting & Servicing Operations Manager - Cards | [Mercury](https://mercury.com) | $163K–$204K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/mercury/jobs/6008667004) |
 | Staff Software Engineer, Cloud Identity | [Temporal](https://temporal.io) | $212K–$286K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/temporaltechnologies/jobs/5148493007) |
+| Product Manager | [NBCUniversal](https://nbcuniversal.com) | $110K–$140K/yr | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000129041169) |
+| Product Manager | [NBCUniversal](https://nbcuniversal.com) | $110K–$140K/yr | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000129040590) |
 | Senior Product Marketing Manager | [Customer.io](https://customer.io) | $135K–$176K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/customerio/jobs/7964655) |
 | Salesforce Agentforce Architect (Technical Architect) | [NeuraFlash](https://neuraflash.com) | $101K–$245K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/neuraflash/jobs/6008602004) |
 | Senior Motion Designer | [Customer.io](https://customer.io) | $118K–$142K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/customerio/jobs/7964342) |

@@ -2,12 +2,13 @@
 
 Remote legal, compliance, and counsel roles.
 
-**67 open roles** — Last updated: 2026-05-29
+**68 open roles** — Last updated: 2026-05-29
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Legal Counsel (Hungary) - Tires | [Continental](https://continentalserves.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000129201369) |
 | General Counsel | [SuperDial](https://superdial.com) | $250K–$325K/yr | May 28 | [Apply](https://jobs.ashbyhq.com/superdial/b356bba3-ed48-40bd-807e-979934f32f03) |
 | Senior Enablement Experience Manager | [Vanta](https://vanta.com) | — | May 28 | [Apply](https://jobs.ashbyhq.com/vanta/3cd8f71d-9397-40fd-8fda-037d622e6c79) |
 | Paralegal, State Supreme Court Initiative (SSCI) | [ACLU](https://aclu.org) | — | May 28 | [Apply](https://job-boards.greenhouse.io/aclu/jobs/8551448002) |

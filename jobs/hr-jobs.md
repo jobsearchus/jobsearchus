@@ -2,15 +2,19 @@
 
 Remote HR, recruiting, and people operations roles.
 
-**109 open roles** — Last updated: 2026-05-29
+**113 open roles** — Last updated: 2026-05-29
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Conference Executive | [ACCOR](https://group.accor.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000129230054) |
+| Workday HRIS Analyst – Time & Absence (f/m/x) | [AUTO1 Group](https://auto1-group.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000129201374) |
+| Global HR Systems User Access Provisioning Specialist - Tires | [Continental](https://continentalserves.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000129198667) |
 | IT - Stage HR - People & Culture Administrator | [Primark Tiendas SLU](https://primark.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000129162020) |
 | Talent Acquisition Sourcer (Apprentice - Any Bachelor's - BBA/B.Com/B.Sc/BCA) | [Vonage](https://vonage.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/vonage/jobs/8570556002) |
 | Associate, Talent Coordination (6 months contract) | [Delivery Hero](https://deliveryhero.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000129051119) |
+| HR Intern - BR | [NBCUniversal](https://nbcuniversal.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000129039259) |
 | McWane - Group Director, Human Resources | [McWane](https://mcwane.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/McWaneInc/postings/3743990013359506) |
 | People Systems & Programs Lead | [Mariana Minerals](https://marianaminerals.com) | — | May 28 | [Apply](https://jobs.ashbyhq.com/marianaminerals/b921d3a0-ba9d-49ee-a4d1-93612a784b42) |
 | Recruiting Coordinator | [Chime](https://chime.com) | $15K/yr | May 28 | [Apply](https://boards.greenhouse.io/chime/jobs/8555624002?gh_jid=8555624002) |

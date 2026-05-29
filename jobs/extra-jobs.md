@@ -2,12 +2,15 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**646 open roles** — Last updated: 2026-05-29
+**654 open roles** — Last updated: 2026-05-29
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Room Attendant | [ACCOR](https://group.accor.com) | $22/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000129229848) |
+| Serveur - Service aux chambres Nuit | [ACCOR](https://group.accor.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000129229509) |
+| Directeur de magasin F/H/X | [BUT](https://but.fr) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000129170762) |
 | Commis de Salle (H/F) - Restaurant Girardin 1* | [Relais & Châteaux](https://relaischateaux.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000129156319) |
 | Skladiščnik | [Primark Tiendas SLU](https://primark.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000129151470) |
 | Tyler Union - Lining & Coating Utility -2nd shift  | [McWane](https://mcwane.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/McWaneInc/postings/3743990013365906) |
@@ -15,7 +18,11 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Assistant Restaurant Manager | [Relais & Châteaux](https://relaischateaux.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000129139649) |
 | Hôte/Hôtesse CDD Rooftop | [Genpak LLC](https://genpak-llc-2) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000129135900) |
 | Croupier Poker en Extra | [Genpak LLC](https://genpak-llc-2) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000129126049) |
+| Business Consultant | [Netcompany](https://netcompany.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000129100190) |
 | Head of Student Voice, Advocacy and Wellbeing | [Western Sydney University](https://westernsydney.edu.au) | $118K–$147K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/WesternSydneyUniversity/postings/6000000001117409) |
+| RN Triage | [Healthcare Australia](https://healthcareaustralia.com.au) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/HealthcareAustralia1/postings/6000000001115724) |
+| Registered Nurse – AOD (Mon–Fri) - No Shift Work | [Healthcare Australia](https://healthcareaustralia.com.au) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/HealthcareAustralia1/postings/6000000001115242) |
+| Mental Health Registered Nurse (Casual) | [Healthcare Australia](https://healthcareaustralia.com.au) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/HealthcareAustralia1/postings/6000000001115193) |
 | Mechanical Engineer | [Cerebras Systems](https://cerebras.net) | $180K–$200K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/cerebrassystems/jobs/7752149003) |
 | Procurement Manager | [Firmus Technologies](https://firmus.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/firmus/jobs/5231959008) |
 | Chief of Staff, VISASQ/COLEMAN Ex-Japan  | [VisasQ/Coleman](https://colemanrg.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/colemanresearch/jobs/8568961002) |
@@ -39,6 +46,7 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Behavioral Health Intake Specialist- Bilingual Spanish Preferred   | [WellPower - All External Jobs](https://wellpower.org) | $30/yr | May 28 | [Apply](https://job-boards.greenhouse.io/mentalhealthcenterofdenver/jobs/7746940003) |
 | Chief Revenue Officer | [Swayable](https://swayable.com) | $250K–$300K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/swayable/jobs/5148809007) |
 | [Job -  29611] Data Strategist, Brazil | [CI&T](https://cit.com) | — | May 28 | [Apply](https://jobs.lever.co/ciandt/25359eaf-fa55-4851-926c-dd88f3e672a7) |
+| Associate Director of Strategic Initiatives - LEO | [University of Notre Dame](https://universityofnotredame.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013347681) |
 | Business Development Lead | [Growe](https://growe.com) | — | May 28 | [Apply](https://job-boards.eu.greenhouse.io/growe/jobs/4874323101) |
 | Chef de Partie Cuisine | [Genpak LLC](https://genpak-llc-2) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000128965929) |
 | IT Support Specialist - London | [Genpak LLC](https://genpak-llc-2) | — | May 28 | [Apply](https://jobs.ashbyhq.com/legora/1375ee19-aa7e-479e-bbfa-a8ad53907968) |

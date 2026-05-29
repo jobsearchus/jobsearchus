@@ -2,15 +2,26 @@
 
 Remote operations and business operations roles across industries.
 
-**631 open roles** — Last updated: 2026-05-29
+**646 open roles** — Last updated: 2026-05-29
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Técnico(a) de Obras Júnior | [Egis](https://egis-group.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000129226459) |
+| Superintendent Project Support | [Anglo American](https://angloamerican.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000129222709) |
+| Asesor Costos y Tendencias | [Anglo American](https://angloamerican.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000129220740) |
+| Asesor Programación y Avances | [Anglo American](https://angloamerican.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000129218577) |
+| Coordenador(a) Geral | [Egis](https://egis-group.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000129216340) |
+| MODELE BRICOMARCHE - RECEPTIONNAIRE (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129212129) |
+|  RESPONSABLE CAISSE (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129211416) |
+| Teamassistent - Produktion (d/m/w) | [AUTO1 Group](https://auto1-group.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000129203117) |
+| Central Compliance: Global Process Excellence & Operations Lead | [Experian](https://experianplc.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000129187629) |
+| Ausbildung Kauffrau/Kaufmann (w/m/d) für Büromanagement | [Drees & Sommer](https://dreso.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000129155370) |
 | Afstudeerstage Logistiek & Supply Chain Management | [Syngenta](https://syngenta.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000129148259) |
 | Office Manager | [BrainRocket](https://brainrocket.com) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/brainrocketltd/jobs/4878378101) |
 | Operator Maszyn Formujących (k/m) | [O-I Glass](https://o-i.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/O-I/postings/744000129145850) |
+| Fleet Back Office Specialist | [MSX International](https://msxi.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013365546) |
 | Head of Transformation | [LinkedIn Job Wrapping](https://artefact.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/artefactlinkedin/jobs/8570554002) |
 | Front Office Assistant - Part Time | [VML MAP](https://vml-map.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/map/jobs/8570497002) |
 | Change & Adoption Manager | [Western Sydney University](https://westernsydney.edu.au) | $138K–$147K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/WesternSydneyUniversity/postings/6000000001117732) |
@@ -21,7 +32,9 @@ Remote operations and business operations roles across industries.
 | Program Manager, Dispute Experience | [Chime](https://chime.com) | $15K/yr | May 28 | [Apply](https://boards.greenhouse.io/chime/jobs/8568168002?gh_jid=8568168002) |
 | Senior Program Manager, AI Enablement | [Chime](https://chime.com) | $15K/yr | May 28 | [Apply](https://boards.greenhouse.io/chime/jobs/8552459002?gh_jid=8552459002) |
 | Preventative Maintenance Technician, Facilities | [Relativity Space](https://relativityspace.com) | — | May 28 | [Apply](https://boards.greenhouse.io/relativity/jobs/8569398002?gh_jid=8569398002) |
+| Manager, Enterprise Partnerships & Operations | [NBCUniversal](https://nbcuniversal.com) | $95K–$105K/yr | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000129043244) |
 | Underwriting & Servicing Operations Manager - Cards | [Mercury](https://mercury.com) | $163K–$204K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/mercury/jobs/6008667004) |
+| Procurement Specialist (Korean Bilingual) | [SBT Global](https://sbtglobal.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/SBTGlobalInc/postings/3743990013360556) |
 | Low Voltage Project Manger  | [New Era Technology](https://neweratech.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8569713002) |
 | Porter - Night Shift | [xAI](https://x.ai) | — | May 28 | [Apply](https://job-boards.greenhouse.io/xai/jobs/5149312007) |
 | Office Manager | [Genpak LLC](https://genpak-llc-2) | — | May 28 | [Apply](https://job-boards.greenhouse.io/superluminalrx/jobs/5233546008) |
@@ -43,10 +56,12 @@ Remote operations and business operations roles across industries.
 | Mobile Equipment Operator | [Enviva](https://envivabiomass.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/enviva/jobs/7749831003) |
 | Revenue Operations Manager (F/M/D) | [NavVis](https://navvis.com) | — | May 28 | [Apply](https://job-boards.eu.greenhouse.io/navvis/jobs/4867923101) |
 | Staff Technical Program Manager, Batteries  | [ŌURA](https://ouraring.com) | $198K–$233K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/oura/jobs/4260161009) |
+| Associate Program Director Curriculum & Research | [University of Notre Dame](https://universityofnotredame.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013348056) |
 | Analyste, Planification de la production  | [Vosker](https://vosker.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Vosker/postings/744000128970821) |
 | Change Management Practitioner | [Accenture Federal Services](https://accenturefederalservices.com) | — | May 28 | [Apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4684997006?gh_jid=4684997006) |
 | Lead eCommerce, Transactional Services | [Vosker](https://vosker.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Vosker/postings/744000128971305) |
 | Program Manager, Sonar Systems | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $122K–$165K/yr | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000128968864) |
+| Information Developer | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $68K–$88K/yr | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000128962285) |
 | Sr. Manager, Leadership Capability | [NBCUniversal](https://nbcuniversal.com) | $110K–$135K/yr | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000128964219) |
 | Middle Payments Operations Specialist | [GR8 Tech](https://gr8.com) | — | May 28 | [Apply](https://job-boards.eu.greenhouse.io/gr8tech/jobs/4877324101) |
 | Key Account Manager (API) | [Vonage](https://vonage.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/vonage/jobs/8549510002) |

@@ -2,12 +2,15 @@
 
 UX design, UI design, and product design roles. Figma, research, and end-to-end product work.
 
-**91 open roles** — Last updated: 2026-05-29
+**94 open roles** — Last updated: 2026-05-29
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Analista de Design III | [Experian](https://experianplc.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000129184217) |
+| Dialogflow CX Design Specialist | [Miratech](https://miratech.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000129150899) |
+| Editorial Content Specialist | [Netcompany](https://netcompany.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000129132129) |
 | Senior Motion Designer | [Customer.io](https://customer.io) | $118K–$142K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/customerio/jobs/7964342) |
 | Visual / Product Designer  | [CapTech](https://captech.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/CapTechConsulting/postings/744000129014656) |
 | Principal Game Designer | [Zynga](https://zynga.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/zyngacareers/jobs/6006962004) |

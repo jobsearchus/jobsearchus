@@ -2,15 +2,34 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**961 open roles** — Last updated: 2026-05-29
+**981 open roles** — Last updated: 2026-05-29
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Junior Enterprise Onboarding Engineer | [Sectigo](https://sectigo.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Sectigo/postings/3743990013371386) |
+| Ingénieur Méthodes Usinage Senior H/F  | [SEGULA Technologies](https://segulatechnologies.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/SegulaTechnologies/postings/744000129190419) |
+| Senior Technical Business Systems Analyst | [CapTech](https://captech.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/CapTechConsulting/postings/744000129189969) |
+| Senior Technical Business Systems Analyst | [CapTech](https://captech.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/CapTechConsulting/postings/744000129186834) |
+| Senior Technical Business Systems Analyst | [CapTech](https://captech.com) | $115K–$150K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/CapTechConsulting/postings/744000129189779) |
+| Data Architect Engineer | [Standard Bank](https://standardbank.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000129184699) |
+| SAP SuccessFactors Solution Architect (m/f/d) | [Nagarro](https://nagarro.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000129172952) |
+| AI Technical Program Manager (Localisation) | [Canva](https://canva.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001118111) |
+| Ausbildung Fachinformatiker (w/m/d) Systemintegration | [Drees & Sommer](https://dreso.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000129160344) |
 | Technicien/ne de fiabilité (H/F/N) | [Syngenta](https://syngenta.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000129155560) |
+| Web Editorial Specialist | [Netcompany](https://netcompany.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000129133456) |
+| Lead - Solution Engineer | [Freshworks](https://freshworks.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000129133679) |
 | Senior Software Engineer  | [Vonage](https://vonage.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/vonage/jobs/8480975002) |
+| Senior Systems Engineer [Windows Server)  | [NCS](https://ncs.co) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001117972) |
+| Site Supervisor (Piping & Mechanical Engineer) | [BESIX](https://besix.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000129125149) |
+| Site Supervisor (Piping & Mechanical Engineer) | [BESIX](https://besix.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000129125099) |
+| Site Supervisor (Piping & Mechanical Engineer) | [BESIX](https://besix.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000129121015) |
+| Ingénieur Industrialisation H/F | [SEGULA Technologies](https://segulatechnologies.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/SegulaTechnologies/postings/744000129116739) |
+| AI Specialist (Junior - Medior) | [Netcompany](https://netcompany.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000129107909) |
 | Research Project Manager | [Western Sydney University](https://westernsydney.edu.au) | $119K–$132K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/WesternSydneyUniversity/postings/6000000001117592) |
+| Associate Consultant til Netcompany Application Services (Swedish speaking) | [Netcompany](https://netcompany.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000129099905) |
+| AI Quality evaluator -Japanese Content (12-month contract) | [Canva](https://canva.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001116859) |
 | GEOINT History Program Specialist - Senior | [ANSER](https://anser.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/analyticservicesinc/jobs/5234012008?gh_jid=5234012008) |
 | Software Engineer | [Everbridge](https://everbridge.com) | — | May 29 | [Apply](https://jobs.lever.co/everbridge/20f04a0b-eb61-4546-98f3-d48bab046b08) |
 | Senior Software Engineer, Cloud Applications | [Temporal](https://temporal.io) | $176K–$237K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/temporaltechnologies/jobs/5149574007) |
@@ -56,6 +75,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Forward Deployed Engineer | [Sixfold Bioscience](https://sixfold.bio) | $155K–$200K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/sixfold/jobs/5234031008) |
 | Scientist I, In Vitro Pharmacology | [Flagship Pioneering, Inc.](https://flagshippioneering.com) | $100K–$127K/yr | May 28 | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8567001002?gh_jid=8567001002) |
 | Senior Product Counsel | [ClickHouse](https://clickhouse.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/clickhouse/jobs/6007957004) |
+| Project Engineer, Vehicle Electronics  | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $78K–$91K/yr | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000128963802) |
 | Senior Scientist, Proteomics | [Flagship Pioneering, Inc.](https://flagshippioneering.com) | $126K–$160K/yr | May 28 | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8567761002?gh_jid=8567761002) |
 | Strategic Solutions Engineer, Pacific Northwest | [ClickUp](https://clickup.com) | — | May 28 | [Apply](https://jobs.ashbyhq.com/clickup/9065fdd6-2d92-4f7c-8600-8c425bd410ac) |
 | Ingénieur Big Data – Python / PySpark / Hadoop – Bordeaux (H/F) | [Everience](https://everience.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/EVERIENCE/postings/744000128956964) |

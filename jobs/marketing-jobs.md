@@ -2,13 +2,15 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**239 open roles** — Last updated: 2026-05-29
+**241 open roles** — Last updated: 2026-05-29
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Digital Marketing Executive   | [Egis](https://egis-group.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000129212074) |
 | Senior Investment Writer - 12m FTC | [Man Group](https://man.com) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/mangroup/jobs/4876548101) |
+| Social Media Specialist | [Netcompany](https://netcompany.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000129132731) |
 | Campaign Specialist  | [VML MAP](https://vml-map.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/map/jobs/8568844002) |
 | Ads and Promos Sales Manager | [Wolt](https://wolt.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7962985) |
 | Events Marketing Manager, EMEA/META | [Censys](https://censys.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/censys/jobs/8556846002) |
