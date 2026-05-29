@@ -2,19 +2,22 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**283 open roles** — Last updated: 2026-05-29
+**287 open roles** — Last updated: 2026-05-29
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | Senior Corporate Development Manager | [Firmus Technologies](https://firmus.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/firmus/jobs/5235054008) |
+| Associate II, Fund Administration (Core IS) | [Juniper Square](https://junipersquare.com) | — | May 28 | [Apply](https://jobs.ashbyhq.com/junipersquare/e28771f6-522a-4473-9eeb-b07a2a6a7ea9) |
 | Inbound Billing and Settlement Staff | [SBT Global](https://sbtglobal.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/SBTGlobalInc/postings/3743990013359596) |
 | Billing specialist | [SBT Global](https://sbtglobal.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/SBTGlobalInc/postings/3743990013359426) |
 | Prime Brokerage Business Architect | [Endava](https://endava.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Endava/postings/744000129014216) |
 | Budget Analyst / Action Officer | [AnaVation](https://anavation.com) | — | May 28 | [Apply](https://jobs.lever.co/anavationllc/f97a8c5c-28af-42d5-90e5-0ad2b71addcd) |
 | Senior Manager, Payment Network Development & Oversight | [Convera](https://convera.com) | — | May 28 | [Apply](https://job-boards.eu.greenhouse.io/convera/jobs/4873398101) |
 | Assistant Director, Finance | [University of Notre Dame](https://universityofnotredame.com) | $70K–$88K/yr | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013352849) |
+| Head of FinOps & Platform Economics | [Creative Fabrica](https://creativefabrica.com) | — | May 28 | [Apply](https://job-boards.eu.greenhouse.io/creativefabrica/jobs/4877858101) |
+| Director, International Tax | [Shift4](https://shift4.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/shift4/jobs/5127440007) |
 | Senior Accountant - Marketing | [Truelogic](https://truelogic.com) | — | May 28 | [Apply](https://jobs.ashbyhq.com/truelogic/85c8833b-f78d-4589-aac0-8fef0d60c667) |
 | Senior Accountant (Revenue) | [Apollo.io](https://apollo.io) | — | May 28 | [Apply](https://job-boards.greenhouse.io/apolloio/jobs/6006160004) |
 | Staff Accountant | [Seed](https://seed.co) | $75K–$95K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/seed/jobs/7743291003) |
@@ -37,6 +40,7 @@ Remote finance, accounting, and analyst roles at companies of all sizes.
 | Team Lead, Feature Trade Support | [Standard Bank](https://standardbank.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000128894625) |
 | Compliance Analyst I | [Affirm](https://affirm.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7738010003) |
 | Summer Student - Finance | [Entain](https://entaingroup.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Entain/postings/744000128893531) |
+| Senior Treasury Analyst | [Genpak LLC](https://genpak-llc-2) | — | May 28 | [Apply](https://job-boards.greenhouse.io/brandtechplus/jobs/7949766) |
 | Finance Director | [Juniper Square](https://junipersquare.com) | $165K–$200K/yr | May 27 | [Apply](https://jobs.ashbyhq.com/junipersquare/8ea579d5-206d-4e61-801c-a534ddf766ef) |
 | Head of Accounting Policy & Financial Reporting | [OnePay](https://onepay.com) | — | May 27 | [Apply](https://jobs.ashbyhq.com/oneapp/8901a28f-98d0-4069-8c20-b52bb7416fc6) |
 | Accounting Analyst | [Flexport](https://flexport.com) | — | May 27 | [Apply](https://boards.greenhouse.io/flexport/jobs/7961631?gh_jid=7961631) |

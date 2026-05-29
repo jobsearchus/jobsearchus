@@ -2,12 +2,14 @@
 
 Product manager roles at companies building real products. Sourced directly from career pages.
 
-**102 open roles** — Last updated: 2026-05-29
+**105 open roles** — Last updated: 2026-05-29
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Product Manager, Infrastructure Observability - Germany - Remote | [Grafana Labs](https://grafana.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6008082004) |
+| Senior Product Manager, Infrastructure Observability - Canada - Remote | [Grafana Labs](https://grafana.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6008078004) |
 | Staff Product Manager | [6sense](https://6sense.com) | — | May 28 | [Apply](https://boards.greenhouse.io/6sense/jobs/7931657?gh_jid=7931657) |
 | AI Product Manager / Product Owner – Google Cloud & Search | [Genpak LLC](https://genpak-llc-2) | — | May 28 | [Apply](https://job-boards.eu.greenhouse.io/valtech/jobs/4873662101) |
 | Product Manager | [Holywater](https://holywater.com) | — | May 28 | [Apply](https://jobs.ashbyhq.com/holywater/f73163a4-6cfd-4b5d-8a12-da13c73540f2) |
@@ -17,6 +19,7 @@ Product manager roles at companies building real products. Sourced directly from
 | Principal Product Manager, Core Platform Ventura TV OS | [The Trade Desk](https://thetradedesk.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5147818007) |
 | Senior Product Manager, AI Agent Orchestration | [Box](https://box.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/boxinc/jobs/7959067) |
 | Director of Product Management, AI Generation Engine | [SandboxAQ](https://sandboxaq.com) | — | May 27 | [Apply](https://jobs.ashbyhq.com/sandboxaq/a5897e7a-5453-4098-a16e-d8566a2c1992) |
+| Director, Product Management - Data Collection, Transformation, and Ingest - US - Remote | [Grafana Labs](https://grafana.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6002442004) |
 | Director, Product Management - UK - Remote | [Grafana Labs](https://grafana.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6007098004) |
 | Director, Product Management - Sweden - Remote | [Grafana Labs](https://grafana.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6002886004) |
 | Director, Product Management - Spain - Remote | [Grafana Labs](https://grafana.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6007097004) |

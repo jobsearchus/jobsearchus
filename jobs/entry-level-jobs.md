@@ -2,21 +2,30 @@
 
 Remote jobs open to candidates with 0–2 years of experience. A real way in — no degree gatekeeping.
 
-**608 open roles** — Last updated: 2026-05-29
+**617 open roles** — Last updated: 2026-05-29
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Employee Relations Specialist | [Scopely](https://scopely.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/scopely/jobs/5210637008) |
 | Picker HUB | [Delivery Hero](https://deliveryhero.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000129049169) |
+| Chemical Engineering Intern | [Mariana Minerals](https://marianaminerals.com) | — | May 28 | [Apply](https://jobs.ashbyhq.com/marianaminerals/1f8dc663-ae78-44ad-8232-ebf5dcf2385a) |
 | Inbound Billing and Settlement Staff | [SBT Global](https://sbtglobal.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/SBTGlobalInc/postings/3743990013359596) |
 | Billing specialist | [SBT Global](https://sbtglobal.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/SBTGlobalInc/postings/3743990013359426) |
 | Logistic coordinator | [SBT Global](https://sbtglobal.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/SBTGlobalInc/postings/3743990013359349) |
+| Recruiting Coordinator | [Chime](https://chime.com) | $15K/yr | May 28 | [Apply](https://boards.greenhouse.io/chime/jobs/8555624002?gh_jid=8555624002) |
+| Design Operations Specialist  | [GitLab](https://about.gitlab.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8498821002) |
+| Hospice RN Case Manager | [Silverado](https://silverado.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/silverado/jobs/5149162007) |
 | Temporary - Chick-fil-A Retail Associate (Evening Shift) | [University of Notre Dame](https://universityofnotredame.com) | $18/yr | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013356396) |
+| Copy of Class A Commercial Driver - $10,000 Sign-On Bonus- Home Every Night | [Super-Sod](https://supersod.com) | $52K–$100K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/supersod/jobs/5234557008) |
+| Quality Technician | [Enviva](https://envivabiomass.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/enviva/jobs/7749952003) |
+| Agente Stone - Consultor(a) Comercial Externo - Domingos Martins/ES | [Stone](https://stone.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/stone/jobs/7751522003) |
 | Graphics Production Assistant, MS NOW The Beat | [Versant](https://versant.com) | $30/yr | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Versant3/postings/744000129005189) |
 | EMPLOYE LIBRE SERVICE | [Genpak LLC](https://genpak-llc-2) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129001995) |
 | Hôte de caisse HF | [BUT](https://but.fr) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000129000739) |
 | Coordinator, Transcription Marketplace | [Filevine](https://filevine.com) | — | May 28 | [Apply](https://jobs.lever.co/filevine/8c8af33c-a201-41a0-aefa-21fc0d024f35) |
+| Mobile Equipment Operator | [Enviva](https://envivabiomass.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/enviva/jobs/7749831003) |
 | Jr. Graphic Designer - BetMGM | [Entain](https://entaingroup.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Entain/postings/744000128959649) |
 | Web Content/ Web content publishing/CMS/AEM/PIM - Gurgaon Immediate joiners  ( 1+ yrs ) | [WNS](https://wns.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/WNSGlobalServices144/postings/744000128948965) |
 | Kundenberater Fahrzeugbewertung (d/m/w) | [AUTO1 Group](https://auto1-group.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000128940891) |

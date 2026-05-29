@@ -2,14 +2,16 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**935 open roles** — Last updated: 2026-05-29
+**944 open roles** — Last updated: 2026-05-29
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | GEOINT History Program Specialist - Senior | [ANSER](https://anser.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/analyticservicesinc/jobs/5234012008?gh_jid=5234012008) |
+| Software Engineer | [Everbridge](https://everbridge.com) | — | May 29 | [Apply](https://jobs.lever.co/everbridge/20f04a0b-eb61-4546-98f3-d48bab046b08) |
 | Cost Engineer – Data Center IT Fit-Out | [Firmus Technologies](https://firmus.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/firmus/jobs/5231970008) |
+| Chemical Engineering Intern | [Mariana Minerals](https://marianaminerals.com) | — | May 28 | [Apply](https://jobs.ashbyhq.com/marianaminerals/1f8dc663-ae78-44ad-8232-ebf5dcf2385a) |
 | IT Service Manager | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $90K–$115K/yr | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000129037029) |
 | Design and Release Engineer (Ref. L-2611) | [ALTEN](https://alten.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5149384007) |
 | Senior Director of Engineering, Emerging Products, Product Engineering | [1Password](https://1password.com) | — | May 28 | [Apply](https://jobs.ashbyhq.com/1password/3325c864-0f37-4b7d-a67b-1972104f51bb) |
@@ -18,9 +20,15 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Analista de Desenvolvimento de Software Pleno | [Experian](https://experianplc.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000129027622) |
 | [8PV] Software Architect | [Software Mind](https://softwaremind.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/SoftwareMind/postings/744000129023682) |
 | Systems Engineer | [ANSER](https://anser.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/analyticservicesinc/jobs/5232415008?gh_jid=5232415008) |
+| Electrical Engineer | [Mariana Minerals](https://marianaminerals.com) | — | May 28 | [Apply](https://jobs.ashbyhq.com/marianaminerals/0f7487f1-7396-4bd1-8339-66615e10b94a) |
+| Copy of Class A Commercial Driver - $10,000 Sign-On Bonus | [Super-Sod](https://supersod.com) | $52K–$100K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/supersod/jobs/5234568008) |
+| CAE Engineer II | [Genpak LLC](https://genpak-llc-2) | — | May 28 | [Apply](https://job-boards.greenhouse.io/gokenamericallc/jobs/4261738009) |
+| Sr. Design Engineer | [Genpak LLC](https://genpak-llc-2) | — | May 28 | [Apply](https://job-boards.greenhouse.io/gokenamericallc/jobs/4259430009) |
 | Senior Software Engineer, Platform | [Omada Health](https://omadahealth.com) | $179K–$224K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/omadahealth/jobs/7958282) |
+| Data Analyst (Contract) | [Kabam](https://kabam.com) | — | May 28 | [Apply](https://jobs.lever.co/kabam/d189dbf0-edb4-4a18-8416-1f96a5375717) |
 | Firmware Engineer - IoT | [Avive](https://avive.com) | — | May 28 | [Apply](https://jobs.lever.co/AviveSolutions/6d982360-d21c-4389-8a75-9a971d644f1d) |
 | Platform Support Analyst | [Entain](https://entaingroup.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Entain/postings/744000129009629) |
+| Senior Engineer II, Mechanical/Dispersion Systems | [Flagship Pioneering, Inc.](https://flagshippioneering.com) | $120K–$165K/yr | May 28 | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8568975002?gh_jid=8568975002) |
 | Sr. Manager, Engineering - Core Platform | [Vanta](https://vanta.com) | — | May 28 | [Apply](https://jobs.ashbyhq.com/vanta/c455a90c-03b4-4ae9-998d-28469600af88) |
 | Senior Research Engineer - Video Agents  | [Canva](https://canva.com) | $220K–$280K/yr | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Canva/postings/6000000001113930) |
 | Associate / Senior Business Process Consultant EDI Operations | [Continental](https://continentalserves.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000129000869) |
@@ -29,6 +37,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Principal Architect (Application Architecture ) | [Endava](https://endava.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Endava/postings/744000128993879) |
 | Virtualization Engineer II | [LightEdge](https://lightedge.com) | — | May 28 | [Apply](https://jobs.lever.co/lightedge/b05a50ae-0b1c-4335-ae40-5f4cd199e158) |
 | AWS Cloud Engineer | [Accenture Federal Services](https://accenturefederalservices.com) | — | May 28 | [Apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4685018006?gh_jid=4685018006) |
+| Senior Software Engineer, Unified Platform - Trade Management and Trade & Order Processing | [DRW](https://drw.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7942731) |
 | Forward Deployed Engineer | [Sixfold Bioscience](https://sixfold.bio) | $155K–$200K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/sixfold/jobs/5234031008) |
 | Scientist I, In Vitro Pharmacology | [Flagship Pioneering, Inc.](https://flagshippioneering.com) | $100K–$127K/yr | May 28 | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8567001002?gh_jid=8567001002) |
 | Senior Product Counsel | [ClickHouse](https://clickhouse.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/clickhouse/jobs/6007957004) |

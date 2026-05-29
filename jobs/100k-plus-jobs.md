@@ -2,14 +2,16 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**400 open roles** — Last updated: 2026-05-29
+**402 open roles** — Last updated: 2026-05-29
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Mechanical Engineer | [Cerebras Systems](https://cerebras.net) | $180K–$200K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/cerebrassystems/jobs/7752149003) |
 | Senior Software Engineer, Platform | [Omada Health](https://omadahealth.com) | $179K–$224K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/omadahealth/jobs/7958282) |
 | Enterprise Account Executive | [Canva](https://canva.com) | $212K–$326K/yr | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Canva/postings/6000000001113935) |
+| Senior Engineer II, Mechanical/Dispersion Systems | [Flagship Pioneering, Inc.](https://flagshippioneering.com) | $120K–$165K/yr | May 28 | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8568975002?gh_jid=8568975002) |
 | Senior Research Engineer - Video Agents  | [Canva](https://canva.com) | $220K–$280K/yr | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Canva/postings/6000000001113930) |
 | General Counsel | [SuperDial](https://superdial.com) | $250K–$325K/yr | May 28 | [Apply](https://jobs.ashbyhq.com/superdial/b356bba3-ed48-40bd-807e-979934f32f03) |
 | Chief Revenue Officer | [Swayable](https://swayable.com) | $250K–$300K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/swayable/jobs/5148809007) |

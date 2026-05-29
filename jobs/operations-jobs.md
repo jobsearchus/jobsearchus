@@ -2,23 +2,33 @@
 
 Remote operations and business operations roles across industries.
 
-**608 open roles** — Last updated: 2026-05-29
+**618 open roles** — Last updated: 2026-05-29
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Employee Relations Specialist | [Scopely](https://scopely.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/scopely/jobs/5210637008) |
 | Shift Supervisor - Barranco | [Delivery Hero](https://deliveryhero.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000129050479) |
 | Picker HUB | [Delivery Hero](https://deliveryhero.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000129049169) |
+| Program Manager, Dispute Experience | [Chime](https://chime.com) | $15K/yr | May 28 | [Apply](https://boards.greenhouse.io/chime/jobs/8568168002?gh_jid=8568168002) |
+| Senior Program Manager, AI Enablement | [Chime](https://chime.com) | $15K/yr | May 28 | [Apply](https://boards.greenhouse.io/chime/jobs/8552459002?gh_jid=8552459002) |
+| Security & IT General Opportunities | [Cerebras Systems](https://cerebras.net) | — | May 28 | [Apply](https://job-boards.greenhouse.io/cerebrassystems/jobs/7751790003) |
 | Part-Time Class 1 Driver for City Pickup & Delivery Great Incentive Pay!! | [Manitoulin Global Forwarding](https://manitoulingroup.com) | $26/yr | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000129033479) |
+| Design Operations Specialist  | [GitLab](https://about.gitlab.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8498821002) |
 | Senior Project Coordinator | [MSX International](https://msxi.com) | $70K–$87K/yr | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013357358) |
 | Project Manager - Strategic Operations | [Continental](https://continentalserves.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000129017549) |
+| Copy of Class A Commercial Driver - $10,000 Sign-On Bonus- Home Every Night | [Super-Sod](https://supersod.com) | $52K–$100K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/supersod/jobs/5234557008) |
 | Department Coordinator - East Asian Languages & Culture | [University of Notre Dame](https://universityofnotredame.com) | $25/yr | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013354586) |
+| Quality Technician | [Enviva](https://envivabiomass.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/enviva/jobs/7749952003) |
+| Live Operations Specialist (Contract) | [Kabam](https://kabam.com) | — | May 28 | [Apply](https://jobs.lever.co/kabam/b7b5ae84-5d75-4492-8b37-d547be5092de) |
 | Engineering Program Analyst | [AnaVation](https://anavation.com) | — | May 28 | [Apply](https://jobs.lever.co/anavationllc/95d50b3c-4bd8-41cf-96e3-2deeb7bf33a5) |
 | Sr. Manager, Engineering - Core Platform | [Vanta](https://vanta.com) | — | May 28 | [Apply](https://jobs.ashbyhq.com/vanta/cb97ac48-29a5-49da-a804-f19b907a8163) |
 | Tool Install Scheduler, Manassas, VA - Semiconductor | [World Wide Professional Solutions](https://worldwideprofessionalsolutions.com) | — | May 28 | [Apply](https://jobs.lever.co/wwprosolutions/b6c3e00b-5142-4ad1-8e6b-35e6e4ac3945) |
+| Operations Analyst  | [Keyfactor](https://keyfactor.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/keyfactorinc/jobs/6007555004) |
 | Coordinator, Transcription Marketplace | [Filevine](https://filevine.com) | — | May 28 | [Apply](https://jobs.lever.co/filevine/8c8af33c-a201-41a0-aefa-21fc0d024f35) |
 | AZ City P&D Truck Driver Earn Up To $85,000 a Year!! | [Manitoulin Global Forwarding](https://manitoulingroup.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000128987789) |
+| Mobile Equipment Operator | [Enviva](https://envivabiomass.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/enviva/jobs/7749831003) |
 | Revenue Operations Manager (F/M/D) | [NavVis](https://navvis.com) | — | May 28 | [Apply](https://job-boards.eu.greenhouse.io/navvis/jobs/4867923101) |
 | Staff Technical Program Manager, Batteries  | [ŌURA](https://ouraring.com) | $198K–$233K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/oura/jobs/4260161009) |
 | Analyste, Planification de la production  | [Vosker](https://vosker.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Vosker/postings/744000128970821) |

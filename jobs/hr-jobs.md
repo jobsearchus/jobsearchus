@@ -2,13 +2,17 @@
 
 Remote HR, recruiting, and people operations roles.
 
-**102 open roles** — Last updated: 2026-05-29
+**106 open roles** — Last updated: 2026-05-29
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | Associate, Talent Coordination (6 months contract) | [Delivery Hero](https://deliveryhero.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000129051119) |
+| People Systems & Programs Lead | [Mariana Minerals](https://marianaminerals.com) | — | May 28 | [Apply](https://jobs.ashbyhq.com/marianaminerals/b921d3a0-ba9d-49ee-a4d1-93612a784b42) |
+| Recruiting Coordinator | [Chime](https://chime.com) | $15K/yr | May 28 | [Apply](https://boards.greenhouse.io/chime/jobs/8555624002?gh_jid=8555624002) |
+| Account Executive (ENT/Strategic) (Hybrid) | [KnowBe4](https://knowbe4.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8569022002) |
+| EMEA North Payroll Specialist | [Sophos](https://sophos.com) | — | May 28 | [Apply](https://jobs.lever.co/sophos/e0091970-2165-45c0-a91b-8f010a204df4) |
 | Confidential Assistant to Chief Human Resources Officer | [ACLU](https://aclu.org) | — | May 28 | [Apply](https://job-boards.greenhouse.io/aclu/jobs/8568784002) |
 | Global Payroll Implementation Country Lead - UK  | [Remote](https://remote.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/remotecom/jobs/7741791003) |
 | General Service Technician / Mechanic - Up To $25/hr & Weekends Off - Mesa Gateway | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | $25/yr | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000128934470) |

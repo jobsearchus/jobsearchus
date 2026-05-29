@@ -2,7 +2,7 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**553 open roles** — Last updated: 2026-05-29
+**555 open roles** — Last updated: 2026-05-29
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -12,6 +12,8 @@ Remote sales roles — account executives, SDRs, and enterprise deals.
 | Analista de Administracao de Vendas sênior | [Experian](https://experianplc.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000129038719) |
 | Territory Sales Manager -Truck Tire - Coastal Carolinas | [Continental](https://continentalserves.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000129028379) |
 | Enterprise Account Executive (Ejecutivo de Cuentas Enterprise) - Medellín (Hybrid) | [Clara](https://clara.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/clara/jobs/5148999007) |
+| Executive Assistant (Customer Success SVPs) (Remote) | [KnowBe4](https://knowbe4.com) | $80K–$85K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8569043002) |
+| Agente Stone - Consultor(a) Comercial Externo - Domingos Martins/ES | [Stone](https://stone.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/stone/jobs/7751522003) |
 | Account Manager - Windsor region | [Manitoulin Global Forwarding](https://manitoulingroup.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000129009789) |
 | Enterprise Account Executive | [Canva](https://canva.com) | $212K–$326K/yr | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Canva/postings/6000000001113935) |
 | Senior Sales Training Specialist  | [Convera](https://convera.com) | — | May 28 | [Apply](https://job-boards.eu.greenhouse.io/convera/jobs/4865193101) |

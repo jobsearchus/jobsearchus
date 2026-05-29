@@ -2,12 +2,13 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**232 open roles** — Last updated: 2026-05-29
+**233 open roles** — Last updated: 2026-05-29
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Events Marketing Manager, EMEA/META | [Censys](https://censys.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/censys/jobs/8556846002) |
 | SR Analista Salesforce Marketing Cloud | [ília](https://lia.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/ilia/jobs/6008564004) |
 | Marketing Manager - CNBC | [Versant](https://versant.com) | $68K–$100K/yr | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Versant3/postings/744000129014140) |
 | Partnerships Manager (Webselence) | [ExpressVPN](https://expressvpn.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/expressvpn/jobs/8568487002) |

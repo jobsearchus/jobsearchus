@@ -2,12 +2,14 @@
 
 Data science, machine learning, and AI engineering roles. Python, SQL, PyTorch, and beyond.
 
-**60 open roles** — Last updated: 2026-05-29
+**62 open roles** — Last updated: 2026-05-29
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior AI Engineer | [Karbon](https://karbon.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/karbon/jobs/6008707004) |
+| Machine Learning Scientist, Multimodal AI  | [Natera](https://natera.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/natera/jobs/6004385004) |
 | Head of Data Science - Fraud Insights | [Socure](https://socure.com) | — | May 28 | [Apply](https://jobs.ashbyhq.com/socure/82e9f9f6-3896-42d1-b91b-d9ecaa36c6a8) |
 | Data Science Analytics (P&C Insurance Domain)  | [WNS](https://wns.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/WNSGlobalServices144/postings/744000128891348) |
 | Senior AI Engineer | [Referrals Only](https://thoughtworks.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7962636) |

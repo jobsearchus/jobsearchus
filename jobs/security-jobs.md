@@ -2,13 +2,16 @@
 
 Remote cybersecurity, information security, and security engineering roles.
 
-**75 open roles** — Last updated: 2026-05-29
+**78 open roles** — Last updated: 2026-05-29
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Staff Security Engineer, IAM (USA) | [GitLab](https://about.gitlab.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8561489002) |
+| Network Security Software Engineer | [Lumin Digital](https://lumindigital.com) | — | May 28 | [Apply](https://jobs.lever.co/LuminDigital/6b242155-7023-4fd6-ba61-eb53624610d8) |
 | Functional Business Analyst | [Capstone Integrated Solutions](https://capstoneintegratedsolutions.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/capstoneintegratedsolutions/jobs/5148966007) |
+| Clinical Lab Scientist I | [Natera](https://natera.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/natera/jobs/6006099004) |
 | Expert Cybersécurité / Architecte Sécurité N3 H/F - NIORT | [Everience](https://everience.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/EVERIENCE/postings/744000128959080) |
 | Internship - OT Cybersecurity Reporting and Awareness - REF97160B | [Continental](https://continentalserves.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000128899059) |
 | Senior Security Engineer | [CertiK](https://certik.com) | — | May 27 | [Apply](https://jobs.lever.co/certik/d2917cb0-3aaa-4fdf-b03a-22d2f16a0b5c) |

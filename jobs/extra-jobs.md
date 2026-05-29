@@ -2,22 +2,29 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**624 open roles** — Last updated: 2026-05-29
+**631 open roles** — Last updated: 2026-05-29
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Mechanical Engineer | [Cerebras Systems](https://cerebras.net) | $180K–$200K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/cerebrassystems/jobs/7752149003) |
 | Procurement Manager | [Firmus Technologies](https://firmus.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/firmus/jobs/5231959008) |
+| Safety Training Manager | [Enviva](https://envivabiomass.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/enviva/jobs/7751255003) |
+| Hospice RN Case Manager | [Silverado](https://silverado.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/silverado/jobs/5149162007) |
 | Responsable de Gammes  | [Genpak LLC](https://genpak-llc-2) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129022279) |
 | Temporary - Chick-fil-A Retail Associate (Evening Shift) | [University of Notre Dame](https://universityofnotredame.com) | $18/yr | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013356396) |
 | INTERMARCHE - RESPONSABLE CAISSE (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129020288) |
+| Full Time Lead Charge Nurse, LPN (Multiple Shifts) | [Silverado](https://silverado.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/silverado/jobs/5149068007) |
+| Director of Recreation - Recreation Therapist | [Crestwood Behavioral Health](https://crestwoodbehavioralhealth.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/crestwoodcareers/jobs/7751537003) |
+| Workplace Experience Coordinator | [Volito Aviation August 2007](https://trustly.com) | — | May 28 | [Apply](https://jobs.lever.co/trustly/53e1a831-f2a4-44b8-85a6-1ec65847ac1e) |
 | Cleared Business Analyst | [Accenture Federal Services](https://accenturefederalservices.com) | — | May 28 | [Apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4685079006?gh_jid=4685079006) |
 | Electrical Technician Instructor | [Aviation Institute of Maintenance](https://aviationmaintenance.edu) | $42/yr | May 28 | [Apply](https://job-boards.greenhouse.io/aviationinstituteofmaintenance/jobs/5234415008) |
 | [Job -  29613]  Data Scientist, Brazil | [CI&T](https://cit.com) | — | May 28 | [Apply](https://jobs.lever.co/ciandt/e5c9cb29-4a89-4322-85ce-4dc57f4835f7) |
 | EMPLOYE LIBRE SERVICE | [Genpak LLC](https://genpak-llc-2) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129001995) |
 | Hôte de caisse HF | [BUT](https://but.fr) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000129000739) |
 | Clinician Engagement Lead - Scotland | [PortmanDentex](https://portmandentex.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000129000140) |
+| Behavioral Health Intake Specialist- Bilingual Spanish Preferred   | [WellPower - All External Jobs](https://wellpower.org) | $30/yr | May 28 | [Apply](https://job-boards.greenhouse.io/mentalhealthcenterofdenver/jobs/7746940003) |
 | Chief Revenue Officer | [Swayable](https://swayable.com) | $250K–$300K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/swayable/jobs/5148809007) |
 | [Job -  29611] Data Strategist, Brazil | [CI&T](https://cit.com) | — | May 28 | [Apply](https://jobs.lever.co/ciandt/25359eaf-fa55-4851-926c-dd88f3e672a7) |
 | Business Development Lead | [Growe](https://growe.com) | — | May 28 | [Apply](https://job-boards.eu.greenhouse.io/growe/jobs/4874323101) |
