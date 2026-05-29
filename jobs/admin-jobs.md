@@ -2,13 +2,14 @@
 
 Remote administrative and executive assistant roles across industries.
 
-**24 open roles** — Last updated: 2026-05-29
+**25 open roles** — Last updated: 2026-05-29
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 |  Senior Administrator | [IQ-EQ](https://iqeq.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000129214700) |
+| Administrative Assistant | [Crestwood Behavioral Health](https://crestwoodbehavioralhealth.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/crestwoodcareers/jobs/7753443003) |
 | Directieassistent(e) | [BESIX](https://besix.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000128883909) |
 | Project Admin | [NCS](https://ncs.co) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001113635) |
 | Account Coordinator | [DH Pace Company](https://dhpace.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5227275008) |

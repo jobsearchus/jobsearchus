@@ -2,7 +2,7 @@
 
 Product manager roles at companies building real products. Sourced directly from career pages.
 
-**111 open roles** — Last updated: 2026-05-29
+**114 open roles** — Last updated: 2026-05-29
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -13,6 +13,9 @@ Product manager roles at companies building real products. Sourced directly from
 | Product Manager | [NBCUniversal](https://nbcuniversal.com) | $110K–$140K/yr | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000129041169) |
 | Product Manager | [NBCUniversal](https://nbcuniversal.com) | $110K–$140K/yr | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000129040590) |
 | Product Manager II - US Derivatives  | [Kraken](https://kraken.com) | — | May 28 | [Apply](https://jobs.ashbyhq.com/kraken.com/8062dccc-d328-4310-ad2a-db1ea1225dc7) |
+| Senior Product Manager, Infrastructure Observability - Sweden - Remote | [Grafana Labs](https://grafana.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6008084004) |
+| Senior Product Manager, Infrastructure Observability - Spain - Remote | [Grafana Labs](https://grafana.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6008081004) |
+| Senior Product Manager, Infrastructure Observability - Ireland - Remote | [Grafana Labs](https://grafana.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6008080004) |
 | Senior Product Manager, Infrastructure Observability - Germany - Remote | [Grafana Labs](https://grafana.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6008082004) |
 | Senior Product Manager, Infrastructure Observability - Canada - Remote | [Grafana Labs](https://grafana.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6008078004) |
 | Staff Product Manager | [6sense](https://6sense.com) | — | May 28 | [Apply](https://boards.greenhouse.io/6sense/jobs/7931657?gh_jid=7931657) |

@@ -2,12 +2,13 @@
 
 QA, test automation, and SDET roles. Manual and automated testing across all stacks.
 
-**32 open roles** — Last updated: 2026-05-29
+**33 open roles** — Last updated: 2026-05-29
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Manual QA Engineer  | [Veeam Software](https://veeam.com) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4877674101) |
 | Senior Manager, Firefox Mobile Test Engineering | [Mozilla](https://mozilla.org) | — | May 28 | [Apply](https://job-boards.greenhouse.io/mozilla/jobs/7962098) |
 | Senior Manager, Firefox Mobile Test Engineering | [Mozilla](https://mozilla.org) | — | May 28 | [Apply](https://job-boards.greenhouse.io/mozilla/jobs/7962091) |
 | Senior Manager, Firefox Mobile Test Engineering | [Mozilla](https://mozilla.org) | — | May 28 | [Apply](https://job-boards.greenhouse.io/mozilla/jobs/7961360) |

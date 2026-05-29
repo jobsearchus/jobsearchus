@@ -2,14 +2,20 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**423 open roles** — Last updated: 2026-05-29
+**429 open roles** — Last updated: 2026-05-29
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Application Programmer (EBS) | [Horizon Industries](https://horizonindustries.com) | $115K–$125K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/horizonindustrieslimited/jobs/5235974008) |
+| Senior Full-Stack Software Engineer, Player Experience | [Discord](https://discord.com) | $196K–$221K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/discord/jobs/8497565002) |
+| Senior Manager of Global Payroll | [ŌURA](https://ouraring.com) | $170K–$200K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/oura/jobs/4264573009) |
+| Head of Security Engineering | [BetterHelp](https://betterhelp.com) | $250K–$300K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/betterhelpcom/jobs/5217845008) |
+| Principal Operations Engineer, Electrical — Data Center Operations | [Fluidstack](https://fluidstack.com) | $200K–$250K/yr | May 29 | [Apply](https://jobs.ashbyhq.com/fluidstack/f41fecee-f230-4ae7-b7bb-2aaebb27f82f) |
 | Senior Technical Business Systems Analyst | [CapTech](https://captech.com) | $115K–$150K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/CapTechConsulting/postings/744000129189779) |
 | Channel Sales Account Executive (South West Region) | [Sectigo](https://sectigo.com) | $170K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Sectigo/postings/3743990013367697) |
+| Strategic Accounts Executive (Small Market) | [Garner Health](https://getgarner.com) | $125K–$165K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/garnerhealth/jobs/6008238004) |
 | Change & Adoption Manager | [Western Sydney University](https://westernsydney.edu.au) | $138K–$147K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/WesternSydneyUniversity/postings/6000000001117732) |
 | Research Project Manager | [Western Sydney University](https://westernsydney.edu.au) | $119K–$132K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/WesternSydneyUniversity/postings/6000000001117592) |
 | Head of Student Voice, Advocacy and Wellbeing | [Western Sydney University](https://westernsydney.edu.au) | $118K–$147K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/WesternSydneyUniversity/postings/6000000001117409) |

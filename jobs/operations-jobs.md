@@ -2,12 +2,16 @@
 
 Remote operations and business operations roles across industries.
 
-**646 open roles** — Last updated: 2026-05-29
+**655 open roles** — Last updated: 2026-05-29
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Assistant General Manager - Soho House Nashville | [Soho House](https://sohohouse.com) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4878871101) |
+| Director, Business Operations  | [Papa](https://papa.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/papa/jobs/5149785007) |
+| Crane Operator | [Enviva](https://envivabiomass.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/enviva/jobs/7753871003) |
+| Electrical Technician | [Enviva](https://envivabiomass.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/enviva/jobs/7753866003) |
 | Técnico(a) de Obras Júnior | [Egis](https://egis-group.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000129226459) |
 | Superintendent Project Support | [Anglo American](https://angloamerican.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000129222709) |
 | Asesor Costos y Tendencias | [Anglo American](https://angloamerican.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000129220740) |
@@ -17,12 +21,17 @@ Remote operations and business operations roles across industries.
 |  RESPONSABLE CAISSE (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129211416) |
 | Teamassistent - Produktion (d/m/w) | [AUTO1 Group](https://auto1-group.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000129203117) |
 | Central Compliance: Global Process Excellence & Operations Lead | [Experian](https://experianplc.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000129187629) |
+| Office Manager  | [Keyfactor](https://keyfactor.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/keyfactorinc/jobs/6008923004) |
+| Ejection Seat Specialist | [Vertical Aerospace](https://vertical-aerospace.com) | — | May 29 | [Apply](https://jobs.ashbyhq.com/vertical-aerospace/ea27686e-afcb-4c23-916d-ffa7b09061bd) |
 | Ausbildung Kauffrau/Kaufmann (w/m/d) für Büromanagement | [Drees & Sommer](https://dreso.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000129155370) |
+| AI Engineer | [GitLab](https://about.gitlab.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8565469002) |
+| Rail Loadout Operator | [Enviva](https://envivabiomass.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/enviva/jobs/7750994003) |
 | Afstudeerstage Logistiek & Supply Chain Management | [Syngenta](https://syngenta.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000129148259) |
 | Office Manager | [BrainRocket](https://brainrocket.com) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/brainrocketltd/jobs/4878378101) |
 | Operator Maszyn Formujących (k/m) | [O-I Glass](https://o-i.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/O-I/postings/744000129145850) |
 | Fleet Back Office Specialist | [MSX International](https://msxi.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013365546) |
 | Head of Transformation | [LinkedIn Job Wrapping](https://artefact.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/artefactlinkedin/jobs/8570554002) |
+| Production Merchandiser | [Gymshark](https://gymshark.com) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/gymshark/jobs/4873861101) |
 | Front Office Assistant - Part Time | [VML MAP](https://vml-map.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/map/jobs/8570497002) |
 | Change & Adoption Manager | [Western Sydney University](https://westernsydney.edu.au) | $138K–$147K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/WesternSydneyUniversity/postings/6000000001117732) |
 | Employee Relations Specialist | [Scopely](https://scopely.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/scopely/jobs/5210637008) |

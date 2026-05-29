@@ -2,12 +2,13 @@
 
 Remote cybersecurity, information security, and security engineering roles.
 
-**78 open roles** — Last updated: 2026-05-29
+**79 open roles** — Last updated: 2026-05-29
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Head of Security Engineering | [BetterHelp](https://betterhelp.com) | $250K–$300K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/betterhelpcom/jobs/5217845008) |
 | Staff Security Engineer, IAM (USA) | [GitLab](https://about.gitlab.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8561489002) |
 | Network Security Software Engineer | [Lumin Digital](https://lumindigital.com) | — | May 28 | [Apply](https://jobs.lever.co/LuminDigital/6b242155-7023-4fd6-ba61-eb53624610d8) |
 | Functional Business Analyst | [Capstone Integrated Solutions](https://capstoneintegratedsolutions.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/capstoneintegratedsolutions/jobs/5148966007) |

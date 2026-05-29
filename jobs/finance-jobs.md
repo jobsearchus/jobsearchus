@@ -2,7 +2,7 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**300 open roles** — Last updated: 2026-05-29
+**307 open roles** — Last updated: 2026-05-29
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -10,9 +10,16 @@ Remote finance, accounting, and analyst roles at companies of all sizes.
 | --- | --- | --- | --- | --- |
 | Senior Analyst, AML | [IQ-EQ](https://iqeq.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000129209673) |
 | Fund Accountant | [IQ-EQ](https://iqeq.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000129209379) |
+| ET Project Accountant - 6 month FTC | [WPP](https://wpp.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/wpp/jobs/8562029002) |
 | Analyst, Business (Commercial Asset Finance) | [Standard Bank](https://standardbank.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000129201115) |
+| FX Options Trader | [DRW](https://drw.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7942426) |
 | Specialist, Commercial Asset Finance | [Standard Bank](https://standardbank.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000129186016) |
+| Junior International Accountant | [JustMarkets](https://justmarkets.com) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/justmarkets/jobs/4878519101) |
+| Accounts Administrator (15 month contract) | [DRW](https://drw.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7946302) |
+| FP&A Analyst | [Vertical Aerospace](https://vertical-aerospace.com) | — | May 29 | [Apply](https://jobs.ashbyhq.com/vertical-aerospace/21daa556-0e1f-4296-a460-78820121c1d9) |
+| Finacial analyst  | [Growe](https://growe.com) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/growe/jobs/4873863101) |
 | Indirect Tax Compliance Senior Analyst role | [Pure Storage](https://purestorage.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/7962624) |
+| Senior Credit Controller  | [WPP](https://wpp.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/wpp/jobs/8568275002) |
 | Finance Systems Development Specialist - Payments & PTP | [Wolt](https://wolt.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7962870) |
 | Senior Corporate Development Manager | [Firmus Technologies](https://firmus.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/firmus/jobs/5235054008) |
 | Account Executive, Corrections | [Axon](https://axon.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/axon/jobs/7751164003) |

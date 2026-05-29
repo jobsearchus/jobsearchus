@@ -2,29 +2,37 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**981 open roles** — Last updated: 2026-05-29
+**989 open roles** — Last updated: 2026-05-29
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Scientific Software Engineer, AI Simulation | [SandboxAQ](https://sandboxaq.com) | — | May 29 | [Apply](https://jobs.ashbyhq.com/sandboxaq/704b56eb-c0e1-4554-8df5-b7670f9dc425) |
 | Junior Enterprise Onboarding Engineer | [Sectigo](https://sectigo.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Sectigo/postings/3743990013371386) |
+| Principal Operations Engineer, Electrical — Data Center Operations | [Fluidstack](https://fluidstack.com) | $200K–$250K/yr | May 29 | [Apply](https://jobs.ashbyhq.com/fluidstack/f41fecee-f230-4ae7-b7bb-2aaebb27f82f) |
+| Senior Research Associate, Fermentation Development | [Flagship Pioneering, Inc.](https://flagshippioneering.com) | $81K–$107K/yr | May 29 | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8567720002?gh_jid=8567720002) |
 | Ingénieur Méthodes Usinage Senior H/F  | [SEGULA Technologies](https://segulatechnologies.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/SegulaTechnologies/postings/744000129190419) |
 | Senior Technical Business Systems Analyst | [CapTech](https://captech.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/CapTechConsulting/postings/744000129189969) |
 | Senior Technical Business Systems Analyst | [CapTech](https://captech.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/CapTechConsulting/postings/744000129186834) |
 | Senior Technical Business Systems Analyst | [CapTech](https://captech.com) | $115K–$150K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/CapTechConsulting/postings/744000129189779) |
+| Quantitative Analyst | [JustMarkets](https://justmarkets.com) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/justmarkets/jobs/4873071101) |
 | Data Architect Engineer | [Standard Bank](https://standardbank.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000129184699) |
 | SAP SuccessFactors Solution Architect (m/f/d) | [Nagarro](https://nagarro.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000129172952) |
 | AI Technical Program Manager (Localisation) | [Canva](https://canva.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001118111) |
+| Customer Insights Analyst (12m FTC) | [Gymshark](https://gymshark.com) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/gymshark/jobs/4878470101) |
 | Ausbildung Fachinformatiker (w/m/d) Systemintegration | [Drees & Sommer](https://dreso.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000129160344) |
 | Technicien/ne de fiabilité (H/F/N) | [Syngenta](https://syngenta.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000129155560) |
+| Commercial Account Executive - France | [GitLab](https://about.gitlab.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8564377002) |
 | Web Editorial Specialist | [Netcompany](https://netcompany.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000129133456) |
 | Lead - Solution Engineer | [Freshworks](https://freshworks.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000129133679) |
+| Design Engineer- Automotive Plastics (NX) | [Genpak LLC](https://genpak-llc-2) | — | May 29 | [Apply](https://job-boards.greenhouse.io/gokenamericallc/jobs/4264666009) |
 | Senior Software Engineer  | [Vonage](https://vonage.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/vonage/jobs/8480975002) |
 | Senior Systems Engineer [Windows Server)  | [NCS](https://ncs.co) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001117972) |
 | Site Supervisor (Piping & Mechanical Engineer) | [BESIX](https://besix.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000129125149) |
 | Site Supervisor (Piping & Mechanical Engineer) | [BESIX](https://besix.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000129125099) |
 | Site Supervisor (Piping & Mechanical Engineer) | [BESIX](https://besix.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000129121015) |
+| Software Development Engineer II, Search Box | [Mapbox](https://mapbox.com) | — | May 29 | [Apply](https://jobs.ashbyhq.com/mapbox/06de472b-6738-4e32-8a44-836ce5a174c0) |
 | Ingénieur Industrialisation H/F | [SEGULA Technologies](https://segulatechnologies.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/SegulaTechnologies/postings/744000129116739) |
 | AI Specialist (Junior - Medior) | [Netcompany](https://netcompany.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000129107909) |
 | Research Project Manager | [Western Sydney University](https://westernsydney.edu.au) | $119K–$132K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/WesternSydneyUniversity/postings/6000000001117592) |

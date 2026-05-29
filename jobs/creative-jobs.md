@@ -2,12 +2,13 @@
 
 Remote creative roles — copywriters, content creators, graphic designers, and brand specialists.
 
-**59 open roles** — Last updated: 2026-05-29
+**60 open roles** — Last updated: 2026-05-29
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Motion Designer (AI + Beauty Exp) | [Genpak LLC](https://genpak-llc-2) | — | May 29 | [Apply](https://job-boards.greenhouse.io/brandtechplus/jobs/7938488) |
 | Creative Strategist | [Fever](https://feverup.com) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4878245101) |
 | Creative Strategist | [Fever](https://feverup.com) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4878241101) |
 | Freelance Production Assistant - NBC Sports | [NBCUniversal](https://nbcuniversal.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000129043679) |

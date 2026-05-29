@@ -2,20 +2,27 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**579 open roles** — Last updated: 2026-05-29
+**586 open roles** — Last updated: 2026-05-29
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Event Marketing Lead  | [Reddit](https://reddit.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/7966862) |
+| Field Enablement Manager | [Figma](https://figma.com) | — | May 29 | [Apply](https://boards.greenhouse.io/figma/jobs/6007619004?gh_jid=6007619004) |
+| Sales Acceleration Specialist | [Veeam Software](https://veeam.com) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4857560101) |
+| Principal Post Sales Solution Consultant  | [Socure](https://socure.com) | — | May 29 | [Apply](https://jobs.ashbyhq.com/socure/bb454729-b563-4416-95d2-89f59b2351f1) |
 | (Senior) Demand Generation Specialist - SAP Business Suite (m/f/d)  | [Nagarro](https://nagarro.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000129173646) |
 | Channel Sales Account Executive (South West Region) | [Sectigo](https://sectigo.com) | $170K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Sectigo/postings/3743990013367697) |
+| Strategic Accounts Executive (Small Market) | [Garner Health](https://getgarner.com) | $125K–$165K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/garnerhealth/jobs/6008238004) |
 | SAP Cloud (Senior) Sales Specialist (m/f/d) | [Nagarro](https://nagarro.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000129167989) |
 | Sales administration coordinator  | [VusionGroup SA](https://vusiongroup.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/VusionGroupSA/postings/744000129157389) |
+| Sales Development Representative, Strategic Accounts, with Greek  | [Veeam Software](https://veeam.com) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4878407101) |
 | ASISTENT/KA PRODEJE V PRODEJNĚ JYSK Teplice - Řetenice | [JYSK](https://jysk.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000129149944) |
 | Internship – Plant Variety Protection & Variety Registration | [Syngenta](https://syngenta.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000129150073) |
 | VERKÄUFER/IN TEILZEIT (M/W/D) – Bruchsal (18,5-20 Std) | [JYSK](https://jysk.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000129149069) |
 | Myyjä, kesätyö, määräaikainen 16h/vko, JYSK Kouvola  | [JYSK](https://jysk.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000129148329) |
+| Senior Manager, Key Accounts | [Razorpay Software Private Limited](https://razorpay.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4695746005) |
 | Fleet Aftermarket Business Manager | [MSX International](https://msxi.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013365276) |
 | Sales Operations Specialist | [D-Fend Solutions](https://d-fendsolutions.com) | — | May 29 | [Apply](https://jobs.lever.co/d-fendsolutions/992418e5-f5bc-439b-a968-0e7827fefc31) |
 | Sales Development Representative | [Vanta](https://vanta.com) | — | May 29 | [Apply](https://jobs.ashbyhq.com/vanta/2b6d3c9c-7f74-4dbe-b650-1045ac04b2d5) |
