@@ -2,13 +2,17 @@
 
 Remote HR, recruiting, and people operations roles.
 
-**98 open roles** — Last updated: 2026-05-28
+**102 open roles** — Last updated: 2026-05-29
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Associate, Talent Coordination (6 months contract) | [Delivery Hero](https://deliveryhero.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000129051119) |
 | Confidential Assistant to Chief Human Resources Officer | [ACLU](https://aclu.org) | — | May 28 | [Apply](https://job-boards.greenhouse.io/aclu/jobs/8568784002) |
+| Global Payroll Implementation Country Lead - UK  | [Remote](https://remote.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/remotecom/jobs/7741791003) |
+| General Service Technician / Mechanic - Up To $25/hr & Weekends Off - Mesa Gateway | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | $25/yr | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000128934470) |
+| HR Director - Mexico | [NBCUniversal](https://nbcuniversal.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000128924914) |
 | EMEA Payroll Specialist - Romania and Overseas | [Sophos](https://sophos.com) | — | May 28 | [Apply](https://jobs.lever.co/sophos/c03194a3-e01e-42aa-828f-9da20d7536a5) |
 | HR / Recruiting Coordinator  | [SBT Global](https://sbtglobal.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/SBTGlobalInc/postings/3743990013341686) |
 | HR Business Partner | [CertiK](https://certik.com) | — | May 27 | [Apply](https://jobs.lever.co/certik/bc89a6d2-060b-4ec3-a096-42bfecbf4c26) |

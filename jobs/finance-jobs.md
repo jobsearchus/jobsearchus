@@ -2,15 +2,23 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**275 open roles** — Last updated: 2026-05-28
+**283 open roles** — Last updated: 2026-05-29
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Corporate Development Manager | [Firmus Technologies](https://firmus.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/firmus/jobs/5235054008) |
+| Inbound Billing and Settlement Staff | [SBT Global](https://sbtglobal.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/SBTGlobalInc/postings/3743990013359596) |
+| Billing specialist | [SBT Global](https://sbtglobal.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/SBTGlobalInc/postings/3743990013359426) |
 | Prime Brokerage Business Architect | [Endava](https://endava.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Endava/postings/744000129014216) |
+| Budget Analyst / Action Officer | [AnaVation](https://anavation.com) | — | May 28 | [Apply](https://jobs.lever.co/anavationllc/f97a8c5c-28af-42d5-90e5-0ad2b71addcd) |
+| Senior Manager, Payment Network Development & Oversight | [Convera](https://convera.com) | — | May 28 | [Apply](https://job-boards.eu.greenhouse.io/convera/jobs/4873398101) |
+| Assistant Director, Finance | [University of Notre Dame](https://universityofnotredame.com) | $70K–$88K/yr | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013352849) |
+| Senior Accountant - Marketing | [Truelogic](https://truelogic.com) | — | May 28 | [Apply](https://jobs.ashbyhq.com/truelogic/85c8833b-f78d-4589-aac0-8fef0d60c667) |
 | Senior Accountant (Revenue) | [Apollo.io](https://apollo.io) | — | May 28 | [Apply](https://job-boards.greenhouse.io/apolloio/jobs/6006160004) |
 | Staff Accountant | [Seed](https://seed.co) | $75K–$95K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/seed/jobs/7743291003) |
+| Senior Principal -  FX Counterparty Strategy & Risk Analytics | [Convera](https://convera.com) | — | May 28 | [Apply](https://job-boards.eu.greenhouse.io/convera/jobs/4873394101) |
 | Compensation and Benefits Analyst  | [Nielsen](https://nielsen.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990013348367) |
 | Financial Planning & Analysis Manager/Senior Manager | [Exploding Kittens](https://explodingkittens.com) | — | May 28 | [Apply](https://jobs.lever.co/explodingkittens/5b52fa63-bea2-4370-95c6-e65c3ebd9dab) |
 | O2C Process Excellence Lead - HQ | [Delivery Hero](https://deliveryhero.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000128943999) |

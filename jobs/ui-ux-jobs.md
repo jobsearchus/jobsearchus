@@ -2,12 +2,15 @@
 
 UX design, UI design, and product design roles. Figma, research, and end-to-end product work.
 
-**87 open roles** — Last updated: 2026-05-28
+**90 open roles** — Last updated: 2026-05-29
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Visual / Product Designer  | [CapTech](https://captech.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/CapTechConsulting/postings/744000129014656) |
+| Principal Game Designer | [Zynga](https://zynga.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/zyngacareers/jobs/6006962004) |
+| Senior Visual / Product Designer  | [CapTech](https://captech.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/CapTechConsulting/postings/744000128991779) |
 | Digital Designer (German fluent) | [Genpak LLC](https://genpak-llc-2) | — | May 28 | [Apply](https://job-boards.greenhouse.io/brandtechplus/jobs/7963251) |
 | Digital Designer (French fluent) | [Genpak LLC](https://genpak-llc-2) | — | May 28 | [Apply](https://job-boards.greenhouse.io/brandtechplus/jobs/7963249) |
 | Mid Weight Product Designer | [Experian](https://experianplc.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000128901832) |

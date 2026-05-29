@@ -2,12 +2,14 @@
 
 QA, test automation, and SDET roles. Manual and automated testing across all stacks.
 
-**27 open roles** — Last updated: 2026-05-28
+**29 open roles** — Last updated: 2026-05-29
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior QA Automation Engineer (JavaScript/TypeScript) - HospitalityTech | [Truelogic](https://truelogic.com) | — | May 28 | [Apply](https://jobs.ashbyhq.com/truelogic/70ec66bc-29d6-4b1b-8d70-e1e988f7cdcc) |
+| Test Engineer | [ANSER](https://anser.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/analyticservicesinc/jobs/5232522008?gh_jid=5232522008) |
 | Agentic Automation Engineer - Assistant Vice President / Vice President | [iCapital](https://icapital.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8566331002) |
 | QA Automation Engineer | [OnePay](https://onepay.com) | — | May 27 | [Apply](https://jobs.ashbyhq.com/oneapp/3ae6df7a-bdc7-49da-8772-88bf7c2fe095) |
 | Network Automation Engineer | [RTB House](https://rtbhouse.com) | — | May 26 | [Apply](https://job-boards.eu.greenhouse.io/rtbhouse/jobs/4872887101) |

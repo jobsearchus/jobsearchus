@@ -2,18 +2,28 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**543 open roles** — Last updated: 2026-05-28
+**553 open roles** — Last updated: 2026-05-29
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Channel Director (West) | [UltraViolet Cyber](https://ultravioletcyber.com) | — | May 28 | [Apply](https://jobs.lever.co/uvcyber/ab16b168-ddbe-4f3c-8bed-947a5537d335) |
+| Analista de Administracao de Vendas sênior | [Experian](https://experianplc.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000129038719) |
+| Territory Sales Manager -Truck Tire - Coastal Carolinas | [Continental](https://continentalserves.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000129028379) |
+| Enterprise Account Executive (Ejecutivo de Cuentas Enterprise) - Medellín (Hybrid) | [Clara](https://clara.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/clara/jobs/5148999007) |
+| Account Manager - Windsor region | [Manitoulin Global Forwarding](https://manitoulingroup.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000129009789) |
 | Enterprise Account Executive | [Canva](https://canva.com) | $212K–$326K/yr | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Canva/postings/6000000001113935) |
+| Senior Sales Training Specialist  | [Convera](https://convera.com) | — | May 28 | [Apply](https://job-boards.eu.greenhouse.io/convera/jobs/4865193101) |
+| Fältsäljare | [Tripadvisor](https://tripadvisor.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/tripadvisor/jobs/7963741) |
+| Associate Director - Client Growth Partner (Energy & Utilities) | [Nagarro](https://nagarro.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000128995780) |
 | Account Executive, Enterprise - Carolinas | [Zscaler](https://zscaler.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5147247007) |
 | Account Executive, Majors - PacNW | [Zscaler](https://zscaler.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5147249007) |
 | Account Executive - Central HigherEd SLED | [Zscaler](https://zscaler.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5141033007) |
+| Regional Vice President, Intelligence Community | [Endgame Systems](https://endgamesystems.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/endgamesystemsllc/jobs/5233341008) |
 | Lead Account Executive | [Nielsen](https://nielsen.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990013346324) |
 | Manager, Patient Success | [Natera](https://natera.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/natera/jobs/6007779004) |
+| Manager, NBCUL Digital Sales Operations | [NBCUniversal](https://nbcuniversal.com) | $105K–$120K/yr | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000128958059) |
 | Customer Growth Specialist - Key Accounts (w/m/d) | [Too Good To Go](https://toogoodtogo.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/toogoodtogo/jobs/7750983003) |
 | Sales Director | [Loop Health](https://loophealth.com) | $350K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/loop/jobs/6008046004) |
 | Channel Account Executive MSP | [Sophos](https://sophos.com) | — | May 28 | [Apply](https://jobs.lever.co/sophos/92a2a904-50ae-427a-bf2e-f4060a1b0694) |

@@ -2,18 +2,21 @@
 
 Remote customer support and success roles across SaaS, e-commerce, and tech.
 
-**176 open roles** — Last updated: 2026-05-28
+**179 open roles** — Last updated: 2026-05-29
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Logistic coordinator | [SBT Global](https://sbtglobal.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/SBTGlobalInc/postings/3743990013359349) |
+| Escalation Resolution Associate | [Tripadvisor](https://tripadvisor.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/tripadvisor/jobs/7942376) |
 | Lead, CS AI Content  | [Flex](https://withflex.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/flex/jobs/4700218005) |
 | Manager, Business Support | [Versant](https://versant.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Versant3/postings/744000128979607) |
 | Product Support Engineer - Americas | [Ashby](https://ashbyhq.com) | — | May 28 | [Apply](https://jobs.ashbyhq.com/ashby/80c20b00-c3c3-441b-95bd-56eb870e77fb) |
 | EN - Food & Beverage Manager | [ACCOR](https://group.accor.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128924619) |
 | Retail Customer Service Weekends only | [Entain](https://entaingroup.com) | £13/yr | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Entain/postings/744000128896190) |
 | Customer Success Architect, EMEA | [GitLab](https://about.gitlab.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8561952002) |
+| SME/Trainer with German and English (Banking and Financial services)  | [Genpak LLC](https://genpak-llc-2) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000128874139) |
 | Customer Support Engineer | [Oddball](https://oddball.com) | $75K–$110K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/oddball/jobs/7749872003) |
 | Customer Support Analyst | [Oddball](https://oddball.com) | $60K–$90K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/oddball/jobs/7749868003) |
 | Automotive Warranty & Technical Support Agent | [MSX International](https://msxi.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013326457) |

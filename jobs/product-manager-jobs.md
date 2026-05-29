@@ -2,7 +2,7 @@
 
 Product manager roles at companies building real products. Sourced directly from career pages.
 
-**102 open roles** — Last updated: 2026-05-28
+**102 open roles** — Last updated: 2026-05-29
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 

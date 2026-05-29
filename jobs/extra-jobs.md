@@ -2,16 +2,27 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**611 open roles** — Last updated: 2026-05-28
+**624 open roles** — Last updated: 2026-05-29
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Procurement Manager | [Firmus Technologies](https://firmus.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/firmus/jobs/5231959008) |
+| Responsable de Gammes  | [Genpak LLC](https://genpak-llc-2) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129022279) |
+| Temporary - Chick-fil-A Retail Associate (Evening Shift) | [University of Notre Dame](https://universityofnotredame.com) | $18/yr | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013356396) |
+| INTERMARCHE - RESPONSABLE CAISSE (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129020288) |
+| Cleared Business Analyst | [Accenture Federal Services](https://accenturefederalservices.com) | — | May 28 | [Apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4685079006?gh_jid=4685079006) |
 | Electrical Technician Instructor | [Aviation Institute of Maintenance](https://aviationmaintenance.edu) | $42/yr | May 28 | [Apply](https://job-boards.greenhouse.io/aviationinstituteofmaintenance/jobs/5234415008) |
+| [Job -  29613]  Data Scientist, Brazil | [CI&T](https://cit.com) | — | May 28 | [Apply](https://jobs.lever.co/ciandt/e5c9cb29-4a89-4322-85ce-4dc57f4835f7) |
+| EMPLOYE LIBRE SERVICE | [Genpak LLC](https://genpak-llc-2) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129001995) |
+| Hôte de caisse HF | [BUT](https://but.fr) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000129000739) |
+| Clinician Engagement Lead - Scotland | [PortmanDentex](https://portmandentex.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000129000140) |
 | Chief Revenue Officer | [Swayable](https://swayable.com) | $250K–$300K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/swayable/jobs/5148809007) |
+| [Job -  29611] Data Strategist, Brazil | [CI&T](https://cit.com) | — | May 28 | [Apply](https://jobs.lever.co/ciandt/25359eaf-fa55-4851-926c-dd88f3e672a7) |
 | Business Development Lead | [Growe](https://growe.com) | — | May 28 | [Apply](https://job-boards.eu.greenhouse.io/growe/jobs/4874323101) |
 | IT Support Specialist - London | [Genpak LLC](https://genpak-llc-2) | — | May 28 | [Apply](https://jobs.ashbyhq.com/legora/1375ee19-aa7e-479e-bbfa-a8ad53907968) |
+| Automotive Technician / Mechanic - Up to $100k Annually & Weekends Off - Millard | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | $100K/yr | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000128934319) |
 | Bartender - Soho Farmhouse (Pen Yen) | [Soho House](https://sohohouse.com) | — | May 28 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4877269101) |
 | Développeur/se Data Senior (Spark, Scala) - Transport - Nantes | [Sopra Steria](https://soprasteria.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/SopraSteria1/postings/744000128902253) |
 | Support Officer | [Sopra Steria](https://soprasteria.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/SopraSteria1/postings/744000128888589) |
@@ -19,6 +30,8 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | SPRZEDAWCA / SPRZEDAWCZYNI JYSK Białystok, al. Solidarności 9, (1/2 ETATU, 2550 PLN brutto) | [JYSK](https://jysk.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000128864199) |
 | STELLVERTRETENDE/R FILIALLEITER/IN (M/W/D) - Weinheim | [JYSK](https://jysk.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000128864099) |
 | Rehabilitation Consultant (Occupational Therapist) | [Genpak LLC](https://genpak-llc-2) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/APMGroup/postings/6000000001112742) |
+| Registered Nurse - Primary Health- Casual positions available | [Healthcare Australia](https://healthcareaustralia.com.au) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/HealthcareAustralia1/postings/6000000001112588) |
+| RN Primary Health | [Healthcare Australia](https://healthcareaustralia.com.au) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/HealthcareAustralia1/postings/6000000001112444) |
 | Manager, Regulatory | [e.l.f. Beauty](https://elfbeauty.com) | — | May 28 | [Apply](https://jobs.lever.co/elfbeauty/8317dcf3-73db-4865-b8c4-f21f9ff58e4b) |
 | Physical Therapist Assistant, PTA ($12,000 in Bonuses!) | [InHomeTherapy](https://inhometherapy.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/inhometherapy/jobs/5145851007) |
 | Projects Editor, Editorial Operations, NYT Wirecutter | [The New York Times](https://thenewyorktimes.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4699885005) |

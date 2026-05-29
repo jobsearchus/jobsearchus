@@ -2,14 +2,16 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**230 open roles** — Last updated: 2026-05-28
+**232 open roles** — Last updated: 2026-05-29
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| SR Analista Salesforce Marketing Cloud | [ília](https://lia.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/ilia/jobs/6008564004) |
 | Marketing Manager - CNBC | [Versant](https://versant.com) | $68K–$100K/yr | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Versant3/postings/744000129014140) |
 | Partnerships Manager (Webselence) | [ExpressVPN](https://expressvpn.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/expressvpn/jobs/8568487002) |
+| Alternance - Chargé(e) d’animation commerciale Marketplace F/H/X | [BUT](https://but.fr) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000128941535) |
 | Digital Business Development Specialist, UAE | [Drees & Sommer](https://dreso.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000128921989) |
 | Product Marketing Manager, New Ventures - Travel | [Clear Gene](https://cleargene.com) | $110K–$150K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/clear/jobs/7962723) |
 | Entertainment Marketing Executive | [Gymshark](https://gymshark.com) | — | May 28 | [Apply](https://job-boards.eu.greenhouse.io/gymshark/jobs/4876128101) |

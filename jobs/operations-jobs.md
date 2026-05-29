@@ -2,16 +2,30 @@
 
 Remote operations and business operations roles across industries.
 
-**592 open roles** — Last updated: 2026-05-28
+**608 open roles** — Last updated: 2026-05-29
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Shift Supervisor - Barranco | [Delivery Hero](https://deliveryhero.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000129050479) |
+| Picker HUB | [Delivery Hero](https://deliveryhero.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000129049169) |
+| Part-Time Class 1 Driver for City Pickup & Delivery Great Incentive Pay!! | [Manitoulin Global Forwarding](https://manitoulingroup.com) | $26/yr | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000129033479) |
+| Senior Project Coordinator | [MSX International](https://msxi.com) | $70K–$87K/yr | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013357358) |
+| Project Manager - Strategic Operations | [Continental](https://continentalserves.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000129017549) |
+| Department Coordinator - East Asian Languages & Culture | [University of Notre Dame](https://universityofnotredame.com) | $25/yr | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013354586) |
+| Engineering Program Analyst | [AnaVation](https://anavation.com) | — | May 28 | [Apply](https://jobs.lever.co/anavationllc/95d50b3c-4bd8-41cf-96e3-2deeb7bf33a5) |
 | Sr. Manager, Engineering - Core Platform | [Vanta](https://vanta.com) | — | May 28 | [Apply](https://jobs.ashbyhq.com/vanta/cb97ac48-29a5-49da-a804-f19b907a8163) |
+| Tool Install Scheduler, Manassas, VA - Semiconductor | [World Wide Professional Solutions](https://worldwideprofessionalsolutions.com) | — | May 28 | [Apply](https://jobs.lever.co/wwprosolutions/b6c3e00b-5142-4ad1-8e6b-35e6e4ac3945) |
+| Coordinator, Transcription Marketplace | [Filevine](https://filevine.com) | — | May 28 | [Apply](https://jobs.lever.co/filevine/8c8af33c-a201-41a0-aefa-21fc0d024f35) |
+| AZ City P&D Truck Driver Earn Up To $85,000 a Year!! | [Manitoulin Global Forwarding](https://manitoulingroup.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000128987789) |
+| Revenue Operations Manager (F/M/D) | [NavVis](https://navvis.com) | — | May 28 | [Apply](https://job-boards.eu.greenhouse.io/navvis/jobs/4867923101) |
 | Staff Technical Program Manager, Batteries  | [ŌURA](https://ouraring.com) | $198K–$233K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/oura/jobs/4260161009) |
 | Analyste, Planification de la production  | [Vosker](https://vosker.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Vosker/postings/744000128970821) |
+| Change Management Practitioner | [Accenture Federal Services](https://accenturefederalservices.com) | — | May 28 | [Apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4684997006?gh_jid=4684997006) |
 | Lead eCommerce, Transactional Services | [Vosker](https://vosker.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Vosker/postings/744000128971305) |
+| Program Manager, Sonar Systems | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $122K–$165K/yr | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000128968864) |
+| Sr. Manager, Leadership Capability | [NBCUniversal](https://nbcuniversal.com) | $110K–$135K/yr | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000128964219) |
 | Middle Payments Operations Specialist | [GR8 Tech](https://gr8.com) | — | May 28 | [Apply](https://job-boards.eu.greenhouse.io/gr8tech/jobs/4877324101) |
 | Key Account Manager (API) | [Vonage](https://vonage.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/vonage/jobs/8549510002) |
 | Contracts Administrator | [PortmanDentex](https://portmandentex.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000128925836) |
@@ -25,6 +39,7 @@ Remote operations and business operations roles across industries.
 | Sequencing Planner (Working in Shift) | [Continental](https://continentalserves.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000128883739) |
 | Dispatcher FTE | [Anglo American](https://angloamerican.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000128876560) |
 | Experienced Low Voltage Service Technician | [New Era Technology](https://neweratech.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8562573002) |
+| Lead - Dialer Administration | [Genpak LLC](https://genpak-llc-2) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000128854619) |
 | Cinema Programmer - Soho House Hong Kong | [Soho House](https://sohohouse.com) | — | May 28 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4876984101) |
 |  General Affairs  | [SBT Global](https://sbtglobal.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/SBTGlobalInc/postings/3743990013341736) |
 | Customer Asset Lifecycle Lead | [Owner.com](https://owner.com) | — | May 27 | [Apply](https://jobs.ashbyhq.com/Owner/744ccf24-3356-4560-bfb7-6812a16a723f) |
@@ -67,6 +82,7 @@ Remote operations and business operations roles across industries.
 | Field Services Expert  | [VusionGroup SA](https://vusiongroup.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/VusionGroupSA/postings/744000128685300) |
 | Bolti munkatárs - Wolt Market Lehel | [Wolt](https://wolt.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7946499) |
 | Project Coordinator | [Sigma Software](https://sigmasoftware.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/SigmaSoftware2/postings/744000128676710) |
+| Livreur Démonstrateur  | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000128673629) |
 | Account Director (4 Month FTC) | [WPP Media](https://wppmedia.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5228872008) |
 | Product & Engineering Operations Manager | [Mindtickle](https://mindtickle.com) | — | May 27 | [Apply](https://jobs.lever.co/mindtickle/94688682-f114-4d11-bde2-e9cef4f8c446) |
 | Solutions Superintendent | [Anglo American](https://angloamerican.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000128643595) |

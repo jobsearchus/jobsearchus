@@ -2,12 +2,13 @@
 
 Backend, server-side, and API engineering roles. Node.js, Python, Go, Ruby, Java and beyond.
 
-**39 open roles** — Last updated: 2026-05-28
+**40 open roles** — Last updated: 2026-05-29
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| PL Desenvolvimento Backend (Java) | [ília](https://lia.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/ilia/jobs/6008525004) |
 | Senior Backend Engineer - Java - Product Platform | [Canva](https://canva.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001113630) |
 | Software Engineer, Backend | [Finch](https://tryfinch.com) | — | May 26 | [Apply](https://jobs.lever.co/finch/694319b3-97e4-405c-a6ec-92567b2d88fb) |
 | Senior Software Engineer II AI-Native, backend Growth | [Life360](https://life360.com) | $148K–$216K/yr | May 26 | [Apply](https://job-boards.greenhouse.io/life360/jobs/8564809002) |

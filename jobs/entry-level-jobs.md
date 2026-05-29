@@ -2,17 +2,27 @@
 
 Remote jobs open to candidates with 0–2 years of experience. A real way in — no degree gatekeeping.
 
-**598 open roles** — Last updated: 2026-05-28
+**608 open roles** — Last updated: 2026-05-29
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Picker HUB | [Delivery Hero](https://deliveryhero.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000129049169) |
+| Inbound Billing and Settlement Staff | [SBT Global](https://sbtglobal.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/SBTGlobalInc/postings/3743990013359596) |
+| Billing specialist | [SBT Global](https://sbtglobal.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/SBTGlobalInc/postings/3743990013359426) |
+| Logistic coordinator | [SBT Global](https://sbtglobal.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/SBTGlobalInc/postings/3743990013359349) |
+| Temporary - Chick-fil-A Retail Associate (Evening Shift) | [University of Notre Dame](https://universityofnotredame.com) | $18/yr | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013356396) |
 | Graphics Production Assistant, MS NOW The Beat | [Versant](https://versant.com) | $30/yr | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Versant3/postings/744000129005189) |
+| EMPLOYE LIBRE SERVICE | [Genpak LLC](https://genpak-llc-2) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129001995) |
+| Hôte de caisse HF | [BUT](https://but.fr) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000129000739) |
+| Coordinator, Transcription Marketplace | [Filevine](https://filevine.com) | — | May 28 | [Apply](https://jobs.lever.co/filevine/8c8af33c-a201-41a0-aefa-21fc0d024f35) |
+| Jr. Graphic Designer - BetMGM | [Entain](https://entaingroup.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Entain/postings/744000128959649) |
 | Web Content/ Web content publishing/CMS/AEM/PIM - Gurgaon Immediate joiners  ( 1+ yrs ) | [WNS](https://wns.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/WNSGlobalServices144/postings/744000128948965) |
 | Kundenberater Fahrzeugbewertung (d/m/w) | [AUTO1 Group](https://auto1-group.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000128940891) |
 | Intern, Data Labeler (Mandarin Speaker) - (Global Discovery, Consumer) | [Delivery Hero](https://deliveryhero.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000128938409) |
 | Personal and Private Banking (PPB) SA SB Private Mpumalanga Graduate Programme  | [Standard Bank](https://standardbank.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000128934749) |
+| General Service Technician / Mechanic - Up To $25/hr & Weekends Off - Mesa Gateway | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | $25/yr | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000128934470) |
 | commis 2 | [ACCOR](https://group.accor.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000128922829) |
 | CONSEILLER DE VENTE ETUDIANT CDD | [Genpak LLC](https://genpak-llc-2) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000128912793) |
 | Préparateur / Préparatrice de Commandes Drive — H/F | [Genpak LLC](https://genpak-llc-2) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000128909910) |

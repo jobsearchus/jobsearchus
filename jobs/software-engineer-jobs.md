@@ -2,19 +2,33 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**920 open roles** — Last updated: 2026-05-28
+**935 open roles** — Last updated: 2026-05-29
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| GEOINT History Program Specialist - Senior | [ANSER](https://anser.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/analyticservicesinc/jobs/5234012008?gh_jid=5234012008) |
+| Cost Engineer – Data Center IT Fit-Out | [Firmus Technologies](https://firmus.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/firmus/jobs/5231970008) |
+| IT Service Manager | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $90K–$115K/yr | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000129037029) |
+| Design and Release Engineer (Ref. L-2611) | [ALTEN](https://alten.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5149384007) |
+| Senior Director of Engineering, Emerging Products, Product Engineering | [1Password](https://1password.com) | — | May 28 | [Apply](https://jobs.ashbyhq.com/1password/3325c864-0f37-4b7d-a67b-1972104f51bb) |
+| Mechanical Design Engineer (Ref. L-2612) | [ALTEN](https://alten.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5149337007) |
+| Analista de Desenvolvimento de Software II | [Experian](https://experianplc.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000129028149) |
+| Analista de Desenvolvimento de Software Pleno | [Experian](https://experianplc.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000129027622) |
 | [8PV] Software Architect | [Software Mind](https://softwaremind.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/SoftwareMind/postings/744000129023682) |
+| Systems Engineer | [ANSER](https://anser.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/analyticservicesinc/jobs/5232415008?gh_jid=5232415008) |
 | Senior Software Engineer, Platform | [Omada Health](https://omadahealth.com) | $179K–$224K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/omadahealth/jobs/7958282) |
+| Firmware Engineer - IoT | [Avive](https://avive.com) | — | May 28 | [Apply](https://jobs.lever.co/AviveSolutions/6d982360-d21c-4389-8a75-9a971d644f1d) |
+| Platform Support Analyst | [Entain](https://entaingroup.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Entain/postings/744000129009629) |
 | Sr. Manager, Engineering - Core Platform | [Vanta](https://vanta.com) | — | May 28 | [Apply](https://jobs.ashbyhq.com/vanta/c455a90c-03b4-4ae9-998d-28469600af88) |
 | Senior Research Engineer - Video Agents  | [Canva](https://canva.com) | $220K–$280K/yr | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Canva/postings/6000000001113930) |
+| Associate / Senior Business Process Consultant EDI Operations | [Continental](https://continentalserves.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000129000869) |
 | Product Engineer - AI Control Plane | [Speakeasy](https://speakeasy.com) | — | May 28 | [Apply](https://jobs.ashbyhq.com/speakeasy/df5263bd-c529-4563-9d93-136a5d5b1dd5) |
 | Senior Systems Engineer | [New Era Technology](https://neweratech.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8555875002) |
 | Principal Architect (Application Architecture ) | [Endava](https://endava.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Endava/postings/744000128993879) |
+| Virtualization Engineer II | [LightEdge](https://lightedge.com) | — | May 28 | [Apply](https://jobs.lever.co/lightedge/b05a50ae-0b1c-4335-ae40-5f4cd199e158) |
+| AWS Cloud Engineer | [Accenture Federal Services](https://accenturefederalservices.com) | — | May 28 | [Apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4685018006?gh_jid=4685018006) |
 | Forward Deployed Engineer | [Sixfold Bioscience](https://sixfold.bio) | $155K–$200K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/sixfold/jobs/5234031008) |
 | Scientist I, In Vitro Pharmacology | [Flagship Pioneering, Inc.](https://flagshippioneering.com) | $100K–$127K/yr | May 28 | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8567001002?gh_jid=8567001002) |
 | Senior Product Counsel | [ClickHouse](https://clickhouse.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/clickhouse/jobs/6007957004) |
@@ -27,6 +41,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Intern, Data Labeler (Mandarin Speaker) - (Global Discovery, Consumer) | [Delivery Hero](https://deliveryhero.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000128938409) |
 | Staff Software Engineer - API Platform | [Canva](https://canva.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Canva/postings/6000000001113880) |
 | Développeur Confirmé | [Inetum](https://inetum.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000128936199) |
+| Staff Engineer, SAP Human Experience Management (Employee central) | [Nagarro](https://nagarro.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000128924739) |
 | Consultant Systems Support Engineer (node and react) | [Referrals Only](https://thoughtworks.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7962880) |
 | Cloud Architect | [Inetum](https://inetum.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000128917419) |
 | Projectingenieur Engineering & BIM | [BESIX](https://besix.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000128916525) |
