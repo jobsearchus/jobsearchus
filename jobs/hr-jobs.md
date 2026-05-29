@@ -2,13 +2,16 @@
 
 Remote HR, recruiting, and people operations roles.
 
-**106 open roles** — Last updated: 2026-05-29
+**109 open roles** — Last updated: 2026-05-29
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| IT - Stage HR - People & Culture Administrator | [Primark Tiendas SLU](https://primark.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000129162020) |
+| Talent Acquisition Sourcer (Apprentice - Any Bachelor's - BBA/B.Com/B.Sc/BCA) | [Vonage](https://vonage.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/vonage/jobs/8570556002) |
 | Associate, Talent Coordination (6 months contract) | [Delivery Hero](https://deliveryhero.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000129051119) |
+| McWane - Group Director, Human Resources | [McWane](https://mcwane.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/McWaneInc/postings/3743990013359506) |
 | People Systems & Programs Lead | [Mariana Minerals](https://marianaminerals.com) | — | May 28 | [Apply](https://jobs.ashbyhq.com/marianaminerals/b921d3a0-ba9d-49ee-a4d1-93612a784b42) |
 | Recruiting Coordinator | [Chime](https://chime.com) | $15K/yr | May 28 | [Apply](https://boards.greenhouse.io/chime/jobs/8555624002?gh_jid=8555624002) |
 | Account Executive (ENT/Strategic) (Hybrid) | [KnowBe4](https://knowbe4.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8569022002) |

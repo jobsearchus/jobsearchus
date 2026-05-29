@@ -2,19 +2,31 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**631 open roles** — Last updated: 2026-05-29
+**646 open roles** — Last updated: 2026-05-29
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Commis de Salle (H/F) - Restaurant Girardin 1* | [Relais & Châteaux](https://relaischateaux.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000129156319) |
+| Skladiščnik | [Primark Tiendas SLU](https://primark.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000129151470) |
+| Tyler Union - Lining & Coating Utility -2nd shift  | [McWane](https://mcwane.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/McWaneInc/postings/3743990013365906) |
+| Commis chocolatier - Loiseau, La pâtisserie | [Relais & Châteaux](https://relaischateaux.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000129144669) |
+| Assistant Restaurant Manager | [Relais & Châteaux](https://relaischateaux.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000129139649) |
+| Hôte/Hôtesse CDD Rooftop | [Genpak LLC](https://genpak-llc-2) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000129135900) |
+| Croupier Poker en Extra | [Genpak LLC](https://genpak-llc-2) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000129126049) |
+| Head of Student Voice, Advocacy and Wellbeing | [Western Sydney University](https://westernsydney.edu.au) | $118K–$147K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/WesternSydneyUniversity/postings/6000000001117409) |
 | Mechanical Engineer | [Cerebras Systems](https://cerebras.net) | $180K–$200K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/cerebrassystems/jobs/7752149003) |
 | Procurement Manager | [Firmus Technologies](https://firmus.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/firmus/jobs/5231959008) |
+| Chief of Staff, VISASQ/COLEMAN Ex-Japan  | [VisasQ/Coleman](https://colemanrg.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/colemanresearch/jobs/8568961002) |
+| Hospitality Specialist | [xAI](https://x.ai) | — | May 28 | [Apply](https://job-boards.greenhouse.io/xai/jobs/5149102007) |
 | Safety Training Manager | [Enviva](https://envivabiomass.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/enviva/jobs/7751255003) |
+| Director, IT Service Management | [OpenLoop](https://openloop.com) | — | May 28 | [Apply](https://jobs.ashbyhq.com/openloophealth/cf850824-a4c5-4245-b01b-0938f4d225cd) |
 | Hospice RN Case Manager | [Silverado](https://silverado.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/silverado/jobs/5149162007) |
 | Responsable de Gammes  | [Genpak LLC](https://genpak-llc-2) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129022279) |
 | Temporary - Chick-fil-A Retail Associate (Evening Shift) | [University of Notre Dame](https://universityofnotredame.com) | $18/yr | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013356396) |
 | INTERMARCHE - RESPONSABLE CAISSE (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129020288) |
+| Director, Analyst Relations | [Smartsheet](https://smartsheet.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/smartsheet/jobs/7963982) |
 | Full Time Lead Charge Nurse, LPN (Multiple Shifts) | [Silverado](https://silverado.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/silverado/jobs/5149068007) |
 | Director of Recreation - Recreation Therapist | [Crestwood Behavioral Health](https://crestwoodbehavioralhealth.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/crestwoodcareers/jobs/7751537003) |
 | Workplace Experience Coordinator | [Volito Aviation August 2007](https://trustly.com) | — | May 28 | [Apply](https://jobs.lever.co/trustly/53e1a831-f2a4-44b8-85a6-1ec65847ac1e) |
@@ -28,6 +40,7 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Chief Revenue Officer | [Swayable](https://swayable.com) | $250K–$300K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/swayable/jobs/5148809007) |
 | [Job -  29611] Data Strategist, Brazil | [CI&T](https://cit.com) | — | May 28 | [Apply](https://jobs.lever.co/ciandt/25359eaf-fa55-4851-926c-dd88f3e672a7) |
 | Business Development Lead | [Growe](https://growe.com) | — | May 28 | [Apply](https://job-boards.eu.greenhouse.io/growe/jobs/4874323101) |
+| Chef de Partie Cuisine | [Genpak LLC](https://genpak-llc-2) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000128965929) |
 | IT Support Specialist - London | [Genpak LLC](https://genpak-llc-2) | — | May 28 | [Apply](https://jobs.ashbyhq.com/legora/1375ee19-aa7e-479e-bbfa-a8ad53907968) |
 | Automotive Technician / Mechanic - Up to $100k Annually & Weekends Off - Millard | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | $100K/yr | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000128934319) |
 | Bartender - Soho Farmhouse (Pen Yen) | [Soho House](https://sohohouse.com) | — | May 28 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4877269101) |
@@ -58,6 +71,7 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | EMPLOYE BOULANGERIE 34,5H (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000128762847) |
 | Early Years Educator (Qualified) - Sanderstead | [Fennies Day Nurseries](https://fennies.com) | — | May 27 | [Apply](https://job-boards.eu.greenhouse.io/fenniesdaynurseries/jobs/4876817101) |
 | Agente Stone - Consultor(a) Comercial Externo -  Criciúma/SC | [Stone](https://stone.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/stone/jobs/7749653003) |
+| Commercial Door Technician | [DH Pace Company](https://dhpace.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5232548008) |
 | Visual Merchandiser di negozio - Livorno C.C. "Porta a Mare" | [JD Sports](https://jdsports.com) | — | May 27 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4876775101) |
 | Veterinary Client Services Manager | [Veritas Veterinary Partners](https://veritasveterinarypartners.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/veritasvetpartners/jobs/5232478008) |
 | Consultant, Motor Insurance Claims | [Standard Bank](https://standardbank.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000128750169) |
@@ -73,6 +87,7 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Chef de Partie - Shoreditch House, East London | [Soho House](https://sohohouse.com) | — | May 27 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4869710101) |
 | Senior IPAM Engineer | [New Era Technology](https://neweratech.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8554788002) |
 | Allround Receptionist (24 tot 32 uur) | [Genpak LLC](https://genpak-llc-2) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000128695803) |
+| Nursery Room Leader | [Fennies Day Nurseries](https://fennies.com) | — | May 27 | [Apply](https://job-boards.eu.greenhouse.io/fenniesdaynurseries/jobs/4876358101) |
 | Early Years Educator (Unqualified) - Christchurch | [Fennies Day Nurseries](https://fennies.com) | — | May 27 | [Apply](https://job-boards.eu.greenhouse.io/fenniesdaynurseries/jobs/4876357101) |
 | Middleware Engineer | [Applied Intuition](https://applied.co) | — | May 27 | [Apply](https://boards.greenhouse.io/appliedintuition/jobs/4698379005?gh_jid=4698379005) |
 | Private Assosiate Dentist  | [PortmanDentex](https://portmandentex.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000128653129) |

@@ -2,17 +2,29 @@
 
 Remote operations and business operations roles across industries.
 
-**618 open roles** — Last updated: 2026-05-29
+**631 open roles** — Last updated: 2026-05-29
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Afstudeerstage Logistiek & Supply Chain Management | [Syngenta](https://syngenta.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000129148259) |
+| Office Manager | [BrainRocket](https://brainrocket.com) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/brainrocketltd/jobs/4878378101) |
+| Operator Maszyn Formujących (k/m) | [O-I Glass](https://o-i.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/O-I/postings/744000129145850) |
+| Head of Transformation | [LinkedIn Job Wrapping](https://artefact.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/artefactlinkedin/jobs/8570554002) |
+| Front Office Assistant - Part Time | [VML MAP](https://vml-map.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/map/jobs/8570497002) |
+| Change & Adoption Manager | [Western Sydney University](https://westernsydney.edu.au) | $138K–$147K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/WesternSydneyUniversity/postings/6000000001117732) |
 | Employee Relations Specialist | [Scopely](https://scopely.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/scopely/jobs/5210637008) |
 | Shift Supervisor - Barranco | [Delivery Hero](https://deliveryhero.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000129050479) |
 | Picker HUB | [Delivery Hero](https://deliveryhero.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000129049169) |
+| Porter | [xAI](https://x.ai) | — | May 28 | [Apply](https://job-boards.greenhouse.io/xai/jobs/5149405007) |
 | Program Manager, Dispute Experience | [Chime](https://chime.com) | $15K/yr | May 28 | [Apply](https://boards.greenhouse.io/chime/jobs/8568168002?gh_jid=8568168002) |
 | Senior Program Manager, AI Enablement | [Chime](https://chime.com) | $15K/yr | May 28 | [Apply](https://boards.greenhouse.io/chime/jobs/8552459002?gh_jid=8552459002) |
+| Preventative Maintenance Technician, Facilities | [Relativity Space](https://relativityspace.com) | — | May 28 | [Apply](https://boards.greenhouse.io/relativity/jobs/8569398002?gh_jid=8569398002) |
+| Underwriting & Servicing Operations Manager - Cards | [Mercury](https://mercury.com) | $163K–$204K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/mercury/jobs/6008667004) |
+| Low Voltage Project Manger  | [New Era Technology](https://neweratech.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8569713002) |
+| Porter - Night Shift | [xAI](https://x.ai) | — | May 28 | [Apply](https://job-boards.greenhouse.io/xai/jobs/5149312007) |
+| Office Manager | [Genpak LLC](https://genpak-llc-2) | — | May 28 | [Apply](https://job-boards.greenhouse.io/superluminalrx/jobs/5233546008) |
 | Security & IT General Opportunities | [Cerebras Systems](https://cerebras.net) | — | May 28 | [Apply](https://job-boards.greenhouse.io/cerebrassystems/jobs/7751790003) |
 | Part-Time Class 1 Driver for City Pickup & Delivery Great Incentive Pay!! | [Manitoulin Global Forwarding](https://manitoulingroup.com) | $26/yr | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000129033479) |
 | Design Operations Specialist  | [GitLab](https://about.gitlab.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8498821002) |
@@ -71,6 +83,7 @@ Remote operations and business operations roles across industries.
 | Warehouse Supervisor | [Deliveroo](https://deliveroo.co.uk) | £16/yr | May 27 | [Apply](https://jobs.ashbyhq.com/deliveroo/125b4338-5386-4b8a-9963-13d91077fcd5) |
 | Warehouse Supervisor | [Deliveroo](https://deliveroo.co.uk) | £16/yr | May 27 | [Apply](https://jobs.ashbyhq.com/deliveroo/c169485d-53ea-4380-9d8b-5fa3be1be1ff) |
 | Commercial Enablement Innovation Lead | [Omada Health](https://omadahealth.com) | $130K–$162K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/omadahealth/jobs/7952135) |
+| Japan Growth Lead | [Replit](https://replit.com) | — | May 27 | [Apply](https://jobs.ashbyhq.com/replit/999e1432-3edd-453b-b598-ab4b26e1bc5c) |
 | Chauffeur classe 1, pour (Switch) Grand Remous, départ fixe & planifié. Salaire à l'heure débutant à 33.68$ h plan de retraite et avantages sociaux incomparable dans industries. | [Manitoulin Global Forwarding](https://manitoulingroup.com) | — | May 27 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000128758749) |
 | Implementation Delivery Lead - CP Managed Services  | [bswift](https://bswift.com) | $65K–$85K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/bswift/jobs/4683408006) |
 | Commercial Door Installer | [DH Pace Company](https://dhpace.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5232536008) |

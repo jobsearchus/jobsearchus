@@ -2,18 +2,36 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**555 open roles** — Last updated: 2026-05-29
+**574 open roles** — Last updated: 2026-05-29
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| ASISTENT/KA PRODEJE V PRODEJNĚ JYSK Teplice - Řetenice | [JYSK](https://jysk.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000129149944) |
+| Internship – Plant Variety Protection & Variety Registration | [Syngenta](https://syngenta.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000129150073) |
+| VERKÄUFER/IN TEILZEIT (M/W/D) – Bruchsal (18,5-20 Std) | [JYSK](https://jysk.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000129149069) |
+| Myyjä, kesätyö, määräaikainen 16h/vko, JYSK Kouvola  | [JYSK](https://jysk.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000129148329) |
+| Sales Operations Specialist | [D-Fend Solutions](https://d-fendsolutions.com) | — | May 29 | [Apply](https://jobs.lever.co/d-fendsolutions/992418e5-f5bc-439b-a968-0e7827fefc31) |
+| Sales Development Representative | [Vanta](https://vanta.com) | — | May 29 | [Apply](https://jobs.ashbyhq.com/vanta/2b6d3c9c-7f74-4dbe-b650-1045ac04b2d5) |
+| Account Executive, Corrections | [Axon](https://axon.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/axon/jobs/7752116003) |
+| Mid-Market Account Executive | [LaunchDarkly](https://launchdarkly.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/launchdarkly/jobs/7751966003) |
+| Senior Enterprise Account Executive - Canada | [IonQ](https://ionq.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/ionq/jobs/5996720004) |
+| Senior Enterprise Account Executive - Manufacturing | [IonQ](https://ionq.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/ionq/jobs/6006435004) |
+| Senior Enterprise Account Executive - Logistics & Retail | [IonQ](https://ionq.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/ionq/jobs/6006433004) |
 | Channel Director (West) | [UltraViolet Cyber](https://ultravioletcyber.com) | — | May 28 | [Apply](https://jobs.lever.co/uvcyber/ab16b168-ddbe-4f3c-8bed-947a5537d335) |
 | Analista de Administracao de Vendas sênior | [Experian](https://experianplc.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000129038719) |
+| Account Executive, Commercial - Mid Market | [Smartsheet](https://smartsheet.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/smartsheet/jobs/7964473) |
+| Account Executive, Commercial - Mid Market | [Smartsheet](https://smartsheet.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/smartsheet/jobs/7954794) |
 | Territory Sales Manager -Truck Tire - Coastal Carolinas | [Continental](https://continentalserves.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000129028379) |
+| Account Executive, Strategic Mid-Market - Research & Higher Education | [Pure Storage](https://purestorage.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/7819635) |
+| Program Manager, AI Transformation (GTM) | [Vanta](https://vanta.com) | — | May 28 | [Apply](https://jobs.ashbyhq.com/vanta/5dffd0d2-fa52-45f0-8a1a-6c52770b4c17) |
 | Enterprise Account Executive (Ejecutivo de Cuentas Enterprise) - Medellín (Hybrid) | [Clara](https://clara.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/clara/jobs/5148999007) |
+| Liaison Engineering Focal  | [Archer](https://archer.com) | $173K–$216K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7719735003) |
+| Account Executive, SLED (Indiana / Kentucky / Ohio) | [Pure Storage](https://purestorage.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/7960260) |
 | Executive Assistant (Customer Success SVPs) (Remote) | [KnowBe4](https://knowbe4.com) | $80K–$85K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8569043002) |
 | Agente Stone - Consultor(a) Comercial Externo - Domingos Martins/ES | [Stone](https://stone.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/stone/jobs/7751522003) |
+| Sales Development Representative, Commercial + | [Vanta](https://vanta.com) | — | May 28 | [Apply](https://jobs.ashbyhq.com/vanta/408b4d21-605f-407f-a522-afe2159062c5) |
 | Account Manager - Windsor region | [Manitoulin Global Forwarding](https://manitoulingroup.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000129009789) |
 | Enterprise Account Executive | [Canva](https://canva.com) | $212K–$326K/yr | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Canva/postings/6000000001113935) |
 | Senior Sales Training Specialist  | [Convera](https://convera.com) | — | May 28 | [Apply](https://job-boards.eu.greenhouse.io/convera/jobs/4865193101) |
@@ -27,6 +45,7 @@ Remote sales roles — account executives, SDRs, and enterprise deals.
 | Manager, Patient Success | [Natera](https://natera.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/natera/jobs/6007779004) |
 | Manager, NBCUL Digital Sales Operations | [NBCUniversal](https://nbcuniversal.com) | $105K–$120K/yr | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000128958059) |
 | Customer Growth Specialist - Key Accounts (w/m/d) | [Too Good To Go](https://toogoodtogo.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/toogoodtogo/jobs/7750983003) |
+| Partner Success Specialist - Key Accounts (w/m/d) | [Too Good To Go](https://toogoodtogo.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/toogoodtogo/jobs/7750980003) |
 | Sales Director | [Loop Health](https://loophealth.com) | $350K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/loop/jobs/6008046004) |
 | Channel Account Executive MSP | [Sophos](https://sophos.com) | — | May 28 | [Apply](https://jobs.lever.co/sophos/92a2a904-50ae-427a-bf2e-f4060a1b0694) |
 | Kundenberater Fahrzeugbewertung (d/m/w) | [AUTO1 Group](https://auto1-group.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000128940891) |

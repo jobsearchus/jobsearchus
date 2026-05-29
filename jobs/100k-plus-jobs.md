@@ -2,14 +2,29 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**402 open roles** — Last updated: 2026-05-29
+**419 open roles** — Last updated: 2026-05-29
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Change & Adoption Manager | [Western Sydney University](https://westernsydney.edu.au) | $138K–$147K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/WesternSydneyUniversity/postings/6000000001117732) |
+| Research Project Manager | [Western Sydney University](https://westernsydney.edu.au) | $119K–$132K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/WesternSydneyUniversity/postings/6000000001117592) |
+| Head of Student Voice, Advocacy and Wellbeing | [Western Sydney University](https://westernsydney.edu.au) | $118K–$147K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/WesternSydneyUniversity/postings/6000000001117409) |
 | Mechanical Engineer | [Cerebras Systems](https://cerebras.net) | $180K–$200K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/cerebrassystems/jobs/7752149003) |
+| Senior Software Engineer, Cloud Applications | [Temporal](https://temporal.io) | $176K–$237K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/temporaltechnologies/jobs/5149574007) |
+| Principal Certification Engineer | [Archer](https://archer.com) | $250K–$310K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7741074003) |
+| Attorney, LATAM Funds and Distribution - Vice President | [iCapital](https://icapital.com) | $180K–$220K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8568896002) |
+| Fund Attorney - Assistant Vice President | [iCapital](https://icapital.com) | $160K–$210K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8568889002) |
+| Fund Attorney - Assistant Vice President | [iCapital](https://icapital.com) | $160K–$210K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8568888002) |
+| Underwriting & Servicing Operations Manager - Cards | [Mercury](https://mercury.com) | $163K–$204K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/mercury/jobs/6008667004) |
+| Staff Software Engineer, Cloud Identity | [Temporal](https://temporal.io) | $212K–$286K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/temporaltechnologies/jobs/5148493007) |
+| Senior Product Marketing Manager | [Customer.io](https://customer.io) | $135K–$176K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/customerio/jobs/7964655) |
+| Salesforce Agentforce Architect (Technical Architect) | [NeuraFlash](https://neuraflash.com) | $101K–$245K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/neuraflash/jobs/6008602004) |
+| Senior Motion Designer | [Customer.io](https://customer.io) | $118K–$142K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/customerio/jobs/7964342) |
+| Liaison Engineering Focal  | [Archer](https://archer.com) | $173K–$216K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7719735003) |
 | Senior Software Engineer, Platform | [Omada Health](https://omadahealth.com) | $179K–$224K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/omadahealth/jobs/7958282) |
+| Manager, Design Engineering Structures | [Archer](https://archer.com) | $155K–$195K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7740999003) |
 | Enterprise Account Executive | [Canva](https://canva.com) | $212K–$326K/yr | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Canva/postings/6000000001113935) |
 | Senior Engineer II, Mechanical/Dispersion Systems | [Flagship Pioneering, Inc.](https://flagshippioneering.com) | $120K–$165K/yr | May 28 | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8568975002?gh_jid=8568975002) |
 | Senior Research Engineer - Video Agents  | [Canva](https://canva.com) | $220K–$280K/yr | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Canva/postings/6000000001113930) |
@@ -38,6 +53,8 @@ Remote roles paying $100,000 or more per year. Salary data pulled directly from 
 | Full Stack Engineer | [Oddball](https://oddball.com) | $100K–$140K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/oddball/jobs/7749864003) |
 | Creator Partner Manager | [Cantina](https://cantina.com) | $120K–$160K/yr | May 27 | [Apply](https://jobs.ashbyhq.com/cantina/04eaf201-fe7a-44fb-9520-7df9c03d256d) |
 | Commercial Enablement Innovation Lead | [Omada Health](https://omadahealth.com) | $130K–$162K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/omadahealth/jobs/7952135) |
+| Senior Software Engineer | [SecurityScorecard](https://securityscorecard.com) | $160K–$185K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/securityscorecard/jobs/7960892) |
+| Senior Software Engineer | [SecurityScorecard](https://securityscorecard.com) | $160K–$185K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/securityscorecard/jobs/7960884) |
 | Space Surveillance Engineer II | [Slingshot Aerospace](https://slingshotaerospace.com) | $128K–$213K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/slingshotaerospace/jobs/6007253004?gh_jid=6007253004) |
 | Full Stack Engineer - Assistant Vice President | [iCapital](https://icapital.com) | $100K–$130K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8452446002) |
 | Revenue Analytics Manager | [Cresta](https://cresta.com) | $120K–$175K/yr | May 27 | [Apply](https://job-boards.greenhouse.io/cresta/jobs/5232532008) |

@@ -2,12 +2,15 @@
 
 QA, test automation, and SDET roles. Manual and automated testing across all stacks.
 
-**29 open roles** — Last updated: 2026-05-29
+**32 open roles** — Last updated: 2026-05-29
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Manager, Firefox Mobile Test Engineering | [Mozilla](https://mozilla.org) | — | May 28 | [Apply](https://job-boards.greenhouse.io/mozilla/jobs/7962098) |
+| Senior Manager, Firefox Mobile Test Engineering | [Mozilla](https://mozilla.org) | — | May 28 | [Apply](https://job-boards.greenhouse.io/mozilla/jobs/7962091) |
+| Senior Manager, Firefox Mobile Test Engineering | [Mozilla](https://mozilla.org) | — | May 28 | [Apply](https://job-boards.greenhouse.io/mozilla/jobs/7961360) |
 | Senior QA Automation Engineer (JavaScript/TypeScript) - HospitalityTech | [Truelogic](https://truelogic.com) | — | May 28 | [Apply](https://jobs.ashbyhq.com/truelogic/70ec66bc-29d6-4b1b-8d70-e1e988f7cdcc) |
 | Test Engineer | [ANSER](https://anser.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/analyticservicesinc/jobs/5232522008?gh_jid=5232522008) |
 | Agentic Automation Engineer - Assistant Vice President / Vice President | [iCapital](https://icapital.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8566331002) |

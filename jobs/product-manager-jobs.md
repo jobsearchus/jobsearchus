@@ -2,12 +2,14 @@
 
 Product manager roles at companies building real products. Sourced directly from career pages.
 
-**105 open roles** — Last updated: 2026-05-29
+**108 open roles** — Last updated: 2026-05-29
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Product owner - Data & AI | [Genpak LLC](https://genpak-llc-2) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/valtech/jobs/4876453101) |
+| Product Manager II - US Derivatives  | [Kraken](https://kraken.com) | — | May 28 | [Apply](https://jobs.ashbyhq.com/kraken.com/8062dccc-d328-4310-ad2a-db1ea1225dc7) |
 | Senior Product Manager, Infrastructure Observability - Germany - Remote | [Grafana Labs](https://grafana.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6008082004) |
 | Senior Product Manager, Infrastructure Observability - Canada - Remote | [Grafana Labs](https://grafana.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6008078004) |
 | Staff Product Manager | [6sense](https://6sense.com) | — | May 28 | [Apply](https://boards.greenhouse.io/6sense/jobs/7931657?gh_jid=7931657) |
@@ -23,6 +25,7 @@ Product manager roles at companies building real products. Sourced directly from
 | Director, Product Management - UK - Remote | [Grafana Labs](https://grafana.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6007098004) |
 | Director, Product Management - Sweden - Remote | [Grafana Labs](https://grafana.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6002886004) |
 | Director, Product Management - Spain - Remote | [Grafana Labs](https://grafana.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6007097004) |
+| Staff Product Manager | [Too Good To Go](https://toogoodtogo.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/toogoodtogo/jobs/7748490003) |
 | Director, Product Management (Coupang Partners Programmatic Product) | [Coupang](https://coupang.com) | — | May 27 | [Apply](https://boards.greenhouse.io/coupanginternal/jobs/7959543?gh_jid=7959543) |
 | Coordinator, Product Development, rhode | [e.l.f. Beauty](https://elfbeauty.com) | — | May 26 | [Apply](https://jobs.lever.co/elfbeauty/ed87c325-72cc-4383-930e-f7b7fcf73d7c) |
 | Product Manager, Brokerage | [Robinhood](https://robinhood.com) | — | May 26 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7947548?t=gh_src=&gh_jid=7947548) |

@@ -2,14 +2,20 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**233 open roles** — Last updated: 2026-05-29
+**239 open roles** — Last updated: 2026-05-29
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Investment Writer - 12m FTC | [Man Group](https://man.com) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/mangroup/jobs/4876548101) |
+| Campaign Specialist  | [VML MAP](https://vml-map.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/map/jobs/8568844002) |
+| Ads and Promos Sales Manager | [Wolt](https://wolt.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7962985) |
 | Events Marketing Manager, EMEA/META | [Censys](https://censys.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/censys/jobs/8556846002) |
+| Senior Performance Marketing Manager, SMB | [NerdWallet](https://nerdwallet.com) | — | May 28 | [Apply](https://jobs.ashbyhq.com/nerdwallet/9eb0490a-850b-48e1-bae1-1f1c9a055d41) |
+| Senior Product Marketing Manager | [Customer.io](https://customer.io) | $135K–$176K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/customerio/jobs/7964655) |
 | SR Analista Salesforce Marketing Cloud | [ília](https://lia.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/ilia/jobs/6008564004) |
+| Account Director, Media Planning | [WPP Media](https://wppmedia.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5226477008) |
 | Marketing Manager - CNBC | [Versant](https://versant.com) | $68K–$100K/yr | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Versant3/postings/744000129014140) |
 | Partnerships Manager (Webselence) | [ExpressVPN](https://expressvpn.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/expressvpn/jobs/8568487002) |
 | Alternance - Chargé(e) d’animation commerciale Marketplace F/H/X | [BUT](https://but.fr) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000128941535) |

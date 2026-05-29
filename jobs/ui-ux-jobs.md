@@ -2,12 +2,13 @@
 
 UX design, UI design, and product design roles. Figma, research, and end-to-end product work.
 
-**90 open roles** — Last updated: 2026-05-29
+**91 open roles** — Last updated: 2026-05-29
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Motion Designer | [Customer.io](https://customer.io) | $118K–$142K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/customerio/jobs/7964342) |
 | Visual / Product Designer  | [CapTech](https://captech.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/CapTechConsulting/postings/744000129014656) |
 | Principal Game Designer | [Zynga](https://zynga.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/zyngacareers/jobs/6006962004) |
 | Senior Visual / Product Designer  | [CapTech](https://captech.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/CapTechConsulting/postings/744000128991779) |

@@ -2,12 +2,13 @@
 
 Remote customer support and success roles across SaaS, e-commerce, and tech.
 
-**181 open roles** — Last updated: 2026-05-29
+**182 open roles** — Last updated: 2026-05-29
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Arby's Team Member | [Pilot Flying J](https://pilotflyingj.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/PilotCompany/postings/744000129086599) |
 | Incident Management Specialist (CX)  | [Coupang](https://coupang.com) | — | May 29 | [Apply](https://boards.greenhouse.io/coupanginternal/jobs/7964995?gh_jid=7964995) |
 | Customer Success Manager - Dedicated | [Contentful](https://contentful.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/contentful/jobs/7947500) |
 | Logistic coordinator | [SBT Global](https://sbtglobal.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/SBTGlobalInc/postings/3743990013359349) |

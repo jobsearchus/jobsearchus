@@ -2,14 +2,20 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**287 open roles** — Last updated: 2026-05-29
+**295 open roles** — Last updated: 2026-05-29
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Indirect Tax Compliance Senior Analyst role | [Pure Storage](https://purestorage.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/7962624) |
+| Finance Systems Development Specialist - Payments & PTP | [Wolt](https://wolt.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7962870) |
 | Senior Corporate Development Manager | [Firmus Technologies](https://firmus.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/firmus/jobs/5235054008) |
+| Account Executive, Corrections | [Axon](https://axon.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/axon/jobs/7751164003) |
 | Associate II, Fund Administration (Core IS) | [Juniper Square](https://junipersquare.com) | — | May 28 | [Apply](https://jobs.ashbyhq.com/junipersquare/e28771f6-522a-4473-9eeb-b07a2a6a7ea9) |
+| Fund Attorney - Assistant Vice President | [iCapital](https://icapital.com) | $160K–$210K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8568889002) |
+| Fund Attorney - Assistant Vice President | [iCapital](https://icapital.com) | $160K–$210K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8568888002) |
+| Accounting Manager | [Relativity Space](https://relativityspace.com) | — | May 28 | [Apply](https://boards.greenhouse.io/relativity/jobs/8569889002?gh_jid=8569889002) |
 | Inbound Billing and Settlement Staff | [SBT Global](https://sbtglobal.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/SBTGlobalInc/postings/3743990013359596) |
 | Billing specialist | [SBT Global](https://sbtglobal.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/SBTGlobalInc/postings/3743990013359426) |
 | Prime Brokerage Business Architect | [Endava](https://endava.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Endava/postings/744000129014216) |
@@ -34,12 +40,14 @@ Remote finance, accounting, and analyst roles at companies of all sizes.
 | Payroll Specialist/Accountant | [Growe](https://growe.com) | — | May 28 | [Apply](https://job-boards.eu.greenhouse.io/growe/jobs/4876882101) |
 |  Invoicing Officer | [IQ-EQ](https://iqeq.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000128918329) |
 | SAP Analyst - Product Owner | [Anglo American](https://angloamerican.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000128916688) |
+| Senior Pricing Analyst | [O-I Glass](https://o-i.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/O-I/postings/744000128915479) |
 |  Senior Invoicing Officer | [IQ-EQ](https://iqeq.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000128911931) |
 | SOX Analyst | [Clear Gene](https://cleargene.com) | $110K–$140K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/clear/jobs/7962814) |
 | Head, Non-Financial Risk, Jersey | [Standard Bank](https://standardbank.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000128902549) |
 | Team Lead, Feature Trade Support | [Standard Bank](https://standardbank.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000128894625) |
 | Compliance Analyst I | [Affirm](https://affirm.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7738010003) |
 | Summer Student - Finance | [Entain](https://entaingroup.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Entain/postings/744000128893531) |
+| Senior Pricing Analyst | [O-I Glass](https://o-i.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/O-I/postings/744000128891649) |
 | Senior Treasury Analyst | [Genpak LLC](https://genpak-llc-2) | — | May 28 | [Apply](https://job-boards.greenhouse.io/brandtechplus/jobs/7949766) |
 | Finance Director | [Juniper Square](https://junipersquare.com) | $165K–$200K/yr | May 27 | [Apply](https://jobs.ashbyhq.com/junipersquare/8ea579d5-206d-4e61-801c-a534ddf766ef) |
 | Head of Accounting Policy & Financial Reporting | [OnePay](https://onepay.com) | — | May 27 | [Apply](https://jobs.ashbyhq.com/oneapp/8901a28f-98d0-4069-8c20-b52bb7416fc6) |

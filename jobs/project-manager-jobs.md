@@ -2,13 +2,16 @@
 
 Project and program management roles across tech, operations, and enterprise.
 
-**62 open roles** — Last updated: 2026-05-29
+**65 open roles** — Last updated: 2026-05-29
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Property Project Manager | [Greene King](https://greeneking.co.uk) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/GreeneKing/postings/744000129144869) |
+| Senior Project Manager | [Genpak LLC](https://genpak-llc-2) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/valtech/jobs/4876416101) |
 | Cloud Project Manager | [Genpak LLC](https://genpak-llc-2) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000129042438) |
+| Enterprise Portfolio Executive  | [9th Way Insignia](https://9thwayinsignia.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/9thwayinsignia/jobs/5234662008) |
 | Project Manager (French fluent) | [Genpak LLC](https://genpak-llc-2) | — | May 28 | [Apply](https://job-boards.greenhouse.io/brandtechplus/jobs/7963266) |
 | Projektmanager (w/m/d) EPCM Industry | [Drees & Sommer](https://dreso.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000128905599) |
 | Projektmanager (w/m/d) EPCM Industry | [Drees & Sommer](https://dreso.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000128905319) |
