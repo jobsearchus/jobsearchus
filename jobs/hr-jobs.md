@@ -2,7 +2,7 @@
 
 Remote HR, recruiting, and people operations roles.
 
-**115 open roles** — Last updated: 2026-05-30
+**116 open roles** — Last updated: 2026-05-30
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -10,6 +10,7 @@ Remote HR, recruiting, and people operations roles.
 | --- | --- | --- | --- | --- |
 | Technical Sourcer | [Replit](https://replit.com) | — | May 29 | [Apply](https://jobs.ashbyhq.com/replit/73831fe4-c4d5-4e27-91b4-f7f83a99cb73) |
 | Conference Executive | [ACCOR](https://group.accor.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000129230054) |
+| HR General Affairs  | [SBT Global](https://sbtglobal.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/SBTGlobalInc/postings/3743990013373526) |
 | Senior Manager of Global Payroll | [ŌURA](https://ouraring.com) | $170K–$200K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/oura/jobs/4264573009) |
 | Workday HRIS Analyst – Time & Absence (f/m/x) | [AUTO1 Group](https://auto1-group.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000129201374) |
 | Global HR Systems User Access Provisioning Specialist - Tires | [Continental](https://continentalserves.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000129198667) |

@@ -2,7 +2,7 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**1007 open roles** — Last updated: 2026-05-30
+**1016 open roles** — Last updated: 2026-05-30
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -13,12 +13,18 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Forward Deployed Engineer | [Attio](https://attio.com) | — | May 29 | [Apply](https://jobs.ashbyhq.com/attio/cef00929-63ab-4927-8a3c-1ea1d4224606) |
 | Forward Deployed Engineer | [Attio](https://attio.com) | — | May 29 | [Apply](https://jobs.ashbyhq.com/attio/26c31052-b667-46ae-b459-049018e55e96) |
 | Head of Engineering | [SecurityScorecard](https://securityscorecard.com) | $260K–$320K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/securityscorecard/jobs/7967783) |
+| System Engineering Analyst, Advanced Vetronics Systems | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000129255682) |
 | Engineering Manager - Platform | [Clipboard](https://clipboardhealth.com) | — | May 29 | [Apply](https://jobs.ashbyhq.com/clipboard/88f851bd-dbbd-48e1-a405-bc8168fefccf) |
 | Engineering Manager - Platform | [Clipboard](https://clipboardhealth.com) | — | May 29 | [Apply](https://jobs.ashbyhq.com/clipboard/313aa03b-462c-430f-bc94-4c4aa5f2a28d) |
+| Internal - Continental Business System (CBS) Engineer  | [Continental](https://continentalserves.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000129247809) |
+| Senior MLOps Engineer (Full Remote from France) | [Dailymotion](https://dailymotion.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Dailymotion/postings/744000129240944) |
 | Data Engineer Mid-Level | [Genpak LLC](https://genpak-llc-2) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/valtech/jobs/4878828101) |
 | Data Engineer Mid-Level | [Genpak LLC](https://genpak-llc-2) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/valtech/jobs/4877887101) |
 | Manager, Software Engineering (Card Platform) | [Affirm](https://affirm.com) | $225K–$275K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7742412003) |
+| Senior Staff Engineer (Adobe Experience Manager) | [Nagarro](https://nagarro.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000129233060) |
+| Associate Principal Engineer (AEM) | [Nagarro](https://nagarro.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000129230865) |
 | Robotics Engineer, Technical Lead | [Applied Intuition](https://applied.co) | $250K–$400K/yr | May 29 | [Apply](https://boards.greenhouse.io/appliedintuition/jobs/4700425005?gh_jid=4700425005) |
+| Associate Principal Engineer (IBM App Connect) | [Nagarro](https://nagarro.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000129229661) |
 | Robotics Engineer | [Applied Intuition](https://applied.co) | $189K–$270K/yr | May 29 | [Apply](https://boards.greenhouse.io/appliedintuition/jobs/4699945005?gh_jid=4699945005) |
 | Forward Deployed Engineer, Google Cloud, AI Expert  | [Genpak LLC](https://genpak-llc-2) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/valtech/jobs/4878748101) |
 | Senior Scientific Software Engineer, AI Simulation | [SandboxAQ](https://sandboxaq.com) | — | May 29 | [Apply](https://jobs.ashbyhq.com/sandboxaq/704b56eb-c0e1-4554-8df5-b7670f9dc425) |
@@ -54,6 +60,8 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Research Project Manager | [Western Sydney University](https://westernsydney.edu.au) | $119K–$132K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/WesternSydneyUniversity/postings/6000000001117592) |
 | Associate Consultant til Netcompany Application Services (Swedish speaking) | [Netcompany](https://netcompany.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000129099905) |
 | AI Quality evaluator -Japanese Content (12-month contract) | [Canva](https://canva.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001116859) |
+| Engineering Manager - Elements Experience | [Canva](https://canva.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001116021) |
+| Engineering Manager - Elements Experience | [Canva](https://canva.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001115998) |
 | GEOINT History Program Specialist - Senior | [ANSER](https://anser.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/analyticservicesinc/jobs/5234012008?gh_jid=5234012008) |
 | Software Engineer | [Everbridge](https://everbridge.com) | — | May 29 | [Apply](https://jobs.lever.co/everbridge/20f04a0b-eb61-4546-98f3-d48bab046b08) |
 | Senior Software Engineer, Cloud Applications | [Temporal](https://temporal.io) | $176K–$237K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/temporaltechnologies/jobs/5149574007) |
@@ -103,6 +111,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Senior Product Counsel | [ClickHouse](https://clickhouse.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/clickhouse/jobs/6007957004) |
 | Project Engineer, Vehicle Electronics  | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $78K–$91K/yr | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000128963802) |
 | Senior Scientist, Proteomics | [Flagship Pioneering, Inc.](https://flagshippioneering.com) | $126K–$160K/yr | May 28 | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8567761002?gh_jid=8567761002) |
+| System Engineering Analyst, Senior | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $105K–$132K/yr | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000128962059) |
 | Strategic Solutions Engineer, Pacific Northwest | [ClickUp](https://clickup.com) | — | May 28 | [Apply](https://jobs.ashbyhq.com/clickup/9065fdd6-2d92-4f7c-8600-8c425bd410ac) |
 | Ingénieur Big Data – Python / PySpark / Hadoop – Bordeaux (H/F) | [Everience](https://everience.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/EVERIENCE/postings/744000128956964) |
 | Data Engineer | [Gymshark](https://gymshark.com) | — | May 28 | [Apply](https://job-boards.eu.greenhouse.io/gymshark/jobs/4877514101) |

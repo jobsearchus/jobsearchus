@@ -2,22 +2,31 @@
 
 Remote operations and business operations roles across industries.
 
-**660 open roles** — Last updated: 2026-05-30
+**669 open roles** — Last updated: 2026-05-30
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Employé Polyvalent (H/F) CDD TEMPS PLEIN | [Genpak LLC](https://genpak-llc-2) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129290619) |
+| Business Operations Transformation & AI Principal - Remote | [Experian](https://experianplc.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000129290010) |
+| Business Support (Korean Bilingual) | [SBT Global](https://sbtglobal.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/SBTGlobalInc/postings/3743990013385746) |
+| Sr. Director, Global Customer Services Operations | [Freshworks](https://freshworks.com) | $270K–$330K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000129263199) |
 | Assistant General Manager - Soho House Nashville | [Soho House](https://sohohouse.com) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4878871101) |
 | Director, Business Operations  | [Papa](https://papa.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/papa/jobs/5149785007) |
 | Crane Operator | [Enviva](https://envivabiomass.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/enviva/jobs/7753871003) |
 | Electrical Technician | [Enviva](https://envivabiomass.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/enviva/jobs/7753866003) |
+| Driver - Three Leaf Catering | [University of Notre Dame](https://universityofnotredame.com) | $18/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013378828) |
 | CCTV Installation Technician | [DH Pace Company](https://dhpace.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5235982008) |
 | Revenue Enablement Program Manager | [OpenLoop](https://openloop.com) | — | May 29 | [Apply](https://jobs.ashbyhq.com/openloophealth/6d6baaf4-644c-45d2-a270-ec058a807671) |
+| Chef de caisse F/H/X | [BUT](https://but.fr) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000129230239) |
+| Class 5, 5- Ton Operator for City P&D Saskatoon | [Manitoulin Global Forwarding](https://manitoulingroup.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000129227109) |
 | Técnico(a) de Obras Júnior | [Egis](https://egis-group.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000129226459) |
 | Superintendent Project Support | [Anglo American](https://angloamerican.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000129222709) |
 | Asesor Costos y Tendencias | [Anglo American](https://angloamerican.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000129220740) |
 | Asesor Programación y Avances | [Anglo American](https://angloamerican.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000129218577) |
+| MODELE INTERMARCHE - MANAGER DE RAYON (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129219680) |
+| MODELE INTERMARCHE - RESPONSABLE FRUITS ET LEGUMES (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129217004) |
 | Coordenador(a) Geral | [Egis](https://egis-group.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000129216340) |
 | MODELE BRICOMARCHE - RECEPTIONNAIRE (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129212129) |
 |  RESPONSABLE CAISSE (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129211416) |

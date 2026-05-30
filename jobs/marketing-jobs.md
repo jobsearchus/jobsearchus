@@ -2,22 +2,26 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**246 open roles** — Last updated: 2026-05-30
+**250 open roles** — Last updated: 2026-05-30
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Marketing Analyst - Merchandise Operations  | [Continental](https://continentalserves.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000129246369) |
 | Sr. Revenue Accountant (Remote) | [Rula](https://rula.com) | — | May 29 | [Apply](https://jobs.ashbyhq.com/rula/925f123c-ca74-49f4-808d-f13d563ac4dc) |
 | Senior Client Account Manager, App Dev Enterprise | [Reddit](https://reddit.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/7967291) |
 | Digital Marketing Executive   | [Egis](https://egis-group.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000129212074) |
 | Product Marketing Lead, Core Banking | [Monzo](https://monzo.com) | £94K–£124K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7966820) |
+| Director, Marketing Operations | [Freshworks](https://freshworks.com) | $220K–$270K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000129206122) |
+| Manager, Brand Marketing | [NBCUniversal](https://nbcuniversal.com) | $75K–$105K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000129191389) |
 | Senior Paid User Acquisition Strategist | [RevenueCat](https://revenuecat.com) | — | May 29 | [Apply](https://jobs.ashbyhq.com/revenuecat/421588b5-5f58-4c86-a3c4-8b425eafa543) |
 | Integrated Marketing Lead, Business Banking | [Monzo](https://monzo.com) | £94K–£124K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7965914) |
 | Senior Investment Writer - 12m FTC | [Man Group](https://man.com) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/mangroup/jobs/4876548101) |
 | Social Media Specialist | [Netcompany](https://netcompany.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000129132731) |
 | Campaign Specialist  | [VML MAP](https://vml-map.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/map/jobs/8568844002) |
 | Ads and Promos Sales Manager | [Wolt](https://wolt.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7962985) |
+| Senior Social Media Operations Lead | [Canva](https://canva.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001116082) |
 | Events Marketing Manager, EMEA/META | [Censys](https://censys.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/censys/jobs/8556846002) |
 | Senior Performance Marketing Manager, SMB | [NerdWallet](https://nerdwallet.com) | — | May 28 | [Apply](https://jobs.ashbyhq.com/nerdwallet/9eb0490a-850b-48e1-bae1-1f1c9a055d41) |
 | Senior Product Marketing Manager | [Customer.io](https://customer.io) | $135K–$176K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/customerio/jobs/7964655) |

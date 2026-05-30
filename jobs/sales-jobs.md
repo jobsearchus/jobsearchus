@@ -2,12 +2,13 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**594 open roles** — Last updated: 2026-05-30
+**596 open roles** — Last updated: 2026-05-30
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Account Executive - Credit Unions (Remote) | [Experian](https://experianplc.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000129290129) |
 | 営業チームリーダー/ Sales Team Lead | [Too Good To Go](https://toogoodtogo.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/toogoodtogo/jobs/7749094003) |
 | Account Executive | [Attio](https://attio.com) | — | May 29 | [Apply](https://jobs.ashbyhq.com/attio/d3f7d63a-2646-449e-b244-cd74e270fb5c) |
 | Deal Desk Analyst | [Apollo.io](https://apollo.io) | — | May 29 | [Apply](https://job-boards.greenhouse.io/apolloio/jobs/6008747004) |
@@ -18,6 +19,7 @@ Remote sales roles — account executives, SDRs, and enterprise deals.
 | Sales Acceleration Specialist | [Veeam Software](https://veeam.com) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4857560101) |
 | Specialty Representative, Psychiatry - Belleville, IL/Effingham, IL | [AbbVie](https://abbvie.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/AbbVie/postings/3743990013370386) |
 | Account Executive – Agency Growth | [Searchable](https://searchable.com) | — | May 29 | [Apply](https://jobs.ashbyhq.com/searchable/f887905c-f90a-4903-88c8-bdb63a26f4d8) |
+| Sales Director, NBC & Telemundo Connecticut  | [NBCUniversal](https://nbcuniversal.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000129184659) |
 | Principal Post Sales Solution Consultant  | [Socure](https://socure.com) | — | May 29 | [Apply](https://jobs.ashbyhq.com/socure/bb454729-b563-4416-95d2-89f59b2351f1) |
 | (Senior) Demand Generation Specialist - SAP Business Suite (m/f/d)  | [Nagarro](https://nagarro.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000129173646) |
 | Channel Sales Account Executive (South West Region) | [Sectigo](https://sectigo.com) | $170K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Sectigo/postings/3743990013367697) |

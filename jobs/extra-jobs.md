@@ -2,7 +2,7 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**670 open roles** — Last updated: 2026-05-30
+**672 open roles** — Last updated: 2026-05-30
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -18,6 +18,7 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Serveur - Service aux chambres Nuit | [ACCOR](https://group.accor.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000129229509) |
 | Full Time Resident Engagement Assistant (AM) | [Silverado](https://silverado.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/silverado/jobs/5150012007) |
 | Patient Care Coordinator- South Grove clinic | [BenchMark Physical Therapy](https://benchmarkpt.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/benchmarkpt/jobs/5149783007) |
+| Shuttle Driver (Full Time or Part Time) -  Weekends Off - Fulshear / Katy | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000129211312) |
 | Lunchtime Teaching Assistant  | [Fennies Day Nurseries](https://fennies.com) | £14/yr | May 29 | [Apply](https://job-boards.eu.greenhouse.io/fenniesdaynurseries/jobs/4878699101) |
 | Executive Assistant, CFO & CEO | [Apollo.io](https://apollo.io) | — | May 29 | [Apply](https://job-boards.greenhouse.io/apolloio/jobs/6007688004) |
 | Administrative Manager-Medical Education | [Northwestern Medicine](https://northwesternmedicine.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/NorthwesternMedicine/postings/744000129186404) |
@@ -38,6 +39,7 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | RN Triage | [Healthcare Australia](https://healthcareaustralia.com.au) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/HealthcareAustralia1/postings/6000000001115724) |
 | Registered Nurse – AOD (Mon–Fri) - No Shift Work | [Healthcare Australia](https://healthcareaustralia.com.au) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/HealthcareAustralia1/postings/6000000001115242) |
 | Mental Health Registered Nurse (Casual) | [Healthcare Australia](https://healthcareaustralia.com.au) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/HealthcareAustralia1/postings/6000000001115193) |
+| Registered Nurse - Mental Health (Mon–Fri) - No Shift Work | [Healthcare Australia](https://healthcareaustralia.com.au) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/HealthcareAustralia1/postings/6000000001115169) |
 | Mechanical Engineer | [Cerebras Systems](https://cerebras.net) | $180K–$200K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/cerebrassystems/jobs/7752149003) |
 | Procurement Manager | [Firmus Technologies](https://firmus.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/firmus/jobs/5231959008) |
 | Senior Engineer, Loads & Dynamics | [Archer](https://archer.com) | $125K–$160K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7736340003) |

@@ -2,7 +2,7 @@
 
 Product manager roles at companies building real products. Sourced directly from career pages.
 
-**117 open roles** — Last updated: 2026-05-30
+**118 open roles** — Last updated: 2026-05-30
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -10,6 +10,7 @@ Product manager roles at companies building real products. Sourced directly from
 | --- | --- | --- | --- | --- |
 | Group Product Manager - Quantum Networking | [IonQ](https://ionq.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/ionq/jobs/6007348004) |
 | Principal Product Manager II, International | [Life360](https://life360.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/life360/jobs/8571175002) |
+| Sr Product Manager | [NBCUniversal](https://nbcuniversal.com) | $120K–$160K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000129195089) |
 | Staff Product Manager, Communications | [OpenLoop](https://openloop.com) | — | May 29 | [Apply](https://jobs.ashbyhq.com/openloophealth/bcb7f477-8d02-42df-8773-cb22b0857dbb) |
 | PM Consultor - Ascend Analytical | [Experian](https://experianplc.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000129185969) |
 | Product owner - Data & AI | [Genpak LLC](https://genpak-llc-2) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/valtech/jobs/4876453101) |

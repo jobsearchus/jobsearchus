@@ -2,12 +2,13 @@
 
 Remote administrative and executive assistant roles across industries.
 
-**25 open roles** — Last updated: 2026-05-30
+**26 open roles** — Last updated: 2026-05-30
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Academic Coordinator - School of Architecture | [University of Notre Dame](https://universityofnotredame.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013376286) |
 |  Senior Administrator | [IQ-EQ](https://iqeq.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000129214700) |
 | Administrative Assistant | [Crestwood Behavioral Health](https://crestwoodbehavioralhealth.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/crestwoodcareers/jobs/7753443003) |
 | Directieassistent(e) | [BESIX](https://besix.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000128883909) |
