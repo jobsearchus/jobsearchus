@@ -2,12 +2,13 @@
 
 Remote HR, recruiting, and people operations roles.
 
-**119 open roles** — Last updated: 2026-05-30
+**121 open roles** — Last updated: 2026-05-30
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| People & Culture Administrator | [Primark Tiendas SLU](https://primark.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000129298749) |
 | Director, Total Rewards  | [Enviva](https://envivabiomass.com) | — | May 30 | [Apply](https://job-boards.greenhouse.io/enviva/jobs/7751219003) |
 | Technical Sourcer | [Replit](https://replit.com) | — | May 29 | [Apply](https://jobs.ashbyhq.com/replit/73831fe4-c4d5-4e27-91b4-f7f83a99cb73) |
 | Automotive Technician / Mechanic -Up to $50/Hr* & Weekends Off - Maineville | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | $50/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000129242054) |
@@ -24,6 +25,7 @@ Remote HR, recruiting, and people operations roles.
 | McWane - Group Director, Human Resources | [McWane](https://mcwane.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/McWaneInc/postings/3743990013359506) |
 | People Systems & Programs Lead | [Mariana Minerals](https://marianaminerals.com) | — | May 28 | [Apply](https://jobs.ashbyhq.com/marianaminerals/b921d3a0-ba9d-49ee-a4d1-93612a784b42) |
 | Recruiting Coordinator | [Chime](https://chime.com) | $15K/yr | May 28 | [Apply](https://boards.greenhouse.io/chime/jobs/8555624002?gh_jid=8555624002) |
+| Senior Recruiter - Sales (Contract) | [The Trade Desk](https://thetradedesk.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5149294007) |
 | Account Executive (ENT/Strategic) (Hybrid) | [KnowBe4](https://knowbe4.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8569022002) |
 | EMEA North Payroll Specialist | [Sophos](https://sophos.com) | — | May 28 | [Apply](https://jobs.lever.co/sophos/e0091970-2165-45c0-a91b-8f010a204df4) |
 | Confidential Assistant to Chief Human Resources Officer | [ACLU](https://aclu.org) | — | May 28 | [Apply](https://job-boards.greenhouse.io/aclu/jobs/8568784002) |

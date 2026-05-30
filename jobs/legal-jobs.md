@@ -2,13 +2,14 @@
 
 Remote legal, compliance, and counsel roles.
 
-**72 open roles** — Last updated: 2026-05-30
+**73 open roles** — Last updated: 2026-05-30
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | Corporate Counsel, Consumer Services | [Experian](https://experianplc.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000129268659) |
+| Senior Contracts Manager | [Discord](https://discord.com) | $180K–$202K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/discord/jobs/8571373002) |
 | Director, Legal Operations | [The New York Times](https://thenewyorktimes.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4699877005) |
 | AGC - Corporate, Securities and Compliance | [Freshworks](https://freshworks.com) | $270K–$405K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000129242689) |
 | Legal Assistant | [Rovio](https://rovio.com) | — | May 29 | [Apply](https://jobs.lever.co/rovio-2/4fa4fb06-76e3-4c31-9d51-efbab10c3e1d) |

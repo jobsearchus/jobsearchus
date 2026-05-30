@@ -2,16 +2,21 @@
 
 Product manager roles at companies building real products. Sourced directly from career pages.
 
-**119 open roles** — Last updated: 2026-05-30
+**124 open roles** — Last updated: 2026-05-30
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Staff Product Manager, Relationship Growth | [Faire](https://faire.com) | $220K–$303K/yr | May 29 | [Apply](https://boards.greenhouse.io/faire/jobs/8572160002?gh_jid=8572160002) |
+| Staff Product Manager, Inspire & App | [Faire](https://faire.com) | $220K–$303K/yr | May 29 | [Apply](https://boards.greenhouse.io/faire/jobs/8572155002?gh_jid=8572155002) |
+| Principal Product Manager, Growth | [Docker](https://docker.com) | — | May 29 | [Apply](https://jobs.ashbyhq.com/docker/6a37877b-cd18-4014-91b1-284516f0a8a1) |
 | Group Product Manager - Quantum Networking | [IonQ](https://ionq.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/ionq/jobs/6007348004) |
 | Principal Product Manager II, International | [Life360](https://life360.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/life360/jobs/8571175002) |
 | Senior Product Manager | [Netcompany](https://netcompany.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000129206263) |
 | Sr Product Manager | [NBCUniversal](https://nbcuniversal.com) | $120K–$160K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000129195089) |
+| Product Owner | [Genpak LLC](https://genpak-llc-2) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/valtech/jobs/4878636101) |
+| Product Owner | [Genpak LLC](https://genpak-llc-2) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/valtech/jobs/4799830101) |
 | Staff Product Manager, Communications | [OpenLoop](https://openloop.com) | — | May 29 | [Apply](https://jobs.ashbyhq.com/openloophealth/bcb7f477-8d02-42df-8773-cb22b0857dbb) |
 | PM Consultor - Ascend Analytical | [Experian](https://experianplc.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000129185969) |
 | Product owner - Data & AI | [Genpak LLC](https://genpak-llc-2) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/valtech/jobs/4876453101) |

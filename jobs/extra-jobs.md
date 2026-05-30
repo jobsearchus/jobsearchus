@@ -2,18 +2,31 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**683 open roles** — Last updated: 2026-05-30
+**699 open roles** — Last updated: 2026-05-30
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Taco Bell Team Member | [Pilot Flying J](https://pilotflyingj.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/PilotCompany/postings/744000129300059) |
+| Verkäufer/in (a) 20% (Samstags) | [JYSK](https://jysk.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000129299399) |
+| Visual Merchandiser | [Primark Tiendas SLU](https://primark.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000129299309) |
+| JYSK MAĞAZA MÜDÜR YARDIMCISI (KUŞADASI) | [JYSK](https://jysk.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000129297638) |
+| JYSK MAĞAZA MÜDÜR YARDIMCISI (KUŞADASI) | [JYSK](https://jysk.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000129297498) |
+| Voiturier - Hôte d'accueil polyvalent H/F - 43H saisonnier | [Relais & Châteaux](https://relaischateaux.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000129293269) |
+| Night Auditor (rythme 4/3) - Hôtel Les Roches  | [Relais & Châteaux](https://relaischateaux.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000129292239) |
 | Executive Chef | [ACCOR](https://group.accor.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000129291249) |
 | Demi Chef de Partie - Bakery | [ACCOR](https://group.accor.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000129289869) |
+| IT Helpdesk Analyst | [Momentus](https://momentus.space) | — | May 30 | [Apply](https://job-boards.greenhouse.io/momentus/jobs/6009633004) |
+| Integration Technician II, Second Shift | [Relativity Space](https://relativityspace.com) | — | May 30 | [Apply](https://boards.greenhouse.io/relativity/jobs/8572164002?gh_jid=8572164002) |
 | Residential Counselor I/II - Monroe House Thurs/Fri/Sat 8am-8pm | [WellPower - All External Jobs](https://wellpower.org) | $28/yr | May 29 | [Apply](https://job-boards.greenhouse.io/mentalhealthcenterofdenver/jobs/7754228003) |
+| Director, Learning | [Affirm](https://affirm.com) | $191K–$271K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7741870003) |
+| Director, Learning | [Affirm](https://affirm.com) | $245K–$325K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7741868003) |
 | Residential Counselor I/II - Monroe House Thurs/Fri/Sat AON 8pm-8am  | [WellPower - All External Jobs](https://wellpower.org) | $28/yr | May 29 | [Apply](https://job-boards.greenhouse.io/mentalhealthcenterofdenver/jobs/7754222003) |
+| Medical Assistant Lead – Akido Scope AI Clinic | [Akido Labs](https://akidolabs.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/akidolabs/jobs/4683687006) |
 | Senior Solution Architect | [Agiloft](https://agiloft.com) | — | May 29 | [Apply](https://jobs.lever.co/agiloft/1df86513-7a0c-4a2a-965b-9aaeece6271c) |
 | Senior Manager of Care Transformation | [BetterHelp](https://betterhelp.com) | $130K–$170K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/betterhelpcom/jobs/5236303008) |
+| Housekeeping Leader - The Wickaninnish Inn | [Relais & Châteaux](https://relaischateaux.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000129257329) |
 | Commercial Door Installer Trainee | [DH Pace Company](https://dhpace.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5236036008) |
 | Commercial Door Service Technicians | [DH Pace Company](https://dhpace.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5236015008) |
 | Physical Therapist Assistant, PTA | [InHomeTherapy](https://inhometherapy.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/inhometherapy/jobs/5150158007) |
@@ -22,12 +35,15 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Assistant Program Director  | [Crestwood Behavioral Health](https://crestwoodbehavioralhealth.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/crestwoodcareers/jobs/7753527003) |
 | Room Attendant | [ACCOR](https://group.accor.com) | $22/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000129229848) |
 | Serveur - Service aux chambres Nuit | [ACCOR](https://group.accor.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000129229509) |
+| Investment Operations Apprentice | [Man Group](https://man.com) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/mangroup/jobs/4799144101) |
 | Part Time Caregiver (PM) | [Silverado](https://silverado.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/silverado/jobs/5150029007) |
 | Full Time Resident Engagement Assistant (AM) | [Silverado](https://silverado.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/silverado/jobs/5150012007) |
 | Patient Care Coordinator- South Grove clinic | [BenchMark Physical Therapy](https://benchmarkpt.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/benchmarkpt/jobs/5149783007) |
 | Shuttle Driver (Full Time or Part Time) -  Weekends Off - Fulshear / Katy | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000129211312) |
 | Lunchtime Teaching Assistant  | [Fennies Day Nurseries](https://fennies.com) | £14/yr | May 29 | [Apply](https://job-boards.eu.greenhouse.io/fenniesdaynurseries/jobs/4878699101) |
 | Executive Assistant, CFO & CEO | [Apollo.io](https://apollo.io) | — | May 29 | [Apply](https://job-boards.greenhouse.io/apolloio/jobs/6007688004) |
+| Global Director Health & Safety | [O-I Glass](https://o-i.com) | $170K–$220K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/O-I/postings/744000129200087) |
+| Tech Support Apprentice | [Man Group](https://man.com) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/mangroup/jobs/4799148101) |
 | Administrative Manager-Medical Education | [Northwestern Medicine](https://northwesternmedicine.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/NorthwesternMedicine/postings/744000129186404) |
 | Physical Therapist Assistant, PTA,  Downtown Chicago | [InHomeTherapy](https://inhometherapy.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/inhometherapy/jobs/5145407007) |
 | AI Search Innovation Strategist - Madrid based | [Fever](https://feverup.com) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4878580101) |

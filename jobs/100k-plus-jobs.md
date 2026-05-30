@@ -2,15 +2,21 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**456 open roles** — Last updated: 2026-05-30
+**465 open roles** — Last updated: 2026-05-30
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Staff Product Manager, Relationship Growth | [Faire](https://faire.com) | $220K–$303K/yr | May 29 | [Apply](https://boards.greenhouse.io/faire/jobs/8572160002?gh_jid=8572160002) |
+| Staff Product Manager, Inspire & App | [Faire](https://faire.com) | $220K–$303K/yr | May 29 | [Apply](https://boards.greenhouse.io/faire/jobs/8572155002?gh_jid=8572155002) |
+| Director, Learning | [Affirm](https://affirm.com) | $191K–$271K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7741870003) |
+| Director, Learning | [Affirm](https://affirm.com) | $245K–$325K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7741868003) |
 | Welding Engineer, Special Projects | [Hadrian](https://hadrian.com) | $125K–$175K/yr | May 29 | [Apply](https://jobs.ashbyhq.com/hadrian-automation/f1665fdf-2e50-4ed6-b2b2-0c37c4f71474) |
 | Vice President of Marketing (DocUpdate) | [Impiricus](https://impiricus.com) | $170K–$190K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/impiricus/jobs/5207613008) |
 | Director - Business Development | [IQ-EQ](https://iqeq.com) | $150K–$180K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000129267459) |
+| Senior Contracts Manager | [Discord](https://discord.com) | $180K–$202K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/discord/jobs/8571373002) |
+| Director of Engineering, Safety | [Discord](https://discord.com) | $400K–$450K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/discord/jobs/8571766002) |
 | Director, Media Activation | [Salt XC](https://saltxc.com) | $110K–$140K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/saltxc/jobs/5150743007) |
 | Sr. Director, Global Customer Services Operations | [Freshworks](https://freshworks.com) | $270K–$330K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000129263199) |
 | Senior Manager of Care Transformation | [BetterHelp](https://betterhelp.com) | $130K–$170K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/betterhelpcom/jobs/5236303008) |
@@ -33,6 +39,7 @@ Remote roles paying $100,000 or more per year. Salary data pulled directly from 
 | Head of Security Engineering | [BetterHelp](https://betterhelp.com) | $250K–$300K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/betterhelpcom/jobs/5217845008) |
 | Director, Marketing Operations | [Freshworks](https://freshworks.com) | $220K–$270K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000129206122) |
 | Full Stack Engineer, Observability | [LaunchDarkly](https://launchdarkly.com) | $171K–$235K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/launchdarkly/jobs/7750105003) |
+| Global Director Health & Safety | [O-I Glass](https://o-i.com) | $170K–$220K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/O-I/postings/744000129200087) |
 | Principal Operations Engineer, Electrical — Data Center Operations | [Fluidstack](https://fluidstack.com) | $200K–$250K/yr | May 29 | [Apply](https://jobs.ashbyhq.com/fluidstack/f41fecee-f230-4ae7-b7bb-2aaebb27f82f) |
 | Sr Product Manager | [NBCUniversal](https://nbcuniversal.com) | $120K–$160K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000129195089) |
 | Senior Technical Business Systems Analyst | [CapTech](https://captech.com) | $115K–$150K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/CapTechConsulting/postings/744000129189779) |
@@ -42,9 +49,11 @@ Remote roles paying $100,000 or more per year. Salary data pulled directly from 
 | Change & Adoption Manager | [Western Sydney University](https://westernsydney.edu.au) | $138K–$147K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/WesternSydneyUniversity/postings/6000000001117732) |
 | Research Project Manager | [Western Sydney University](https://westernsydney.edu.au) | $119K–$132K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/WesternSydneyUniversity/postings/6000000001117592) |
 | Head of Student Voice, Advocacy and Wellbeing | [Western Sydney University](https://westernsydney.edu.au) | $118K–$147K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/WesternSydneyUniversity/postings/6000000001117409) |
+| Professor, School of Law | [Western Sydney University](https://westernsydney.edu.au) | $226K–$234K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/WesternSydneyUniversity/postings/6000000001116545) |
 | Mechanical Engineer | [Cerebras Systems](https://cerebras.net) | $180K–$200K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/cerebrassystems/jobs/7752149003) |
 | Senior Software Engineer, Cloud Applications | [Temporal](https://temporal.io) | $176K–$237K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/temporaltechnologies/jobs/5149574007) |
 | Principal Certification Engineer | [Archer](https://archer.com) | $250K–$310K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7741074003) |
+| Staff Software Engineer, EEC | [Archer](https://archer.com) | $170K–$215K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7740913003) |
 | Staff Software Engineer, BMS | [Archer](https://archer.com) | $170K–$215K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7740909003) |
 | Senior Engineer, Loads & Dynamics | [Archer](https://archer.com) | $125K–$160K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7736340003) |
 | Attorney, LATAM Funds and Distribution - Vice President | [iCapital](https://icapital.com) | $180K–$220K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8568896002) |

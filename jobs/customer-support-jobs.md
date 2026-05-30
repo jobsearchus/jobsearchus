@@ -2,12 +2,13 @@
 
 Remote customer support and success roles across SaaS, e-commerce, and tech.
 
-**188 open roles** — Last updated: 2026-05-30
+**189 open roles** — Last updated: 2026-05-30
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Customer Experience Associate | [Nabis](https://nabis.com) | — | May 30 | [Apply](https://job-boards.greenhouse.io/nabis/jobs/6009617004) |
 | Junior Customer Service Operations Manager (f/m/d) | [AUTO1 Group](https://auto1-group.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000129214895) |
 | Access Team Lead Full Time Evenings  | [Northwestern Medicine](https://northwesternmedicine.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/NorthwesternMedicine/postings/744000129193909) |
 | Server or Bartender? Become an On-Camera Game Host – from $17.25/hr + Tips | [Evolution](https://evolution.com) | $17/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Evolution/postings/744000129180550) |

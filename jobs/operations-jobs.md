@@ -2,7 +2,7 @@
 
 Remote operations and business operations roles across industries.
 
-**681 open roles** — Last updated: 2026-05-30
+**686 open roles** — Last updated: 2026-05-30
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -10,10 +10,13 @@ Remote operations and business operations roles across industries.
 | --- | --- | --- | --- | --- |
 | Employé Polyvalent (H/F) CDD TEMPS PLEIN | [Genpak LLC](https://genpak-llc-2) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129290619) |
 | Business Operations Transformation & AI Principal - Remote | [Experian](https://experianplc.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000129290010) |
+| Fleet & Facilities Site Manager | [Nabis](https://nabis.com) | $75K–$80K/yr | May 30 | [Apply](https://job-boards.greenhouse.io/nabis/jobs/6009625004) |
 | Business Support (Korean Bilingual) | [SBT Global](https://sbtglobal.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/SBTGlobalInc/postings/3743990013385746) |
 | Risk Management Support Task Lead(TransCom SISO) | [Horizon Industries](https://horizonindustries.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/horizonindustrieslimited/jobs/5236327008) |
+| Senior Technical Program Manager | [Twitch](https://twitch.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8572069002) |
 | Sr. Director, Global Customer Services Operations | [Freshworks](https://freshworks.com) | $270K–$330K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000129263199) |
 | MBA Intern | [Arine](https://arine.com) | $25/yr | May 29 | [Apply](https://job-boards.greenhouse.io/arine/jobs/6004422004) |
+| Copy Cataloger  | [LightFeather](https://lightfeather.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5236212008) |
 | Automotive Technician / Mechanic - Climate Controlled Shop - Up to $60/Hr & Weekends Off - Brandermill | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | $60/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000129253449) |
 | Operadora / Operador Logístico Armazém | [Anglo American](https://angloamerican.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000129249035) |
 | Assistant General Manager - Soho House Nashville | [Soho House](https://sohohouse.com) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4878871101) |
@@ -59,6 +62,7 @@ Remote operations and business operations roles across industries.
 | Production Merchandiser | [Gymshark](https://gymshark.com) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/gymshark/jobs/4873861101) |
 | Front Office Assistant - Part Time | [VML MAP](https://vml-map.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/map/jobs/8570497002) |
 | Change & Adoption Manager | [Western Sydney University](https://westernsydney.edu.au) | $138K–$147K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/WesternSydneyUniversity/postings/6000000001117732) |
+| Student Experience Administrative Officer | [Western Sydney University](https://westernsydney.edu.au) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/WesternSydneyUniversity/postings/6000000001116234) |
 | Employee Relations Specialist | [Scopely](https://scopely.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/scopely/jobs/5210637008) |
 | Shift Supervisor - Barranco | [Delivery Hero](https://deliveryhero.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000129050479) |
 | Picker HUB | [Delivery Hero](https://deliveryhero.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000129049169) |
@@ -76,6 +80,7 @@ Remote operations and business operations roles across industries.
 | Part-Time Class 1 Driver for City Pickup & Delivery Great Incentive Pay!! | [Manitoulin Global Forwarding](https://manitoulingroup.com) | $26/yr | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000129033479) |
 | Design Operations Specialist  | [GitLab](https://about.gitlab.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8498821002) |
 | Senior Project Coordinator | [MSX International](https://msxi.com) | $70K–$87K/yr | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013357358) |
+| Dental Launch Trainer | [Dandy](https://meetdandy.com) | — | May 28 | [Apply](https://jobs.ashbyhq.com/dandy/e3109a50-f0c5-434f-af91-fbf994828483) |
 | Project Manager - Strategic Operations | [Continental](https://continentalserves.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000129017549) |
 | Copy of Class A Commercial Driver - $10,000 Sign-On Bonus- Home Every Night | [Super-Sod](https://supersod.com) | $52K–$100K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/supersod/jobs/5234557008) |
 | Department Coordinator - East Asian Languages & Culture | [University of Notre Dame](https://universityofnotredame.com) | $25/yr | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013354586) |

@@ -2,12 +2,13 @@
 
 General developer and programmer roles that did not fit a more specific category.
 
-**76 open roles** — Last updated: 2026-05-30
+**77 open roles** — Last updated: 2026-05-30
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| AI Developer | [Moonshot Brands](https://moonshotbrands.com) | — | May 30 | [Apply](https://job-boards.greenhouse.io/moonshot/jobs/4265696009) |
 | Application Programmer (EBS) | [Horizon Industries](https://horizonindustries.com) | $115K–$125K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/horizonindustrieslimited/jobs/5235974008) |
 | Senior Java Developer | [Miratech](https://miratech.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000129137789) |
 | Salesforce CPQ Developer | [CapTech](https://captech.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/CapTechConsulting/postings/744000128978613) |

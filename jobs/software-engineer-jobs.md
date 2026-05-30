@@ -2,7 +2,7 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**1028 open roles** — Last updated: 2026-05-30
+**1050 open roles** — Last updated: 2026-05-30
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -10,10 +10,22 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | --- | --- | --- | --- | --- |
 | Tech Lead — ClarOps (Líder Técnico de ClarOps) - Remote | [Clara](https://clara.com) | — | May 30 | [Apply](https://job-boards.greenhouse.io/clara/jobs/5150834007) |
 | Business Systems Analyst | [Natera](https://natera.com) | — | May 30 | [Apply](https://job-boards.greenhouse.io/natera/jobs/6000552004) |
+| Senior Customer Engineer, Web3 | [Cloudflare](https://cloudflare.com) | — | May 30 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7953656?gh_jid=7953656) |
+| Staff Product Engineer | [Vitable Health](https://vitablehealth.com) | — | May 30 | [Apply](https://job-boards.greenhouse.io/vitablehealth/jobs/4701248005) |
+| Sr. Staff Engineer, Battery Cell Stack | [Archer](https://archer.com) | — | May 30 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7740930003) |
+| AI Development Manager | [Moonshot Brands](https://moonshotbrands.com) | — | May 30 | [Apply](https://job-boards.greenhouse.io/moonshot/jobs/4265694009) |
+| Software Engineer, Trade PMR | [Robinhood](https://robinhood.com) | — | May 30 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7684760?t=gh_src=&gh_jid=7684760) |
 | Auxiliar de Laboratório | [Egis](https://egis-group.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000129268091) |
 | Welding Engineer, Special Projects | [Hadrian](https://hadrian.com) | $125K–$175K/yr | May 29 | [Apply](https://jobs.ashbyhq.com/hadrian-automation/f1665fdf-2e50-4ed6-b2b2-0c37c4f71474) |
+| Manager, Engineering (Power Generation) | [xAI](https://x.ai) | — | May 29 | [Apply](https://job-boards.greenhouse.io/xai/jobs/5150828007) |
 | Drilling Engineer, Exploration & Resource Automation | [Mariana Minerals](https://marianaminerals.com) | — | May 29 | [Apply](https://jobs.ashbyhq.com/marianaminerals/72a542f1-61bc-459b-af9a-9497306ca4b6) |
+| Scientist, Medicinal Chemistry | [General Proximity](https://generalproximity.bio) | — | May 29 | [Apply](https://job-boards.greenhouse.io/generalproximity/jobs/6009487004) |
+| Director of Engineering, Safety | [Discord](https://discord.com) | $400K–$450K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/discord/jobs/8571766002) |
+| Senior Technical Program Manager | [Twitch](https://twitch.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8572068002) |
+| Senior Technical Program Manager | [Twitch](https://twitch.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8563229002) |
+| Senior Analytics Engineer | [Roofr](https://roofr.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/roofr/jobs/4699868005) |
 | Head of Engineering | [SecurityScorecard](https://securityscorecard.com) | $260K–$320K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/securityscorecard/jobs/7967900) |
+| Senior Avionics Integration and Test Technician | [Inversion Space](https://inversionspace.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/inversionspace/jobs/4701143005) |
 | Senior Network Engineer | [IonQ](https://ionq.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/ionq/jobs/6006372004) |
 | Director, Head of Product Development | [Flagship Pioneering, Inc.](https://flagshippioneering.com) | $179K–$237K/yr | May 29 | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8569002002?gh_jid=8569002002) |
 | Research Scientist, Catalyst Simulation | [SandboxAQ](https://sandboxaq.com) | — | May 29 | [Apply](https://jobs.ashbyhq.com/sandboxaq/80fc1cc6-1bdf-459a-b950-e2ce378687d0) |
@@ -22,6 +34,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | GCP Cloud Engineer | [LightFeather](https://lightfeather.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5236204008) |
 | Head of Engineering | [SecurityScorecard](https://securityscorecard.com) | $260K–$320K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/securityscorecard/jobs/7967783) |
 | Clinical Data Review Asst | [Natera](https://natera.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/natera/jobs/5997428004) |
+| Solutions Engineer | [Render](https://render.com) | — | May 29 | [Apply](https://jobs.ashbyhq.com/render/d74e304b-7e7e-4c43-9467-cf4b0764cc24) |
 | System Engineering Analyst, Advanced Vetronics Systems | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000129255682) |
 | Engineering Manager - Platform | [Clipboard](https://clipboardhealth.com) | — | May 29 | [Apply](https://jobs.ashbyhq.com/clipboard/88f851bd-dbbd-48e1-a405-bc8168fefccf) |
 | Engineering Manager - Platform | [Clipboard](https://clipboardhealth.com) | — | May 29 | [Apply](https://jobs.ashbyhq.com/clipboard/313aa03b-462c-430f-bc94-4c4aa5f2a28d) |
@@ -35,6 +48,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Practicante Técnico - Mantenimiento Eléctrico Planta | [Anglo American](https://angloamerican.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000129228759) |
 | Robotics Engineer, Technical Lead | [Applied Intuition](https://applied.co) | $250K–$400K/yr | May 29 | [Apply](https://boards.greenhouse.io/appliedintuition/jobs/4700425005?gh_jid=4700425005) |
 | Associate Principal Engineer (IBM App Connect) | [Nagarro](https://nagarro.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000129229661) |
+| Ingénieur(e) Forward Deployed, Google Cloud, expert(e) en IA | [Genpak LLC](https://genpak-llc-2) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/valtech/jobs/4878750101) |
 | Robotics Engineer | [Applied Intuition](https://applied.co) | $189K–$270K/yr | May 29 | [Apply](https://boards.greenhouse.io/appliedintuition/jobs/4699945005?gh_jid=4699945005) |
 | Forward Deployed Engineer, Google Cloud, AI Expert  | [Genpak LLC](https://genpak-llc-2) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/valtech/jobs/4878748101) |
 | Senior Scientific Software Engineer, AI Simulation | [SandboxAQ](https://sandboxaq.com) | — | May 29 | [Apply](https://jobs.ashbyhq.com/sandboxaq/704b56eb-c0e1-4554-8df5-b7670f9dc425) |
@@ -52,8 +66,11 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Quantitative Analyst | [JustMarkets](https://justmarkets.com) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/justmarkets/jobs/4873071101) |
 | Scientific Director, Medical Affairs, Gastroenterology IBD Portfolio | [AbbVie](https://abbvie.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/AbbVie/postings/3743990013369355) |
 | Data Architect Engineer | [Standard Bank](https://standardbank.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000129184699) |
+| AI Search Innovation Strategist - Madrid based | [Fever](https://feverup.com) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4878588101) |
+| AI Search Innovation Strategist - Madrid based | [Fever](https://feverup.com) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4878585101) |
 | SAP SuccessFactors Solution Architect (m/f/d) | [Nagarro](https://nagarro.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000129172952) |
 | AI Technical Program Manager (Localisation) | [Canva](https://canva.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001118111) |
+| Senior Engineering Manager, Supply | [Trainline](https://trainlinegroup.com) | — | May 29 | [Apply](https://jobs.ashbyhq.com/trainline/cbec5994-6886-4c89-a044-3a0ab1cfc9a9) |
 | Customer Insights Analyst (12m FTC) | [Gymshark](https://gymshark.com) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/gymshark/jobs/4878470101) |
 | Ausbildung Fachinformatiker (w/m/d) Systemintegration | [Drees & Sommer](https://dreso.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000129160344) |
 | Technicien/ne de fiabilité (H/F/N) | [Syngenta](https://syngenta.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000129155560) |
@@ -72,13 +89,16 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Research Project Manager | [Western Sydney University](https://westernsydney.edu.au) | $119K–$132K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/WesternSydneyUniversity/postings/6000000001117592) |
 | Associate Consultant til Netcompany Application Services (Swedish speaking) | [Netcompany](https://netcompany.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000129099905) |
 | AI Quality evaluator -Japanese Content (12-month contract) | [Canva](https://canva.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001116859) |
+| Professor, School of Law | [Western Sydney University](https://westernsydney.edu.au) | $226K–$234K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/WesternSydneyUniversity/postings/6000000001116545) |
 | Engineering Manager - Elements Experience | [Canva](https://canva.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001116021) |
 | Engineering Manager - Elements Experience | [Canva](https://canva.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001115998) |
 | GEOINT History Program Specialist - Senior | [ANSER](https://anser.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/analyticservicesinc/jobs/5234012008?gh_jid=5234012008) |
 | Software Engineer | [Everbridge](https://everbridge.com) | — | May 29 | [Apply](https://jobs.lever.co/everbridge/20f04a0b-eb61-4546-98f3-d48bab046b08) |
 | Senior Software Engineer, Cloud Applications | [Temporal](https://temporal.io) | $176K–$237K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/temporaltechnologies/jobs/5149574007) |
+| IT Support Analyst | [Western Sydney University](https://westernsydney.edu.au) | $86K–$97K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/WesternSydneyUniversity/postings/6000000001114922) |
 | Cost Engineer – Data Center IT Fit-Out | [Firmus Technologies](https://firmus.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/firmus/jobs/5231970008) |
 | Principal Certification Engineer | [Archer](https://archer.com) | $250K–$310K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7741074003) |
+| Staff Software Engineer, EEC | [Archer](https://archer.com) | $170K–$215K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7740913003) |
 | Staff Software Engineer, BMS | [Archer](https://archer.com) | $170K–$215K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7740909003) |
 | Attorney, LATAM Funds and Distribution - Vice President | [iCapital](https://icapital.com) | $180K–$220K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8568896002) |
 | Senior Software Engineer - Test | [Boulevard](https://joinblvd.com) | $140K–$175K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/boulevard/jobs/4685208006) |
@@ -91,7 +111,9 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Salesforce Agentforce Architect (Technical Architect) | [NeuraFlash](https://neuraflash.com) | $101K–$245K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/neuraflash/jobs/6008602004) |
 | Design and Release Engineer (Ref. L-2611) | [ALTEN](https://alten.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5149384007) |
 | Senior Director of Engineering, Emerging Products, Product Engineering | [1Password](https://1password.com) | — | May 28 | [Apply](https://jobs.ashbyhq.com/1password/3325c864-0f37-4b7d-a67b-1972104f51bb) |
+| Staff Technical Program Manager - Quantum Networking | [IonQ](https://ionq.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/ionq/jobs/6008408004) |
 | Mechanical Design Engineer (Ref. L-2612) | [ALTEN](https://alten.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5149337007) |
+| Vice President, Program Management (SJ2026TN) | [Archer](https://archer.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7751691003) |
 | Solutions Engineer Lead | [Moxie](https://joinmoxie.com) | — | May 28 | [Apply](https://jobs.ashbyhq.com/moxie/816d19f9-c88b-46c0-b02b-cda15699bab4) |
 | Power BI Optimization Consultant / Freelance Contractor | [VisasQ/Coleman](https://colemanrg.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/colemanresearch/jobs/8569363002) |
 | Analista de Desenvolvimento de Software II | [Experian](https://experianplc.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000129028149) |

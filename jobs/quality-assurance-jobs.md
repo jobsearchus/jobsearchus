@@ -2,13 +2,16 @@
 
 QA, test automation, and SDET roles. Manual and automated testing across all stacks.
 
-**33 open roles** — Last updated: 2026-05-30
+**36 open roles** — Last updated: 2026-05-30
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Manual QA Engineer | [BrainRocket](https://brainrocket.com) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/brainrocketltd/jobs/4876606101) |
+| QA Team Lead | [BrainRocket](https://brainrocket.com) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/brainrocketltd/jobs/4876143101) |
 | Manual QA Engineer  | [Veeam Software](https://veeam.com) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4877674101) |
+| Senior Manual QA Engineer | [BrainRocket](https://brainrocket.com) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/brainrocketltd/jobs/4878495101) |
 | Senior Manager, Firefox Mobile Test Engineering | [Mozilla](https://mozilla.org) | — | May 28 | [Apply](https://job-boards.greenhouse.io/mozilla/jobs/7962098) |
 | Senior Manager, Firefox Mobile Test Engineering | [Mozilla](https://mozilla.org) | — | May 28 | [Apply](https://job-boards.greenhouse.io/mozilla/jobs/7962091) |
 | Senior Manager, Firefox Mobile Test Engineering | [Mozilla](https://mozilla.org) | — | May 28 | [Apply](https://job-boards.greenhouse.io/mozilla/jobs/7961360) |

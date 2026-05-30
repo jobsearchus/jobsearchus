@@ -2,7 +2,7 @@
 
 DevOps, platform engineering, and infrastructure roles. AWS, GCP, Kubernetes, Terraform.
 
-**62 open roles** — Last updated: 2026-05-30
+**63 open roles** — Last updated: 2026-05-30
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -10,6 +10,7 @@ DevOps, platform engineering, and infrastructure roles. AWS, GCP, Kubernetes, Te
 | --- | --- | --- | --- | --- |
 | Google Cloud Platform Engineer | [LightFeather](https://lightfeather.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5236205008) |
 | GCP Cloud/DevOps Engineer | [LightFeather](https://lightfeather.com) | $160K–$180K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5236203008) |
+| DevOps Engineer | [LightFeather](https://lightfeather.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5236194008) |
 | Cloud Engineer - DevOps | [Innovative Solutions](https://innovativesolutions.com) | — | May 29 | [Apply](https://jobs.lever.co/innovativesol-2/c1d43ba8-e018-4cb2-95da-a3c56b3d1712) |
 | #EX DevOps Engineer | [NCS](https://ncs.co) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001118087) |
 | Cloud DevSecOps Engineer | [NCS](https://ncs.co) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001117925) |

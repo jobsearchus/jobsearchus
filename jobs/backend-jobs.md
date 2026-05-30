@@ -2,12 +2,13 @@
 
 Backend, server-side, and API engineering roles. Node.js, Python, Go, Ruby, Java and beyond.
 
-**48 open roles** — Last updated: 2026-05-30
+**49 open roles** — Last updated: 2026-05-30
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Backend Engineer — ClarOps (Ingeniero Backend Senior de ClarOps) - Remote | [Clara](https://clara.com) | — | May 30 | [Apply](https://job-boards.greenhouse.io/clara/jobs/5150839007) |
 | Software Engineer II, Backend (AI Agents) | [Affirm](https://affirm.com) | $125K–$175K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7637067003) |
 | Senior Backend Engineer - Alerting - Spain - Remote | [Grafana Labs](https://grafana.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6009284004) |
 | Senior Backend Engineer - Alerting - Ireland - Remote | [Grafana Labs](https://grafana.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6009285004) |

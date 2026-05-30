@@ -2,13 +2,15 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**601 open roles** — Last updated: 2026-05-30
+**607 open roles** — Last updated: 2026-05-30
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Territory Account Executive, iGaming (Thailand) | [Cloudflare](https://cloudflare.com) | — | May 30 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7962217?gh_jid=7962217) |
 | Account Executive - Credit Unions (Remote) | [Experian](https://experianplc.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000129290129) |
+| Client Partner, Mid-Market (B2B Services Acquisitions) | [Reddit](https://reddit.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/7961073) |
 | Director - Business Development | [IQ-EQ](https://iqeq.com) | $150K–$180K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000129267459) |
 | 営業チームリーダー/ Sales Team Lead | [Too Good To Go](https://toogoodtogo.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/toogoodtogo/jobs/7749094003) |
 | Field Sales Rep - Depositions by Filevine | [Filevine](https://filevine.com) | — | May 29 | [Apply](https://jobs.lever.co/filevine/6c8241da-d718-4cbb-8f7e-1523c7b99613) |
@@ -16,8 +18,12 @@ Remote sales roles — account executives, SDRs, and enterprise deals.
 | Field Sales Rep - Depositions by Filevine | [Filevine](https://filevine.com) | — | May 29 | [Apply](https://jobs.lever.co/filevine/223c7aa8-e962-4988-9f94-f08ae2c79b82) |
 | Account Executive | [Attio](https://attio.com) | — | May 29 | [Apply](https://jobs.ashbyhq.com/attio/d3f7d63a-2646-449e-b244-cd74e270fb5c) |
 | Deal Desk Analyst | [Apollo.io](https://apollo.io) | — | May 29 | [Apply](https://job-boards.greenhouse.io/apolloio/jobs/6008747004) |
+| Senior Technical Sales Enablement Manager | [Docker](https://docker.com) | — | May 29 | [Apply](https://jobs.ashbyhq.com/docker/9bb35ecd-03c1-4a66-946f-b79bb2f022eb) |
+| BDR, New Vertical  | [Dandy](https://meetdandy.com) | — | May 29 | [Apply](https://jobs.ashbyhq.com/dandy/158d49e7-f81f-4d39-8d68-48576de321ec) |
 | Technical Account Manager | [Impiricus](https://impiricus.com) | $100K–$110K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/impiricus/jobs/5235973008) |
 | Event Marketing Lead  | [Reddit](https://reddit.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/7966862) |
+| Golden Harvest Sales Representative | [Syngenta](https://syngenta.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000129224019) |
+| Golden Harvest Sales Representative | [Syngenta](https://syngenta.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000129223679) |
 | Sales Specialist im Key Accounts (w/m/d) - Befristet bis Juli 2027 | [Too Good To Go](https://toogoodtogo.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/toogoodtogo/jobs/7753503003) |
 | Field Enablement Manager | [Figma](https://figma.com) | — | May 29 | [Apply](https://boards.greenhouse.io/figma/jobs/6007619004?gh_jid=6007619004) |
 | Senior Commercial Excellence Manager | [Too Good To Go](https://toogoodtogo.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/toogoodtogo/jobs/7753335003) |

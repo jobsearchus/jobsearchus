@@ -2,12 +2,13 @@
 
 Full-stack engineering roles across product, platform, and startup companies.
 
-**37 open roles** — Last updated: 2026-05-30
+**38 open roles** — Last updated: 2026-05-30
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Full Stack Engineer  | [LightFeather](https://lightfeather.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5236217008) |
 | Senior Full-Stack Software Engineer, Player Experience | [Discord](https://discord.com) | $196K–$221K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/discord/jobs/8497565002) |
 | Full Stack Engineer, Observability | [LaunchDarkly](https://launchdarkly.com) | $171K–$235K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/launchdarkly/jobs/7750105003) |
 | Senior Fullstack Developer (Typescript, React, NodeJS) | [Referrals Only](https://thoughtworks.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7903123) |

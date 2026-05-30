@@ -2,14 +2,18 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**256 open roles** — Last updated: 2026-05-30
+**260 open roles** — Last updated: 2026-05-30
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Division Marketing Manager | [Syngenta](https://syngenta.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000129291459) |
 | Social Media Manager - Fairmont Mumbai & Roswyn, A Morgans Originals Hotel | [ACCOR](https://group.accor.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000129291399) |
+| Associate Director, Brand Marketing, Body Category, Naturium | [e.l.f. Beauty](https://elfbeauty.com) | — | May 30 | [Apply](https://jobs.lever.co/elfbeauty/d2750fa0-e6e2-4308-89b1-12a71739f16a) |
+| Growth Marketing Campaigns Manager | [Vanta](https://vanta.com) | — | May 29 | [Apply](https://jobs.ashbyhq.com/vanta/2cdee18b-8282-4107-b105-434339545a19) |
 | Vice President of Marketing (DocUpdate) | [Impiricus](https://impiricus.com) | $170K–$190K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/impiricus/jobs/5207613008) |
+| Senior Internal Communications Manager | [Checkr](https://checkr.com) | $25K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/checkr/jobs/7967991) |
 | Director, Media Activation | [Salt XC](https://saltxc.com) | $110K–$140K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/saltxc/jobs/5150743007) |
 | Media Specialist  | [Salt XC](https://saltxc.com) | $60K–$75K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/saltxc/jobs/5150682007) |
 | Snr. Communications Manager (Remote) | [KnowBe4](https://knowbe4.com) | $125K–$135K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8571798002) |

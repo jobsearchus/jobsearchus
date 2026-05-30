@@ -2,18 +2,21 @@
 
 UX design, UI design, and product design roles. Figma, research, and end-to-end product work.
 
-**97 open roles** — Last updated: 2026-05-30
+**100 open roles** — Last updated: 2026-05-30
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | Staff Gameplay Designer - Social (Contract) | [teamLFG](https://teamlfg.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/teamlfg/jobs/6000510004) |
+| CAD Designer | [xAI](https://x.ai) | — | May 29 | [Apply](https://job-boards.greenhouse.io/xai/jobs/5150780007) |
 | Senior Design Program Manager | [Blink UX](https://blinkux.com) | — | May 29 | [Apply](https://jobs.lever.co/blinkux/547d777b-88a4-4b35-a0a9-ca06e8606806) |
 | Analista de Design III | [Experian](https://experianplc.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000129184217) |
 | Dialogflow CX Design Specialist | [Miratech](https://miratech.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000129150899) |
 | Head of Design – Womenswear (12 month FTC) | [Gymshark](https://gymshark.com) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/gymshark/jobs/4878311101) |
 | Editorial Content Specialist | [Netcompany](https://netcompany.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000129132129) |
+| Senior UX/UI Designer | [VML](https://vml.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/vmlenterprisesolutions/jobs/8568530002) |
+| Senior UX/UI Designer | [VML](https://vml.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/vmlenterprisesolutions/jobs/8568501002) |
 | Senior Motion Designer | [Customer.io](https://customer.io) | $118K–$142K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/customerio/jobs/7964342) |
 | Visual / Product Designer  | [CapTech](https://captech.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/CapTechConsulting/postings/744000129014656) |
 | Principal Game Designer | [Zynga](https://zynga.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/zyngacareers/jobs/6006962004) |
