@@ -2,16 +2,21 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**596 open roles** — Last updated: 2026-05-30
+**601 open roles** — Last updated: 2026-05-30
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | Account Executive - Credit Unions (Remote) | [Experian](https://experianplc.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000129290129) |
+| Director - Business Development | [IQ-EQ](https://iqeq.com) | $150K–$180K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000129267459) |
 | 営業チームリーダー/ Sales Team Lead | [Too Good To Go](https://toogoodtogo.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/toogoodtogo/jobs/7749094003) |
+| Field Sales Rep - Depositions by Filevine | [Filevine](https://filevine.com) | — | May 29 | [Apply](https://jobs.lever.co/filevine/6c8241da-d718-4cbb-8f7e-1523c7b99613) |
+| Field Sales Rep - Depositions by Filevine | [Filevine](https://filevine.com) | — | May 29 | [Apply](https://jobs.lever.co/filevine/0c106e42-a10f-48ee-bcb9-ea797e85e33f) |
+| Field Sales Rep - Depositions by Filevine | [Filevine](https://filevine.com) | — | May 29 | [Apply](https://jobs.lever.co/filevine/223c7aa8-e962-4988-9f94-f08ae2c79b82) |
 | Account Executive | [Attio](https://attio.com) | — | May 29 | [Apply](https://jobs.ashbyhq.com/attio/d3f7d63a-2646-449e-b244-cd74e270fb5c) |
 | Deal Desk Analyst | [Apollo.io](https://apollo.io) | — | May 29 | [Apply](https://job-boards.greenhouse.io/apolloio/jobs/6008747004) |
+| Technical Account Manager | [Impiricus](https://impiricus.com) | $100K–$110K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/impiricus/jobs/5235973008) |
 | Event Marketing Lead  | [Reddit](https://reddit.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/7966862) |
 | Sales Specialist im Key Accounts (w/m/d) - Befristet bis Juli 2027 | [Too Good To Go](https://toogoodtogo.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/toogoodtogo/jobs/7753503003) |
 | Field Enablement Manager | [Figma](https://figma.com) | — | May 29 | [Apply](https://boards.greenhouse.io/figma/jobs/6007619004?gh_jid=6007619004) |

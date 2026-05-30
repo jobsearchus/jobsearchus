@@ -2,18 +2,27 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**446 open roles** — Last updated: 2026-05-30
+**456 open roles** — Last updated: 2026-05-30
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Welding Engineer, Special Projects | [Hadrian](https://hadrian.com) | $125K–$175K/yr | May 29 | [Apply](https://jobs.ashbyhq.com/hadrian-automation/f1665fdf-2e50-4ed6-b2b2-0c37c4f71474) |
+| Vice President of Marketing (DocUpdate) | [Impiricus](https://impiricus.com) | $170K–$190K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/impiricus/jobs/5207613008) |
+| Director - Business Development | [IQ-EQ](https://iqeq.com) | $150K–$180K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000129267459) |
+| Director, Media Activation | [Salt XC](https://saltxc.com) | $110K–$140K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/saltxc/jobs/5150743007) |
 | Sr. Director, Global Customer Services Operations | [Freshworks](https://freshworks.com) | $270K–$330K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000129263199) |
+| Senior Manager of Care Transformation | [BetterHelp](https://betterhelp.com) | $130K–$170K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/betterhelpcom/jobs/5236303008) |
 | Software Engineer II, Backend (AI Agents) | [Affirm](https://affirm.com) | $125K–$175K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7637067003) |
 | Head of Engineering | [SecurityScorecard](https://securityscorecard.com) | $260K–$320K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/securityscorecard/jobs/7967900) |
 | Security Analyst - Governance, Risk, and Compliance | [LaunchDarkly](https://launchdarkly.com) | $137K–$188K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/launchdarkly/jobs/7753776003) |
+| Director, Head of Product Development | [Flagship Pioneering, Inc.](https://flagshippioneering.com) | $179K–$237K/yr | May 29 | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8569002002?gh_jid=8569002002) |
+| GCP Cloud/DevOps Engineer | [LightFeather](https://lightfeather.com) | $160K–$180K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5236203008) |
 | Head of Engineering | [SecurityScorecard](https://securityscorecard.com) | $260K–$320K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/securityscorecard/jobs/7967783) |
 | NDT CT Level II and Radiation Safety Specialist | [Archer](https://archer.com) | $108K–$149K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7751399003) |
+| Snr. Communications Manager (Remote) | [KnowBe4](https://knowbe4.com) | $125K–$135K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8571798002) |
+| Technical Account Manager | [Impiricus](https://impiricus.com) | $100K–$110K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/impiricus/jobs/5235973008) |
 | AGC - Corporate, Securities and Compliance | [Freshworks](https://freshworks.com) | $270K–$405K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000129242689) |
 | Application Programmer (EBS) | [Horizon Industries](https://horizonindustries.com) | $115K–$125K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/horizonindustrieslimited/jobs/5235974008) |
 | Manager, Software Engineering (Card Platform) | [Affirm](https://affirm.com) | $225K–$275K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7742412003) |
@@ -27,6 +36,7 @@ Remote roles paying $100,000 or more per year. Salary data pulled directly from 
 | Principal Operations Engineer, Electrical — Data Center Operations | [Fluidstack](https://fluidstack.com) | $200K–$250K/yr | May 29 | [Apply](https://jobs.ashbyhq.com/fluidstack/f41fecee-f230-4ae7-b7bb-2aaebb27f82f) |
 | Sr Product Manager | [NBCUniversal](https://nbcuniversal.com) | $120K–$160K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000129195089) |
 | Senior Technical Business Systems Analyst | [CapTech](https://captech.com) | $115K–$150K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/CapTechConsulting/postings/744000129189779) |
+| Quality Manager | [Avery Dennison](https://averydennison.com) | $125K–$150K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000129179846) |
 | Channel Sales Account Executive (South West Region) | [Sectigo](https://sectigo.com) | $170K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Sectigo/postings/3743990013367697) |
 | Strategic Accounts Executive (Small Market) | [Garner Health](https://getgarner.com) | $125K–$165K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/garnerhealth/jobs/6008238004) |
 | Change & Adoption Manager | [Western Sydney University](https://westernsydney.edu.au) | $138K–$147K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/WesternSydneyUniversity/postings/6000000001117732) |

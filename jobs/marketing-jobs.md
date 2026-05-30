@@ -2,15 +2,21 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**250 open roles** — Last updated: 2026-05-30
+**256 open roles** — Last updated: 2026-05-30
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Social Media Manager - Fairmont Mumbai & Roswyn, A Morgans Originals Hotel | [ACCOR](https://group.accor.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000129291399) |
+| Vice President of Marketing (DocUpdate) | [Impiricus](https://impiricus.com) | $170K–$190K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/impiricus/jobs/5207613008) |
+| Director, Media Activation | [Salt XC](https://saltxc.com) | $110K–$140K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/saltxc/jobs/5150743007) |
+| Media Specialist  | [Salt XC](https://saltxc.com) | $60K–$75K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/saltxc/jobs/5150682007) |
+| Snr. Communications Manager (Remote) | [KnowBe4](https://knowbe4.com) | $125K–$135K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8571798002) |
 | Marketing Analyst - Merchandise Operations  | [Continental](https://continentalserves.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000129246369) |
 | Sr. Revenue Accountant (Remote) | [Rula](https://rula.com) | — | May 29 | [Apply](https://jobs.ashbyhq.com/rula/925f123c-ca74-49f4-808d-f13d563ac4dc) |
 | Senior Client Account Manager, App Dev Enterprise | [Reddit](https://reddit.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/7967291) |
+| Manager, Production - Mexico | [Spotify](https://open.spotify.com) | — | May 29 | [Apply](https://jobs.lever.co/spotify/5a5f6c09-4b9c-4c66-99c4-fcba60a2d2c8) |
 | Digital Marketing Executive   | [Egis](https://egis-group.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000129212074) |
 | Product Marketing Lead, Core Banking | [Monzo](https://monzo.com) | £94K–£124K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7966820) |
 | Director, Marketing Operations | [Freshworks](https://freshworks.com) | $220K–$270K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000129206122) |

@@ -2,13 +2,15 @@
 
 Remote cybersecurity, information security, and security engineering roles.
 
-**82 open roles** — Last updated: 2026-05-30
+**84 open roles** — Last updated: 2026-05-30
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Security Analyst | [Oddball](https://oddball.com) | $90K–$125K/yr | May 30 | [Apply](https://job-boards.greenhouse.io/oddball/jobs/7753625003) |
 | Corporate Security Engineer, IAC & Automation | [OnePay](https://onepay.com) | — | May 29 | [Apply](https://jobs.ashbyhq.com/oneapp/6a665838-2db9-412c-b1fa-2337edd2bf14) |
+| Director, Technical Support | [Blackpoint Cyber](https://blackpointcyber.com) | — | May 29 | [Apply](https://jobs.ashbyhq.com/blackpoint%20cyber/dda8bb7a-0787-4ee3-99c8-971e6f67f731) |
 | Security Analyst - Governance, Risk, and Compliance | [LaunchDarkly](https://launchdarkly.com) | $137K–$188K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/launchdarkly/jobs/7753776003) |
 | NDT CT Level II and Radiation Safety Specialist | [Archer](https://archer.com) | $108K–$149K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7751399003) |
 | Head of Security Engineering | [BetterHelp](https://betterhelp.com) | $250K–$300K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/betterhelpcom/jobs/5217845008) |

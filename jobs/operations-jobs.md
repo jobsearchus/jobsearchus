@@ -2,7 +2,7 @@
 
 Remote operations and business operations roles across industries.
 
-**669 open roles** — Last updated: 2026-05-30
+**681 open roles** — Last updated: 2026-05-30
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -11,7 +11,11 @@ Remote operations and business operations roles across industries.
 | Employé Polyvalent (H/F) CDD TEMPS PLEIN | [Genpak LLC](https://genpak-llc-2) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129290619) |
 | Business Operations Transformation & AI Principal - Remote | [Experian](https://experianplc.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000129290010) |
 | Business Support (Korean Bilingual) | [SBT Global](https://sbtglobal.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/SBTGlobalInc/postings/3743990013385746) |
+| Risk Management Support Task Lead(TransCom SISO) | [Horizon Industries](https://horizonindustries.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/horizonindustrieslimited/jobs/5236327008) |
 | Sr. Director, Global Customer Services Operations | [Freshworks](https://freshworks.com) | $270K–$330K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000129263199) |
+| MBA Intern | [Arine](https://arine.com) | $25/yr | May 29 | [Apply](https://job-boards.greenhouse.io/arine/jobs/6004422004) |
+| Automotive Technician / Mechanic - Climate Controlled Shop - Up to $60/Hr & Weekends Off - Brandermill | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | $60/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000129253449) |
+| Operadora / Operador Logístico Armazém | [Anglo American](https://angloamerican.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000129249035) |
 | Assistant General Manager - Soho House Nashville | [Soho House](https://sohohouse.com) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4878871101) |
 | Director, Business Operations  | [Papa](https://papa.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/papa/jobs/5149785007) |
 | Crane Operator | [Enviva](https://envivabiomass.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/enviva/jobs/7753871003) |
@@ -28,12 +32,20 @@ Remote operations and business operations roles across industries.
 | MODELE INTERMARCHE - MANAGER DE RAYON (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129219680) |
 | MODELE INTERMARCHE - RESPONSABLE FRUITS ET LEGUMES (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129217004) |
 | Coordenador(a) Geral | [Egis](https://egis-group.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000129216340) |
+| General Service Technician / Mechanic - Weekends Off - Waunakee | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000129212459) |
 | MODELE BRICOMARCHE - RECEPTIONNAIRE (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129212129) |
 |  RESPONSABLE CAISSE (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129211416) |
 | Teamassistent - Produktion (d/m/w) | [AUTO1 Group](https://auto1-group.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000129203117) |
+| KFZ-Fachlagerist / Lagerist (d/m/w) | [AUTO1 Group](https://auto1-group.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000129202995) |
+| PREPARATEUR DRIVE (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129202480) |
+| Contact Center Operations & Optimization Consultant | [Miratech](https://miratech.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000129202251) |
+| Contact Center Operations & Optimization Consultant | [Miratech](https://miratech.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000129201861) |
+| Senior Genesys Cloud PS Consultant | [Miratech](https://miratech.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000129201749) |
 | Central Compliance: Global Process Excellence & Operations Lead | [Experian](https://experianplc.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000129187629) |
 | Equipment Support Specialist | [Evolution](https://evolution.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Evolution/postings/744000129183967) |
+| Quality Manager | [Avery Dennison](https://averydennison.com) | $125K–$150K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000129179846) |
 | Office Manager  | [Keyfactor](https://keyfactor.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/keyfactorinc/jobs/6008923004) |
+| Coordinator, Project | [Standard Bank](https://standardbank.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000129173991) |
 | Ejection Seat Specialist | [Vertical Aerospace](https://vertical-aerospace.com) | — | May 29 | [Apply](https://jobs.ashbyhq.com/vertical-aerospace/ea27686e-afcb-4c23-916d-ffa7b09061bd) |
 | Ausbildung Kauffrau/Kaufmann (w/m/d) für Büromanagement | [Drees & Sommer](https://dreso.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000129155370) |
 | AI Engineer | [GitLab](https://about.gitlab.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8565469002) |

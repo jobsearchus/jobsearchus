@@ -2,12 +2,13 @@
 
 SRE and reliability engineering roles at companies that take uptime seriously.
 
-**12 open roles** — Last updated: 2026-05-30
+**13 open roles** — Last updated: 2026-05-30
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Staff Site Reliability Engineer (Collaboration Engineering) | [NBCUniversal](https://nbcuniversal.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000129203104) |
 | Platform Engineer (SRE) - AI Control Plane | [Speakeasy](https://speakeasy.com) | — | May 22 | [Apply](https://jobs.ashbyhq.com/speakeasy/04db0015-b9aa-4563-bda5-57939b664fa8) |
 | [Job 29412]  SRE/ DevOps | [CI&T](https://cit.com) | — | May 19 | [Apply](https://jobs.lever.co/ciandt/7e4647bc-3372-46e3-a239-65957af9508e) |
 | Site Reliability Engineer (f/m/d) | [Genpak LLC](https://genpak-llc-2) | — | May 18 | [Apply](https://job-boards.eu.greenhouse.io/ecosio/jobs/4868871101) |

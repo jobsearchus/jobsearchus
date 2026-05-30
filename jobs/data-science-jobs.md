@@ -2,7 +2,7 @@
 
 Data science, machine learning, and AI engineering roles. Python, SQL, PyTorch, and beyond.
 
-**65 open roles** — Last updated: 2026-05-30
+**66 open roles** — Last updated: 2026-05-30
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -11,6 +11,7 @@ Data science, machine learning, and AI engineering roles. Python, SQL, PyTorch, 
 | Senior AI & ML Engineer | [Gametime](https://gametime.co) | — | May 29 | [Apply](https://job-boards.greenhouse.io/gametimeunited/jobs/5236131008) |
 | Senior Data Scientist, Product (Crypto) | [Robinhood](https://robinhood.com) | — | May 29 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7965000?t=gh_src=&gh_jid=7965000) |
 | Senior AI Engineer | [Karbon](https://karbon.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/karbon/jobs/6008707004) |
+| Senior Machine Learning Engineer - Enrichment & Content Intelligence | [Spotify](https://open.spotify.com) | — | May 28 | [Apply](https://jobs.lever.co/spotify/159e823e-5a29-4222-94bb-40e97f63cc93) |
 | Machine Learning Scientist, Multimodal AI  | [Natera](https://natera.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/natera/jobs/6004385004) |
 | Senior Manager - Data Science (Martech/CRM) | [VML MAP](https://vml-map.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/map/jobs/8568598002) |
 | Head of Data Science - Fraud Insights | [Socure](https://socure.com) | — | May 28 | [Apply](https://jobs.ashbyhq.com/socure/82e9f9f6-3896-42d1-b91b-d9ecaa36c6a8) |

@@ -2,24 +2,31 @@
 
 Remote jobs open to candidates with 0–2 years of experience. A real way in — no degree gatekeeping.
 
-**654 open roles** — Last updated: 2026-05-30
+**661 open roles** — Last updated: 2026-05-30
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | Employé Polyvalent (H/F) CDD TEMPS PLEIN | [Genpak LLC](https://genpak-llc-2) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129290619) |
+| Auxiliar de Laboratório | [Egis](https://egis-group.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000129268091) |
+| MBA Intern | [Arine](https://arine.com) | $25/yr | May 29 | [Apply](https://job-boards.greenhouse.io/arine/jobs/6004422004) |
+| Clinical Data Review Asst | [Natera](https://natera.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/natera/jobs/5997428004) |
 | Commercial Door Installer Trainee | [DH Pace Company](https://dhpace.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5236036008) |
+| Practicante Técnico - Mantenimiento Eléctrico Planta | [Anglo American](https://angloamerican.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000129228759) |
 | Room Attendant | [ACCOR](https://group.accor.com) | $22/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000129229848) |
 | Serveur - Service aux chambres Nuit | [ACCOR](https://group.accor.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000129229509) |
 | Técnico(a) de Obras Júnior | [Egis](https://egis-group.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000129226459) |
 | Junior Customer Service Operations Manager (f/m/d) | [AUTO1 Group](https://auto1-group.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000129214895) |
 | Administrative Assistant | [Crestwood Behavioral Health](https://crestwoodbehavioralhealth.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/crestwoodcareers/jobs/7753443003) |
+| Part Time Caregiver (PM) | [Silverado](https://silverado.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/silverado/jobs/5150029007) |
 | Full Time Resident Engagement Assistant (AM) | [Silverado](https://silverado.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/silverado/jobs/5150012007) |
 | MODELE BRICOMARCHE - RECEPTIONNAIRE (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129212129) |
 | Lunchtime Teaching Assistant  | [Fennies Day Nurseries](https://fennies.com) | £14/yr | May 29 | [Apply](https://job-boards.eu.greenhouse.io/fenniesdaynurseries/jobs/4878699101) |
 | Teamassistent - Produktion (d/m/w) | [AUTO1 Group](https://auto1-group.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000129203117) |
 | Junior Enterprise Onboarding Engineer | [Sectigo](https://sectigo.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Sectigo/postings/3743990013371386) |
+| KFZ-Fachlagerist / Lagerist (d/m/w) | [AUTO1 Group](https://auto1-group.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000129202995) |
+| PREPARATEUR DRIVE (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129202480) |
 | Junior International Accountant | [JustMarkets](https://justmarkets.com) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/justmarkets/jobs/4878519101) |
 | Praktikant/Werkstudent (w/m/d) Projektmanagement Hochbau – Real Estate und Soziale Infrastruktur  | [Drees & Sommer](https://dreso.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000129163689) |
 | IT - Stage HR - People & Culture Administrator | [Primark Tiendas SLU](https://primark.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000129162020) |

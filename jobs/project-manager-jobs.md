@@ -2,12 +2,14 @@
 
 Project and program management roles across tech, operations, and enterprise.
 
-**71 open roles** — Last updated: 2026-05-30
+**73 open roles** — Last updated: 2026-05-30
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Project Manager(TransCom SISO) | [Horizon Industries](https://horizonindustries.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/horizonindustrieslimited/jobs/5236277008) |
+| Junior Project Manager (Dutch speaking) | [AUTO1 Group](https://auto1-group.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000129202782) |
 | Meetings and Events Project Manager | [Emota](https://emotaexperiences.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/emotainizioengage/jobs/7966657) |
 | Meetings and Events Project Manager | [Emota](https://emotaexperiences.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/emotainizioengage/jobs/7966319) |
 | Praktikant/Werkstudent (w/m/d) Projektmanagement Hochbau – Real Estate und Soziale Infrastruktur  | [Drees & Sommer](https://dreso.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000129163689) |

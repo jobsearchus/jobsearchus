@@ -2,17 +2,26 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**1016 open roles** — Last updated: 2026-05-30
+**1028 open roles** — Last updated: 2026-05-30
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Tech Lead — ClarOps (Líder Técnico de ClarOps) - Remote | [Clara](https://clara.com) | — | May 30 | [Apply](https://job-boards.greenhouse.io/clara/jobs/5150834007) |
+| Business Systems Analyst | [Natera](https://natera.com) | — | May 30 | [Apply](https://job-boards.greenhouse.io/natera/jobs/6000552004) |
+| Auxiliar de Laboratório | [Egis](https://egis-group.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000129268091) |
+| Welding Engineer, Special Projects | [Hadrian](https://hadrian.com) | $125K–$175K/yr | May 29 | [Apply](https://jobs.ashbyhq.com/hadrian-automation/f1665fdf-2e50-4ed6-b2b2-0c37c4f71474) |
+| Drilling Engineer, Exploration & Resource Automation | [Mariana Minerals](https://marianaminerals.com) | — | May 29 | [Apply](https://jobs.ashbyhq.com/marianaminerals/72a542f1-61bc-459b-af9a-9497306ca4b6) |
 | Head of Engineering | [SecurityScorecard](https://securityscorecard.com) | $260K–$320K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/securityscorecard/jobs/7967900) |
 | Senior Network Engineer | [IonQ](https://ionq.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/ionq/jobs/6006372004) |
+| Director, Head of Product Development | [Flagship Pioneering, Inc.](https://flagshippioneering.com) | $179K–$237K/yr | May 29 | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8569002002?gh_jid=8569002002) |
+| Research Scientist, Catalyst Simulation | [SandboxAQ](https://sandboxaq.com) | — | May 29 | [Apply](https://jobs.ashbyhq.com/sandboxaq/80fc1cc6-1bdf-459a-b950-e2ce378687d0) |
 | Forward Deployed Engineer | [Attio](https://attio.com) | — | May 29 | [Apply](https://jobs.ashbyhq.com/attio/cef00929-63ab-4927-8a3c-1ea1d4224606) |
 | Forward Deployed Engineer | [Attio](https://attio.com) | — | May 29 | [Apply](https://jobs.ashbyhq.com/attio/26c31052-b667-46ae-b459-049018e55e96) |
+| GCP Cloud Engineer | [LightFeather](https://lightfeather.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5236204008) |
 | Head of Engineering | [SecurityScorecard](https://securityscorecard.com) | $260K–$320K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/securityscorecard/jobs/7967783) |
+| Clinical Data Review Asst | [Natera](https://natera.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/natera/jobs/5997428004) |
 | System Engineering Analyst, Advanced Vetronics Systems | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000129255682) |
 | Engineering Manager - Platform | [Clipboard](https://clipboardhealth.com) | — | May 29 | [Apply](https://jobs.ashbyhq.com/clipboard/88f851bd-dbbd-48e1-a405-bc8168fefccf) |
 | Engineering Manager - Platform | [Clipboard](https://clipboardhealth.com) | — | May 29 | [Apply](https://jobs.ashbyhq.com/clipboard/313aa03b-462c-430f-bc94-4c4aa5f2a28d) |
@@ -23,13 +32,16 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Manager, Software Engineering (Card Platform) | [Affirm](https://affirm.com) | $225K–$275K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7742412003) |
 | Senior Staff Engineer (Adobe Experience Manager) | [Nagarro](https://nagarro.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000129233060) |
 | Associate Principal Engineer (AEM) | [Nagarro](https://nagarro.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000129230865) |
+| Practicante Técnico - Mantenimiento Eléctrico Planta | [Anglo American](https://angloamerican.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000129228759) |
 | Robotics Engineer, Technical Lead | [Applied Intuition](https://applied.co) | $250K–$400K/yr | May 29 | [Apply](https://boards.greenhouse.io/appliedintuition/jobs/4700425005?gh_jid=4700425005) |
 | Associate Principal Engineer (IBM App Connect) | [Nagarro](https://nagarro.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000129229661) |
 | Robotics Engineer | [Applied Intuition](https://applied.co) | $189K–$270K/yr | May 29 | [Apply](https://boards.greenhouse.io/appliedintuition/jobs/4699945005?gh_jid=4699945005) |
 | Forward Deployed Engineer, Google Cloud, AI Expert  | [Genpak LLC](https://genpak-llc-2) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/valtech/jobs/4878748101) |
 | Senior Scientific Software Engineer, AI Simulation | [SandboxAQ](https://sandboxaq.com) | — | May 29 | [Apply](https://jobs.ashbyhq.com/sandboxaq/704b56eb-c0e1-4554-8df5-b7670f9dc425) |
 | Sr. Manager, Paid Search (Remote) | [Rula](https://rula.com) | — | May 29 | [Apply](https://jobs.ashbyhq.com/rula/4d047184-a5a0-4124-b4ee-911f2eda510c) |
+| Chef de Projet Expérimenté MOE Poste HTB (H/F) | [Egis](https://egis-group.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000129204970) |
 | Junior Enterprise Onboarding Engineer | [Sectigo](https://sectigo.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Sectigo/postings/3743990013371386) |
+| Chargé d'étude / Dessinateur Lignes Souterraines (LS) junior H/F | [Egis](https://egis-group.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000129204523) |
 | Principal Operations Engineer, Electrical — Data Center Operations | [Fluidstack](https://fluidstack.com) | $200K–$250K/yr | May 29 | [Apply](https://jobs.ashbyhq.com/fluidstack/f41fecee-f230-4ae7-b7bb-2aaebb27f82f) |
 | Scientist I, Cell and Molecular Biologist | [AbbVie](https://abbvie.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/AbbVie/postings/3743990013369967) |
 | Senior Research Associate, Fermentation Development | [Flagship Pioneering, Inc.](https://flagshippioneering.com) | $81K–$107K/yr | May 29 | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8567720002?gh_jid=8567720002) |
