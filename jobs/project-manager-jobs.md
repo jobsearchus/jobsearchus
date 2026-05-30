@@ -2,15 +2,19 @@
 
 Project and program management roles across tech, operations, and enterprise.
 
-**67 open roles** — Last updated: 2026-05-29
+**71 open roles** — Last updated: 2026-05-30
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Meetings and Events Project Manager | [Emota](https://emotaexperiences.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/emotainizioengage/jobs/7966657) |
+| Meetings and Events Project Manager | [Emota](https://emotaexperiences.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/emotainizioengage/jobs/7966319) |
 | Praktikant/Werkstudent (w/m/d) Projektmanagement Hochbau – Real Estate und Soziale Infrastruktur  | [Drees & Sommer](https://dreso.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000129163689) |
 | Senior Digital Project Manager | [Genpak LLC](https://genpak-llc-2) | — | May 29 | [Apply](https://job-boards.greenhouse.io/brandtechplus/jobs/7942333) |
+| Project Manager - IT Infrastructure | [New Era Technology](https://neweratech.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8559470002) |
 | Property Project Manager | [Greene King](https://greeneking.co.uk) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/GreeneKing/postings/744000129144869) |
+| Junior Project Manager | [New Era Technology](https://neweratech.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8559473002) |
 | Senior Project Manager | [Genpak LLC](https://genpak-llc-2) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/valtech/jobs/4876416101) |
 | Cloud Project Manager | [Genpak LLC](https://genpak-llc-2) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000129042438) |
 | Enterprise Portfolio Executive  | [9th Way Insignia](https://9thwayinsignia.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/9thwayinsignia/jobs/5234662008) |

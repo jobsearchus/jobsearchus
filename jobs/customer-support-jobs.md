@@ -2,13 +2,16 @@
 
 Remote customer support and success roles across SaaS, e-commerce, and tech.
 
-**185 open roles** — Last updated: 2026-05-29
+**188 open roles** — Last updated: 2026-05-30
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | Junior Customer Service Operations Manager (f/m/d) | [AUTO1 Group](https://auto1-group.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000129214895) |
+| Access Team Lead Full Time Evenings  | [Northwestern Medicine](https://northwesternmedicine.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/NorthwesternMedicine/postings/744000129193909) |
+| Server or Bartender? Become an On-Camera Game Host – from $17.25/hr + Tips | [Evolution](https://evolution.com) | $17/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Evolution/postings/744000129180550) |
+| Customer Service representative? Become an On-Camera Entertainer – $17.25/hr + Tips | [Evolution](https://evolution.com) | $17/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Evolution/postings/744000129180609) |
 | Senior Customer Success Manager | [RevenueCat](https://revenuecat.com) | — | May 29 | [Apply](https://jobs.ashbyhq.com/revenuecat/3b4ca896-94f3-4c81-ad33-6d3dcbac6ab0) |
 | Customer Support Officer | [Genpak LLC](https://genpak-llc-2) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/APMGroup/postings/6000000001117046) |
 | Arby's Team Member | [Pilot Flying J](https://pilotflyingj.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/PilotCompany/postings/744000129086599) |

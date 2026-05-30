@@ -2,12 +2,13 @@
 
 Remote jobs open to candidates with 0–2 years of experience. A real way in — no degree gatekeeping.
 
-**650 open roles** — Last updated: 2026-05-29
+**653 open roles** — Last updated: 2026-05-30
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Commercial Door Installer Trainee | [DH Pace Company](https://dhpace.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5236036008) |
 | Room Attendant | [ACCOR](https://group.accor.com) | $22/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000129229848) |
 | Serveur - Service aux chambres Nuit | [ACCOR](https://group.accor.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000129229509) |
 | Técnico(a) de Obras Júnior | [Egis](https://egis-group.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000129226459) |
@@ -15,6 +16,7 @@ Remote jobs open to candidates with 0–2 years of experience. A real way in —
 | Administrative Assistant | [Crestwood Behavioral Health](https://crestwoodbehavioralhealth.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/crestwoodcareers/jobs/7753443003) |
 | Full Time Resident Engagement Assistant (AM) | [Silverado](https://silverado.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/silverado/jobs/5150012007) |
 | MODELE BRICOMARCHE - RECEPTIONNAIRE (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129212129) |
+| Lunchtime Teaching Assistant  | [Fennies Day Nurseries](https://fennies.com) | £14/yr | May 29 | [Apply](https://job-boards.eu.greenhouse.io/fenniesdaynurseries/jobs/4878699101) |
 | Teamassistent - Produktion (d/m/w) | [AUTO1 Group](https://auto1-group.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000129203117) |
 | Junior Enterprise Onboarding Engineer | [Sectigo](https://sectigo.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Sectigo/postings/3743990013371386) |
 | Junior International Accountant | [JustMarkets](https://justmarkets.com) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/justmarkets/jobs/4878519101) |
@@ -29,6 +31,7 @@ Remote jobs open to candidates with 0–2 years of experience. A real way in —
 | Myyjä, kesätyö, määräaikainen 16h/vko, JYSK Kouvola  | [JYSK](https://jysk.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000129148329) |
 | Afstudeerstage Logistiek & Supply Chain Management | [Syngenta](https://syngenta.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000129148259) |
 | Tyler Union - Lining & Coating Utility -2nd shift  | [McWane](https://mcwane.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/McWaneInc/postings/3743990013365906) |
+| Junior Project Manager | [New Era Technology](https://neweratech.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8559473002) |
 | Talent Acquisition Sourcer (Apprentice - Any Bachelor's - BBA/B.Com/B.Sc/BCA) | [Vonage](https://vonage.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/vonage/jobs/8570556002) |
 | Croupier Poker en Extra | [Genpak LLC](https://genpak-llc-2) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000129126049) |
 | Campaign Specialist  | [VML MAP](https://vml-map.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/map/jobs/8568844002) |

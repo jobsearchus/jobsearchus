@@ -2,13 +2,15 @@
 
 Full-stack engineering roles across product, platform, and startup companies.
 
-**35 open roles** — Last updated: 2026-05-29
+**37 open roles** — Last updated: 2026-05-30
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | Senior Full-Stack Software Engineer, Player Experience | [Discord](https://discord.com) | $196K–$221K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/discord/jobs/8497565002) |
+| Full Stack Engineer, Observability | [LaunchDarkly](https://launchdarkly.com) | $171K–$235K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/launchdarkly/jobs/7750105003) |
+| Senior Fullstack Developer (Typescript, React, NodeJS) | [Referrals Only](https://thoughtworks.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7903123) |
 | Senior Full-Stack Engineer (.NET/Angular) (ASP.NET Focus) - GovTech / HR Software | [Truelogic](https://truelogic.com) | — | May 28 | [Apply](https://jobs.ashbyhq.com/truelogic/54df1d53-cc87-4bd3-939e-11fe74cd41b1) |
 | Fullstack Forward Deployed Engineer  | [Turing College](https://turingcollege.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/turing/jobs/6007383004) |
 | Fullstack Product Engineer  | [Turing College](https://turingcollege.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/turing/jobs/6007382004) |

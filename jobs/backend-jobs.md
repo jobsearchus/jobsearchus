@@ -2,12 +2,13 @@
 
 Backend, server-side, and API engineering roles. Node.js, Python, Go, Ruby, Java and beyond.
 
-**44 open roles** — Last updated: 2026-05-29
+**45 open roles** — Last updated: 2026-05-30
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Software Engineer II, Backend (AI Agents) | [Affirm](https://affirm.com) | $125K–$175K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7637067003) |
 | Senior Backend Engineer (Node.js) | [Miratech](https://miratech.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000129131824) |
 | Senior Backend Engineer (Node.js) | [Miratech](https://miratech.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000129131789) |
 | Senior Backend Engineer (Node.js) | [Miratech](https://miratech.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000129130560) |

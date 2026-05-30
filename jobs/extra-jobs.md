@@ -2,12 +2,14 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**659 open roles** — Last updated: 2026-05-29
+**670 open roles** — Last updated: 2026-05-30
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Commercial Door Installer Trainee | [DH Pace Company](https://dhpace.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5236036008) |
+| Commercial Door Service Technicians | [DH Pace Company](https://dhpace.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5236015008) |
 | Physical Therapist Assistant, PTA | [InHomeTherapy](https://inhometherapy.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/inhometherapy/jobs/5150158007) |
 | Physical Therapist Assistant, PTA | [InHomeTherapy](https://inhometherapy.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/inhometherapy/jobs/5150222007) |
 | Physical Therapist Assistant, PTA | [InHomeTherapy](https://inhometherapy.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/inhometherapy/jobs/5150242007) |
@@ -15,7 +17,15 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Room Attendant | [ACCOR](https://group.accor.com) | $22/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000129229848) |
 | Serveur - Service aux chambres Nuit | [ACCOR](https://group.accor.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000129229509) |
 | Full Time Resident Engagement Assistant (AM) | [Silverado](https://silverado.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/silverado/jobs/5150012007) |
+| Patient Care Coordinator- South Grove clinic | [BenchMark Physical Therapy](https://benchmarkpt.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/benchmarkpt/jobs/5149783007) |
+| Lunchtime Teaching Assistant  | [Fennies Day Nurseries](https://fennies.com) | £14/yr | May 29 | [Apply](https://job-boards.eu.greenhouse.io/fenniesdaynurseries/jobs/4878699101) |
+| Executive Assistant, CFO & CEO | [Apollo.io](https://apollo.io) | — | May 29 | [Apply](https://job-boards.greenhouse.io/apolloio/jobs/6007688004) |
+| Administrative Manager-Medical Education | [Northwestern Medicine](https://northwesternmedicine.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/NorthwesternMedicine/postings/744000129186404) |
+| AI Search Innovation Strategist - Madrid based | [Fever](https://feverup.com) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4878580101) |
+| AI Search Innovation Strategist | [Fever](https://feverup.com) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4878589101) |
+| Registered Nurse Inpatient-Delnor Cardiac Telemetry Med Surg Unit Full Time Days | [Northwestern Medicine](https://northwesternmedicine.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/NorthwesternMedicine/postings/744000129178602) |
 | Directeur de magasin F/H/X | [BUT](https://but.fr) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000129170762) |
+| Telehealth Crisis Line Provider - W2 Part-Time | [Mantra Health](https://mantrahealth.com) | $30/yr | May 29 | [Apply](https://job-boards.greenhouse.io/mantrahealth/jobs/6008930004) |
 | Commis de Salle (H/F) - Restaurant Girardin 1* | [Relais & Châteaux](https://relaischateaux.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000129156319) |
 | Skladiščnik | [Primark Tiendas SLU](https://primark.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000129151470) |
 | Tyler Union - Lining & Coating Utility -2nd shift  | [McWane](https://mcwane.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/McWaneInc/postings/3743990013365906) |
@@ -30,6 +40,7 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Mental Health Registered Nurse (Casual) | [Healthcare Australia](https://healthcareaustralia.com.au) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/HealthcareAustralia1/postings/6000000001115193) |
 | Mechanical Engineer | [Cerebras Systems](https://cerebras.net) | $180K–$200K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/cerebrassystems/jobs/7752149003) |
 | Procurement Manager | [Firmus Technologies](https://firmus.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/firmus/jobs/5231959008) |
+| Senior Engineer, Loads & Dynamics | [Archer](https://archer.com) | $125K–$160K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7736340003) |
 | Chief of Staff, VISASQ/COLEMAN Ex-Japan  | [VisasQ/Coleman](https://colemanrg.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/colemanresearch/jobs/8568961002) |
 | Hospitality Specialist | [xAI](https://x.ai) | — | May 28 | [Apply](https://job-boards.greenhouse.io/xai/jobs/5149102007) |
 | Safety Training Manager | [Enviva](https://envivabiomass.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/enviva/jobs/7751255003) |

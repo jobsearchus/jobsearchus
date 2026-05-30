@@ -2,12 +2,13 @@
 
 Data science, machine learning, and AI engineering roles. Python, SQL, PyTorch, and beyond.
 
-**64 open roles** — Last updated: 2026-05-29
+**65 open roles** — Last updated: 2026-05-30
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior AI & ML Engineer | [Gametime](https://gametime.co) | — | May 29 | [Apply](https://job-boards.greenhouse.io/gametimeunited/jobs/5236131008) |
 | Senior Data Scientist, Product (Crypto) | [Robinhood](https://robinhood.com) | — | May 29 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7965000?t=gh_src=&gh_jid=7965000) |
 | Senior AI Engineer | [Karbon](https://karbon.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/karbon/jobs/6008707004) |
 | Machine Learning Scientist, Multimodal AI  | [Natera](https://natera.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/natera/jobs/6004385004) |

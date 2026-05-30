@@ -2,16 +2,25 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**429 open roles** — Last updated: 2026-05-29
+**441 open roles** — Last updated: 2026-05-30
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Software Engineer II, Backend (AI Agents) | [Affirm](https://affirm.com) | $125K–$175K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7637067003) |
+| Head of Engineering | [SecurityScorecard](https://securityscorecard.com) | $260K–$320K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/securityscorecard/jobs/7967900) |
+| Security Analyst - Governance, Risk, and Compliance | [LaunchDarkly](https://launchdarkly.com) | $137K–$188K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/launchdarkly/jobs/7753776003) |
+| Head of Engineering | [SecurityScorecard](https://securityscorecard.com) | $260K–$320K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/securityscorecard/jobs/7967783) |
+| NDT CT Level II and Radiation Safety Specialist | [Archer](https://archer.com) | $108K–$149K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7751399003) |
 | Application Programmer (EBS) | [Horizon Industries](https://horizonindustries.com) | $115K–$125K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/horizonindustrieslimited/jobs/5235974008) |
+| Manager, Software Engineering (Card Platform) | [Affirm](https://affirm.com) | $225K–$275K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7742412003) |
+| Robotics Engineer, Technical Lead | [Applied Intuition](https://applied.co) | $250K–$400K/yr | May 29 | [Apply](https://boards.greenhouse.io/appliedintuition/jobs/4700425005?gh_jid=4700425005) |
+| Robotics Engineer | [Applied Intuition](https://applied.co) | $189K–$270K/yr | May 29 | [Apply](https://boards.greenhouse.io/appliedintuition/jobs/4699945005?gh_jid=4699945005) |
 | Senior Full-Stack Software Engineer, Player Experience | [Discord](https://discord.com) | $196K–$221K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/discord/jobs/8497565002) |
 | Senior Manager of Global Payroll | [ŌURA](https://ouraring.com) | $170K–$200K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/oura/jobs/4264573009) |
 | Head of Security Engineering | [BetterHelp](https://betterhelp.com) | $250K–$300K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/betterhelpcom/jobs/5217845008) |
+| Full Stack Engineer, Observability | [LaunchDarkly](https://launchdarkly.com) | $171K–$235K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/launchdarkly/jobs/7750105003) |
 | Principal Operations Engineer, Electrical — Data Center Operations | [Fluidstack](https://fluidstack.com) | $200K–$250K/yr | May 29 | [Apply](https://jobs.ashbyhq.com/fluidstack/f41fecee-f230-4ae7-b7bb-2aaebb27f82f) |
 | Senior Technical Business Systems Analyst | [CapTech](https://captech.com) | $115K–$150K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/CapTechConsulting/postings/744000129189779) |
 | Channel Sales Account Executive (South West Region) | [Sectigo](https://sectigo.com) | $170K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Sectigo/postings/3743990013367697) |
@@ -22,9 +31,12 @@ Remote roles paying $100,000 or more per year. Salary data pulled directly from 
 | Mechanical Engineer | [Cerebras Systems](https://cerebras.net) | $180K–$200K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/cerebrassystems/jobs/7752149003) |
 | Senior Software Engineer, Cloud Applications | [Temporal](https://temporal.io) | $176K–$237K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/temporaltechnologies/jobs/5149574007) |
 | Principal Certification Engineer | [Archer](https://archer.com) | $250K–$310K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7741074003) |
+| Staff Software Engineer, BMS | [Archer](https://archer.com) | $170K–$215K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7740909003) |
+| Senior Engineer, Loads & Dynamics | [Archer](https://archer.com) | $125K–$160K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7736340003) |
 | Attorney, LATAM Funds and Distribution - Vice President | [iCapital](https://icapital.com) | $180K–$220K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8568896002) |
 | Fund Attorney - Assistant Vice President | [iCapital](https://icapital.com) | $160K–$210K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8568889002) |
 | Fund Attorney - Assistant Vice President | [iCapital](https://icapital.com) | $160K–$210K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8568888002) |
+| Senior Software Engineer - Test | [Boulevard](https://joinblvd.com) | $140K–$175K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/boulevard/jobs/4685208006) |
 | Underwriting & Servicing Operations Manager - Cards | [Mercury](https://mercury.com) | $163K–$204K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/mercury/jobs/6008667004) |
 | Staff Software Engineer, Cloud Identity | [Temporal](https://temporal.io) | $212K–$286K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/temporaltechnologies/jobs/5148493007) |
 | Product Manager | [NBCUniversal](https://nbcuniversal.com) | $110K–$140K/yr | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000129041169) |

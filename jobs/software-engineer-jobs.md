@@ -2,21 +2,37 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**989 open roles** — Last updated: 2026-05-29
+**1007 open roles** — Last updated: 2026-05-30
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Head of Engineering | [SecurityScorecard](https://securityscorecard.com) | $260K–$320K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/securityscorecard/jobs/7967900) |
+| Senior Network Engineer | [IonQ](https://ionq.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/ionq/jobs/6006372004) |
+| Forward Deployed Engineer | [Attio](https://attio.com) | — | May 29 | [Apply](https://jobs.ashbyhq.com/attio/cef00929-63ab-4927-8a3c-1ea1d4224606) |
+| Forward Deployed Engineer | [Attio](https://attio.com) | — | May 29 | [Apply](https://jobs.ashbyhq.com/attio/26c31052-b667-46ae-b459-049018e55e96) |
+| Head of Engineering | [SecurityScorecard](https://securityscorecard.com) | $260K–$320K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/securityscorecard/jobs/7967783) |
+| Engineering Manager - Platform | [Clipboard](https://clipboardhealth.com) | — | May 29 | [Apply](https://jobs.ashbyhq.com/clipboard/88f851bd-dbbd-48e1-a405-bc8168fefccf) |
+| Engineering Manager - Platform | [Clipboard](https://clipboardhealth.com) | — | May 29 | [Apply](https://jobs.ashbyhq.com/clipboard/313aa03b-462c-430f-bc94-4c4aa5f2a28d) |
+| Data Engineer Mid-Level | [Genpak LLC](https://genpak-llc-2) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/valtech/jobs/4878828101) |
+| Data Engineer Mid-Level | [Genpak LLC](https://genpak-llc-2) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/valtech/jobs/4877887101) |
+| Manager, Software Engineering (Card Platform) | [Affirm](https://affirm.com) | $225K–$275K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7742412003) |
+| Robotics Engineer, Technical Lead | [Applied Intuition](https://applied.co) | $250K–$400K/yr | May 29 | [Apply](https://boards.greenhouse.io/appliedintuition/jobs/4700425005?gh_jid=4700425005) |
+| Robotics Engineer | [Applied Intuition](https://applied.co) | $189K–$270K/yr | May 29 | [Apply](https://boards.greenhouse.io/appliedintuition/jobs/4699945005?gh_jid=4699945005) |
+| Forward Deployed Engineer, Google Cloud, AI Expert  | [Genpak LLC](https://genpak-llc-2) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/valtech/jobs/4878748101) |
 | Senior Scientific Software Engineer, AI Simulation | [SandboxAQ](https://sandboxaq.com) | — | May 29 | [Apply](https://jobs.ashbyhq.com/sandboxaq/704b56eb-c0e1-4554-8df5-b7670f9dc425) |
+| Sr. Manager, Paid Search (Remote) | [Rula](https://rula.com) | — | May 29 | [Apply](https://jobs.ashbyhq.com/rula/4d047184-a5a0-4124-b4ee-911f2eda510c) |
 | Junior Enterprise Onboarding Engineer | [Sectigo](https://sectigo.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Sectigo/postings/3743990013371386) |
 | Principal Operations Engineer, Electrical — Data Center Operations | [Fluidstack](https://fluidstack.com) | $200K–$250K/yr | May 29 | [Apply](https://jobs.ashbyhq.com/fluidstack/f41fecee-f230-4ae7-b7bb-2aaebb27f82f) |
+| Scientist I, Cell and Molecular Biologist | [AbbVie](https://abbvie.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/AbbVie/postings/3743990013369967) |
 | Senior Research Associate, Fermentation Development | [Flagship Pioneering, Inc.](https://flagshippioneering.com) | $81K–$107K/yr | May 29 | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8567720002?gh_jid=8567720002) |
 | Ingénieur Méthodes Usinage Senior H/F  | [SEGULA Technologies](https://segulatechnologies.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/SegulaTechnologies/postings/744000129190419) |
 | Senior Technical Business Systems Analyst | [CapTech](https://captech.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/CapTechConsulting/postings/744000129189969) |
 | Senior Technical Business Systems Analyst | [CapTech](https://captech.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/CapTechConsulting/postings/744000129186834) |
 | Senior Technical Business Systems Analyst | [CapTech](https://captech.com) | $115K–$150K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/CapTechConsulting/postings/744000129189779) |
 | Quantitative Analyst | [JustMarkets](https://justmarkets.com) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/justmarkets/jobs/4873071101) |
+| Scientific Director, Medical Affairs, Gastroenterology IBD Portfolio | [AbbVie](https://abbvie.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/AbbVie/postings/3743990013369355) |
 | Data Architect Engineer | [Standard Bank](https://standardbank.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000129184699) |
 | SAP SuccessFactors Solution Architect (m/f/d) | [Nagarro](https://nagarro.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000129172952) |
 | AI Technical Program Manager (Localisation) | [Canva](https://canva.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001118111) |
@@ -43,7 +59,9 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Senior Software Engineer, Cloud Applications | [Temporal](https://temporal.io) | $176K–$237K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/temporaltechnologies/jobs/5149574007) |
 | Cost Engineer – Data Center IT Fit-Out | [Firmus Technologies](https://firmus.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/firmus/jobs/5231970008) |
 | Principal Certification Engineer | [Archer](https://archer.com) | $250K–$310K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7741074003) |
+| Staff Software Engineer, BMS | [Archer](https://archer.com) | $170K–$215K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7740909003) |
 | Attorney, LATAM Funds and Distribution - Vice President | [iCapital](https://icapital.com) | $180K–$220K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8568896002) |
+| Senior Software Engineer - Test | [Boulevard](https://joinblvd.com) | $140K–$175K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/boulevard/jobs/4685208006) |
 | Staff Software Engineer, Cloud Identity | [Temporal](https://temporal.io) | $212K–$286K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/temporaltechnologies/jobs/5148493007) |
 | Manager, Data Engineering | [Airtable](https://airtable.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8565121002) |
 | Chemical Engineering Intern | [Mariana Minerals](https://marianaminerals.com) | — | May 28 | [Apply](https://jobs.ashbyhq.com/marianaminerals/1f8dc663-ae78-44ad-8232-ebf5dcf2385a) |

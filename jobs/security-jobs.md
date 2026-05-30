@@ -2,12 +2,15 @@
 
 Remote cybersecurity, information security, and security engineering roles.
 
-**79 open roles** — Last updated: 2026-05-29
+**82 open roles** — Last updated: 2026-05-30
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Corporate Security Engineer, IAC & Automation | [OnePay](https://onepay.com) | — | May 29 | [Apply](https://jobs.ashbyhq.com/oneapp/6a665838-2db9-412c-b1fa-2337edd2bf14) |
+| Security Analyst - Governance, Risk, and Compliance | [LaunchDarkly](https://launchdarkly.com) | $137K–$188K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/launchdarkly/jobs/7753776003) |
+| NDT CT Level II and Radiation Safety Specialist | [Archer](https://archer.com) | $108K–$149K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7751399003) |
 | Head of Security Engineering | [BetterHelp](https://betterhelp.com) | $250K–$300K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/betterhelpcom/jobs/5217845008) |
 | Staff Security Engineer, IAM (USA) | [GitLab](https://about.gitlab.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8561489002) |
 | Network Security Software Engineer | [Lumin Digital](https://lumindigital.com) | — | May 28 | [Apply](https://jobs.lever.co/LuminDigital/6b242155-7023-4fd6-ba61-eb53624610d8) |

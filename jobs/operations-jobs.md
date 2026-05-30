@@ -2,7 +2,7 @@
 
 Remote operations and business operations roles across industries.
 
-**655 open roles** — Last updated: 2026-05-29
+**660 open roles** — Last updated: 2026-05-30
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -12,6 +12,8 @@ Remote operations and business operations roles across industries.
 | Director, Business Operations  | [Papa](https://papa.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/papa/jobs/5149785007) |
 | Crane Operator | [Enviva](https://envivabiomass.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/enviva/jobs/7753871003) |
 | Electrical Technician | [Enviva](https://envivabiomass.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/enviva/jobs/7753866003) |
+| CCTV Installation Technician | [DH Pace Company](https://dhpace.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5235982008) |
+| Revenue Enablement Program Manager | [OpenLoop](https://openloop.com) | — | May 29 | [Apply](https://jobs.ashbyhq.com/openloophealth/6d6baaf4-644c-45d2-a270-ec058a807671) |
 | Técnico(a) de Obras Júnior | [Egis](https://egis-group.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000129226459) |
 | Superintendent Project Support | [Anglo American](https://angloamerican.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000129222709) |
 | Asesor Costos y Tendencias | [Anglo American](https://angloamerican.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000129220740) |
@@ -21,6 +23,7 @@ Remote operations and business operations roles across industries.
 |  RESPONSABLE CAISSE (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129211416) |
 | Teamassistent - Produktion (d/m/w) | [AUTO1 Group](https://auto1-group.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000129203117) |
 | Central Compliance: Global Process Excellence & Operations Lead | [Experian](https://experianplc.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000129187629) |
+| Equipment Support Specialist | [Evolution](https://evolution.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Evolution/postings/744000129183967) |
 | Office Manager  | [Keyfactor](https://keyfactor.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/keyfactorinc/jobs/6008923004) |
 | Ejection Seat Specialist | [Vertical Aerospace](https://vertical-aerospace.com) | — | May 29 | [Apply](https://jobs.ashbyhq.com/vertical-aerospace/ea27686e-afcb-4c23-916d-ffa7b09061bd) |
 | Ausbildung Kauffrau/Kaufmann (w/m/d) für Büromanagement | [Drees & Sommer](https://dreso.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000129155370) |
@@ -29,6 +32,7 @@ Remote operations and business operations roles across industries.
 | Afstudeerstage Logistiek & Supply Chain Management | [Syngenta](https://syngenta.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000129148259) |
 | Office Manager | [BrainRocket](https://brainrocket.com) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/brainrocketltd/jobs/4878378101) |
 | Operator Maszyn Formujących (k/m) | [O-I Glass](https://o-i.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/O-I/postings/744000129145850) |
+| Administrative & Operations Assistant | [Fever](https://feverup.com) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4878353101) |
 | Fleet Back Office Specialist | [MSX International](https://msxi.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013365546) |
 | Head of Transformation | [LinkedIn Job Wrapping](https://artefact.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/artefactlinkedin/jobs/8570554002) |
 | Production Merchandiser | [Gymshark](https://gymshark.com) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/gymshark/jobs/4873861101) |
@@ -58,6 +62,7 @@ Remote operations and business operations roles across industries.
 | Live Operations Specialist (Contract) | [Kabam](https://kabam.com) | — | May 28 | [Apply](https://jobs.lever.co/kabam/b7b5ae84-5d75-4492-8b37-d547be5092de) |
 | Engineering Program Analyst | [AnaVation](https://anavation.com) | — | May 28 | [Apply](https://jobs.lever.co/anavationllc/95d50b3c-4bd8-41cf-96e3-2deeb7bf33a5) |
 | Sr. Manager, Engineering - Core Platform | [Vanta](https://vanta.com) | — | May 28 | [Apply](https://jobs.ashbyhq.com/vanta/cb97ac48-29a5-49da-a804-f19b907a8163) |
+| Senior Principal Customer Programs & Adoption Strategy Manager | [Smartsheet](https://smartsheet.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/smartsheet/jobs/7963768) |
 | Tool Install Scheduler, Manassas, VA - Semiconductor | [World Wide Professional Solutions](https://worldwideprofessionalsolutions.com) | — | May 28 | [Apply](https://jobs.lever.co/wwprosolutions/b6c3e00b-5142-4ad1-8e6b-35e6e4ac3945) |
 | Operations Analyst  | [Keyfactor](https://keyfactor.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/keyfactorinc/jobs/6007555004) |
 | Coordinator, Transcription Marketplace | [Filevine](https://filevine.com) | — | May 28 | [Apply](https://jobs.lever.co/filevine/8c8af33c-a201-41a0-aefa-21fc0d024f35) |
