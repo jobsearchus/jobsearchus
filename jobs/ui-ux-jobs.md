@@ -2,12 +2,14 @@
 
 UX design, UI design, and product design roles. Figma, research, and end-to-end product work.
 
-**100 open roles** — Last updated: 2026-05-30
+**102 open roles** — Last updated: 2026-05-30
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior VFX Artist | [Gameloft](https://gameloft.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/Gameloft/postings/744000129296069) |
+| Lead VFX Artist | [Gameloft](https://gameloft.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/Gameloft/postings/744000129296019) |
 | Staff Gameplay Designer - Social (Contract) | [teamLFG](https://teamlfg.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/teamlfg/jobs/6000510004) |
 | CAD Designer | [xAI](https://x.ai) | — | May 29 | [Apply](https://job-boards.greenhouse.io/xai/jobs/5150780007) |
 | Senior Design Program Manager | [Blink UX](https://blinkux.com) | — | May 29 | [Apply](https://jobs.lever.co/blinkux/547d777b-88a4-4b35-a0a9-ca06e8606806) |

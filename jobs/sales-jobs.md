@@ -2,12 +2,16 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**607 open roles** — Last updated: 2026-05-30
+**611 open roles** — Last updated: 2026-05-30
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Asst. Automotive Service Advisor / Writer - Weekends Off - New Braunfels | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000129301859) |
+| Vendeur ALIMENTAIRE CHARCUTERIE TRAITEUR FROMAGE (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129300289) |
+| CONSEILLER DE VENTE (H/F) - Sols/Menuiserie | [Genpak LLC](https://genpak-llc-2) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129298639) |
+| Sales Assitant | [Frasers Group](https://frasersgroup.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000129297899) |
 | Territory Account Executive, iGaming (Thailand) | [Cloudflare](https://cloudflare.com) | — | May 30 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7962217?gh_jid=7962217) |
 | Account Executive - Credit Unions (Remote) | [Experian](https://experianplc.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000129290129) |
 | Client Partner, Mid-Market (B2B Services Acquisitions) | [Reddit](https://reddit.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/7961073) |

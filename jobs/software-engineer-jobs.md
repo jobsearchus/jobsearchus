@@ -2,12 +2,16 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**1050 open roles** — Last updated: 2026-05-30
+**1061 open roles** — Last updated: 2026-05-30
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Principal Research Scientist I (Analytical R&D for LNP and Small Molecule) | [AbbVie](https://abbvie.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/AbbVie/postings/3743990013388616) |
+| Lead Requirement Engineer – eAxle | [Bosch](https://bosch.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/BoschGroup/postings/744000129301299) |
+| IT Solution Manager — SAP S/4 HANA / SAP BTP | [Bosch](https://bosch.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/BoschGroup/postings/744000129291449) |
+| Design Manager, Transportation | [AECOM](https://aecom.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000129291199) |
 | Tech Lead — ClarOps (Líder Técnico de ClarOps) - Remote | [Clara](https://clara.com) | — | May 30 | [Apply](https://job-boards.greenhouse.io/clara/jobs/5150834007) |
 | Business Systems Analyst | [Natera](https://natera.com) | — | May 30 | [Apply](https://job-boards.greenhouse.io/natera/jobs/6000552004) |
 | Senior Customer Engineer, Web3 | [Cloudflare](https://cloudflare.com) | — | May 30 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7953656?gh_jid=7953656) |
@@ -23,7 +27,10 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Director of Engineering, Safety | [Discord](https://discord.com) | $400K–$450K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/discord/jobs/8571766002) |
 | Senior Technical Program Manager | [Twitch](https://twitch.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8572068002) |
 | Senior Technical Program Manager | [Twitch](https://twitch.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8563229002) |
+| Coordenador de Desenvolvimento de Negócios  | [Experian](https://experianplc.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000129263585) |
+| Especialista de Desenvolvimento de Negócios  | [Experian](https://experianplc.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000129263488) |
 | Senior Analytics Engineer | [Roofr](https://roofr.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/roofr/jobs/4699868005) |
+| Agente de Atendimento II | [Experian](https://experianplc.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000129260807) |
 | Head of Engineering | [SecurityScorecard](https://securityscorecard.com) | $260K–$320K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/securityscorecard/jobs/7967900) |
 | Senior Avionics Integration and Test Technician | [Inversion Space](https://inversionspace.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/inversionspace/jobs/4701143005) |
 | Senior Network Engineer | [IonQ](https://ionq.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/ionq/jobs/6006372004) |
@@ -52,6 +59,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Robotics Engineer | [Applied Intuition](https://applied.co) | $189K–$270K/yr | May 29 | [Apply](https://boards.greenhouse.io/appliedintuition/jobs/4699945005?gh_jid=4699945005) |
 | Forward Deployed Engineer, Google Cloud, AI Expert  | [Genpak LLC](https://genpak-llc-2) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/valtech/jobs/4878748101) |
 | Senior Scientific Software Engineer, AI Simulation | [SandboxAQ](https://sandboxaq.com) | — | May 29 | [Apply](https://jobs.ashbyhq.com/sandboxaq/704b56eb-c0e1-4554-8df5-b7670f9dc425) |
+| Senior Staff Engineer (IBM App Connect) | [Nagarro](https://nagarro.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000129228209) |
 | Sr. Manager, Paid Search (Remote) | [Rula](https://rula.com) | — | May 29 | [Apply](https://jobs.ashbyhq.com/rula/4d047184-a5a0-4124-b4ee-911f2eda510c) |
 | Chef de Projet Expérimenté MOE Poste HTB (H/F) | [Egis](https://egis-group.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000129204970) |
 | Junior Enterprise Onboarding Engineer | [Sectigo](https://sectigo.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Sectigo/postings/3743990013371386) |
@@ -71,6 +79,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | SAP SuccessFactors Solution Architect (m/f/d) | [Nagarro](https://nagarro.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000129172952) |
 | AI Technical Program Manager (Localisation) | [Canva](https://canva.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001118111) |
 | Senior Engineering Manager, Supply | [Trainline](https://trainlinegroup.com) | — | May 29 | [Apply](https://jobs.ashbyhq.com/trainline/cbec5994-6886-4c89-a044-3a0ab1cfc9a9) |
+| Solution Architect Energy & Utilities (m/f/d) | [Nagarro](https://nagarro.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000129166809) |
 | Customer Insights Analyst (12m FTC) | [Gymshark](https://gymshark.com) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/gymshark/jobs/4878470101) |
 | Ausbildung Fachinformatiker (w/m/d) Systemintegration | [Drees & Sommer](https://dreso.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000129160344) |
 | Technicien/ne de fiabilité (H/F/N) | [Syngenta](https://syngenta.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000129155560) |
@@ -92,6 +101,8 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Professor, School of Law | [Western Sydney University](https://westernsydney.edu.au) | $226K–$234K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/WesternSydneyUniversity/postings/6000000001116545) |
 | Engineering Manager - Elements Experience | [Canva](https://canva.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001116021) |
 | Engineering Manager - Elements Experience | [Canva](https://canva.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001115998) |
+| Principal Software Engineer - User Platform Team | [Canva](https://canva.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001115629) |
+| Principal Software Engineer - User Platform Team | [Canva](https://canva.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001115606) |
 | GEOINT History Program Specialist - Senior | [ANSER](https://anser.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/analyticservicesinc/jobs/5234012008?gh_jid=5234012008) |
 | Software Engineer | [Everbridge](https://everbridge.com) | — | May 29 | [Apply](https://jobs.lever.co/everbridge/20f04a0b-eb61-4546-98f3-d48bab046b08) |
 | Senior Software Engineer, Cloud Applications | [Temporal](https://temporal.io) | $176K–$237K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/temporaltechnologies/jobs/5149574007) |

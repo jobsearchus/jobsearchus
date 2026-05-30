@@ -2,12 +2,13 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**315 open roles** — Last updated: 2026-05-30
+**316 open roles** — Last updated: 2026-05-30
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Associate Pricing Manager Italy & Greece - Allergan Aesthetics | [AbbVie](https://abbvie.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/AbbVie/postings/3743990013388396) |
 | Accounting Specialist  | [Baubap](https://baubap.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/baubap/jobs/5236459008) |
 | Accounting Payable Specialist | [Baubap](https://baubap.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/baubap/jobs/5236454008) |
 | Manager – Private Equity Fund Accounting (Fund Administration) | [IQ-EQ](https://iqeq.com) | $88K–$105K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000129266080) |

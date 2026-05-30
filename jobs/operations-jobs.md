@@ -2,12 +2,14 @@
 
 Remote operations and business operations roles across industries.
 
-**686 open roles** — Last updated: 2026-05-30
+**691 open roles** — Last updated: 2026-05-30
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| TA Director, Risk Management Lead - Multiple Therapeutic Areas (Hybrid) | [AbbVie](https://abbvie.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/AbbVie/postings/3743990013388526) |
+| Project Information Manager - Transportation | [AECOM](https://aecom.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000129298359) |
 | Employé Polyvalent (H/F) CDD TEMPS PLEIN | [Genpak LLC](https://genpak-llc-2) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129290619) |
 | Business Operations Transformation & AI Principal - Remote | [Experian](https://experianplc.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000129290010) |
 | Fleet & Facilities Site Manager | [Nabis](https://nabis.com) | $75K–$80K/yr | May 30 | [Apply](https://job-boards.greenhouse.io/nabis/jobs/6009625004) |
@@ -30,6 +32,7 @@ Remote operations and business operations roles across industries.
 | Class 5, 5- Ton Operator for City P&D Saskatoon | [Manitoulin Global Forwarding](https://manitoulingroup.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000129227109) |
 | Técnico(a) de Obras Júnior | [Egis](https://egis-group.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000129226459) |
 | Superintendent Project Support | [Anglo American](https://angloamerican.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000129222709) |
+| Library Student Assistant | [University of Notre Dame](https://universityofnotredame.com) | $15/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013373168) |
 | Asesor Costos y Tendencias | [Anglo American](https://angloamerican.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000129220740) |
 | Asesor Programación y Avances | [Anglo American](https://angloamerican.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000129218577) |
 | MODELE INTERMARCHE - MANAGER DE RAYON (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129219680) |
@@ -44,7 +47,9 @@ Remote operations and business operations roles across industries.
 | Contact Center Operations & Optimization Consultant | [Miratech](https://miratech.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000129202251) |
 | Contact Center Operations & Optimization Consultant | [Miratech](https://miratech.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000129201861) |
 | Senior Genesys Cloud PS Consultant | [Miratech](https://miratech.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000129201749) |
+| Claims & Cost Specialist | [MSX International](https://msxi.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013370235) |
 | Central Compliance: Global Process Excellence & Operations Lead | [Experian](https://experianplc.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000129187629) |
+| Supply Chain Operations Specialist | [Continental](https://continentalserves.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000129184884) |
 | Equipment Support Specialist | [Evolution](https://evolution.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Evolution/postings/744000129183967) |
 | Quality Manager | [Avery Dennison](https://averydennison.com) | $125K–$150K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000129179846) |
 | Office Manager  | [Keyfactor](https://keyfactor.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/keyfactorinc/jobs/6008923004) |
