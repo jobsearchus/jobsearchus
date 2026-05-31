@@ -2,13 +2,22 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**720 open roles** — Last updated: 2026-05-31
+**732 open roles** — Last updated: 2026-05-31
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Part Time Cash Office Assistant  | [Primark Tiendas SLU](https://primark.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000129338399) |
+| Aircraft Maintenance Instructor | [Aviation Institute of Maintenance](https://aviationmaintenance.edu) | $35/yr | May 31 | [Apply](https://job-boards.greenhouse.io/aviationinstituteofmaintenance/jobs/5236964008) |
+| Sales Assistant 24 h - Torri Di Quartesolo. | [JYSK](https://jysk.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000129336739) |
+| Deli Baker | [Pilot Flying J](https://pilotflyingj.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/PilotCompany/postings/744000129336499) |
+| Продавець-консультант/Завідувач відділу JYSK, ТЦ "Сіті Центр Таірова" | [JYSK](https://jysk.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000129336359) |
+| Director, Policy Development | [Wolt](https://wolt.com) | — | May 31 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7962907) |
+| NIGHT TEAM MANAGER | [Primark Tiendas SLU](https://primark.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000129334419) |
 | Maitre d'Hôtel H/F | [ACCOR](https://group.accor.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000129332139) |
+| General Manager(02162) - 5406 N Summit St | [Domino's](https://dominos.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000129322927) |
+| Assistant Manager(03981)-127 Main Street | [Domino's](https://dominos.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000129322481) |
 | General Manager (05075) 2400 W. Commercial Blvd. | [Domino's](https://dominos.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000129322403) |
 | Guest Service Agent (Seasonal Part Time until October 1, 2026) | [ACCOR](https://group.accor.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000129304549) |
 | Assistant Chief Steward - 6 month contract | [ACCOR](https://group.accor.com) | $56K–$58K/yr | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000129302969) |
@@ -38,6 +47,9 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Senior Manager of Care Transformation | [BetterHelp](https://betterhelp.com) | $130K–$170K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/betterhelpcom/jobs/5236303008) |
 | Senior HR Business Partner (Contract) | [StackAdapt](https://stackadapt.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/stackadapt/jobs/4265012009) |
 | Housekeeping Leader - The Wickaninnish Inn | [Relais & Châteaux](https://relaischateaux.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000129257329) |
+| Cook - The Wickaninnish Inn | [Relais & Châteaux](https://relaischateaux.com) | $23/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000129255021) |
+| Sous Chef - The Wickaninnish Inn | [Relais & Châteaux](https://relaischateaux.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000129255989) |
+| Spa Coordinator/Attendant - The Wickaninnish Inn | [Relais & Châteaux](https://relaischateaux.com) | $20/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000129255899) |
 | Consultor(a) SAP FI/CO Sênior | [Inetum](https://inetum.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000129251780) |
 | Commercial Door Installer Trainee | [DH Pace Company](https://dhpace.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5236036008) |
 | Commercial Door Service Technicians | [DH Pace Company](https://dhpace.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5236015008) |

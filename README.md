@@ -1,8 +1,8 @@
 # JobSearchUs — Looking for Your Next Job? Just Search Us
 
-[![4959 jobs](https://img.shields.io/badge/jobs-4%2C959-blue?style=flat-square)](https://www.jobsearchus.com)  [![Updated 2026-05-31](https://img.shields.io/badge/updated-2026-05-31-lightgrey?style=flat-square)](https://github.com/jobsearchus/jobsearchus)
+[![4973 jobs](https://img.shields.io/badge/jobs-4%2C973-blue?style=flat-square)](https://www.jobsearchus.com)  [![Updated 2026-05-31](https://img.shields.io/badge/updated-2026-05-31-lightgrey?style=flat-square)](https://github.com/jobsearchus/jobsearchus)
 
-**4959 jobs** across 23 categories — updated 2026-05-31
+**4973 jobs** across 23 categories — updated 2026-05-31
 
 Fresh jobs pulled straight from company career pages — not recycled from job boards.
 Updated 5 times a day across 5,500+ companies worldwide.
@@ -23,7 +23,7 @@ Full job board with filters: **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Category | Open Roles | Link |
 | --- | --- | --- |
-| $100K+ Remote Jobs | 467 | [View →](jobs/100k-plus-jobs.md) |
+| $100K+ Remote Jobs | 468 | [View →](jobs/100k-plus-jobs.md) |
 | Entry Level Remote Jobs | 697 | [View →](jobs/entry-level-jobs.md) |
 | Software Engineer Jobs | 1066 | [View →](jobs/software-engineer-jobs.md) |
 | Backend Jobs | 51 | [View →](jobs/backend-jobs.md) |
@@ -43,11 +43,11 @@ Full job board with filters: **[jobsearchus.com](https://www.jobsearchus.com)**
 | Finance Jobs | 323 | [View →](jobs/finance-jobs.md) |
 | HR Jobs | 124 | [View →](jobs/hr-jobs.md) |
 | Legal Jobs | 73 | [View →](jobs/legal-jobs.md) |
-| Operations Jobs | 717 | [View →](jobs/operations-jobs.md) |
-| Security Jobs | 85 | [View →](jobs/security-jobs.md) |
+| Operations Jobs | 718 | [View →](jobs/operations-jobs.md) |
+| Security Jobs | 86 | [View →](jobs/security-jobs.md) |
 | Creative Jobs | 67 | [View →](jobs/creative-jobs.md) |
 | Admin Jobs | 28 | [View →](jobs/admin-jobs.md) |
-| More Remote Jobs | 720 | [View →](jobs/extra-jobs.md) |
+| More Remote Jobs | 732 | [View →](jobs/extra-jobs.md) |
 
 ---
 

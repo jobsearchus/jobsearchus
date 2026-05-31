@@ -2,7 +2,7 @@
 
 Remote operations and business operations roles across industries.
 
-**717 open roles** — Last updated: 2026-05-31
+**718 open roles** — Last updated: 2026-05-31
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -13,6 +13,7 @@ Remote operations and business operations roles across industries.
 | Regional Manager - Transport Planning & Aviation SEQ | [AECOM](https://aecom.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000129331629) |
 | Regional Manager - Roads & Highways Victoria | [AECOM](https://aecom.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000129331469) |
 | Regional Manager - Highways, SEQ | [AECOM](https://aecom.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000129330099) |
+| Customer Service Rep - Southside | [Domino's](https://dominos.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000129323080) |
 | General Manager(08031) - 313 S. Broadway Street, Suite 5 | [Domino's](https://dominos.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000129323059) |
 | Assistant Manager (05786) | [Domino's](https://dominos.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000129322687) |
 | General Manager(04044)36 Tamarack Ave. | [Domino's](https://dominos.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000129323038) |

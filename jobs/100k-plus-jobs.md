@@ -2,12 +2,13 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**467 open roles** — Last updated: 2026-05-31
+**468 open roles** — Last updated: 2026-05-31
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Director of Defense Security | [Applied Intuition](https://applied.co) | $200K–$260K/yr | May 31 | [Apply](https://boards.greenhouse.io/appliedintuition/jobs/4701275005?gh_jid=4701275005) |
 | Staff Product Manager, Relationship Growth | [Faire](https://faire.com) | $220K–$303K/yr | May 29 | [Apply](https://boards.greenhouse.io/faire/jobs/8572160002?gh_jid=8572160002) |
 | Staff Product Manager, Inspire & App | [Faire](https://faire.com) | $220K–$303K/yr | May 29 | [Apply](https://boards.greenhouse.io/faire/jobs/8572155002?gh_jid=8572155002) |
 | Director, Learning | [Affirm](https://affirm.com) | $191K–$271K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7741870003) |

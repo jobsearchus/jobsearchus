@@ -2,12 +2,13 @@
 
 Remote cybersecurity, information security, and security engineering roles.
 
-**85 open roles** — Last updated: 2026-05-31
+**86 open roles** — Last updated: 2026-05-31
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Director of Defense Security | [Applied Intuition](https://applied.co) | $200K–$260K/yr | May 31 | [Apply](https://boards.greenhouse.io/appliedintuition/jobs/4701275005?gh_jid=4701275005) |
 | Security Analyst | [Oddball](https://oddball.com) | $90K–$125K/yr | May 30 | [Apply](https://job-boards.greenhouse.io/oddball/jobs/7753625003) |
 | Corporate Security Engineer, IAC & Automation | [OnePay](https://onepay.com) | — | May 29 | [Apply](https://jobs.ashbyhq.com/oneapp/6a665838-2db9-412c-b1fa-2337edd2bf14) |
 | Director, Technical Support | [Blackpoint Cyber](https://blackpointcyber.com) | — | May 29 | [Apply](https://jobs.ashbyhq.com/blackpoint%20cyber/dda8bb7a-0787-4ee3-99c8-971e6f67f731) |
