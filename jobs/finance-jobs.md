@@ -2,7 +2,7 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**320 open roles** — Last updated: 2026-05-31
+**323 open roles** — Last updated: 2026-05-31
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -15,6 +15,9 @@ Remote finance, accounting, and analyst roles at companies of all sizes.
 | Manager – Private Equity Fund Accounting (Fund Administration) | [IQ-EQ](https://iqeq.com) | $88K–$105K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000129266080) |
 | Manager – Private Equity Fund Accounting (Fund Administration) | [IQ-EQ](https://iqeq.com) | $88K–$105K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000129266759) |
 | Manager – Private Equity Fund Accounting (Fund Administration) | [IQ-EQ](https://iqeq.com) | $88K–$105K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000129266629) |
+| Senior Associate - Private Equity Fund Accounting | [IQ-EQ](https://iqeq.com) | $70K–$100K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000129266419) |
+| Senior Associate - Private Equity Fund Accounting | [IQ-EQ](https://iqeq.com) | $70K–$100K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000129266389) |
+| Senior Associate - Private Equity Fund Accounting | [IQ-EQ](https://iqeq.com) | $70K–$100K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000129266259) |
 | Senior Staff Accountant | [Enviva](https://envivabiomass.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/enviva/jobs/7753875003) |
 | Senior Analyst, AML | [IQ-EQ](https://iqeq.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000129209673) |
 | Specialist - Workiva, Wdesk (12 Month FTC) | [Anglo American](https://angloamerican.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000129209419) |

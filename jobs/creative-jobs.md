@@ -2,7 +2,7 @@
 
 Remote creative roles — copywriters, content creators, graphic designers, and brand specialists.
 
-**66 open roles** — Last updated: 2026-05-31
+**67 open roles** — Last updated: 2026-05-31
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -14,6 +14,7 @@ Remote creative roles — copywriters, content creators, graphic designers, and 
 | Anchor/Producer, Telemundo Nuevo Mexico   | [NBCUniversal](https://nbcuniversal.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000129225249) |
 | Automotive Service Advisor / Writer - Weekends Off & Up to $90k* - Woodway | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | $90K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000129203955) |
 | Automotive Service Advisor / Writer - *Up To $80K Annually & Weekends Off - Holland | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | $80K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000129204209) |
+| Mobiler Produktfotograf (d/m/w) | [AUTO1 Group](https://auto1-group.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000129203909) |
 | Senior Motion Designer (AI + Beauty Exp) | [Genpak LLC](https://genpak-llc-2) | — | May 29 | [Apply](https://job-boards.greenhouse.io/brandtechplus/jobs/7938488) |
 | Creative Strategist | [Fever](https://feverup.com) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4878245101) |
 | Creative Strategist | [Fever](https://feverup.com) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4878241101) |

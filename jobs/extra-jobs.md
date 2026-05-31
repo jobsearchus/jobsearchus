@@ -2,13 +2,15 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**718 open roles** — Last updated: 2026-05-31
+**720 open roles** — Last updated: 2026-05-31
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Maitre d'Hôtel H/F | [ACCOR](https://group.accor.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000129332139) |
 | General Manager (05075) 2400 W. Commercial Blvd. | [Domino's](https://dominos.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000129322403) |
+| Guest Service Agent (Seasonal Part Time until October 1, 2026) | [ACCOR](https://group.accor.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000129304549) |
 | Assistant Chief Steward - 6 month contract | [ACCOR](https://group.accor.com) | $56K–$58K/yr | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000129302969) |
 | Second Cook - Pastry | [ACCOR](https://group.accor.com) | $20/yr | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000129302699) |
 | Pastry - Sous Chef | [ACCOR](https://group.accor.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000129302529) |

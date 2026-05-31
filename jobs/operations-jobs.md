@@ -2,21 +2,32 @@
 
 Remote operations and business operations roles across industries.
 
-**704 open roles** — Last updated: 2026-05-31
+**717 open roles** — Last updated: 2026-05-31
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Field Service Technician (Data Center cooling systems) | [New Era Technology](https://neweratech.com) | — | May 31 | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8572332002) |
+| Field Service Technician – Data Center Cooling | [New Era Technology](https://neweratech.com) | — | May 31 | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8572327002) |
 | Regional Manager - Transport Planning & Aviation SEQ | [AECOM](https://aecom.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000129331629) |
 | Regional Manager - Roads & Highways Victoria | [AECOM](https://aecom.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000129331469) |
 | Regional Manager - Highways, SEQ | [AECOM](https://aecom.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000129330099) |
+| General Manager(08031) - 313 S. Broadway Street, Suite 5 | [Domino's](https://dominos.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000129323059) |
+| Assistant Manager (05786) | [Domino's](https://dominos.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000129322687) |
+| General Manager(04044)36 Tamarack Ave. | [Domino's](https://dominos.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000129323038) |
+| Assistant Manager(03823) | [Domino's](https://dominos.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000129322999) |
+| Delivery Driver(07578) 11345 W Buckeye Rd | [Domino's](https://dominos.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000129322978) |
+| Assistant Manager(03436)  205 Main Street | [Domino's](https://dominos.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000129319466) |
 | Delivery Driver (1379) - 4111 N Dixie Hwy | [Domino's](https://dominos.com) | $24/yr | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000129322077) |
 | Bike Delivery Expert (09285) - 3701 Guadalupe St. | [Domino's](https://dominos.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000129321922) |
 | General Manager(03160) - Orlando - Chickasaw Trail | [Domino's](https://dominos.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000129322372) |
+| Seasonal Apprentice Interpretive Guide - Summer 2026 | [ACCOR](https://group.accor.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000129302039) |
 | TA Director, Risk Management Lead - Multiple Therapeutic Areas (Hybrid) | [AbbVie](https://abbvie.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/AbbVie/postings/3743990013388526) |
 | EMPLOYE LIBRE-SERVICE LIQUIDES CDI 30H | [Genpak LLC](https://genpak-llc-2) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129300859) |
 | Project Information Manager - Transportation | [AECOM](https://aecom.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000129298359) |
+| CHEF DE MAGASIN (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129297409) |
+| Assistant Front Office Manager | [ACCOR](https://group.accor.com) | $55K–$68K/yr | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000129297320) |
 | Employé Polyvalent (H/F) CDD TEMPS PLEIN | [Genpak LLC](https://genpak-llc-2) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129290619) |
 | Business Operations Transformation & AI Principal - Remote | [Experian](https://experianplc.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000129290010) |
 | Fleet & Facilities Site Manager | [Nabis](https://nabis.com) | $75K–$80K/yr | May 30 | [Apply](https://job-boards.greenhouse.io/nabis/jobs/6009625004) |
@@ -56,8 +67,10 @@ Remote operations and business operations roles across industries.
 | PREPARATEUR DRIVE (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129202480) |
 | Contact Center Operations & Optimization Consultant | [Miratech](https://miratech.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000129202251) |
 | Contact Center Operations & Optimization Consultant | [Miratech](https://miratech.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000129201861) |
+| Fahrzeugaufbereiter / Fahrzeugpfleger (d/m/w) | [AUTO1 Group](https://auto1-group.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000129202055) |
 | Senior Genesys Cloud PS Consultant | [Miratech](https://miratech.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000129201749) |
 | Claims & Cost Specialist | [MSX International](https://msxi.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013370235) |
+| Stagiaire - Coordinateur Performance & QHSE H/F | [Egis](https://egis-group.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000129190375) |
 | Central Compliance: Global Process Excellence & Operations Lead | [Experian](https://experianplc.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000129187629) |
 | Supply Chain Operations Specialist | [Continental](https://continentalserves.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000129184884) |
 | Equipment Support Specialist | [Evolution](https://evolution.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Evolution/postings/744000129183967) |

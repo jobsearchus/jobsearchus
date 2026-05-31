@@ -2,18 +2,24 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**618 open roles** — Last updated: 2026-05-31
+**627 open roles** — Last updated: 2026-05-31
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Automation Sales Manager | [Formic](https://formic.co) | — | May 31 | [Apply](https://job-boards.greenhouse.io/formic/jobs/4685613006) |
+| Automation Sales Manager | [Formic](https://formic.co) | — | May 31 | [Apply](https://job-boards.greenhouse.io/formic/jobs/4685612006) |
+| Automation Sales Manager | [Formic](https://formic.co) | — | May 31 | [Apply](https://job-boards.greenhouse.io/formic/jobs/4685610006) |
+| Associate City Head - Commercial (Alexandria) | [Delivery Hero](https://deliveryhero.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000129332089) |
 | Cashier - Pizza Maker  (02182) Part-time | [Domino's](https://dominos.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000129322879) |
 | Asst. Automotive Service Advisor / Writer - Weekends Off - New Braunfels | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000129301859) |
 | Vendeur ALIMENTAIRE CHARCUTERIE TRAITEUR FROMAGE (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129300289) |
+| Sales Coordinator | [ACCOR](https://group.accor.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000129299059) |
 | CONSEILLER DE VENTE (H/F) - Sols/Menuiserie | [Genpak LLC](https://genpak-llc-2) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129298639) |
 | ALTERNANCE - VENTE H/F  | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000129298009) |
 | Sales Assitant | [Frasers Group](https://frasersgroup.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000129297899) |
+| VENDEUR POLYVVALENT SECTEUR DECOUPE BOIS ET VERRE (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129297049) |
 | VENDEUR(SE) CHARCUTIER-TRAITEUR (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129296159) |
 | EMPLOYE COMMERCIAL (H/F) SAISONNIERS | [Genpak LLC](https://genpak-llc-2) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129295899) |
 | Territory Account Executive, iGaming (Thailand) | [Cloudflare](https://cloudflare.com) | — | May 30 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7962217?gh_jid=7962217) |
@@ -27,6 +33,7 @@ Remote sales roles — account executives, SDRs, and enterprise deals.
 | Field Sales Rep - Depositions by Filevine | [Filevine](https://filevine.com) | — | May 29 | [Apply](https://jobs.lever.co/filevine/223c7aa8-e962-4988-9f94-f08ae2c79b82) |
 | Account Executive | [Attio](https://attio.com) | — | May 29 | [Apply](https://jobs.ashbyhq.com/attio/d3f7d63a-2646-449e-b244-cd74e270fb5c) |
 | Deal Desk Analyst | [Apollo.io](https://apollo.io) | — | May 29 | [Apply](https://job-boards.greenhouse.io/apolloio/jobs/6008747004) |
+| Enterprise Sales Account Executive, SLED (Midwest/Great Lakes) | [Sectigo](https://sectigo.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Sectigo/postings/3743990013380322) |
 | Senior Technical Sales Enablement Manager | [Docker](https://docker.com) | — | May 29 | [Apply](https://jobs.ashbyhq.com/docker/9bb35ecd-03c1-4a66-946f-b79bb2f022eb) |
 | BDR, New Vertical  | [Dandy](https://meetdandy.com) | — | May 29 | [Apply](https://jobs.ashbyhq.com/dandy/158d49e7-f81f-4d39-8d68-48576de321ec) |
 | Senior Consultant - Customer Experience Transformation (CXT) | [TTEC Digital](https://ttecdigital.com) | — | May 29 | [Apply](https://jobs.lever.co/ttecdigital/7c7c9adc-cebf-418f-a7be-3b703f52d8af) |
@@ -40,6 +47,8 @@ Remote sales roles — account executives, SDRs, and enterprise deals.
 | Senior Commercial Excellence Manager | [Too Good To Go](https://toogoodtogo.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/toogoodtogo/jobs/7753335003) |
 | Sales Acceleration Specialist | [Veeam Software](https://veeam.com) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4857560101) |
 | Specialty Representative, Psychiatry - Belleville, IL/Effingham, IL | [AbbVie](https://abbvie.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/AbbVie/postings/3743990013370386) |
+| Account Manager - Vigo (They/She/He) | [Delivery Hero](https://deliveryhero.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000129195392) |
+| Account Manager - Bilbao (They/She/He) | [Delivery Hero](https://deliveryhero.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000129196141) |
 | Account Executive – Agency Growth | [Searchable](https://searchable.com) | — | May 29 | [Apply](https://jobs.ashbyhq.com/searchable/f887905c-f90a-4903-88c8-bdb63a26f4d8) |
 | Sales Director, NBC & Telemundo Connecticut  | [NBCUniversal](https://nbcuniversal.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000129184659) |
 | Principal Post Sales Solution Consultant  | [Socure](https://socure.com) | — | May 29 | [Apply](https://jobs.ashbyhq.com/socure/bb454729-b563-4416-95d2-89f59b2351f1) |

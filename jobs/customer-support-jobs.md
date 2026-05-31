@@ -2,17 +2,21 @@
 
 Remote customer support and success roles across SaaS, e-commerce, and tech.
 
-**195 open roles** — Last updated: 2026-05-31
+**199 open roles** — Last updated: 2026-05-31
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Health Club Receptionist | [ACCOR](https://group.accor.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000129331909) |
 | Customer Service Rep(08096) - 1405 S. Boston Rd | [Domino's](https://dominos.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000129322837) |
 | Technical Support Specialist | [Sectigo](https://sectigo.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/Sectigo/postings/3743990013389006) |
 | Technical Support Specialist | [Sectigo](https://sectigo.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/Sectigo/postings/3743990013388886) |
 | EXPERT SERVICE CLIENT - CDI ETUDIANT 12h/sem. H/F  | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000129300949) |
 | Customer Service Rep (06887) - 6633 N Mesa St | [Domino's](https://dominos.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000129300459) |
+| EXPERT SERVICE CLIENT - CDI TEMPS PARTIEL 8H H/F  | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000129297959) |
+| EXPERT SERVICE CLIENT - CDI 25Heures H/F  | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000129297599) |
+| EXPERT SERVICE CLIENT - CDI H/F - Temps partiel | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000129296489) |
 | Customer Experience Associate | [Nabis](https://nabis.com) | — | May 30 | [Apply](https://job-boards.greenhouse.io/nabis/jobs/6009617004) |
 | Senior Associate Director, MBA Recruiting and Admissions | [University of Notre Dame](https://universityofnotredame.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013373816) |
 | Junior Customer Service Operations Manager (f/m/d) | [AUTO1 Group](https://auto1-group.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000129214895) |
