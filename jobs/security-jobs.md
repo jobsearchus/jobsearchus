@@ -2,7 +2,7 @@
 
 Remote cybersecurity, information security, and security engineering roles.
 
-**84 open roles** — Last updated: 2026-05-30
+**85 open roles** — Last updated: 2026-05-31
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -14,6 +14,7 @@ Remote cybersecurity, information security, and security engineering roles.
 | Security Analyst - Governance, Risk, and Compliance | [LaunchDarkly](https://launchdarkly.com) | $137K–$188K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/launchdarkly/jobs/7753776003) |
 | NDT CT Level II and Radiation Safety Specialist | [Archer](https://archer.com) | $108K–$149K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7751399003) |
 | Head of Security Engineering | [BetterHelp](https://betterhelp.com) | $250K–$300K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/betterhelpcom/jobs/5217845008) |
+| Investigator | [Standard Bank](https://standardbank.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000129170099) |
 | Staff Security Engineer, IAM (USA) | [GitLab](https://about.gitlab.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8561489002) |
 | Network Security Software Engineer | [Lumin Digital](https://lumindigital.com) | — | May 28 | [Apply](https://jobs.lever.co/LuminDigital/6b242155-7023-4fd6-ba61-eb53624610d8) |
 | Functional Business Analyst | [Capstone Integrated Solutions](https://capstoneintegratedsolutions.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/capstoneintegratedsolutions/jobs/5148966007) |

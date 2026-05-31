@@ -2,7 +2,7 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**1061 open roles** — Last updated: 2026-05-30
+**1065 open roles** — Last updated: 2026-05-31
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -64,6 +64,9 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Chef de Projet Expérimenté MOE Poste HTB (H/F) | [Egis](https://egis-group.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000129204970) |
 | Junior Enterprise Onboarding Engineer | [Sectigo](https://sectigo.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Sectigo/postings/3743990013371386) |
 | Chargé d'étude / Dessinateur Lignes Souterraines (LS) junior H/F | [Egis](https://egis-group.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000129204523) |
+| Ingénieur Chargé d'Étude Lignes Aériennes Débutant H/F | [Egis](https://egis-group.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000129203429) |
+| Alternance T&D - projeteur Liaisons aériennes HTB H/F | [Egis](https://egis-group.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000129202709) |
+| Alternance T&D - POSTE HTB + Liaisons HTB H/F | [Egis](https://egis-group.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000129199159) |
 | Principal Operations Engineer, Electrical — Data Center Operations | [Fluidstack](https://fluidstack.com) | $200K–$250K/yr | May 29 | [Apply](https://jobs.ashbyhq.com/fluidstack/f41fecee-f230-4ae7-b7bb-2aaebb27f82f) |
 | Scientist I, Cell and Molecular Biologist | [AbbVie](https://abbvie.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/AbbVie/postings/3743990013369967) |
 | Senior Research Associate, Fermentation Development | [Flagship Pioneering, Inc.](https://flagshippioneering.com) | $81K–$107K/yr | May 29 | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8567720002?gh_jid=8567720002) |
@@ -97,6 +100,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | AI Specialist (Junior - Medior) | [Netcompany](https://netcompany.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000129107909) |
 | Research Project Manager | [Western Sydney University](https://westernsydney.edu.au) | $119K–$132K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/WesternSydneyUniversity/postings/6000000001117592) |
 | Associate Consultant til Netcompany Application Services (Swedish speaking) | [Netcompany](https://netcompany.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000129099905) |
+| CONSULTANT TECHNIQUE (SERVICE NOW) CONFIRME H/F | [Inetum](https://inetum.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000129092370) |
 | AI Quality evaluator -Japanese Content (12-month contract) | [Canva](https://canva.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001116859) |
 | Professor, School of Law | [Western Sydney University](https://westernsydney.edu.au) | $226K–$234K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/WesternSydneyUniversity/postings/6000000001116545) |
 | Engineering Manager - Elements Experience | [Canva](https://canva.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001116021) |

@@ -2,7 +2,7 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**260 open roles** — Last updated: 2026-05-30
+**261 open roles** — Last updated: 2026-05-31
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -24,6 +24,7 @@ Remote marketing roles across growth, content, brand, and performance channels.
 | Digital Marketing Executive   | [Egis](https://egis-group.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000129212074) |
 | Product Marketing Lead, Core Banking | [Monzo](https://monzo.com) | £94K–£124K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7966820) |
 | Director, Marketing Operations | [Freshworks](https://freshworks.com) | $220K–$270K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000129206122) |
+| CRM Intern (Comms Automation & Insights) | [Delivery Hero](https://deliveryhero.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000129196869) |
 | Manager, Brand Marketing | [NBCUniversal](https://nbcuniversal.com) | $75K–$105K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000129191389) |
 | Senior Paid User Acquisition Strategist | [RevenueCat](https://revenuecat.com) | — | May 29 | [Apply](https://jobs.ashbyhq.com/revenuecat/421588b5-5f58-4c86-a3c4-8b425eafa543) |
 | Integrated Marketing Lead, Business Banking | [Monzo](https://monzo.com) | £94K–£124K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7965914) |

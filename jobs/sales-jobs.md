@@ -2,7 +2,7 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**611 open roles** — Last updated: 2026-05-30
+**614 open roles** — Last updated: 2026-05-31
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -11,9 +11,11 @@ Remote sales roles — account executives, SDRs, and enterprise deals.
 | Asst. Automotive Service Advisor / Writer - Weekends Off - New Braunfels | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000129301859) |
 | Vendeur ALIMENTAIRE CHARCUTERIE TRAITEUR FROMAGE (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129300289) |
 | CONSEILLER DE VENTE (H/F) - Sols/Menuiserie | [Genpak LLC](https://genpak-llc-2) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129298639) |
+| ALTERNANCE - VENTE H/F  | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000129298009) |
 | Sales Assitant | [Frasers Group](https://frasersgroup.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000129297899) |
 | Territory Account Executive, iGaming (Thailand) | [Cloudflare](https://cloudflare.com) | — | May 30 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7962217?gh_jid=7962217) |
 | Account Executive - Credit Unions (Remote) | [Experian](https://experianplc.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000129290129) |
+| Partner Success Manager | [Saviynt](https://saviynt.com) | — | May 30 | [Apply](https://jobs.lever.co/saviynt/b0606810-c6e7-4475-9500-42a910e8704a) |
 | Client Partner, Mid-Market (B2B Services Acquisitions) | [Reddit](https://reddit.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/7961073) |
 | Director - Business Development | [IQ-EQ](https://iqeq.com) | $150K–$180K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000129267459) |
 | 営業チームリーダー/ Sales Team Lead | [Too Good To Go](https://toogoodtogo.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/toogoodtogo/jobs/7749094003) |
@@ -24,6 +26,7 @@ Remote sales roles — account executives, SDRs, and enterprise deals.
 | Deal Desk Analyst | [Apollo.io](https://apollo.io) | — | May 29 | [Apply](https://job-boards.greenhouse.io/apolloio/jobs/6008747004) |
 | Senior Technical Sales Enablement Manager | [Docker](https://docker.com) | — | May 29 | [Apply](https://jobs.ashbyhq.com/docker/9bb35ecd-03c1-4a66-946f-b79bb2f022eb) |
 | BDR, New Vertical  | [Dandy](https://meetdandy.com) | — | May 29 | [Apply](https://jobs.ashbyhq.com/dandy/158d49e7-f81f-4d39-8d68-48576de321ec) |
+| Senior Consultant - Customer Experience Transformation (CXT) | [TTEC Digital](https://ttecdigital.com) | — | May 29 | [Apply](https://jobs.lever.co/ttecdigital/7c7c9adc-cebf-418f-a7be-3b703f52d8af) |
 | Technical Account Manager | [Impiricus](https://impiricus.com) | $100K–$110K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/impiricus/jobs/5235973008) |
 | Event Marketing Lead  | [Reddit](https://reddit.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/7966862) |
 | Golden Harvest Sales Representative | [Syngenta](https://syngenta.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000129224019) |

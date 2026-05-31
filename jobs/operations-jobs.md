@@ -2,13 +2,14 @@
 
 Remote operations and business operations roles across industries.
 
-**691 open roles** — Last updated: 2026-05-30
+**695 open roles** — Last updated: 2026-05-31
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | TA Director, Risk Management Lead - Multiple Therapeutic Areas (Hybrid) | [AbbVie](https://abbvie.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/AbbVie/postings/3743990013388526) |
+| EMPLOYE LIBRE-SERVICE LIQUIDES CDI 30H | [Genpak LLC](https://genpak-llc-2) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129300859) |
 | Project Information Manager - Transportation | [AECOM](https://aecom.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000129298359) |
 | Employé Polyvalent (H/F) CDD TEMPS PLEIN | [Genpak LLC](https://genpak-llc-2) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129290619) |
 | Business Operations Transformation & AI Principal - Remote | [Experian](https://experianplc.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000129290010) |
@@ -37,6 +38,7 @@ Remote operations and business operations roles across industries.
 | Asesor Programación y Avances | [Anglo American](https://angloamerican.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000129218577) |
 | MODELE INTERMARCHE - MANAGER DE RAYON (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129219680) |
 | MODELE INTERMARCHE - RESPONSABLE FRUITS ET LEGUMES (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129217004) |
+| Soldador(a) Industrial I | [Anglo American](https://angloamerican.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000129217049) |
 | Coordenador(a) Geral | [Egis](https://egis-group.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000129216340) |
 | General Service Technician / Mechanic - Weekends Off - Waunakee | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000129212459) |
 | MODELE BRICOMARCHE - RECEPTIONNAIRE (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129212129) |
@@ -52,6 +54,7 @@ Remote operations and business operations roles across industries.
 | Supply Chain Operations Specialist | [Continental](https://continentalserves.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000129184884) |
 | Equipment Support Specialist | [Evolution](https://evolution.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Evolution/postings/744000129183967) |
 | Quality Manager | [Avery Dennison](https://averydennison.com) | $125K–$150K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000129179846) |
+| Eletricista Manutenção Industrial II - Afirmativa para Pessoas com Deficiência | [Anglo American](https://angloamerican.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000129183799) |
 | Office Manager  | [Keyfactor](https://keyfactor.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/keyfactorinc/jobs/6008923004) |
 | Coordinator, Project | [Standard Bank](https://standardbank.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000129173991) |
 | Ejection Seat Specialist | [Vertical Aerospace](https://vertical-aerospace.com) | — | May 29 | [Apply](https://jobs.ashbyhq.com/vertical-aerospace/ea27686e-afcb-4c23-916d-ffa7b09061bd) |
@@ -67,6 +70,7 @@ Remote operations and business operations roles across industries.
 | Production Merchandiser | [Gymshark](https://gymshark.com) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/gymshark/jobs/4873861101) |
 | Front Office Assistant - Part Time | [VML MAP](https://vml-map.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/map/jobs/8570497002) |
 | Change & Adoption Manager | [Western Sydney University](https://westernsydney.edu.au) | $138K–$147K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/WesternSydneyUniversity/postings/6000000001117732) |
+| Praktikant/Werkstudent (w/m/d) Nachhaltiges Bauen - ESG | [Drees & Sommer](https://dreso.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000129096156) |
 | Student Experience Administrative Officer | [Western Sydney University](https://westernsydney.edu.au) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/WesternSydneyUniversity/postings/6000000001116234) |
 | Employee Relations Specialist | [Scopely](https://scopely.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/scopely/jobs/5210637008) |
 | Shift Supervisor - Barranco | [Delivery Hero](https://deliveryhero.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000129050479) |

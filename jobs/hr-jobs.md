@@ -2,7 +2,7 @@
 
 Remote HR, recruiting, and people operations roles.
 
-**121 open roles** — Last updated: 2026-05-30
+**124 open roles** — Last updated: 2026-05-31
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -17,6 +17,9 @@ Remote HR, recruiting, and people operations roles.
 | HR General Affairs  | [SBT Global](https://sbtglobal.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/SBTGlobalInc/postings/3743990013373526) |
 | Senior Manager of Global Payroll | [ŌURA](https://ouraring.com) | $170K–$200K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/oura/jobs/4264573009) |
 | Workday HRIS Analyst – Time & Absence (f/m/x) | [AUTO1 Group](https://auto1-group.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000129201374) |
+| Workday Specialist – Absence & Time Tracking (f/m/x) | [AUTO1 Group](https://auto1-group.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000129204369) |
+| Workday Specialist – Absence & Time Tracking (f/m/x) | [AUTO1 Group](https://auto1-group.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000129202670) |
+| Workday Specialist – Absence & Time Tracking (f/m/x) | [AUTO1 Group](https://auto1-group.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000129204139) |
 | Global HR Systems User Access Provisioning Specialist - Tires | [Continental](https://continentalserves.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000129198667) |
 | IT - Stage HR - People & Culture Administrator | [Primark Tiendas SLU](https://primark.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000129162020) |
 | Talent Acquisition Sourcer (Apprentice - Any Bachelor's - BBA/B.Com/B.Sc/BCA) | [Vonage](https://vonage.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/vonage/jobs/8570556002) |

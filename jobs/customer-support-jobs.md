@@ -2,12 +2,15 @@
 
 Remote customer support and success roles across SaaS, e-commerce, and tech.
 
-**191 open roles** — Last updated: 2026-05-30
+**194 open roles** — Last updated: 2026-05-31
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Technical Support Specialist | [Sectigo](https://sectigo.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/Sectigo/postings/3743990013389006) |
+| Technical Support Specialist | [Sectigo](https://sectigo.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/Sectigo/postings/3743990013388886) |
+| EXPERT SERVICE CLIENT - CDI ETUDIANT 12h/sem. H/F  | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000129300949) |
 | Customer Service Rep (06887) - 6633 N Mesa St | [Domino's](https://dominos.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000129300459) |
 | Customer Experience Associate | [Nabis](https://nabis.com) | — | May 30 | [Apply](https://job-boards.greenhouse.io/nabis/jobs/6009617004) |
 | Senior Associate Director, MBA Recruiting and Admissions | [University of Notre Dame](https://universityofnotredame.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013373816) |

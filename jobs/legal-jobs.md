@@ -2,7 +2,7 @@
 
 Remote legal, compliance, and counsel roles.
 
-**73 open roles** — Last updated: 2026-05-30
+**73 open roles** — Last updated: 2026-05-31
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 

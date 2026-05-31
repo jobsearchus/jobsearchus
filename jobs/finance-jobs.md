@@ -2,19 +2,22 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**316 open roles** — Last updated: 2026-05-30
+**320 open roles** — Last updated: 2026-05-31
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Specialist Underwriter (Life) | [Standard Bank](https://standardbank.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000129301029) |
 | Associate Pricing Manager Italy & Greece - Allergan Aesthetics | [AbbVie](https://abbvie.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/AbbVie/postings/3743990013388396) |
 | Accounting Specialist  | [Baubap](https://baubap.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/baubap/jobs/5236459008) |
 | Accounting Payable Specialist | [Baubap](https://baubap.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/baubap/jobs/5236454008) |
 | Manager – Private Equity Fund Accounting (Fund Administration) | [IQ-EQ](https://iqeq.com) | $88K–$105K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000129266080) |
 | Manager – Private Equity Fund Accounting (Fund Administration) | [IQ-EQ](https://iqeq.com) | $88K–$105K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000129266759) |
+| Manager – Private Equity Fund Accounting (Fund Administration) | [IQ-EQ](https://iqeq.com) | $88K–$105K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000129266629) |
 | Senior Staff Accountant | [Enviva](https://envivabiomass.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/enviva/jobs/7753875003) |
 | Senior Analyst, AML | [IQ-EQ](https://iqeq.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000129209673) |
+| Specialist - Workiva, Wdesk (12 Month FTC) | [Anglo American](https://angloamerican.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000129209419) |
 | Fund Accountant | [IQ-EQ](https://iqeq.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000129209379) |
 | ET Project Accountant - 6 month FTC | [WPP](https://wpp.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/wpp/jobs/8562029002) |
 | Analyst, Business (Commercial Asset Finance) | [Standard Bank](https://standardbank.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000129201115) |
@@ -22,6 +25,7 @@ Remote finance, accounting, and analyst roles at companies of all sizes.
 | Specialist, Commercial Asset Finance | [Standard Bank](https://standardbank.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000129186016) |
 | Manager, Trade Finance Business & Commercial Banking | [Standard Bank](https://standardbank.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000129184169) |
 | Junior International Accountant | [JustMarkets](https://justmarkets.com) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/justmarkets/jobs/4878519101) |
+| Head, Global Markets | [Standard Bank](https://standardbank.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000129169399) |
 | Accounts Administrator (15 month contract) | [DRW](https://drw.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7946302) |
 | FP&A Analyst | [Vertical Aerospace](https://vertical-aerospace.com) | — | May 29 | [Apply](https://jobs.ashbyhq.com/vertical-aerospace/21daa556-0e1f-4296-a460-78820121c1d9) |
 | Finacial analyst  | [Growe](https://growe.com) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/growe/jobs/4873863101) |

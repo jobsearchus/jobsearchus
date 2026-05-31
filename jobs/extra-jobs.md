@@ -2,12 +2,15 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**705 open roles** — Last updated: 2026-05-30
+**715 open roles** — Last updated: 2026-05-31
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Assistant Chief Steward - 6 month contract | [ACCOR](https://group.accor.com) | $56K–$58K/yr | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000129302969) |
+| Second Cook - Pastry | [ACCOR](https://group.accor.com) | $20/yr | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000129302699) |
+| Pastry - Sous Chef | [ACCOR](https://group.accor.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000129302529) |
 | Taco Bell Team Member | [Pilot Flying J](https://pilotflyingj.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/PilotCompany/postings/744000129300059) |
 | Verkäufer/in (a) 20% (Samstags) | [JYSK](https://jysk.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000129299399) |
 | Visual Merchandiser | [Primark Tiendas SLU](https://primark.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000129299309) |
@@ -26,14 +29,18 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Director, Learning | [Affirm](https://affirm.com) | $245K–$325K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7741868003) |
 | Residential Counselor I/II - Monroe House Thurs/Fri/Sat AON 8pm-8am  | [WellPower - All External Jobs](https://wellpower.org) | $28/yr | May 29 | [Apply](https://job-boards.greenhouse.io/mentalhealthcenterofdenver/jobs/7754222003) |
 | Medical Assistant Lead – Akido Scope AI Clinic | [Akido Labs](https://akidolabs.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/akidolabs/jobs/4683687006) |
+| Analyst, Office of the CEO | [Sezzle](https://sezzle.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/sezzle/jobs/7754085003) |
 | Senior Solution Architect | [Agiloft](https://agiloft.com) | — | May 29 | [Apply](https://jobs.lever.co/agiloft/1df86513-7a0c-4a2a-965b-9aaeece6271c) |
 | Senior Manager of Care Transformation | [BetterHelp](https://betterhelp.com) | $130K–$170K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/betterhelpcom/jobs/5236303008) |
+| Senior HR Business Partner (Contract) | [StackAdapt](https://stackadapt.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/stackadapt/jobs/4265012009) |
 | Housekeeping Leader - The Wickaninnish Inn | [Relais & Châteaux](https://relaischateaux.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000129257329) |
+| Consultor(a) SAP FI/CO Sênior | [Inetum](https://inetum.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000129251780) |
 | Commercial Door Installer Trainee | [DH Pace Company](https://dhpace.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5236036008) |
 | Commercial Door Service Technicians | [DH Pace Company](https://dhpace.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5236015008) |
 | Physical Therapist Assistant, PTA | [InHomeTherapy](https://inhometherapy.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/inhometherapy/jobs/5150158007) |
 | Physical Therapist Assistant, PTA | [InHomeTherapy](https://inhometherapy.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/inhometherapy/jobs/5150222007) |
 | Physical Therapist Assistant, PTA | [InHomeTherapy](https://inhometherapy.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/inhometherapy/jobs/5150242007) |
+| Mental Health Facility Administrator | [Crestwood Behavioral Health](https://crestwoodbehavioralhealth.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/crestwoodcareers/jobs/7753543003) |
 | Assistant Program Director  | [Crestwood Behavioral Health](https://crestwoodbehavioralhealth.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/crestwoodcareers/jobs/7753527003) |
 | Room Attendant | [ACCOR](https://group.accor.com) | $22/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000129229848) |
 | Serveur - Service aux chambres Nuit | [ACCOR](https://group.accor.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000129229509) |
@@ -54,6 +61,7 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | AI Search Innovation Strategist - Madrid based | [Fever](https://feverup.com) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4878580101) |
 | AI Search Innovation Strategist | [Fever](https://feverup.com) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4878589101) |
 | Registered Nurse Inpatient-Delnor Cardiac Telemetry Med Surg Unit Full Time Days | [Northwestern Medicine](https://northwesternmedicine.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/NorthwesternMedicine/postings/744000129178602) |
+|  Dentist (Private) | [PortmanDentex](https://portmandentex.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000129177449) |
 | Directeur de magasin F/H/X | [BUT](https://but.fr) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000129170762) |
 | Telehealth Crisis Line Provider - W2 Part-Time | [Mantra Health](https://mantrahealth.com) | $30/yr | May 29 | [Apply](https://job-boards.greenhouse.io/mantrahealth/jobs/6008930004) |
 | Commis de Salle (H/F) - Restaurant Girardin 1* | [Relais & Châteaux](https://relaischateaux.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000129156319) |
@@ -63,10 +71,12 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Assistant Restaurant Manager | [Relais & Châteaux](https://relaischateaux.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000129139649) |
 | Hôte/Hôtesse CDD Rooftop | [Genpak LLC](https://genpak-llc-2) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000129135900) |
 | Croupier Poker en Extra | [Genpak LLC](https://genpak-llc-2) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000129126049) |
+| ServiceNow Team Lead / Lead Technical Consultant | [Inetum](https://inetum.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000129104863) |
 | Business Consultant | [Netcompany](https://netcompany.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000129100190) |
 | Head of Student Voice, Advocacy and Wellbeing | [Western Sydney University](https://westernsydney.edu.au) | $118K–$147K/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/WesternSydneyUniversity/postings/6000000001117409) |
 | Occupational Rehabilitation Consultant (OT, EP, Physio) | [Genpak LLC](https://genpak-llc-2) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/APMGroup/postings/6000000001116164) |
 | Consultant | [Genpak LLC](https://genpak-llc-2) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/APMGroup/postings/6000000001116105) |
+| Rehabilitation Consultant - Occupational Therapist, Physiotherapist, AEP | [Genpak LLC](https://genpak-llc-2) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/APMGroup/postings/6000000001115934) |
 | RN Triage | [Healthcare Australia](https://healthcareaustralia.com.au) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/HealthcareAustralia1/postings/6000000001115724) |
 | Registered Nurse – AOD (Mon–Fri) - No Shift Work | [Healthcare Australia](https://healthcareaustralia.com.au) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/HealthcareAustralia1/postings/6000000001115242) |
 | Mental Health Registered Nurse (Casual) | [Healthcare Australia](https://healthcareaustralia.com.au) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/HealthcareAustralia1/postings/6000000001115193) |
