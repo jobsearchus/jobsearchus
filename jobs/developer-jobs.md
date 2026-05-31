@@ -2,7 +2,7 @@
 
 General developer and programmer roles that did not fit a more specific category.
 
-**78 open roles** — Last updated: 2026-05-31
+**79 open roles** — Last updated: 2026-05-31
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -11,6 +11,7 @@ General developer and programmer roles that did not fit a more specific category
 | Delphi Developer | [Genpak LLC](https://genpak-llc-2) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000129297539) |
 | AI Developer | [Moonshot Brands](https://moonshotbrands.com) | — | May 30 | [Apply](https://job-boards.greenhouse.io/moonshot/jobs/4265696009) |
 | Application Programmer (EBS) | [Horizon Industries](https://horizonindustries.com) | $115K–$125K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/horizonindustrieslimited/jobs/5235974008) |
+| Senior AI Agent Developer – Microsoft Copilot, OpenAI | [Genpak LLC](https://genpak-llc-2) | $165K–$220K/yr | May 29 | [Apply](https://job-boards.eu.greenhouse.io/valtech/jobs/4877961101) |
 | Senior Java Developer | [Miratech](https://miratech.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000129137789) |
 | Salesforce CPQ Developer | [CapTech](https://captech.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/CapTechConsulting/postings/744000128978613) |
 | Senior Enterprise Platforms Professional I ( SAP HANA BODS Developer) | [Nielsen](https://nielsen.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990013348078) |

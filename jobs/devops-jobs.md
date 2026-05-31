@@ -2,12 +2,13 @@
 
 DevOps, platform engineering, and infrastructure roles. AWS, GCP, Kubernetes, Terraform.
 
-**64 open roles** — Last updated: 2026-05-31
+**65 open roles** — Last updated: 2026-05-31
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Research Engineer, AI/RL Infrastructure (Research) | [Applied Intuition](https://applied.co) | — | May 30 | [Apply](https://boards.greenhouse.io/appliedintuition/jobs/4671923005?gh_jid=4671923005) |
 | Senior Software Engineer, Infrastructure | [Outschool](https://outschool.com) | — | May 30 | [Apply](https://job-boards.greenhouse.io/outschool/jobs/4685596006) |
 | Google Cloud Platform Engineer | [LightFeather](https://lightfeather.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5236205008) |
 | GCP Cloud/DevOps Engineer | [LightFeather](https://lightfeather.com) | $160K–$180K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5236203008) |

@@ -2,7 +2,7 @@
 
 Remote jobs open to candidates with 0–2 years of experience. A real way in — no degree gatekeeping.
 
-**683 open roles** — Last updated: 2026-05-31
+**684 open roles** — Last updated: 2026-05-31
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -27,6 +27,7 @@ Remote jobs open to candidates with 0–2 years of experience. A real way in —
 | Clinical Data Review Asst | [Natera](https://natera.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/natera/jobs/5997428004) |
 | BDR, New Vertical  | [Dandy](https://meetdandy.com) | — | May 29 | [Apply](https://jobs.ashbyhq.com/dandy/158d49e7-f81f-4d39-8d68-48576de321ec) |
 | Commercial Door Installer Trainee | [DH Pace Company](https://dhpace.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5236036008) |
+| Commercial Service Technician Trainees | [DH Pace Company](https://dhpace.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5236000008) |
 | Practicante Técnico - Mantenimiento Eléctrico Planta | [Anglo American](https://angloamerican.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000129228759) |
 | Room Attendant | [ACCOR](https://group.accor.com) | $22/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000129229848) |
 | Serveur - Service aux chambres Nuit | [ACCOR](https://group.accor.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000129229509) |

@@ -2,7 +2,7 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**715 open roles** — Last updated: 2026-05-31
+**716 open roles** — Last updated: 2026-05-31
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -58,6 +58,7 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Administrative Manager-Medical Education | [Northwestern Medicine](https://northwesternmedicine.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/NorthwesternMedicine/postings/744000129186404) |
 | Physical Therapist Assistant, PTA,  Downtown Chicago | [InHomeTherapy](https://inhometherapy.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/inhometherapy/jobs/5145407007) |
 | Produktionsmitarbeiter (m/w/d) - befristet bis 03/2027 - REF94685D | [Continental](https://continentalserves.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000129183740) |
+| AI Search Innovation Strategist - Madrid based | [Fever](https://feverup.com) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4878581101) |
 | AI Search Innovation Strategist - Madrid based | [Fever](https://feverup.com) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4878580101) |
 | AI Search Innovation Strategist | [Fever](https://feverup.com) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4878589101) |
 | Registered Nurse Inpatient-Delnor Cardiac Telemetry Med Surg Unit Full Time Days | [Northwestern Medicine](https://northwesternmedicine.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/NorthwesternMedicine/postings/744000129178602) |

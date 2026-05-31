@@ -2,7 +2,7 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**465 open roles** — Last updated: 2026-05-31
+**467 open roles** — Last updated: 2026-05-31
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -34,6 +34,8 @@ Remote roles paying $100,000 or more per year. Salary data pulled directly from 
 | Manager, Software Engineering (Card Platform) | [Affirm](https://affirm.com) | $225K–$275K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7742412003) |
 | Robotics Engineer, Technical Lead | [Applied Intuition](https://applied.co) | $250K–$400K/yr | May 29 | [Apply](https://boards.greenhouse.io/appliedintuition/jobs/4700425005?gh_jid=4700425005) |
 | Robotics Engineer | [Applied Intuition](https://applied.co) | $189K–$270K/yr | May 29 | [Apply](https://boards.greenhouse.io/appliedintuition/jobs/4699945005?gh_jid=4699945005) |
+| Senior AI Agent Developer – Microsoft Copilot, OpenAI | [Genpak LLC](https://genpak-llc-2) | $165K–$220K/yr | May 29 | [Apply](https://job-boards.eu.greenhouse.io/valtech/jobs/4877961101) |
+| Senior AI Engineer – Microsoft Fabric & Azure AI Foundry | [Genpak LLC](https://genpak-llc-2) | $160K–$220K/yr | May 29 | [Apply](https://job-boards.eu.greenhouse.io/valtech/jobs/4877971101) |
 | Senior Full-Stack Software Engineer, Player Experience | [Discord](https://discord.com) | $196K–$221K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/discord/jobs/8497565002) |
 | Senior Manager of Global Payroll | [ŌURA](https://ouraring.com) | $170K–$200K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/oura/jobs/4264573009) |
 | Head of Security Engineering | [BetterHelp](https://betterhelp.com) | $250K–$300K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/betterhelpcom/jobs/5217845008) |

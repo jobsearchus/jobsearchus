@@ -2,7 +2,7 @@
 
 Remote operations and business operations roles across industries.
 
-**695 open roles** — Last updated: 2026-05-31
+**698 open roles** — Last updated: 2026-05-31
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -27,6 +27,8 @@ Remote operations and business operations roles across industries.
 | Crane Operator | [Enviva](https://envivabiomass.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/enviva/jobs/7753871003) |
 | Electrical Technician | [Enviva](https://envivabiomass.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/enviva/jobs/7753866003) |
 | Driver - Three Leaf Catering | [University of Notre Dame](https://universityofnotredame.com) | $18/yr | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013378828) |
+| Commercial Service Technician - Experienced | [DH Pace Company](https://dhpace.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5236006008) |
+| Commercial Service Technician Trainees | [DH Pace Company](https://dhpace.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5236000008) |
 | CCTV Installation Technician | [DH Pace Company](https://dhpace.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5235982008) |
 | Revenue Enablement Program Manager | [OpenLoop](https://openloop.com) | — | May 29 | [Apply](https://jobs.ashbyhq.com/openloophealth/6d6baaf4-644c-45d2-a270-ec058a807671) |
 | Chef de caisse F/H/X | [BUT](https://but.fr) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000129230239) |
@@ -58,6 +60,7 @@ Remote operations and business operations roles across industries.
 | Office Manager  | [Keyfactor](https://keyfactor.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/keyfactorinc/jobs/6008923004) |
 | Coordinator, Project | [Standard Bank](https://standardbank.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000129173991) |
 | Ejection Seat Specialist | [Vertical Aerospace](https://vertical-aerospace.com) | — | May 29 | [Apply](https://jobs.ashbyhq.com/vertical-aerospace/ea27686e-afcb-4c23-916d-ffa7b09061bd) |
+| Merchant Onboarding Associate | [Wolt](https://wolt.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7965523) |
 | Ausbildung Kauffrau/Kaufmann (w/m/d) für Büromanagement | [Drees & Sommer](https://dreso.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000129155370) |
 | AI Engineer | [GitLab](https://about.gitlab.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8565469002) |
 | Rail Loadout Operator | [Enviva](https://envivabiomass.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/enviva/jobs/7750994003) |
