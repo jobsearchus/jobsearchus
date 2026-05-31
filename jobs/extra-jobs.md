@@ -2,12 +2,13 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**716 open roles** — Last updated: 2026-05-31
+**718 open roles** — Last updated: 2026-05-31
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| General Manager (05075) 2400 W. Commercial Blvd. | [Domino's](https://dominos.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000129322403) |
 | Assistant Chief Steward - 6 month contract | [ACCOR](https://group.accor.com) | $56K–$58K/yr | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000129302969) |
 | Second Cook - Pastry | [ACCOR](https://group.accor.com) | $20/yr | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000129302699) |
 | Pastry - Sous Chef | [ACCOR](https://group.accor.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000129302529) |
@@ -18,6 +19,7 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | JYSK MAĞAZA MÜDÜR YARDIMCISI (KUŞADASI) | [JYSK](https://jysk.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000129297638) |
 | JYSK MAĞAZA MÜDÜR YARDIMCISI (KUŞADASI) | [JYSK](https://jysk.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000129297498) |
 | Delivery Driver(03276)  - Littleton NH | [Domino's](https://dominos.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000129296199) |
+| ADJOINTE DE CAISSE | [Genpak LLC](https://genpak-llc-2) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129295809) |
 | Voiturier - Hôte d'accueil polyvalent H/F - 43H saisonnier | [Relais & Châteaux](https://relaischateaux.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000129293269) |
 | Night Auditor (rythme 4/3) - Hôtel Les Roches  | [Relais & Châteaux](https://relaischateaux.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000129292239) |
 | Executive Chef | [ACCOR](https://group.accor.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000129291249) |

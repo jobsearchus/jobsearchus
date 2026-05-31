@@ -2,12 +2,13 @@
 
 Remote customer support and success roles across SaaS, e-commerce, and tech.
 
-**194 open roles** — Last updated: 2026-05-31
+**195 open roles** — Last updated: 2026-05-31
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Customer Service Rep(08096) - 1405 S. Boston Rd | [Domino's](https://dominos.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000129322837) |
 | Technical Support Specialist | [Sectigo](https://sectigo.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/Sectigo/postings/3743990013389006) |
 | Technical Support Specialist | [Sectigo](https://sectigo.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/Sectigo/postings/3743990013388886) |
 | EXPERT SERVICE CLIENT - CDI ETUDIANT 12h/sem. H/F  | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000129300949) |

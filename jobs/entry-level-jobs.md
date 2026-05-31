@@ -2,12 +2,14 @@
 
 Remote jobs open to candidates with 0–2 years of experience. A real way in — no degree gatekeeping.
 
-**684 open roles** — Last updated: 2026-05-31
+**692 open roles** — Last updated: 2026-05-31
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Cashier - Pizza Maker  (02182) Part-time | [Domino's](https://dominos.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000129322879) |
+| Customer Service Rep(08096) - 1405 S. Boston Rd | [Domino's](https://dominos.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000129322837) |
 | Asst. Automotive Service Advisor / Writer - Weekends Off - New Braunfels | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000129301859) |
 | EMPLOYE LIBRE-SERVICE LIQUIDES CDI 30H | [Genpak LLC](https://genpak-llc-2) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129300859) |
 | Customer Service Rep (06887) - 6633 N Mesa St | [Domino's](https://dominos.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000129300459) |
@@ -19,6 +21,9 @@ Remote jobs open to candidates with 0–2 years of experience. A real way in —
 | ALTERNANCE - VENTE H/F  | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000129298009) |
 | Sales Assitant | [Frasers Group](https://frasersgroup.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000129297899) |
 | Delivery Driver(03276)  - Littleton NH | [Domino's](https://dominos.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000129296199) |
+| VENDEUR(SE) CHARCUTIER-TRAITEUR (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129296159) |
+| EMPLOYE COMMERCIAL (H/F) SAISONNIERS | [Genpak LLC](https://genpak-llc-2) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129295899) |
+| ADJOINTE DE CAISSE | [Genpak LLC](https://genpak-llc-2) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129295809) |
 | Employé Polyvalent (H/F) CDD TEMPS PLEIN | [Genpak LLC](https://genpak-llc-2) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129290619) |
 | Customer Experience Associate | [Nabis](https://nabis.com) | — | May 30 | [Apply](https://job-boards.greenhouse.io/nabis/jobs/6009617004) |
 | Auxiliar de Laboratório | [Egis](https://egis-group.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000129268091) |
@@ -51,8 +56,11 @@ Remote jobs open to candidates with 0–2 years of experience. A real way in —
 | Tech Support Apprentice | [Man Group](https://man.com) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/mangroup/jobs/4799148101) |
 | Junior International Accountant | [JustMarkets](https://justmarkets.com) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/justmarkets/jobs/4878519101) |
 | Praktikant/Werkstudent (w/m/d) Projektmanagement Hochbau – Real Estate und Soziale Infrastruktur  | [Drees & Sommer](https://dreso.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000129163689) |
+| Working Student - OE Pooling / Project- and Process Management (m/f/diverse)- REF97117P | [Continental](https://continentalserves.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000129162089) |
 | IT - Stage HR - People & Culture Administrator | [Primark Tiendas SLU](https://primark.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000129162020) |
 | Ausbildung Fachinformatiker (w/m/d) Systemintegration | [Drees & Sommer](https://dreso.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000129160344) |
+| Assistente Administrativo | [Continental](https://continentalserves.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000129160619) |
+| Internship – RFID and OT Infrastructure (partially mandatory) - REF97268L | [Continental](https://continentalserves.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000129159584) |
 | Ausbildung Kauffrau/Kaufmann (w/m/d) für Büromanagement | [Drees & Sommer](https://dreso.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000129155370) |
 | Skladiščnik | [Primark Tiendas SLU](https://primark.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000129151470) |
 | ASISTENT/KA PRODEJE V PRODEJNĚ JYSK Teplice - Řetenice | [JYSK](https://jysk.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000129149944) |

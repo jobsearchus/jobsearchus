@@ -2,7 +2,7 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**1065 open roles** — Last updated: 2026-05-31
+**1066 open roles** — Last updated: 2026-05-31
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -83,6 +83,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | AI Technical Program Manager (Localisation) | [Canva](https://canva.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001118111) |
 | Senior Engineering Manager, Supply | [Trainline](https://trainlinegroup.com) | — | May 29 | [Apply](https://jobs.ashbyhq.com/trainline/cbec5994-6886-4c89-a044-3a0ab1cfc9a9) |
 | Solution Architect Energy & Utilities (m/f/d) | [Nagarro](https://nagarro.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000129166809) |
+| Working Student - OE Pooling / Project- and Process Management (m/f/diverse)- REF97117P | [Continental](https://continentalserves.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000129162089) |
 | Customer Insights Analyst (12m FTC) | [Gymshark](https://gymshark.com) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/gymshark/jobs/4878470101) |
 | Ausbildung Fachinformatiker (w/m/d) Systemintegration | [Drees & Sommer](https://dreso.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000129160344) |
 | Technicien/ne de fiabilité (H/F/N) | [Syngenta](https://syngenta.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000129155560) |

@@ -2,7 +2,7 @@
 
 Remote administrative and executive assistant roles across industries.
 
-**27 open roles** — Last updated: 2026-05-31
+**28 open roles** — Last updated: 2026-05-31
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -12,6 +12,7 @@ Remote administrative and executive assistant roles across industries.
 | Academic Coordinator - School of Architecture | [University of Notre Dame](https://universityofnotredame.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013376286) |
 |  Senior Administrator | [IQ-EQ](https://iqeq.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000129214700) |
 | Administrative Assistant | [Crestwood Behavioral Health](https://crestwoodbehavioralhealth.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/crestwoodcareers/jobs/7753443003) |
+| Assistente Administrativo | [Continental](https://continentalserves.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000129160619) |
 | Directieassistent(e) | [BESIX](https://besix.com) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000128883909) |
 | Project Admin | [NCS](https://ncs.co) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001113635) |
 | Account Coordinator | [DH Pace Company](https://dhpace.com) | — | May 27 | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5227275008) |
