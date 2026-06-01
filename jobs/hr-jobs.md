@@ -2,12 +2,15 @@
 
 Remote HR, recruiting, and people operations roles.
 
-**130 open roles** — Last updated: 2026-06-01
+**133 open roles** — Last updated: 2026-06-01
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Technical Recruiter | [Verse Therapy](https://versetherapy.com) | $130K–$170K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/verse/jobs/5237457008) |
+| Internship – Talent & Venture Development (f/m/x) | [Marvel Fusion](https://marvelfusion.com) | — | Jun 1 | [Apply](https://job-boards.eu.greenhouse.io/marvelfusion/jobs/4879488101) |
+| HRM Specialist | [Coupang](https://coupang.com) | — | Jun 1 | [Apply](https://boards.greenhouse.io/coupanginternal/jobs/7959890?gh_jid=7959890) |
 | People Experience Generalist | [Fluidstack](https://fluidstack.com) | $110K–$170K/yr | May 31 | [Apply](https://jobs.ashbyhq.com/fluidstack/796bd789-4ba5-4bca-9105-5ff48afaa6bc) |
 | People Operations Specialist | [Fluidstack](https://fluidstack.com) | $110K–$170K/yr | May 31 | [Apply](https://jobs.ashbyhq.com/fluidstack/6ad9f0f7-fbaf-450e-bf1e-bbaf227c1953) |
 | People Partner - Software & Platform | [Fluidstack](https://fluidstack.com) | $195K–$315K/yr | May 31 | [Apply](https://jobs.ashbyhq.com/fluidstack/3df9924f-7f89-445f-a045-8ec9691723ee) |

@@ -2,12 +2,27 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**480 open roles** — Last updated: 2026-06-01
+**495 open roles** — Last updated: 2026-06-01
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Business Development | [Realm Alliance](https://realmalliance.com) | $200K/yr | Jun 1 | [Apply](https://jobs.ashbyhq.com/realmalliance/5d3efad8-8e8c-48e7-b885-8b0c8ac439b2) |
+| Senior Enablement Operations Manager | [Horizon3.ai](https://horizon3ai.com) | $150K–$185K/yr | Jun 1 | [Apply](https://jobs.ashbyhq.com/horizon3ai/074bf252-b46e-4822-a9dc-2fa05209d966) |
+| Strategic Partnerships | [Realm Alliance](https://realmalliance.com) | $200K/yr | Jun 1 | [Apply](https://jobs.ashbyhq.com/realmalliance/b3e8d839-a003-464c-bcfe-df6de9b2dce5) |
+| Strategic Accounts Director, Large Group | [Garner Health](https://getgarner.com) | $190K–$250K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/garnerhealth/jobs/6008518004) |
+| Sr. Commercial Counsel | [Vercel](https://vercel.com) | $250K–$270K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/vercel/jobs/6006500004) |
+| Director, North America Marketing | [ŌURA](https://ouraring.com) | $201K–$236K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/oura/jobs/4265651009) |
+| Staff Cloud Security Engineer | [Temporal](https://temporal.io) | $225K–$275K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/temporaltechnologies/jobs/5151694007) |
+| Senior Software Engineer, Vault  | [ALT TEX](https://thealttex.com) | $140K–$180K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/alt/jobs/7758873003) |
+| Partner Success Manager | [Gusto](https://gusto.com) | $145K–$178K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/gusto/jobs/7954445) |
+| Senior Counsel, Corporate | [Oklo](https://oklo.com) | $200K–$225K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/oklo/jobs/6008510004) |
+| Senior Account Executive, EMEA Enterprise | [HackerOne](https://hackerone.com) | £100K/yr | Jun 1 | [Apply](https://jobs.ashbyhq.com/hackerone/f7074ef7-ba32-4d15-887f-d5f6c400db52) |
+| Senior Technical Recruiter | [Verse Therapy](https://versetherapy.com) | $130K–$170K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/verse/jobs/5237457008) |
+| Data Engineering Lead | [Attio](https://attio.com) | £115K–£145K/yr | Jun 1 | [Apply](https://jobs.ashbyhq.com/attio/98eadaff-4235-4283-baa4-a24d61f5b2ae) |
+| Technical Accounting & Advisory Senior Manager | [Monzo](https://monzo.com) | £106K–£144K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7971941) |
+| Sales Engineer | [NanoNets](https://nanonets.com) | $100K–$140K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/nanonets/jobs/5210057008) |
 | Mobile Engineer, iOS | [Clear Gene](https://cleargene.com) | $180K–$220K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/clear/jobs/7971703) |
 | Member of Technical Staff - Imagine Safety | [xAI](https://x.ai) | $180K–$440K/yr | May 31 | [Apply](https://job-boards.greenhouse.io/xai/jobs/5151022007) |
 | Austin, Workplace Lead | [Fluidstack](https://fluidstack.com) | $140K–$205K/yr | May 31 | [Apply](https://jobs.ashbyhq.com/fluidstack/351adea8-bbeb-4c6b-8d51-bc6ac93c9049) |

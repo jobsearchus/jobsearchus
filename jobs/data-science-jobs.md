@@ -2,12 +2,13 @@
 
 Data science, machine learning, and AI engineering roles. Python, SQL, PyTorch, and beyond.
 
-**67 open roles** — Last updated: 2026-06-01
+**68 open roles** — Last updated: 2026-06-01
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Computer Vision ML Engineer | [Upfront](https://tryupfront.com) | — | Jun 1 | [Apply](https://upfront.recruitee.com/o/computer-vision-ml-engineer/c/new) |
 | Senior AI & ML Engineer | [Gametime](https://gametime.co) | — | May 29 | [Apply](https://job-boards.greenhouse.io/gametimeunited/jobs/5236131008) |
 | Senior AI Engineer – Microsoft Fabric & Azure AI Foundry | [Genpak LLC](https://genpak-llc-2) | $160K–$220K/yr | May 29 | [Apply](https://job-boards.eu.greenhouse.io/valtech/jobs/4877971101) |
 | Senior Data Scientist, Product (Crypto) | [Robinhood](https://robinhood.com) | — | May 29 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7965000?t=gh_src=&gh_jid=7965000) |

@@ -2,18 +2,31 @@
 
 Remote jobs open to candidates with 0–2 years of experience. A real way in — no degree gatekeeping.
 
-**724 open roles** — Last updated: 2026-06-01
+**737 open roles** — Last updated: 2026-06-01
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Vehicle Shuttler (6-Month Fixed-Term) | [Clutch](https://clutch.io) | $20/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/clutch/jobs/6010410004) |
+| Shuttler Driver (6-Month Fixed-Term) | [Clutch](https://clutch.io) | $20/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/clutch/jobs/6010408004) |
+| Busser - Soho House New York | [Soho House](https://sohohouse.com) | — | Jun 1 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4879794101) |
+| Service Technician 1 | [Serve Robotics](https://serverobotics.com) | — | Jun 1 | [Apply](https://jobs.ashbyhq.com/serverobotics/d30b56cb-3e03-4f44-bc24-4970c5a4bfd2) |
+| Technical Product Manager, SaaS (F/M/D) | [NavVis](https://navvis.com) | — | Jun 1 | [Apply](https://job-boards.eu.greenhouse.io/navvis/jobs/4840955101) |
+| Technical Support Specialist | [Airtable](https://airtable.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8573015002) |
 | EMPLOYE RAYON BAZAR (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129492906) |
 | EMPLOYE COMMERCIAL (H/F) CAISSE - MISE EN RAYON  | [Genpak LLC](https://genpak-llc-2) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129493989) |
 | Analista Fundiário Jr | [Anglo American](https://angloamerican.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000129493130) |
 | Graduate Electrical Engineer (UAE National) - Site based | [Egis](https://egis-group.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000129492740) |
+| RAVE I, Data Insights  | [Mapbox](https://mapbox.com) | — | Jun 1 | [Apply](https://jobs.ashbyhq.com/mapbox/6052baad-691c-44f3-9eb0-cfefb9f277cc) |
+| Estagiário de Design | [STARK BANK](https://starkbank.com) | — | Jun 1 | [Apply](https://jobs.lever.co/starkbank/74d749df-6b36-4d42-a26f-94f4aac2f1e4) |
+| RAVE I, Feedback and Corrections (Road Closures) | [Mapbox](https://mapbox.com) | — | Jun 1 | [Apply](https://jobs.ashbyhq.com/mapbox/7853b60f-b898-40e2-8db2-9ca104d10fe3) |
+| RAVE I, Data Enrichment | [Mapbox](https://mapbox.com) | — | Jun 1 | [Apply](https://jobs.ashbyhq.com/mapbox/e6a07447-be6f-4456-9eb8-accf279b914e) |
+| Card Acquiring, Business Banking Customer Operations Advisor  | [Monzo](https://monzo.com) | £28K–£35K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7908745) |
+| Internship – Talent & Venture Development (f/m/x) | [Marvel Fusion](https://marvelfusion.com) | — | Jun 1 | [Apply](https://job-boards.eu.greenhouse.io/marvelfusion/jobs/4879488101) |
 | Experian Graduate Program in Technology & Analytics | [Experian](https://experianplc.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000129471684) |
 | Berufsausbildung Elektroniker für Automatisierungstechnik (m/w/d) - Tires | [Continental](https://continentalserves.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000129460069) |
+| Medewerker Schoonmaak | [Basalt](https://basalt.space) | — | Jun 1 | [Apply](https://werkenbijbasalt.nl/o/medewerker-schoonmaak-5/c/new) |
 | Casual Sales Assistant | [Frasers Group](https://frasersgroup.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000129454573) |
 | Casual Sales Assiatant | [Frasers Group](https://frasersgroup.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000129454829) |
 | Casual Sales Assistant | [Frasers Group](https://frasersgroup.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000129454759) |

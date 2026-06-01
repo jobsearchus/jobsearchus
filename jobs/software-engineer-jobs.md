@@ -2,25 +2,47 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**1093 open roles** — Last updated: 2026-06-01
+**1115 open roles** — Last updated: 2026-06-01
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Staff Android Engineer (remote). | [Tilt](https://tilt.com) | — | Jun 1 | [Apply](https://jobs.ashbyhq.com/tilthq/0026f142-cdc9-4953-b0b4-61fc4ef10cf2) |
+| Senior Technical Program Manager, Applied AI | [Lilt](https://lilt.com) | — | Jun 1 | [Apply](https://jobs.ashbyhq.com/lilt-corporate/719beb00-4cc5-414b-b3a7-853eaf397b07) |
+| Staff Cloud Security Engineer | [Temporal](https://temporal.io) | $225K–$275K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/temporaltechnologies/jobs/5151694007) |
+| Senior Software Engineer, Vault  | [ALT TEX](https://thealttex.com) | $140K–$180K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/alt/jobs/7758873003) |
+| Senior Principal Software Engineer | [Zuora](https://zuora.com) | — | Jun 1 | [Apply](https://boards.greenhouse.io/zuora/jobs/7973954?gh_jid=7973954) |
+| Software Developer, Enscape Integrations (m/f/d) | [Chaos Genius](https://chaosgenius.io) | — | Jun 1 | [Apply](https://careers.chaos.com/o/software-developer-enscape-integrations-mfd-1/c/new) |
+| Manager of Clinical Research, AQMed | [SandboxAQ](https://sandboxaq.com) | — | Jun 1 | [Apply](https://jobs.ashbyhq.com/sandboxaq/3cd2bb1a-9d0e-4271-a657-ea9b81019878) |
+| CAE Engineer - Durability | [Genpak LLC](https://genpak-llc-2) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/gokenamericallc/jobs/4266060009) |
+| Data Sr Analyst | [Delivery Hero](https://deliveryhero.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000129524221) |
+| Software Engineer | [Genpak LLC](https://genpak-llc-2) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000129504910) |
+| Data Engineering Lead | [Attio](https://attio.com) | £115K–£145K/yr | Jun 1 | [Apply](https://jobs.ashbyhq.com/attio/98eadaff-4235-4283-baa4-a24d61f5b2ae) |
+| Director of Engineering | [Wheely](https://wheely.com) | — | Jun 1 | [Apply](https://boards.greenhouse.io/wheely/jobs/7752602003?gh_jid=7752602003) |
 | Graduate Electrical Engineer (UAE National) - Site based | [Egis](https://egis-group.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000129492740) |
+| RAVE I, Data Insights  | [Mapbox](https://mapbox.com) | — | Jun 1 | [Apply](https://jobs.ashbyhq.com/mapbox/6052baad-691c-44f3-9eb0-cfefb9f277cc) |
+| RAVE I, Feedback and Corrections (Road Closures) | [Mapbox](https://mapbox.com) | — | Jun 1 | [Apply](https://jobs.ashbyhq.com/mapbox/7853b60f-b898-40e2-8db2-9ca104d10fe3) |
+| RAVE I, Data Enrichment | [Mapbox](https://mapbox.com) | — | Jun 1 | [Apply](https://jobs.ashbyhq.com/mapbox/e6a07447-be6f-4456-9eb8-accf279b914e) |
 | Senior Staff Engineer, AI,LLM | [Nagarro](https://nagarro.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000129477719) |
 | Mechaniker / Anlagenverantwortlicher (m/w/d) - REF92843C | [Continental](https://continentalserves.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000129475159) |
 | Senior Manufacturing Equipment Engineering Expert - Hydraulic Hose | [Continental](https://continentalserves.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000129472867) |
 | Technical Delegate / Flying Doctor (m/f/d) - Field based | [MSX International](https://msxi.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013392836) |
+| Cloud Architect | [Keyfactor](https://keyfactor.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/keyfactorinc/jobs/6006105004) |
+| PL Desenvolvimento Salesforce  | [ília](https://lia.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/ilia/jobs/6008552004) |
 | Staff Engineer | [Experian](https://experianplc.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000129466019) |
 | Senior Engineering Manager, Video Performance (Bay Area only) | [Canva](https://canva.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001121433) |
+| Sales Engineer | [NanoNets](https://nanonets.com) | $100K–$140K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/nanonets/jobs/5210057008) |
+| Technical Lead | [Upfront](https://tryupfront.com) | — | Jun 1 | [Apply](https://upfront.recruitee.com/o/technical-lead/c/new) |
+| Manufacturing Engineer | [Upfront](https://tryupfront.com) | — | Jun 1 | [Apply](https://upfront.recruitee.com/o/manufacturing-engineer/c/new) |
 | Senior Embedded Software Engineers (C, ADA, RUST) | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000129449804) |
 | Supplier Quality Engineer | [Avery Dennison](https://averydennison.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000129440630) |
 | Associate Principal Engineer (Scrum Product Owner) | [Nagarro](https://nagarro.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000129436659) |
 | Associate Principal Engineer (Salesforce Marketing Cloud) | [Nagarro](https://nagarro.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000129430951) |
 | Game Mathematics Intern | [Gameloft](https://gameloft.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/Gameloft/postings/744000129420720) |
 | Mobile Engineer, iOS | [Clear Gene](https://cleargene.com) | $180K–$220K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/clear/jobs/7971703) |
+| Solutions Engineer | [Razorpay Software Private Limited](https://razorpay.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4700133005) |
+| Integration Engineer (f/m/x) | [Marvel Fusion](https://marvelfusion.com) | — | Jun 1 | [Apply](https://job-boards.eu.greenhouse.io/marvelfusion/jobs/4879064101) |
 | Principal - Electrical Engineer (R&I) | [AECOM](https://aecom.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000129374520) |
 | Principal Electrical Engineering | [AECOM](https://aecom.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000129369700) |
 | Escalations Engineer - Pipelines | [Buildkite](https://buildkite.com) | — | May 31 | [Apply](https://job-boards.greenhouse.io/buildkite/jobs/5237008008) |

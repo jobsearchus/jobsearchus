@@ -2,12 +2,15 @@
 
 UX design, UI design, and product design roles. Figma, research, and end-to-end product work.
 
-**104 open roles** — Last updated: 2026-06-01
+**107 open roles** — Last updated: 2026-06-01
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Principal UI/UX Designer | [Zuora](https://zuora.com) | — | Jun 1 | [Apply](https://boards.greenhouse.io/zuora/jobs/7972559?gh_jid=7972559) |
+| Graphic Designer (Key Customers)    | [RTB House](https://rtbhouse.com) | — | Jun 1 | [Apply](https://job-boards.eu.greenhouse.io/rtbhouse/jobs/4879149101) |
+| Estagiário de Design | [STARK BANK](https://starkbank.com) | — | Jun 1 | [Apply](https://jobs.lever.co/starkbank/74d749df-6b36-4d42-a26f-94f4aac2f1e4) |
 | Senior Mechanical Engineer | [AECOM](https://aecom.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000129377916) |
 | Product Designer | [Maze](https://maze.co) | — | May 31 | [Apply](https://jobs.ashbyhq.com/mazehq/b8b9ba92-de27-4c49-a4a6-820c9c414a71) |
 | Senior VFX Artist | [Gameloft](https://gameloft.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/Gameloft/postings/744000129296069) |

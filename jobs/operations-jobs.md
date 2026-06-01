@@ -2,23 +2,40 @@
 
 Remote operations and business operations roles across industries.
 
-**743 open roles** — Last updated: 2026-06-01
+**760 open roles** — Last updated: 2026-06-01
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Enablement Operations Manager | [Horizon3.ai](https://horizon3ai.com) | $150K–$185K/yr | Jun 1 | [Apply](https://jobs.ashbyhq.com/horizon3ai/074bf252-b46e-4822-a9dc-2fa05209d966) |
+| Vehicle Shuttler (6-Month Fixed-Term) | [Clutch](https://clutch.io) | $20/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/clutch/jobs/6010410004) |
+| Shuttler Driver (6-Month Fixed-Term) | [Clutch](https://clutch.io) | $20/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/clutch/jobs/6010408004) |
+| Area Manager, Pellet Mill | [Enviva](https://envivabiomass.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/enviva/jobs/7758615003) |
+| Service Technician 1 | [Serve Robotics](https://serverobotics.com) | — | Jun 1 | [Apply](https://jobs.ashbyhq.com/serverobotics/d30b56cb-3e03-4f44-bc24-4970c5a4bfd2) |
+| Associate, Professional Services (US Shift) | [Mindtickle](https://mindtickle.com) | — | Jun 1 | [Apply](https://jobs.lever.co/mindtickle/efc99040-ff56-475b-bd93-dfb581903331) |
+| Organizational Effectiveness Partner  | [Scopely](https://scopely.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/scopely/jobs/5211601008?gh_jid=5211601008) |
+| EHS Director | [PowerX](https://powerx.co) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/powerx/jobs/4266168009) |
+| Senior Manager, Operating Model & Organisation Design | [Baringa](https://baringa.com) | — | Jun 1 | [Apply](https://job-boards.eu.greenhouse.io/baringa/jobs/4819714101) |
+| Associate Global Mobility Partner | [Scopely](https://scopely.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/scopely/jobs/5233319008?gh_jid=5233319008) |
+| Global Health and Safety Partner - Fixed Term Contract | [Scopely](https://scopely.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/scopely/jobs/5234871008?gh_jid=5234871008) |
 | Senior Consultant - Conformité  | [IQ-EQ](https://iqeq.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000129518675) |
+| Technical Product Manager, SaaS (F/M/D) | [NavVis](https://navvis.com) | — | Jun 1 | [Apply](https://job-boards.eu.greenhouse.io/navvis/jobs/4840955101) |
 | CONSULTANT CONFIRME AMO ENVIRONNEMENT H/F | [Egis](https://egis-group.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000129513410) |
 | Analista Fundiário Jr | [Anglo American](https://angloamerican.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000129493130) |
 | INTERMARCHE - RESPONSABLE DE RAYON SEC (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129492819) |
 | Première femme de chambre / Premier valet de chambre - CDD 25h | [Genpak LLC](https://genpak-llc-2) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000129486959) |
 | Adjoint de direction - H/F | [Genpak LLC](https://genpak-llc-2) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000129484410) |
 | Scaffolding Team Leader (Bridge Maintenance) | [Egis](https://egis-group.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000129482059) |
+| Card Acquiring, Business Banking Customer Operations Advisor  | [Monzo](https://monzo.com) | £28K–£35K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7908745) |
 | Experian Graduate Program in Technology & Analytics | [Experian](https://experianplc.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000129471684) |
 | Business Analyst | [Netcompany](https://netcompany.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000129469949) |
+| Utilities Exception Processing Associate Manager - Chesapeake, VA - Onsite - 6-Month Contract | [Genpak LLC](https://genpak-llc-2) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000129463685) |
 | Berufsausbildung Elektroniker für Automatisierungstechnik (m/w/d) - Tires | [Continental](https://continentalserves.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000129460069) |
+| Medewerker Schoonmaak | [Basalt](https://basalt.space) | — | Jun 1 | [Apply](https://werkenbijbasalt.nl/o/medewerker-schoonmaak-5/c/new) |
+| Procurement & Commercial - Senior Consultant or Manager  | [Baringa](https://baringa.com) | — | Jun 1 | [Apply](https://job-boards.eu.greenhouse.io/baringa/jobs/4692210101) |
 | Senior Manager Tax Reporting, Risk Management & Technology ContiTech (m/w/diverse) - REF92559A | [Continental](https://continentalserves.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000129432119) |
+| Sales Operations - Working Student (F/M/D) | [NavVis](https://navvis.com) | — | Jun 1 | [Apply](https://job-boards.eu.greenhouse.io/navvis/jobs/4868833101) |
 | Magasinier HF (CDD) | [BUT](https://but.fr) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000129412729) |
 | Senior QC Team Leader | [Avery Dennison](https://averydennison.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000129377199) |
 | Order Entry  | [Avery Dennison](https://averydennison.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000129349509) |

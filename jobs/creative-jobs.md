@@ -2,12 +2,13 @@
 
 Remote creative roles — copywriters, content creators, graphic designers, and brand specialists.
 
-**68 open roles** — Last updated: 2026-06-01
+**69 open roles** — Last updated: 2026-06-01
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Contract Senior Concept Artist | [Mob Entertainment](https://mobentertainment.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/mobentertainment/jobs/5138187007) |
 | Studio Artist Lead | [Gameloft](https://gameloft.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/Gameloft/postings/744000129376199) |
 | Senior 3D Artist | [Gameloft](https://gameloft.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/Gameloft/postings/744000129281993) |
 | Video and Media Production Intern (Summer 2026) | [Cloudflare](https://cloudflare.com) | — | May 29 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7964856?gh_jid=7964856) |

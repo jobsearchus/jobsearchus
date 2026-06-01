@@ -2,12 +2,15 @@
 
 Remote legal, compliance, and counsel roles.
 
-**73 open roles** — Last updated: 2026-06-01
+**76 open roles** — Last updated: 2026-06-01
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Sr. Commercial Counsel | [Vercel](https://vercel.com) | $250K–$270K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/vercel/jobs/6006500004) |
+| Assistant General Counsel, Credit Cards | [Robinhood](https://robinhood.com) | — | Jun 1 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7943204?t=gh_src=&gh_jid=7943204) |
+| Senior Counsel, Corporate | [Oklo](https://oklo.com) | $200K–$225K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/oklo/jobs/6008510004) |
 | Corporate Counsel, Consumer Services | [Experian](https://experianplc.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000129268659) |
 | Senior Contracts Manager | [Discord](https://discord.com) | $180K–$202K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/discord/jobs/8571373002) |
 | Director, Legal Operations | [The New York Times](https://thenewyorktimes.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4699877005) |

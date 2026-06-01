@@ -2,23 +2,47 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**639 open roles** — Last updated: 2026-06-01
+**663 open roles** — Last updated: 2026-06-01
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Channel Partnerships Director | [Dandy](https://meetdandy.com) | — | Jun 1 | [Apply](https://jobs.ashbyhq.com/dandy/6eeaef9c-1dfd-4de4-8a00-029ea33d121e) |
+| Business Development | [Realm Alliance](https://realmalliance.com) | $200K/yr | Jun 1 | [Apply](https://jobs.ashbyhq.com/realmalliance/5d3efad8-8e8c-48e7-b885-8b0c8ac439b2) |
+| Strategic Partnerships | [Realm Alliance](https://realmalliance.com) | $200K/yr | Jun 1 | [Apply](https://jobs.ashbyhq.com/realmalliance/b3e8d839-a003-464c-bcfe-df6de9b2dce5) |
+| Strategic Accounts Director, Large Group | [Garner Health](https://getgarner.com) | $190K–$250K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/garnerhealth/jobs/6008518004) |
+| Channel Sales Manager, LATAM (m/f/d) | [Chaos Genius](https://chaosgenius.io) | — | Jun 1 | [Apply](https://careers.chaos.com/o/channel-sales-manager-latam-mfd/c/new) |
+| Partner Success Manager | [Gusto](https://gusto.com) | $145K–$178K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/gusto/jobs/7954445) |
+| Account Executive (ENT) (Position located in Melbourne, Australia) | [KnowBe4](https://knowbe4.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8573421002) |
+| Agente Stone - Consultor(a) Comercial Externo - Caxias do  Sul/RS | [Stone](https://stone.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/stone/jobs/7758667003) |
+| Senior Account Executive, EMEA Enterprise | [HackerOne](https://hackerone.com) | £100K/yr | Jun 1 | [Apply](https://jobs.ashbyhq.com/hackerone/f7074ef7-ba32-4d15-887f-d5f6c400db52) |
+| Agente Stone - Consultor(a) Comercial Externo -  Chapecó/SC | [Stone](https://stone.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/stone/jobs/7758665003) |
+| Agente Stone - Consultor(a) Comercial Externo -  Blumenau/SC | [Stone](https://stone.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/stone/jobs/7758643003) |
+| Agente Stone - Consultor (a) Comercial Externo -  Jaraguá do Sul/SC | [Stone](https://stone.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/stone/jobs/7758642003) |
+| Head of Revenue and Growth | [Superset](https://superset.sh) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/superset/jobs/5237455008) |
+| Vendeur / Vendeuse CDD -  Temps partiel [30 Heures] (H/F) | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000129518352) |
+| VENDEUR CONSEIL - CDI TEMPS PARTIEL 30H H/F | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000129516679) |
+| Sales Manager - WeMoms | [Genpak LLC](https://genpak-llc-2) | — | Jun 1 | [Apply](https://jobs.ashbyhq.com/voodoo/83df0f9f-025a-4bcd-8209-8e9d96c77187) |
+| Senior Business Developer - WeMoms | [Genpak LLC](https://genpak-llc-2) | — | Jun 1 | [Apply](https://jobs.ashbyhq.com/voodoo/9d388b93-a014-4b16-8ae7-e551b4cbd406) |
+| Account Executive - WeMoms | [Genpak LLC](https://genpak-llc-2) | — | Jun 1 | [Apply](https://jobs.ashbyhq.com/voodoo/03de5328-613b-41ac-adbd-0214ff8ef57f) |
+| Senior Account Executive, Mid-Market (DACH) | [Reddit](https://reddit.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/7559230) |
+| Inside Sales Representative | [Veeam Software](https://veeam.com) | — | Jun 1 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4843225101) |
 | Casual Sales Assistant | [Frasers Group](https://frasersgroup.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000129454573) |
 | Casual Sales Assiatant | [Frasers Group](https://frasersgroup.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000129454829) |
 | Casual Sales Assistant | [Frasers Group](https://frasersgroup.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000129454759) |
 | Casual Sales Assistant | [Frasers Group](https://frasersgroup.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000129452345) |
 | Customer Success Manager | [Freshworks](https://freshworks.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000129454339) |
 | ACHETEUR HORS PRODUCTION CONFIRME (H/F/N)  | [Continental](https://continentalserves.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000129453249) |
+| Lead-Account Management | [Genpak LLC](https://genpak-llc-2) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000129450298) |
 | Territory Account Manager, Medical Devices | [Avery Dennison](https://averydennison.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000129441966) |
 | Shopmitarbeiter/in, (m/w/d) 30 Wochenstunden  | [Frasers Group](https://frasersgroup.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000129432124) |
 | Junior Brand Partnerships Manager - Beauty | [Frasers Group](https://frasersgroup.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000129421466) |
+| Business Lead (Special Projects)  | [Genpak LLC](https://genpak-llc-2) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/brandtechplus/jobs/7971914) |
 | Commercial BtoB (H/F) | [Ixora](https://ixora.org) | — | Jun 1 | [Apply](https://emploi.ixora-conseil.fr/o/commercial-btob-hf/c/new) |
+| [쿠팡] 광고 영업 기획&전략 팀장 (Ads SMB Medium SL&O) | [Coupang](https://coupang.com) | — | Jun 1 | [Apply](https://boards.greenhouse.io/coupanginternal/jobs/7971565?gh_jid=7971565) |
 | CSR Administrateur.trice des ventes | [Avery Dennison](https://averydennison.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000129415889) |
+| Senior Manager, NIT Sales | [Razorpay Software Private Limited](https://razorpay.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4700109005) |
 | Automation Sales Manager | [Formic](https://formic.co) | — | May 31 | [Apply](https://job-boards.greenhouse.io/formic/jobs/4685613006) |
 | Automation Sales Manager | [Formic](https://formic.co) | — | May 31 | [Apply](https://job-boards.greenhouse.io/formic/jobs/4685612006) |
 | Automation Sales Manager | [Formic](https://formic.co) | — | May 31 | [Apply](https://job-boards.greenhouse.io/formic/jobs/4685610006) |

@@ -2,12 +2,15 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**265 open roles** — Last updated: 2026-06-01
+**268 open roles** — Last updated: 2026-06-01
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Director, North America Marketing | [ŌURA](https://ouraring.com) | $201K–$236K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/oura/jobs/4265651009) |
+| Regional PR Lead, Africa | [Delivery Hero](https://deliveryhero.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000129533199) |
+| Lifecycle Marketing Lead | [Roofr](https://roofr.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/roofr/jobs/4701421005) |
 | Marketing Operations Specialist | [Anglo American](https://angloamerican.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000129508589) |
 | SEO Generalist (12-Month Contract) | [Canva](https://canva.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001121063) |
 | Email Marketing Specialist | [Veeam Software](https://veeam.com) | — | Jun 1 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4860787101) |

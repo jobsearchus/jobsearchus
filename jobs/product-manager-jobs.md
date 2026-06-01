@@ -2,12 +2,15 @@
 
 Product manager roles at companies building real products. Sourced directly from career pages.
 
-**125 open roles** — Last updated: 2026-06-01
+**128 open roles** — Last updated: 2026-06-01
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Product Manager  | [ComparaJá](https://comparaja.pt) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/comparaja/jobs/7758703003) |
+| Growth Product Manager  | [ComparaJá](https://comparaja.pt) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/comparaja/jobs/7758610003) |
+| Head of Product | [Holywater](https://holywater.com) | — | Jun 1 | [Apply](https://jobs.ashbyhq.com/holywater/795ad9ee-bb3f-4479-b657-3e1d7bd248bc) |
 | Product Manager | [Experian](https://experianplc.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000129464286) |
 | Staff Product Manager, Relationship Growth | [Faire](https://faire.com) | $220K–$303K/yr | May 29 | [Apply](https://boards.greenhouse.io/faire/jobs/8572160002?gh_jid=8572160002) |
 | Staff Product Manager, Inspire & App | [Faire](https://faire.com) | $220K–$303K/yr | May 29 | [Apply](https://boards.greenhouse.io/faire/jobs/8572155002?gh_jid=8572155002) |

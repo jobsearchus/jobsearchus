@@ -2,12 +2,13 @@
 
 QA, test automation, and SDET roles. Manual and automated testing across all stacks.
 
-**36 open roles** — Last updated: 2026-06-01
+**37 open roles** — Last updated: 2026-06-01
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Advanced Structural Test Engineer | [Vertical Aerospace](https://vertical-aerospace.com) | — | Jun 1 | [Apply](https://jobs.ashbyhq.com/vertical-aerospace/0d1c8c74-cbac-4158-a851-a53095bf39e5) |
 | Senior Manual QA Engineer | [BrainRocket](https://brainrocket.com) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/brainrocketltd/jobs/4876606101) |
 | QA Team Lead | [BrainRocket](https://brainrocket.com) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/brainrocketltd/jobs/4876143101) |
 | Manual QA Engineer  | [Veeam Software](https://veeam.com) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4877674101) |

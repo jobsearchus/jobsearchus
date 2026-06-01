@@ -2,12 +2,16 @@
 
 Remote customer support and success roles across SaaS, e-commerce, and tech.
 
-**205 open roles** — Last updated: 2026-06-01
+**209 open roles** — Last updated: 2026-06-01
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Technical Trainer, EMEA (London Office) | [Amplitude](https://amplitude.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/amplitude/jobs/8573721002) |
+| Senior Manager, Voice of Customer | [Gusto](https://gusto.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/gusto/jobs/7951013) |
+| Technical Support Specialist | [Airtable](https://airtable.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8573015002) |
+| Member Support Agent (Tamil) | [Tide](https://tide.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/tide/jobs/7725626003) |
 | Customer Service Rep(05679) - 2997 Highway 501 E | [Domino's](https://dominos.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000129340174) |
 | Pizza Maker - Store 2759, 1415 W Irving Park Rd | [Domino's](https://dominos.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000129338687) |
 | Pizza Maker - Store 2760, 3531 N. Western Ave | [Domino's](https://dominos.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000129338659) |
