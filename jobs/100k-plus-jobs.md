@@ -2,7 +2,7 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**495 open roles** — Last updated: 2026-06-01
+**497 open roles** — Last updated: 2026-06-01
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -16,9 +16,11 @@ Remote roles paying $100,000 or more per year. Salary data pulled directly from 
 | Director, North America Marketing | [ŌURA](https://ouraring.com) | $201K–$236K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/oura/jobs/4265651009) |
 | Staff Cloud Security Engineer | [Temporal](https://temporal.io) | $225K–$275K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/temporaltechnologies/jobs/5151694007) |
 | Senior Software Engineer, Vault  | [ALT TEX](https://thealttex.com) | $140K–$180K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/alt/jobs/7758873003) |
+| Software Engineer (L3) Data Substrate | [Twilio](https://twilio.com) | $139K–$173K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7954715) |
 | Partner Success Manager | [Gusto](https://gusto.com) | $145K–$178K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/gusto/jobs/7954445) |
 | Senior Counsel, Corporate | [Oklo](https://oklo.com) | $200K–$225K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/oklo/jobs/6008510004) |
 | Senior Account Executive, EMEA Enterprise | [HackerOne](https://hackerone.com) | £100K/yr | Jun 1 | [Apply](https://jobs.ashbyhq.com/hackerone/f7074ef7-ba32-4d15-887f-d5f6c400db52) |
+| International Trade Compliance Manager | [Applied Intuition](https://applied.co) | $180K–$250K/yr | Jun 1 | [Apply](https://boards.greenhouse.io/appliedintuition/jobs/4701432005?gh_jid=4701432005) |
 | Senior Technical Recruiter | [Verse Therapy](https://versetherapy.com) | $130K–$170K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/verse/jobs/5237457008) |
 | Data Engineering Lead | [Attio](https://attio.com) | £115K–£145K/yr | Jun 1 | [Apply](https://jobs.ashbyhq.com/attio/98eadaff-4235-4283-baa4-a24d61f5b2ae) |
 | Technical Accounting & Advisory Senior Manager | [Monzo](https://monzo.com) | £106K–£144K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7971941) |

@@ -2,26 +2,35 @@
 
 Remote operations and business operations roles across industries.
 
-**760 open roles** — Last updated: 2026-06-01
+**775 open roles** — Last updated: 2026-06-01
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | Senior Enablement Operations Manager | [Horizon3.ai](https://horizon3ai.com) | $150K–$185K/yr | Jun 1 | [Apply](https://jobs.ashbyhq.com/horizon3ai/074bf252-b46e-4822-a9dc-2fa05209d966) |
+| Production Coordinator II, Second Shift | [Relativity Space](https://relativityspace.com) | — | Jun 1 | [Apply](https://boards.greenhouse.io/relativity/jobs/8571090002?gh_jid=8571090002) |
 | Vehicle Shuttler (6-Month Fixed-Term) | [Clutch](https://clutch.io) | $20/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/clutch/jobs/6010410004) |
 | Shuttler Driver (6-Month Fixed-Term) | [Clutch](https://clutch.io) | $20/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/clutch/jobs/6010408004) |
 | Area Manager, Pellet Mill | [Enviva](https://envivabiomass.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/enviva/jobs/7758615003) |
+| Commercial Door Service Technician - Trainee or Experienced | [DH Pace Company](https://dhpace.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5237761008) |
+| Entry Door/Automatics Installer - Experienced or Trainee | [DH Pace Company](https://dhpace.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5237756008) |
+|  Entry Door/Automatics Service Technicians - Experienced or Trainee | [DH Pace Company](https://dhpace.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5237755008) |
 | Service Technician 1 | [Serve Robotics](https://serverobotics.com) | — | Jun 1 | [Apply](https://jobs.ashbyhq.com/serverobotics/d30b56cb-3e03-4f44-bc24-4970c5a4bfd2) |
 | Associate, Professional Services (US Shift) | [Mindtickle](https://mindtickle.com) | — | Jun 1 | [Apply](https://jobs.lever.co/mindtickle/efc99040-ff56-475b-bd93-dfb581903331) |
 | Organizational Effectiveness Partner  | [Scopely](https://scopely.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/scopely/jobs/5211601008?gh_jid=5211601008) |
+| Merchant Onboarding Team Lead | [Wolt](https://wolt.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7959905) |
+| Maintenance Supervisor | [Avanath Capital Management](https://avanath.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/communitymanager/jobs/5151491007) |
 | EHS Director | [PowerX](https://powerx.co) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/powerx/jobs/4266168009) |
 | Senior Manager, Operating Model & Organisation Design | [Baringa](https://baringa.com) | — | Jun 1 | [Apply](https://job-boards.eu.greenhouse.io/baringa/jobs/4819714101) |
 | Associate Global Mobility Partner | [Scopely](https://scopely.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/scopely/jobs/5233319008?gh_jid=5233319008) |
+| International Trade Compliance Manager | [Applied Intuition](https://applied.co) | $180K–$250K/yr | Jun 1 | [Apply](https://boards.greenhouse.io/appliedintuition/jobs/4701432005?gh_jid=4701432005) |
 | Global Health and Safety Partner - Fixed Term Contract | [Scopely](https://scopely.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/scopely/jobs/5234871008?gh_jid=5234871008) |
 | Senior Consultant - Conformité  | [IQ-EQ](https://iqeq.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000129518675) |
 | Technical Product Manager, SaaS (F/M/D) | [NavVis](https://navvis.com) | — | Jun 1 | [Apply](https://job-boards.eu.greenhouse.io/navvis/jobs/4840955101) |
 | CONSULTANT CONFIRME AMO ENVIRONNEMENT H/F | [Egis](https://egis-group.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000129513410) |
+| Meetings and Events Project Director | [Emota](https://emotaexperiences.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/emotainizioengage/jobs/7972394) |
+| Community Manager  | [Avanath Capital Management](https://avanath.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/communitymanager/jobs/5151259007) |
 | Analista Fundiário Jr | [Anglo American](https://angloamerican.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000129493130) |
 | INTERMARCHE - RESPONSABLE DE RAYON SEC (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129492819) |
 | Première femme de chambre / Premier valet de chambre - CDD 25h | [Genpak LLC](https://genpak-llc-2) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000129486959) |
@@ -31,6 +40,8 @@ Remote operations and business operations roles across industries.
 | Experian Graduate Program in Technology & Analytics | [Experian](https://experianplc.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000129471684) |
 | Business Analyst | [Netcompany](https://netcompany.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000129469949) |
 | Utilities Exception Processing Associate Manager - Chesapeake, VA - Onsite - 6-Month Contract | [Genpak LLC](https://genpak-llc-2) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000129463685) |
+| Meetings and Events Senior Project Manager | [Emota](https://emotaexperiences.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/emotainizioengage/jobs/7972322) |
+| Meetings and Events Senior Project Manager | [Emota](https://emotaexperiences.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/emotainizioengage/jobs/7966320) |
 | Berufsausbildung Elektroniker für Automatisierungstechnik (m/w/d) - Tires | [Continental](https://continentalserves.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000129460069) |
 | Medewerker Schoonmaak | [Basalt](https://basalt.space) | — | Jun 1 | [Apply](https://werkenbijbasalt.nl/o/medewerker-schoonmaak-5/c/new) |
 | Procurement & Commercial - Senior Consultant or Manager  | [Baringa](https://baringa.com) | — | Jun 1 | [Apply](https://job-boards.eu.greenhouse.io/baringa/jobs/4692210101) |
@@ -43,8 +54,12 @@ Remote operations and business operations roles across industries.
 | Global Workplace Experience Lead | [Fluidstack](https://fluidstack.com) | $140K–$205K/yr | May 31 | [Apply](https://jobs.ashbyhq.com/fluidstack/65c7b21e-d290-4d34-bd66-a20b3032f37a) |
 | People Operations | [Fluidstack](https://fluidstack.com) | $85K–$135K/yr | May 31 | [Apply](https://jobs.ashbyhq.com/fluidstack/040a9906-5a10-416f-84a0-5f96e6df30e9) |
 | Strategy & Operations, People | [Fluidstack](https://fluidstack.com) | $85K–$135K/yr | May 31 | [Apply](https://jobs.ashbyhq.com/fluidstack/696d7b8f-d8fb-4d45-b573-7c22482cb275) |
+| Aircraft Maintenance Instructor Part-Time | [Aviation Institute of Maintenance](https://aviationmaintenance.edu) | $40/yr | May 31 | [Apply](https://job-boards.greenhouse.io/aviationinstituteofmaintenance/jobs/5236979008) |
 | Shift Leader - Store 2759, 1415 W Irving Park Rd | [Domino's](https://dominos.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000129338799) |
 | Shift Leader - Store 2760, 3531 N. Western Ave  | [Domino's](https://dominos.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000129338749) |
+| A&P Mechanic Instructor | [Aviation Institute of Maintenance](https://aviationmaintenance.edu) | $38/yr | May 31 | [Apply](https://job-boards.greenhouse.io/aviationinstituteofmaintenance/jobs/5236971008) |
+| A&P Mechanic Instructor | [Aviation Institute of Maintenance](https://aviationmaintenance.edu) | $35/yr | May 31 | [Apply](https://job-boards.greenhouse.io/aviationinstituteofmaintenance/jobs/5236965008) |
+| A&P Mechanic Instructor | [Aviation Institute of Maintenance](https://aviationmaintenance.edu) | $36/yr | May 31 | [Apply](https://job-boards.greenhouse.io/aviationinstituteofmaintenance/jobs/5236963008) |
 | Field Service Technician (Data Center cooling systems) | [New Era Technology](https://neweratech.com) | — | May 31 | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8572332002) |
 | Field Service Technician – Data Center Cooling | [New Era Technology](https://neweratech.com) | — | May 31 | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8572327002) |
 | Regional Manager - Transport Planning & Aviation SEQ | [AECOM](https://aecom.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000129331629) |

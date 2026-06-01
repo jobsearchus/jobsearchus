@@ -2,13 +2,15 @@
 
 Product manager roles at companies building real products. Sourced directly from career pages.
 
-**128 open roles** — Last updated: 2026-06-01
+**130 open roles** — Last updated: 2026-06-01
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | Product Manager  | [ComparaJá](https://comparaja.pt) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/comparaja/jobs/7758703003) |
+| Adobe Product Owner | [Genpak LLC](https://genpak-llc-2) | $90K–$140K/yr | Jun 1 | [Apply](https://job-boards.eu.greenhouse.io/valtech/jobs/4878892101) |
+| Forward Deployed Product Manager | [Genpak LLC](https://genpak-llc-2) | — | Jun 1 | [Apply](https://job-boards.eu.greenhouse.io/valtech/jobs/4873350101) |
 | Growth Product Manager  | [ComparaJá](https://comparaja.pt) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/comparaja/jobs/7758610003) |
 | Head of Product | [Holywater](https://holywater.com) | — | Jun 1 | [Apply](https://jobs.ashbyhq.com/holywater/795ad9ee-bb3f-4479-b657-3e1d7bd248bc) |
 | Product Manager | [Experian](https://experianplc.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000129464286) |

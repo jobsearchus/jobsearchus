@@ -2,27 +2,36 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**766 open roles** — Last updated: 2026-06-01
+**775 open roles** — Last updated: 2026-06-01
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Veterinary Care Support - Overnight | [Veritas Veterinary Partners](https://veritasveterinarypartners.com) | $17/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/veritasvetpartners/jobs/5236035008) |
+| Veterinary Client Care Representative | [Veritas Veterinary Partners](https://veritasveterinarypartners.com) | $23/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/veritasvetpartners/jobs/5238083008) |
+| Veterinary Assistant - Surgery | [Veritas Veterinary Partners](https://veritasveterinarypartners.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/veritasvetpartners/jobs/5237975008) |
 | Clinical Quality Lead  | [Hazel](https://hazelai.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/hazel/jobs/7750110003) |
 | Triage Nurse | [Firsthand](https://shopfirsthand.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/firsthand/jobs/4266371009) |
 | Full Time Licensed Vocational Nurse, LVN (Multiple Shifts) | [Silverado](https://silverado.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/silverado/jobs/5151487007) |
 | Full Time Medication Technician (Multiple Shifts Available) | [Silverado](https://silverado.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/silverado/jobs/5151662007) |
 | Busser - Soho House New York | [Soho House](https://sohohouse.com) | — | Jun 1 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4879794101) |
 | Experience Partner, Programs | [Reddit](https://reddit.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/7973810) |
+| Data Protection Apprentice | [Man Group](https://man.com) | — | Jun 1 | [Apply](https://job-boards.eu.greenhouse.io/mangroup/jobs/4799142101) |
 | Director of Corporate Development and Strategic Partner Management | [SandboxAQ](https://sandboxaq.com) | — | Jun 1 | [Apply](https://jobs.ashbyhq.com/sandboxaq/8afc3217-c2b9-4f81-9e43-7837d2ff7f13) |
 | Consultant, Pharma & Life Sciences | [Baringa](https://baringa.com) | — | Jun 1 | [Apply](https://job-boards.eu.greenhouse.io/baringa/jobs/4879695101) |
 | LVN - LPT (QA Coordinator) | [Crestwood Behavioral Health](https://crestwoodbehavioralhealth.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/crestwoodcareers/jobs/7758612003) |
 | Barback - Soho House Manchester | [Soho House](https://sohohouse.com) | — | Jun 1 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4874247101) |
+| Lunchtime Teaching Assistant | [Fennies Day Nurseries](https://fennies.com) | £14/yr | Jun 1 | [Apply](https://job-boards.eu.greenhouse.io/fenniesdaynurseries/jobs/4879689101) |
+| 6376 - Audit Trail Reviewer – QC Laboratory Systems / Quality Specialist  | [Verista](https://verista.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/veristainc/jobs/5237499008) |
 | Certified Occupational Therapy Assistant, COTA, St Charles | [InHomeTherapy](https://inhometherapy.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/inhometherapy/jobs/5151228007) |
 |  Certified Occupational Therapy Assistant, COTA, Highland Park | [InHomeTherapy](https://inhometherapy.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/inhometherapy/jobs/5151236007) |
 | EMPLOYE POLYVALENT CAISSE/DRIVE (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129490976) |
 | EMPLOYE RAYON BAZAR (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129492906) |
 | EMPLOYE COMMERCIAL (H/F) CAISSE - MISE EN RAYON  | [Genpak LLC](https://genpak-llc-2) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129493989) |
+| Multi-Site Maintenance Supervisor | [Avanath Capital Management](https://avanath.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/communitymanager/jobs/5151243007) |
+| IT Support Specialist | [Too Good To Go](https://toogoodtogo.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/toogoodtogo/jobs/7739984003) |
+| Belgium Axon Pulse Event 2026 - Careers Interest | [Axon](https://axon.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/axon/jobs/7757947003) |
 | Immigration Case Manager, Dutch Immigration | [Envoy Global](https://envoyglobal.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/envoyglobalinc/jobs/6006018004) |
 | Chief of Staff | [Monzo](https://monzo.com) | £86K–£115K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7962857) |
 | Care Coordinator - Home Care | [Healthcare Australia](https://healthcareaustralia.com.au) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/HealthcareAustralia1/postings/6000000001120775) |

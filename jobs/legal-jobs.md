@@ -2,12 +2,13 @@
 
 Remote legal, compliance, and counsel roles.
 
-**76 open roles** — Last updated: 2026-06-01
+**77 open roles** — Last updated: 2026-06-01
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Corporate Counsel, Commercial | [Axon](https://axon.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/axon/jobs/7759342003) |
 | Sr. Commercial Counsel | [Vercel](https://vercel.com) | $250K–$270K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/vercel/jobs/6006500004) |
 | Assistant General Counsel, Credit Cards | [Robinhood](https://robinhood.com) | — | Jun 1 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7943204?t=gh_src=&gh_jid=7943204) |
 | Senior Counsel, Corporate | [Oklo](https://oklo.com) | $200K–$225K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/oklo/jobs/6008510004) |

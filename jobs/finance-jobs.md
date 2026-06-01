@@ -2,7 +2,7 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**338 open roles** — Last updated: 2026-06-01
+**342 open roles** — Last updated: 2026-06-01
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -11,6 +11,9 @@ Remote finance, accounting, and analyst roles at companies of all sizes.
 | Strategic Finance Senior Lead, Growth | [Faire](https://faire.com) | — | Jun 1 | [Apply](https://boards.greenhouse.io/faire/jobs/8573628002?gh_jid=8573628002) |
 | Manager, Corporate FP&A | [Flex](https://withflex.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/flex/jobs/4700858005) |
 | Fintech Operations Sr Analyst | [Delivery Hero](https://deliveryhero.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000129536249) |
+| Business Solutions Architect: Finance Systems | [Axon](https://axon.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/axon/jobs/7758637003) |
+| Business Solutions Architect: Finance Systems | [Axon](https://axon.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/axon/jobs/7758639003) |
+| Business Solutions Architect: Finance Systems | [Axon](https://axon.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/axon/jobs/7758640003) |
 | Analyst - Credit Controller | [WPP](https://wpp.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/wpp/jobs/8568289002) |
 | Assistant Manager, Fund Accounting - Open-Ended Funds  | [IQ-EQ](https://iqeq.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000129519910) |
 | Finance Manager | [Anglo American](https://angloamerican.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000129508481) |
@@ -18,6 +21,7 @@ Remote finance, accounting, and analyst roles at companies of all sizes.
 |  Associate Director, Funds AML | [IQ-EQ](https://iqeq.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000129498078) |
 | Technical Accounting & Advisory Senior Manager | [Monzo](https://monzo.com) | £106K–£144K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7971941) |
 | Associate / Sr. Associate - Credit card Operations | [ZETA SURGICAL](https://zetasurgical.com) | — | Jun 1 | [Apply](https://jobs.lever.co/zeta/9091625e-560b-4c35-81c3-98d262af4407) |
+| Ads Strategy and Finance Manager | [Wolt](https://wolt.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7971956) |
 | Senior Manager Tax Reporting, Risk Management & Technology ContiTech (m/w/divers) - REF92559A | [Continental](https://continentalserves.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000129430131) |
 | Accounts Receivable Coordinator (Remote Eligible - Costa Rica) | [Smartsheet](https://smartsheet.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/smartsheet/jobs/7968841) |
 | Budget Analytics & Financial Operations Analyst | [Axle](https://axle.insure) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/axle/jobs/5149125007) |

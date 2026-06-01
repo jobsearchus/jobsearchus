@@ -2,12 +2,13 @@
 
 DevOps, platform engineering, and infrastructure roles. AWS, GCP, Kubernetes, Terraform.
 
-**69 open roles** — Last updated: 2026-06-01
+**70 open roles** — Last updated: 2026-06-01
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Manager, Vehicle Software Infrastructure | [Relativity Space](https://relativityspace.com) | — | Jun 1 | [Apply](https://boards.greenhouse.io/relativity/jobs/8573482002?gh_jid=8573482002) |
 | DevOps Engineer (Digital Marketing) | [Coherent Solutions](https://coherentsolutions.com) | — | Jun 1 | [Apply](https://job-boards.eu.greenhouse.io/coherentsolutions/jobs/4878354101) |
 | DevOps / Platform Engineer | [Qube Research & Technologies](https://quberesearch.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8572592002) |
 | Devops Manager | [Netcompany](https://netcompany.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000129424149) |

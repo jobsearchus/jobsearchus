@@ -2,16 +2,20 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**268 open roles** — Last updated: 2026-06-01
+**272 open roles** — Last updated: 2026-06-01
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | Director, North America Marketing | [ŌURA](https://ouraring.com) | $201K–$236K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/oura/jobs/4265651009) |
+| Communications Specialist | [Greene King](https://greeneking.co.uk) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/GreeneKing/postings/744000129562149) |
+| Senior Director, Digital Marketing & Web Strategy | [SugarCRM](https://sugarcrm.com) | — | Jun 1 | [Apply](https://jobs.lever.co/sugarcrm/1c76e2d4-c6a1-491e-8f69-2fd7a5a721d8) |
+| Digital Marketing Specialist (Madrid based) | [Fever](https://feverup.com) | — | Jun 1 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4879744101) |
 | Regional PR Lead, Africa | [Delivery Hero](https://deliveryhero.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000129533199) |
 | Lifecycle Marketing Lead | [Roofr](https://roofr.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/roofr/jobs/4701421005) |
 | Marketing Operations Specialist | [Anglo American](https://angloamerican.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000129508589) |
+| Account Manager Paid Search (m/w/d) | [WPP Media](https://wppmedia.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5226112008) |
 | SEO Generalist (12-Month Contract) | [Canva](https://canva.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001121063) |
 | Email Marketing Specialist | [Veeam Software](https://veeam.com) | — | Jun 1 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4860787101) |
 | Digital Content & Social Media Consultant | [Inetum](https://inetum.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000129341299) |

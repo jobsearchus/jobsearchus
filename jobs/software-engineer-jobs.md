@@ -2,25 +2,39 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**1115 open roles** — Last updated: 2026-06-01
+**1130 open roles** — Last updated: 2026-06-01
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Forward Deployed Engineer | [Box](https://box.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/boxinc/jobs/7974818) |
+| Build Reliability Engineer II | [Relativity Space](https://relativityspace.com) | — | Jun 1 | [Apply](https://boards.greenhouse.io/relativity/jobs/8573952002?gh_jid=8573952002) |
+| Build Quality Engineer II | [Relativity Space](https://relativityspace.com) | — | Jun 1 | [Apply](https://boards.greenhouse.io/relativity/jobs/8573962002?gh_jid=8573962002) |
+| Staff, Software Engineer (L4) - Email | [Twilio](https://twilio.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7967685) |
 | Staff Android Engineer (remote). | [Tilt](https://tilt.com) | — | Jun 1 | [Apply](https://jobs.ashbyhq.com/tilthq/0026f142-cdc9-4953-b0b4-61fc4ef10cf2) |
 | Senior Technical Program Manager, Applied AI | [Lilt](https://lilt.com) | — | Jun 1 | [Apply](https://jobs.ashbyhq.com/lilt-corporate/719beb00-4cc5-414b-b3a7-853eaf397b07) |
 | Staff Cloud Security Engineer | [Temporal](https://temporal.io) | $225K–$275K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/temporaltechnologies/jobs/5151694007) |
 | Senior Software Engineer, Vault  | [ALT TEX](https://thealttex.com) | $140K–$180K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/alt/jobs/7758873003) |
+| Hardware Development Engineer II | [Relativity Space](https://relativityspace.com) | — | Jun 1 | [Apply](https://boards.greenhouse.io/relativity/jobs/8573525002?gh_jid=8573525002) |
+| Software Engineer (L3) Data Substrate | [Twilio](https://twilio.com) | $139K–$173K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7954715) |
 | Senior Principal Software Engineer | [Zuora](https://zuora.com) | — | Jun 1 | [Apply](https://boards.greenhouse.io/zuora/jobs/7973954?gh_jid=7973954) |
 | Software Developer, Enscape Integrations (m/f/d) | [Chaos Genius](https://chaosgenius.io) | — | Jun 1 | [Apply](https://careers.chaos.com/o/software-developer-enscape-integrations-mfd-1/c/new) |
+| AI Content Producer — Motion & Génératif (H/F) - CDI - Paris | [LinkedIn Job Wrapping](https://artefact.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/artefactlinkedin/jobs/8573399002) |
 | Manager of Clinical Research, AQMed | [SandboxAQ](https://sandboxaq.com) | — | Jun 1 | [Apply](https://jobs.ashbyhq.com/sandboxaq/3cd2bb1a-9d0e-4271-a657-ea9b81019878) |
+| Mainframe Software Engineer | [Pure Storage](https://purestorage.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/7922807) |
 | CAE Engineer - Durability | [Genpak LLC](https://genpak-llc-2) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/gokenamericallc/jobs/4266060009) |
+| Senior Mulesoft Engineer | [VML](https://vml.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/vmlenterprisesolutions/jobs/8573331002) |
+| Senior Mulesoft Engineer  | [VML](https://vml.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/vmlenterprisesolutions/jobs/8573301002) |
 | Data Sr Analyst | [Delivery Hero](https://deliveryhero.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000129524221) |
+| Talent Acquisition Apprentice  | [Man Group](https://man.com) | — | Jun 1 | [Apply](https://job-boards.eu.greenhouse.io/mangroup/jobs/4799143101) |
+| Head of System Analysis | [BrainRocket](https://brainrocket.com) | — | Jun 1 | [Apply](https://job-boards.eu.greenhouse.io/brainrocketltd/jobs/4879595101) |
 | Software Engineer | [Genpak LLC](https://genpak-llc-2) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000129504910) |
 | Data Engineering Lead | [Attio](https://attio.com) | £115K–£145K/yr | Jun 1 | [Apply](https://jobs.ashbyhq.com/attio/98eadaff-4235-4283-baa4-a24d61f5b2ae) |
+| Junior Web Engineer | [Trainline](https://trainlinegroup.com) | — | Jun 1 | [Apply](https://jobs.ashbyhq.com/trainline/57919bbd-a298-4e68-82cd-75177a82e324) |
 | Director of Engineering | [Wheely](https://wheely.com) | — | Jun 1 | [Apply](https://boards.greenhouse.io/wheely/jobs/7752602003?gh_jid=7752602003) |
 | Graduate Electrical Engineer (UAE National) - Site based | [Egis](https://egis-group.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000129492740) |
+| Business Development Manager (all genders) | [MOIA](https://moia.io) | — | Jun 1 | [Apply](https://job-boards.eu.greenhouse.io/moia/jobs/4879535101) |
 | RAVE I, Data Insights  | [Mapbox](https://mapbox.com) | — | Jun 1 | [Apply](https://jobs.ashbyhq.com/mapbox/6052baad-691c-44f3-9eb0-cfefb9f277cc) |
 | RAVE I, Feedback and Corrections (Road Closures) | [Mapbox](https://mapbox.com) | — | Jun 1 | [Apply](https://jobs.ashbyhq.com/mapbox/7853b60f-b898-40e2-8db2-9ca104d10fe3) |
 | RAVE I, Data Enrichment | [Mapbox](https://mapbox.com) | — | Jun 1 | [Apply](https://jobs.ashbyhq.com/mapbox/e6a07447-be6f-4456-9eb8-accf279b914e) |
@@ -31,6 +45,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Cloud Architect | [Keyfactor](https://keyfactor.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/keyfactorinc/jobs/6006105004) |
 | PL Desenvolvimento Salesforce  | [ília](https://lia.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/ilia/jobs/6008552004) |
 | Staff Engineer | [Experian](https://experianplc.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000129466019) |
+| Business Analyst - Data & AI | [Genpak LLC](https://genpak-llc-2) | — | Jun 1 | [Apply](https://job-boards.eu.greenhouse.io/valtech/jobs/4879077101) |
 | Senior Engineering Manager, Video Performance (Bay Area only) | [Canva](https://canva.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001121433) |
 | Sales Engineer | [NanoNets](https://nanonets.com) | $100K–$140K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/nanonets/jobs/5210057008) |
 | Technical Lead | [Upfront](https://tryupfront.com) | — | Jun 1 | [Apply](https://upfront.recruitee.com/o/technical-lead/c/new) |

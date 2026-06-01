@@ -2,17 +2,20 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**663 open roles** — Last updated: 2026-06-01
+**671 open roles** — Last updated: 2026-06-01
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Strategic Account Executive | [Twilio](https://twilio.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7968031) |
+| Global Account Executive | [Flexport](https://flexport.com) | — | Jun 1 | [Apply](https://boards.greenhouse.io/flexport/jobs/7974657?gh_jid=7974657) |
 | Channel Partnerships Director | [Dandy](https://meetdandy.com) | — | Jun 1 | [Apply](https://jobs.ashbyhq.com/dandy/6eeaef9c-1dfd-4de4-8a00-029ea33d121e) |
 | Business Development | [Realm Alliance](https://realmalliance.com) | $200K/yr | Jun 1 | [Apply](https://jobs.ashbyhq.com/realmalliance/5d3efad8-8e8c-48e7-b885-8b0c8ac439b2) |
 | Strategic Partnerships | [Realm Alliance](https://realmalliance.com) | $200K/yr | Jun 1 | [Apply](https://jobs.ashbyhq.com/realmalliance/b3e8d839-a003-464c-bcfe-df6de9b2dce5) |
 | Strategic Accounts Director, Large Group | [Garner Health](https://getgarner.com) | $190K–$250K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/garnerhealth/jobs/6008518004) |
 | Channel Sales Manager, LATAM (m/f/d) | [Chaos Genius](https://chaosgenius.io) | — | Jun 1 | [Apply](https://careers.chaos.com/o/channel-sales-manager-latam-mfd/c/new) |
+| District Manager, SLED (Southeast) | [Pure Storage](https://purestorage.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/7964686) |
 | Partner Success Manager | [Gusto](https://gusto.com) | $145K–$178K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/gusto/jobs/7954445) |
 | Account Executive (ENT) (Position located in Melbourne, Australia) | [KnowBe4](https://knowbe4.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8573421002) |
 | Agente Stone - Consultor(a) Comercial Externo - Caxias do  Sul/RS | [Stone](https://stone.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/stone/jobs/7758667003) |
@@ -20,12 +23,17 @@ Remote sales roles — account executives, SDRs, and enterprise deals.
 | Agente Stone - Consultor(a) Comercial Externo -  Chapecó/SC | [Stone](https://stone.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/stone/jobs/7758665003) |
 | Agente Stone - Consultor(a) Comercial Externo -  Blumenau/SC | [Stone](https://stone.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/stone/jobs/7758643003) |
 | Agente Stone - Consultor (a) Comercial Externo -  Jaraguá do Sul/SC | [Stone](https://stone.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/stone/jobs/7758642003) |
+| Ads & Promos - Senior Sales Manager | [Wolt](https://wolt.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7962731) |
+| Account Executive (Portuguese Speaker) | [Fever](https://feverup.com) | — | Jun 1 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4879727101) |
 | Head of Revenue and Growth | [Superset](https://superset.sh) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/superset/jobs/5237455008) |
 | Vendeur / Vendeuse CDD -  Temps partiel [30 Heures] (H/F) | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000129518352) |
+| Technical Sales Manager (all genders) | [MOIA](https://moia.io) | — | Jun 1 | [Apply](https://job-boards.eu.greenhouse.io/moia/jobs/4879674101) |
 | VENDEUR CONSEIL - CDI TEMPS PARTIEL 30H H/F | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000129516679) |
+| Commercial Account Executive  | [Zscaler](https://zscaler.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5150435007) |
 | Sales Manager - WeMoms | [Genpak LLC](https://genpak-llc-2) | — | Jun 1 | [Apply](https://jobs.ashbyhq.com/voodoo/83df0f9f-025a-4bcd-8209-8e9d96c77187) |
 | Senior Business Developer - WeMoms | [Genpak LLC](https://genpak-llc-2) | — | Jun 1 | [Apply](https://jobs.ashbyhq.com/voodoo/9d388b93-a014-4b16-8ae7-e551b4cbd406) |
 | Account Executive - WeMoms | [Genpak LLC](https://genpak-llc-2) | — | Jun 1 | [Apply](https://jobs.ashbyhq.com/voodoo/03de5328-613b-41ac-adbd-0214ff8ef57f) |
+| Account Manager, Restaurant | [Wolt](https://wolt.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7971900) |
 | Senior Account Executive, Mid-Market (DACH) | [Reddit](https://reddit.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/7559230) |
 | Inside Sales Representative | [Veeam Software](https://veeam.com) | — | Jun 1 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4843225101) |
 | Casual Sales Assistant | [Frasers Group](https://frasersgroup.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000129454573) |

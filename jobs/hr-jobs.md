@@ -2,12 +2,13 @@
 
 Remote HR, recruiting, and people operations roles.
 
-**133 open roles** — Last updated: 2026-06-01
+**134 open roles** — Last updated: 2026-06-01
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Mulesoft Engineer  | [VML](https://vml.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/vmlenterprisesolutions/jobs/8573287002) |
 | Senior Technical Recruiter | [Verse Therapy](https://versetherapy.com) | $130K–$170K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/verse/jobs/5237457008) |
 | Internship – Talent & Venture Development (f/m/x) | [Marvel Fusion](https://marvelfusion.com) | — | Jun 1 | [Apply](https://job-boards.eu.greenhouse.io/marvelfusion/jobs/4879488101) |
 | HRM Specialist | [Coupang](https://coupang.com) | — | Jun 1 | [Apply](https://boards.greenhouse.io/coupanginternal/jobs/7959890?gh_jid=7959890) |

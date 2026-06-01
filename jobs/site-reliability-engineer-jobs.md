@@ -2,12 +2,13 @@
 
 SRE and reliability engineering roles at companies that take uptime seriously.
 
-**14 open roles** — Last updated: 2026-06-01
+**15 open roles** — Last updated: 2026-06-01
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Staff Site Reliability Engineer | [Ping Identity](https://pingidentity.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/pingidentity/jobs/8446908002) |
 | Especialista de SRE I - Vaga Afirmativa para Mulheres | [Experian](https://experianplc.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000129236229) |
 | Staff Site Reliability Engineer (Collaboration Engineering) | [NBCUniversal](https://nbcuniversal.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000129203104) |
 | Platform Engineer (SRE) - AI Control Plane | [Speakeasy](https://speakeasy.com) | — | May 22 | [Apply](https://jobs.ashbyhq.com/speakeasy/04db0015-b9aa-4563-bda5-57939b664fa8) |

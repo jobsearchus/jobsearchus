@@ -2,18 +2,26 @@
 
 Remote jobs open to candidates with 0–2 years of experience. A real way in — no degree gatekeeping.
 
-**737 open roles** — Last updated: 2026-06-01
+**745 open roles** — Last updated: 2026-06-01
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Veterinary Care Support - Overnight | [Veritas Veterinary Partners](https://veritasveterinarypartners.com) | $17/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/veritasvetpartners/jobs/5236035008) |
 | Vehicle Shuttler (6-Month Fixed-Term) | [Clutch](https://clutch.io) | $20/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/clutch/jobs/6010410004) |
 | Shuttler Driver (6-Month Fixed-Term) | [Clutch](https://clutch.io) | $20/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/clutch/jobs/6010408004) |
+| Commercial Door Service Technician - Trainee or Experienced | [DH Pace Company](https://dhpace.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5237761008) |
+| Entry Door/Automatics Installer - Experienced or Trainee | [DH Pace Company](https://dhpace.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5237756008) |
+|  Entry Door/Automatics Service Technicians - Experienced or Trainee | [DH Pace Company](https://dhpace.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5237755008) |
 | Busser - Soho House New York | [Soho House](https://sohohouse.com) | — | Jun 1 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4879794101) |
 | Service Technician 1 | [Serve Robotics](https://serverobotics.com) | — | Jun 1 | [Apply](https://jobs.ashbyhq.com/serverobotics/d30b56cb-3e03-4f44-bc24-4970c5a4bfd2) |
+| Senior Mulesoft Engineer  | [VML](https://vml.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/vmlenterprisesolutions/jobs/8573287002) |
+| Lunchtime Teaching Assistant | [Fennies Day Nurseries](https://fennies.com) | £14/yr | Jun 1 | [Apply](https://job-boards.eu.greenhouse.io/fenniesdaynurseries/jobs/4879689101) |
+| Talent Acquisition Apprentice  | [Man Group](https://man.com) | — | Jun 1 | [Apply](https://job-boards.eu.greenhouse.io/mangroup/jobs/4799143101) |
 | Technical Product Manager, SaaS (F/M/D) | [NavVis](https://navvis.com) | — | Jun 1 | [Apply](https://job-boards.eu.greenhouse.io/navvis/jobs/4840955101) |
 | Technical Support Specialist | [Airtable](https://airtable.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8573015002) |
+| Junior Web Engineer | [Trainline](https://trainlinegroup.com) | — | Jun 1 | [Apply](https://jobs.ashbyhq.com/trainline/57919bbd-a298-4e68-82cd-75177a82e324) |
 | EMPLOYE RAYON BAZAR (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129492906) |
 | EMPLOYE COMMERCIAL (H/F) CAISSE - MISE EN RAYON  | [Genpak LLC](https://genpak-llc-2) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129493989) |
 | Analista Fundiário Jr | [Anglo American](https://angloamerican.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000129493130) |

@@ -2,12 +2,13 @@
 
 Frontend engineering roles. React, Vue, Angular, TypeScript — direct from company career pages.
 
-**18 open roles** — Last updated: 2026-06-01
+**19 open roles** — Last updated: 2026-06-01
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Frontend Engineer, Web Tooling | [Wolt](https://wolt.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7971912) |
 | Senior Frontend Engineer | [Razorpay Software Private Limited](https://razorpay.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4694066005) |
 | Tech / Team Lead – Frontend (TypeScript / React) | [Miratech](https://miratech.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000129133869) |
 | Staff Front-End Engineer - Telemetry | [Canva](https://canva.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Canva/postings/6000000001115559) |
