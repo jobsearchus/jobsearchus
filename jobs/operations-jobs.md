@@ -2,12 +2,26 @@
 
 Remote operations and business operations roles across industries.
 
-**729 open roles** — Last updated: 2026-06-01
+**743 open roles** — Last updated: 2026-06-01
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Consultant - Conformité  | [IQ-EQ](https://iqeq.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000129518675) |
+| CONSULTANT CONFIRME AMO ENVIRONNEMENT H/F | [Egis](https://egis-group.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000129513410) |
+| Analista Fundiário Jr | [Anglo American](https://angloamerican.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000129493130) |
+| INTERMARCHE - RESPONSABLE DE RAYON SEC (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129492819) |
+| Première femme de chambre / Premier valet de chambre - CDD 25h | [Genpak LLC](https://genpak-llc-2) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000129486959) |
+| Adjoint de direction - H/F | [Genpak LLC](https://genpak-llc-2) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000129484410) |
+| Scaffolding Team Leader (Bridge Maintenance) | [Egis](https://egis-group.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000129482059) |
+| Experian Graduate Program in Technology & Analytics | [Experian](https://experianplc.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000129471684) |
+| Business Analyst | [Netcompany](https://netcompany.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000129469949) |
+| Berufsausbildung Elektroniker für Automatisierungstechnik (m/w/d) - Tires | [Continental](https://continentalserves.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000129460069) |
+| Senior Manager Tax Reporting, Risk Management & Technology ContiTech (m/w/diverse) - REF92559A | [Continental](https://continentalserves.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000129432119) |
+| Magasinier HF (CDD) | [BUT](https://but.fr) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000129412729) |
+| Senior QC Team Leader | [Avery Dennison](https://averydennison.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000129377199) |
+| Order Entry  | [Avery Dennison](https://averydennison.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000129349509) |
 | Austin, Workplace Lead | [Fluidstack](https://fluidstack.com) | $140K–$205K/yr | May 31 | [Apply](https://jobs.ashbyhq.com/fluidstack/351adea8-bbeb-4c6b-8d51-bc6ac93c9049) |
 | Global Workplace Experience Lead | [Fluidstack](https://fluidstack.com) | $140K–$205K/yr | May 31 | [Apply](https://jobs.ashbyhq.com/fluidstack/65c7b21e-d290-4d34-bd66-a20b3032f37a) |
 | People Operations | [Fluidstack](https://fluidstack.com) | $85K–$135K/yr | May 31 | [Apply](https://jobs.ashbyhq.com/fluidstack/040a9906-5a10-416f-84a0-5f96e6df30e9) |

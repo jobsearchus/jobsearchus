@@ -2,12 +2,13 @@
 
 Product manager roles at companies building real products. Sourced directly from career pages.
 
-**124 open roles** — Last updated: 2026-06-01
+**125 open roles** — Last updated: 2026-06-01
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Product Manager | [Experian](https://experianplc.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000129464286) |
 | Staff Product Manager, Relationship Growth | [Faire](https://faire.com) | $220K–$303K/yr | May 29 | [Apply](https://boards.greenhouse.io/faire/jobs/8572160002?gh_jid=8572160002) |
 | Staff Product Manager, Inspire & App | [Faire](https://faire.com) | $220K–$303K/yr | May 29 | [Apply](https://boards.greenhouse.io/faire/jobs/8572155002?gh_jid=8572155002) |
 | Principal Product Manager, Growth | [Docker](https://docker.com) | — | May 29 | [Apply](https://jobs.ashbyhq.com/docker/6a37877b-cd18-4014-91b1-284516f0a8a1) |

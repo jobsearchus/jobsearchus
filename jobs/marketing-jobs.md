@@ -2,12 +2,14 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**263 open roles** — Last updated: 2026-06-01
+**265 open roles** — Last updated: 2026-06-01
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Marketing Operations Specialist | [Anglo American](https://angloamerican.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000129508589) |
+| SEO Generalist (12-Month Contract) | [Canva](https://canva.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001121063) |
 | Email Marketing Specialist | [Veeam Software](https://veeam.com) | — | Jun 1 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4860787101) |
 | Digital Content & Social Media Consultant | [Inetum](https://inetum.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000129341299) |
 | Division Marketing Manager | [Syngenta](https://syngenta.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000129291459) |

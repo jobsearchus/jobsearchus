@@ -2,13 +2,23 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**629 open roles** — Last updated: 2026-06-01
+**639 open roles** — Last updated: 2026-06-01
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Casual Sales Assistant | [Frasers Group](https://frasersgroup.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000129454573) |
+| Casual Sales Assiatant | [Frasers Group](https://frasersgroup.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000129454829) |
+| Casual Sales Assistant | [Frasers Group](https://frasersgroup.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000129454759) |
+| Casual Sales Assistant | [Frasers Group](https://frasersgroup.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000129452345) |
+| Customer Success Manager | [Freshworks](https://freshworks.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000129454339) |
+| ACHETEUR HORS PRODUCTION CONFIRME (H/F/N)  | [Continental](https://continentalserves.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000129453249) |
+| Territory Account Manager, Medical Devices | [Avery Dennison](https://averydennison.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000129441966) |
+| Shopmitarbeiter/in, (m/w/d) 30 Wochenstunden  | [Frasers Group](https://frasersgroup.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000129432124) |
+| Junior Brand Partnerships Manager - Beauty | [Frasers Group](https://frasersgroup.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000129421466) |
 | Commercial BtoB (H/F) | [Ixora](https://ixora.org) | — | Jun 1 | [Apply](https://emploi.ixora-conseil.fr/o/commercial-btob-hf/c/new) |
+| CSR Administrateur.trice des ventes | [Avery Dennison](https://averydennison.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000129415889) |
 | Automation Sales Manager | [Formic](https://formic.co) | — | May 31 | [Apply](https://job-boards.greenhouse.io/formic/jobs/4685613006) |
 | Automation Sales Manager | [Formic](https://formic.co) | — | May 31 | [Apply](https://job-boards.greenhouse.io/formic/jobs/4685612006) |
 | Automation Sales Manager | [Formic](https://formic.co) | — | May 31 | [Apply](https://job-boards.greenhouse.io/formic/jobs/4685610006) |

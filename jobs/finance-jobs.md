@@ -2,12 +2,16 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**327 open roles** — Last updated: 2026-06-01
+**331 open roles** — Last updated: 2026-06-01
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Assistant Manager, Fund Accounting - Open-Ended Funds  | [IQ-EQ](https://iqeq.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000129519910) |
+| Finance Manager | [Anglo American](https://angloamerican.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000129508481) |
+|  Associate Director, Funds AML | [IQ-EQ](https://iqeq.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000129498078) |
+| Senior Manager Tax Reporting, Risk Management & Technology ContiTech (m/w/divers) - REF92559A | [Continental](https://continentalserves.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000129430131) |
 | Accounts Receivable Coordinator (Remote Eligible - Costa Rica) | [Smartsheet](https://smartsheet.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/smartsheet/jobs/7968841) |
 | Budget Analytics & Financial Operations Analyst | [Axle](https://axle.insure) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/axle/jobs/5149125007) |
 | Revenue Accounting and Business Partnering Manager | [Experian](https://experianplc.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000129340909) |

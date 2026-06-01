@@ -2,12 +2,13 @@
 
 Project and program management roles across tech, operations, and enterprise.
 
-**74 open roles** — Last updated: 2026-06-01
+**75 open roles** — Last updated: 2026-06-01
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Principal Project Manager - North Queensland | [AECOM](https://aecom.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000129346183) |
 | Project Manager (Power Generation) | [xAI](https://x.ai) | — | May 29 | [Apply](https://job-boards.greenhouse.io/xai/jobs/5150802007) |
 | Project Manager(TransCom SISO) | [Horizon Industries](https://horizonindustries.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/horizonindustrieslimited/jobs/5236277008) |
 | Junior Project Manager (Dutch speaking) | [AUTO1 Group](https://auto1-group.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000129202782) |

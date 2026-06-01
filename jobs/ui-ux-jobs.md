@@ -2,12 +2,13 @@
 
 UX design, UI design, and product design roles. Figma, research, and end-to-end product work.
 
-**103 open roles** — Last updated: 2026-06-01
+**104 open roles** — Last updated: 2026-06-01
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Mechanical Engineer | [AECOM](https://aecom.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000129377916) |
 | Product Designer | [Maze](https://maze.co) | — | May 31 | [Apply](https://jobs.ashbyhq.com/mazehq/b8b9ba92-de27-4c49-a4a6-820c9c414a71) |
 | Senior VFX Artist | [Gameloft](https://gameloft.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/Gameloft/postings/744000129296069) |
 | Lead VFX Artist | [Gameloft](https://gameloft.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/Gameloft/postings/744000129296019) |

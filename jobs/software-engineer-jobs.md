@@ -2,16 +2,31 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**1078 open roles** — Last updated: 2026-06-01
+**1093 open roles** — Last updated: 2026-06-01
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Graduate Electrical Engineer (UAE National) - Site based | [Egis](https://egis-group.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000129492740) |
+| Senior Staff Engineer, AI,LLM | [Nagarro](https://nagarro.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000129477719) |
+| Mechaniker / Anlagenverantwortlicher (m/w/d) - REF92843C | [Continental](https://continentalserves.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000129475159) |
+| Senior Manufacturing Equipment Engineering Expert - Hydraulic Hose | [Continental](https://continentalserves.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000129472867) |
+| Technical Delegate / Flying Doctor (m/f/d) - Field based | [MSX International](https://msxi.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013392836) |
+| Staff Engineer | [Experian](https://experianplc.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000129466019) |
+| Senior Engineering Manager, Video Performance (Bay Area only) | [Canva](https://canva.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001121433) |
+| Senior Embedded Software Engineers (C, ADA, RUST) | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000129449804) |
+| Supplier Quality Engineer | [Avery Dennison](https://averydennison.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000129440630) |
+| Associate Principal Engineer (Scrum Product Owner) | [Nagarro](https://nagarro.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000129436659) |
+| Associate Principal Engineer (Salesforce Marketing Cloud) | [Nagarro](https://nagarro.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000129430951) |
+| Game Mathematics Intern | [Gameloft](https://gameloft.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/Gameloft/postings/744000129420720) |
 | Mobile Engineer, iOS | [Clear Gene](https://cleargene.com) | $180K–$220K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/clear/jobs/7971703) |
+| Principal - Electrical Engineer (R&I) | [AECOM](https://aecom.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000129374520) |
+| Principal Electrical Engineering | [AECOM](https://aecom.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000129369700) |
 | Escalations Engineer - Pipelines | [Buildkite](https://buildkite.com) | — | May 31 | [Apply](https://job-boards.greenhouse.io/buildkite/jobs/5237008008) |
 | Senior Engineer - Electrical | [IonQ](https://ionq.com) | — | May 31 | [Apply](https://job-boards.greenhouse.io/ionq/jobs/6009599004) |
 | Senior PCB Designer | [IonQ](https://ionq.com) | — | May 31 | [Apply](https://job-boards.greenhouse.io/ionq/jobs/6009600004) |
+| Principal Water Resources Engineer - Hydrology and Hydraulics (Flooding). | [AECOM](https://aecom.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000129344039) |
 | Member of Technical Staff - Imagine Safety | [xAI](https://x.ai) | $180K–$440K/yr | May 31 | [Apply](https://job-boards.greenhouse.io/xai/jobs/5151022007) |
 | Solutions Engineer | [Runlayer](https://runlayer.com) | — | May 31 | [Apply](https://jobs.ashbyhq.com/runlayer/9689abb9-07ac-455c-beb7-1d41ad2ce84d) |
 | Airframe Design Lead, Fuselage  | [Archer](https://archer.com) | $173K–$216K/yr | May 31 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7740998003) |
