@@ -2,12 +2,17 @@
 
 Remote customer support and success roles across SaaS, e-commerce, and tech.
 
-**199 open roles** — Last updated: 2026-05-31
+**204 open roles** — Last updated: 2026-06-01
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Customer Service Rep(05679) - 2997 Highway 501 E | [Domino's](https://dominos.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000129340174) |
+| Pizza Maker - Store 2759, 1415 W Irving Park Rd | [Domino's](https://dominos.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000129338687) |
+| Pizza Maker - Store 2760, 3531 N. Western Ave | [Domino's](https://dominos.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000129338659) |
+| Delivery Driver - Store 2760, 3531 N. Western Ave | [Domino's](https://dominos.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000129338419) |
+| Conseiller / Conseillère Service Client  CDD - 15H / 21H | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000129337859) |
 | Health Club Receptionist | [ACCOR](https://group.accor.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000129331909) |
 | Customer Service Rep(08096) - 1405 S. Boston Rd | [Domino's](https://dominos.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000129322837) |
 | Technical Support Specialist | [Sectigo](https://sectigo.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/Sectigo/postings/3743990013389006) |

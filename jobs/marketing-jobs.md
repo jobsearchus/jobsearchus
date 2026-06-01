@@ -2,12 +2,14 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**261 open roles** — Last updated: 2026-05-31
+**263 open roles** — Last updated: 2026-06-01
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Email Marketing Specialist | [Veeam Software](https://veeam.com) | — | Jun 1 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4860787101) |
+| Digital Content & Social Media Consultant | [Inetum](https://inetum.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000129341299) |
 | Division Marketing Manager | [Syngenta](https://syngenta.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000129291459) |
 | Social Media Manager - Fairmont Mumbai & Roswyn, A Morgans Originals Hotel | [ACCOR](https://group.accor.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000129291399) |
 | Associate Director, Brand Marketing, Body Category, Naturium | [e.l.f. Beauty](https://elfbeauty.com) | — | May 30 | [Apply](https://jobs.lever.co/elfbeauty/d2750fa0-e6e2-4308-89b1-12a71739f16a) |

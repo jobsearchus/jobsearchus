@@ -2,12 +2,17 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**1066 open roles** — Last updated: 2026-05-31
+**1071 open roles** — Last updated: 2026-06-01
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Escalations Engineer - Pipelines | [Buildkite](https://buildkite.com) | — | May 31 | [Apply](https://job-boards.greenhouse.io/buildkite/jobs/5237008008) |
+| Construction Manager - Rail  | [AECOM](https://aecom.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000129335489) |
+| Senior Finance Systems Engineer -Zuora system (San Francisco and Bay Area only) | [Canva](https://canva.com) | $185K–$237K/yr | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001118260) |
+| Senior Finance Systems Engineer  | [Canva](https://canva.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001118255) |
+| Senior Finance Systems Engineer  | [Canva](https://canva.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/Canva/postings/6000000001118255) |
 | Principal Research Scientist I (Analytical R&D for LNP and Small Molecule) | [AbbVie](https://abbvie.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/AbbVie/postings/3743990013388616) |
 | Lead Requirement Engineer – eAxle | [Bosch](https://bosch.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/BoschGroup/postings/744000129301299) |
 | IT Solution Manager — SAP S/4 HANA / SAP BTP | [Bosch](https://bosch.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/BoschGroup/postings/744000129291449) |

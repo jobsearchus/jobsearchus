@@ -2,13 +2,19 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**468 open roles** — Last updated: 2026-05-31
+**474 open roles** — Last updated: 2026-06-01
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Austin, Workplace Lead | [Fluidstack](https://fluidstack.com) | $140K–$205K/yr | May 31 | [Apply](https://jobs.ashbyhq.com/fluidstack/351adea8-bbeb-4c6b-8d51-bc6ac93c9049) |
+| Global Workplace Experience Lead | [Fluidstack](https://fluidstack.com) | $140K–$205K/yr | May 31 | [Apply](https://jobs.ashbyhq.com/fluidstack/65c7b21e-d290-4d34-bd66-a20b3032f37a) |
+| People Experience Generalist | [Fluidstack](https://fluidstack.com) | $110K–$170K/yr | May 31 | [Apply](https://jobs.ashbyhq.com/fluidstack/796bd789-4ba5-4bca-9105-5ff48afaa6bc) |
+| People Operations Specialist | [Fluidstack](https://fluidstack.com) | $110K–$170K/yr | May 31 | [Apply](https://jobs.ashbyhq.com/fluidstack/6ad9f0f7-fbaf-450e-bf1e-bbaf227c1953) |
+| Director of Federal Programs, Additive Manufacturing | [Hadrian](https://hadrian.com) | $200K–$250K/yr | May 31 | [Apply](https://jobs.ashbyhq.com/hadrian-automation/2ceb5590-48e4-4f23-94db-3efd8432d184) |
 | Director of Defense Security | [Applied Intuition](https://applied.co) | $200K–$260K/yr | May 31 | [Apply](https://boards.greenhouse.io/appliedintuition/jobs/4701275005?gh_jid=4701275005) |
+| Senior Finance Systems Engineer -Zuora system (San Francisco and Bay Area only) | [Canva](https://canva.com) | $185K–$237K/yr | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001118260) |
 | Staff Product Manager, Relationship Growth | [Faire](https://faire.com) | $220K–$303K/yr | May 29 | [Apply](https://boards.greenhouse.io/faire/jobs/8572160002?gh_jid=8572160002) |
 | Staff Product Manager, Inspire & App | [Faire](https://faire.com) | $220K–$303K/yr | May 29 | [Apply](https://boards.greenhouse.io/faire/jobs/8572155002?gh_jid=8572155002) |
 | Director, Learning | [Affirm](https://affirm.com) | $191K–$271K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7741870003) |

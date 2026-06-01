@@ -2,7 +2,7 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**627 open roles** — Last updated: 2026-05-31
+**628 open roles** — Last updated: 2026-06-01
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -22,6 +22,7 @@ Remote sales roles — account executives, SDRs, and enterprise deals.
 | VENDEUR POLYVVALENT SECTEUR DECOUPE BOIS ET VERRE (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129297049) |
 | VENDEUR(SE) CHARCUTIER-TRAITEUR (H/F) | [Genpak LLC](https://genpak-llc-2) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129296159) |
 | EMPLOYE COMMERCIAL (H/F) SAISONNIERS | [Genpak LLC](https://genpak-llc-2) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129295899) |
+| VENDEUR CONSEIL - CDD TEMPS PARTIEL H/F | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000129294639) |
 | Territory Account Executive, iGaming (Thailand) | [Cloudflare](https://cloudflare.com) | — | May 30 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7962217?gh_jid=7962217) |
 | Account Executive - Credit Unions (Remote) | [Experian](https://experianplc.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000129290129) |
 | Partner Success Manager | [Saviynt](https://saviynt.com) | — | May 30 | [Apply](https://jobs.lever.co/saviynt/b0606810-c6e7-4475-9500-42a910e8704a) |

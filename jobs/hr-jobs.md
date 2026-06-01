@@ -2,12 +2,16 @@
 
 Remote HR, recruiting, and people operations roles.
 
-**124 open roles** — Last updated: 2026-05-31
+**128 open roles** — Last updated: 2026-06-01
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| People Experience Generalist | [Fluidstack](https://fluidstack.com) | $110K–$170K/yr | May 31 | [Apply](https://jobs.ashbyhq.com/fluidstack/796bd789-4ba5-4bca-9105-5ff48afaa6bc) |
+| People Operations Specialist | [Fluidstack](https://fluidstack.com) | $110K–$170K/yr | May 31 | [Apply](https://jobs.ashbyhq.com/fluidstack/6ad9f0f7-fbaf-450e-bf1e-bbaf227c1953) |
+| APPRENTI RH H/F Aix en Provence | [ACCOR](https://group.accor.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000129339369) |
+| Technicien·ne, Talent & Culture (H/F/D) | [ACCOR](https://group.accor.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000129339228) |
 | People & Culture Administrator | [Primark Tiendas SLU](https://primark.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000129298749) |
 | Director, Total Rewards  | [Enviva](https://envivabiomass.com) | — | May 30 | [Apply](https://job-boards.greenhouse.io/enviva/jobs/7751219003) |
 | Technical Sourcer | [Replit](https://replit.com) | — | May 29 | [Apply](https://jobs.ashbyhq.com/replit/73831fe4-c4d5-4e27-91b4-f7f83a99cb73) |

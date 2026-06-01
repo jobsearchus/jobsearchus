@@ -2,17 +2,24 @@
 
 Remote operations and business operations roles across industries.
 
-**718 open roles** — Last updated: 2026-05-31
+**725 open roles** — Last updated: 2026-06-01
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Austin, Workplace Lead | [Fluidstack](https://fluidstack.com) | $140K–$205K/yr | May 31 | [Apply](https://jobs.ashbyhq.com/fluidstack/351adea8-bbeb-4c6b-8d51-bc6ac93c9049) |
+| Global Workplace Experience Lead | [Fluidstack](https://fluidstack.com) | $140K–$205K/yr | May 31 | [Apply](https://jobs.ashbyhq.com/fluidstack/65c7b21e-d290-4d34-bd66-a20b3032f37a) |
+| People Operations | [Fluidstack](https://fluidstack.com) | $85K–$135K/yr | May 31 | [Apply](https://jobs.ashbyhq.com/fluidstack/040a9906-5a10-416f-84a0-5f96e6df30e9) |
+| Strategy & Operations, People | [Fluidstack](https://fluidstack.com) | $85K–$135K/yr | May 31 | [Apply](https://jobs.ashbyhq.com/fluidstack/696d7b8f-d8fb-4d45-b573-7c22482cb275) |
+| Shift Leader - Store 2759, 1415 W Irving Park Rd | [Domino's](https://dominos.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000129338799) |
+| Shift Leader - Store 2760, 3531 N. Western Ave  | [Domino's](https://dominos.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000129338749) |
 | Field Service Technician (Data Center cooling systems) | [New Era Technology](https://neweratech.com) | — | May 31 | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8572332002) |
 | Field Service Technician – Data Center Cooling | [New Era Technology](https://neweratech.com) | — | May 31 | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8572327002) |
 | Regional Manager - Transport Planning & Aviation SEQ | [AECOM](https://aecom.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000129331629) |
 | Regional Manager - Roads & Highways Victoria | [AECOM](https://aecom.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000129331469) |
 | Regional Manager - Highways, SEQ | [AECOM](https://aecom.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000129330099) |
+| Assistant Manager(03447) 6 Court St. | [Domino's](https://dominos.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000129322812) |
 | Customer Service Rep - Southside | [Domino's](https://dominos.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000129323080) |
 | General Manager(08031) - 313 S. Broadway Street, Suite 5 | [Domino's](https://dominos.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000129323059) |
 | Assistant Manager (05786) | [Domino's](https://dominos.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000129322687) |
