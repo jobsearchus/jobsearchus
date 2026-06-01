@@ -2,7 +2,7 @@
 
 Remote HR, recruiting, and people operations roles.
 
-**128 open roles** — Last updated: 2026-06-01
+**130 open roles** — Last updated: 2026-06-01
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -10,6 +10,8 @@ Remote HR, recruiting, and people operations roles.
 | --- | --- | --- | --- | --- |
 | People Experience Generalist | [Fluidstack](https://fluidstack.com) | $110K–$170K/yr | May 31 | [Apply](https://jobs.ashbyhq.com/fluidstack/796bd789-4ba5-4bca-9105-5ff48afaa6bc) |
 | People Operations Specialist | [Fluidstack](https://fluidstack.com) | $110K–$170K/yr | May 31 | [Apply](https://jobs.ashbyhq.com/fluidstack/6ad9f0f7-fbaf-450e-bf1e-bbaf227c1953) |
+| People Partner - Software & Platform | [Fluidstack](https://fluidstack.com) | $195K–$315K/yr | May 31 | [Apply](https://jobs.ashbyhq.com/fluidstack/3df9924f-7f89-445f-a045-8ec9691723ee) |
+| People Partner | [Fluidstack](https://fluidstack.com) | $195K–$315K/yr | May 31 | [Apply](https://jobs.ashbyhq.com/fluidstack/4654d44d-0ea7-407e-8338-b4bc3dfb403a) |
 | APPRENTI RH H/F Aix en Provence | [ACCOR](https://group.accor.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000129339369) |
 | Technicien·ne, Talent & Culture (H/F/D) | [ACCOR](https://group.accor.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000129339228) |
 | People & Culture Administrator | [Primark Tiendas SLU](https://primark.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000129298749) |

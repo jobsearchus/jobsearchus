@@ -2,7 +2,7 @@
 
 Remote customer support and success roles across SaaS, e-commerce, and tech.
 
-**204 open roles** — Last updated: 2026-06-01
+**205 open roles** — Last updated: 2026-06-01
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -14,6 +14,7 @@ Remote customer support and success roles across SaaS, e-commerce, and tech.
 | Delivery Driver - Store 2760, 3531 N. Western Ave | [Domino's](https://dominos.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000129338419) |
 | Conseiller / Conseillère Service Client  CDD - 15H / 21H | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000129337859) |
 | Health Club Receptionist | [ACCOR](https://group.accor.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000129331909) |
+| Customer Service Rep(08987) - 412 B W. 3rd Street | [Domino's](https://dominos.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000129323139) |
 | Customer Service Rep(08096) - 1405 S. Boston Rd | [Domino's](https://dominos.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000129322837) |
 | Technical Support Specialist | [Sectigo](https://sectigo.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/Sectigo/postings/3743990013389006) |
 | Technical Support Specialist | [Sectigo](https://sectigo.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/Sectigo/postings/3743990013388886) |

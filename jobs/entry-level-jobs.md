@@ -2,7 +2,7 @@
 
 Remote jobs open to candidates with 0–2 years of experience. A real way in — no degree gatekeeping.
 
-**704 open roles** — Last updated: 2026-06-01
+**706 open roles** — Last updated: 2026-06-01
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -16,6 +16,8 @@ Remote jobs open to candidates with 0–2 years of experience. A real way in —
 | Delivery Driver - Store 2760, 3531 N. Western Ave | [Domino's](https://dominos.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000129338419) |
 | Delivery Driver(08969) - 550 U.S. Hwy. 84 East | [Domino's](https://dominos.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000129337969) |
 | Health Club Receptionist | [ACCOR](https://group.accor.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000129331909) |
+| Customer Service Rep(08987) - 412 B W. 3rd Street | [Domino's](https://dominos.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000129323139) |
+| Assistant Manager(08859) - 215 Ivey Lane | [Domino's](https://dominos.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000129323119) |
 | Delivery Driver(07578) 11345 W Buckeye Rd | [Domino's](https://dominos.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000129322978) |
 | Cashier - Pizza Maker  (02182) Part-time | [Domino's](https://dominos.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000129322879) |
 | Customer Service Rep(08096) - 1405 S. Boston Rd | [Domino's](https://dominos.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000129322837) |

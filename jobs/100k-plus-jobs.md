@@ -2,16 +2,22 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**474 open roles** — Last updated: 2026-06-01
+**480 open roles** — Last updated: 2026-06-01
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Mobile Engineer, iOS | [Clear Gene](https://cleargene.com) | $180K–$220K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/clear/jobs/7971703) |
+| Member of Technical Staff - Imagine Safety | [xAI](https://x.ai) | $180K–$440K/yr | May 31 | [Apply](https://job-boards.greenhouse.io/xai/jobs/5151022007) |
 | Austin, Workplace Lead | [Fluidstack](https://fluidstack.com) | $140K–$205K/yr | May 31 | [Apply](https://jobs.ashbyhq.com/fluidstack/351adea8-bbeb-4c6b-8d51-bc6ac93c9049) |
 | Global Workplace Experience Lead | [Fluidstack](https://fluidstack.com) | $140K–$205K/yr | May 31 | [Apply](https://jobs.ashbyhq.com/fluidstack/65c7b21e-d290-4d34-bd66-a20b3032f37a) |
 | People Experience Generalist | [Fluidstack](https://fluidstack.com) | $110K–$170K/yr | May 31 | [Apply](https://jobs.ashbyhq.com/fluidstack/796bd789-4ba5-4bca-9105-5ff48afaa6bc) |
 | People Operations Specialist | [Fluidstack](https://fluidstack.com) | $110K–$170K/yr | May 31 | [Apply](https://jobs.ashbyhq.com/fluidstack/6ad9f0f7-fbaf-450e-bf1e-bbaf227c1953) |
+| People Partner - Software & Platform | [Fluidstack](https://fluidstack.com) | $195K–$315K/yr | May 31 | [Apply](https://jobs.ashbyhq.com/fluidstack/3df9924f-7f89-445f-a045-8ec9691723ee) |
+| People Partner | [Fluidstack](https://fluidstack.com) | $195K–$315K/yr | May 31 | [Apply](https://jobs.ashbyhq.com/fluidstack/4654d44d-0ea7-407e-8338-b4bc3dfb403a) |
+| Airframe Design Lead, Fuselage  | [Archer](https://archer.com) | $173K–$216K/yr | May 31 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7740998003) |
+| Airframe Design Lead, Wing  | [Archer](https://archer.com) | $173K–$216K/yr | May 31 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7741002003) |
 | Director of Federal Programs, Additive Manufacturing | [Hadrian](https://hadrian.com) | $200K–$250K/yr | May 31 | [Apply](https://jobs.ashbyhq.com/hadrian-automation/2ceb5590-48e4-4f23-94db-3efd8432d184) |
 | Director of Defense Security | [Applied Intuition](https://applied.co) | $200K–$260K/yr | May 31 | [Apply](https://boards.greenhouse.io/appliedintuition/jobs/4701275005?gh_jid=4701275005) |
 | Senior Finance Systems Engineer -Zuora system (San Francisco and Bay Area only) | [Canva](https://canva.com) | $185K–$237K/yr | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001118260) |

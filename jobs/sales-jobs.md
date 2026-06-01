@@ -2,12 +2,13 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**628 open roles** — Last updated: 2026-06-01
+**629 open roles** — Last updated: 2026-06-01
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Commercial BtoB (H/F) | [Ixora](https://ixora.org) | — | Jun 1 | [Apply](https://emploi.ixora-conseil.fr/o/commercial-btob-hf/c/new) |
 | Automation Sales Manager | [Formic](https://formic.co) | — | May 31 | [Apply](https://job-boards.greenhouse.io/formic/jobs/4685613006) |
 | Automation Sales Manager | [Formic](https://formic.co) | — | May 31 | [Apply](https://job-boards.greenhouse.io/formic/jobs/4685612006) |
 | Automation Sales Manager | [Formic](https://formic.co) | — | May 31 | [Apply](https://job-boards.greenhouse.io/formic/jobs/4685610006) |

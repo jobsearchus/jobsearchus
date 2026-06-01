@@ -2,12 +2,14 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**325 open roles** — Last updated: 2026-06-01
+**327 open roles** — Last updated: 2026-06-01
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Accounts Receivable Coordinator (Remote Eligible - Costa Rica) | [Smartsheet](https://smartsheet.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/smartsheet/jobs/7968841) |
+| Budget Analytics & Financial Operations Analyst | [Axle](https://axle.insure) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/axle/jobs/5149125007) |
 | Revenue Accounting and Business Partnering Manager | [Experian](https://experianplc.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000129340909) |
 | Lead Associate - Treasury - 3 - 4 Years Experience - UK Shift ( 01:00 PM - 10:00 PM )- Operations - Location : Gurgaon | [WNS](https://wns.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/WNSGlobalServices144/postings/744000129334339) |
 | Specialist Underwriter (Life) | [Standard Bank](https://standardbank.com) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000129301029) |

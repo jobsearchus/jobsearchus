@@ -2,7 +2,7 @@
 
 Remote operations and business operations roles across industries.
 
-**725 open roles** — Last updated: 2026-06-01
+**729 open roles** — Last updated: 2026-06-01
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -19,6 +19,10 @@ Remote operations and business operations roles across industries.
 | Regional Manager - Transport Planning & Aviation SEQ | [AECOM](https://aecom.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000129331629) |
 | Regional Manager - Roads & Highways Victoria | [AECOM](https://aecom.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000129331469) |
 | Regional Manager - Highways, SEQ | [AECOM](https://aecom.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000129330099) |
+| Assistant Manager(02215) - 406 S Wheeling St Unit E | [Domino's](https://dominos.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000129322852) |
+| Delivery Driver(08230) - 7840 E. Imperial Hwy | [Domino's](https://dominos.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000129322670) |
+| Assistant Manager(08859) - 215 Ivey Lane | [Domino's](https://dominos.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000129323119) |
+| Delivery Driver(07669) 14175 W Indian School | [Domino's](https://dominos.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000129323108) |
 | Assistant Manager(03447) 6 Court St. | [Domino's](https://dominos.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000129322812) |
 | Customer Service Rep - Southside | [Domino's](https://dominos.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000129323080) |
 | General Manager(08031) - 313 S. Broadway Street, Suite 5 | [Domino's](https://dominos.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000129323059) |

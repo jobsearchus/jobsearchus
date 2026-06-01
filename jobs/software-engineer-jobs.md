@@ -2,13 +2,20 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**1071 open roles** — Last updated: 2026-06-01
+**1078 open roles** — Last updated: 2026-06-01
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Mobile Engineer, iOS | [Clear Gene](https://cleargene.com) | $180K–$220K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/clear/jobs/7971703) |
 | Escalations Engineer - Pipelines | [Buildkite](https://buildkite.com) | — | May 31 | [Apply](https://job-boards.greenhouse.io/buildkite/jobs/5237008008) |
+| Senior Engineer - Electrical | [IonQ](https://ionq.com) | — | May 31 | [Apply](https://job-boards.greenhouse.io/ionq/jobs/6009599004) |
+| Senior PCB Designer | [IonQ](https://ionq.com) | — | May 31 | [Apply](https://job-boards.greenhouse.io/ionq/jobs/6009600004) |
+| Member of Technical Staff - Imagine Safety | [xAI](https://x.ai) | $180K–$440K/yr | May 31 | [Apply](https://job-boards.greenhouse.io/xai/jobs/5151022007) |
+| Solutions Engineer | [Runlayer](https://runlayer.com) | — | May 31 | [Apply](https://jobs.ashbyhq.com/runlayer/9689abb9-07ac-455c-beb7-1d41ad2ce84d) |
+| Airframe Design Lead, Fuselage  | [Archer](https://archer.com) | $173K–$216K/yr | May 31 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7740998003) |
+| Airframe Design Lead, Wing  | [Archer](https://archer.com) | $173K–$216K/yr | May 31 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7741002003) |
 | Construction Manager - Rail  | [AECOM](https://aecom.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000129335489) |
 | Senior Finance Systems Engineer -Zuora system (San Francisco and Bay Area only) | [Canva](https://canva.com) | $185K–$237K/yr | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001118260) |
 | Senior Finance Systems Engineer  | [Canva](https://canva.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001118255) |

@@ -2,12 +2,13 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**741 open roles** — Last updated: 2026-06-01
+**743 open roles** — Last updated: 2026-06-01
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Chief of Staff | [Monzo](https://monzo.com) | £86K–£115K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7962857) |
 | Delivery Driver - Store 2759, 1415 W Irving Park Rd | [Domino's](https://dominos.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000129338479) |
 | Part Time Cash Office Assistant  | [Primark Tiendas SLU](https://primark.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000129338399) |
 | Aircraft Maintenance Instructor | [Aviation Institute of Maintenance](https://aviationmaintenance.edu) | $35/yr | May 31 | [Apply](https://job-boards.greenhouse.io/aviationinstituteofmaintenance/jobs/5236964008) |
@@ -22,6 +23,7 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Director, Policy Development | [Wolt](https://wolt.com) | — | May 31 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7962907) |
 | NIGHT TEAM MANAGER | [Primark Tiendas SLU](https://primark.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000129334419) |
 | Maitre d'Hôtel H/F | [ACCOR](https://group.accor.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000129332139) |
+| Assistant Manager - Southside | [Domino's](https://dominos.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000129321134) |
 | General Manager(02162) - 5406 N Summit St | [Domino's](https://dominos.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000129322927) |
 | Assistant Manager(03981)-127 Main Street | [Domino's](https://dominos.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000129322481) |
 | General Manager (05075) 2400 W. Commercial Blvd. | [Domino's](https://dominos.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000129322403) |
