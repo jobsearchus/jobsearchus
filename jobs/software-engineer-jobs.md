@@ -2,15 +2,30 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**1192 open roles** — Last updated: 2026-06-02
+**1209 open roles** — Last updated: 2026-06-02
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Technicien Support IT Senior (H/F) | [VusionGroup SA](https://vusiongroup.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/VusionGroupSA/postings/744000129794458) |
+| Maintenance Apprentice (Illinois) | [Continental](https://continentalserves.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000129778824) |
+| Junior Software Engineering Developer (New Grad) | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $72K–$85K/yr | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000129774969) |
+| Mecânica Industrial III - Exclusiva para mulheres | [Anglo American](https://angloamerican.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000129768792) |
+| Projeteur Electricité - H/F | [Egis](https://egis-group.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000129767630) |
+| Intermediate Human Factors & Ergonomics Engineer | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $80K–$95K/yr | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000129765660) |
+| Senior Pavement Engineer | [Egis](https://egis-group.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000129760860) |
+| Senior Pavement Engineer | [Egis](https://egis-group.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000129764849) |
+| Alternance Technicien de maintenance et exploitation technique F/H/X | [BUT](https://but.fr) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000129758770) |
+| Staff Software Engineer - Data Platform Workflow | [Canva](https://canva.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001126141) |
+| Staff Software Engineer - Data Sync Team  | [Canva](https://canva.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001126098) |
 | Staff Engineer - AI Technology | [Syngenta](https://syngenta.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000129744449) |
+| IT Service Delivery Manager (Data management) | [Miratech](https://miratech.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000129737837) |
+| Staff Engineer, SAP-Financial Management | [Nagarro](https://nagarro.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000129732314) |
 | Information Management and Intelligence Lead | [Syngenta](https://syngenta.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000129733239) |
+| Release Training Engineer | [Miratech](https://miratech.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000129715206) |
 | Level 2 IT Support Engineer (NOC Engineer) | [BrainRocket](https://brainrocket.com) | — | Jun 2 | [Apply](https://job-boards.eu.greenhouse.io/brainrocketltd/jobs/4880453101) |
+| MS SQL Database Administrator - short term | [Netcompany](https://netcompany.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000129712635) |
 | Senior Manager, Solutions Engineering - EMEA | [Webflow](https://webflow.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/webflow/jobs/7965515) |
 | Senior Software Engineer (Node.js, TypeScript) | [Diligent Corporation](https://diligent.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/diligentcorporation/jobs/5824712004) |
 | Product Analyst  | [JustMarkets](https://justmarkets.com) | — | Jun 2 | [Apply](https://job-boards.eu.greenhouse.io/justmarkets/jobs/4875151101) |
@@ -21,10 +36,12 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Engineer - IT Operations | [Delivery Hero](https://deliveryhero.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000129659850) |
 | Senior Engineer, Golang - (Logistics, Rider Experience) | [Delivery Hero](https://deliveryhero.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000129657754) |
 | Principal Engineer (Platform) - India | [Juniper Square](https://junipersquare.com) | — | Jun 2 | [Apply](https://jobs.ashbyhq.com/junipersquare/abbdc0fb-317a-44ff-a365-036207458eef) |
+| Home Care Growth & Engagement Specialist - Warrnambool | [Healthcare Australia](https://healthcareaustralia.com.au) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/HealthcareAustralia1/postings/6000000001124735) |
 | Director of Engineering | [ACCOR](https://group.accor.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000129649739) |
 | Software Engineer 2 | [Zynga](https://zynga.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/zyngacareers/jobs/6004572004) |
 | [CPLB] Senior, Data Engineer (Compliance Ops- Data) | [Coupang](https://coupang.com) | — | Jun 2 | [Apply](https://boards.greenhouse.io/coupanginternal/jobs/7975486?gh_jid=7975486) |
 | Software Engineer, Ads Product  | [xAI](https://x.ai) | $150K–$350K/yr | Jun 2 | [Apply](https://job-boards.greenhouse.io/xai/jobs/5152408007) |
+| Automotive Technician / Mechanic - $40/HR-$58/HR & Weekends Off - Aurora (Eagle Bend) | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | $40/yr | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000129610780) |
 | Engineering Manager, Safety | [Reddit](https://reddit.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/7961895) |
 | Staff AI Architect, Remote | [Experian](https://experianplc.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000129604868) |
 | Part-Time Junior Analyst – Competitive Intelligence, Remote | [Experian](https://experianplc.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000129603824) |

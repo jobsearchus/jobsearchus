@@ -2,12 +2,13 @@
 
 Remote cybersecurity, information security, and security engineering roles.
 
-**90 open roles** — Last updated: 2026-06-02
+**91 open roles** — Last updated: 2026-06-02
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Security Analyst, M365/Azure Cloud  | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $100K–$115K/yr | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000129776396) |
 | Senior Penetration Tester | [Robinhood](https://robinhood.com) | — | Jun 1 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7939813?t=gh_src=&gh_jid=7939813) |
 | Senior Manager, Information Security | [Saviynt](https://saviynt.com) | — | Jun 1 | [Apply](https://jobs.lever.co/saviynt/6cf1ecd3-5eb7-417b-b9b5-37ceab059a3d) |
 | Sr Associate - Infosec GRC | [ZETA SURGICAL](https://zetasurgical.com) | — | Jun 1 | [Apply](https://jobs.lever.co/zeta/8c29bd7b-bbb8-48ad-a601-c425df86ce2f) |

@@ -2,18 +2,26 @@
 
 Remote operations and business operations roles across industries.
 
-**816 open roles** — Last updated: 2026-06-02
+**829 open roles** — Last updated: 2026-06-02
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Pâtissier (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129807305) |
+| After Sales/Service (m,w,d) | [MSX International](https://msxi.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013418196) |
+| Warranty Audit Consultant | [MSX International](https://msxi.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013417866) |
+| Staff Software Engineer - Data Platform Workflow | [Canva](https://canva.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001126164) |
+| Transport Operations Director | [NBCUniversal](https://nbcuniversal.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000129757129) |
 | SPRZEDAWCA / SPRZEDAWCZYNI JYSK KOŁOBRZEG 1/2 ETATU (2600 PLN BRUTTO) | [JYSK](https://jysk.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000129739919) |
 | STORE MANAGER TRAINEE (m/w/d) VOLLZEIT (38,5 Std) – 3107 St. Pölten | [JYSK](https://jysk.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000129737364) |
 | Site Manager – French/English – Toulouse Innovation Center (F/H/X) - CDI   | [Syngenta](https://syngenta.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000129735883) |
+| Senior Manager, Sourcing & Procurement | [NBCUniversal](https://nbcuniversal.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000129717999) |
 | Head Gardener - Full time - Cashel Palace Hotel | [Relais & Châteaux](https://relaischateaux.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000129714212) |
 | Detection Engineer (SOC Analyst) | [Zscaler](https://zscaler.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5147253007) |
 | Agent de collecte H/F | [EasyPost](https://easypost.com) | — | Jun 2 | [Apply](https://easypost.recruitee.com/o/agent-de-collecte/c/new) |
+| Plongeur - H/F - CDD | [Genpak LLC](https://genpak-llc-2) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000129693789) |
+| Publications Coordinator | [Netcompany](https://netcompany.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000129681497) |
 | Allocations, Reconciliations and Calculations Associate | [Man Group](https://man.com) | — | Jun 2 | [Apply](https://job-boards.eu.greenhouse.io/mangroup/jobs/4880268101) |
 | Library Learning Partnerships Manager | [Western Sydney University](https://westernsydney.edu.au) | $119K–$132K/yr | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/WesternSydneyUniversity/postings/6000000001125530) |
 | Capacity Planning Analyst - (Back Office) | [Entain](https://entaingroup.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/Entain/postings/744000129661199) |
@@ -21,6 +29,8 @@ Remote operations and business operations roles across industries.
 | Team Manager - Ilocos | [Genpak LLC](https://genpak-llc-2) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000129653129) |
 | AV Service Delivery Specialist | [New Era Technology](https://neweratech.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8558001002) |
 | Junior Research Ops Coordinator | [Entain](https://entaingroup.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/Entain/postings/744000129649040) |
+| Procurement Specialist (Subcontractor/Indirect) | [Avery Dennison](https://averydennison.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000129632437) |
+| Material Handler - Night Shift- 2-2-3 Schedule | [Avery Dennison](https://averydennison.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000129639933) |
 | Propulsion Technician | [Stratolaunch](https://stratolaunch.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/stratolaunch/jobs/5238458008) |
 | Aircraft Maintenance & Systems Technician | [Stratolaunch](https://stratolaunch.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/stratolaunch/jobs/5238463008) |
 | Graduate Environmental Consultant 2027  | [Egis](https://egis-group.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000129606539) |
@@ -66,9 +76,12 @@ Remote operations and business operations roles across industries.
 | Meetings and Events Project Director | [Emota](https://emotaexperiences.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/emotainizioengage/jobs/7972394) |
 | Scheduling Specialist | [Evolution](https://evolution.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/Evolution/postings/744000129501227) |
 | Community Manager  | [Avanath Capital Management](https://avanath.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/communitymanager/jobs/5151259007) |
+| Temporary - Library Student Assistant (Summer) | [University of Notre Dame](https://universityofnotredame.com) | $15/yr | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013394036) |
 | Service Support Specialist | [Evolution](https://evolution.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/Evolution/postings/744000129493804) |
+| Temporary - Storeroom Attendant (Three Leaf Catering) | [University of Notre Dame](https://universityofnotredame.com) | $18/yr | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013393746) |
 | Analista Fundiário Jr | [Anglo American](https://angloamerican.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000129493130) |
 | INTERMARCHE - RESPONSABLE DE RAYON SEC (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129492819) |
+| Cook 2 - North Dining Hall | [University of Notre Dame](https://universityofnotredame.com) | $19/yr | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013393656) |
 | Director II, Clinical Field Excellence | [AbbVie](https://abbvie.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/AbbVie/postings/3743990013393519) |
 | Première femme de chambre / Premier valet de chambre - CDD 25h | [Genpak LLC](https://genpak-llc-2) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000129486959) |
 | Adjoint de direction - H/F | [Genpak LLC](https://genpak-llc-2) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000129484410) |

@@ -2,12 +2,13 @@
 
 Remote creative roles — copywriters, content creators, graphic designers, and brand specialists.
 
-**71 open roles** — Last updated: 2026-06-02
+**72 open roles** — Last updated: 2026-06-02
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Studio Game Artist Lead | [Gameloft](https://gameloft.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/Gameloft/postings/744000129712105) |
 | Contract Senior Concept Artist | [Mob Entertainment](https://mobentertainment.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/mobentertainment/jobs/5138187007) |
 | Maintenance Technician | [Avanath Capital Management](https://avanath.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/communitymanager/jobs/5151354007) |
 | Tehniskais spēļu mākslinieks(-ce) /Technical Game Artist | [Evolution](https://evolution.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/Evolution/postings/744000129478286) |

@@ -2,18 +2,28 @@
 
 Remote jobs open to candidates with 0–2 years of experience. A real way in — no degree gatekeeping.
 
-**780 open roles** — Last updated: 2026-06-02
+**793 open roles** — Last updated: 2026-06-02
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| APPRENTIS POISSONNIER-ÉCAILLER | [Genpak LLC](https://genpak-llc-2) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129806842) |
+| Praktikant/Werkstudent (w/m/d) Projektmanagement Verkehrsinfrastruktur & Mobilität | [Drees & Sommer](https://dreso.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000129787209) |
+| Maintenance Apprentice (Illinois) | [Continental](https://continentalserves.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000129778824) |
+| Dutch Customer Service Agent | [MSX International](https://msxi.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013418346) |
+| Junior Software Engineering Developer (New Grad) | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $72K–$85K/yr | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000129774969) |
 |  RETAIL ASSISTANT - WEEKEND  | [Primark Tiendas SLU](https://primark.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000129741890) |
 | Seasonal Sales Associate - Weekends | [Primark Tiendas SLU](https://primark.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000129740218) |
 | SPRZEDAWCA / SPRZEDAWCZYNI JYSK KOŁOBRZEG 1/2 ETATU (2600 PLN BRUTTO) | [JYSK](https://jysk.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000129739919) |
 | Addetto Vendita  Part-Time - Categoria Protetta L.68/99 - Domodossola (VB) | [JYSK](https://jysk.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000129738555) |
 | Inspectrice d'étages | [Genpak LLC](https://genpak-llc-2) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000129737350) |
 | STORE MANAGER TRAINEE (m/w/d) VOLLZEIT (38,5 Std) – 3107 St. Pölten | [JYSK](https://jysk.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000129737364) |
+| Sales Administration Coordinator (m/w/d) | [VusionGroup SA](https://vusiongroup.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/VusionGroupSA/postings/744000129701189) |
+| Plongeur - H/F - CDD | [Genpak LLC](https://genpak-llc-2) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000129693789) |
+| Sprzedawca/Sprzedawczyni - niepełny wymiar etatu- 31.50 PLN /godz - Konin | [Frasers Group](https://frasersgroup.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000129691069) |
+| Junior Business Development & Sales Executive | [Drees & Sommer](https://dreso.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000129689274) |
+| Sprzedawca/Sprzedawczyni - niepełny wymiar etatu- 32 PLN /godz | [Frasers Group](https://frasersgroup.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000129686825) |
 | Bartender (Parttime) | [Escape](https://escape.tech) | — | Jun 2 | [Apply](https://jobs.escape.nl/o/bartender-parttime/c/new) |
 | STAGE ROOM SERVICE H/F – HOTEL MAJESTIC | [Genpak LLC](https://genpak-llc-2) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000129674751) |
 | Junior Research Ops Coordinator | [Entain](https://entaingroup.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/Entain/postings/744000129649040) |
@@ -53,11 +63,14 @@ Remote jobs open to candidates with 0–2 years of experience. A real way in —
 | Retail Customer Service- Weekends and Evenings | [Entain](https://entaingroup.com) | £13/yr | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/Entain/postings/744000129498121) |
 | Technical Support Specialist | [Airtable](https://airtable.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8573015002) |
 | Junior Web Engineer | [Trainline](https://trainlinegroup.com) | — | Jun 1 | [Apply](https://jobs.ashbyhq.com/trainline/57919bbd-a298-4e68-82cd-75177a82e324) |
+| Temporary - Library Student Assistant (Summer) | [University of Notre Dame](https://universityofnotredame.com) | $15/yr | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013394036) |
 | EMPLOYE RAYON BAZAR (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129492906) |
 | EMPLOYE COMMERCIAL (H/F) CAISSE - MISE EN RAYON  | [Genpak LLC](https://genpak-llc-2) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129493989) |
+| Temporary - Storeroom Attendant (Three Leaf Catering) | [University of Notre Dame](https://universityofnotredame.com) | $18/yr | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013393746) |
 | Imaging Assistant IHR - Casual Rotating Shift | [Northwestern Medicine](https://northwesternmedicine.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/NorthwesternMedicine/postings/744000129490040) |
 | Analista Fundiário Jr | [Anglo American](https://angloamerican.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000129493130) |
 | Graduate Electrical Engineer (UAE National) - Site based | [Egis](https://egis-group.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000129492740) |
+| Cook 2 - North Dining Hall | [University of Notre Dame](https://universityofnotredame.com) | $19/yr | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013393656) |
 | RAVE I, Data Insights  | [Mapbox](https://mapbox.com) | — | Jun 1 | [Apply](https://jobs.ashbyhq.com/mapbox/6052baad-691c-44f3-9eb0-cfefb9f277cc) |
 | Estagiário de Design | [STARK BANK](https://starkbank.com) | — | Jun 1 | [Apply](https://jobs.lever.co/starkbank/74d749df-6b36-4d42-a26f-94f4aac2f1e4) |
 | RAVE I, Feedback and Corrections (Road Closures) | [Mapbox](https://mapbox.com) | — | Jun 1 | [Apply](https://jobs.ashbyhq.com/mapbox/7853b60f-b898-40e2-8db2-9ca104d10fe3) |

@@ -2,12 +2,17 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**355 open roles** — Last updated: 2026-06-02
+**360 open roles** — Last updated: 2026-06-02
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+|  Senior Manager, MLCO & CO  | [IQ-EQ](https://iqeq.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000129815369) |
+| Private Banking Relationship Manager | [Standard Bank](https://standardbank.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000129811558) |
+| Credit Origination Manager | [Standard Bank](https://standardbank.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000129798029) |
+| Universal Banker Local Market Initiatives | [Standard Bank](https://standardbank.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000129797538) |
+| Senior Staff Consultant (Business Analyst) | [Nagarro](https://nagarro.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000129746378) |
 | Accounts Payable Specialist | [Diligent Corporation](https://diligent.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/diligentcorporation/jobs/6005713004) |
 | Responsable Comptable (H/F) | [Ixora](https://ixora.org) | — | Jun 2 | [Apply](https://emploi.ixora-conseil.fr/o/responsable-comptable-hf/c/new) |
 | Senior Business Analyst | [Referrals Only](https://thoughtworks.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7975731) |

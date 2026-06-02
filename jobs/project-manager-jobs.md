@@ -2,12 +2,14 @@
 
 Project and program management roles across tech, operations, and enterprise.
 
-**77 open roles** — Last updated: 2026-06-02
+**79 open roles** — Last updated: 2026-06-02
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Praktikant/Werkstudent (w/m/d) Projektmanagement Verkehrsinfrastruktur & Mobilität | [Drees & Sommer](https://dreso.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000129787209) |
+| Projektleiter (w/m/d) Hochbau | [Drees & Sommer](https://dreso.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000129674689) |
 | ERP Program Manager, DTG | [Pure Storage](https://purestorage.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/7920222) |
 | Technical Program Manager, Data Science | [Figma](https://figma.com) | — | Jun 1 | [Apply](https://boards.greenhouse.io/figma/jobs/6009613004?gh_jid=6009613004) |
 | Principal Project Manager - North Queensland | [AECOM](https://aecom.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000129346183) |

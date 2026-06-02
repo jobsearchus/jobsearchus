@@ -2,17 +2,23 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**819 open roles** — Last updated: 2026-06-02
+**826 open roles** — Last updated: 2026-06-02
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Boucher expérimenté (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129809069) |
+| VENDEUR CHARCUTERIE / TRAITEUR / FROMAGE (H/F) CDI 36H45 | [Genpak LLC](https://genpak-llc-2) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129807185) |
+| APPRENTIS POISSONNIER-ÉCAILLER | [Genpak LLC](https://genpak-llc-2) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129806842) |
+| Construction Director | [NBCUniversal](https://nbcuniversal.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000129757019) |
+| Supplier Quality & Assurance Specialist | [Anglo American](https://angloamerican.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000129743734) |
 |  RETAIL ASSISTANT - WEEKEND  | [Primark Tiendas SLU](https://primark.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000129741890) |
 | Maître d'hotel | [Relais & Châteaux](https://relaischateaux.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000129740215) |
 | Seasonal Sales Associate - Weekends | [Primark Tiendas SLU](https://primark.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000129740218) |
 | Addetto Vendita  Part-Time - Categoria Protetta L.68/99 - Domodossola (VB) | [JYSK](https://jysk.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000129738555) |
 | Inspectrice d'étages | [Genpak LLC](https://genpak-llc-2) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000129737350) |
+| #EG Client Delivery Lead | [NCS](https://ncs.co) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001125990) |
 | Bartender (Parttime) | [Escape](https://escape.tech) | — | Jun 2 | [Apply](https://jobs.escape.nl/o/bartender-parttime/c/new) |
 | STAGE ROOM SERVICE H/F – HOTEL MAJESTIC | [Genpak LLC](https://genpak-llc-2) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000129674751) |
 | Customer Success Manager, Portworx | [Pure Storage](https://purestorage.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/7949827) |
@@ -22,6 +28,7 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 |  Occupational Therapist, OT | [InHomeTherapy](https://inhometherapy.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/inhometherapy/jobs/5151340007) |
 | Occupational Therapist, OT | [InHomeTherapy](https://inhometherapy.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/inhometherapy/jobs/5151357007) |
 | Occupational Therapist, OT | [InHomeTherapy](https://inhometherapy.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/inhometherapy/jobs/5151262007) |
+| CHSP Coordinator - (Homecare) | [Healthcare Australia](https://healthcareaustralia.com.au) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/HealthcareAustralia1/postings/6000000001123473) |
 | Patient Coordinator | [Natera](https://natera.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/natera/jobs/5995904004) |
 | Clinical Lab Operator I - Temp | [Natera](https://natera.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/natera/jobs/5997402004) |
 | Phlebotomist Test Coordinator - Bayonne, NJ  | [Natera](https://natera.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/natera/jobs/6010340004) |

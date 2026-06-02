@@ -2,12 +2,15 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**280 open roles** — Last updated: 2026-06-02
+**283 open roles** — Last updated: 2026-06-02
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Programmatic Performance Marketing Manager (f/m/x) | [AUTO1 Group](https://auto1-group.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000129810759) |
+| Display Marketing Manager (f/m/x)  | [AUTO1 Group](https://auto1-group.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000129789779) |
+| Specialist - Sales Operations | [Anglo American](https://angloamerican.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000129754109) |
 | COMMERCIAL & MARKETING H/F - LA BASTIDE SAINT ANTOINE | [Relais & Châteaux](https://relaischateaux.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000129738229) |
 | Senior Manager, Public Relations | [Razorpay Software Private Limited](https://razorpay.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4696809005) |
 | Sr. Manager - LCS Advertising | [Delivery Hero](https://deliveryhero.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000129661780) |
