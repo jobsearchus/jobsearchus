@@ -2,12 +2,13 @@
 
 QA, test automation, and SDET roles. Manual and automated testing across all stacks.
 
-**37 open roles** — Last updated: 2026-06-02
+**38 open roles** — Last updated: 2026-06-02
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Propulsion and Energetics Test Engineer II | [Inversion Space](https://inversionspace.com) | $106K–$150K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/inversionspace/jobs/4701556005) |
 | Advanced Structural Test Engineer | [Vertical Aerospace](https://vertical-aerospace.com) | — | Jun 1 | [Apply](https://jobs.ashbyhq.com/vertical-aerospace/0d1c8c74-cbac-4158-a851-a53095bf39e5) |
 | Senior Manual QA Engineer | [BrainRocket](https://brainrocket.com) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/brainrocketltd/jobs/4876606101) |
 | QA Team Lead | [BrainRocket](https://brainrocket.com) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/brainrocketltd/jobs/4876143101) |

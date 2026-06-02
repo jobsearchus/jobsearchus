@@ -2,15 +2,19 @@
 
 Remote customer support and success roles across SaaS, e-commerce, and tech.
 
-**217 open roles** — Last updated: 2026-06-02
+**221 open roles** — Last updated: 2026-06-02
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Customer Support Specialist | [Diligent Corporation](https://diligent.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/diligentcorporation/jobs/6010978004) |
+| VIP Customer Support Quality Control  | [Genpak LLC](https://genpak-llc-2) | — | Jun 2 | [Apply](https://job-boards.eu.greenhouse.io/growetalents/jobs/4872649101) |
 | Analista de Experiência do Cliente I  | [Experian](https://experianplc.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000129592159) |
 | Technical Trainer, EMEA (London Office) | [Amplitude](https://amplitude.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/amplitude/jobs/8573721002) |
+| Costumer Care Coordinator | [Distro](https://distro.app) | — | Jun 1 | [Apply](https://jobs.lever.co/distro/9d2eaf92-7eb1-4b46-9d7b-96df29d9abef) |
 | Concierge Healthcare Customer Service | [Genpak LLC](https://genpak-llc-2) | $18/yr | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000129570338) |
+| Costumer Care Coordinator | [Distro](https://distro.app) | — | Jun 1 | [Apply](https://jobs.lever.co/distro/c616590a-3bb1-4cd3-828d-30e74ff159bf) |
 | Customer Success Manager  | [Box](https://box.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/boxinc/jobs/7974367) |
 | Senior Manager, Voice of Customer | [Gusto](https://gusto.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/gusto/jobs/7951013) |
 | Business Analyst  | [takealot.com](https://takealot.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/takealotcom/jobs/7957447) |

@@ -2,7 +2,7 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**690 open roles** — Last updated: 2026-06-02
+**702 open roles** — Last updated: 2026-06-02
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -14,17 +14,29 @@ Remote sales roles — account executives, SDRs, and enterprise deals.
 | Commercial Account Executive, Acquisition - East - Remote | [Grafana Labs](https://grafana.com) | $180K–$220K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6010813004) |
 | Senior Enterprise Account Executive, Acquisition - Bay Area - Remote | [Grafana Labs](https://grafana.com) | $270K–$300K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6010807004) |
 | Principal Specialist Sales Engineer - Data Security - West/Central | [Zscaler](https://zscaler.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5132564007) |
+| Account Executive - Mtn West (MDT or PST Timezone)  | [Human Interest](https://humaninterest.com) | $150K–$155K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/humaninterest/jobs/7971751) |
+| Partner Account Manager - Eugene, OR | [Human Interest](https://humaninterest.com) | $130K–$140K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/humaninterest/jobs/7971761) |
 | Senior Client Executive - Financial Institutions (Remote) | [Experian](https://experianplc.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000129599509) |
 | Sales Executive | [Delivery Hero](https://deliveryhero.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000129597709) |
+| Enterprise Customer Success Manager | [Scrunch](https://scrunch.com) | — | Jun 1 | [Apply](https://jobs.ashbyhq.com/scrunch/b20e58ad-f6fe-4e8b-8b78-09091d73c911) |
+| Enterprise Customer Success Manager | [Scrunch](https://scrunch.com) | — | Jun 1 | [Apply](https://jobs.ashbyhq.com/scrunch/d4c7aed9-d45e-48af-80c2-b2391cd2e163) |
+| Partner Account Manager - Long Island | [Human Interest](https://humaninterest.com) | $130K–$140K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/humaninterest/jobs/7971765) |
+| Sales Enablement Manager | [Canary Technologies](https://canarytechnologies.com) | — | Jun 1 | [Apply](https://jobs.lever.co/canarytechnologies/ffe58f74-eecf-4d8a-84a3-01afe8b495ec) |
+| Director of Sales - Orlando, FL | [Distro](https://distro.app) | — | Jun 1 | [Apply](https://jobs.lever.co/distro/2f2d123a-8d9a-4fc0-bb34-a5e76b976936) |
 | Director - Client Growth Partner (Retail) | [Nagarro](https://nagarro.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000129590909) |
 | Account Manager - Mid Market | [Freshworks](https://freshworks.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000129584295) |
 | Senior Strategic Account Executive | [Twilio](https://twilio.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7968031) |
+| Channel Account Manager (EMEA) | [Censys](https://censys.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/censys/jobs/8543992002) |
+| Channel Account Manager (West) | [Censys](https://censys.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/censys/jobs/8543983002) |
+| Channel Account Manager (East)  | [Censys](https://censys.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/censys/jobs/8543901002) |
 | Global Account Executive | [Flexport](https://flexport.com) | — | Jun 1 | [Apply](https://boards.greenhouse.io/flexport/jobs/7974657?gh_jid=7974657) |
 | Agente Stone - Consultor(a) Comercial Externo - Itaim Paulista/SP | [Stone](https://stone.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/stone/jobs/7759177003) |
 | Channel Partnerships Director | [Dandy](https://meetdandy.com) | — | Jun 1 | [Apply](https://jobs.ashbyhq.com/dandy/6eeaef9c-1dfd-4de4-8a00-029ea33d121e) |
+| Head of Compliance Strategy | [Nourish](https://usenourish.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/usenourish/jobs/5237827008) |
 | Business Development | [Realm Alliance](https://realmalliance.com) | $200K/yr | Jun 1 | [Apply](https://jobs.ashbyhq.com/realmalliance/5d3efad8-8e8c-48e7-b885-8b0c8ac439b2) |
 | Strategic Partnerships | [Realm Alliance](https://realmalliance.com) | $200K/yr | Jun 1 | [Apply](https://jobs.ashbyhq.com/realmalliance/b3e8d839-a003-464c-bcfe-df6de9b2dce5) |
 | Enterprise Account Executive - GridGain - UK - London | [MariaDB](https://mariadb.com) | — | Jun 1 | [Apply](https://job-boards.eu.greenhouse.io/mariadbplc/jobs/4803206101) |
+| Freight Broker Agent (1099 – Commission Only) | [Distro](https://distro.app) | $20K/yr | Jun 1 | [Apply](https://jobs.lever.co/distro/31025ab5-bfed-426e-be0b-ef28d47002b7) |
 | Strategic Accounts Director, Large Group | [Garner Health](https://getgarner.com) | $190K–$250K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/garnerhealth/jobs/6008518004) |
 | Channel Sales Manager, LATAM (m/f/d) | [Chaos Genius](https://chaosgenius.io) | — | Jun 1 | [Apply](https://careers.chaos.com/o/channel-sales-manager-latam-mfd/c/new) |
 | Strategic Account Executive | [Canva](https://canva.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001122084) |

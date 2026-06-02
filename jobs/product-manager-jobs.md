@@ -2,12 +2,20 @@
 
 Product manager roles at companies building real products. Sourced directly from career pages.
 
-**132 open roles** — Last updated: 2026-06-02
+**140 open roles** — Last updated: 2026-06-02
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Sr Product Manager - Onchain  | [Kraken](https://kraken.com) | — | Jun 2 | [Apply](https://jobs.ashbyhq.com/kraken.com/8ac64ec9-ea3f-4ce7-9dba-6bfdd9b6d6ce) |
+| Sr Product Manager - Onchain  | [Kraken](https://kraken.com) | — | Jun 2 | [Apply](https://jobs.ashbyhq.com/kraken.com/e6e0fb41-a760-4a71-93f8-1fe5e8dab7a4) |
+| Senior Product Manager, Workflows | [Box](https://box.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/boxinc/jobs/7968273) |
+| Staff Technical Program Manager | [Archer](https://archer.com) | $150K–$188K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7760492003) |
+| Director of Product Led Growth | [OpenLoop](https://openloop.com) | — | Jun 1 | [Apply](https://jobs.ashbyhq.com/openloophealth/8aa0ebf2-fe92-4298-84a4-807104f95ec2) |
+| Senior/Principal Product Manager, AI | [SecurityScorecard](https://securityscorecard.com) | $175K–$285K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/securityscorecard/jobs/7974857) |
+| Senior/Principal Product Manager, AI | [SecurityScorecard](https://securityscorecard.com) | $175K–$285K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/securityscorecard/jobs/7974823) |
+| Senior/Principal Product Manager, AI | [SecurityScorecard](https://securityscorecard.com) | $175K–$285K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/securityscorecard/jobs/7961068) |
 | Product Manager III, Navigation | [Mapbox](https://mapbox.com) | $179K–$243K/yr | Jun 1 | [Apply](https://jobs.ashbyhq.com/mapbox/029bda44-667c-4aed-8a11-7499df34a4a0) |
 | eRA Product Manager | [University of Notre Dame](https://universityofnotredame.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013403896) |
 | Product Manager  | [ComparaJá](https://comparaja.pt) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/comparaja/jobs/7758703003) |

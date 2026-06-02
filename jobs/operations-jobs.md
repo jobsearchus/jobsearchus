@@ -2,20 +2,42 @@
 
 Remote operations and business operations roles across industries.
 
-**794 open roles** — Last updated: 2026-06-02
+**816 open roles** — Last updated: 2026-06-02
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| SPRZEDAWCA / SPRZEDAWCZYNI JYSK KOŁOBRZEG 1/2 ETATU (2600 PLN BRUTTO) | [JYSK](https://jysk.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000129739919) |
+| STORE MANAGER TRAINEE (m/w/d) VOLLZEIT (38,5 Std) – 3107 St. Pölten | [JYSK](https://jysk.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000129737364) |
+| Site Manager – French/English – Toulouse Innovation Center (F/H/X) - CDI   | [Syngenta](https://syngenta.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000129735883) |
+| Head Gardener - Full time - Cashel Palace Hotel | [Relais & Châteaux](https://relaischateaux.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000129714212) |
 | Detection Engineer (SOC Analyst) | [Zscaler](https://zscaler.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5147253007) |
+| Agent de collecte H/F | [EasyPost](https://easypost.com) | — | Jun 2 | [Apply](https://easypost.recruitee.com/o/agent-de-collecte/c/new) |
+| Allocations, Reconciliations and Calculations Associate | [Man Group](https://man.com) | — | Jun 2 | [Apply](https://job-boards.eu.greenhouse.io/mangroup/jobs/4880268101) |
+| Library Learning Partnerships Manager | [Western Sydney University](https://westernsydney.edu.au) | $119K–$132K/yr | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/WesternSydneyUniversity/postings/6000000001125530) |
 | Capacity Planning Analyst - (Back Office) | [Entain](https://entaingroup.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/Entain/postings/744000129661199) |
 | Associate Manager – Infrastructure Management | [Genpak LLC](https://genpak-llc-2) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000129657589) |
 | Team Manager - Ilocos | [Genpak LLC](https://genpak-llc-2) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000129653129) |
+| AV Service Delivery Specialist | [New Era Technology](https://neweratech.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8558001002) |
 | Junior Research Ops Coordinator | [Entain](https://entaingroup.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/Entain/postings/744000129649040) |
+| Propulsion Technician | [Stratolaunch](https://stratolaunch.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/stratolaunch/jobs/5238458008) |
+| Aircraft Maintenance & Systems Technician | [Stratolaunch](https://stratolaunch.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/stratolaunch/jobs/5238463008) |
 | Graduate Environmental Consultant 2027  | [Egis](https://egis-group.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000129606539) |
+| Aircraft Maintenance Instructor (A&P Mechanic) | [Aviation Institute of Maintenance](https://aviationmaintenance.edu) | $32/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/aviationinstituteofmaintenance/jobs/5238447008) |
+| Aircraft Maintenance Instructor (A&P Mechanic) | [Aviation Institute of Maintenance](https://aviationmaintenance.edu) | $36/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/aviationinstituteofmaintenance/jobs/5238420008) |
 | Service Center Team Lead | [Continental](https://continentalserves.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000129599230) |
 | Facilities Technician II | [Relativity Space](https://relativityspace.com) | — | Jun 1 | [Apply](https://boards.greenhouse.io/relativity/jobs/8573785002?gh_jid=8573785002) |
+| Material Handler Supervisor | [Double Good](https://doublegood.com) | $50K–$72K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/doublegood/jobs/6010731004) |
+| Material Handler | [Double Good](https://doublegood.com) | $23/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/doublegood/jobs/6010709004) |
+| Senior Manager, GTMA Analysis and Compliance | [Twilio](https://twilio.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7960343) |
+| Entry Door Technicians and Installers | [DH Pace Company](https://dhpace.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5238247008) |
+| Field Systems Integration Technician | [DH Pace Company](https://dhpace.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5238224008) |
+|  Lot Attendant (Evening Shift) | [Clutch](https://clutch.io) | $2/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/clutch/jobs/6010582004) |
+| Vehicle Quality-Control Associate (Evening Shift) | [Clutch](https://clutch.io) | $2/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/clutch/jobs/6010580004) |
+| Executive Assistant, Engineering | [Figma](https://figma.com) | — | Jun 1 | [Apply](https://boards.greenhouse.io/figma/jobs/6009197004?gh_jid=6009197004) |
+| Parts Associate (Evening Shift) | [Clutch](https://clutch.io) | $2/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/clutch/jobs/6010557004) |
+| Car Detailer (Evening Shift)  | [Clutch](https://clutch.io) | $2/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/clutch/jobs/6010554004) |
 | Senior Enablement Operations Manager | [Horizon3.ai](https://horizon3ai.com) | $150K–$185K/yr | Jun 1 | [Apply](https://jobs.ashbyhq.com/horizon3ai/074bf252-b46e-4822-a9dc-2fa05209d966) |
 | Production Coordinator II, Second Shift | [Relativity Space](https://relativityspace.com) | — | Jun 1 | [Apply](https://boards.greenhouse.io/relativity/jobs/8571090002?gh_jid=8571090002) |
 | Vehicle Shuttler (6-Month Fixed-Term) | [Clutch](https://clutch.io) | $20/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/clutch/jobs/6010410004) |

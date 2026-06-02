@@ -2,13 +2,16 @@
 
 Remote legal, compliance, and counsel roles.
 
-**79 open roles** — Last updated: 2026-06-02
+**82 open roles** — Last updated: 2026-06-02
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | Compliance Manager | [GROW Inc](https://grow.com) | — | Jun 2 | [Apply](https://jobs.ashbyhq.com/grow-inc/615b6788-4033-48eb-86c2-3408bf32f904) |
+| Commercial Legal Counsel | [GitLab](https://about.gitlab.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8562593002) |
+| Corporate Counsel - UK | [Drata](https://drata.com) | £111K–£137K/yr | Jun 1 | [Apply](https://jobs.ashbyhq.com/drata/41b175b8-8d1c-4c90-85a4-3da92966fdf2) |
+| Paralegal, Voting Rights Project | [ACLU](https://aclu.org) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/aclu/jobs/8563113002) |
 | Corporate Counsel, Commercial | [Axon](https://axon.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/axon/jobs/7759342003) |
 | Sr. Commercial Counsel | [Vercel](https://vercel.com) | $250K–$270K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/vercel/jobs/6006500004) |
 | Associate Director, Legal and Transaction Management - C&I Leveraged Finance | [OakNorth](https://oaknorth.com) | — | Jun 1 | [Apply](https://jobs.lever.co/oaknorth.ai/2ee10f3c-13e2-4f70-b972-aac20dfb60a3) |

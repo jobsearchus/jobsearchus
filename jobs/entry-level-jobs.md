@@ -2,20 +2,35 @@
 
 Remote jobs open to candidates with 0–2 years of experience. A real way in — no degree gatekeeping.
 
-**764 open roles** — Last updated: 2026-06-02
+**780 open roles** — Last updated: 2026-06-02
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+|  RETAIL ASSISTANT - WEEKEND  | [Primark Tiendas SLU](https://primark.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000129741890) |
+| Seasonal Sales Associate - Weekends | [Primark Tiendas SLU](https://primark.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000129740218) |
+| SPRZEDAWCA / SPRZEDAWCZYNI JYSK KOŁOBRZEG 1/2 ETATU (2600 PLN BRUTTO) | [JYSK](https://jysk.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000129739919) |
+| Addetto Vendita  Part-Time - Categoria Protetta L.68/99 - Domodossola (VB) | [JYSK](https://jysk.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000129738555) |
+| Inspectrice d'étages | [Genpak LLC](https://genpak-llc-2) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000129737350) |
+| STORE MANAGER TRAINEE (m/w/d) VOLLZEIT (38,5 Std) – 3107 St. Pölten | [JYSK](https://jysk.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000129737364) |
+| Bartender (Parttime) | [Escape](https://escape.tech) | — | Jun 2 | [Apply](https://jobs.escape.nl/o/bartender-parttime/c/new) |
+| STAGE ROOM SERVICE H/F – HOTEL MAJESTIC | [Genpak LLC](https://genpak-llc-2) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000129674751) |
 | Junior Research Ops Coordinator | [Entain](https://entaingroup.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/Entain/postings/744000129649040) |
+| Clinical Lab Operator I - Temp | [Natera](https://natera.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/natera/jobs/5997402004) |
 | Graduate Environmental Consultant 2027  | [Egis](https://egis-group.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000129606539) |
 | Product Manager - Game of Thrones Slots | [Zynga](https://zynga.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/zyngacareers/jobs/6007784004) |
 | Part-Time Junior Analyst – Competitive Intelligence, Remote | [Experian](https://experianplc.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000129603824) |
+| AI Engineering Intern, Summer 2026 | [Prosper](https://getprosper.ai?utm_source=yc&utm_medium=directory&utm_campaign=yc_directory) | — | Jun 1 | [Apply](https://jobs.lever.co/prosper/08d2e972-b83a-4796-8c4e-5263481aaf5b) |
+| Entry Door Technicians and Installers | [DH Pace Company](https://dhpace.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5238247008) |
 | Analista de Experiência do Cliente I  | [Experian](https://experianplc.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000129592159) |
 | Temporary - Patient Care Assistant | [University of Notre Dame](https://universityofnotredame.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013408851) |
 | Veterinary Care Support - Overnight | [Veritas Veterinary Partners](https://veritasveterinarypartners.com) | $17/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/veritasvetpartners/jobs/5236035008) |
+| Car Detailer (Evening Shift)  | [Clutch](https://clutch.io) | $2/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/clutch/jobs/6010554004) |
+| Hospice Regional Admissions Coordinator  | [Silverado](https://silverado.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/silverado/jobs/5150857007) |
+| Costumer Care Coordinator | [Distro](https://distro.app) | — | Jun 1 | [Apply](https://jobs.lever.co/distro/9d2eaf92-7eb1-4b46-9d7b-96df29d9abef) |
 | Concierge Healthcare Customer Service | [Genpak LLC](https://genpak-llc-2) | $18/yr | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000129570338) |
+| Costumer Care Coordinator | [Distro](https://distro.app) | — | Jun 1 | [Apply](https://jobs.lever.co/distro/c616590a-3bb1-4cd3-828d-30e74ff159bf) |
 | Vehicle Shuttler (6-Month Fixed-Term) | [Clutch](https://clutch.io) | $20/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/clutch/jobs/6010410004) |
 | Shuttler Driver (6-Month Fixed-Term) | [Clutch](https://clutch.io) | $20/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/clutch/jobs/6010408004) |
 | PeYa Markets Intern | [Delivery Hero](https://deliveryhero.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000129559644) |
@@ -24,6 +39,7 @@ Remote jobs open to candidates with 0–2 years of experience. A real way in —
 |  Entry Door/Automatics Service Technicians - Experienced or Trainee | [DH Pace Company](https://dhpace.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5237755008) |
 | Busser - Soho House New York | [Soho House](https://sohohouse.com) | — | Jun 1 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4879794101) |
 | Service Technician 1 | [Serve Robotics](https://serverobotics.com) | — | Jun 1 | [Apply](https://jobs.ashbyhq.com/serverobotics/d30b56cb-3e03-4f44-bc24-4970c5a4bfd2) |
+| HR Assistant | [Distro](https://distro.app) | — | Jun 1 | [Apply](https://jobs.lever.co/distro/5cd9fbbb-e911-4366-b59b-c7619bf54489) |
 | CDI - EMPLOYE COMMERCIAL (H/F) - 36h45 SECTEUR FRAIS | [Genpak LLC](https://genpak-llc-2) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129539495) |
 |  CAISSIER - HÔTE CAISSE (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129530514) |
 | Junior Game Artist | [Evolution](https://evolution.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/Evolution/postings/744000129529191) |
@@ -31,6 +47,7 @@ Remote jobs open to candidates with 0–2 years of experience. A real way in —
 | Lunchtime Teaching Assistant | [Fennies Day Nurseries](https://fennies.com) | £14/yr | Jun 1 | [Apply](https://job-boards.eu.greenhouse.io/fenniesdaynurseries/jobs/4879689101) |
 | Cook 2 - Rohr's | [University of Notre Dame](https://universityofnotredame.com) | $19/yr | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013395706) |
 | Talent Acquisition Apprentice  | [Man Group](https://man.com) | — | Jun 1 | [Apply](https://job-boards.eu.greenhouse.io/mangroup/jobs/4799143101) |
+| Help Desk Technician Level 1 | [Distro](https://distro.app) | — | Jun 1 | [Apply](https://jobs.lever.co/distro/1a2266f6-6e91-4d6d-a697-f75769c6bd73) |
 | Technical Product Manager, SaaS (F/M/D) | [NavVis](https://navvis.com) | — | Jun 1 | [Apply](https://job-boards.eu.greenhouse.io/navvis/jobs/4840955101) |
 | Scheduling Specialist | [Evolution](https://evolution.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/Evolution/postings/744000129501227) |
 | Retail Customer Service- Weekends and Evenings | [Entain](https://entaingroup.com) | £13/yr | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/Entain/postings/744000129498121) |
@@ -436,7 +453,6 @@ Remote jobs open to candidates with 0–2 years of experience. A real way in —
 | Kennedy Valve-Production Process Intern  | [McWane](https://mcwane.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/McWaneInc/postings/3743990013257104) |
 | Commis de salle F/H – Restaurant Jean Sulpice** | [Relais & Châteaux](https://relaischateaux.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000127725075) |
 | Service Assistant | [Fletcher Jones Automotive Group](https://fletcherjonesautomotivegroup.com) | — | May 21 | [Apply](https://boards.greenhouse.io/fletcherjonesautomotivegroup/jobs/5144279007?gh_jid=5144279007) |
-| Apprenti Opérateur (contrat de 3 mois) | [O-I Glass](https://o-i.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/O-I/postings/744000127721809) |
 | Apprenti Opérateur (contrat de 3 mois) | [O-I Glass](https://o-i.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/O-I/postings/744000127721809) |
 | JOB ETUDIANT 14H  | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000127719099) |
 | Réceptionniste [Saison 2026] | [Genpak LLC](https://genpak-llc-2) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000127718939) |

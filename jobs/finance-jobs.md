@@ -2,12 +2,17 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**350 open roles** — Last updated: 2026-06-02
+**355 open roles** — Last updated: 2026-06-02
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Accounts Payable Specialist | [Diligent Corporation](https://diligent.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/diligentcorporation/jobs/6005713004) |
+| Responsable Comptable (H/F) | [Ixora](https://ixora.org) | — | Jun 2 | [Apply](https://emploi.ixora-conseil.fr/o/responsable-comptable-hf/c/new) |
+| Senior Business Analyst | [Referrals Only](https://thoughtworks.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7975731) |
+| Senior Staff Finance Technical Program Manager | [Life360](https://life360.com) | $164K–$239K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/life360/jobs/8573667002) |
+| Finance Director | [Synapticure](https://synapticure.com) | — | Jun 1 | [Apply](https://jobs.lever.co/synapticure/fc60f420-6a00-416d-a700-4db3b7ab6fe8) |
 | Strategic Finance Senior Lead, Growth | [Faire](https://faire.com) | — | Jun 1 | [Apply](https://boards.greenhouse.io/faire/jobs/8573628002?gh_jid=8573628002) |
 | Manager, Corporate FP&A | [Flex](https://withflex.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/flex/jobs/4700858005) |
 | Fintech Operations Sr Analyst | [Delivery Hero](https://deliveryhero.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000129536249) |

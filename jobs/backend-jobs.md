@@ -2,13 +2,15 @@
 
 Backend, server-side, and API engineering roles. Node.js, Python, Go, Ruby, Java and beyond.
 
-**53 open roles** — Last updated: 2026-06-02
+**54 open roles** — Last updated: 2026-06-02
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | Senior Back End Engineer | [Oddball](https://oddball.com) | $100K–$140K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/oddball/jobs/7760578003) |
+| Senior Backend Engineer, AI Platform | [Roofr](https://roofr.com) | $140K–$160K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/roofr/jobs/4701663005) |
+| Backend Engineer, Data Platform | [Phantom](https://phantom.com) | — | Jun 1 | [Apply](https://jobs.ashbyhq.com/phantom/b7d0a7f7-c1d0-43c3-936f-c97ff46ee72e) |
 | Senior Backend Engineer — ClarOps (Ingeniero Backend Senior de ClarOps) - Remote | [Clara](https://clara.com) | — | May 30 | [Apply](https://job-boards.greenhouse.io/clara/jobs/5150839007) |
 | Software Engineer II, Backend (AI Agents) | [Affirm](https://affirm.com) | $125K–$175K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7637067003) |
 | Senior Backend Engineer - Alerting - UK - Remote | [Grafana Labs](https://grafana.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6009287004) |
@@ -53,7 +55,6 @@ Backend, server-side, and API engineering roles. Node.js, Python, Go, Ruby, Java
 | L7-2 Sr,Staff Back-end Engineer II | [Coupang](https://coupang.com) | — | May 16 | [Apply](https://boards.greenhouse.io/coupanginternal/jobs/7912290?gh_jid=7912290) |
 | Staff Backend Developer | [Tempo Software](https://temposoftware.com) | — | May 15 | [Apply](https://jobs.ashbyhq.com/tempo-io/d4a18341-bb9a-42a5-aa01-9c2c48e9a9f7) |
 | Développeur Back-end Java H/F | [Everience](https://everience.com) | — | May 15 | [Apply](https://api.smartrecruiters.com/v1/companies/EVERIENCE/postings/744000126647330) |
-| xEngineer – Backend Expertise - Wix Payments | [Wix.com](https://wix.com) | — | May 14 | [Apply](https://api.smartrecruiters.com/v1/companies/Wix2/postings/744000126514739) |
 | xEngineer – Backend Expertise - Wix Payments | [Wix.com](https://wix.com) | — | May 14 | [Apply](https://api.smartrecruiters.com/v1/companies/Wix2/postings/744000126514739) |
 | xEngineer – Backend Expertise – Wix Restaurants | [Wix.com](https://wix.com) | — | May 14 | [Apply](https://api.smartrecruiters.com/v1/companies/Wix2/postings/744000126513654) |
 | Senior Backend Engineer, Data | [Grüns](https://gruns.co) | $150K–$170K/yr | May 13 | [Apply](https://job-boards.greenhouse.io/gruns/jobs/5219875008) |

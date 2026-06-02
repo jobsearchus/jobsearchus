@@ -2,18 +2,38 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**503 open roles** — Last updated: 2026-06-02
+**523 open roles** — Last updated: 2026-06-02
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Library Learning Partnerships Manager | [Western Sydney University](https://westernsydney.edu.au) | $119K–$132K/yr | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/WesternSydneyUniversity/postings/6000000001125530) |
+| Senior Research Program Coordinator | [Western Sydney University](https://westernsydney.edu.au) | $107K–$115K/yr | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/WesternSydneyUniversity/postings/6000000001125466) |
+| Tutoring for Success Program Coordinator (Indigenous Identified Role) | [Western Sydney University](https://westernsydney.edu.au) | $107K–$115K/yr | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/WesternSydneyUniversity/postings/6000000001124820) |
+| Senior AI Engineer – Health Intelligence | [ŌURA](https://ouraring.com) | $173K–$203K/yr | Jun 2 | [Apply](https://job-boards.greenhouse.io/oura/jobs/4250676009) |
+| Software Engineer, Ads Product  | [xAI](https://x.ai) | $150K–$350K/yr | Jun 2 | [Apply](https://job-boards.greenhouse.io/xai/jobs/5152408007) |
 | Senior Back End Engineer | [Oddball](https://oddball.com) | $100K–$140K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/oddball/jobs/7760578003) |
+| Corporate Counsel - UK | [Drata](https://drata.com) | £111K–£137K/yr | Jun 1 | [Apply](https://jobs.ashbyhq.com/drata/41b175b8-8d1c-4c90-85a4-3da92966fdf2) |
 | Commercial Account Executive, Acquisition - East - Remote | [Grafana Labs](https://grafana.com) | $180K–$220K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6010813004) |
 | Senior Enterprise Account Executive, Acquisition - Bay Area - Remote | [Grafana Labs](https://grafana.com) | $270K–$300K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6010807004) |
+| Senior Staff Finance Technical Program Manager | [Life360](https://life360.com) | $164K–$239K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/life360/jobs/8573667002) |
+| Staff Technical Program Manager | [Archer](https://archer.com) | $150K–$188K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7760492003) |
+| Senior Production Engineer | [Crusoe](https://crusoe.com) | $209K–$253K/yr | Jun 1 | [Apply](https://jobs.ashbyhq.com/crusoe/96d29d17-1357-486e-bf87-ca315d59b344) |
+| Account Executive - Mtn West (MDT or PST Timezone)  | [Human Interest](https://humaninterest.com) | $150K–$155K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/humaninterest/jobs/7971751) |
+| Partner Account Manager - Eugene, OR | [Human Interest](https://humaninterest.com) | $130K–$140K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/humaninterest/jobs/7971761) |
+| Senior Backend Engineer, AI Platform | [Roofr](https://roofr.com) | $140K–$160K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/roofr/jobs/4701663005) |
+| VP/SVP, Clinical Development Lead – Immunology & Program Leadership  | [Flagship Pioneering, Inc.](https://flagshippioneering.com) | $252K–$400K/yr | Jun 1 | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8555519002?gh_jid=8555519002) |
+| Revenue Intelligence Engineer | [Greenhouse](https://greenhouse.com) | $128K–$180K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/greenhouse/jobs/7958633?gh_jid=7958633) |
 | Senior Forward Deployed Engineer — Finance AI Enablement | [Omada Health](https://omadahealth.com) | $143K–$178K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/omadahealth/jobs/7964773) |
+| Partner Account Manager - Long Island | [Human Interest](https://humaninterest.com) | $130K–$140K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/humaninterest/jobs/7971765) |
+| Senior/Principal Product Manager, AI | [SecurityScorecard](https://securityscorecard.com) | $175K–$285K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/securityscorecard/jobs/7974857) |
+| Senior/Principal Product Manager, AI | [SecurityScorecard](https://securityscorecard.com) | $175K–$285K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/securityscorecard/jobs/7974823) |
+| Senior/Principal Product Manager, AI | [SecurityScorecard](https://securityscorecard.com) | $175K–$285K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/securityscorecard/jobs/7961068) |
+| Senior Data Engineer (AI Native) | [Life360](https://life360.com) | $104K–$192K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/life360/jobs/8573676002) |
 | Avaya and NICE Engineer (L1/L2 Support) | [Horizon Industries](https://horizonindustries.com) | $140K–$145K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/horizonindustrieslimited/jobs/5238063008) |
 | Product Manager III, Navigation | [Mapbox](https://mapbox.com) | $179K–$243K/yr | Jun 1 | [Apply](https://jobs.ashbyhq.com/mapbox/029bda44-667c-4aed-8a11-7499df34a4a0) |
+| Propulsion and Energetics Test Engineer II | [Inversion Space](https://inversionspace.com) | $106K–$150K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/inversionspace/jobs/4701556005) |
 | Business Development | [Realm Alliance](https://realmalliance.com) | $200K/yr | Jun 1 | [Apply](https://jobs.ashbyhq.com/realmalliance/5d3efad8-8e8c-48e7-b885-8b0c8ac439b2) |
 | Senior Enablement Operations Manager | [Horizon3.ai](https://horizon3ai.com) | $150K–$185K/yr | Jun 1 | [Apply](https://jobs.ashbyhq.com/horizon3ai/074bf252-b46e-4822-a9dc-2fa05209d966) |
 | Strategic Partnerships | [Realm Alliance](https://realmalliance.com) | $200K/yr | Jun 1 | [Apply](https://jobs.ashbyhq.com/realmalliance/b3e8d839-a003-464c-bcfe-df6de9b2dce5) |

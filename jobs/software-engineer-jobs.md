@@ -2,34 +2,58 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**1170 open roles** — Last updated: 2026-06-02
+**1192 open roles** — Last updated: 2026-06-02
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Staff Engineer - AI Technology | [Syngenta](https://syngenta.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000129744449) |
+| Information Management and Intelligence Lead | [Syngenta](https://syngenta.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000129733239) |
+| Level 2 IT Support Engineer (NOC Engineer) | [BrainRocket](https://brainrocket.com) | — | Jun 2 | [Apply](https://job-boards.eu.greenhouse.io/brainrocketltd/jobs/4880453101) |
+| Senior Manager, Solutions Engineering - EMEA | [Webflow](https://webflow.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/webflow/jobs/7965515) |
+| Senior Software Engineer (Node.js, TypeScript) | [Diligent Corporation](https://diligent.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/diligentcorporation/jobs/5824712004) |
 | Product Analyst  | [JustMarkets](https://justmarkets.com) | — | Jun 2 | [Apply](https://job-boards.eu.greenhouse.io/justmarkets/jobs/4875151101) |
+| Sr. Software Engineer (Hybrid in Bangalore) | [Smartsheet](https://smartsheet.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/smartsheet/jobs/7971740) |
 | Senior Software Engineer- Angular | [Entain](https://entaingroup.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/Entain/postings/744000129661989) |
+| Entwicklungsingenieur mit Teamleitung (m/w/d) Medizintechnik / Dentale Implantologie | [BeGo](https://bego.ai) | — | Jun 2 | [Apply](https://career.bego.com/o/entwicklungsingenieur-mit-teamleitung-mwd-medizintechnik-dentale-implantologie/c/new) |
+| Senior Research Program Coordinator | [Western Sydney University](https://westernsydney.edu.au) | $107K–$115K/yr | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/WesternSydneyUniversity/postings/6000000001125466) |
 | Engineer - IT Operations | [Delivery Hero](https://deliveryhero.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000129659850) |
 | Senior Engineer, Golang - (Logistics, Rider Experience) | [Delivery Hero](https://deliveryhero.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000129657754) |
 | Principal Engineer (Platform) - India | [Juniper Square](https://junipersquare.com) | — | Jun 2 | [Apply](https://jobs.ashbyhq.com/junipersquare/abbdc0fb-317a-44ff-a365-036207458eef) |
 | Director of Engineering | [ACCOR](https://group.accor.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000129649739) |
 | Software Engineer 2 | [Zynga](https://zynga.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/zyngacareers/jobs/6004572004) |
 | [CPLB] Senior, Data Engineer (Compliance Ops- Data) | [Coupang](https://coupang.com) | — | Jun 2 | [Apply](https://boards.greenhouse.io/coupanginternal/jobs/7975486?gh_jid=7975486) |
+| Software Engineer, Ads Product  | [xAI](https://x.ai) | $150K–$350K/yr | Jun 2 | [Apply](https://job-boards.greenhouse.io/xai/jobs/5152408007) |
+| Engineering Manager, Safety | [Reddit](https://reddit.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/7961895) |
 | Staff AI Architect, Remote | [Experian](https://experianplc.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000129604868) |
 | Part-Time Junior Analyst – Competitive Intelligence, Remote | [Experian](https://experianplc.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000129603824) |
+| Senior Production Engineer | [Crusoe](https://crusoe.com) | $209K–$253K/yr | Jun 1 | [Apply](https://jobs.ashbyhq.com/crusoe/96d29d17-1357-486e-bf87-ca315d59b344) |
+| Enterprise Senior Solutions Engineer  | [Smartsheet](https://smartsheet.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/smartsheet/jobs/7975021) |
+| Senior Data Engineer | [NimbleRx](https://nimblerx.com) | — | Jun 1 | [Apply](https://jobs.lever.co/nimblerx/7f88839d-44cb-4d6e-97a4-87be94e1a86c) |
 | Associate Staff Engineer - Power Platform & Copilot Studio | [Nagarro](https://nagarro.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000129600123) |
+| Engineering Manager, Advanced Signals (SWE) | [Reddit](https://reddit.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/7966985) |
+| Engineering Manager - Patient (Remote) | [Rula](https://rula.com) | — | Jun 1 | [Apply](https://jobs.ashbyhq.com/rula/b661e7ea-82ae-477c-9b46-b6b52bf65cb2) |
+| VP/SVP, Clinical Development Lead – Immunology & Program Leadership  | [Flagship Pioneering, Inc.](https://flagshippioneering.com) | $252K–$400K/yr | Jun 1 | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8555519002?gh_jid=8555519002) |
+| Revenue Intelligence Engineer | [Greenhouse](https://greenhouse.com) | $128K–$180K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/greenhouse/jobs/7958633?gh_jid=7958633) |
+| Commercial Solutions Engineer  | [Smartsheet](https://smartsheet.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/smartsheet/jobs/7974885) |
 | Senior Forward Deployed Engineer — Finance AI Enablement | [Omada Health](https://omadahealth.com) | $143K–$178K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/omadahealth/jobs/7964773) |
+| Forward Deployed Engineer | [Box](https://box.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/boxinc/jobs/7974935) |
 | Consultor(a) em Experiência do Cliente - Especialista  | [Experian](https://experianplc.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000129594139) |
 |  Overhead Contact System Engineer- (OCS) | [Egis](https://egis-group.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000129592414) |
 | Forward Deployed Engineer | [Box](https://box.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/boxinc/jobs/7974818) |
+| Senior Data Engineer (AI Native) | [Life360](https://life360.com) | $104K–$192K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/life360/jobs/8573676002) |
+| Satellite Operations Engineer | [IonQ](https://ionq.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/ionq/jobs/6009174004) |
 | Coordenador de Desenvolvimento de Software - Vaga Afirmativa Para Mulheres | [Experian](https://experianplc.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000129589709) |
+| Senior Solution Architect- EMEA | [Honeycomb.io](https://honeycomb.io) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/honeycomb/jobs/5238199008) |
+| Senior Solution Architect- EMEA | [Honeycomb.io](https://honeycomb.io) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/honeycomb/jobs/5237700008) |
 | Build Reliability Engineer II | [Relativity Space](https://relativityspace.com) | — | Jun 1 | [Apply](https://boards.greenhouse.io/relativity/jobs/8573952002?gh_jid=8573952002) |
 | Build Quality Engineer II | [Relativity Space](https://relativityspace.com) | — | Jun 1 | [Apply](https://boards.greenhouse.io/relativity/jobs/8573962002?gh_jid=8573962002) |
 | Software Engineer (Party Cell) | [Nex](https://nex.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/nex/jobs/5238168008) |
 | Environmental Scientist - Excess Soil Specialist | [Egis](https://egis-group.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000129584064) |
 | Avaya and NICE Engineer (L1/L2 Support) | [Horizon Industries](https://horizonindustries.com) | $140K–$145K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/horizonindustrieslimited/jobs/5238063008) |
 | Staff, Software Engineer (L4) - Email | [Twilio](https://twilio.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7967685) |
+| Propulsion and Energetics Test Technician II | [Inversion Space](https://inversionspace.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/inversionspace/jobs/4701553005) |
 | Geotécnico(a) PL. | [Anglo American](https://angloamerican.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000129567698) |
 | Staff Android Engineer (remote). | [Tilt](https://tilt.com) | — | Jun 1 | [Apply](https://jobs.ashbyhq.com/tilthq/0026f142-cdc9-4953-b0b4-61fc4ef10cf2) |
 | Staff Engineer, Business Analyst (Core banking-DMS) | [Nagarro](https://nagarro.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000129563109) |
@@ -60,6 +84,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Ingénieur Projet Confirmé H/F | [Egis](https://egis-group.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000129528703) |
 | Talent Acquisition Apprentice  | [Man Group](https://man.com) | — | Jun 1 | [Apply](https://job-boards.eu.greenhouse.io/mangroup/jobs/4799143101) |
 | Head of System Analysis | [BrainRocket](https://brainrocket.com) | — | Jun 1 | [Apply](https://job-boards.eu.greenhouse.io/brainrocketltd/jobs/4879595101) |
+| Desarrollador Appian | [Distro](https://distro.app) | — | Jun 1 | [Apply](https://jobs.lever.co/distro/8626d9d2-a3db-4a2b-95fd-cf9c9caebd9b) |
 | Dutch‑speaking Automotive Technical Support Specialist | [MSX International](https://msxi.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013395025) |
 | Software Engineer | [Genpak LLC](https://genpak-llc-2) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000129504910) |
 | Data Engineering Lead | [Attio](https://attio.com) | £115K–£145K/yr | Jun 1 | [Apply](https://jobs.ashbyhq.com/attio/98eadaff-4235-4283-baa4-a24d61f5b2ae) |
@@ -220,7 +245,6 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Attorney, LATAM Funds and Distribution - Vice President | [iCapital](https://icapital.com) | $180K–$220K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8568896002) |
 | Senior Software Engineer - Test | [Boulevard](https://joinblvd.com) | $140K–$175K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/boulevard/jobs/4685208006) |
 | Staff Software Engineer, Cloud Identity | [Temporal](https://temporal.io) | $212K–$286K/yr | May 28 | [Apply](https://job-boards.greenhouse.io/temporaltechnologies/jobs/5148493007) |
-| Manager, Data Engineering | [Airtable](https://airtable.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8565121002) |
 | Manager, Data Engineering | [Airtable](https://airtable.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8565121002) |
 | Chemical Engineering Intern | [Mariana Minerals](https://marianaminerals.com) | — | May 28 | [Apply](https://jobs.ashbyhq.com/marianaminerals/1f8dc663-ae78-44ad-8232-ebf5dcf2385a) |
 | Salesforce Technical Architect, AI and Agentforce | [NeuraFlash](https://neuraflash.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/neuraflash/jobs/6008632004) |
@@ -646,7 +670,6 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Mechanical or Aerospace Engineer | [Stratolaunch](https://stratolaunch.com) | $83K–$121K/yr | May 21 | [Apply](https://job-boards.greenhouse.io/stratolaunch/jobs/5228003008) |
 | Business Representative Representative I | [Diligent Corporation](https://diligent.com) | — | May 21 | [Apply](https://job-boards.greenhouse.io/diligentcorporation/jobs/5998292004) |
 | Apprenti Opérateur (contrat de 3 mois) | [O-I Glass](https://o-i.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/O-I/postings/744000127721809) |
-| Apprenti Opérateur (contrat de 3 mois) | [O-I Glass](https://o-i.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/O-I/postings/744000127721809) |
 | Manager, Data Engineering | [HackerOne](https://hackerone.com) | $170K–$205K/yr | May 21 | [Apply](https://jobs.ashbyhq.com/hackerone/c8f46a18-3347-42e6-9fae-c0dbc3e89618) |
 | NodeJS Application Architect | [Applaudo](https://applaudo.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/ApplaudoStudios/postings/744000127721139) |
 | Structural Engineer - 8+ Years Experience | [KPFF Consulting Engineers](https://kpff.com) | — | May 21 | [Apply](https://api.smartrecruiters.com/v1/companies/KPFFConsultingEngineers/postings/3743990013255076) |
@@ -893,7 +916,6 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | CEI Senior Inspector | [AECOM](https://aecom.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000127077959) |
 | Forward Deployed Engineer (AI and Automation) | [OnePay](https://onepay.com) | — | May 18 | [Apply](https://jobs.ashbyhq.com/oneapp/a85bb5aa-9683-4d67-84e5-5d3e4bacda59) |
 | CEI Inspector | [AECOM](https://aecom.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000127076882) |
-| Mechanical Engineer, Data Centers - Remote (U.S.) | [AECOM](https://aecom.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000127075449) |
 | Mechanical Engineer, Data Centers - Remote (U.S.) | [AECOM](https://aecom.com) | — | May 18 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000127075449) |
 | Structural Engineer, Intermediate  | [DLR Group](https://dlrgroup.com) | — | May 18 | [Apply](https://job-boards.greenhouse.io/dlrgroup/jobs/5220731008) |
 | Structural Engineer, Entry Level  | [DLR Group](https://dlrgroup.com) | — | May 18 | [Apply](https://job-boards.greenhouse.io/dlrgroup/jobs/5220752008) |

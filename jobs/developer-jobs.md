@@ -2,12 +2,13 @@
 
 General developer and programmer roles that did not fit a more specific category.
 
-**81 open roles** — Last updated: 2026-06-02
+**82 open roles** — Last updated: 2026-06-02
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| CNC Programmer | [Layup](https://layuplabs.ai) | — | Jun 1 | [Apply](https://jobs.lever.co/layup/9b886fd5-ce22-4942-9821-013749fb8237) |
 | Web Application Developer Sr | [AnaVation](https://anavation.com) | — | Jun 1 | [Apply](https://jobs.lever.co/anavationllc/a1c8ac01-a158-485b-9c32-e94eb0f73423) |
 | C++ Game Programmer Intern | [Gameloft](https://gameloft.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/Gameloft/postings/744000129416921) |
 | Delphi Developer | [Genpak LLC](https://genpak-llc-2) | — | May 30 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000129297539) |

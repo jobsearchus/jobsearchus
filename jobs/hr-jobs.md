@@ -2,13 +2,16 @@
 
 Remote HR, recruiting, and people operations roles.
 
-**135 open roles** — Last updated: 2026-06-02
+**138 open roles** — Last updated: 2026-06-02
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| 🚀 Global Talent Sourcing Specialist | [Aleph Lab](https://alephlab.ai) | — | Jun 2 | [Apply](https://jobs.lever.co/aleph/f5ff9263-5256-4647-bae7-51cdc9e76176) |
 | Sr. Manager Talent & Culture | [Delivery Hero](https://deliveryhero.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000129663800) |
+| HR Business Partner – GA – On Site | [Distro](https://distro.app) | — | Jun 1 | [Apply](https://jobs.lever.co/distro/1d41dbec-ccc2-406e-a5a1-9371ed785d99) |
+| HR Assistant | [Distro](https://distro.app) | — | Jun 1 | [Apply](https://jobs.lever.co/distro/5cd9fbbb-e911-4366-b59b-c7619bf54489) |
 | Senior Mulesoft Engineer  | [VML](https://vml.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/vmlenterprisesolutions/jobs/8573287002) |
 | Senior Technical Recruiter | [Verse Therapy](https://versetherapy.com) | $130K–$170K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/verse/jobs/5237457008) |
 | Internship – Talent & Venture Development (f/m/x) | [Marvel Fusion](https://marvelfusion.com) | — | Jun 1 | [Apply](https://job-boards.eu.greenhouse.io/marvelfusion/jobs/4879488101) |

@@ -2,7 +2,7 @@
 
 DevOps, platform engineering, and infrastructure roles. AWS, GCP, Kubernetes, Terraform.
 
-**74 open roles** — Last updated: 2026-06-02
+**75 open roles** — Last updated: 2026-06-02
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -11,6 +11,7 @@ DevOps, platform engineering, and infrastructure roles. AWS, GCP, Kubernetes, Te
 | Programmeur Backend DevOps Senior - Contrat | [Kabam](https://kabam.com) | — | Jun 2 | [Apply](https://jobs.lever.co/kabam/e69d8d83-72c8-4fe8-a54f-98ce986517fa) |
 | Senior Backend DevOps Programmer - Contract | [Kabam](https://kabam.com) | — | Jun 2 | [Apply](https://jobs.lever.co/kabam/1a30217b-bf23-4cc3-a75d-5ce0b212879c) |
 | Senior Platform Engineer | [Agiloft](https://agiloft.com) | — | Jun 1 | [Apply](https://jobs.lever.co/agiloft/035eebc4-539f-4040-96a7-32541cf73cc2) |
+| Frontend Platform Engineer III | [Calendly](https://calendly.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/calendly/jobs/8574040002) |
 | Manager, Vehicle Software Infrastructure | [Relativity Space](https://relativityspace.com) | — | Jun 1 | [Apply](https://boards.greenhouse.io/relativity/jobs/8573482002?gh_jid=8573482002) |
 | Software Engineering Developer, DevOps  | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $85K–$110K/yr | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000129525694) |
 | DevOps Engineer (Digital Marketing) | [Coherent Solutions](https://coherentsolutions.com) | — | Jun 1 | [Apply](https://job-boards.eu.greenhouse.io/coherentsolutions/jobs/4878354101) |

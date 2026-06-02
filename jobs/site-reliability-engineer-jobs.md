@@ -2,12 +2,14 @@
 
 SRE and reliability engineering roles at companies that take uptime seriously.
 
-**15 open roles** — Last updated: 2026-06-02
+**17 open roles** — Last updated: 2026-06-02
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Site Reliability Engineer | [Wikimedia Foundation](https://wikimediafoundation.org) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/wikimedia/jobs/7972965) |
+| Senior Site Reliability Engineer, Wikimedia Enterprise | [Wikimedia Foundation](https://wikimediafoundation.org) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/wikimedia/jobs/7946461) |
 | Staff Site Reliability Engineer | [Ping Identity](https://pingidentity.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/pingidentity/jobs/8446908002) |
 | Especialista de SRE I - Vaga Afirmativa para Mulheres | [Experian](https://experianplc.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000129236229) |
 | Staff Site Reliability Engineer (Collaboration Engineering) | [NBCUniversal](https://nbcuniversal.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000129203104) |

@@ -2,26 +2,47 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**797 open roles** — Last updated: 2026-06-02
+**819 open roles** — Last updated: 2026-06-02
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+|  RETAIL ASSISTANT - WEEKEND  | [Primark Tiendas SLU](https://primark.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000129741890) |
+| Maître d'hotel | [Relais & Châteaux](https://relaischateaux.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000129740215) |
+| Seasonal Sales Associate - Weekends | [Primark Tiendas SLU](https://primark.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000129740218) |
+| Addetto Vendita  Part-Time - Categoria Protetta L.68/99 - Domodossola (VB) | [JYSK](https://jysk.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000129738555) |
+| Inspectrice d'étages | [Genpak LLC](https://genpak-llc-2) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000129737350) |
+| Bartender (Parttime) | [Escape](https://escape.tech) | — | Jun 2 | [Apply](https://jobs.escape.nl/o/bartender-parttime/c/new) |
+| STAGE ROOM SERVICE H/F – HOTEL MAJESTIC | [Genpak LLC](https://genpak-llc-2) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000129674751) |
+| Customer Success Manager, Portworx | [Pure Storage](https://purestorage.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/7949827) |
 | Laundry Supervisor | [ACCOR](https://group.accor.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000129651399) |
+| Tutoring for Success Program Coordinator (Indigenous Identified Role) | [Western Sydney University](https://westernsydney.edu.au) | $107K–$115K/yr | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/WesternSydneyUniversity/postings/6000000001124820) |
 | Public Area Executive | [ACCOR](https://group.accor.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000129650429) |
+|  Occupational Therapist, OT | [InHomeTherapy](https://inhometherapy.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/inhometherapy/jobs/5151340007) |
+| Occupational Therapist, OT | [InHomeTherapy](https://inhometherapy.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/inhometherapy/jobs/5151357007) |
+| Occupational Therapist, OT | [InHomeTherapy](https://inhometherapy.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/inhometherapy/jobs/5151262007) |
+| Patient Coordinator | [Natera](https://natera.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/natera/jobs/5995904004) |
+| Clinical Lab Operator I - Temp | [Natera](https://natera.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/natera/jobs/5997402004) |
+| Phlebotomist Test Coordinator - Bayonne, NJ  | [Natera](https://natera.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/natera/jobs/6010340004) |
+| Quality Specialist | [Mable](https://trymable.com) | — | Jun 1 | [Apply](https://jobs.lever.co/mable/807a4829-c28e-4c20-b289-a2ca4c219702) |
 | QA Analyst - LOIS for Word | [Filevine](https://filevine.com) | — | Jun 1 | [Apply](https://jobs.lever.co/filevine/cdefa733-47b0-4cec-a877-cb6fdf4e063c) |
+| Implementation Consultant - Billing | [Zuora](https://zuora.com) | — | Jun 1 | [Apply](https://boards.greenhouse.io/zuora/jobs/7966282?gh_jid=7966282) |
+| Aircraft Maintenance Instructor (A&P Mechanic) | [Aviation Institute of Maintenance](https://aviationmaintenance.edu) | $35/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/aviationinstituteofmaintenance/jobs/5238416008) |
 | Cleared DevOps Engineer | [Accenture Federal Services](https://accenturefederalservices.com) | — | Jun 1 | [Apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4685954006?gh_jid=4685954006) |
 | Temporary - Patient Care Assistant | [University of Notre Dame](https://universityofnotredame.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013408851) |
 | Temporary - Nurse Practitioner or Physician Assistant  | [University of Notre Dame](https://universityofnotredame.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013407881) |
 | Veterinary Care Support - Overnight | [Veritas Veterinary Partners](https://veritasveterinarypartners.com) | $17/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/veritasvetpartners/jobs/5236035008) |
 | Veterinary Client Care Representative | [Veritas Veterinary Partners](https://veritasveterinarypartners.com) | $23/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/veritasvetpartners/jobs/5238083008) |
+| Hospice Regional Admissions Coordinator  | [Silverado](https://silverado.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/silverado/jobs/5150857007) |
 | Veterinary Assistant - Surgery | [Veritas Veterinary Partners](https://veritasveterinarypartners.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/veritasvetpartners/jobs/5237975008) |
 | [Job 29633] Developer Android Pl | [CI&T](https://cit.com) | — | Jun 1 | [Apply](https://jobs.lever.co/ciandt/d75f3df0-0c90-4b49-ad6a-7f27b7a0814a) |
 | Clinical Quality Lead  | [Hazel](https://hazelai.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/hazel/jobs/7750110003) |
 | Ocean Freight Manager - The Americas | [Continental](https://continentalserves.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000129562799) |
 | Triage Nurse | [Firsthand](https://shopfirsthand.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/firsthand/jobs/4266371009) |
+| Senior Technical Consultant - ServiceNow (ITSM) | [AHEAD](https://ahead.com) | — | Jun 1 | [Apply](https://jobs.lever.co/thinkahead/d5093fd6-fa4b-4bca-9ef6-18b82cb5325e) |
 | Full Time Licensed Vocational Nurse, LVN (Multiple Shifts) | [Silverado](https://silverado.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/silverado/jobs/5151487007) |
+| ServiceNow Business Analyst | [AHEAD](https://ahead.com) | — | Jun 1 | [Apply](https://jobs.lever.co/thinkahead/10e43087-6155-47a6-91b8-f80817a244ea) |
 | Full Time Medication Technician (Multiple Shifts Available) | [Silverado](https://silverado.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/silverado/jobs/5151662007) |
 | Busser - Soho House New York | [Soho House](https://sohohouse.com) | — | Jun 1 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4879794101) |
 | Experience Partner, Programs | [Reddit](https://reddit.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/7973810) |
@@ -38,6 +59,7 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Lunchtime Teaching Assistant | [Fennies Day Nurseries](https://fennies.com) | £14/yr | Jun 1 | [Apply](https://job-boards.eu.greenhouse.io/fenniesdaynurseries/jobs/4879689101) |
 | 6376 - Audit Trail Reviewer – QC Laboratory Systems / Quality Specialist  | [Verista](https://verista.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/veristainc/jobs/5237499008) |
 | Certified Occupational Therapy Assistant, COTA, St Charles | [InHomeTherapy](https://inhometherapy.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/inhometherapy/jobs/5151228007) |
+| Help Desk Technician Level 1 | [Distro](https://distro.app) | — | Jun 1 | [Apply](https://jobs.lever.co/distro/1a2266f6-6e91-4d6d-a697-f75769c6bd73) |
 |  Certified Occupational Therapy Assistant, COTA, Highland Park | [InHomeTherapy](https://inhometherapy.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/inhometherapy/jobs/5151236007) |
 | Retail Customer Service- Weekends and Evenings | [Entain](https://entaingroup.com) | £13/yr | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/Entain/postings/744000129498121) |
 | EMPLOYE POLYVALENT CAISSE/DRIVE (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129490976) |
