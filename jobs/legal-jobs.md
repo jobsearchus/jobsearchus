@@ -2,14 +2,16 @@
 
 Remote legal, compliance, and counsel roles.
 
-**77 open roles** — Last updated: 2026-06-02
+**79 open roles** — Last updated: 2026-06-02
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Compliance Manager | [GROW Inc](https://grow.com) | — | Jun 2 | [Apply](https://jobs.ashbyhq.com/grow-inc/615b6788-4033-48eb-86c2-3408bf32f904) |
 | Corporate Counsel, Commercial | [Axon](https://axon.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/axon/jobs/7759342003) |
 | Sr. Commercial Counsel | [Vercel](https://vercel.com) | $250K–$270K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/vercel/jobs/6006500004) |
+| Associate Director, Legal and Transaction Management - C&I Leveraged Finance | [OakNorth](https://oaknorth.com) | — | Jun 1 | [Apply](https://jobs.lever.co/oaknorth.ai/2ee10f3c-13e2-4f70-b972-aac20dfb60a3) |
 | Assistant General Counsel, Credit Cards | [Robinhood](https://robinhood.com) | — | Jun 1 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7943204?t=gh_src=&gh_jid=7943204) |
 | Senior Counsel, Corporate | [Oklo](https://oklo.com) | $200K–$225K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/oklo/jobs/6008510004) |
 | Corporate Counsel, Consumer Services | [Experian](https://experianplc.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000129268659) |

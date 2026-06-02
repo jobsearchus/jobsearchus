@@ -2,14 +2,18 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**274 open roles** — Last updated: 2026-06-02
+**278 open roles** — Last updated: 2026-06-02
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Manager, Public Relations | [Razorpay Software Private Limited](https://razorpay.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4696809005) |
+| Sr. Manager - LCS Advertising | [Delivery Hero](https://deliveryhero.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000129661780) |
+| MSP Customer Marketing Manager  | [Blackpoint Cyber](https://blackpointcyber.com) | — | Jun 1 | [Apply](https://jobs.ashbyhq.com/blackpoint%20cyber/cbe542d3-3ac6-4b45-a5d8-aa977e8fa288) |
 | Director, North America Marketing | [ŌURA](https://ouraring.com) | $201K–$236K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/oura/jobs/4265651009) |
 | Communications Specialist | [Greene King](https://greeneking.co.uk) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/GreeneKing/postings/744000129562149) |
+| PeYa Markets Intern | [Delivery Hero](https://deliveryhero.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000129559644) |
 | Senior Director, Digital Marketing & Web Strategy | [SugarCRM](https://sugarcrm.com) | — | Jun 1 | [Apply](https://jobs.lever.co/sugarcrm/1c76e2d4-c6a1-491e-8f69-2fd7a5a721d8) |
 | Digital Marketing Specialist (Madrid based) | [Fever](https://feverup.com) | — | Jun 1 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4879744101) |
 | Regional PR Lead, Africa | [Delivery Hero](https://deliveryhero.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000129533199) |

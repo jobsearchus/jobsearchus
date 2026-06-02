@@ -2,21 +2,29 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**681 open roles** — Last updated: 2026-06-02
+**690 open roles** — Last updated: 2026-06-02
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Associate Business Development Director | [The Trade Desk](https://thetradedesk.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5152570007) |
+| Sales and Account Manager  | [takealot.com](https://takealot.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/takealotgroup/jobs/7965231) |
 | Customer Consultant | [Standard Bank](https://standardbank.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000129647869) |
+| Commercial Account Executive, Acquisition - East - Remote | [Grafana Labs](https://grafana.com) | $180K–$220K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6010813004) |
+| Senior Enterprise Account Executive, Acquisition - Bay Area - Remote | [Grafana Labs](https://grafana.com) | $270K–$300K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6010807004) |
+| Principal Specialist Sales Engineer - Data Security - West/Central | [Zscaler](https://zscaler.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5132564007) |
 | Senior Client Executive - Financial Institutions (Remote) | [Experian](https://experianplc.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000129599509) |
+| Sales Executive | [Delivery Hero](https://deliveryhero.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000129597709) |
 | Director - Client Growth Partner (Retail) | [Nagarro](https://nagarro.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000129590909) |
 | Account Manager - Mid Market | [Freshworks](https://freshworks.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000129584295) |
 | Senior Strategic Account Executive | [Twilio](https://twilio.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7968031) |
 | Global Account Executive | [Flexport](https://flexport.com) | — | Jun 1 | [Apply](https://boards.greenhouse.io/flexport/jobs/7974657?gh_jid=7974657) |
+| Agente Stone - Consultor(a) Comercial Externo - Itaim Paulista/SP | [Stone](https://stone.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/stone/jobs/7759177003) |
 | Channel Partnerships Director | [Dandy](https://meetdandy.com) | — | Jun 1 | [Apply](https://jobs.ashbyhq.com/dandy/6eeaef9c-1dfd-4de4-8a00-029ea33d121e) |
 | Business Development | [Realm Alliance](https://realmalliance.com) | $200K/yr | Jun 1 | [Apply](https://jobs.ashbyhq.com/realmalliance/5d3efad8-8e8c-48e7-b885-8b0c8ac439b2) |
 | Strategic Partnerships | [Realm Alliance](https://realmalliance.com) | $200K/yr | Jun 1 | [Apply](https://jobs.ashbyhq.com/realmalliance/b3e8d839-a003-464c-bcfe-df6de9b2dce5) |
+| Enterprise Account Executive - GridGain - UK - London | [MariaDB](https://mariadb.com) | — | Jun 1 | [Apply](https://job-boards.eu.greenhouse.io/mariadbplc/jobs/4803206101) |
 | Strategic Accounts Director, Large Group | [Garner Health](https://getgarner.com) | $190K–$250K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/garnerhealth/jobs/6008518004) |
 | Channel Sales Manager, LATAM (m/f/d) | [Chaos Genius](https://chaosgenius.io) | — | Jun 1 | [Apply](https://careers.chaos.com/o/channel-sales-manager-latam-mfd/c/new) |
 | Strategic Account Executive | [Canva](https://canva.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001122084) |
@@ -54,6 +62,7 @@ Remote sales roles — account executives, SDRs, and enterprise deals.
 | ACHETEUR HORS PRODUCTION CONFIRME (H/F/N)  | [Continental](https://continentalserves.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000129453249) |
 | Lead-Account Management | [Genpak LLC](https://genpak-llc-2) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000129450298) |
 | Territory Account Manager, Medical Devices | [Avery Dennison](https://averydennison.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000129441966) |
+| Devenir Franchisé à Dax | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000129438590) |
 | Shopmitarbeiter/in, (m/w/d) 30 Wochenstunden  | [Frasers Group](https://frasersgroup.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000129432124) |
 | Junior Brand Partnerships Manager - Beauty | [Frasers Group](https://frasersgroup.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000129421466) |
 | Business Lead (Special Projects)  | [Genpak LLC](https://genpak-llc-2) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/brandtechplus/jobs/7971914) |

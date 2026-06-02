@@ -2,19 +2,26 @@
 
 Remote operations and business operations roles across industries.
 
-**784 open roles** — Last updated: 2026-06-02
+**794 open roles** — Last updated: 2026-06-02
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Detection Engineer (SOC Analyst) | [Zscaler](https://zscaler.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5147253007) |
+| Capacity Planning Analyst - (Back Office) | [Entain](https://entaingroup.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/Entain/postings/744000129661199) |
+| Associate Manager – Infrastructure Management | [Genpak LLC](https://genpak-llc-2) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000129657589) |
+| Team Manager - Ilocos | [Genpak LLC](https://genpak-llc-2) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000129653129) |
+| Junior Research Ops Coordinator | [Entain](https://entaingroup.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/Entain/postings/744000129649040) |
 | Graduate Environmental Consultant 2027  | [Egis](https://egis-group.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000129606539) |
 | Service Center Team Lead | [Continental](https://continentalserves.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000129599230) |
+| Facilities Technician II | [Relativity Space](https://relativityspace.com) | — | Jun 1 | [Apply](https://boards.greenhouse.io/relativity/jobs/8573785002?gh_jid=8573785002) |
 | Senior Enablement Operations Manager | [Horizon3.ai](https://horizon3ai.com) | $150K–$185K/yr | Jun 1 | [Apply](https://jobs.ashbyhq.com/horizon3ai/074bf252-b46e-4822-a9dc-2fa05209d966) |
 | Production Coordinator II, Second Shift | [Relativity Space](https://relativityspace.com) | — | Jun 1 | [Apply](https://boards.greenhouse.io/relativity/jobs/8571090002?gh_jid=8571090002) |
 | Vehicle Shuttler (6-Month Fixed-Term) | [Clutch](https://clutch.io) | $20/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/clutch/jobs/6010410004) |
 | Shuttler Driver (6-Month Fixed-Term) | [Clutch](https://clutch.io) | $20/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/clutch/jobs/6010408004) |
 | Area Manager, Pellet Mill | [Enviva](https://envivabiomass.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/enviva/jobs/7758615003) |
+| Change Management Consultant | [Accenture Federal Services](https://accenturefederalservices.com) | — | Jun 1 | [Apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4685787006?gh_jid=4685787006) |
 | Commercial Door Service Technician - Trainee or Experienced | [DH Pace Company](https://dhpace.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5237761008) |
 | Entry Door/Automatics Installer - Experienced or Trainee | [DH Pace Company](https://dhpace.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5237756008) |
 |  Entry Door/Automatics Service Technicians - Experienced or Trainee | [DH Pace Company](https://dhpace.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5237755008) |
@@ -53,6 +60,9 @@ Remote operations and business operations roles across industries.
 | Meetings and Events Senior Project Manager | [Emota](https://emotaexperiences.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/emotainizioengage/jobs/7966320) |
 | Berufsausbildung Elektroniker für Automatisierungstechnik (m/w/d) - Tires | [Continental](https://continentalserves.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000129460069) |
 | Medewerker Schoonmaak | [Basalt](https://basalt.space) | — | Jun 1 | [Apply](https://werkenbijbasalt.nl/o/medewerker-schoonmaak-5/c/new) |
+| Associate Manager - Team Manager | [Genpak LLC](https://genpak-llc-2) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000129447415) |
+| Devenir Franchisé à Mont-de-Marsan | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000129439239) |
+| Devenir Franchisé à Rambouillet | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000129439169) |
 | Procurement & Commercial - Senior Consultant or Manager  | [Baringa](https://baringa.com) | — | Jun 1 | [Apply](https://job-boards.eu.greenhouse.io/baringa/jobs/4692210101) |
 | Senior Manager Tax Reporting, Risk Management & Technology ContiTech (m/w/diverse) - REF92559A | [Continental](https://continentalserves.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000129432119) |
 | Sales Operations - Working Student (F/M/D) | [NavVis](https://navvis.com) | — | Jun 1 | [Apply](https://job-boards.eu.greenhouse.io/navvis/jobs/4868833101) |

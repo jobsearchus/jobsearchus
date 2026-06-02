@@ -2,12 +2,13 @@
 
 Product manager roles at companies building real products. Sourced directly from career pages.
 
-**131 open roles** — Last updated: 2026-06-02
+**132 open roles** — Last updated: 2026-06-02
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Product Manager III, Navigation | [Mapbox](https://mapbox.com) | $179K–$243K/yr | Jun 1 | [Apply](https://jobs.ashbyhq.com/mapbox/029bda44-667c-4aed-8a11-7499df34a4a0) |
 | eRA Product Manager | [University of Notre Dame](https://universityofnotredame.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013403896) |
 | Product Manager  | [ComparaJá](https://comparaja.pt) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/comparaja/jobs/7758703003) |
 | Adobe Product Owner | [Genpak LLC](https://genpak-llc-2) | $90K–$140K/yr | Jun 1 | [Apply](https://job-boards.eu.greenhouse.io/valtech/jobs/4878892101) |

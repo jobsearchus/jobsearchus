@@ -2,7 +2,7 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**789 open roles** — Last updated: 2026-06-02
+**797 open roles** — Last updated: 2026-06-02
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -10,11 +10,14 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | --- | --- | --- | --- | --- |
 | Laundry Supervisor | [ACCOR](https://group.accor.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000129651399) |
 | Public Area Executive | [ACCOR](https://group.accor.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000129650429) |
+| QA Analyst - LOIS for Word | [Filevine](https://filevine.com) | — | Jun 1 | [Apply](https://jobs.lever.co/filevine/cdefa733-47b0-4cec-a877-cb6fdf4e063c) |
+| Cleared DevOps Engineer | [Accenture Federal Services](https://accenturefederalservices.com) | — | Jun 1 | [Apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4685954006?gh_jid=4685954006) |
 | Temporary - Patient Care Assistant | [University of Notre Dame](https://universityofnotredame.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013408851) |
 | Temporary - Nurse Practitioner or Physician Assistant  | [University of Notre Dame](https://universityofnotredame.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013407881) |
 | Veterinary Care Support - Overnight | [Veritas Veterinary Partners](https://veritasveterinarypartners.com) | $17/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/veritasvetpartners/jobs/5236035008) |
 | Veterinary Client Care Representative | [Veritas Veterinary Partners](https://veritasveterinarypartners.com) | $23/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/veritasvetpartners/jobs/5238083008) |
 | Veterinary Assistant - Surgery | [Veritas Veterinary Partners](https://veritasveterinarypartners.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/veritasvetpartners/jobs/5237975008) |
+| [Job 29633] Developer Android Pl | [CI&T](https://cit.com) | — | Jun 1 | [Apply](https://jobs.lever.co/ciandt/d75f3df0-0c90-4b49-ad6a-7f27b7a0814a) |
 | Clinical Quality Lead  | [Hazel](https://hazelai.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/hazel/jobs/7750110003) |
 | Ocean Freight Manager - The Americas | [Continental](https://continentalserves.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000129562799) |
 | Triage Nurse | [Firsthand](https://shopfirsthand.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/firsthand/jobs/4266371009) |
@@ -30,12 +33,15 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | LVN - LPT (QA Coordinator) | [Crestwood Behavioral Health](https://crestwoodbehavioralhealth.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/crestwoodcareers/jobs/7758612003) |
 | MODELE INTERMARCHE - RESPONSABLE CAISSE (H/F) adjoint(e) | [Genpak LLC](https://genpak-llc-2) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129539790) |
 |  CAISSIER - HÔTE CAISSE (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129530514) |
+| Recertification Specialist  | [Avanath Capital Management](https://avanath.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/communitymanager/jobs/5151373007) |
 | Barback - Soho House Manchester | [Soho House](https://sohohouse.com) | — | Jun 1 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4874247101) |
 | Lunchtime Teaching Assistant | [Fennies Day Nurseries](https://fennies.com) | £14/yr | Jun 1 | [Apply](https://job-boards.eu.greenhouse.io/fenniesdaynurseries/jobs/4879689101) |
 | 6376 - Audit Trail Reviewer – QC Laboratory Systems / Quality Specialist  | [Verista](https://verista.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/veristainc/jobs/5237499008) |
 | Certified Occupational Therapy Assistant, COTA, St Charles | [InHomeTherapy](https://inhometherapy.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/inhometherapy/jobs/5151228007) |
 |  Certified Occupational Therapy Assistant, COTA, Highland Park | [InHomeTherapy](https://inhometherapy.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/inhometherapy/jobs/5151236007) |
+| Retail Customer Service- Weekends and Evenings | [Entain](https://entaingroup.com) | £13/yr | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/Entain/postings/744000129498121) |
 | EMPLOYE POLYVALENT CAISSE/DRIVE (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129490976) |
+| Receptionist and Clinic Coordinator | [PortmanDentex](https://portmandentex.com) | €16/yr | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000129492970) |
 | EMPLOYE RAYON BAZAR (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129492906) |
 | EMPLOYE COMMERCIAL (H/F) CAISSE - MISE EN RAYON  | [Genpak LLC](https://genpak-llc-2) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129493989) |
 | Multispecialty Sonographer - Full Time Evenings | [Northwestern Medicine](https://northwesternmedicine.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/NorthwesternMedicine/postings/744000129493929) |
@@ -46,7 +52,9 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Pharmacy Technician III Hazardous Compounding-Inpatient Oncology, Full-time Rotating Shifts | [Northwestern Medicine](https://northwesternmedicine.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/NorthwesternMedicine/postings/744000129487037) |
 | IT Support Specialist | [Too Good To Go](https://toogoodtogo.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/toogoodtogo/jobs/7739984003) |
 | Belgium Axon Pulse Event 2026 - Careers Interest | [Axon](https://axon.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/axon/jobs/7757947003) |
+| Femme de chambre / Valet de chambre CDD - Soho House Paris H/F | [Soho House](https://sohohouse.com) | — | Jun 1 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4879445101) |
 | Immigration Case Manager, Dutch Immigration | [Envoy Global](https://envoyglobal.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/envoyglobalinc/jobs/6006018004) |
+| Devenir Franchisé à Dreux | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000129440839) |
 | Chief of Staff | [Monzo](https://monzo.com) | £86K–£115K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7962857) |
 | Care Coordinator - Home Care | [Healthcare Australia](https://healthcareaustralia.com.au) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/HealthcareAustralia1/postings/6000000001120775) |
 | Sustainability & Resilience Consultant | [AECOM](https://aecom.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000129373500) |

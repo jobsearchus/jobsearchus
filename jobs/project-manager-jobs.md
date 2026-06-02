@@ -2,7 +2,7 @@
 
 Project and program management roles across tech, operations, and enterprise.
 
-**75 open roles** — Last updated: 2026-06-02
+**76 open roles** — Last updated: 2026-06-02
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -20,6 +20,7 @@ Project and program management roles across tech, operations, and enterprise.
 | Property Project Manager | [Greene King](https://greeneking.co.uk) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/GreeneKing/postings/744000129144869) |
 | Junior Project Manager | [New Era Technology](https://neweratech.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8559473002) |
 | Senior Project Manager | [Genpak LLC](https://genpak-llc-2) | — | May 29 | [Apply](https://job-boards.eu.greenhouse.io/valtech/jobs/4876416101) |
+| Cloud Project Manager | [Genpak LLC](https://genpak-llc-2) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000129042438) |
 | Cloud Project Manager | [Genpak LLC](https://genpak-llc-2) | — | May 28 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000129042438) |
 | Enterprise Portfolio Executive  | [9th Way Insignia](https://9thwayinsignia.com) | — | May 28 | [Apply](https://job-boards.greenhouse.io/9thwayinsignia/jobs/5234662008) |
 | Project Manager (French fluent) | [Genpak LLC](https://genpak-llc-2) | — | May 28 | [Apply](https://job-boards.greenhouse.io/brandtechplus/jobs/7963266) |

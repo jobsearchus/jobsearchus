@@ -2,12 +2,13 @@
 
 Remote administrative and executive assistant roles across industries.
 
-**28 open roles** — Last updated: 2026-06-02
+**29 open roles** — Last updated: 2026-06-02
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Product Manager - Game of Thrones Slots | [Zynga](https://zynga.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/zyngacareers/jobs/6007784004) |
 | Documentation Control Specialist  | [xAI](https://x.ai) | — | May 29 | [Apply](https://job-boards.greenhouse.io/xai/jobs/5150787007) |
 | Academic Coordinator - School of Architecture | [University of Notre Dame](https://universityofnotredame.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013376286) |
 |  Senior Administrator | [IQ-EQ](https://iqeq.com) | — | May 29 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000129214700) |

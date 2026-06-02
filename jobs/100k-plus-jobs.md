@@ -2,12 +2,18 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**497 open roles** — Last updated: 2026-06-02
+**503 open roles** — Last updated: 2026-06-02
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Back End Engineer | [Oddball](https://oddball.com) | $100K–$140K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/oddball/jobs/7760578003) |
+| Commercial Account Executive, Acquisition - East - Remote | [Grafana Labs](https://grafana.com) | $180K–$220K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6010813004) |
+| Senior Enterprise Account Executive, Acquisition - Bay Area - Remote | [Grafana Labs](https://grafana.com) | $270K–$300K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6010807004) |
+| Senior Forward Deployed Engineer — Finance AI Enablement | [Omada Health](https://omadahealth.com) | $143K–$178K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/omadahealth/jobs/7964773) |
+| Avaya and NICE Engineer (L1/L2 Support) | [Horizon Industries](https://horizonindustries.com) | $140K–$145K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/horizonindustrieslimited/jobs/5238063008) |
+| Product Manager III, Navigation | [Mapbox](https://mapbox.com) | $179K–$243K/yr | Jun 1 | [Apply](https://jobs.ashbyhq.com/mapbox/029bda44-667c-4aed-8a11-7499df34a4a0) |
 | Business Development | [Realm Alliance](https://realmalliance.com) | $200K/yr | Jun 1 | [Apply](https://jobs.ashbyhq.com/realmalliance/5d3efad8-8e8c-48e7-b885-8b0c8ac439b2) |
 | Senior Enablement Operations Manager | [Horizon3.ai](https://horizon3ai.com) | $150K–$185K/yr | Jun 1 | [Apply](https://jobs.ashbyhq.com/horizon3ai/074bf252-b46e-4822-a9dc-2fa05209d966) |
 | Strategic Partnerships | [Realm Alliance](https://realmalliance.com) | $200K/yr | Jun 1 | [Apply](https://jobs.ashbyhq.com/realmalliance/b3e8d839-a003-464c-bcfe-df6de9b2dce5) |

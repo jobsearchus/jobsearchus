@@ -2,7 +2,7 @@
 
 Remote customer support and success roles across SaaS, e-commerce, and tech.
 
-**214 open roles** — Last updated: 2026-06-02
+**217 open roles** — Last updated: 2026-06-02
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -10,12 +10,15 @@ Remote customer support and success roles across SaaS, e-commerce, and tech.
 | --- | --- | --- | --- | --- |
 | Analista de Experiência do Cliente I  | [Experian](https://experianplc.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000129592159) |
 | Technical Trainer, EMEA (London Office) | [Amplitude](https://amplitude.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/amplitude/jobs/8573721002) |
+| Concierge Healthcare Customer Service | [Genpak LLC](https://genpak-llc-2) | $18/yr | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000129570338) |
 | Customer Success Manager  | [Box](https://box.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/boxinc/jobs/7974367) |
 | Senior Manager, Voice of Customer | [Gusto](https://gusto.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/gusto/jobs/7951013) |
 | Business Analyst  | [takealot.com](https://takealot.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/takealotcom/jobs/7957447) |
 | Technical Support Specialist | [Airtable](https://airtable.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8573015002) |
 | Member Support Agent (Tamil) | [Tide](https://tide.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/tide/jobs/7725626003) |
 | Food Services Customer Service Representative-Nutrition & Food Services Part-time Various Start Times | [Northwestern Medicine](https://northwesternmedicine.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/NorthwesternMedicine/postings/744000129475684) |
+| EXPERT SERVICE CLIENT - CDI H/F  | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000129441199) |
+| Customer Service Representative | [Genpak LLC](https://genpak-llc-2) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000129426574) |
 | Customer Service Representative – German speaker | [MSX International](https://msxi.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013391092) |
 | Customer Service Rep(05679) - 2997 Highway 501 E | [Domino's](https://dominos.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000129340174) |
 | Pizza Maker - Store 2759, 1415 W Irving Park Rd | [Domino's](https://dominos.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000129338687) |
