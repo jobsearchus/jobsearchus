@@ -2,16 +2,22 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**826 open roles** — Last updated: 2026-06-02
+**833 open roles** — Last updated: 2026-06-02
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Full Time Housekeeper (AM) | [Silverado](https://silverado.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/silverado/jobs/5153262007) |
+| Founding Solutions Architect | [Vantage](https://vantage.com) | $145K–$180K/yr | Jun 2 | [Apply](https://jobs.ashbyhq.com/vantage/88375a50-b21a-4745-8fc6-a6ba11d97d9d) |
+| Founding Forward Deployed Engineer | [Vantage](https://vantage.com) | $145K–$180K/yr | Jun 2 | [Apply](https://jobs.ashbyhq.com/vantage/67cfe507-3e6b-4c39-b2f7-9d900c59aa60) |
+| Full Time Hospice Licensed Vocational Nurse, LVN | [Silverado](https://silverado.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/silverado/jobs/5151635007) |
 | Boucher expérimenté (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129809069) |
 | VENDEUR CHARCUTERIE / TRAITEUR / FROMAGE (H/F) CDI 36H45 | [Genpak LLC](https://genpak-llc-2) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129807185) |
 | APPRENTIS POISSONNIER-ÉCAILLER | [Genpak LLC](https://genpak-llc-2) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129806842) |
 | Construction Director | [NBCUniversal](https://nbcuniversal.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000129757019) |
+| Occupational Therapist, OT | [InHomeTherapy](https://inhometherapy.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/inhometherapy/jobs/5152477007) |
+| Occupational Therapist, OT, Lock Haven (Clinton Co) | [InHomeTherapy](https://inhometherapy.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/inhometherapy/jobs/5152473007) |
 | Supplier Quality & Assurance Specialist | [Anglo American](https://angloamerican.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000129743734) |
 |  RETAIL ASSISTANT - WEEKEND  | [Primark Tiendas SLU](https://primark.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000129741890) |
 | Maître d'hotel | [Relais & Châteaux](https://relaischateaux.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000129740215) |
@@ -19,6 +25,7 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Addetto Vendita  Part-Time - Categoria Protetta L.68/99 - Domodossola (VB) | [JYSK](https://jysk.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000129738555) |
 | Inspectrice d'étages | [Genpak LLC](https://genpak-llc-2) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000129737350) |
 | #EG Client Delivery Lead | [NCS](https://ncs.co) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001125990) |
+| VIP Customer Support Quality Control  | [Growe](https://growe.com) | — | Jun 2 | [Apply](https://job-boards.eu.greenhouse.io/growe/jobs/4872648101) |
 | Bartender (Parttime) | [Escape](https://escape.tech) | — | Jun 2 | [Apply](https://jobs.escape.nl/o/bartender-parttime/c/new) |
 | STAGE ROOM SERVICE H/F – HOTEL MAJESTIC | [Genpak LLC](https://genpak-llc-2) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000129674751) |
 | Customer Success Manager, Portworx | [Pure Storage](https://purestorage.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/7949827) |

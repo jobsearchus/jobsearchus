@@ -2,19 +2,24 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**360 open roles** — Last updated: 2026-06-02
+**365 open roles** — Last updated: 2026-06-02
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Director, SEC Reporting & Technical Accounting | [ŌURA](https://ouraring.com) | $232K–$273K/yr | Jun 2 | [Apply](https://job-boards.greenhouse.io/oura/jobs/4266486009) |
 |  Senior Manager, MLCO & CO  | [IQ-EQ](https://iqeq.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000129815369) |
 | Private Banking Relationship Manager | [Standard Bank](https://standardbank.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000129811558) |
 | Credit Origination Manager | [Standard Bank](https://standardbank.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000129798029) |
 | Universal Banker Local Market Initiatives | [Standard Bank](https://standardbank.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000129797538) |
 | Senior Staff Consultant (Business Analyst) | [Nagarro](https://nagarro.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000129746378) |
+|  Business Lead  | [Genpak LLC](https://genpak-llc-2) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/brandtechplus/jobs/7976177) |
 | Accounts Payable Specialist | [Diligent Corporation](https://diligent.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/diligentcorporation/jobs/6005713004) |
 | Responsable Comptable (H/F) | [Ixora](https://ixora.org) | — | Jun 2 | [Apply](https://emploi.ixora-conseil.fr/o/responsable-comptable-hf/c/new) |
+| Senior Analyst - RTR | [WPP](https://wpp.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/wpp/jobs/8564532002) |
+| Senior Analyst - RTR | [WPP](https://wpp.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/wpp/jobs/8564514002) |
+| Senior Analyst - RTR | [WPP](https://wpp.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/wpp/jobs/8564487002) |
 | Senior Business Analyst | [Referrals Only](https://thoughtworks.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7975731) |
 | Senior Staff Finance Technical Program Manager | [Life360](https://life360.com) | $164K–$239K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/life360/jobs/8573667002) |
 | Finance Director | [Synapticure](https://synapticure.com) | — | Jun 1 | [Apply](https://jobs.lever.co/synapticure/fc60f420-6a00-416d-a700-4db3b7ab6fe8) |

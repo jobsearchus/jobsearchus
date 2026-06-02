@@ -2,13 +2,19 @@
 
 Remote operations and business operations roles across industries.
 
-**829 open roles** — Last updated: 2026-06-02
+**837 open roles** — Last updated: 2026-06-02
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Maintenance Supervisor | [Crestwood Behavioral Health](https://crestwoodbehavioralhealth.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/crestwoodcareers/jobs/7761798003) |
+| Automotive Buyer - Prototype | [Genpak LLC](https://genpak-llc-2) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/gokenamericallc/jobs/4271633009) |
+| SF Office Manager (Contract) | [Phantom](https://phantom.com) | $63/yr | Jun 2 | [Apply](https://jobs.ashbyhq.com/phantom/6ecf08ea-6292-4673-a636-3e2a852ed027) |
+| Global Deputy DPO | [Volito Aviation August 2007](https://trustly.com) | — | Jun 2 | [Apply](https://jobs.lever.co/trustly/97bfddaa-7267-4618-ab12-1e9faf7d4bc8) |
+| Global Privacy Operations Manager | [Volito Aviation August 2007](https://trustly.com) | — | Jun 2 | [Apply](https://jobs.lever.co/trustly/ca20f8b5-18ea-4fdb-8db9-d787e6737c37) |
 | Pâtissier (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129807305) |
+| Director, Supply Chain & Strategy | [ŌURA](https://ouraring.com) | $226K–$266K/yr | Jun 2 | [Apply](https://job-boards.greenhouse.io/oura/jobs/4266450009) |
 | After Sales/Service (m,w,d) | [MSX International](https://msxi.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013418196) |
 | Warranty Audit Consultant | [MSX International](https://msxi.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013417866) |
 | Staff Software Engineer - Data Platform Workflow | [Canva](https://canva.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001126164) |
@@ -19,6 +25,7 @@ Remote operations and business operations roles across industries.
 | Senior Manager, Sourcing & Procurement | [NBCUniversal](https://nbcuniversal.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000129717999) |
 | Head Gardener - Full time - Cashel Palace Hotel | [Relais & Châteaux](https://relaischateaux.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000129714212) |
 | Detection Engineer (SOC Analyst) | [Zscaler](https://zscaler.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5147253007) |
+| IT Business Operations Coordinator | [Flagship Pioneering, Inc.](https://flagshippioneering.com) | $60K–$83K/yr | Jun 2 | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8573806002?gh_jid=8573806002) |
 | Agent de collecte H/F | [EasyPost](https://easypost.com) | — | Jun 2 | [Apply](https://easypost.recruitee.com/o/agent-de-collecte/c/new) |
 | Plongeur - H/F - CDD | [Genpak LLC](https://genpak-llc-2) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000129693789) |
 | Publications Coordinator | [Netcompany](https://netcompany.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000129681497) |
@@ -33,6 +40,7 @@ Remote operations and business operations roles across industries.
 | Material Handler - Night Shift- 2-2-3 Schedule | [Avery Dennison](https://averydennison.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000129639933) |
 | Propulsion Technician | [Stratolaunch](https://stratolaunch.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/stratolaunch/jobs/5238458008) |
 | Aircraft Maintenance & Systems Technician | [Stratolaunch](https://stratolaunch.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/stratolaunch/jobs/5238463008) |
+| PSC Manager - Richmond, VA | [Natera](https://natera.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/natera/jobs/6010344004) |
 | Graduate Environmental Consultant 2027  | [Egis](https://egis-group.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000129606539) |
 | Aircraft Maintenance Instructor (A&P Mechanic) | [Aviation Institute of Maintenance](https://aviationmaintenance.edu) | $32/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/aviationinstituteofmaintenance/jobs/5238447008) |
 | Aircraft Maintenance Instructor (A&P Mechanic) | [Aviation Institute of Maintenance](https://aviationmaintenance.edu) | $36/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/aviationinstituteofmaintenance/jobs/5238420008) |

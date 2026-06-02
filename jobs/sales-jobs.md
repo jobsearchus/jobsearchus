@@ -2,17 +2,21 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**715 open roles** — Last updated: 2026-06-02
+**721 open roles** — Last updated: 2026-06-02
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Client Account Manager, Large Customer Sales (Pharma) | [Reddit](https://reddit.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/7746526) |
+| Senior Client Account Manager, Large Customer Sales (Pharma) | [Reddit](https://reddit.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/7977257) |
+| Senior Channel Account Executive MSP - Dutch Speaking | [Sophos](https://sophos.com) | — | Jun 2 | [Apply](https://jobs.lever.co/sophos/61873181-5ead-4b00-af13-c01f9b10970e) |
 | VENDEUR ALIMENTAIRE (H/F) - rayon marée | [Genpak LLC](https://genpak-llc-2) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129809269) |
 | Territory Sales Manager - Southern Quebec - Truck Tire | [Continental](https://continentalserves.com) | $75K–$100K/yr | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000129793709) |
 | Territory Sales Manager - Southern Quebec - Truck Tire | [Continental](https://continentalserves.com) | $75K–$100K/yr | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000129792277) |
 | Sales Account Executive - Middle Market (remote) | [Experian](https://experianplc.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000129782189) |
 | Account Executive – Inside Sales, Hunter (Remote) | [Experian](https://experianplc.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000129778619) |
+| Majors Account Account Executive  | [ClickUp](https://clickup.com) | — | Jun 2 | [Apply](https://jobs.ashbyhq.com/clickup/4740b979-0777-419c-be5a-5ad0d6a8464e) |
 | #EG Sales Director, Homeland Security | [NCS](https://ncs.co) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001126015) |
 | #EG Client Services Lead | [NCS](https://ncs.co) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001125965) |
 | Account Executive  | [VusionGroup SA](https://vusiongroup.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/VusionGroupSA/postings/744000129700563) |
@@ -21,6 +25,8 @@ Remote sales roles — account executives, SDRs, and enterprise deals.
 | Sprzedawca/Sprzedawczyni - niepełny wymiar etatu- 31.50 PLN /godz - Konin | [Frasers Group](https://frasersgroup.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000129691069) |
 | Junior Business Development & Sales Executive | [Drees & Sommer](https://dreso.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000129689274) |
 | Sprzedawca/Sprzedawczyni - niepełny wymiar etatu- 32 PLN /godz | [Frasers Group](https://frasersgroup.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000129686825) |
+| Sales Representative | [ComparaJá](https://comparaja.pt) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/comparaja/jobs/7760959003) |
+| Sales Assistant - FinTech | [ComparaJá](https://comparaja.pt) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/comparaja/jobs/7760957003) |
 | Sales and Account Manager  | [takealot.com](https://takealot.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/takealotgroup/jobs/7965231) |
 | Senior Customer Success Manager | [Freshworks](https://freshworks.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000129653309) |
 | Customer Consultant | [Standard Bank](https://standardbank.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000129647869) |

@@ -2,14 +2,22 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**1209 open roles** — Last updated: 2026-06-02
+**1220 open roles** — Last updated: 2026-06-02
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Partner Solutions Engineer | [Hightouch](https://hightouch.com) | $180K–$220K/yr | Jun 2 | [Apply](https://job-boards.greenhouse.io/hightouch/jobs/6011820004) |
+| Senior Solutions Engineer, Commercial (Central) | [ClickUp](https://clickup.com) | — | Jun 2 | [Apply](https://jobs.ashbyhq.com/clickup/24a1eae4-8598-4ce8-9d1a-37d5c634e666) |
+| Senior Solutions Engineer, Commercial (West) | [ClickUp](https://clickup.com) | — | Jun 2 | [Apply](https://jobs.ashbyhq.com/clickup/4c0960cd-ce17-463a-95c9-81f240059fd7) |
+| Senior Scientist, Molecular Biology  | [Flagship Pioneering, Inc.](https://flagshippioneering.com) | $126K–$182K/yr | Jun 2 | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8568486002?gh_jid=8568486002) |
+| Dimensional Engineer | [Genpak LLC](https://genpak-llc-2) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/gokenamericallc/jobs/4267656009) |
 | Technicien Support IT Senior (H/F) | [VusionGroup SA](https://vusiongroup.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/VusionGroupSA/postings/744000129794458) |
+| Product Engineer 1 | [AHEAD](https://ahead.com) | — | Jun 2 | [Apply](https://jobs.lever.co/thinkahead/e7ad3413-bcb6-4c19-9632-89ad7b5e5146) |
+| Engineering Technician | [AHEAD](https://ahead.com) | — | Jun 2 | [Apply](https://jobs.lever.co/thinkahead/1c03fbcc-bfbb-4602-a91a-44e6827a100d) |
 | Maintenance Apprentice (Illinois) | [Continental](https://continentalserves.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000129778824) |
+| Director, Hardware Partnerships | [ŌURA](https://ouraring.com) | $201K–$236K/yr | Jun 2 | [Apply](https://job-boards.greenhouse.io/oura/jobs/4260098009) |
 | Junior Software Engineering Developer (New Grad) | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $72K–$85K/yr | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000129774969) |
 | Mecânica Industrial III - Exclusiva para mulheres | [Anglo American](https://angloamerican.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000129768792) |
 | Projeteur Electricité - H/F | [Egis](https://egis-group.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000129767630) |
@@ -26,7 +34,10 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Release Training Engineer | [Miratech](https://miratech.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000129715206) |
 | Level 2 IT Support Engineer (NOC Engineer) | [BrainRocket](https://brainrocket.com) | — | Jun 2 | [Apply](https://job-boards.eu.greenhouse.io/brainrocketltd/jobs/4880453101) |
 | MS SQL Database Administrator - short term | [Netcompany](https://netcompany.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000129712635) |
+| Senior Domain Engineering Specialist- VDC | [Veeam Software](https://veeam.com) | — | Jun 2 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4871553101) |
 | Senior Manager, Solutions Engineering - EMEA | [Webflow](https://webflow.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/webflow/jobs/7965515) |
+| Sr Technical Account Manager | [Zuora](https://zuora.com) | — | Jun 2 | [Apply](https://boards.greenhouse.io/zuora/jobs/7966280?gh_jid=7966280) |
+| Senior Domain Engineering Specialist- VDP & Cloud | [Veeam Software](https://veeam.com) | $100K/yr | Jun 2 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4871550101) |
 | Senior Software Engineer (Node.js, TypeScript) | [Diligent Corporation](https://diligent.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/diligentcorporation/jobs/5824712004) |
 | Product Analyst  | [JustMarkets](https://justmarkets.com) | — | Jun 2 | [Apply](https://job-boards.eu.greenhouse.io/justmarkets/jobs/4875151101) |
 | Sr. Software Engineer (Hybrid in Bangalore) | [Smartsheet](https://smartsheet.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/smartsheet/jobs/7971740) |

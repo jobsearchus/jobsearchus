@@ -2,12 +2,13 @@
 
 Product manager roles at companies building real products. Sourced directly from career pages.
 
-**141 open roles** — Last updated: 2026-06-02
+**142 open roles** — Last updated: 2026-06-02
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Product Manager, AI Platform Management | [GitLab](https://about.gitlab.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8568868002) |
 | GenAI Product Lead, EMAP | [Experian](https://experianplc.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000129788239) |
 | Sr Product Manager - Onchain  | [Kraken](https://kraken.com) | — | Jun 2 | [Apply](https://jobs.ashbyhq.com/kraken.com/8ac64ec9-ea3f-4ce7-9dba-6bfdd9b6d6ce) |
 | Sr Product Manager - Onchain  | [Kraken](https://kraken.com) | — | Jun 2 | [Apply](https://jobs.ashbyhq.com/kraken.com/e6e0fb41-a760-4a71-93f8-1fe5e8dab7a4) |

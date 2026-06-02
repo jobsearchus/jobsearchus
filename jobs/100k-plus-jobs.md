@@ -2,13 +2,22 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**524 open roles** — Last updated: 2026-06-02
+**533 open roles** — Last updated: 2026-06-02
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Partner Solutions Engineer | [Hightouch](https://hightouch.com) | $180K–$220K/yr | Jun 2 | [Apply](https://job-boards.greenhouse.io/hightouch/jobs/6011820004) |
+| Senior Director, SEC Reporting & Technical Accounting | [ŌURA](https://ouraring.com) | $232K–$273K/yr | Jun 2 | [Apply](https://job-boards.greenhouse.io/oura/jobs/4266486009) |
+| Project Manager (Healthcare) | [JRM Construction Management, LLC](https://jrmcm.com) | $150K–$200K/yr | Jun 2 | [Apply](https://job-boards.greenhouse.io/jrmconstructionmanagementllc/jobs/4686033006) |
+| Founding Solutions Architect | [Vantage](https://vantage.com) | $145K–$180K/yr | Jun 2 | [Apply](https://jobs.ashbyhq.com/vantage/88375a50-b21a-4745-8fc6-a6ba11d97d9d) |
+| Founding Forward Deployed Engineer | [Vantage](https://vantage.com) | $145K–$180K/yr | Jun 2 | [Apply](https://jobs.ashbyhq.com/vantage/67cfe507-3e6b-4c39-b2f7-9d900c59aa60) |
+| Senior Scientist, Molecular Biology  | [Flagship Pioneering, Inc.](https://flagshippioneering.com) | $126K–$182K/yr | Jun 2 | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8568486002?gh_jid=8568486002) |
+| Director, Supply Chain & Strategy | [ŌURA](https://ouraring.com) | $226K–$266K/yr | Jun 2 | [Apply](https://job-boards.greenhouse.io/oura/jobs/4266450009) |
+| Director, Hardware Partnerships | [ŌURA](https://ouraring.com) | $201K–$236K/yr | Jun 2 | [Apply](https://job-boards.greenhouse.io/oura/jobs/4260098009) |
 | Security Analyst, M365/Azure Cloud  | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $100K–$115K/yr | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000129776396) |
+| Senior Domain Engineering Specialist- VDP & Cloud | [Veeam Software](https://veeam.com) | $100K/yr | Jun 2 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4871550101) |
 | Library Learning Partnerships Manager | [Western Sydney University](https://westernsydney.edu.au) | $119K–$132K/yr | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/WesternSydneyUniversity/postings/6000000001125530) |
 | Senior Research Program Coordinator | [Western Sydney University](https://westernsydney.edu.au) | $107K–$115K/yr | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/WesternSydneyUniversity/postings/6000000001125466) |
 | Tutoring for Success Program Coordinator (Indigenous Identified Role) | [Western Sydney University](https://westernsydney.edu.au) | $107K–$115K/yr | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/WesternSydneyUniversity/postings/6000000001124820) |
