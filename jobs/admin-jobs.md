@@ -2,7 +2,7 @@
 
 Remote administrative and executive assistant roles across industries.
 
-**28 open roles** — Last updated: 2026-06-01
+**28 open roles** — Last updated: 2026-06-02
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 

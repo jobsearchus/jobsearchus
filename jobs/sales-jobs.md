@@ -2,12 +2,16 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**671 open roles** — Last updated: 2026-06-01
+**681 open roles** — Last updated: 2026-06-02
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Customer Consultant | [Standard Bank](https://standardbank.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000129647869) |
+| Senior Client Executive - Financial Institutions (Remote) | [Experian](https://experianplc.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000129599509) |
+| Director - Client Growth Partner (Retail) | [Nagarro](https://nagarro.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000129590909) |
+| Account Manager - Mid Market | [Freshworks](https://freshworks.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000129584295) |
 | Senior Strategic Account Executive | [Twilio](https://twilio.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7968031) |
 | Global Account Executive | [Flexport](https://flexport.com) | — | Jun 1 | [Apply](https://boards.greenhouse.io/flexport/jobs/7974657?gh_jid=7974657) |
 | Channel Partnerships Director | [Dandy](https://meetdandy.com) | — | Jun 1 | [Apply](https://jobs.ashbyhq.com/dandy/6eeaef9c-1dfd-4de4-8a00-029ea33d121e) |
@@ -15,8 +19,11 @@ Remote sales roles — account executives, SDRs, and enterprise deals.
 | Strategic Partnerships | [Realm Alliance](https://realmalliance.com) | $200K/yr | Jun 1 | [Apply](https://jobs.ashbyhq.com/realmalliance/b3e8d839-a003-464c-bcfe-df6de9b2dce5) |
 | Strategic Accounts Director, Large Group | [Garner Health](https://getgarner.com) | $190K–$250K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/garnerhealth/jobs/6008518004) |
 | Channel Sales Manager, LATAM (m/f/d) | [Chaos Genius](https://chaosgenius.io) | — | Jun 1 | [Apply](https://careers.chaos.com/o/channel-sales-manager-latam-mfd/c/new) |
+| Strategic Account Executive | [Canva](https://canva.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001122084) |
 | District Manager, SLED (Southeast) | [Pure Storage](https://purestorage.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/7964686) |
 | Partner Success Manager | [Gusto](https://gusto.com) | $145K–$178K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/gusto/jobs/7954445) |
+| Vendeur/Vendeuse en Rayon Boucherie | [Genpak LLC](https://genpak-llc-2) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129551635) |
+| VENDEUR bati (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129552383) |
 | Account Executive (ENT) (Position located in Melbourne, Australia) | [KnowBe4](https://knowbe4.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8573421002) |
 | Agente Stone - Consultor(a) Comercial Externo - Caxias do  Sul/RS | [Stone](https://stone.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/stone/jobs/7758667003) |
 | Senior Account Executive, EMEA Enterprise | [HackerOne](https://hackerone.com) | £100K/yr | Jun 1 | [Apply](https://jobs.ashbyhq.com/hackerone/f7074ef7-ba32-4d15-887f-d5f6c400db52) |
@@ -25,11 +32,14 @@ Remote sales roles — account executives, SDRs, and enterprise deals.
 | Agente Stone - Consultor (a) Comercial Externo -  Jaraguá do Sul/SC | [Stone](https://stone.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/stone/jobs/7758642003) |
 | Ads & Promos - Senior Sales Manager | [Wolt](https://wolt.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7962731) |
 | Account Executive (Portuguese Speaker) | [Fever](https://feverup.com) | — | Jun 1 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4879727101) |
+| Asesor(a) Comercial - Temporal | [Anglo American](https://angloamerican.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000129530879) |
 | Head of Revenue and Growth | [Superset](https://superset.sh) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/superset/jobs/5237455008) |
 | Vendeur / Vendeuse CDD -  Temps partiel [30 Heures] (H/F) | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000129518352) |
 | Technical Sales Manager (all genders) | [MOIA](https://moia.io) | — | Jun 1 | [Apply](https://job-boards.eu.greenhouse.io/moia/jobs/4879674101) |
 | VENDEUR CONSEIL - CDI TEMPS PARTIEL 30H H/F | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000129516679) |
+| SMB Account Executive (DACH) - German Speaking | [Canva](https://canva.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001121607) |
 | Commercial Account Executive  | [Zscaler](https://zscaler.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5150435007) |
+| Concepteur (vendeur) cuisine HF | [BUT](https://but.fr) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000129488479) |
 | Sales Manager - WeMoms | [Genpak LLC](https://genpak-llc-2) | — | Jun 1 | [Apply](https://jobs.ashbyhq.com/voodoo/83df0f9f-025a-4bcd-8209-8e9d96c77187) |
 | Senior Business Developer - WeMoms | [Genpak LLC](https://genpak-llc-2) | — | Jun 1 | [Apply](https://jobs.ashbyhq.com/voodoo/9d388b93-a014-4b16-8ae7-e551b4cbd406) |
 | Account Executive - WeMoms | [Genpak LLC](https://genpak-llc-2) | — | Jun 1 | [Apply](https://jobs.ashbyhq.com/voodoo/03de5328-613b-41ac-adbd-0214ff8ef57f) |

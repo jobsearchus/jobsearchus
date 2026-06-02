@@ -2,7 +2,7 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**342 open roles** — Last updated: 2026-06-01
+**350 open roles** — Last updated: 2026-06-02
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -19,10 +19,18 @@ Remote finance, accounting, and analyst roles at companies of all sizes.
 | Finance Manager | [Anglo American](https://angloamerican.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000129508481) |
 | Senior SOX Auditor - Business Process Controls | [Kraken](https://kraken.com) | — | Jun 1 | [Apply](https://jobs.ashbyhq.com/kraken.com/726ebf86-4685-403e-bde2-b233896412bc) |
 |  Associate Director, Funds AML | [IQ-EQ](https://iqeq.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000129498078) |
+| Director, Financial Compliance & US Transparency Reporting | [AbbVie](https://abbvie.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/AbbVie/postings/3743990013393626) |
 | Technical Accounting & Advisory Senior Manager | [Monzo](https://monzo.com) | £106K–£144K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7971941) |
 | Associate / Sr. Associate - Credit card Operations | [ZETA SURGICAL](https://zetasurgical.com) | — | Jun 1 | [Apply](https://jobs.lever.co/zeta/9091625e-560b-4c35-81c3-98d262af4407) |
 | Ads Strategy and Finance Manager | [Wolt](https://wolt.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7971956) |
+| Regulatory and Internal Reporting Fund Manager | [IQ-EQ](https://iqeq.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000129449379) |
+| Assistant Manager, Relationship | [Standard Bank](https://standardbank.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000129443513) |
 | Senior Manager Tax Reporting, Risk Management & Technology ContiTech (m/w/divers) - REF92559A | [Continental](https://continentalserves.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000129430131) |
+| Manager Tax Reporting, Risk Management & Technology ContiTech (m/w/divers) - REF92635Y | [Continental](https://continentalserves.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000129431391) |
+| Manager Tax Reporting, Risk Management & Technology ContiTech (m/f/diverse) - REF92635Y | [Continental](https://continentalserves.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000129428122) |
+| Accountant 1, Fund Accounting | [IQ-EQ](https://iqeq.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000129396589) |
+| Accountant 1, Fund Accounting (Night Shift) | [IQ-EQ](https://iqeq.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000129382269) |
+| Accountant 1, Fund Accounting  | [IQ-EQ](https://iqeq.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000129382189) |
 | Accounts Receivable Coordinator (Remote Eligible - Costa Rica) | [Smartsheet](https://smartsheet.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/smartsheet/jobs/7968841) |
 | Budget Analytics & Financial Operations Analyst | [Axle](https://axle.insure) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/axle/jobs/5149125007) |
 | Revenue Accounting and Business Partnering Manager | [Experian](https://experianplc.com) | — | May 31 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000129340909) |

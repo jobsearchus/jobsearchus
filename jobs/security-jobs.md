@@ -2,7 +2,7 @@
 
 Remote cybersecurity, information security, and security engineering roles.
 
-**89 open roles** — Last updated: 2026-06-01
+**90 open roles** — Last updated: 2026-06-02
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -11,6 +11,7 @@ Remote cybersecurity, information security, and security engineering roles.
 | Senior Penetration Tester | [Robinhood](https://robinhood.com) | — | Jun 1 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7939813?t=gh_src=&gh_jid=7939813) |
 | Senior Manager, Information Security | [Saviynt](https://saviynt.com) | — | Jun 1 | [Apply](https://jobs.lever.co/saviynt/6cf1ecd3-5eb7-417b-b9b5-37ceab059a3d) |
 | Sr Associate - Infosec GRC | [ZETA SURGICAL](https://zetasurgical.com) | — | Jun 1 | [Apply](https://jobs.lever.co/zeta/8c29bd7b-bbb8-48ad-a601-c425df86ce2f) |
+| Senior Purple Team Analyst | [IQ-EQ](https://iqeq.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000129453419) |
 | Director of Defense Security | [Applied Intuition](https://applied.co) | $200K–$260K/yr | May 31 | [Apply](https://boards.greenhouse.io/appliedintuition/jobs/4701275005?gh_jid=4701275005) |
 | Security Analyst | [Oddball](https://oddball.com) | $90K–$125K/yr | May 30 | [Apply](https://job-boards.greenhouse.io/oddball/jobs/7753625003) |
 | Corporate Security Engineer, IAC & Automation | [OnePay](https://onepay.com) | — | May 29 | [Apply](https://jobs.ashbyhq.com/oneapp/6a665838-2db9-412c-b1fa-2337edd2bf14) |

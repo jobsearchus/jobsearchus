@@ -2,25 +2,34 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**775 open roles** — Last updated: 2026-06-01
+**789 open roles** — Last updated: 2026-06-02
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Laundry Supervisor | [ACCOR](https://group.accor.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000129651399) |
+| Public Area Executive | [ACCOR](https://group.accor.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000129650429) |
+| Temporary - Patient Care Assistant | [University of Notre Dame](https://universityofnotredame.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013408851) |
+| Temporary - Nurse Practitioner or Physician Assistant  | [University of Notre Dame](https://universityofnotredame.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013407881) |
 | Veterinary Care Support - Overnight | [Veritas Veterinary Partners](https://veritasveterinarypartners.com) | $17/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/veritasvetpartners/jobs/5236035008) |
 | Veterinary Client Care Representative | [Veritas Veterinary Partners](https://veritasveterinarypartners.com) | $23/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/veritasvetpartners/jobs/5238083008) |
 | Veterinary Assistant - Surgery | [Veritas Veterinary Partners](https://veritasveterinarypartners.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/veritasvetpartners/jobs/5237975008) |
 | Clinical Quality Lead  | [Hazel](https://hazelai.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/hazel/jobs/7750110003) |
+| Ocean Freight Manager - The Americas | [Continental](https://continentalserves.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000129562799) |
 | Triage Nurse | [Firsthand](https://shopfirsthand.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/firsthand/jobs/4266371009) |
 | Full Time Licensed Vocational Nurse, LVN (Multiple Shifts) | [Silverado](https://silverado.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/silverado/jobs/5151487007) |
 | Full Time Medication Technician (Multiple Shifts Available) | [Silverado](https://silverado.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/silverado/jobs/5151662007) |
 | Busser - Soho House New York | [Soho House](https://sohohouse.com) | — | Jun 1 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4879794101) |
 | Experience Partner, Programs | [Reddit](https://reddit.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/7973810) |
 | Data Protection Apprentice | [Man Group](https://man.com) | — | Jun 1 | [Apply](https://job-boards.eu.greenhouse.io/mangroup/jobs/4799142101) |
+| INTERMARCHE - MANAGER DE RAYON POISSONNERIE (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129544209) |
 | Director of Corporate Development and Strategic Partner Management | [SandboxAQ](https://sandboxaq.com) | — | Jun 1 | [Apply](https://jobs.ashbyhq.com/sandboxaq/8afc3217-c2b9-4f81-9e43-7837d2ff7f13) |
 | Consultant, Pharma & Life Sciences | [Baringa](https://baringa.com) | — | Jun 1 | [Apply](https://job-boards.eu.greenhouse.io/baringa/jobs/4879695101) |
+| CDI - EMPLOYE COMMERCIAL (H/F) - 36h45 SECTEUR FRAIS | [Genpak LLC](https://genpak-llc-2) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129539495) |
 | LVN - LPT (QA Coordinator) | [Crestwood Behavioral Health](https://crestwoodbehavioralhealth.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/crestwoodcareers/jobs/7758612003) |
+| MODELE INTERMARCHE - RESPONSABLE CAISSE (H/F) adjoint(e) | [Genpak LLC](https://genpak-llc-2) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129539790) |
+|  CAISSIER - HÔTE CAISSE (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129530514) |
 | Barback - Soho House Manchester | [Soho House](https://sohohouse.com) | — | Jun 1 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4874247101) |
 | Lunchtime Teaching Assistant | [Fennies Day Nurseries](https://fennies.com) | £14/yr | Jun 1 | [Apply](https://job-boards.eu.greenhouse.io/fenniesdaynurseries/jobs/4879689101) |
 | 6376 - Audit Trail Reviewer – QC Laboratory Systems / Quality Specialist  | [Verista](https://verista.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/veristainc/jobs/5237499008) |
@@ -29,7 +38,12 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | EMPLOYE POLYVALENT CAISSE/DRIVE (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129490976) |
 | EMPLOYE RAYON BAZAR (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129492906) |
 | EMPLOYE COMMERCIAL (H/F) CAISSE - MISE EN RAYON  | [Genpak LLC](https://genpak-llc-2) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129493989) |
+| Multispecialty Sonographer - Full Time Evenings | [Northwestern Medicine](https://northwesternmedicine.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/NorthwesternMedicine/postings/744000129493929) |
 | Multi-Site Maintenance Supervisor | [Avanath Capital Management](https://avanath.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/communitymanager/jobs/5151243007) |
+| Multispecialty Sonographer - Full Time Evenings | [Northwestern Medicine](https://northwesternmedicine.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/NorthwesternMedicine/postings/744000129493559) |
+| Staff Nurse Inpatient - Casual Day Shift | [Northwestern Medicine](https://northwesternmedicine.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/NorthwesternMedicine/postings/744000129491600) |
+| Imaging Assistant IHR - Casual Rotating Shift | [Northwestern Medicine](https://northwesternmedicine.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/NorthwesternMedicine/postings/744000129490040) |
+| Pharmacy Technician III Hazardous Compounding-Inpatient Oncology, Full-time Rotating Shifts | [Northwestern Medicine](https://northwesternmedicine.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/NorthwesternMedicine/postings/744000129487037) |
 | IT Support Specialist | [Too Good To Go](https://toogoodtogo.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/toogoodtogo/jobs/7739984003) |
 | Belgium Axon Pulse Event 2026 - Careers Interest | [Axon](https://axon.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/axon/jobs/7757947003) |
 | Immigration Case Manager, Dutch Immigration | [Envoy Global](https://envoyglobal.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/envoyglobalinc/jobs/6006018004) |

@@ -2,7 +2,7 @@
 
 UX design, UI design, and product design roles. Figma, research, and end-to-end product work.
 
-**109 open roles** — Last updated: 2026-06-01
+**110 open roles** — Last updated: 2026-06-02
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -10,6 +10,7 @@ UX design, UI design, and product design roles. Figma, research, and end-to-end 
 | --- | --- | --- | --- | --- |
 | Lead Visual Designer - (Advanced English) - Chile | [Referrals Only](https://thoughtworks.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7974505) |
 | Senior Visual Designer - (Advanced English) - Chile | [Referrals Only](https://thoughtworks.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7974512) |
+| Junior Game Artist | [Evolution](https://evolution.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/Evolution/postings/744000129529191) |
 | Senior Principal UI/UX Designer | [Zuora](https://zuora.com) | — | Jun 1 | [Apply](https://boards.greenhouse.io/zuora/jobs/7972559?gh_jid=7972559) |
 | Graphic Designer (Key Customers)    | [RTB House](https://rtbhouse.com) | — | Jun 1 | [Apply](https://job-boards.eu.greenhouse.io/rtbhouse/jobs/4879149101) |
 | Estagiário de Design | [STARK BANK](https://starkbank.com) | — | Jun 1 | [Apply](https://jobs.lever.co/starkbank/74d749df-6b36-4d42-a26f-94f4aac2f1e4) |

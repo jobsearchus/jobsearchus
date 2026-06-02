@@ -2,7 +2,7 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**272 open roles** — Last updated: 2026-06-01
+**274 open roles** — Last updated: 2026-06-02
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -15,6 +15,8 @@ Remote marketing roles across growth, content, brand, and performance channels.
 | Regional PR Lead, Africa | [Delivery Hero](https://deliveryhero.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000129533199) |
 | Lifecycle Marketing Lead | [Roofr](https://roofr.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/roofr/jobs/4701421005) |
 | Marketing Operations Specialist | [Anglo American](https://angloamerican.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000129508589) |
+| Chef, Communications externes | [AbbVie](https://abbvie.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/AbbVie/postings/3743990013393824) |
+| Manager, External Communications | [AbbVie](https://abbvie.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/AbbVie/postings/3743990013393777) |
 | Account Manager Paid Search (m/w/d) | [WPP Media](https://wppmedia.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5226112008) |
 | SEO Generalist (12-Month Contract) | [Canva](https://canva.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001121063) |
 | Email Marketing Specialist | [Veeam Software](https://veeam.com) | — | Jun 1 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4860787101) |

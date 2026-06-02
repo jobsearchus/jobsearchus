@@ -2,12 +2,13 @@
 
 Data science, machine learning, and AI engineering roles. Python, SQL, PyTorch, and beyond.
 
-**69 open roles** — Last updated: 2026-06-01
+**70 open roles** — Last updated: 2026-06-02
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Data Scientist | [Standard Bank](https://standardbank.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000129647609) |
 | Machine Learning Engineer | [Pure Storage](https://purestorage.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/7922815) |
 | Computer Vision ML Engineer | [Upfront](https://tryupfront.com) | — | Jun 1 | [Apply](https://upfront.recruitee.com/o/computer-vision-ml-engineer/c/new) |
 | Senior AI & ML Engineer | [Gametime](https://gametime.co) | — | May 29 | [Apply](https://job-boards.greenhouse.io/gametimeunited/jobs/5236131008) |
