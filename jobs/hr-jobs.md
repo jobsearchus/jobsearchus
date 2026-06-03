@@ -2,13 +2,15 @@
 
 Remote HR, recruiting, and people operations roles.
 
-**143 open roles** — Last updated: 2026-06-03
+**145 open roles** — Last updated: 2026-06-03
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | Senior Director, HR Business Partner - Marketing & Product  | [Freshworks](https://freshworks.com) | $246K–$305K/yr | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000130072302) |
+| Coordinator, Human Resources - Coordonnateur·trice des ressources humaines | [NBCUniversal](https://nbcuniversal.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130043869) |
+| Manager, Human Resources - Gestionnaire, Ressources humaines | [NBCUniversal](https://nbcuniversal.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130043719) |
 | HR Manager | [INFINIT](https://infinit.com) | — | Jun 3 | [Apply](https://jobs.lever.co/infinit/50b80989-4a10-4923-b7f4-9c5c2a1f516f) |
 | Principal Compensation Analyst | [Natera](https://natera.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/natera/jobs/6010850004) |
 | Manager, Employee Relations | [NBCUniversal](https://nbcuniversal.com) | $95K–$110K/yr | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000129797869) |

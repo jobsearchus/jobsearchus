@@ -2,16 +2,23 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**873 open roles** — Last updated: 2026-06-03
+**880 open roles** — Last updated: 2026-06-03
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Store Manager | [Anglo American](https://angloamerican.com) | $145K–$150K/yr | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000130068654) |
+| Head of Government Affairs | [Continental](https://continentalserves.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000130062234) |
 | Director Adjunct de Magazin  Oltul, Slatina | [JYSK](https://jysk.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000130056618) |
 | Verkäufer/in (a) 40% in der Filiale St. Gallen | [JYSK](https://jysk.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000130054229) |
+| VENDEUR(SE) BOUCHERIE (H/F)  | [Genpak LLC](https://genpak-llc-2) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130053120) |
+| VENDEUR PRODUITS FRAIS H/F | [Genpak LLC](https://genpak-llc-2) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130045739) |
+| Commercial Manager | [Egis](https://egis-group.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000130041372) |
+| Supervisor de recepción de obra - Cusco | [Egis](https://egis-group.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000130033769) |
 |  Vice Store Manager 40 h - Sassari | [JYSK](https://jysk.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000130033229) |
 | Account Manager, Wolt for Work | [Wolt](https://wolt.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7978747) |
+| Commercial Manager (Change Management) | [Egis](https://egis-group.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000130029452) |
 | Enterprise Field Engineer - Adobe | [VML](https://vml.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/vmlenterprisesolutions/jobs/8570836002) |
 | Manager, Product Support | [Zscaler](https://zscaler.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5153940007) |
 | Copy of Consulting Manager (m/f/d) Daten- & KI-Strategie | [LinkedIn Job Wrapping](https://artefact.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/artefactlinkedin/jobs/8576197002) |

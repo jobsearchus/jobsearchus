@@ -2,12 +2,13 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**760 open roles** — Last updated: 2026-06-03
+**762 open roles** — Last updated: 2026-06-03
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Brand Ambassador (Sales), Galleria Mall, Houston, TX | [Anglo American](https://angloamerican.com) | $55K–$60K/yr | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000130067802) |
 | Chef des ventes F/H/X | [BUT](https://but.fr) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000130054319) |
 | SI Partner Manager - Germany | [Freshworks](https://freshworks.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000130041939) |
 | Lead - Account Executive | [Freshworks](https://freshworks.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000130007655) |
@@ -18,6 +19,7 @@ Remote sales roles — account executives, SDRs, and enterprise deals.
 | Marketplace Sales Trainee | [SPRINTER MEGACENTROS DEL DEP](https://sprinter.es) | — | Jun 3 | [Apply](https://job-boards.eu.greenhouse.io/sprintersportses/jobs/4881207101) |
 | Marketplace Account Trainee | [SPRINTER MEGACENTROS DEL DEP](https://sprinter.es) | — | Jun 3 | [Apply](https://job-boards.eu.greenhouse.io/sprintersportses/jobs/4881196101) |
 | Consultor/a de Ventas - Automoción | [AUTO1 Group](https://auto1-group.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000129944229) |
+| IT Governance, Quality and Asset Manager | [NCS](https://ncs.co) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001129545) |
 | Account Manager | [Gameloft](https://gameloft.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/Gameloft/postings/744000129940250) |
 | Vendeur(euse) en boulangerie pâtisserie (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129932535) |
 | Sales Manager Intelligent Labels | [Avery Dennison](https://averydennison.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000129932319) |

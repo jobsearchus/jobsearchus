@@ -2,13 +2,16 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**383 open roles** — Last updated: 2026-06-03
+**386 open roles** — Last updated: 2026-06-03
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Accountant 3, Fund Accounting | [IQ-EQ](https://iqeq.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000130062886) |
 | Alternance - Contrôleur de Gestion F/H/X | [BUT](https://but.fr) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000130027340) |
+| Client Manager, Accountant – Capital Markets | [IQ-EQ](https://iqeq.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000130009719) |
+| Manager, Corporate Accounting | [IQ-EQ](https://iqeq.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000129993210) |
 | COMPTABLE (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129943260) |
 | Head, Provincial, Commercial Asset Finance, (Limpopo & Mpumalanga) | [Standard Bank](https://standardbank.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000129943611) |
 | Technical Project Manager (all genders) - Autonomous Driving | [MOIA](https://moia.io) | — | Jun 3 | [Apply](https://job-boards.eu.greenhouse.io/moia/jobs/4881160101) |

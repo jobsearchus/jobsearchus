@@ -2,12 +2,16 @@
 
 Remote jobs open to candidates with 0–2 years of experience. A real way in — no degree gatekeeping.
 
-**828 open roles** — Last updated: 2026-06-03
+**835 open roles** — Last updated: 2026-06-03
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| VENDEUR(SE) BOUCHERIE (H/F)  | [Genpak LLC](https://genpak-llc-2) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130053120) |
+|  RECEPTIONNAIRE (H/F) MANUTENTIONNAIRE ENTRETIEN | [Genpak LLC](https://genpak-llc-2) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130046439) |
+| VENDEUR PRODUITS FRAIS H/F | [Genpak LLC](https://genpak-llc-2) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130045739) |
+| Coordinator, Human Resources - Coordonnateur·trice des ressources humaines | [NBCUniversal](https://nbcuniversal.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130043869) |
 | Alternance - Contrôleur de Gestion F/H/X | [BUT](https://but.fr) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000130027340) |
 | Stagiaire Commercial F&B - Septembre 2026 (H/F/NB) | [ACCOR](https://group.accor.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000129960659) |
 | EN - Security Agent | [ACCOR](https://group.accor.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000129960549) |
@@ -16,6 +20,9 @@ Remote jobs open to candidates with 0–2 years of experience. A real way in —
 | Marketplace Sales Trainee | [SPRINTER MEGACENTROS DEL DEP](https://sprinter.es) | — | Jun 3 | [Apply](https://job-boards.eu.greenhouse.io/sprintersportses/jobs/4881207101) |
 | Marketplace Account Trainee | [SPRINTER MEGACENTROS DEL DEP](https://sprinter.es) | — | Jun 3 | [Apply](https://job-boards.eu.greenhouse.io/sprintersportses/jobs/4881196101) |
 | Software Engineer Ⅰ | [Flexport](https://flexport.com) | — | Jun 3 | [Apply](https://boards.greenhouse.io/flexport/jobs/7978696?gh_jid=7978696) |
+| Stagiaire en alternance Support infrastructures IT  | [Avery Dennison](https://averydennison.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000129937739) |
+| Expedition Operator | [Avery Dennison](https://averydennison.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000129934709) |
+| Warehouse Team Member | [Avery Dennison](https://averydennison.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000129932596) |
 | MAGASINIER /Entretien (H/F) CDI 24H | [Genpak LLC](https://genpak-llc-2) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129932847) |
 | Vendeur(euse) en boulangerie pâtisserie (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129932535) |
 | Junior Securitisation Accountant | [IQ-EQ](https://iqeq.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000129932179) |

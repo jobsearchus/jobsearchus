@@ -2,7 +2,7 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**1272 open roles** — Last updated: 2026-06-03
+**1273 open roles** — Last updated: 2026-06-03
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -26,6 +26,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Senior Staff Engineer, Salesforce Health Cloud | [Nagarro](https://nagarro.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000129939834) |
 | AI Data Operations Manager | [HackerRank](https://hackerrank.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/hackerrank/jobs/7959598) |
 | Delivery Manager | [Cloudflare](https://cloudflare.com) | — | Jun 3 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7962540?gh_jid=7962540) |
+| Senior Service Manager | [NCS](https://ncs.co) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001129519) |
 | Alternant Etude hydraulique urbaine | [Egis](https://egis-group.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000129929000) |
 | Responsable VRD confirmé Projets Aménagement urbain- Transport urbain  H/F | [Egis](https://egis-group.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000129929185) |
 | Software Engineer I | [Flexport](https://flexport.com) | — | Jun 3 | [Apply](https://boards.greenhouse.io/flexport/jobs/7978127?gh_jid=7978127) |

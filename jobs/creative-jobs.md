@@ -2,12 +2,13 @@
 
 Remote creative roles — copywriters, content creators, graphic designers, and brand specialists.
 
-**74 open roles** — Last updated: 2026-06-03
+**75 open roles** — Last updated: 2026-06-03
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Creative Coordinator | [NBCUniversal](https://nbcuniversal.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130050209) |
 | Senior Producer, Breaking News Specials (Weekends) | [NBCUniversal](https://nbcuniversal.com) | $125K–$170K/yr | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130028778) |
 | 2D Artist | [Gameloft](https://gameloft.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/Gameloft/postings/744000129931714) |
 | Studio Game Artist Lead | [Gameloft](https://gameloft.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/Gameloft/postings/744000129712105) |

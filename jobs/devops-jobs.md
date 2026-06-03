@@ -2,12 +2,13 @@
 
 DevOps, platform engineering, and infrastructure roles. AWS, GCP, Kubernetes, Terraform.
 
-**78 open roles** — Last updated: 2026-06-03
+**79 open roles** — Last updated: 2026-06-03
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Stagiaire en alternance Support infrastructures IT  | [Avery Dennison](https://averydennison.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000129937739) |
 | Projeteur VRD (Aménagement urbain - Infrastructure de transport urbain Tram BHNS - Linéaire route)  | [Egis](https://egis-group.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000129929424) |
 | Core Platform Engineer, Data and Algo (All Levels) | [ŌURA](https://ouraring.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/oura/jobs/4259790009) |
 | Senior Solutions Architect, AI / Core DevOps - EMEA | [GitLab](https://about.gitlab.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8468159002) |
