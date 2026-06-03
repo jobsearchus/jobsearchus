@@ -2,7 +2,7 @@
 
 Remote customer support and success roles across SaaS, e-commerce, and tech.
 
-**229 open roles** — Last updated: 2026-06-03
+**230 open roles** — Last updated: 2026-06-03
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -12,6 +12,7 @@ Remote customer support and success roles across SaaS, e-commerce, and tech.
 | Technical Support Specialist | [Mozilla](https://mozilla.org) | $67K–$77K/yr | Jun 2 | [Apply](https://job-boards.greenhouse.io/mozilla/jobs/7977509) |
 | Technical Support Specialist | [Mozilla](https://mozilla.org) | $57K–$67K/yr | Jun 2 | [Apply](https://job-boards.greenhouse.io/mozilla/jobs/7977508) |
 | Technical Support Specialist | [Mozilla](https://mozilla.org) | $67K–$77K/yr | Jun 2 | [Apply](https://job-boards.greenhouse.io/mozilla/jobs/7977482) |
+| Alternance - Chargé de l’Expérience client F/H/X | [BUT](https://but.fr) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000129801866) |
 | Dutch Customer Service Agent | [MSX International](https://msxi.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013418346) |
 | Customer Support Specialist | [Diligent Corporation](https://diligent.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/diligentcorporation/jobs/6010978004) |
 | VIP Customer Support Quality Control  | [Genpak LLC](https://genpak-llc-2) | — | Jun 2 | [Apply](https://job-boards.eu.greenhouse.io/growetalents/jobs/4872649101) |

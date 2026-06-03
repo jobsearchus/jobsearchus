@@ -2,7 +2,7 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**545 open roles** — Last updated: 2026-06-03
+**546 open roles** — Last updated: 2026-06-03
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -19,6 +19,7 @@ Remote roles paying $100,000 or more per year. Salary data pulled directly from 
 | Founding Solutions Architect | [Vantage](https://vantage.com) | $145K–$180K/yr | Jun 2 | [Apply](https://jobs.ashbyhq.com/vantage/88375a50-b21a-4745-8fc6-a6ba11d97d9d) |
 | Founding Forward Deployed Engineer | [Vantage](https://vantage.com) | $145K–$180K/yr | Jun 2 | [Apply](https://jobs.ashbyhq.com/vantage/67cfe507-3e6b-4c39-b2f7-9d900c59aa60) |
 | Senior Salesforce Administrator | [Webflow](https://webflow.com) | $125K–$150K/yr | Jun 2 | [Apply](https://job-boards.greenhouse.io/webflow/jobs/7973085) |
+| Senior Project Engineer - Systems Engineer | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $110K–$135K/yr | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000129817999) |
 | Senior Scientist, Molecular Biology  | [Flagship Pioneering, Inc.](https://flagshippioneering.com) | $126K–$182K/yr | Jun 2 | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8568486002?gh_jid=8568486002) |
 | Senior Events & Field Marketing Manager, Conference Production & Operations | [Temporal](https://temporal.io) | $155K–$195K/yr | Jun 2 | [Apply](https://job-boards.greenhouse.io/temporaltechnologies/jobs/5152693007) |
 | Senior Events & Field Marketing Manager, Developer Conference Programming | [Temporal](https://temporal.io) | $155K–$195K/yr | Jun 2 | [Apply](https://job-boards.greenhouse.io/temporaltechnologies/jobs/5152734007) |

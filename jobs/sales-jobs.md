@@ -2,12 +2,15 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**732 open roles** — Last updated: 2026-06-03
+**736 open roles** — Last updated: 2026-06-03
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Vendeur(euse) en boulangerie pâtisserie (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129932535) |
+| MODELE INTERMARCHE - Employé(e) Commercial(e) H/F - Contrat de professionnalisation -  | [Genpak LLC](https://genpak-llc-2) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129929522) |
+| Account Manager - SaaS - Hybrid | [Experian](https://experianplc.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000129917339) |
 | Partner Solutions Engineer | [Drata](https://drata.com) | $187K–$231K/yr | Jun 2 | [Apply](https://jobs.ashbyhq.com/drata/475934cf-a528-4c6e-a1e1-d6bcfc10d460) |
 | Senior Sales Operations Manager | [HackerOne](https://hackerone.com) | $153K–$175K/yr | Jun 2 | [Apply](https://jobs.ashbyhq.com/hackerone/83c78401-3e24-48d8-8d49-16f7f9941a2f) |
 | Senior Client Account Manager, Large Customer Sales (Pharma) | [Reddit](https://reddit.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/7746526) |
@@ -20,6 +23,7 @@ Remote sales roles — account executives, SDRs, and enterprise deals.
 | Brigáda - Asistent/ka prodeje - Ceske Budejovic | [Frasers Group](https://frasersgroup.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000129799952) |
 | Asistent/ka prodeje na poloviční úvazek 20hod/týd - Ceske Budejovic | [Frasers Group](https://frasersgroup.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000129802779) |
 | Senior Revenue Operations Manager  | [Sigma Computing](https://sigmacomputing.com) | $150K–$210K/yr | Jun 2 | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/7750787003) |
+| Business Development Representative  | [Freshworks](https://freshworks.com) | $53K–$66K/yr | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000129796404) |
 | Territory Sales Manager - Southern Quebec - Truck Tire | [Continental](https://continentalserves.com) | $75K–$100K/yr | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000129793709) |
 | Territory Sales Manager - Southern Quebec - Truck Tire | [Continental](https://continentalserves.com) | $75K–$100K/yr | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000129792277) |
 | Client Analyst II | [bswift](https://bswift.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/bswift/jobs/4685188006) |

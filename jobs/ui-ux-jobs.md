@@ -2,13 +2,16 @@
 
 UX design, UI design, and product design roles. Figma, research, and end-to-end product work.
 
-**115 open roles** — Last updated: 2026-06-03
+**118 open roles** — Last updated: 2026-06-03
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Prompt Designer | [NCS](https://ncs.co) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001127659) |
+| Intermediate Human Factors & Ergonomics Specialist | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $80K–$95K/yr | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000129845489) |
 | Architectural Designer  | [xAI](https://x.ai) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/xai/jobs/5149595007) |
+| Designer, Show/Set | [NBCUniversal](https://nbcuniversal.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000129784849) |
 | Contract Technical Cinematic Designer | [Mob Entertainment](https://mobentertainment.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/mobentertainment/jobs/5152392007) |
 | Senior UX/UI Design Lead | [teamLFG](https://teamlfg.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/teamlfg/jobs/6010239004) |
 | Senior GenAI Integrated Designer with Motion | [Genpak LLC](https://genpak-llc-2) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/brandtechplus/jobs/7974768) |

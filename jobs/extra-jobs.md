@@ -2,15 +2,18 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**838 open roles** — Last updated: 2026-06-03
+**842 open roles** — Last updated: 2026-06-03
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | Full Time Housekeeper (AM) | [Silverado](https://silverado.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/silverado/jobs/5153262007) |
+| Express Maintenance Coach | [MSX International](https://msxi.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013429926) |
+| Express Maintenance Coach | [MSX International](https://msxi.com) | $75K–$90K/yr | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013429446) |
 | Founding Solutions Architect | [Vantage](https://vantage.com) | $145K–$180K/yr | Jun 2 | [Apply](https://jobs.ashbyhq.com/vantage/88375a50-b21a-4745-8fc6-a6ba11d97d9d) |
 | Founding Forward Deployed Engineer | [Vantage](https://vantage.com) | $145K–$180K/yr | Jun 2 | [Apply](https://jobs.ashbyhq.com/vantage/67cfe507-3e6b-4c39-b2f7-9d900c59aa60) |
+| Analista de Treinamento Pl (Desenvolvedor de Conteúdo) | [MSX International](https://msxi.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013427005) |
 | Senior Salesforce Administrator | [Webflow](https://webflow.com) | $125K–$150K/yr | Jun 2 | [Apply](https://job-boards.greenhouse.io/webflow/jobs/7973085) |
 | Dental Field Trainer (Spain) | [Dandy](https://meetdandy.com) | — | Jun 2 | [Apply](https://jobs.ashbyhq.com/dandy/723c8996-8b01-4514-b45d-8d5ed85e1df1) |
 | Full Time Hospice Licensed Vocational Nurse, LVN | [Silverado](https://silverado.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/silverado/jobs/5151635007) |
@@ -90,6 +93,7 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Multispecialty Sonographer - Full Time Evenings | [Northwestern Medicine](https://northwesternmedicine.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/NorthwesternMedicine/postings/744000129493559) |
 | Staff Nurse Inpatient - Casual Day Shift | [Northwestern Medicine](https://northwesternmedicine.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/NorthwesternMedicine/postings/744000129491600) |
 | Imaging Assistant IHR - Casual Rotating Shift | [Northwestern Medicine](https://northwesternmedicine.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/NorthwesternMedicine/postings/744000129490040) |
+| Demi Sous Chef - Rohr's | [University of Notre Dame](https://universityofnotredame.com) | $23/yr | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013393486) |
 | Pharmacy Technician III Hazardous Compounding-Inpatient Oncology, Full-time Rotating Shifts | [Northwestern Medicine](https://northwesternmedicine.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/NorthwesternMedicine/postings/744000129487037) |
 | IT Support Specialist | [Too Good To Go](https://toogoodtogo.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/toogoodtogo/jobs/7739984003) |
 | Belgium Axon Pulse Event 2026 - Careers Interest | [Axon](https://axon.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/axon/jobs/7757947003) |

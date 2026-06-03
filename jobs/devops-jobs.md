@@ -2,12 +2,13 @@
 
 DevOps, platform engineering, and infrastructure roles. AWS, GCP, Kubernetes, Terraform.
 
-**76 open roles** — Last updated: 2026-06-03
+**77 open roles** — Last updated: 2026-06-03
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Projeteur VRD (Aménagement urbain - Infrastructure de transport urbain Tram BHNS - Linéaire route)  | [Egis](https://egis-group.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000129929424) |
 | Senior Solutions Architect, AI / Core DevOps - EMEA | [GitLab](https://about.gitlab.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8468159002) |
 | Programmeur Backend DevOps Senior - Contrat | [Kabam](https://kabam.com) | — | Jun 2 | [Apply](https://jobs.lever.co/kabam/e69d8d83-72c8-4fe8-a54f-98ce986517fa) |
 | Senior Backend DevOps Programmer - Contract | [Kabam](https://kabam.com) | — | Jun 2 | [Apply](https://jobs.lever.co/kabam/1a30217b-bf23-4cc3-a75d-5ce0b212879c) |
