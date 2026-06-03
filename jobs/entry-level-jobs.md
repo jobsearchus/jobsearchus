@@ -2,20 +2,26 @@
 
 Remote jobs open to candidates with 0–2 years of experience. A real way in — no degree gatekeeping.
 
-**822 open roles** — Last updated: 2026-06-03
+**828 open roles** — Last updated: 2026-06-03
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Alternance - Contrôleur de Gestion F/H/X | [BUT](https://but.fr) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000130027340) |
 | Stagiaire Commercial F&B - Septembre 2026 (H/F/NB) | [ACCOR](https://group.accor.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000129960659) |
 | EN - Security Agent | [ACCOR](https://group.accor.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000129960549) |
 | Business Support Medewerker  | [Drees & Sommer](https://dreso.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000129956071) |
 | PMO Junior | [Inetum](https://inetum.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000129956419) |
+| Marketplace Sales Trainee | [SPRINTER MEGACENTROS DEL DEP](https://sprinter.es) | — | Jun 3 | [Apply](https://job-boards.eu.greenhouse.io/sprintersportses/jobs/4881207101) |
+| Marketplace Account Trainee | [SPRINTER MEGACENTROS DEL DEP](https://sprinter.es) | — | Jun 3 | [Apply](https://job-boards.eu.greenhouse.io/sprintersportses/jobs/4881196101) |
+| Software Engineer Ⅰ | [Flexport](https://flexport.com) | — | Jun 3 | [Apply](https://boards.greenhouse.io/flexport/jobs/7978696?gh_jid=7978696) |
 | MAGASINIER /Entretien (H/F) CDI 24H | [Genpak LLC](https://genpak-llc-2) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129932847) |
 | Vendeur(euse) en boulangerie pâtisserie (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129932535) |
 | Junior Securitisation Accountant | [IQ-EQ](https://iqeq.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000129932179) |
 | MODELE INTERMARCHE - Employé(e) Commercial(e) H/F - Contrat de professionnalisation -  | [Genpak LLC](https://genpak-llc-2) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129929522) |
+| Software Engineer I | [Flexport](https://flexport.com) | — | Jun 3 | [Apply](https://boards.greenhouse.io/flexport/jobs/7978127?gh_jid=7978127) |
+| Governance Lead | [Wolt](https://wolt.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7975954) |
 | Supply Chain Management Intern | [Continental](https://continentalserves.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000129921531) |
 | Associate - Content (Digest) | [Groww](https://groww.in) | — | Jun 3 | [Apply](https://job-boards.eu.greenhouse.io/groww/jobs/4880153101) |
 | Clinical Data Review Assistant - Temp | [Natera](https://natera.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/natera/jobs/6009667004) |

@@ -2,12 +2,17 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**293 open roles** — Last updated: 2026-06-03
+**298 open roles** — Last updated: 2026-06-03
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Head of SEO (maternity cover) | [LinkedIn Job Wrapping](https://artefact.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/artefactlinkedin/jobs/8574707002) |
+| Lead Associate Account Director | [The Trade Desk](https://thetradedesk.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5132740007) |
+| Communication Specialist | [Gameloft](https://gameloft.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/Gameloft/postings/744000130019018) |
+| Education Growth Lead - MENAP | [Canva](https://canva.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001129745) |
+| Account Director, Social  | [WPP Media](https://wppmedia.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5226374008) |
 | ATL Marketing Manager (f/m/x) | [AUTO1 Group](https://auto1-group.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000129952589) |
 | Head of Communications | [Mayflower](https://mayflowervisa.com) | — | Jun 3 | [Apply](https://mayflower.recruitee.com/o/head-of-communications-1/c/new) |
 | Senior Manager, Marketing Operations | [Zapier](https://zapier.com) | — | Jun 2 | [Apply](https://jobs.ashbyhq.com/zapier/09eb1ac8-2a49-44e0-8463-bfa6e72000cf) |

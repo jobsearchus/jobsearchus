@@ -2,12 +2,15 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**555 open roles** — Last updated: 2026-06-03
+**558 open roles** — Last updated: 2026-06-03
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Director, HR Business Partner - Marketing & Product  | [Freshworks](https://freshworks.com) | $246K–$305K/yr | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000130072302) |
+| Director, Global Payroll | [Ping Identity](https://pingidentity.com) | $131K–$188K/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/pingidentity/jobs/8574170002) |
+| Senior Producer, Breaking News Specials (Weekends) | [NBCUniversal](https://nbcuniversal.com) | $125K–$170K/yr | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130028778) |
 | Product Strategy & Operations | [Vercel](https://vercel.com) | $232K–$348K/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/vercel/jobs/6011651004) |
 | Senior Director, Product Design | [Clear Gene](https://cleargene.com) | $210K–$270K/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/clear/jobs/7964000) |
 | VP of Security  | [Serve Robotics](https://serverobotics.com) | $220K–$340K/yr | Jun 2 | [Apply](https://jobs.ashbyhq.com/serverobotics/4d4bcc79-2f1d-4cda-9286-ef76bc39abb4) |

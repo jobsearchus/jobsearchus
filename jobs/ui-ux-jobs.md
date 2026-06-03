@@ -2,7 +2,7 @@
 
 UX design, UI design, and product design roles. Figma, research, and end-to-end product work.
 
-**121 open roles** — Last updated: 2026-06-03
+**122 open roles** — Last updated: 2026-06-03
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -14,6 +14,7 @@ UX design, UI design, and product design roles. Figma, research, and end-to-end 
 | Senior Director, Product Design | [Clear Gene](https://cleargene.com) | $210K–$270K/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/clear/jobs/7964000) |
 | Intermediate Human Factors & Ergonomics Specialist | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $80K–$95K/yr | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000129845489) |
 | Architectural Designer  | [xAI](https://x.ai) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/xai/jobs/5149595007) |
+| Leasing Specialist - Casa Sueno's  | [Avanath Capital Management](https://avanath.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/communitymanager/jobs/5153079007) |
 | Designer, Show/Set | [NBCUniversal](https://nbcuniversal.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000129784849) |
 | Contract Technical Cinematic Designer | [Mob Entertainment](https://mobentertainment.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/mobentertainment/jobs/5152392007) |
 | Senior UX/UI Design Lead | [teamLFG](https://teamlfg.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/teamlfg/jobs/6010239004) |

@@ -2,12 +2,14 @@
 
 Backend, server-side, and API engineering roles. Node.js, Python, Go, Ruby, Java and beyond.
 
-**56 open roles** — Last updated: 2026-06-03
+**58 open roles** — Last updated: 2026-06-03
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Staff Software Engineer – Backend (Python / Typescript / Big Data / AWS / Kubernetes) | [Varicent](https://varicent.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/varicent/jobs/5240133008) |
+| Staff Software Engineer – Backend (Python / Typescript / Big Data / AWS / Kubernetes) | [Varicent](https://varicent.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/varicent/jobs/5239883008) |
 | Software Engineer II, Backend (Capital Orchestration) | [Affirm](https://affirm.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7749755003) |
 | Software Engineer II, Backend (Capital Orchestration) | [Affirm](https://affirm.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7749753003) |
 | Senior Back End Engineer | [Oddball](https://oddball.com) | $100K–$140K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/oddball/jobs/7760578003) |

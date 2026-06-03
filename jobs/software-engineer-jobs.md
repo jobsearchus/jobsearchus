@@ -2,27 +2,46 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**1253 open roles** — Last updated: 2026-06-03
+**1272 open roles** — Last updated: 2026-06-03
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Python engineer (All Genders) | [Dailymotion](https://dailymotion.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/Dailymotion/postings/744000130057659) |
+| Senior System Engineering Analyst, System-of-Systems Engineering | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $90K–$120K/yr | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000130035079) |
+| Production Support Engineer – CCaaS | [Miratech](https://miratech.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000130031931) |
+| IT Solutions Consultant | [University of Notre Dame](https://universityofnotredame.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013445966) |
 | Content Marketing Manager | [Socure](https://socure.com) | — | Jun 3 | [Apply](https://jobs.ashbyhq.com/socure/eb900ba1-8fc5-401b-83bc-d9742f30f98e) |
+| Senior Amazon Connect  | [Miratech](https://miratech.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000129990512) |
+| Adobe Enterprise Architect | [VML](https://vml.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/vmlenterprisesolutions/jobs/8570568002) |
 | Director Engineering | [SingleStore](https://singlestore.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/singlestore/jobs/7977111) |
+| Senior Staff Engineer, Teamcenter  | [Nagarro](https://nagarro.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000129969819) |
+| DC Industrial Engineer | [takealot.com](https://takealot.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/takealotcom/jobs/7971988) |
 | Deputy HSE Manager - MEP | [BESIX](https://besix.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000129950521) |
+| Enterprise Customer Engineer, Thailand | [Cloudflare](https://cloudflare.com) | — | Jun 3 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7956846?gh_jid=7956846) |
+| Software Engineer Ⅰ | [Flexport](https://flexport.com) | — | Jun 3 | [Apply](https://boards.greenhouse.io/flexport/jobs/7978696?gh_jid=7978696) |
+| Customer Engineer, Digital Native | [Cloudflare](https://cloudflare.com) | — | Jun 3 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7956851?gh_jid=7956851) |
+| Senior Staff Engineer, Salesforce Health Cloud | [Nagarro](https://nagarro.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000129940321) |
+| Senior Staff Engineer, Salesforce Health Cloud | [Nagarro](https://nagarro.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000129939834) |
 | AI Data Operations Manager | [HackerRank](https://hackerrank.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/hackerrank/jobs/7959598) |
+| Delivery Manager | [Cloudflare](https://cloudflare.com) | — | Jun 3 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7962540?gh_jid=7962540) |
 | Alternant Etude hydraulique urbaine | [Egis](https://egis-group.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000129929000) |
 | Responsable VRD confirmé Projets Aménagement urbain- Transport urbain  H/F | [Egis](https://egis-group.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000129929185) |
+| Software Engineer I | [Flexport](https://flexport.com) | — | Jun 3 | [Apply](https://boards.greenhouse.io/flexport/jobs/7978127?gh_jid=7978127) |
 | Staff Engineer, SAP CPI | [Nagarro](https://nagarro.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000129925589) |
 | Staff Engineer, SAP ARIBA | [Nagarro](https://nagarro.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000129924679) |
 | Senior Officer (Data Analytics), Asset Owner Solutions | [IQ-EQ](https://iqeq.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000129919860) |
 | Tyre Fitter | [Anglo American](https://angloamerican.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000129921079) |
 | Auto Electrician | [Anglo American](https://angloamerican.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000129920210) |
 | HSE Advisor Vlaanderen | [BESIX](https://besix.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000129920320) |
+| Member Of Technical Staff - Drive Qual | [Pure Storage](https://purestorage.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/7929682) |
+| Member of Technical Staff - Firmware Engineer | [Pure Storage](https://purestorage.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/7925875) |
 | Senior Specialist Consultant Billing | [Experian](https://experianplc.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000129915475) |
 | Senior Consultant, Billing | [Experian](https://experianplc.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000129915459) |
+| Escalation Engineer - ZTB | [Zscaler](https://zscaler.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5102802007) |
 | Senior / Staff Technical Program Manager - Datacenter Capacity Delivery (E2E)  | [Cerebras Systems](https://cerebras.net) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/cerebrassystems/jobs/7762063003) |
+| Lead Technical Enablement Engineer | [Zscaler](https://zscaler.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5149189007) |
 | Certified Occupational Therapy Assistant, COTA | [InHomeTherapy](https://inhometherapy.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/inhometherapy/jobs/5153064007) |
 | #EG Data Solution Architect | [NCS](https://ncs.co) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001127779) |
 | Systems Architect Engineer  | [Momentus](https://momentus.space) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/momentus/jobs/6011970004) |

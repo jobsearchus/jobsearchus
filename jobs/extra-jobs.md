@@ -2,12 +2,19 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**861 open roles** — Last updated: 2026-06-03
+**873 open roles** — Last updated: 2026-06-03
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Director Adjunct de Magazin  Oltul, Slatina | [JYSK](https://jysk.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000130056618) |
+| Verkäufer/in (a) 40% in der Filiale St. Gallen | [JYSK](https://jysk.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000130054229) |
+|  Vice Store Manager 40 h - Sassari | [JYSK](https://jysk.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000130033229) |
+| Account Manager, Wolt for Work | [Wolt](https://wolt.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7978747) |
+| Enterprise Field Engineer - Adobe | [VML](https://vml.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/vmlenterprisesolutions/jobs/8570836002) |
+| Manager, Product Support | [Zscaler](https://zscaler.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5153940007) |
+| Copy of Consulting Manager (m/f/d) Daten- & KI-Strategie | [LinkedIn Job Wrapping](https://artefact.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/artefactlinkedin/jobs/8576197002) |
 | Qualified dental nurse  | [PortmanDentex](https://portmandentex.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000129970417) |
 | Business Analyst with French | [Inetum](https://inetum.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000129959137) |
 | Sales Manager MICE (M/F/NB) | [ACCOR](https://group.accor.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000129961249) |
@@ -17,6 +24,8 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Clinical Manager | [PortmanDentex](https://portmandentex.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000129952889) |
 | CUISINIER(E) H/F | [Genpak LLC](https://genpak-llc-2) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129941139) |
 | Senior Baumanager (w/m/d) Objektüberwachung & Projektakquise | [Drees & Sommer](https://dreso.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000129940769) |
+| IT Consultant (f/m) | [Netcompany](https://netcompany.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000129925932) |
+| Rehabilitation Consultant | [Genpak LLC](https://genpak-llc-2) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/APMGroup/postings/6000000001129453) |
 | Associate - Content (Digest) | [Groww](https://groww.in) | — | Jun 3 | [Apply](https://job-boards.eu.greenhouse.io/groww/jobs/4880153101) |
 | Clinical Oncology Specialist, Breast  | [Natera](https://natera.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/natera/jobs/6008648004) |
 | Certified Occupational Therapy Assistant, COTA | [InHomeTherapy](https://inhometherapy.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/inhometherapy/jobs/5153074007) |
@@ -66,8 +75,11 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Clinical Lab Operator I - Temp | [Natera](https://natera.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/natera/jobs/5997402004) |
 | Phlebotomist Test Coordinator - Bayonne, NJ  | [Natera](https://natera.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/natera/jobs/6010340004) |
 | Quality Specialist | [Mable](https://trymable.com) | — | Jun 1 | [Apply](https://jobs.lever.co/mable/807a4829-c28e-4c20-b289-a2ca4c219702) |
+| Aircraft Mechanic Instructor Weekend  | [Aviation Institute of Maintenance](https://aviationmaintenance.edu) | $32/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/aviationinstituteofmaintenance/jobs/5238448008) |
 | QA Analyst - LOIS for Word | [Filevine](https://filevine.com) | — | Jun 1 | [Apply](https://jobs.lever.co/filevine/cdefa733-47b0-4cec-a877-cb6fdf4e063c) |
 | Implementation Consultant - Billing | [Zuora](https://zuora.com) | — | Jun 1 | [Apply](https://boards.greenhouse.io/zuora/jobs/7966282?gh_jid=7966282) |
+| A&P Instructor (Part-Time) | [Aviation Institute of Maintenance](https://aviationmaintenance.edu) | $41/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/aviationinstituteofmaintenance/jobs/5238430008) |
+| AMT Instructor* | [Aviation Institute of Maintenance](https://aviationmaintenance.edu) | $36/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/aviationinstituteofmaintenance/jobs/5238424008) |
 | Aircraft Maintenance Instructor (A&P Mechanic) | [Aviation Institute of Maintenance](https://aviationmaintenance.edu) | $35/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/aviationinstituteofmaintenance/jobs/5238416008) |
 | Cleared DevOps Engineer | [Accenture Federal Services](https://accenturefederalservices.com) | — | Jun 1 | [Apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4685954006?gh_jid=4685954006) |
 | Temporary - Patient Care Assistant | [University of Notre Dame](https://universityofnotredame.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013408851) |

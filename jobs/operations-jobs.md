@@ -2,17 +2,29 @@
 
 Remote operations and business operations roles across industries.
 
-**864 open roles** — Last updated: 2026-06-03
+**878 open roles** — Last updated: 2026-06-03
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Ticketing Associate Director | [University of Notre Dame](https://universityofnotredame.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013454426) |
+| AZ Night Linehaul Great Wages!! | [Manitoulin Global Forwarding](https://manitoulingroup.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000130070049) |
+| Analista de Control Desk - Traffic & Real Time | [Experian](https://experianplc.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000130048695) |
+| Digital Operations Supervisor | [NBCUniversal](https://nbcuniversal.com) | $92K–$110K/yr | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130033384) |
+| Director, Global Payroll | [Ping Identity](https://pingidentity.com) | $131K–$188K/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/pingidentity/jobs/8574170002) |
+| Automotive Technician / Mechanic - Up To $50/hr. & Weekends Off - Katy Grand Parkway | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | $50/yr | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000130009376) |
 | Senior Manager of Major Projects | [Clear Gene](https://cleargene.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/clear/jobs/7921900) |
+| Systems Ops Administrator | [Twilio](https://twilio.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7837165) |
+| Global Operations Manager | [VML MAP](https://vml-map.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/map/jobs/8576095002) |
 | Transition Manager (Centre de Service) H/F | [Inetum](https://inetum.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000129953869) |
+| Operations Data Analyst | [takealot.com](https://takealot.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/takealotcom/jobs/7965438) |
 | MAGASINIER /Entretien (H/F) CDI 24H | [Genpak LLC](https://genpak-llc-2) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129932847) |
+| Governance Lead | [Wolt](https://wolt.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7975954) |
 | Supply Chain Management Intern | [Continental](https://continentalserves.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000129921531) |
 | Head of Controls (f/m/x) | [Marvel Fusion](https://marvelfusion.com) | — | Jun 3 | [Apply](https://job-boards.eu.greenhouse.io/marvelfusion/jobs/4881090101) |
+| Ausbildung als Mechatroniker (w/m/d) | [Avery Dennison](https://averydennison.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000129917306) |
+| Regional Support Coordinator | [Genpak LLC](https://genpak-llc-2) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/APMGroup/postings/6000000001128698) |
 | Enterprise Support Specialist, Korean Speaking (Singapore) | [Figma](https://figma.com) | — | Jun 3 | [Apply](https://boards.greenhouse.io/figma/jobs/6010954004?gh_jid=6010954004) |
 | Director / Senior Director, Critical Facility Operations  | [Cerebras Systems](https://cerebras.net) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/cerebrassystems/jobs/7762028003) |
 | Facilities Lead | [Momentus](https://momentus.space) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/momentus/jobs/6012012004) |
@@ -30,9 +42,11 @@ Remote operations and business operations roles across industries.
 | Landscaper | [Distro](https://distro.app) | — | Jun 2 | [Apply](https://jobs.lever.co/distro/758287b1-aab3-4252-af5e-0923e2a42b7b) |
 | Freight Forwarding Logistic Operator (Korean Bilingual) | [SBT Global](https://sbtglobal.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/SBTGlobalInc/postings/3743990013428576) |
 | SF Office Manager (Contract) | [Phantom](https://phantom.com) | $63/yr | Jun 2 | [Apply](https://jobs.ashbyhq.com/phantom/6ecf08ea-6292-4673-a636-3e2a852ed027) |
+|  Logistics Business Support (Korean Bilingual) | [SBT Global](https://sbtglobal.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/SBTGlobalInc/postings/3743990013427784) |
 | Global Deputy DPO | [Volito Aviation August 2007](https://trustly.com) | — | Jun 2 | [Apply](https://jobs.lever.co/trustly/97bfddaa-7267-4618-ab12-1e9faf7d4bc8) |
 | Global Privacy Operations Manager | [Volito Aviation August 2007](https://trustly.com) | — | Jun 2 | [Apply](https://jobs.lever.co/trustly/ca20f8b5-18ea-4fdb-8db9-d787e6737c37) |
 | Pâtissier (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129807305) |
+| Senior Manager, Inventory Management | [The Trade Desk](https://thetradedesk.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5152765007) |
 | Director, Supply Chain & Strategy | [ŌURA](https://ouraring.com) | $226K–$266K/yr | Jun 2 | [Apply](https://job-boards.greenhouse.io/oura/jobs/4266450009) |
 | Representative, Contracts  | [NBCUniversal](https://nbcuniversal.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000129782815) |
 | Service Delivery Manager | [bswift](https://bswift.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/bswift/jobs/4685886006) |

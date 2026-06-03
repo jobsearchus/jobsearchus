@@ -2,17 +2,29 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**748 open roles** — Last updated: 2026-06-03
+**760 open roles** — Last updated: 2026-06-03
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Chef des ventes F/H/X | [BUT](https://but.fr) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000130054319) |
+| SI Partner Manager - Germany | [Freshworks](https://freshworks.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000130041939) |
+| Lead - Account Executive | [Freshworks](https://freshworks.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000130007655) |
+| Partner Renewal Specialist | [Diligent Corporation](https://diligent.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/diligentcorporation/jobs/6003960004) |
 | Strategic Account Executive  - BeLux | [GitLab](https://about.gitlab.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8575027002) |
+| Designer | [VML MAP](https://vml-map.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/map/jobs/8576115002) |
 | Consulente Commerciale B2C – Bonus Garantito per i Primi 3 Mesi | [AUTO1 Group](https://auto1-group.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000129954175) |
+| Marketplace Sales Trainee | [SPRINTER MEGACENTROS DEL DEP](https://sprinter.es) | — | Jun 3 | [Apply](https://job-boards.eu.greenhouse.io/sprintersportses/jobs/4881207101) |
+| Marketplace Account Trainee | [SPRINTER MEGACENTROS DEL DEP](https://sprinter.es) | — | Jun 3 | [Apply](https://job-boards.eu.greenhouse.io/sprintersportses/jobs/4881196101) |
 | Consultor/a de Ventas - Automoción | [AUTO1 Group](https://auto1-group.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000129944229) |
+| Account Manager | [Gameloft](https://gameloft.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/Gameloft/postings/744000129940250) |
 | Vendeur(euse) en boulangerie pâtisserie (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129932535) |
+| Sales Manager Intelligent Labels | [Avery Dennison](https://averydennison.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000129932319) |
+| Part Time Sales Assistant (5 uur) | [JD Sports](https://jdsports.com) | — | Jun 3 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4881136101) |
+| Sales Manager Intelligent Labels | [Avery Dennison](https://averydennison.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000129932219) |
 | MODELE INTERMARCHE - Employé(e) Commercial(e) H/F - Contrat de professionnalisation -  | [Genpak LLC](https://genpak-llc-2) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129929522) |
+| Senior Sales Manager (Digital Advertising) - X | [Aleph](https://aleph.vc) | — | Jun 3 | [Apply](https://jobs.lever.co/aleph/2cd68cf8-2096-4da5-8993-b486e49eff78) |
 | Account Manager - SaaS - Hybrid | [Experian](https://experianplc.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000129917339) |
 | Account Manager, Expansion | [Roofr](https://roofr.com) | $75K–$85K/yr | Jun 2 | [Apply](https://job-boards.greenhouse.io/roofr/jobs/4702132005) |
 | Manager, Contract Management | [Ashby](https://ashbyhq.com) | — | Jun 2 | [Apply](https://jobs.ashbyhq.com/ashby/206c6a86-74e3-4fcf-9175-fdfe07858676) |

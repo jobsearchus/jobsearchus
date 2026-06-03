@@ -2,12 +2,14 @@
 
 QA, test automation, and SDET roles. Manual and automated testing across all stacks.
 
-**40 open roles** — Last updated: 2026-06-03
+**42 open roles** — Last updated: 2026-06-03
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Software Test Engineer, Intermediate/Working Level  | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $78K–$105K/yr | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000130011188) |
+| Manual QA engineer  | [BrainRocket](https://brainrocket.com) | — | Jun 3 | [Apply](https://job-boards.eu.greenhouse.io/brainrocketltd/jobs/4881435101) |
 | QA Automation Engineer | [Applaudo](https://applaudo.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/ApplaudoStudios/postings/744000129871078) |
 | Senior Automation QA Engineer (Python) | [Miratech](https://miratech.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000129726197) |
 | Propulsion and Energetics Test Engineer II | [Inversion Space](https://inversionspace.com) | $106K–$150K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/inversionspace/jobs/4701556005) |

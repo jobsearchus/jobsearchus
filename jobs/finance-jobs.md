@@ -2,16 +2,20 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**379 open roles** — Last updated: 2026-06-03
+**383 open roles** — Last updated: 2026-06-03
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Alternance - Contrôleur de Gestion F/H/X | [BUT](https://but.fr) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000130027340) |
 | COMPTABLE (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129943260) |
 | Head, Provincial, Commercial Asset Finance, (Limpopo & Mpumalanga) | [Standard Bank](https://standardbank.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000129943611) |
+| Technical Project Manager (all genders) - Autonomous Driving | [MOIA](https://moia.io) | — | Jun 3 | [Apply](https://job-boards.eu.greenhouse.io/moia/jobs/4881160101) |
 | Junior Securitisation Accountant | [IQ-EQ](https://iqeq.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000129932179) |
 | Head of Finance South-East Europe (SEE) | [Continental](https://continentalserves.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000129924069) |
+| Financial Manager – TFS (Fixed-Term Maternity Cover) | [takealot.com](https://takealot.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/takealotcom/jobs/7978470) |
+| Accounting Manager (m/w/d) | [LinkedIn Job Wrapping](https://artefact.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/artefactlinkedin/jobs/8574901002) |
 | Commercial Finance Specialist | [Anglo American](https://angloamerican.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000129919524) |
 | Manager, Depositary - HMO on Day 1 - HYBRID Setup | [IQ-EQ](https://iqeq.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000129908881) |
 | Crypto Compliance Lead | [Robinhood](https://robinhood.com) | — | Jun 2 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7976912?t=gh_src=&gh_jid=7976912) |
