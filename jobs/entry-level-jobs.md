@@ -2,20 +2,28 @@
 
 Remote jobs open to candidates with 0–2 years of experience. A real way in — no degree gatekeeping.
 
-**796 open roles** — Last updated: 2026-06-02
+**804 open roles** — Last updated: 2026-06-03
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Chargebacks Analyst (Brazil) | [Signifyd](https://signifyd.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/signifyd95/jobs/7961838) |
+| Chargebacks Analyst | [Signifyd](https://signifyd.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/signifyd95/jobs/7961843) |
 | Full Time Housekeeper (AM) | [Silverado](https://silverado.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/silverado/jobs/5153262007) |
 | Full Time Hospice Licensed Vocational Nurse, LVN | [Silverado](https://silverado.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/silverado/jobs/5151635007) |
+| HGV 1 Night Drivers | [Adam](https://adam.new) | £20/yr | Jun 2 | [Apply](https://jobs.moredriversolutions.ltd.uk/o/hgv-1-night-drivers-4/c/new) |
 | APPRENTIS POISSONNIER-ÉCAILLER | [Genpak LLC](https://genpak-llc-2) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129806842) |
+| Brigáda - Asistent/ka prodeje - Ceske Budejovic | [Frasers Group](https://frasersgroup.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000129799952) |
+| Asistent/ka prodeje na poloviční úvazek 20hod/týd - Ceske Budejovic | [Frasers Group](https://frasersgroup.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000129802779) |
 | Praktikant/Werkstudent (w/m/d) Projektmanagement Verkehrsinfrastruktur & Mobilität | [Drees & Sommer](https://dreso.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000129787209) |
 | Product Engineer 1 | [AHEAD](https://ahead.com) | — | Jun 2 | [Apply](https://jobs.lever.co/thinkahead/e7ad3413-bcb6-4c19-9632-89ad7b5e5146) |
 | Maintenance Apprentice (Illinois) | [Continental](https://continentalserves.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000129778824) |
 | Dutch Customer Service Agent | [MSX International](https://msxi.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013418346) |
 | Junior Software Engineering Developer (New Grad) | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $72K–$85K/yr | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000129774969) |
+| Staffing Specialist | [OpenWork](https://openworklabs.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/openwork/jobs/4254349009) |
+| Facilities Coordinator | [OpenWork](https://openworklabs.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/openwork/jobs/4257183009) |
+| Intercity Bus and Coach Driver (Night Shift) - Dundee | [Ember](https://embercopilot.ai) | £16/yr | Jun 2 | [Apply](https://ember.recruitee.com/o/intercity-bus-and-coach-driver-night-shift-dundee/c/new) |
 |  RETAIL ASSISTANT - WEEKEND  | [Primark Tiendas SLU](https://primark.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000129741890) |
 | Seasonal Sales Associate - Weekends | [Primark Tiendas SLU](https://primark.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000129740218) |
 | SPRZEDAWCA / SPRZEDAWCZYNI JYSK KOŁOBRZEG 1/2 ETATU (2600 PLN BRUTTO) | [JYSK](https://jysk.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000129739919) |

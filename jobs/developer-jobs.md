@@ -2,12 +2,14 @@
 
 General developer and programmer roles that did not fit a more specific category.
 
-**83 open roles** — Last updated: 2026-06-02
+**85 open roles** — Last updated: 2026-06-03
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Founding Developer Relations Lead | [Kraken](https://kraken.com) | — | Jun 2 | [Apply](https://jobs.ashbyhq.com/kraken.com/914f1f62-1cd2-453a-907a-55a536f68327) |
+| Founding Developer Relations Lead | [Kraken](https://kraken.com) | — | Jun 2 | [Apply](https://jobs.ashbyhq.com/kraken.com/910d9a56-03ef-4386-9e56-d9de5b347ef2) |
 | Senior Developer | [Veeam Software](https://veeam.com) | — | Jun 2 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4880638101) |
 | CNC Programmer | [Layup](https://layuplabs.ai) | — | Jun 1 | [Apply](https://jobs.lever.co/layup/9b886fd5-ce22-4942-9821-013749fb8237) |
 | Web Application Developer Sr | [AnaVation](https://anavation.com) | — | Jun 1 | [Apply](https://jobs.lever.co/anavationllc/a1c8ac01-a158-485b-9c32-e94eb0f73423) |

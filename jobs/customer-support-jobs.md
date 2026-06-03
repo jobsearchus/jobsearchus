@@ -2,17 +2,22 @@
 
 Remote customer support and success roles across SaaS, e-commerce, and tech.
 
-**224 open roles** — Last updated: 2026-06-02
+**229 open roles** — Last updated: 2026-06-03
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| POS Customer Success Manager  (US/Canada) | [Owner.com](https://owner.com) | $90K–$100K/yr | Jun 2 | [Apply](https://jobs.ashbyhq.com/Owner/a631a8ac-1dae-4551-acd1-4de48681a27d) |
+| Technical Support Specialist | [Mozilla](https://mozilla.org) | $67K–$77K/yr | Jun 2 | [Apply](https://job-boards.greenhouse.io/mozilla/jobs/7977509) |
+| Technical Support Specialist | [Mozilla](https://mozilla.org) | $57K–$67K/yr | Jun 2 | [Apply](https://job-boards.greenhouse.io/mozilla/jobs/7977508) |
+| Technical Support Specialist | [Mozilla](https://mozilla.org) | $67K–$77K/yr | Jun 2 | [Apply](https://job-boards.greenhouse.io/mozilla/jobs/7977482) |
 | Dutch Customer Service Agent | [MSX International](https://msxi.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013418346) |
 | Customer Support Specialist | [Diligent Corporation](https://diligent.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/diligentcorporation/jobs/6010978004) |
 | VIP Customer Support Quality Control  | [Genpak LLC](https://genpak-llc-2) | — | Jun 2 | [Apply](https://job-boards.eu.greenhouse.io/growetalents/jobs/4872649101) |
 | (Asst.) Customer Service Officer | [Avery Dennison](https://averydennison.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000129635654) |
 | Customer Service Officer | [Avery Dennison](https://averydennison.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000129620529) |
+| Technical Support Specialist - Core Apps | [Smartsheet](https://smartsheet.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/smartsheet/jobs/7974905) |
 | Analista de Experiência do Cliente I  | [Experian](https://experianplc.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000129592159) |
 | Technical Trainer, EMEA (London Office) | [Amplitude](https://amplitude.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/amplitude/jobs/8573721002) |
 | Costumer Care Coordinator | [Distro](https://distro.app) | — | Jun 1 | [Apply](https://jobs.lever.co/distro/9d2eaf92-7eb1-4b46-9d7b-96df29d9abef) |

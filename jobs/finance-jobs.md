@@ -2,13 +2,17 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**365 open roles** — Last updated: 2026-06-02
+**369 open roles** — Last updated: 2026-06-03
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | Senior Director, SEC Reporting & Technical Accounting | [ŌURA](https://ouraring.com) | $232K–$273K/yr | Jun 2 | [Apply](https://job-boards.greenhouse.io/oura/jobs/4266486009) |
+| AP Specialist  | [Splice](https://splice.com) | $60K–$75K/yr | Jun 2 | [Apply](https://job-boards.greenhouse.io/splice/jobs/8575510002) |
+| Affirm Bank Compliance Lead, CRA and Complaints | [Affirm](https://affirm.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7752003003) |
+| Product Manager, Stablecoin & Digital Assets | [Jeeves](https://tryjeeves.com) | — | Jun 2 | [Apply](https://jobs.lever.co/tryjeeves/e1f64ae7-253f-4670-93aa-8a84abd0959c) |
+| Third Party Risk Manager (FTC) | [Monzo](https://monzo.com) | £71K–£97K/yr | Jun 2 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7893700) |
 |  Senior Manager, MLCO & CO  | [IQ-EQ](https://iqeq.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000129815369) |
 | Private Banking Relationship Manager | [Standard Bank](https://standardbank.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000129811558) |
 | Credit Origination Manager | [Standard Bank](https://standardbank.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000129798029) |

@@ -2,26 +2,38 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**533 open roles** — Last updated: 2026-06-02
+**545 open roles** — Last updated: 2026-06-03
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Deputy Chief Information Security Officer - Bank | [Mercury](https://mercury.com) | $270K–$354K/yr | Jun 2 | [Apply](https://job-boards.greenhouse.io/mercury/jobs/6011827004) |
+| Partner Solutions Engineer | [Drata](https://drata.com) | $187K–$231K/yr | Jun 2 | [Apply](https://jobs.ashbyhq.com/drata/475934cf-a528-4c6e-a1e1-d6bcfc10d460) |
 | Partner Solutions Engineer | [Hightouch](https://hightouch.com) | $180K–$220K/yr | Jun 2 | [Apply](https://job-boards.greenhouse.io/hightouch/jobs/6011820004) |
 | Senior Director, SEC Reporting & Technical Accounting | [ŌURA](https://ouraring.com) | $232K–$273K/yr | Jun 2 | [Apply](https://job-boards.greenhouse.io/oura/jobs/4266486009) |
+| Senior Sales Operations Manager | [HackerOne](https://hackerone.com) | $153K–$175K/yr | Jun 2 | [Apply](https://jobs.ashbyhq.com/hackerone/83c78401-3e24-48d8-8d49-16f7f9941a2f) |
+| Full Stack Engineer, Guardian Monitoring | [LaunchDarkly](https://launchdarkly.com) | $171K–$235K/yr | Jun 2 | [Apply](https://job-boards.greenhouse.io/launchdarkly/jobs/7761616003) |
 | Project Manager (Healthcare) | [JRM Construction Management, LLC](https://jrmcm.com) | $150K–$200K/yr | Jun 2 | [Apply](https://job-boards.greenhouse.io/jrmconstructionmanagementllc/jobs/4686033006) |
+| Senior AI Product Engineer, Frameworks | [Drata](https://drata.com) | $167K–$226K/yr | Jun 2 | [Apply](https://jobs.ashbyhq.com/drata/16a05c2f-c8a2-47c5-995b-9a817a8955ba) |
 | Founding Solutions Architect | [Vantage](https://vantage.com) | $145K–$180K/yr | Jun 2 | [Apply](https://jobs.ashbyhq.com/vantage/88375a50-b21a-4745-8fc6-a6ba11d97d9d) |
 | Founding Forward Deployed Engineer | [Vantage](https://vantage.com) | $145K–$180K/yr | Jun 2 | [Apply](https://jobs.ashbyhq.com/vantage/67cfe507-3e6b-4c39-b2f7-9d900c59aa60) |
+| Senior Salesforce Administrator | [Webflow](https://webflow.com) | $125K–$150K/yr | Jun 2 | [Apply](https://job-boards.greenhouse.io/webflow/jobs/7973085) |
 | Senior Scientist, Molecular Biology  | [Flagship Pioneering, Inc.](https://flagshippioneering.com) | $126K–$182K/yr | Jun 2 | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8568486002?gh_jid=8568486002) |
+| Senior Events & Field Marketing Manager, Conference Production & Operations | [Temporal](https://temporal.io) | $155K–$195K/yr | Jun 2 | [Apply](https://job-boards.greenhouse.io/temporaltechnologies/jobs/5152693007) |
+| Senior Events & Field Marketing Manager, Developer Conference Programming | [Temporal](https://temporal.io) | $155K–$195K/yr | Jun 2 | [Apply](https://job-boards.greenhouse.io/temporaltechnologies/jobs/5152734007) |
+| Senior Revenue Operations Manager  | [Sigma Computing](https://sigmacomputing.com) | $150K–$210K/yr | Jun 2 | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/7750787003) |
 | Director, Supply Chain & Strategy | [ŌURA](https://ouraring.com) | $226K–$266K/yr | Jun 2 | [Apply](https://job-boards.greenhouse.io/oura/jobs/4266450009) |
 | Director, Hardware Partnerships | [ŌURA](https://ouraring.com) | $201K–$236K/yr | Jun 2 | [Apply](https://job-boards.greenhouse.io/oura/jobs/4260098009) |
+| Benchmarking & Strategy Manager | [Robinhood](https://robinhood.com) | $102K–$160K/yr | Jun 2 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7976543?t=gh_src=&gh_jid=7976543) |
 | Security Analyst, M365/Azure Cloud  | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $100K–$115K/yr | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000129776396) |
+| Sales Development Manager - West | [Cresta](https://cresta.com) | $142K–$190K/yr | Jun 2 | [Apply](https://job-boards.greenhouse.io/cresta/jobs/5074343008) |
 | Senior Domain Engineering Specialist- VDP & Cloud | [Veeam Software](https://veeam.com) | $100K/yr | Jun 2 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4871550101) |
 | Library Learning Partnerships Manager | [Western Sydney University](https://westernsydney.edu.au) | $119K–$132K/yr | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/WesternSydneyUniversity/postings/6000000001125530) |
 | Senior Research Program Coordinator | [Western Sydney University](https://westernsydney.edu.au) | $107K–$115K/yr | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/WesternSydneyUniversity/postings/6000000001125466) |
 | Tutoring for Success Program Coordinator (Indigenous Identified Role) | [Western Sydney University](https://westernsydney.edu.au) | $107K–$115K/yr | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/WesternSydneyUniversity/postings/6000000001124820) |
 | Senior AI Engineer – Health Intelligence | [ŌURA](https://ouraring.com) | $173K–$203K/yr | Jun 2 | [Apply](https://job-boards.greenhouse.io/oura/jobs/4250676009) |
+| Futures Risk Program Manager | [Robinhood](https://robinhood.com) | $139K–$175K/yr | Jun 2 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7975474?t=gh_src=&gh_jid=7975474) |
 | Software Engineer, Ads Product  | [xAI](https://x.ai) | $150K–$350K/yr | Jun 2 | [Apply](https://job-boards.greenhouse.io/xai/jobs/5152408007) |
 | Senior Back End Engineer | [Oddball](https://oddball.com) | $100K–$140K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/oddball/jobs/7760578003) |
 | Corporate Counsel - UK | [Drata](https://drata.com) | £111K–£137K/yr | Jun 1 | [Apply](https://jobs.ashbyhq.com/drata/41b175b8-8d1c-4c90-85a4-3da92966fdf2) |

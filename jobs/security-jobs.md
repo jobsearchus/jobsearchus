@@ -2,12 +2,13 @@
 
 Remote cybersecurity, information security, and security engineering roles.
 
-**91 open roles** — Last updated: 2026-06-02
+**92 open roles** — Last updated: 2026-06-03
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Deputy Chief Information Security Officer - Bank | [Mercury](https://mercury.com) | $270K–$354K/yr | Jun 2 | [Apply](https://job-boards.greenhouse.io/mercury/jobs/6011827004) |
 | Security Analyst, M365/Azure Cloud  | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $100K–$115K/yr | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000129776396) |
 | Senior Penetration Tester | [Robinhood](https://robinhood.com) | — | Jun 1 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7939813?t=gh_src=&gh_jid=7939813) |
 | Senior Manager, Information Security | [Saviynt](https://saviynt.com) | — | Jun 1 | [Apply](https://jobs.lever.co/saviynt/6cf1ecd3-5eb7-417b-b9b5-37ceab059a3d) |

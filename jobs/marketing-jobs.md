@@ -2,13 +2,17 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**283 open roles** — Last updated: 2026-06-02
+**287 open roles** — Last updated: 2026-06-03
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Manager, Customer Marketing | [SecurityScorecard](https://securityscorecard.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/securityscorecard/jobs/7976854) |
 | Programmatic Performance Marketing Manager (f/m/x) | [AUTO1 Group](https://auto1-group.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000129810759) |
+| Senior Events & Field Marketing Manager, Conference Production & Operations | [Temporal](https://temporal.io) | $155K–$195K/yr | Jun 2 | [Apply](https://job-boards.greenhouse.io/temporaltechnologies/jobs/5152693007) |
+| Senior Events & Field Marketing Manager, Developer Conference Programming | [Temporal](https://temporal.io) | $155K–$195K/yr | Jun 2 | [Apply](https://job-boards.greenhouse.io/temporaltechnologies/jobs/5152734007) |
+| Marketing Communications Specialist | [Alex](https://alexcodes.app) | — | Jun 2 | [Apply](https://europebv.nikon.com/o/marketing-communications-specialist/c/new) |
 | Display Marketing Manager (f/m/x)  | [AUTO1 Group](https://auto1-group.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000129789779) |
 | Specialist - Sales Operations | [Anglo American](https://angloamerican.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000129754109) |
 | COMMERCIAL & MARKETING H/F - LA BASTIDE SAINT ANTOINE | [Relais & Châteaux](https://relaischateaux.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000129738229) |

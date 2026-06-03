@@ -2,12 +2,13 @@
 
 Full-stack engineering roles across product, platform, and startup companies.
 
-**39 open roles** — Last updated: 2026-06-02
+**40 open roles** — Last updated: 2026-06-03
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Full Stack Engineer, Guardian Monitoring | [LaunchDarkly](https://launchdarkly.com) | $171K–$235K/yr | Jun 2 | [Apply](https://job-boards.greenhouse.io/launchdarkly/jobs/7761616003) |
 | Junior / Mid-Level Full Stack Developer | [NEC Software Solutions](https://necsoftwaresolutions.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/NECSWS/postings/744000129723922) |
 | Full Stack Engineer  | [LightFeather](https://lightfeather.com) | — | May 29 | [Apply](https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5236217008) |
 | Senior Full-Stack Software Engineer, Player Experience | [Discord](https://discord.com) | $196K–$221K/yr | May 29 | [Apply](https://job-boards.greenhouse.io/discord/jobs/8497565002) |

@@ -2,7 +2,7 @@
 
 Data science, machine learning, and AI engineering roles. Python, SQL, PyTorch, and beyond.
 
-**73 open roles** — Last updated: 2026-06-02
+**73 open roles** — Last updated: 2026-06-03
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 

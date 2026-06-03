@@ -2,23 +2,34 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**721 open roles** — Last updated: 2026-06-02
+**732 open roles** — Last updated: 2026-06-03
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Partner Solutions Engineer | [Drata](https://drata.com) | $187K–$231K/yr | Jun 2 | [Apply](https://jobs.ashbyhq.com/drata/475934cf-a528-4c6e-a1e1-d6bcfc10d460) |
+| Senior Sales Operations Manager | [HackerOne](https://hackerone.com) | $153K–$175K/yr | Jun 2 | [Apply](https://jobs.ashbyhq.com/hackerone/83c78401-3e24-48d8-8d49-16f7f9941a2f) |
 | Senior Client Account Manager, Large Customer Sales (Pharma) | [Reddit](https://reddit.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/7746526) |
 | Senior Client Account Manager, Large Customer Sales (Pharma) | [Reddit](https://reddit.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/7977257) |
+| Sales Host | [Frasers Group](https://frasersgroup.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000129828367) |
+| Solutions Engineer - SLED | [Smartsheet](https://smartsheet.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/smartsheet/jobs/7977085) |
 | Senior Channel Account Executive MSP - Dutch Speaking | [Sophos](https://sophos.com) | — | Jun 2 | [Apply](https://jobs.lever.co/sophos/61873181-5ead-4b00-af13-c01f9b10970e) |
+| Business Development Representative | [Temporal](https://temporal.io) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/temporaltechnologies/jobs/5102909007) |
 | VENDEUR ALIMENTAIRE (H/F) - rayon marée | [Genpak LLC](https://genpak-llc-2) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129809269) |
+| Brigáda - Asistent/ka prodeje - Ceske Budejovic | [Frasers Group](https://frasersgroup.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000129799952) |
+| Asistent/ka prodeje na poloviční úvazek 20hod/týd - Ceske Budejovic | [Frasers Group](https://frasersgroup.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000129802779) |
+| Senior Revenue Operations Manager  | [Sigma Computing](https://sigmacomputing.com) | $150K–$210K/yr | Jun 2 | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/7750787003) |
 | Territory Sales Manager - Southern Quebec - Truck Tire | [Continental](https://continentalserves.com) | $75K–$100K/yr | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000129793709) |
 | Territory Sales Manager - Southern Quebec - Truck Tire | [Continental](https://continentalserves.com) | $75K–$100K/yr | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000129792277) |
+| Client Analyst II | [bswift](https://bswift.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/bswift/jobs/4685188006) |
 | Sales Account Executive - Middle Market (remote) | [Experian](https://experianplc.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000129782189) |
 | Account Executive – Inside Sales, Hunter (Remote) | [Experian](https://experianplc.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000129778619) |
 | Majors Account Account Executive  | [ClickUp](https://clickup.com) | — | Jun 2 | [Apply](https://jobs.ashbyhq.com/clickup/4740b979-0777-419c-be5a-5ad0d6a8464e) |
+| Sales Development Manager - West | [Cresta](https://cresta.com) | $142K–$190K/yr | Jun 2 | [Apply](https://job-boards.greenhouse.io/cresta/jobs/5074343008) |
 | #EG Sales Director, Homeland Security | [NCS](https://ncs.co) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001126015) |
 | #EG Client Services Lead | [NCS](https://ncs.co) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001125965) |
+| Représentant Commercial (H/F) secteur Nord Est | [Look After My Bills](https://lookaftermybills.com) | — | Jun 2 | [Apply](https://career.lookcycle.com/o/representant-commercial-hf-secteur-nord-est/c/new) |
 | Account Executive  | [VusionGroup SA](https://vusiongroup.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/VusionGroupSA/postings/744000129700563) |
 | Associate Business Development Director | [The Trade Desk](https://thetradedesk.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5152570007) |
 | Sales Administration Coordinator (m/w/d) | [VusionGroup SA](https://vusiongroup.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/VusionGroupSA/postings/744000129701189) |

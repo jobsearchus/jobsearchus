@@ -2,7 +2,7 @@
 
 Project and program management roles across tech, operations, and enterprise.
 
-**82 open roles** — Last updated: 2026-06-02
+**84 open roles** — Last updated: 2026-06-03
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -10,7 +10,9 @@ Project and program management roles across tech, operations, and enterprise.
 | --- | --- | --- | --- | --- |
 | Project Manager (Healthcare) | [JRM Construction Management, LLC](https://jrmcm.com) | $150K–$200K/yr | Jun 2 | [Apply](https://job-boards.greenhouse.io/jrmconstructionmanagementllc/jobs/4686033006) |
 | Project Manager - Security Services | [AHEAD](https://ahead.com) | — | Jun 2 | [Apply](https://jobs.lever.co/thinkahead/f073d810-cd46-4c1e-9029-ff90e03f719f) |
+| Project Director – Cost Management | [AECOM](https://aecom.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000129794320) |
 | Praktikant/Werkstudent (w/m/d) Projektmanagement Verkehrsinfrastruktur & Mobilität | [Drees & Sommer](https://dreso.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000129787209) |
+| VP, Program Management Director | [AECOM](https://aecom.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000129779810) |
 | Projektleiter (w/m/d) Hochbau | [Drees & Sommer](https://dreso.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000129674689) |
 | ERP Program Manager, DTG | [Pure Storage](https://purestorage.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/7920222) |
 | PSC Manager - Bluffton, SC | [Natera](https://natera.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/natera/jobs/6010342004) |

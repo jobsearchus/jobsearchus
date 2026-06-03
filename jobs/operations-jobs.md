@@ -2,23 +2,31 @@
 
 Remote operations and business operations roles across industries.
 
-**837 open roles** — Last updated: 2026-06-02
+**847 open roles** — Last updated: 2026-06-03
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Chargebacks Analyst (Brazil) | [Signifyd](https://signifyd.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/signifyd95/jobs/7961838) |
 | Maintenance Supervisor | [Crestwood Behavioral Health](https://crestwoodbehavioralhealth.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/crestwoodcareers/jobs/7761798003) |
+| Chargebacks Analyst | [Signifyd](https://signifyd.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/signifyd95/jobs/7961843) |
+| Asset Manager, Energy Storage | [xAI](https://x.ai) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/xai/jobs/5153270007) |
 | Automotive Buyer - Prototype | [Genpak LLC](https://genpak-llc-2) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/gokenamericallc/jobs/4271633009) |
 | SF Office Manager (Contract) | [Phantom](https://phantom.com) | $63/yr | Jun 2 | [Apply](https://jobs.ashbyhq.com/phantom/6ecf08ea-6292-4673-a636-3e2a852ed027) |
 | Global Deputy DPO | [Volito Aviation August 2007](https://trustly.com) | — | Jun 2 | [Apply](https://jobs.lever.co/trustly/97bfddaa-7267-4618-ab12-1e9faf7d4bc8) |
 | Global Privacy Operations Manager | [Volito Aviation August 2007](https://trustly.com) | — | Jun 2 | [Apply](https://jobs.lever.co/trustly/ca20f8b5-18ea-4fdb-8db9-d787e6737c37) |
 | Pâtissier (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129807305) |
 | Director, Supply Chain & Strategy | [ŌURA](https://ouraring.com) | $226K–$266K/yr | Jun 2 | [Apply](https://job-boards.greenhouse.io/oura/jobs/4266450009) |
+| Service Delivery Manager | [bswift](https://bswift.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/bswift/jobs/4685886006) |
+| Benchmarking & Strategy Manager | [Robinhood](https://robinhood.com) | $102K–$160K/yr | Jun 2 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7976543?t=gh_src=&gh_jid=7976543) |
 | After Sales/Service (m,w,d) | [MSX International](https://msxi.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013418196) |
 | Warranty Audit Consultant | [MSX International](https://msxi.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013417866) |
+| Staffing Specialist | [OpenWork](https://openworklabs.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/openwork/jobs/4254349009) |
+| Facilities Coordinator | [OpenWork](https://openworklabs.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/openwork/jobs/4257183009) |
 | Staff Software Engineer - Data Platform Workflow | [Canva](https://canva.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001126164) |
 | Transport Operations Director | [NBCUniversal](https://nbcuniversal.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000129757129) |
+| Operations Manager | [OpenWork](https://openworklabs.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/openwork/jobs/4254329009) |
 | SPRZEDAWCA / SPRZEDAWCZYNI JYSK KOŁOBRZEG 1/2 ETATU (2600 PLN BRUTTO) | [JYSK](https://jysk.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000129739919) |
 | STORE MANAGER TRAINEE (m/w/d) VOLLZEIT (38,5 Std) – 3107 St. Pölten | [JYSK](https://jysk.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000129737364) |
 | Site Manager – French/English – Toulouse Innovation Center (F/H/X) - CDI   | [Syngenta](https://syngenta.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000129735883) |
@@ -36,6 +44,7 @@ Remote operations and business operations roles across industries.
 | Team Manager - Ilocos | [Genpak LLC](https://genpak-llc-2) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000129653129) |
 | AV Service Delivery Specialist | [New Era Technology](https://neweratech.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8558001002) |
 | Junior Research Ops Coordinator | [Entain](https://entaingroup.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/Entain/postings/744000129649040) |
+| Futures Risk Program Manager | [Robinhood](https://robinhood.com) | $139K–$175K/yr | Jun 2 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7975474?t=gh_src=&gh_jid=7975474) |
 | Procurement Specialist (Subcontractor/Indirect) | [Avery Dennison](https://averydennison.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000129632437) |
 | Material Handler - Night Shift- 2-2-3 Schedule | [Avery Dennison](https://averydennison.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000129639933) |
 | Propulsion Technician | [Stratolaunch](https://stratolaunch.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/stratolaunch/jobs/5238458008) |
@@ -44,6 +53,7 @@ Remote operations and business operations roles across industries.
 | Graduate Environmental Consultant 2027  | [Egis](https://egis-group.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000129606539) |
 | Aircraft Maintenance Instructor (A&P Mechanic) | [Aviation Institute of Maintenance](https://aviationmaintenance.edu) | $32/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/aviationinstituteofmaintenance/jobs/5238447008) |
 | Aircraft Maintenance Instructor (A&P Mechanic) | [Aviation Institute of Maintenance](https://aviationmaintenance.edu) | $36/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/aviationinstituteofmaintenance/jobs/5238420008) |
+| Credentialing & Enrollment Associate (Remote) | [Rula](https://rula.com) | — | Jun 1 | [Apply](https://jobs.ashbyhq.com/rula/4a1cc6ac-7e93-48bc-b210-274450f885da) |
 | Service Center Team Lead | [Continental](https://continentalserves.com) | — | Jun 1 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000129599230) |
 | Facilities Technician II | [Relativity Space](https://relativityspace.com) | — | Jun 1 | [Apply](https://boards.greenhouse.io/relativity/jobs/8573785002?gh_jid=8573785002) |
 | Material Handler Supervisor | [Double Good](https://doublegood.com) | $50K–$72K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/doublegood/jobs/6010731004) |
