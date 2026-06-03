@@ -2,12 +2,15 @@
 
 Product manager roles at companies building real products. Sourced directly from career pages.
 
-**147 open roles** — Last updated: 2026-06-03
+**150 open roles** — Last updated: 2026-06-03
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Product Manager - Portugal | [Focal Systems](https://focal.systems) | €50K–€65K/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/focalsystems/jobs/6012182004) |
+| Product Strategy & Operations | [Vercel](https://vercel.com) | $232K–$348K/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/vercel/jobs/6011651004) |
+| Senior Product Manager - Retirement | [Finch](https://tryfinch.com) | — | Jun 3 | [Apply](https://jobs.lever.co/finch/6ecfd590-d27b-489f-8e24-e66868de4cbb) |
 | Principal Product Marketing Manager — Vertical Industries | [Smartsheet](https://smartsheet.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/smartsheet/jobs/7977812) |
 | Senior Technical Program Manager  | [Chainguard](https://chainguard.dev) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/chainguard/jobs/4683546006) |
 | Principal Product Manager - Ecosystems & Connectors | [ClickHouse](https://clickhouse.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/clickhouse/jobs/6010656004) |

@@ -2,13 +2,16 @@
 
 Remote cybersecurity, information security, and security engineering roles.
 
-**92 open roles** — Last updated: 2026-06-03
+**95 open roles** — Last updated: 2026-06-03
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| EN - Security Agent | [ACCOR](https://group.accor.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000129960549) |
+| VP of Security  | [Serve Robotics](https://serverobotics.com) | $220K–$340K/yr | Jun 2 | [Apply](https://jobs.ashbyhq.com/serverobotics/4d4bcc79-2f1d-4cda-9286-ef76bc39abb4) |
 | Deputy Chief Information Security Officer - Bank | [Mercury](https://mercury.com) | $270K–$354K/yr | Jun 2 | [Apply](https://job-boards.greenhouse.io/mercury/jobs/6011827004) |
+| Security Engineer, Detection & Response | [Robinhood](https://robinhood.com) | — | Jun 2 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7724380?t=gh_src=&gh_jid=7724380) |
 | Security Analyst, M365/Azure Cloud  | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $100K–$115K/yr | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000129776396) |
 | Senior Penetration Tester | [Robinhood](https://robinhood.com) | — | Jun 1 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7939813?t=gh_src=&gh_jid=7939813) |
 | Senior Manager, Information Security | [Saviynt](https://saviynt.com) | — | Jun 1 | [Apply](https://jobs.lever.co/saviynt/6cf1ecd3-5eb7-417b-b9b5-37ceab059a3d) |

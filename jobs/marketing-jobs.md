@@ -2,18 +2,23 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**288 open roles** — Last updated: 2026-06-03
+**293 open roles** — Last updated: 2026-06-03
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| ATL Marketing Manager (f/m/x) | [AUTO1 Group](https://auto1-group.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000129952589) |
+| Head of Communications | [Mayflower](https://mayflowervisa.com) | — | Jun 3 | [Apply](https://mayflower.recruitee.com/o/head-of-communications-1/c/new) |
+| Senior Manager, Marketing Operations | [Zapier](https://zapier.com) | — | Jun 2 | [Apply](https://jobs.ashbyhq.com/zapier/09eb1ac8-2a49-44e0-8463-bfa6e72000cf) |
+| Administrative Assistant, Legal & People | [Socure](https://socure.com) | — | Jun 2 | [Apply](https://jobs.ashbyhq.com/socure/60d16bf4-2096-4312-adc0-d3d11352272f) |
 | Senior Manager, Customer Marketing | [SecurityScorecard](https://securityscorecard.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/securityscorecard/jobs/7976854) |
 | Language Manager, Arabic speaking (12-month contract) | [Canva](https://canva.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001126216) |
 | Programmatic Performance Marketing Manager (f/m/x) | [AUTO1 Group](https://auto1-group.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000129810759) |
 | Senior Events & Field Marketing Manager, Conference Production & Operations | [Temporal](https://temporal.io) | $155K–$195K/yr | Jun 2 | [Apply](https://job-boards.greenhouse.io/temporaltechnologies/jobs/5152693007) |
 | Senior Events & Field Marketing Manager, Developer Conference Programming | [Temporal](https://temporal.io) | $155K–$195K/yr | Jun 2 | [Apply](https://job-boards.greenhouse.io/temporaltechnologies/jobs/5152734007) |
 | Marketing Communications Specialist | [Alex](https://alexcodes.app) | — | Jun 2 | [Apply](https://europebv.nikon.com/o/marketing-communications-specialist/c/new) |
+| Junior Marketer | [Saga AI](https://usesaga.ai) | — | Jun 2 | [Apply](https://careers.sagalegal.io/o/junior-marketer/c/new) |
 | Display Marketing Manager (f/m/x)  | [AUTO1 Group](https://auto1-group.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000129789779) |
 | Specialist - Sales Operations | [Anglo American](https://angloamerican.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000129754109) |
 | COMMERCIAL & MARKETING H/F - LA BASTIDE SAINT ANTOINE | [Relais & Châteaux](https://relaischateaux.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000129738229) |

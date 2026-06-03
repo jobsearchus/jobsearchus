@@ -2,27 +2,37 @@
 
 Remote jobs open to candidates with 0–2 years of experience. A real way in — no degree gatekeeping.
 
-**812 open roles** — Last updated: 2026-06-03
+**822 open roles** — Last updated: 2026-06-03
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Stagiaire Commercial F&B - Septembre 2026 (H/F/NB) | [ACCOR](https://group.accor.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000129960659) |
+| EN - Security Agent | [ACCOR](https://group.accor.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000129960549) |
+| Business Support Medewerker  | [Drees & Sommer](https://dreso.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000129956071) |
+| PMO Junior | [Inetum](https://inetum.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000129956419) |
 | MAGASINIER /Entretien (H/F) CDI 24H | [Genpak LLC](https://genpak-llc-2) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129932847) |
 | Vendeur(euse) en boulangerie pâtisserie (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129932535) |
 | Junior Securitisation Accountant | [IQ-EQ](https://iqeq.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000129932179) |
 | MODELE INTERMARCHE - Employé(e) Commercial(e) H/F - Contrat de professionnalisation -  | [Genpak LLC](https://genpak-llc-2) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129929522) |
 | Supply Chain Management Intern | [Continental](https://continentalserves.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000129921531) |
+| Associate - Content (Digest) | [Groww](https://groww.in) | — | Jun 3 | [Apply](https://job-boards.eu.greenhouse.io/groww/jobs/4880153101) |
+| Clinical Data Review Assistant - Temp | [Natera](https://natera.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/natera/jobs/6009667004) |
 | Chargebacks Analyst (Brazil) | [Signifyd](https://signifyd.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/signifyd95/jobs/7961838) |
 | Chargebacks Analyst | [Signifyd](https://signifyd.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/signifyd95/jobs/7961843) |
 | Full Time Housekeeper (AM) | [Silverado](https://silverado.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/silverado/jobs/5153262007) |
 | Shipper Packer | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000129834762) |
+| Entry Level - Structural Bridge Designer | [KPFF Consulting Engineers](https://kpff.com) | $76K–$83K/yr | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/KPFFConsultingEngineers/postings/3743990013426596) |
+| Entry Level - Structural Designer | [KPFF Consulting Engineers](https://kpff.com) | $80K–$90K/yr | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/KPFFConsultingEngineers/postings/3743990013425906) |
+| Entry Level - Structural Designer | [KPFF Consulting Engineers](https://kpff.com) | $80K–$90K/yr | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/KPFFConsultingEngineers/postings/3743990013425389) |
 | Full Time Hospice Licensed Vocational Nurse, LVN | [Silverado](https://silverado.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/silverado/jobs/5151635007) |
 | HGV 1 Night Drivers | [Adam](https://adam.new) | £20/yr | Jun 2 | [Apply](https://jobs.moredriversolutions.ltd.uk/o/hgv-1-night-drivers-4/c/new) |
 | APPRENTIS POISSONNIER-ÉCAILLER | [Genpak LLC](https://genpak-llc-2) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129806842) |
 | Brigáda - Asistent/ka prodeje - Ceske Budejovic | [Frasers Group](https://frasersgroup.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000129799952) |
 | Asistent/ka prodeje na poloviční úvazek 20hod/týd - Ceske Budejovic | [Frasers Group](https://frasersgroup.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000129802779) |
 | Business Development Representative  | [Freshworks](https://freshworks.com) | $53K–$66K/yr | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000129796404) |
+| Junior Marketer | [Saga AI](https://usesaga.ai) | — | Jun 2 | [Apply](https://careers.sagalegal.io/o/junior-marketer/c/new) |
 | Praktikant/Werkstudent (w/m/d) Projektmanagement Verkehrsinfrastruktur & Mobilität | [Drees & Sommer](https://dreso.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000129787209) |
 | Associate Engineer, Ride & Show Engineering (Scenic)  | [NBCUniversal](https://nbcuniversal.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000129784390) |
 | Product Engineer 1 | [AHEAD](https://ahead.com) | — | Jun 2 | [Apply](https://jobs.lever.co/thinkahead/e7ad3413-bcb6-4c19-9632-89ad7b5e5146) |

@@ -2,12 +2,16 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**1239 open roles** — Last updated: 2026-06-03
+**1253 open roles** — Last updated: 2026-06-03
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Content Marketing Manager | [Socure](https://socure.com) | — | Jun 3 | [Apply](https://jobs.ashbyhq.com/socure/eb900ba1-8fc5-401b-83bc-d9742f30f98e) |
+| Director Engineering | [SingleStore](https://singlestore.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/singlestore/jobs/7977111) |
+| Deputy HSE Manager - MEP | [BESIX](https://besix.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000129950521) |
+| AI Data Operations Manager | [HackerRank](https://hackerrank.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/hackerrank/jobs/7959598) |
 | Alternant Etude hydraulique urbaine | [Egis](https://egis-group.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000129929000) |
 | Responsable VRD confirmé Projets Aménagement urbain- Transport urbain  H/F | [Egis](https://egis-group.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000129929185) |
 | Staff Engineer, SAP CPI | [Nagarro](https://nagarro.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000129925589) |
@@ -15,9 +19,15 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Senior Officer (Data Analytics), Asset Owner Solutions | [IQ-EQ](https://iqeq.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000129919860) |
 | Tyre Fitter | [Anglo American](https://angloamerican.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000129921079) |
 | Auto Electrician | [Anglo American](https://angloamerican.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000129920210) |
+| HSE Advisor Vlaanderen | [BESIX](https://besix.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000129920320) |
 | Senior Specialist Consultant Billing | [Experian](https://experianplc.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000129915475) |
 | Senior Consultant, Billing | [Experian](https://experianplc.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000129915459) |
+| Senior / Staff Technical Program Manager - Datacenter Capacity Delivery (E2E)  | [Cerebras Systems](https://cerebras.net) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/cerebrassystems/jobs/7762063003) |
+| Certified Occupational Therapy Assistant, COTA | [InHomeTherapy](https://inhometherapy.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/inhometherapy/jobs/5153064007) |
 | #EG Data Solution Architect | [NCS](https://ncs.co) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001127779) |
+| Systems Architect Engineer  | [Momentus](https://momentus.space) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/momentus/jobs/6011970004) |
+| Clinical Data Review Assistant - Temp | [Natera](https://natera.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/natera/jobs/6009667004) |
+| Senior Software Engineer - Safety Platform | [Discord](https://discord.com) | $196K–$221K/yr | Jun 2 | [Apply](https://job-boards.greenhouse.io/discord/jobs/8544305002) |
 | Partner Solutions Engineer | [Hightouch](https://hightouch.com) | $180K–$220K/yr | Jun 2 | [Apply](https://job-boards.greenhouse.io/hightouch/jobs/6011820004) |
 | Salesforce Solution Architect, Field Service | [NeuraFlash](https://neuraflash.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/neuraflash/jobs/6011721004) |
 | Salesforce Solution Architect, Field Service | [NeuraFlash](https://neuraflash.com) | $94K–$266K/yr | Jun 2 | [Apply](https://job-boards.greenhouse.io/neuraflash/jobs/6011709004) |
@@ -26,11 +36,15 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Senior Software Engineer - AI Intelligence | [Honeycomb.io](https://honeycomb.io) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/honeycomb/jobs/5212323008) |
 | Senior Python engineer – AI integration (All Genders) | [Dailymotion](https://dailymotion.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/Dailymotion/postings/744000129827934) |
 | Senior AI Product Engineer, Frameworks | [Drata](https://drata.com) | $167K–$226K/yr | Jun 2 | [Apply](https://jobs.ashbyhq.com/drata/16a05c2f-c8a2-47c5-995b-9a817a8955ba) |
+| Entry Level - Structural Bridge Designer | [KPFF Consulting Engineers](https://kpff.com) | $76K–$83K/yr | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/KPFFConsultingEngineers/postings/3743990013426596) |
+| Entry Level - Structural Designer | [KPFF Consulting Engineers](https://kpff.com) | $80K–$90K/yr | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/KPFFConsultingEngineers/postings/3743990013425906) |
+| Entry Level - Structural Designer | [KPFF Consulting Engineers](https://kpff.com) | $80K–$90K/yr | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/KPFFConsultingEngineers/postings/3743990013425389) |
 | Senior Project Engineer - Systems Engineer | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $110K–$135K/yr | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000129817999) |
 | Senior Scientist, Molecular Biology  | [Flagship Pioneering, Inc.](https://flagshippioneering.com) | $126K–$182K/yr | Jun 2 | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8568486002?gh_jid=8568486002) |
 | Dimensional Engineer | [Genpak LLC](https://genpak-llc-2) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/gokenamericallc/jobs/4267656009) |
 | MEP Cost Manager | [AECOM](https://aecom.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000129799851) |
 | Technicien Support IT Senior (H/F) | [VusionGroup SA](https://vusiongroup.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/VusionGroupSA/postings/744000129794458) |
+| Manager, Architecture & Engineering Design  | [NBCUniversal](https://nbcuniversal.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000129785309) |
 | Associate Engineer, Ride & Show Engineering (Scenic)  | [NBCUniversal](https://nbcuniversal.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000129784390) |
 | Product Engineer 1 | [AHEAD](https://ahead.com) | — | Jun 2 | [Apply](https://jobs.lever.co/thinkahead/e7ad3413-bcb6-4c19-9632-89ad7b5e5146) |
 | Engineering Technician | [AHEAD](https://ahead.com) | — | Jun 2 | [Apply](https://jobs.lever.co/thinkahead/1c03fbcc-bfbb-4602-a91a-44e6827a100d) |

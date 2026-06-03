@@ -2,17 +2,29 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**736 open roles** — Last updated: 2026-06-03
+**748 open roles** — Last updated: 2026-06-03
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Strategic Account Executive  - BeLux | [GitLab](https://about.gitlab.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8575027002) |
+| Consulente Commerciale B2C – Bonus Garantito per i Primi 3 Mesi | [AUTO1 Group](https://auto1-group.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000129954175) |
+| Consultor/a de Ventas - Automoción | [AUTO1 Group](https://auto1-group.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000129944229) |
 | Vendeur(euse) en boulangerie pâtisserie (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129932535) |
 | MODELE INTERMARCHE - Employé(e) Commercial(e) H/F - Contrat de professionnalisation -  | [Genpak LLC](https://genpak-llc-2) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129929522) |
 | Account Manager - SaaS - Hybrid | [Experian](https://experianplc.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000129917339) |
+| Account Manager, Expansion | [Roofr](https://roofr.com) | $75K–$85K/yr | Jun 2 | [Apply](https://job-boards.greenhouse.io/roofr/jobs/4702132005) |
+| Manager, Contract Management | [Ashby](https://ashbyhq.com) | — | Jun 2 | [Apply](https://jobs.ashbyhq.com/ashby/206c6a86-74e3-4fcf-9175-fdfe07858676) |
+| Strategic Partner Director, Channel Sales | [Socure](https://socure.com) | — | Jun 2 | [Apply](https://jobs.ashbyhq.com/socure/8d0c8776-8518-4f21-9345-c9ec5a99a39e) |
+| Senior PreSales Consultant | [Provenir](https://provenir.com) | — | Jun 2 | [Apply](https://jobs.ashbyhq.com/provenirinc/b529220b-482e-4d45-a2b0-47f7817e9dee) |
+| Account Executive - Healthcare Partnerships | [Pair Team](https://pairteam.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/pairteam/jobs/8575396002) |
+| Account Executive - Great Plains | [Human Interest](https://humaninterest.com) | $150K–$155K/yr | Jun 2 | [Apply](https://job-boards.greenhouse.io/humaninterest/jobs/7971757) |
+| Partner Account Manager - Wichita | [Human Interest](https://humaninterest.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/humaninterest/jobs/7971753) |
 | Partner Solutions Engineer | [Drata](https://drata.com) | $187K–$231K/yr | Jun 2 | [Apply](https://jobs.ashbyhq.com/drata/475934cf-a528-4c6e-a1e1-d6bcfc10d460) |
 | Senior Sales Operations Manager | [HackerOne](https://hackerone.com) | $153K–$175K/yr | Jun 2 | [Apply](https://jobs.ashbyhq.com/hackerone/83c78401-3e24-48d8-8d49-16f7f9941a2f) |
+| Regional Channel Sales Manager (Northeast) | [Avive](https://avive.com) | — | Jun 2 | [Apply](https://jobs.lever.co/AviveSolutions/e3ad6b33-94ca-4d78-a774-7c07e69ad103) |
+| Account Executive, New Business (New England) | [StackAdapt](https://stackadapt.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/stackadapt/jobs/4266311009) |
 | Senior Client Account Manager, Large Customer Sales (Pharma) | [Reddit](https://reddit.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/7746526) |
 | Senior Client Account Manager, Large Customer Sales (Pharma) | [Reddit](https://reddit.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/7977257) |
 | Sales Host | [Frasers Group](https://frasersgroup.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000129828367) |

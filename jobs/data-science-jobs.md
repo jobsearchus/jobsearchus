@@ -2,15 +2,21 @@
 
 Data science, machine learning, and AI engineering roles. Python, SQL, PyTorch, and beyond.
 
-**73 open roles** — Last updated: 2026-06-03
+**79 open roles** — Last updated: 2026-06-03
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Sr. Data Scientist | [6sense](https://6sense.com) | — | Jun 3 | [Apply](https://boards.greenhouse.io/6sense/jobs/7974951?gh_jid=7974951) |
+| Lead - POC Data Science | [Sardine](https://sardine.ai) | — | Jun 2 | [Apply](https://jobs.ashbyhq.com/sardine/e6e92a56-1476-48cf-857e-2ea873047a27) |
+| Customer Data Scientist | [Amplitude](https://amplitude.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/amplitude/jobs/8575936002) |
 | Data Scientist | [Standard Bank](https://standardbank.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000129647609) |
 | Senior AI Engineer – Health Intelligence | [ŌURA](https://ouraring.com) | $173K–$203K/yr | Jun 2 | [Apply](https://job-boards.greenhouse.io/oura/jobs/4250676009) |
+| Machine Learning Engineer | [Robinhood](https://robinhood.com) | $161K–$200K/yr | Jun 2 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7960680?t=gh_src=&gh_jid=7960680) |
 | AI Engineering Intern, Summer 2026 | [Prosper](https://getprosper.ai?utm_source=yc&utm_medium=directory&utm_campaign=yc_directory) | — | Jun 1 | [Apply](https://jobs.lever.co/prosper/08d2e972-b83a-4796-8c4e-5263481aaf5b) |
+| Senior Staff Data Scientist - Consumer Relevance | [Reddit](https://reddit.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/7974647) |
+| Senior Staff Data Scientist - Consumer Relevance | [Reddit](https://reddit.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/7974605) |
 | Senior Staff Data Scientist - Consumer Experimentation | [Reddit](https://reddit.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/7974504) |
 | Machine Learning Engineer | [Pure Storage](https://purestorage.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/7922815) |
 | Computer Vision ML Engineer | [Upfront](https://tryupfront.com) | — | Jun 1 | [Apply](https://upfront.recruitee.com/o/computer-vision-ml-engineer/c/new) |

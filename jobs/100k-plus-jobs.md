@@ -2,14 +2,21 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**546 open roles** — Last updated: 2026-06-03
+**555 open roles** — Last updated: 2026-06-03
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Product Strategy & Operations | [Vercel](https://vercel.com) | $232K–$348K/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/vercel/jobs/6011651004) |
+| Senior Director, Product Design | [Clear Gene](https://cleargene.com) | $210K–$270K/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/clear/jobs/7964000) |
+| VP of Security  | [Serve Robotics](https://serverobotics.com) | $220K–$340K/yr | Jun 2 | [Apply](https://jobs.ashbyhq.com/serverobotics/4d4bcc79-2f1d-4cda-9286-ef76bc39abb4) |
+| Account Executive - Great Plains | [Human Interest](https://humaninterest.com) | $150K–$155K/yr | Jun 2 | [Apply](https://job-boards.greenhouse.io/humaninterest/jobs/7971757) |
+| Senior Technical Accounting Manager  | [ŌURA](https://ouraring.com) | $170K–$200K/yr | Jun 2 | [Apply](https://job-boards.greenhouse.io/oura/jobs/4265497009) |
 | Deputy Chief Information Security Officer - Bank | [Mercury](https://mercury.com) | $270K–$354K/yr | Jun 2 | [Apply](https://job-boards.greenhouse.io/mercury/jobs/6011827004) |
 | Partner Solutions Engineer | [Drata](https://drata.com) | $187K–$231K/yr | Jun 2 | [Apply](https://jobs.ashbyhq.com/drata/475934cf-a528-4c6e-a1e1-d6bcfc10d460) |
+| Senior Manager, Risk & SOX Compliance | [ŌURA](https://ouraring.com) | $170K–$200K/yr | Jun 2 | [Apply](https://job-boards.greenhouse.io/oura/jobs/4265486009) |
+| Senior Software Engineer - Safety Platform | [Discord](https://discord.com) | $196K–$221K/yr | Jun 2 | [Apply](https://job-boards.greenhouse.io/discord/jobs/8544305002) |
 | Partner Solutions Engineer | [Hightouch](https://hightouch.com) | $180K–$220K/yr | Jun 2 | [Apply](https://job-boards.greenhouse.io/hightouch/jobs/6011820004) |
 | Senior Director, SEC Reporting & Technical Accounting | [ŌURA](https://ouraring.com) | $232K–$273K/yr | Jun 2 | [Apply](https://job-boards.greenhouse.io/oura/jobs/4266486009) |
 | Senior Sales Operations Manager | [HackerOne](https://hackerone.com) | $153K–$175K/yr | Jun 2 | [Apply](https://jobs.ashbyhq.com/hackerone/83c78401-3e24-48d8-8d49-16f7f9941a2f) |
@@ -24,6 +31,7 @@ Remote roles paying $100,000 or more per year. Salary data pulled directly from 
 | Senior Events & Field Marketing Manager, Conference Production & Operations | [Temporal](https://temporal.io) | $155K–$195K/yr | Jun 2 | [Apply](https://job-boards.greenhouse.io/temporaltechnologies/jobs/5152693007) |
 | Senior Events & Field Marketing Manager, Developer Conference Programming | [Temporal](https://temporal.io) | $155K–$195K/yr | Jun 2 | [Apply](https://job-boards.greenhouse.io/temporaltechnologies/jobs/5152734007) |
 | Senior Revenue Operations Manager  | [Sigma Computing](https://sigmacomputing.com) | $150K–$210K/yr | Jun 2 | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/7750787003) |
+| Director, Streaming & Growth Strategy | [NBCUniversal](https://nbcuniversal.com) | $140K–$180K/yr | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000129798869) |
 | Director, Supply Chain & Strategy | [ŌURA](https://ouraring.com) | $226K–$266K/yr | Jun 2 | [Apply](https://job-boards.greenhouse.io/oura/jobs/4266450009) |
 | Director, Hardware Partnerships | [ŌURA](https://ouraring.com) | $201K–$236K/yr | Jun 2 | [Apply](https://job-boards.greenhouse.io/oura/jobs/4260098009) |
 | Benchmarking & Strategy Manager | [Robinhood](https://robinhood.com) | $102K–$160K/yr | Jun 2 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7976543?t=gh_src=&gh_jid=7976543) |
@@ -34,6 +42,7 @@ Remote roles paying $100,000 or more per year. Salary data pulled directly from 
 | Senior Research Program Coordinator | [Western Sydney University](https://westernsydney.edu.au) | $107K–$115K/yr | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/WesternSydneyUniversity/postings/6000000001125466) |
 | Tutoring for Success Program Coordinator (Indigenous Identified Role) | [Western Sydney University](https://westernsydney.edu.au) | $107K–$115K/yr | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/WesternSydneyUniversity/postings/6000000001124820) |
 | Senior AI Engineer – Health Intelligence | [ŌURA](https://ouraring.com) | $173K–$203K/yr | Jun 2 | [Apply](https://job-boards.greenhouse.io/oura/jobs/4250676009) |
+| Machine Learning Engineer | [Robinhood](https://robinhood.com) | $161K–$200K/yr | Jun 2 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7960680?t=gh_src=&gh_jid=7960680) |
 | Futures Risk Program Manager | [Robinhood](https://robinhood.com) | $139K–$175K/yr | Jun 2 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7975474?t=gh_src=&gh_jid=7975474) |
 | Software Engineer, Ads Product  | [xAI](https://x.ai) | $150K–$350K/yr | Jun 2 | [Apply](https://job-boards.greenhouse.io/xai/jobs/5152408007) |
 | Senior Back End Engineer | [Oddball](https://oddball.com) | $100K–$140K/yr | Jun 1 | [Apply](https://job-boards.greenhouse.io/oddball/jobs/7760578003) |

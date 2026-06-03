@@ -2,12 +2,13 @@
 
 Remote customer support and success roles across SaaS, e-commerce, and tech.
 
-**230 open roles** — Last updated: 2026-06-03
+**231 open roles** — Last updated: 2026-06-03
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Customer Success Manager (m/w/d) | [VusionGroup SA](https://vusiongroup.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/VusionGroupSA/postings/744000129937719) |
 | POS Customer Success Manager  (US/Canada) | [Owner.com](https://owner.com) | $90K–$100K/yr | Jun 2 | [Apply](https://jobs.ashbyhq.com/Owner/a631a8ac-1dae-4551-acd1-4de48681a27d) |
 | Technical Support Specialist | [Mozilla](https://mozilla.org) | $67K–$77K/yr | Jun 2 | [Apply](https://job-boards.greenhouse.io/mozilla/jobs/7977509) |
 | Technical Support Specialist | [Mozilla](https://mozilla.org) | $57K–$67K/yr | Jun 2 | [Apply](https://job-boards.greenhouse.io/mozilla/jobs/7977508) |

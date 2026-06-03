@@ -2,12 +2,14 @@
 
 Project and program management roles across tech, operations, and enterprise.
 
-**84 open roles** — Last updated: 2026-06-03
+**86 open roles** — Last updated: 2026-06-03
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Integrated Project Manager  | [Genpak LLC](https://genpak-llc-2) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/brandtechplus/jobs/7917991) |
+| PMO Junior | [Inetum](https://inetum.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000129956419) |
 | Project Manager (Healthcare) | [JRM Construction Management, LLC](https://jrmcm.com) | $150K–$200K/yr | Jun 2 | [Apply](https://job-boards.greenhouse.io/jrmconstructionmanagementllc/jobs/4686033006) |
 | Project Manager - Security Services | [AHEAD](https://ahead.com) | — | Jun 2 | [Apply](https://jobs.lever.co/thinkahead/f073d810-cd46-4c1e-9029-ff90e03f719f) |
 | Project Director – Cost Management | [AECOM](https://aecom.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000129794320) |

@@ -2,13 +2,14 @@
 
 Remote HR, recruiting, and people operations roles.
 
-**140 open roles** — Last updated: 2026-06-03
+**141 open roles** — Last updated: 2026-06-03
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | Principal Compensation Analyst | [Natera](https://natera.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/natera/jobs/6010850004) |
+| Manager, Employee Relations | [NBCUniversal](https://nbcuniversal.com) | $95K–$110K/yr | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000129797869) |
 | GTM Recruiter (Contract / Full-Time) | [Nagarro](https://nagarro.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000129785954) |
 | 🚀 Global Talent Sourcing Specialist | [Aleph Lab](https://alephlab.ai) | — | Jun 2 | [Apply](https://jobs.lever.co/aleph/f5ff9263-5256-4647-bae7-51cdc9e76176) |
 | Sr. Manager Talent & Culture | [Delivery Hero](https://deliveryhero.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000129663800) |

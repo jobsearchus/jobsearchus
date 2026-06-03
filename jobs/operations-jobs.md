@@ -2,15 +2,24 @@
 
 Remote operations and business operations roles across industries.
 
-**854 open roles** — Last updated: 2026-06-03
+**864 open roles** — Last updated: 2026-06-03
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Manager of Major Projects | [Clear Gene](https://cleargene.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/clear/jobs/7921900) |
+| Transition Manager (Centre de Service) H/F | [Inetum](https://inetum.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000129953869) |
 | MAGASINIER /Entretien (H/F) CDI 24H | [Genpak LLC](https://genpak-llc-2) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129932847) |
 | Supply Chain Management Intern | [Continental](https://continentalserves.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000129921531) |
+| Head of Controls (f/m/x) | [Marvel Fusion](https://marvelfusion.com) | — | Jun 3 | [Apply](https://job-boards.eu.greenhouse.io/marvelfusion/jobs/4881090101) |
+| Enterprise Support Specialist, Korean Speaking (Singapore) | [Figma](https://figma.com) | — | Jun 3 | [Apply](https://boards.greenhouse.io/figma/jobs/6010954004?gh_jid=6010954004) |
+| Director / Senior Director, Critical Facility Operations  | [Cerebras Systems](https://cerebras.net) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/cerebrassystems/jobs/7762028003) |
+| Facilities Lead | [Momentus](https://momentus.space) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/momentus/jobs/6012012004) |
+| Virtual Programs Specialist | [Zapier](https://zapier.com) | — | Jun 2 | [Apply](https://jobs.ashbyhq.com/zapier/a00b98bf-60ff-4959-b748-473542c8991c) |
+| Operations Support Specialist | [Odeko](https://odeko.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/odeko/jobs/6011888004) |
 | Chargebacks Analyst (Brazil) | [Signifyd](https://signifyd.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/signifyd95/jobs/7961838) |
+| AML SME | [Oscilar](https://oscilar.com) | — | Jun 2 | [Apply](https://jobs.ashbyhq.com/oscilar/7eaa0609-5f3c-4ecb-9bd9-c1c0763b547c) |
 | Maintenance Supervisor | [Crestwood Behavioral Health](https://crestwoodbehavioralhealth.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/crestwoodcareers/jobs/7761798003) |
 | Chargebacks Analyst | [Signifyd](https://signifyd.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/signifyd95/jobs/7961843) |
 | Asset Manager, Energy Storage | [xAI](https://x.ai) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/xai/jobs/5153270007) |
@@ -18,6 +27,7 @@ Remote operations and business operations roles across industries.
 |   Class 5 Local Delivery and Pick-up Driver- Lloydminster | [Manitoulin Global Forwarding](https://manitoulingroup.com) | $25/yr | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000129839169) |
 | Dock Worker - Nights! 1:00 AM Start to 9:30 AM + Shift Premium | [Manitoulin Global Forwarding](https://manitoulingroup.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000129838879) |
 | Shipper Packer | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000129834762) |
+| Landscaper | [Distro](https://distro.app) | — | Jun 2 | [Apply](https://jobs.lever.co/distro/758287b1-aab3-4252-af5e-0923e2a42b7b) |
 | Freight Forwarding Logistic Operator (Korean Bilingual) | [SBT Global](https://sbtglobal.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/SBTGlobalInc/postings/3743990013428576) |
 | SF Office Manager (Contract) | [Phantom](https://phantom.com) | $63/yr | Jun 2 | [Apply](https://jobs.ashbyhq.com/phantom/6ecf08ea-6292-4673-a636-3e2a852ed027) |
 | Global Deputy DPO | [Volito Aviation August 2007](https://trustly.com) | — | Jun 2 | [Apply](https://jobs.lever.co/trustly/97bfddaa-7267-4618-ab12-1e9faf7d4bc8) |
