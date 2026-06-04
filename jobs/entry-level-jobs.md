@@ -2,16 +2,25 @@
 
 Remote jobs open to candidates with 0–2 years of experience. A real way in — no degree gatekeeping.
 
-**851 open roles** — Last updated: 2026-06-04
+**860 open roles** — Last updated: 2026-06-04
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Maintenance Technician | [Egis](https://egis-group.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000130183719) |
+| Alternance - Chargé de recrutement F/H/X | [BUT](https://but.fr) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000130181910) |
+| Bachelor angewandte Mathermatik & Data Science - Fachrichtung Technomathematik (m/w/d) - Tires | [Continental](https://continentalserves.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000130176629) |
+| Part Time Sales Assistant | [Frasers Group](https://frasersgroup.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000130164445) |
+| Service Desk Operator | [Netcompany](https://netcompany.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000130162659) |
 | Aerodynamics Engineer I | [Relativity Space](https://relativityspace.com) | — | Jun 3 | [Apply](https://boards.greenhouse.io/relativity/jobs/8143970002?gh_jid=8143970002) |
 | Analista de Transmisiones / Control‑M – Entornos Previos  | [Inetum](https://inetum.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000130094579) |
 | Civil CAD Drafter/Technician  | [KPFF Consulting Engineers](https://kpff.com) | $50/yr | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/KPFFConsultingEngineers/postings/3743990013458190) |
+| Junior Architectural Designer | [AECOM](https://aecom.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000130087974) |
+| Shuttle Driver - 4 Day Work Week & Weekends Off - Peoria | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000130084839) |
+| General Service Technician / Mechanic - Weekends Off - Westminster | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000130073351) |
 | VENDEUR LIBRE SERVICE (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130061584) |
+| Oficial Serviços de Campo (Ajudante Serviços Gerais) | [Anglo American](https://angloamerican.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000130062029) |
 | Software Engineering Intern | [BillionToOne](https://billiontoone.com) | $25/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/billiontoone/jobs/4702398005) |
 | VENDEUR(SE) BOUCHERIE (H/F)  | [Genpak LLC](https://genpak-llc-2) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130053120) |
 |  RECEPTIONNAIRE (H/F) MANUTENTIONNAIRE ENTRETIEN | [Genpak LLC](https://genpak-llc-2) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130046439) |

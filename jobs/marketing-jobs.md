@@ -2,20 +2,23 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**309 open roles** — Last updated: 2026-06-04
+**312 open roles** — Last updated: 2026-06-04
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Digital Trading Manager - EU Sites | [Frasers Group](https://frasersgroup.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000130156979) |
 | Director, Brand Marketing | [The Trade Desk](https://thetradedesk.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5144986007) |
 | Account Manager, Paid Social | [WPP Media](https://wppmedia.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5223928008) |
+| Vice President, Scaled Demand Generation | [Freshworks](https://freshworks.com) | $320K–$400K/yr | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000130090844) |
 | Middle/Senior Creative Marketing Specialist | [Holywater](https://holywater.com) | — | Jun 3 | [Apply](https://jobs.ashbyhq.com/holywater/444fa1ec-c58d-45a6-ab7a-ff6ea3cae50c) |
 | Creative Marketing Specialist | [Holywater](https://holywater.com) | — | Jun 3 | [Apply](https://jobs.ashbyhq.com/holywater/be129dff-0fa0-43aa-ab10-43984a1a5193) |
 | Senior Lifecycle Marketing Manager  | [G2](https://g2.com) | — | Jun 3 | [Apply](https://jobs.ashbyhq.com/g2/86a4636d-1977-45d1-98ef-4f2f2f4824e4) |
 | Senior Marketing Manager | [Emburse](https://emburse.com) | — | Jun 3 | [Apply](https://jobs.lever.co/emburse/a3c942a8-1026-41ad-a710-51c0f761ad8f) |
 | Director, Marketing (B2B) | [Emburse](https://emburse.com) | — | Jun 3 | [Apply](https://jobs.lever.co/emburse/5ca6e625-f62e-41aa-8c58-75d00c635e40) |
 | Digital Marketing Associate (Dutch Native) | [Fever](https://feverup.com) | — | Jun 3 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4881805101) |
+| Senior Brand Ambassador | [Anglo American](https://angloamerican.com) | $79K–$84K/yr | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000130067640) |
 | Lifecycle Marketing Manager | [Wizard](https://wizard.com) | $125K–$175K/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/wizardcommerce/jobs/6012596004) |
 | Head of SEO (maternity cover) | [LinkedIn Job Wrapping](https://artefact.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/artefactlinkedin/jobs/8574707002) |
 | Lead Associate Account Director | [The Trade Desk](https://thetradedesk.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5132740007) |

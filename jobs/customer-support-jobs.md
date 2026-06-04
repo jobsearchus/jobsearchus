@@ -2,12 +2,16 @@
 
 Remote customer support and success roles across SaaS, e-commerce, and tech.
 
-**232 open roles** — Last updated: 2026-06-04
+**236 open roles** — Last updated: 2026-06-04
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+|  HÔTE DE CAISSE/ ACCUEIL (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130190899) |
+| German Customer Service Agent | [MSX International](https://msxi.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013464196) |
+| Agente de Atención al Cliente | [MSX International](https://msxi.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013464152) |
+| Customer Service Executive (Bilingual Chinese & English speaking) | [Avery Dennison](https://averydennison.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000130136249) |
 | Sales Coordinator | [Continental](https://continentalserves.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000130026699) |
 | Customer Success Manager (m/w/d) | [VusionGroup SA](https://vusiongroup.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/VusionGroupSA/postings/744000129937719) |
 | POS Customer Success Manager  (US/Canada) | [Owner.com](https://owner.com) | $90K–$100K/yr | Jun 2 | [Apply](https://jobs.ashbyhq.com/Owner/a631a8ac-1dae-4551-acd1-4de48681a27d) |

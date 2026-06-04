@@ -2,12 +2,13 @@
 
 DevOps, platform engineering, and infrastructure roles. AWS, GCP, Kubernetes, Terraform.
 
-**81 open roles** — Last updated: 2026-06-04
+**82 open roles** — Last updated: 2026-06-04
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| #EX DevOps Engineer (AWS + 12hrs Shiftwork) | [NCS](https://ncs.co) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001133047) |
 | Cloud Infrastructure Engineer -  Vice President | [iCapital](https://icapital.com) | $130K–$160K/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8577716002) |
 | Senior Software Engineer - Infrastructure | [Confluent](https://confluent.io) | — | Jun 3 | [Apply](https://jobs.ashbyhq.com/confluent/4218f1c2-3679-4aff-a458-20ef09817fc4) |
 | Stagiaire en alternance Support infrastructures IT  | [Avery Dennison](https://averydennison.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000129937739) |

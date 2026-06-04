@@ -2,18 +2,24 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**898 open roles** — Last updated: 2026-06-04
+**904 open roles** — Last updated: 2026-06-04
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| EMPLOYE COMMERCIAL (H/F) boulangerie patisserie POUR LE TERMINAL DE CUISSON | [Genpak LLC](https://genpak-llc-2) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130189749) |
+| Service Desk Analyst | [NEC Software Solutions](https://necsoftwaresolutions.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/NECSWS/postings/744000130180730) |
+| CTO - BFSI Technology & Transformation (m/f/d) | [Nagarro](https://nagarro.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000130172569) |
 | 📌 Business Head - Pinterest Ads Sales | [Aleph](https://aleph.vc) | — | Jun 4 | [Apply](https://jobs.lever.co/aleph/1ad9387d-440e-42fc-854e-700ec5bfb2de) |
 | Colleague Services Supervisor | [ACCOR](https://group.accor.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130089734) |
+| Firefighter - NDFD | [University of Notre Dame](https://universityofnotredame.com) | $21/yr | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013457705) |
 | Experienced Cook 1 & Cook 2 – Permanent Culinary Positions | [ACCOR](https://group.accor.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130087234) |
+| Maintenance Technician- 7pm-7am, 2-2-3 | [Avery Dennison](https://averydennison.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000130087728) |
 | Director of Quality and Training | [ACCOR](https://group.accor.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130084399) |
 | Licensed Therapist (LCSW, LPCC, LMFT) - Remote 1099 Contract, $75-$90/Session | [Daybreak Health](https://daybreakhealth.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/daybreakhealth/jobs/5154869007) |
 | Licensed Therapist (LCSW, LPCC, LMFT) - Remote 1099 Contract, $75-$90/Session | [Daybreak Health](https://daybreakhealth.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/daybreakhealth/jobs/5154862007) |
+| General Service Technician / Mechanic - Weekends Off - Westminster | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000130073351) |
 | Physical Therapist Assistant  | [Genpak LLC](https://genpak-llc-2) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/drayerpt/jobs/5154764007) |
 | Store Manager | [Anglo American](https://angloamerican.com) | $145K–$150K/yr | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000130068654) |
 | Head of Government Affairs | [Continental](https://continentalserves.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000130062234) |

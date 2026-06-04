@@ -2,12 +2,13 @@
 
 Frontend engineering roles. React, Vue, Angular, TypeScript — direct from company career pages.
 
-**20 open roles** — Last updated: 2026-06-04
+**21 open roles** — Last updated: 2026-06-04
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Front-End Developer | [CapTech](https://captech.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/CapTechConsulting/postings/744000130104609) |
 | Senior Front-End (React) Engineer | [Dailymotion](https://dailymotion.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/Dailymotion/postings/744000129855930) |
 | Frontend Engineer, Web Tooling | [Wolt](https://wolt.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7971912) |
 | Senior Frontend Engineer | [Razorpay Software Private Limited](https://razorpay.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4694066005) |

@@ -2,12 +2,14 @@
 
 Remote creative roles — copywriters, content creators, graphic designers, and brand specialists.
 
-**78 open roles** — Last updated: 2026-06-04
+**80 open roles** — Last updated: 2026-06-04
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Game Designer Lead | [Gameloft](https://gameloft.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/Gameloft/postings/744000130141480) |
+| Real-Time Graphic Artist | [NBCUniversal](https://nbcuniversal.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130084040) |
 | Graphic Designer | [Distro](https://distro.app) | — | Jun 3 | [Apply](https://jobs.lever.co/distro/8b155327-000b-482e-a93e-912b88d6ed88) |
 | Creative Coordinator | [NBCUniversal](https://nbcuniversal.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130050209) |
 | Creative Strategist | [StackAdapt](https://stackadapt.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/stackadapt/jobs/4272563009) |

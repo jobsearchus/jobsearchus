@@ -2,16 +2,28 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**1307 open roles** — Last updated: 2026-06-04
+**1323 open roles** — Last updated: 2026-06-04
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Software Engineer | [Experian](https://experianplc.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000130186879) |
+| Ops Support Executive, Digital Care (Team Lead) | [NCS](https://ncs.co) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001132998) |
+| Ingénieur Fonctionnel Coflight H/F | [Egis](https://egis-group.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000130174954) |
+| Signage Asset Engineer (Roads O&M) | [Egis](https://egis-group.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000130171929) |
+| L1 Datacenter Support Engineer | [Mirantis](https://mirantis.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/Mirantis/postings/744000130166821) |
+| L2 Datacenter Support Engineer | [Mirantis](https://mirantis.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/Mirantis/postings/744000130166846) |
+| Senior Workplace Engineer with German | [Accesa](https://accesa.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/ACCESA/postings/744000130162930) |
+| Service Desk Operator | [Netcompany](https://netcompany.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000130162659) |
+| Senior Staff Engineer (SAP BPC Embedded)  | [Nagarro](https://nagarro.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000130159536) |
+| Senior Workplace Engineer (M365 & PowerShell) with German | [Accesa](https://accesa.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/ACCESA/postings/744000130157644) |
+| IT Support Specialist | [Netcompany](https://netcompany.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000130157054) |
 | Senior Scientist, R&D | [e.l.f. Beauty](https://elfbeauty.com) | — | Jun 4 | [Apply](https://jobs.lever.co/elfbeauty/1c05405e-3730-424d-aab6-680941c0078b) |
 | Engineer | [Mable](https://trymable.com) | — | Jun 4 | [Apply](https://jobs.lever.co/mable/37371970-00c1-4306-a6b6-6b8ec9db66cf) |
 | Senior Data Analyst | [Mable](https://trymable.com) | — | Jun 4 | [Apply](https://jobs.lever.co/mable/ea8048c3-c8cd-4c9f-be11-d0eed6ebc37c) |
 | Electrical Engineer – Vehicle Systems | [Parallel](https://beparallel.com) | — | Jun 4 | [Apply](https://boards.greenhouse.io/parallel/jobs/5155218007?gh_jid=5155218007) |
+| dotCMS Architect | [CapTech](https://captech.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/CapTechConsulting/postings/744000130104899) |
 | Senior Software Engineer, Autonomous Freight Systems | [Flexport](https://flexport.com) | — | Jun 3 | [Apply](https://boards.greenhouse.io/flexport/jobs/7975365?gh_jid=7975365) |
 | Staff Software Technical Program Manager, Platform | [RADAR](https://goradar.com) | $165K–$215K/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/radar/jobs/7974957) |
 | Sr. Supplier Quality Engineer | [Archer](https://archer.com) | $105K–$135K/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7752132003) |
@@ -19,14 +31,17 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Lead, Propulsion Analyst  | [Relativity Space](https://relativityspace.com) | — | Jun 3 | [Apply](https://boards.greenhouse.io/relativity/jobs/8550859002?gh_jid=8550859002) |
 | Aerodynamics Engineer I | [Relativity Space](https://relativityspace.com) | — | Jun 3 | [Apply](https://boards.greenhouse.io/relativity/jobs/8143970002?gh_jid=8143970002) |
 | Analista de Transmisiones / Control‑M – Entornos Previos  | [Inetum](https://inetum.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000130094579) |
+| Associate Engineer, Production Support | [NBCUniversal](https://nbcuniversal.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130092247) |
 | Civil CAD Drafter/Technician  | [KPFF Consulting Engineers](https://kpff.com) | $50/yr | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/KPFFConsultingEngineers/postings/3743990013458190) |
 | Chief Architect | [Legion Health](https://legionhealth.com) | $300K–$385K/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/legion/jobs/7763058003) |
 | Structural Engineering Manager   | [Remora](https://remoracarbon.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/remoracarbon/jobs/5154988007) |
 | Software Development Manager, Commerce | [Twitch](https://twitch.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8577609002) |
 | Software Development Manager, Commerce | [Twitch](https://twitch.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8577598002) |
 | Senior Software Engineer | [Confluent](https://confluent.io) | — | Jun 3 | [Apply](https://jobs.ashbyhq.com/confluent/905efbaa-d814-4b16-a377-d417c7d3d772) |
+| Automotive Technician / Mechanic - $35-$55/Hr* & Weekends Off - Green Valley Ranch | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | $55/yr | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000130081959) |
 | Senior Software Engineer - Database Engine | [SingleStore](https://singlestore.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/singlestore/jobs/7863354) |
 | Staff Software Engineer | [Clutch](https://clutch.io) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/clutch/jobs/6013361004) |
+| MEP Senior Project Manager - Hospitality construction project | [AECOM](https://aecom.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000130071179) |
 | Director of Marketing Analytics (Remote) | [Rula](https://rula.com) | — | Jun 3 | [Apply](https://jobs.ashbyhq.com/rula/ddb7a13b-e54e-4bf6-b89d-20df0ebc6f90) |
 | Senior Python engineer (All Genders) | [Dailymotion](https://dailymotion.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/Dailymotion/postings/744000130057659) |
 | Software Engineering Intern | [BillionToOne](https://billiontoone.com) | $25/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/billiontoone/jobs/4702398005) |
@@ -43,6 +58,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Industry Strategy Lead | [CoLab](https://colabsoftware.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/colabsoftware/jobs/5238706008) |
 | Credit Risk Analyst  | [Reach](https://reachpower.com) | $90K–$110K/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/reach/jobs/8573228002) |
 | Content Marketing Manager | [Socure](https://socure.com) | — | Jun 3 | [Apply](https://jobs.ashbyhq.com/socure/eb900ba1-8fc5-401b-83bc-d9742f30f98e) |
+| Mecânica I - Afirmativa para Mulheres | [Anglo American](https://angloamerican.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000129997244) |
 | Senior Amazon Connect  | [Miratech](https://miratech.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000129990512) |
 | Adobe Enterprise Architect | [VML](https://vml.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/vmlenterprisesolutions/jobs/8570568002) |
 | Großprojektleiter (m/w/d) Onshore-Leitungs- und Trassenbau (Gas / Wasserstoff / Strom) | [Drees & Sommer](https://dreso.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000129983219) |

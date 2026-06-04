@@ -2,12 +2,14 @@
 
 Project and program management roles across tech, operations, and enterprise.
 
-**89 open roles** — Last updated: 2026-06-04
+**91 open roles** — Last updated: 2026-06-04
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Project Manager | [IQ-EQ](https://iqeq.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000130194529) |
+| Project Director | [NCS](https://ncs.co) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001132580) |
 | Especialista de Gestao de Projetos  | [Experian](https://experianplc.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000130051809) |
 | Project Director - Rail, Roadways and Resort Development  | [NBCUniversal](https://nbcuniversal.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000129993169) |
 | Senior Integrated Project Manager  | [Genpak LLC](https://genpak-llc-2) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/brandtechplus/jobs/7917991) |

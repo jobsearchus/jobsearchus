@@ -2,15 +2,19 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**568 open roles** — Last updated: 2026-06-04
+**572 open roles** — Last updated: 2026-06-04
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Sales Executive (Programmatic) | [Gameloft](https://gameloft.com) | $110K–$130K/yr | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/Gameloft/postings/744000130175769) |
+| Sales Executive (Programmatic) | [Gameloft](https://gameloft.com) | $110K–$130K/yr | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/Gameloft/postings/744000130174571) |
+| Director, Information Governance | [NBCUniversal](https://nbcuniversal.com) | $110K–$140K/yr | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130103229) |
 | Account Executive | [BillionToOne](https://billiontoone.com) | $185K–$248K/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/billiontoone/jobs/4702588005) |
 | Staff Software Technical Program Manager, Platform | [RADAR](https://goradar.com) | $165K–$215K/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/radar/jobs/7974957) |
 | Sr. Supplier Quality Engineer | [Archer](https://archer.com) | $105K–$135K/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7752132003) |
+| Vice President, Scaled Demand Generation | [Freshworks](https://freshworks.com) | $320K–$400K/yr | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000130090844) |
 | Chief Architect | [Legion Health](https://legionhealth.com) | $300K–$385K/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/legion/jobs/7763058003) |
 | Cloud Infrastructure Engineer -  Vice President | [iCapital](https://icapital.com) | $130K–$160K/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8577716002) |
 | Enterprise RIA Business Development - Senior Vice President  | [iCapital](https://icapital.com) | $200K–$240K/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8575538002) |

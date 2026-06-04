@@ -2,23 +2,33 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**783 open roles** — Last updated: 2026-06-04
+**793 open roles** — Last updated: 2026-06-04
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| CONSEILLER DE VENTE - VENDEUR (H/F) JARDIN | [Genpak LLC](https://genpak-llc-2) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130189589) |
+| National Fleet Key Account Sales Manager | [Continental](https://continentalserves.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000130186730) |
+| Sales Executive (Programmatic) | [Gameloft](https://gameloft.com) | $110K–$130K/yr | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/Gameloft/postings/744000130175769) |
+| Sales Executive (Programmatic) | [Gameloft](https://gameloft.com) | $110K–$130K/yr | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/Gameloft/postings/744000130174571) |
+| Part Time Sales Assistant | [Frasers Group](https://frasersgroup.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000130164445) |
 | Senior business development manager, omnichannel | [Flexport](https://flexport.com) | — | Jun 4 | [Apply](https://boards.greenhouse.io/flexport/jobs/7981626?gh_jid=7981626) |
 | Partner Business Manager – Distribution and Commercial Sales (ANZ) | [Genpak LLC](https://genpak-llc-2) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/commvault/jobs/5233782008) |
 | Account Executive | [BillionToOne](https://billiontoone.com) | $185K–$248K/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/billiontoone/jobs/4702588005) |
 | Full-cycle Inside Sales Executive | [Too Good To Go](https://toogoodtogo.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/toogoodtogo/jobs/7763166003) |
 | Configuration Management - Specalist - Powertrain | [Archer](https://archer.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7741010003) |
 | New Logo Account Executive | [SugarCRM](https://sugarcrm.com) | — | Jun 3 | [Apply](https://jobs.lever.co/sugarcrm/2d2b1f2c-c466-49be-90a1-2f55df28c2d3) |
+| Account Executive, NBC10 Philadelphia  | [NBCUniversal](https://nbcuniversal.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130092870) |
 | Sales Development Representative, Singapore | [Horizon3.ai](https://horizon3ai.com) | — | Jun 3 | [Apply](https://jobs.ashbyhq.com/horizon3ai/be3f24da-cc9c-42d0-8bc6-4545676738db) |
 | Mid-Market Account Executive, Singapore | [Horizon3.ai](https://horizon3ai.com) | — | Jun 3 | [Apply](https://jobs.ashbyhq.com/horizon3ai/3f11f0c1-0889-46c8-b496-d51a929ce6bf) |
 | Provider Partnerships Regional Manager | [Nourish](https://usenourish.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/usenourish/jobs/5240359008) |
 | Provider Partnerships Regional Manager | [Nourish](https://usenourish.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/usenourish/jobs/5240371008) |
+| Programmatic Account Manager | [NBCUniversal](https://nbcuniversal.com) | $85K–$115K/yr | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130086269) |
+| Programmatic Account Manager | [NBCUniversal](https://nbcuniversal.com) | $85K–$115K/yr | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130085779) |
+| Mission Specialist, Land C5ISR | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $80K–$90K/yr | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000130084008) |
 | Account Executive, AWS | [NeuraFlash](https://neuraflash.com) | $94K–$277K/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/neuraflash/jobs/6013420004) |
+| Automotive Service Advisor / Writer - $65K-$100K* & Weekends Off - Green Valley Ranch | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | $65K–$100K/yr | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000130081889) |
 | Provider Partnerships Regional Manager | [Nourish](https://usenourish.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/usenourish/jobs/5240340008) |
 | Brand Ambassador (Sales), Galleria Mall, Houston, TX | [Anglo American](https://angloamerican.com) | $55K–$60K/yr | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000130067802) |
 | HCM Business Consultant - Orlando, FL | [Distro](https://distro.app) | — | Jun 3 | [Apply](https://jobs.lever.co/distro/c9b3a06d-a113-400a-8905-5f4593684172) |

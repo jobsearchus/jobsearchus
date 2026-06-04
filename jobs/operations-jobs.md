@@ -2,19 +2,30 @@
 
 Remote operations and business operations roles across industries.
 
-**899 open roles** — Last updated: 2026-06-04
+**910 open roles** — Last updated: 2026-06-04
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| EDI Central Key User / Business Analyst for APAC Region | [Continental](https://continentalserves.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000130186049) |
+| Maintenance Technician | [Egis](https://egis-group.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000130183719) |
 | Supervisor (Capo Reparto) - Lonato del Garda C.C. "Il Leone" | [JD Sports](https://jdsports.com) | — | Jun 4 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4882282101) |
+| Print Ops Specialist | [Canva](https://canva.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001130371) |
 | Business Process Analyst 3 | [Twilio](https://twilio.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7979654) |
+| Operador Suaje | [Avery Dennison](https://averydennison.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000130105029) |
+| Warehouse Innovation Project Manager | [SBT Global](https://sbtglobal.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/SBTGlobalInc/postings/3743990013460636) |
 | Class A CDL Driver- Day Route | [Nabis](https://nabis.com) | $31/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/nabis/jobs/6013597004) |
+|  Logistics Business Support (Korean Bilingual) | [SBT Global](https://sbtglobal.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/SBTGlobalInc/postings/3743990013460352) |
+| Automotive Service Technician / Mechanic - Weekends Off - Huntersville | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000130098285) |
+| Class 1 LCV Line Haul Driver Great Wages!! | [Manitoulin Global Forwarding](https://manitoulingroup.com) | $36/yr | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000130094799) |
 | Temporary Fulfillment Associate  | [GOAT Group](https://goatgroup.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/goatgroup/jobs/4702672005) |
+| Automotive Service Advisor / Writer - Weekends Off - Cheyenne | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000130086081) |
+| Shuttle Driver - 4 Day Work Week & Weekends Off - Peoria | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000130084839) |
 | Ticketing Associate Director | [University of Notre Dame](https://universityofnotredame.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013454426) |
 | Sr Supply Chain Analyst | [Continental](https://continentalserves.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000130073129) |
 | AZ Night Linehaul Great Wages!! | [Manitoulin Global Forwarding](https://manitoulingroup.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000130070049) |
+| Oficial Serviços de Campo (Ajudante Serviços Gerais) | [Anglo American](https://angloamerican.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000130062029) |
 | Sr. Supply Chain Partnership Manager | [Checkr](https://checkr.com) | $25K/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/checkr/jobs/7974617) |
 | Analista de Control Desk - Traffic & Real Time | [Experian](https://experianplc.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000130048695) |
 | Senior AI GRC Engineer | [Vanta](https://vanta.com) | — | Jun 3 | [Apply](https://jobs.ashbyhq.com/vanta/5edbd271-5b59-48d0-8b8e-96709b781090) |

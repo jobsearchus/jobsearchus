@@ -2,7 +2,7 @@
 
 Full-stack engineering roles across product, platform, and startup companies.
 
-**44 open roles** — Last updated: 2026-06-04
+**45 open roles** — Last updated: 2026-06-04
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -10,6 +10,7 @@ Full-stack engineering roles across product, platform, and startup companies.
 | --- | --- | --- | --- | --- |
 | Java full stack Senior Developer | [Referrals Only](https://thoughtworks.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7981736) |
 | Java full stack Senior Developer | [Referrals Only](https://thoughtworks.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7981542) |
+| Full-Stack Engineer | [CapTech](https://captech.com) | $90K–$190K/yr | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/CapTechConsulting/postings/744000130102319) |
 | Full Stack Engineer | [StackAdapt](https://stackadapt.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/stackadapt/jobs/4261506009) |
 | Senior Software Engineer - Full Stack Internal Tooling (Build and Deployment Platform) | [Reddit](https://reddit.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/7976852) |
 | Full Stack Engineer, Guardian Monitoring | [LaunchDarkly](https://launchdarkly.com) | $171K–$235K/yr | Jun 2 | [Apply](https://job-boards.greenhouse.io/launchdarkly/jobs/7761616003) |

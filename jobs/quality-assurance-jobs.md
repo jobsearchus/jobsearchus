@@ -2,12 +2,14 @@
 
 QA, test automation, and SDET roles. Manual and automated testing across all stacks.
 
-**42 open roles** — Last updated: 2026-06-04
+**44 open roles** — Last updated: 2026-06-04
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| QA Functional Engineer | [Applaudo](https://applaudo.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/ApplaudoStudios/postings/744000130100008) |
+| Software Test Engineering  | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000130076832) |
 | Software Test Engineer, Intermediate/Working Level  | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $78K–$105K/yr | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000130011188) |
 | Manual QA engineer  | [BrainRocket](https://brainrocket.com) | — | Jun 3 | [Apply](https://job-boards.eu.greenhouse.io/brainrocketltd/jobs/4881435101) |
 | QA Automation Engineer | [Applaudo](https://applaudo.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/ApplaudoStudios/postings/744000129871078) |

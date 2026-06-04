@@ -2,12 +2,14 @@
 
 Data science, machine learning, and AI engineering roles. Python, SQL, PyTorch, and beyond.
 
-**81 open roles** — Last updated: 2026-06-04
+**83 open roles** — Last updated: 2026-06-04
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Machine Learning Scientist | [Experian](https://experianplc.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000130187074) |
+| Bachelor angewandte Mathermatik & Data Science - Fachrichtung Technomathematik (m/w/d) - Tires | [Continental](https://continentalserves.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000130176629) |
 | Machine Learning Engineer III, Core Agents | [Box](https://box.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/boxinc/jobs/7962270) |
 | Sr. Staff Machine Learning Engineer | [Flex](https://withflex.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/flex/jobs/4699019005) |
 | Sr. Data Scientist | [6sense](https://6sense.com) | — | Jun 3 | [Apply](https://boards.greenhouse.io/6sense/jobs/7974951?gh_jid=7974951) |

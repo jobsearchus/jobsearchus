@@ -2,12 +2,16 @@
 
 Remote HR, recruiting, and people operations roles.
 
-**147 open roles** — Last updated: 2026-06-04
+**151 open roles** — Last updated: 2026-06-04
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Alternance - Chargé de recrutement F/H/X | [BUT](https://but.fr) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000130181910) |
+| IEA Employment Consultant - Bairnsdale | [Genpak LLC](https://genpak-llc-2) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/APMGroup/postings/6000000001132953) |
+| IEA Employment Consultant - Lakes Entrance | [Genpak LLC](https://genpak-llc-2) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/APMGroup/postings/6000000001132930) |
+| IEA Employment Consultant - South Melbourne | [Genpak LLC](https://genpak-llc-2) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/APMGroup/postings/6000000001132908) |
 | Talent Programs Lead | [Replit](https://replit.com) | — | Jun 4 | [Apply](https://jobs.ashbyhq.com/replit/07a2d8e2-acba-411a-9601-9d424d2059dc) |
 | Senior Director, HR Business Partner - Marketing & Product  | [Freshworks](https://freshworks.com) | $246K–$305K/yr | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000130072302) |
 | HR Generalist | [Lilt](https://lilt.com) | — | Jun 3 | [Apply](https://jobs.ashbyhq.com/lilt-corporate/b764fc8f-0adb-41aa-aa72-3769198f79dc) |

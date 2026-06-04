@@ -2,12 +2,15 @@
 
 UX design, UI design, and product design roles. Figma, research, and end-to-end product work.
 
-**122 open roles** — Last updated: 2026-06-04
+**125 open roles** — Last updated: 2026-06-04
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| UX/UI Designer | [Applaudo](https://applaudo.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/ApplaudoStudios/postings/744000130098288) |
+| Junior Architectural Designer | [AECOM](https://aecom.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000130087974) |
+| Product Designer | [Applaudo](https://applaudo.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/ApplaudoStudios/postings/744000130074087) |
 | Prompt Designer | [NCS](https://ncs.co) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001127659) |
 | Mid Integrated Designer | [Genpak LLC](https://genpak-llc-2) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/brandtechplus/jobs/7978126) |
 | Mid Integrated Designer | [Genpak LLC](https://genpak-llc-2) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/brandtechplus/jobs/7978116) |

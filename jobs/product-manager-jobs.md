@@ -2,12 +2,13 @@
 
 Product manager roles at companies building real products. Sourced directly from career pages.
 
-**155 open roles** — Last updated: 2026-06-04
+**156 open roles** — Last updated: 2026-06-04
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Frontend Capability Manager | [Accesa](https://accesa.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/ACCESA/postings/744000130176989) |
 | Director of Product Management -Product Platform | [CaptivateIQ](https://captivateiq.com) | — | Jun 4 | [Apply](https://jobs.lever.co/captivateiq/3b6badbf-19db-4fb4-8078-be83a84c22a6) |
 | Integrations Partner Manager | [Vanta](https://vanta.com) | — | Jun 3 | [Apply](https://jobs.ashbyhq.com/vanta/44bbff9e-1dee-4a1e-8def-876c3a8a00a7) |
 | Gerente de Solucoes | [Experian](https://experianplc.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000130059479) |
