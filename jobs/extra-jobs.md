@@ -2,17 +2,19 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**895 open roles** — Last updated: 2026-06-04
+**898 open roles** — Last updated: 2026-06-04
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| 📌 Business Head - Pinterest Ads Sales | [Aleph](https://aleph.vc) | — | Jun 4 | [Apply](https://jobs.lever.co/aleph/1ad9387d-440e-42fc-854e-700ec5bfb2de) |
 | Colleague Services Supervisor | [ACCOR](https://group.accor.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130089734) |
 | Experienced Cook 1 & Cook 2 – Permanent Culinary Positions | [ACCOR](https://group.accor.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130087234) |
 | Director of Quality and Training | [ACCOR](https://group.accor.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130084399) |
 | Licensed Therapist (LCSW, LPCC, LMFT) - Remote 1099 Contract, $75-$90/Session | [Daybreak Health](https://daybreakhealth.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/daybreakhealth/jobs/5154869007) |
 | Licensed Therapist (LCSW, LPCC, LMFT) - Remote 1099 Contract, $75-$90/Session | [Daybreak Health](https://daybreakhealth.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/daybreakhealth/jobs/5154862007) |
+| Physical Therapist Assistant  | [Genpak LLC](https://genpak-llc-2) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/drayerpt/jobs/5154764007) |
 | Store Manager | [Anglo American](https://angloamerican.com) | $145K–$150K/yr | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000130068654) |
 | Head of Government Affairs | [Continental](https://continentalserves.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000130062234) |
 | VENDEUR LIBRE SERVICE (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130061584) |
@@ -20,6 +22,7 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | INTERMARCHE - Chef BOUCHER (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130059385) |
 | CHEF BOUCHER | [Genpak LLC](https://genpak-llc-2) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130059059) |
 | Director Adjunct de Magazin  Oltul, Slatina | [JYSK](https://jysk.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000130056618) |
+| Growth Portfolio Executive  | [9th Way Insignia](https://9thwayinsignia.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/9thwayinsignia/jobs/5240553008) |
 | Verkäufer/in (a) 40% in der Filiale St. Gallen | [JYSK](https://jysk.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000130054229) |
 | VENDEUR(SE) BOUCHERIE (H/F)  | [Genpak LLC](https://genpak-llc-2) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130053120) |
 | Remote Triage Nurse | [Firsthand](https://shopfirsthand.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/firsthand/jobs/4272568009) |

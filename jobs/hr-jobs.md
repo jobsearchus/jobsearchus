@@ -2,12 +2,13 @@
 
 Remote HR, recruiting, and people operations roles.
 
-**146 open roles** — Last updated: 2026-06-04
+**147 open roles** — Last updated: 2026-06-04
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Talent Programs Lead | [Replit](https://replit.com) | — | Jun 4 | [Apply](https://jobs.ashbyhq.com/replit/07a2d8e2-acba-411a-9601-9d424d2059dc) |
 | Senior Director, HR Business Partner - Marketing & Product  | [Freshworks](https://freshworks.com) | $246K–$305K/yr | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000130072302) |
 | HR Generalist | [Lilt](https://lilt.com) | — | Jun 3 | [Apply](https://jobs.ashbyhq.com/lilt-corporate/b764fc8f-0adb-41aa-aa72-3769198f79dc) |
 | Coordinator, Human Resources - Coordonnateur·trice des ressources humaines | [NBCUniversal](https://nbcuniversal.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130043869) |

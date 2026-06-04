@@ -2,12 +2,13 @@
 
 Data science, machine learning, and AI engineering roles. Python, SQL, PyTorch, and beyond.
 
-**80 open roles** — Last updated: 2026-06-04
+**81 open roles** — Last updated: 2026-06-04
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Machine Learning Engineer III, Core Agents | [Box](https://box.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/boxinc/jobs/7962270) |
 | Sr. Staff Machine Learning Engineer | [Flex](https://withflex.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/flex/jobs/4699019005) |
 | Sr. Data Scientist | [6sense](https://6sense.com) | — | Jun 3 | [Apply](https://boards.greenhouse.io/6sense/jobs/7974951?gh_jid=7974951) |
 | Lead - POC Data Science | [Sardine](https://sardine.ai) | — | Jun 2 | [Apply](https://jobs.ashbyhq.com/sardine/e6e92a56-1476-48cf-857e-2ea873047a27) |

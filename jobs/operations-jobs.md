@@ -2,12 +2,14 @@
 
 Remote operations and business operations roles across industries.
 
-**893 open roles** — Last updated: 2026-06-04
+**899 open roles** — Last updated: 2026-06-04
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Supervisor (Capo Reparto) - Lonato del Garda C.C. "Il Leone" | [JD Sports](https://jdsports.com) | — | Jun 4 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4882282101) |
+| Business Process Analyst 3 | [Twilio](https://twilio.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7979654) |
 | Class A CDL Driver- Day Route | [Nabis](https://nabis.com) | $31/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/nabis/jobs/6013597004) |
 | Temporary Fulfillment Associate  | [GOAT Group](https://goatgroup.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/goatgroup/jobs/4702672005) |
 | Ticketing Associate Director | [University of Notre Dame](https://universityofnotredame.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013454426) |
@@ -15,9 +17,11 @@ Remote operations and business operations roles across industries.
 | AZ Night Linehaul Great Wages!! | [Manitoulin Global Forwarding](https://manitoulingroup.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000130070049) |
 | Sr. Supply Chain Partnership Manager | [Checkr](https://checkr.com) | $25K/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/checkr/jobs/7974617) |
 | Analista de Control Desk - Traffic & Real Time | [Experian](https://experianplc.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000130048695) |
+| Senior AI GRC Engineer | [Vanta](https://vanta.com) | — | Jun 3 | [Apply](https://jobs.ashbyhq.com/vanta/5edbd271-5b59-48d0-8b8e-96709b781090) |
 | Remote Triage Nurse | [Firsthand](https://shopfirsthand.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/firsthand/jobs/4272569009) |
 |  RECEPTIONNAIRE (H/F) MANUTENTIONNAIRE ENTRETIEN | [Genpak LLC](https://genpak-llc-2) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130046439) |
 | Systems Reliability Operator (10 PM - 8 AM) | [MEMX](https://memx.com) | $90K–$120K/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/memx/jobs/5240350008) |
+| Commercial Door Service Technician - Experienced or Trainee | [DH Pace Company](https://dhpace.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5240374008) |
 | Digital Operations Supervisor | [NBCUniversal](https://nbcuniversal.com) | $92K–$110K/yr | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130033384) |
 | Director, Global Payroll | [Ping Identity](https://pingidentity.com) | $131K–$188K/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/pingidentity/jobs/8574170002) |
 | Werkvoorbereider - Civiele Werken (Gent) | [BESIX](https://besix.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000130029629) |
@@ -29,6 +33,7 @@ Remote operations and business operations roles across industries.
 | Teamleiter (w/m/d) Baulogistik | [Drees & Sommer](https://dreso.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000130003620) |
 | Senior Manager of Major Projects | [Clear Gene](https://cleargene.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/clear/jobs/7921900) |
 | Systems Ops Administrator | [Twilio](https://twilio.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7837165) |
+| Key Account Store Operations Specialist | [Too Good To Go](https://toogoodtogo.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/toogoodtogo/jobs/7762190003) |
 | Global Operations Manager | [VML MAP](https://vml-map.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/map/jobs/8576095002) |
 | Transition Manager (Centre de Service) H/F | [Inetum](https://inetum.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000129953869) |
 | Operations Data Analyst | [takealot.com](https://takealot.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/takealotcom/jobs/7965438) |
@@ -58,6 +63,7 @@ Remote operations and business operations roles across industries.
 | Freight Forwarding Logistic Operator (Korean Bilingual) | [SBT Global](https://sbtglobal.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/SBTGlobalInc/postings/3743990013428576) |
 | SF Office Manager (Contract) | [Phantom](https://phantom.com) | $63/yr | Jun 2 | [Apply](https://jobs.ashbyhq.com/phantom/6ecf08ea-6292-4673-a636-3e2a852ed027) |
 |  Logistics Business Support (Korean Bilingual) | [SBT Global](https://sbtglobal.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/SBTGlobalInc/postings/3743990013427784) |
+| Commercial Installer -Experienced or Trainee!  | [DH Pace Company](https://dhpace.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5239098008) |
 | Global Deputy DPO | [Volito Aviation August 2007](https://trustly.com) | — | Jun 2 | [Apply](https://jobs.lever.co/trustly/97bfddaa-7267-4618-ab12-1e9faf7d4bc8) |
 | Global Privacy Operations Manager | [Volito Aviation August 2007](https://trustly.com) | — | Jun 2 | [Apply](https://jobs.lever.co/trustly/ca20f8b5-18ea-4fdb-8db9-d787e6737c37) |
 | Pâtissier (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129807305) |

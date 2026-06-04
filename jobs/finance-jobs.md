@@ -2,7 +2,7 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**393 open roles** — Last updated: 2026-06-04
+**394 open roles** — Last updated: 2026-06-04
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -10,6 +10,7 @@ Remote finance, accounting, and analyst roles at companies of all sizes.
 | --- | --- | --- | --- | --- |
 | Brokerage Operations Associate I - ACATS | [Alpaca](https://alpaca.markets) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/alpaca/jobs/6013555004) |
 | Senior Director, Accounting | [Deepgram](https://deepgram.com) | — | Jun 3 | [Apply](https://jobs.ashbyhq.com/Deepgram/072271ea-2006-47af-8c4f-e8f9e54daa11) |
+| Enterprise RIA Business Development - Senior Vice President  | [iCapital](https://icapital.com) | $200K–$240K/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8575538002) |
 | Manager, Financial Planning and Analysis (B2B, GTM, SaaS) | [Emburse](https://emburse.com) | — | Jun 3 | [Apply](https://jobs.lever.co/emburse/075b103f-90fc-4bf5-917f-a61a50da5594) |
 | Accountant 3, Fund Accounting | [IQ-EQ](https://iqeq.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000130062886) |
 | Principal Cloud FinOps Analyst | [Horizon3.ai](https://horizon3ai.com) | $241K–$297K/yr | Jun 3 | [Apply](https://jobs.ashbyhq.com/horizon3ai/a57e0bc0-0f60-4201-b86c-c89eea4ec10d) |

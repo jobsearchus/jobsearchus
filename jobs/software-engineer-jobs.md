@@ -2,31 +2,40 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**1297 open roles** — Last updated: 2026-06-04
+**1307 open roles** — Last updated: 2026-06-04
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Scientist, R&D | [e.l.f. Beauty](https://elfbeauty.com) | — | Jun 4 | [Apply](https://jobs.lever.co/elfbeauty/1c05405e-3730-424d-aab6-680941c0078b) |
 | Engineer | [Mable](https://trymable.com) | — | Jun 4 | [Apply](https://jobs.lever.co/mable/37371970-00c1-4306-a6b6-6b8ec9db66cf) |
 | Senior Data Analyst | [Mable](https://trymable.com) | — | Jun 4 | [Apply](https://jobs.lever.co/mable/ea8048c3-c8cd-4c9f-be11-d0eed6ebc37c) |
 | Electrical Engineer – Vehicle Systems | [Parallel](https://beparallel.com) | — | Jun 4 | [Apply](https://boards.greenhouse.io/parallel/jobs/5155218007?gh_jid=5155218007) |
+| Senior Software Engineer, Autonomous Freight Systems | [Flexport](https://flexport.com) | — | Jun 3 | [Apply](https://boards.greenhouse.io/flexport/jobs/7975365?gh_jid=7975365) |
 | Staff Software Technical Program Manager, Platform | [RADAR](https://goradar.com) | $165K–$215K/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/radar/jobs/7974957) |
+| Sr. Supplier Quality Engineer | [Archer](https://archer.com) | $105K–$135K/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7752132003) |
 | Director, GTM Engineering & Systems | [Ashby](https://ashbyhq.com) | — | Jun 3 | [Apply](https://jobs.ashbyhq.com/ashby/6abcee41-5c58-4825-aba2-baba665cdb24) |
+| Lead, Propulsion Analyst  | [Relativity Space](https://relativityspace.com) | — | Jun 3 | [Apply](https://boards.greenhouse.io/relativity/jobs/8550859002?gh_jid=8550859002) |
+| Aerodynamics Engineer I | [Relativity Space](https://relativityspace.com) | — | Jun 3 | [Apply](https://boards.greenhouse.io/relativity/jobs/8143970002?gh_jid=8143970002) |
 | Analista de Transmisiones / Control‑M – Entornos Previos  | [Inetum](https://inetum.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000130094579) |
 | Civil CAD Drafter/Technician  | [KPFF Consulting Engineers](https://kpff.com) | $50/yr | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/KPFFConsultingEngineers/postings/3743990013458190) |
 | Chief Architect | [Legion Health](https://legionhealth.com) | $300K–$385K/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/legion/jobs/7763058003) |
 | Structural Engineering Manager   | [Remora](https://remoracarbon.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/remoracarbon/jobs/5154988007) |
 | Software Development Manager, Commerce | [Twitch](https://twitch.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8577609002) |
 | Software Development Manager, Commerce | [Twitch](https://twitch.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8577598002) |
+| Senior Software Engineer | [Confluent](https://confluent.io) | — | Jun 3 | [Apply](https://jobs.ashbyhq.com/confluent/905efbaa-d814-4b16-a377-d417c7d3d772) |
 | Senior Software Engineer - Database Engine | [SingleStore](https://singlestore.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/singlestore/jobs/7863354) |
 | Staff Software Engineer | [Clutch](https://clutch.io) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/clutch/jobs/6013361004) |
+| Director of Marketing Analytics (Remote) | [Rula](https://rula.com) | — | Jun 3 | [Apply](https://jobs.ashbyhq.com/rula/ddb7a13b-e54e-4bf6-b89d-20df0ebc6f90) |
 | Senior Python engineer (All Genders) | [Dailymotion](https://dailymotion.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/Dailymotion/postings/744000130057659) |
 | Software Engineering Intern | [BillionToOne](https://billiontoone.com) | $25/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/billiontoone/jobs/4702398005) |
 | Android Application Engineer | [Lilt](https://lilt.com) | — | Jun 3 | [Apply](https://jobs.ashbyhq.com/lilt-corporate/55971c15-9633-482e-92f2-b80dffa4f256) |
 | HIL Technician II | [Inversion Space](https://inversionspace.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/inversionspace/jobs/4702386005) |
+| Commercial Door Installer - Experienced or Trainee | [DH Pace Company](https://dhpace.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5240379008) |
 | Facilities Management Assistant | [Axle](https://axle.insure) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/axle/jobs/5151423007) |
 | Senior System Engineering Analyst, System-of-Systems Engineering | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $90K–$120K/yr | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000130035079) |
+| Google Cloud Architect (all genders) | [Genpak LLC](https://genpak-llc-2) | — | Jun 3 | [Apply](https://job-boards.eu.greenhouse.io/valtech/jobs/4881192101) |
 | Production Support Engineer – CCaaS | [Miratech](https://miratech.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000130031931) |
 | Werkvoorbereider - Civiele Werken (Gent) | [BESIX](https://besix.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000130029309) |
 | Werkvoorbereider - Civiele Werken (Gent) | [BESIX](https://besix.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000130028857) |
@@ -56,6 +65,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Staff Engineer, SAP ARIBA | [Nagarro](https://nagarro.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000129924679) |
 | Senior Officer (Data Analytics), Asset Owner Solutions | [IQ-EQ](https://iqeq.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000129919860) |
 | Tyre Fitter | [Anglo American](https://angloamerican.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000129921079) |
+| Senior Product Support Engineer | [Zscaler](https://zscaler.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5147239007) |
 | Auto Electrician | [Anglo American](https://angloamerican.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000129920210) |
 | HSE Advisor Vlaanderen | [BESIX](https://besix.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000129920320) |
 | Member Of Technical Staff - Drive Qual | [Pure Storage](https://purestorage.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/7929682) |

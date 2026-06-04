@@ -2,24 +2,33 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**774 open roles** — Last updated: 2026-06-04
+**783 open roles** — Last updated: 2026-06-04
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior business development manager, omnichannel | [Flexport](https://flexport.com) | — | Jun 4 | [Apply](https://boards.greenhouse.io/flexport/jobs/7981626?gh_jid=7981626) |
+| Partner Business Manager – Distribution and Commercial Sales (ANZ) | [Genpak LLC](https://genpak-llc-2) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/commvault/jobs/5233782008) |
 | Account Executive | [BillionToOne](https://billiontoone.com) | $185K–$248K/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/billiontoone/jobs/4702588005) |
+| Full-cycle Inside Sales Executive | [Too Good To Go](https://toogoodtogo.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/toogoodtogo/jobs/7763166003) |
+| Configuration Management - Specalist - Powertrain | [Archer](https://archer.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7741010003) |
+| New Logo Account Executive | [SugarCRM](https://sugarcrm.com) | — | Jun 3 | [Apply](https://jobs.lever.co/sugarcrm/2d2b1f2c-c466-49be-90a1-2f55df28c2d3) |
 | Sales Development Representative, Singapore | [Horizon3.ai](https://horizon3ai.com) | — | Jun 3 | [Apply](https://jobs.ashbyhq.com/horizon3ai/be3f24da-cc9c-42d0-8bc6-4545676738db) |
 | Mid-Market Account Executive, Singapore | [Horizon3.ai](https://horizon3ai.com) | — | Jun 3 | [Apply](https://jobs.ashbyhq.com/horizon3ai/3f11f0c1-0889-46c8-b496-d51a929ce6bf) |
 | Provider Partnerships Regional Manager | [Nourish](https://usenourish.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/usenourish/jobs/5240359008) |
 | Provider Partnerships Regional Manager | [Nourish](https://usenourish.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/usenourish/jobs/5240371008) |
+| Account Executive, AWS | [NeuraFlash](https://neuraflash.com) | $94K–$277K/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/neuraflash/jobs/6013420004) |
 | Provider Partnerships Regional Manager | [Nourish](https://usenourish.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/usenourish/jobs/5240340008) |
 | Brand Ambassador (Sales), Galleria Mall, Houston, TX | [Anglo American](https://angloamerican.com) | $55K–$60K/yr | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000130067802) |
 | HCM Business Consultant - Orlando, FL | [Distro](https://distro.app) | — | Jun 3 | [Apply](https://jobs.lever.co/distro/c9b3a06d-a113-400a-8905-5f4593684172) |
 | HCM Business Consultant - CA | [Distro](https://distro.app) | — | Jun 3 | [Apply](https://jobs.lever.co/distro/fe57b6a6-accc-4cb3-b228-144a72a2890f) |
 | Account Executive, Renewal Sales | [Kapitus](https://kapitus.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/kapitus/jobs/4238404009) |
 | Chef des ventes F/H/X | [BUT](https://but.fr) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000130054319) |
+| Account Executive 4 | [Twilio](https://twilio.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7967998) |
 | Pet Insurance Sales Associate - Harrisburg, PA  | [Fetch](https://fetchtruck.com) | $55K–$100K/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/fetch/jobs/4272554009) |
+| Enterprise Sales Engineer | [Box](https://box.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/boxinc/jobs/7950392) |
+| Director, Business Development (Mid Market Growth) | [The Trade Desk](https://thetradedesk.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5153155007) |
 | SI Partner Manager - Germany | [Freshworks](https://freshworks.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000130041939) |
 | Senior Software Engineer, Backend | [Flex](https://withflex.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/flex/jobs/4702333005) |
 |  Addetto Acquisti Auto e Back office- Desenzano del Garda | [AUTO1 Group](https://auto1-group.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000130024381) |

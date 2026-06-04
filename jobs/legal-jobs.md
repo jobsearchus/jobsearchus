@@ -2,12 +2,13 @@
 
 Remote legal, compliance, and counsel roles.
 
-**85 open roles** — Last updated: 2026-06-04
+**86 open roles** — Last updated: 2026-06-04
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Associate General Counsel, Product & Privacy | [The Trade Desk](https://thetradedesk.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5154942007) |
 | Senior Regulatory & Policy Counsel | [Checkr](https://checkr.com) | $25K/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/checkr/jobs/7974547) |
 | Senior In-House Counsel (Patents) | [VusionGroup SA](https://vusiongroup.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/VusionGroupSA/postings/744000130059370) |
 | Senior Contracts Manager | [The Trade Desk](https://thetradedesk.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5153705007) |
