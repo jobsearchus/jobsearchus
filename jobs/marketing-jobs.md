@@ -2,12 +2,13 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**312 open roles** — Last updated: 2026-06-04
+**313 open roles** — Last updated: 2026-06-04
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Growth Marketing Lead | [Keyfactor](https://keyfactor.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/keyfactorinc/jobs/6014002004) |
 | Digital Trading Manager - EU Sites | [Frasers Group](https://frasersgroup.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000130156979) |
 | Director, Brand Marketing | [The Trade Desk](https://thetradedesk.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5144986007) |
 | Account Manager, Paid Social | [WPP Media](https://wppmedia.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5223928008) |

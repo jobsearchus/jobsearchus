@@ -2,17 +2,26 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**398 open roles** — Last updated: 2026-06-04
+**407 open roles** — Last updated: 2026-06-04
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Portfolio Advisor | [Baringa](https://baringa.com) | — | Jun 4 | [Apply](https://job-boards.eu.greenhouse.io/baringa/jobs/4881291101) |
+| Comptable confirmé H/F  *** URGENT *** | [ACCOR](https://group.accor.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130249159) |
+| Hulpboekhouder (ROCO) | [BESIX](https://besix.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000130222789) |
+| Associate Director Finance | [Flagship Pioneering, Inc.](https://flagshippioneering.com) | $148K–$204K/yr | Jun 4 | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8577784002?gh_jid=8577784002) |
+| Payroll Specialist | [Flagship Pioneering, Inc.](https://flagshippioneering.com) | $88K–$121K/yr | Jun 4 | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8577817002?gh_jid=8577817002) |
+| Manager, Relationship, Commercial | [Standard Bank](https://standardbank.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000130209970) |
+| Analyst, Relationship (Ongwediva & Windhoek) | [Standard Bank](https://standardbank.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000130206364) |
+| Analyst, Client | [Standard Bank](https://standardbank.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000130202439) |
 | Business Analyst - Service Now | [Miratech](https://miratech.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000130178159) |
 | Senior Staff Consultant (Reporting Analyst) | [Nagarro](https://nagarro.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000130159324) |
 | Brokerage Operations Associate I - ACATS | [Alpaca](https://alpaca.markets) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/alpaca/jobs/6013555004) |
 | Senior Director, Accounting | [Deepgram](https://deepgram.com) | — | Jun 3 | [Apply](https://jobs.ashbyhq.com/Deepgram/072271ea-2006-47af-8c4f-e8f9e54daa11) |
 | Senior Financial Analyst, Operations | [Avery Dennison](https://averydennison.com) | $81K–$121K/yr | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000130088989) |
+| Analista de Ativo Fixo  | [Anglo American](https://angloamerican.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000130085279) |
 | Enterprise RIA Business Development - Senior Vice President  | [iCapital](https://icapital.com) | $200K–$240K/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8575538002) |
 | Manager, Financial Planning and Analysis (B2B, GTM, SaaS) | [Emburse](https://emburse.com) | — | Jun 3 | [Apply](https://jobs.lever.co/emburse/075b103f-90fc-4bf5-917f-a61a50da5594) |
 | Project Accounting Manager | [AECOM](https://aecom.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000130071161) |

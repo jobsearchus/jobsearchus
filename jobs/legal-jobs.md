@@ -2,12 +2,13 @@
 
 Remote legal, compliance, and counsel roles.
 
-**87 open roles** — Last updated: 2026-06-04
+**88 open roles** — Last updated: 2026-06-04
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Contracts Attorney | [Flagship Pioneering, Inc.](https://flagshippioneering.com) | $138K–$237K/yr | Jun 4 | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8577828002?gh_jid=8577828002) |
 | Director, Information Governance | [NBCUniversal](https://nbcuniversal.com) | $110K–$140K/yr | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130103229) |
 | Associate General Counsel, Product & Privacy | [The Trade Desk](https://thetradedesk.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5154942007) |
 | Senior Regulatory & Policy Counsel | [Checkr](https://checkr.com) | $25K/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/checkr/jobs/7974547) |

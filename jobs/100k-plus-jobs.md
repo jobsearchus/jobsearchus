@@ -2,12 +2,16 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**572 open roles** — Last updated: 2026-06-04
+**576 open roles** — Last updated: 2026-06-04
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Sr. Staff/Staff Design Verification Engineer | [Cerebras Systems](https://cerebras.net) | $250K–$300K/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/cerebrassystems/jobs/7763735003) |
+| Director of Product Management | [Jump](https://jump.com) | $220K–$250K/yr | Jun 4 | [Apply](https://jobs.ashbyhq.com/jump-app/f7e31035-f4b6-4df2-915f-5aba1830142f) |
+| Associate Director Finance | [Flagship Pioneering, Inc.](https://flagshippioneering.com) | $148K–$204K/yr | Jun 4 | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8577784002?gh_jid=8577784002) |
+| Contracts Attorney | [Flagship Pioneering, Inc.](https://flagshippioneering.com) | $138K–$237K/yr | Jun 4 | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8577828002?gh_jid=8577828002) |
 | Sales Executive (Programmatic) | [Gameloft](https://gameloft.com) | $110K–$130K/yr | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/Gameloft/postings/744000130175769) |
 | Sales Executive (Programmatic) | [Gameloft](https://gameloft.com) | $110K–$130K/yr | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/Gameloft/postings/744000130174571) |
 | Director, Information Governance | [NBCUniversal](https://nbcuniversal.com) | $110K–$140K/yr | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130103229) |

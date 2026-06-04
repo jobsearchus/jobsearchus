@@ -2,13 +2,25 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**1323 open roles** — Last updated: 2026-06-04
+**1342 open roles** — Last updated: 2026-06-04
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Data Center Engineer | [DRW](https://drw.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7982269) |
+| Desktop Systems Engineer | [DRW](https://drw.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7979645) |
+| Senior Solution Architect - Sales & Marketing | [WPP](https://wpp.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/wpp/jobs/8570388002) |
+| Business Operations Lead, Datacenters | [Cerebras Systems](https://cerebras.net) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/cerebrassystems/jobs/7763752003) |
+| Process Engineer | [Mariana Minerals](https://marianaminerals.com) | — | Jun 4 | [Apply](https://jobs.ashbyhq.com/marianaminerals/d0036867-cb67-49fb-909b-56712e9f66c1) |
+| Hospice Certified Home Health Aide (CHHA/CNA) | [Silverado](https://silverado.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/silverado/jobs/5154969007) |
+| Electrical Engineering Studio Leader  | [DLR Group](https://dlrgroup.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/dlrgroup/jobs/5245718008) |
+| Sustaining Engineering Lead | [Actian](https://actian.com) | — | Jun 4 | [Apply](https://jobs.lever.co/actian/f1add232-5e8c-4121-a3c5-dce5f27ae4ec) |
+| AI Tech Leader | [Genpak LLC](https://genpak-llc-2) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/martellgrowthsolutions/jobs/5248020008) |
+| Data Engineering Consultant | [Baringa](https://baringa.com) | — | Jun 4 | [Apply](https://job-boards.eu.greenhouse.io/baringa/jobs/4873814101) |
+| BI Engineer: Takealot Group | [takealot.com](https://takealot.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/takealotgroup/jobs/7981943) |
 | Senior Software Engineer | [Experian](https://experianplc.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000130186879) |
+| GenAI Integrated Project Manager | [Genpak LLC](https://genpak-llc-2) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/brandtechplus/jobs/7981908) |
 | Ops Support Executive, Digital Care (Team Lead) | [NCS](https://ncs.co) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001132998) |
 | Ingénieur Fonctionnel Coflight H/F | [Egis](https://egis-group.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000130174954) |
 | Signage Asset Engineer (Roads O&M) | [Egis](https://egis-group.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000130171929) |
@@ -20,6 +32,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Senior Workplace Engineer (M365 & PowerShell) with German | [Accesa](https://accesa.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/ACCESA/postings/744000130157644) |
 | IT Support Specialist | [Netcompany](https://netcompany.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000130157054) |
 | Senior Scientist, R&D | [e.l.f. Beauty](https://elfbeauty.com) | — | Jun 4 | [Apply](https://jobs.lever.co/elfbeauty/1c05405e-3730-424d-aab6-680941c0078b) |
+| Anime Production Intern, Japan | [NBCUniversal](https://nbcuniversal.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130134659) |
 | Engineer | [Mable](https://trymable.com) | — | Jun 4 | [Apply](https://jobs.lever.co/mable/37371970-00c1-4306-a6b6-6b8ec9db66cf) |
 | Senior Data Analyst | [Mable](https://trymable.com) | — | Jun 4 | [Apply](https://jobs.lever.co/mable/ea8048c3-c8cd-4c9f-be11-d0eed6ebc37c) |
 | Electrical Engineer – Vehicle Systems | [Parallel](https://beparallel.com) | — | Jun 4 | [Apply](https://boards.greenhouse.io/parallel/jobs/5155218007?gh_jid=5155218007) |
@@ -28,7 +41,10 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Staff Software Technical Program Manager, Platform | [RADAR](https://goradar.com) | $165K–$215K/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/radar/jobs/7974957) |
 | Sr. Supplier Quality Engineer | [Archer](https://archer.com) | $105K–$135K/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7752132003) |
 | Director, GTM Engineering & Systems | [Ashby](https://ashbyhq.com) | — | Jun 3 | [Apply](https://jobs.ashbyhq.com/ashby/6abcee41-5c58-4825-aba2-baba665cdb24) |
+| Assistant Project Manager - Engineering Technical Delivery | [AECOM](https://aecom.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000130097880) |
 | Lead, Propulsion Analyst  | [Relativity Space](https://relativityspace.com) | — | Jun 3 | [Apply](https://boards.greenhouse.io/relativity/jobs/8550859002?gh_jid=8550859002) |
+| Assistant Project Manager - Engineering Technical Delivery | [AECOM](https://aecom.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000130098379) |
+| Intern CAD Technician | [AECOM](https://aecom.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000130095298) |
 | Aerodynamics Engineer I | [Relativity Space](https://relativityspace.com) | — | Jun 3 | [Apply](https://boards.greenhouse.io/relativity/jobs/8143970002?gh_jid=8143970002) |
 | Analista de Transmisiones / Control‑M – Entornos Previos  | [Inetum](https://inetum.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000130094579) |
 | Associate Engineer, Production Support | [NBCUniversal](https://nbcuniversal.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130092247) |
@@ -49,11 +65,13 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | HIL Technician II | [Inversion Space](https://inversionspace.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/inversionspace/jobs/4702386005) |
 | Commercial Door Installer - Experienced or Trainee | [DH Pace Company](https://dhpace.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5240379008) |
 | Facilities Management Assistant | [Axle](https://axle.insure) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/axle/jobs/5151423007) |
+| Senior Mechanical Engineer - Gas & Energy | [DLR Group](https://dlrgroup.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/dlrgroup/jobs/5240341008) |
 | Senior System Engineering Analyst, System-of-Systems Engineering | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $90K–$120K/yr | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000130035079) |
 | Google Cloud Architect (all genders) | [Genpak LLC](https://genpak-llc-2) | — | Jun 3 | [Apply](https://job-boards.eu.greenhouse.io/valtech/jobs/4881192101) |
 | Production Support Engineer – CCaaS | [Miratech](https://miratech.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000130031931) |
 | Werkvoorbereider - Civiele Werken (Gent) | [BESIX](https://besix.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000130029309) |
 | Werkvoorbereider - Civiele Werken (Gent) | [BESIX](https://besix.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000130028857) |
+|  Kwaliteitsmedewerker - Antwerpen & Limburg | [BESIX](https://besix.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000130026470) |
 | IT Solutions Consultant | [University of Notre Dame](https://universityofnotredame.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013445966) |
 | Industry Strategy Lead | [CoLab](https://colabsoftware.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/colabsoftware/jobs/5238706008) |
 | Credit Risk Analyst  | [Reach](https://reachpower.com) | $90K–$110K/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/reach/jobs/8573228002) |
@@ -103,6 +121,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Senior Solutions Engineer, Commercial (West) | [ClickUp](https://clickup.com) | — | Jun 2 | [Apply](https://jobs.ashbyhq.com/clickup/4c0960cd-ce17-463a-95c9-81f240059fd7) |
 | Senior Software Engineer - AI Intelligence | [Honeycomb.io](https://honeycomb.io) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/honeycomb/jobs/5212323008) |
 | Senior Python engineer – AI integration (All Genders) | [Dailymotion](https://dailymotion.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/Dailymotion/postings/744000129827934) |
+| Scientist, Research (Epigenomics) | [Natera](https://natera.com) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/natera/jobs/6007074004) |
 | Senior AI Product Engineer, Frameworks | [Drata](https://drata.com) | $167K–$226K/yr | Jun 2 | [Apply](https://jobs.ashbyhq.com/drata/16a05c2f-c8a2-47c5-995b-9a817a8955ba) |
 | Entry Level - Structural Bridge Designer | [KPFF Consulting Engineers](https://kpff.com) | $76K–$83K/yr | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/KPFFConsultingEngineers/postings/3743990013426596) |
 | Entry Level - Structural Designer | [KPFF Consulting Engineers](https://kpff.com) | $80K–$90K/yr | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/KPFFConsultingEngineers/postings/3743990013425906) |

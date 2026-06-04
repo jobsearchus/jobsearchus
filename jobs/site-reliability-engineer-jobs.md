@@ -2,12 +2,13 @@
 
 SRE and reliability engineering roles at companies that take uptime seriously.
 
-**18 open roles** — Last updated: 2026-06-04
+**19 open roles** — Last updated: 2026-06-04
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Site Reliability Engineer | [Sectigo](https://sectigo.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/Sectigo/postings/3743990013465967) |
 | Senior SRE/Platform/ Observability Engineer | [NCS](https://ncs.co) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001129569) |
 | Senior Site Reliability Engineer | [Wikimedia Foundation](https://wikimediafoundation.org) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/wikimedia/jobs/7972965) |
 | Senior Site Reliability Engineer, Wikimedia Enterprise | [Wikimedia Foundation](https://wikimediafoundation.org) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/wikimedia/jobs/7946461) |

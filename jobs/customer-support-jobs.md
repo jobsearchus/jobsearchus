@@ -2,7 +2,7 @@
 
 Remote customer support and success roles across SaaS, e-commerce, and tech.
 
-**236 open roles** — Last updated: 2026-06-04
+**238 open roles** — Last updated: 2026-06-04
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -11,6 +11,8 @@ Remote customer support and success roles across SaaS, e-commerce, and tech.
 |  HÔTE DE CAISSE/ ACCUEIL (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130190899) |
 | German Customer Service Agent | [MSX International](https://msxi.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013464196) |
 | Agente de Atención al Cliente | [MSX International](https://msxi.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013464152) |
+| Operator | [Avery Dennison](https://averydennison.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000130160989) |
+| Customer Service Executive (Bilingual - English & Chinese) | [Avery Dennison](https://averydennison.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000130136679) |
 | Customer Service Executive (Bilingual Chinese & English speaking) | [Avery Dennison](https://averydennison.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000130136249) |
 | Sales Coordinator | [Continental](https://continentalserves.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000130026699) |
 | Customer Success Manager (m/w/d) | [VusionGroup SA](https://vusiongroup.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/VusionGroupSA/postings/744000129937719) |

@@ -2,22 +2,38 @@
 
 Remote operations and business operations roles across industries.
 
-**910 open roles** — Last updated: 2026-06-04
+**926 open roles** — Last updated: 2026-06-04
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Fiber Inventory Specialist | [Enviva](https://envivabiomass.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/enviva/jobs/7763506003) |
+| Sr. Staff/Staff Design Verification Engineer | [Cerebras Systems](https://cerebras.net) | $250K–$300K/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/cerebrassystems/jobs/7763735003) |
+| ASIC Architect | [Cerebras Systems](https://cerebras.net) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/cerebrassystems/jobs/7753254003) |
+| Apprenti(e) Assistant(e) de Direction / Chef de Projet – Niveau Master (H/F) | [ACCOR](https://group.accor.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130246857) |
+| Chip Mill Operator | [Enviva](https://envivabiomass.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/enviva/jobs/7759312003) |
+| Store Manager In-Training | [Serv-U-Success](https://servusuccess.com) | — | Jun 4 | [Apply](https://jobs.lever.co/serv-u-success/46d14ac5-b47b-4502-a55f-c9fbe9d49795) |
+| Assistant manager - Adjoint responsable administratif (H/F) | [AUTO1 Group](https://auto1-group.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000130221549) |
+| Control Room Operator | [Enviva](https://envivabiomass.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/enviva/jobs/7763453003) |
+| CHARCUTIER-TRAITEUR (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130208894) |
+| Event Manager  | [JustMarkets](https://justmarkets.com) | — | Jun 4 | [Apply](https://job-boards.eu.greenhouse.io/justmarkets/jobs/4879609101) |
 | EDI Central Key User / Business Analyst for APAC Region | [Continental](https://continentalserves.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000130186049) |
 | Maintenance Technician | [Egis](https://egis-group.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000130183719) |
+| Risicomanager | [BESIX](https://besix.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000130158571) |
 | Supervisor (Capo Reparto) - Lonato del Garda C.C. "Il Leone" | [JD Sports](https://jdsports.com) | — | Jun 4 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4882282101) |
+| Product Support Specialist | [AHEAD](https://ahead.com) | — | Jun 4 | [Apply](https://jobs.lever.co/thinkahead/2b33d120-2312-4002-b74a-1151d898dd2e) |
+| Coal Operator: Maintenance (Tyre Fitter) | [Anglo American](https://angloamerican.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000130139309) |
 | Print Ops Specialist | [Canva](https://canva.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001130371) |
 | Business Process Analyst 3 | [Twilio](https://twilio.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7979654) |
+| Supervisor Guest Experience | [NBCUniversal](https://nbcuniversal.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130104780) |
 | Operador Suaje | [Avery Dennison](https://averydennison.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000130105029) |
+| Supervisor Main Entry Operations | [NBCUniversal](https://nbcuniversal.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130104849) |
 | Warehouse Innovation Project Manager | [SBT Global](https://sbtglobal.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/SBTGlobalInc/postings/3743990013460636) |
 | Class A CDL Driver- Day Route | [Nabis](https://nabis.com) | $31/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/nabis/jobs/6013597004) |
 |  Logistics Business Support (Korean Bilingual) | [SBT Global](https://sbtglobal.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/SBTGlobalInc/postings/3743990013460352) |
 | Automotive Service Technician / Mechanic - Weekends Off - Huntersville | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000130098285) |
+| Senior Manager, Physical Security Systems and Operations | [AHEAD](https://ahead.com) | — | Jun 3 | [Apply](https://jobs.lever.co/thinkahead/877ce4ce-8669-44c4-b961-14049918ec9e) |
 | Class 1 LCV Line Haul Driver Great Wages!! | [Manitoulin Global Forwarding](https://manitoulingroup.com) | $36/yr | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000130094799) |
 | Temporary Fulfillment Associate  | [GOAT Group](https://goatgroup.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/goatgroup/jobs/4702672005) |
 | Automotive Service Advisor / Writer - Weekends Off - Cheyenne | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000130086081) |

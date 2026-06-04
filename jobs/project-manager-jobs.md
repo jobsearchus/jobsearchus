@@ -2,16 +2,20 @@
 
 Project and program management roles across tech, operations, and enterprise.
 
-**91 open roles** — Last updated: 2026-06-04
+**95 open roles** — Last updated: 2026-06-04
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Task Order Project Manager (DLA JETS DLP) | [Horizon Industries](https://horizonindustries.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/horizonindustrieslimited/jobs/5248246008) |
+| Senior CGI Generalist  | [Genpak LLC](https://genpak-llc-2) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/brandtechplus/jobs/7957135) |
 | Project Manager | [IQ-EQ](https://iqeq.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000130194529) |
 | Project Director | [NCS](https://ncs.co) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001132580) |
 | Especialista de Gestao de Projetos  | [Experian](https://experianplc.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000130051809) |
 | Project Director - Rail, Roadways and Resort Development  | [NBCUniversal](https://nbcuniversal.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000129993169) |
+| Großprojektleiter (m/w/d) Onshore-Leitungs- und Trassenbau (Gas / Wasserstoff / Strom) | [Drees & Sommer](https://dreso.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000129982934) |
+| Großprojektleiter (m/w/d) Onshore-Leitungs- und Trassenbau (Gas / Wasserstoff / Strom) | [Drees & Sommer](https://dreso.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000129980394) |
 | Senior Integrated Project Manager  | [Genpak LLC](https://genpak-llc-2) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/brandtechplus/jobs/7917991) |
 | PMO Junior | [Inetum](https://inetum.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000129956419) |
 | Member Of Technical Staff - Drive Qual | [Pure Storage](https://purestorage.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/7929695) |

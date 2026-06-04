@@ -2,13 +2,16 @@
 
 Product manager roles at companies building real products. Sourced directly from career pages.
 
-**156 open roles** — Last updated: 2026-06-04
+**159 open roles** — Last updated: 2026-06-04
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Director of Product Management | [Jump](https://jump.com) | $220K–$250K/yr | Jun 4 | [Apply](https://jobs.ashbyhq.com/jump-app/f7e31035-f4b6-4df2-915f-5aba1830142f) |
+| Senior Manager, Product Management - Data & Technology Solutions (DTS)  | [WPP](https://wpp.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/wpp/jobs/8577645002) |
 | Frontend Capability Manager | [Accesa](https://accesa.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/ACCESA/postings/744000130176989) |
+| Product Data Specialist 产品数据专员 | [Avery Dennison](https://averydennison.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000130147149) |
 | Director of Product Management -Product Platform | [CaptivateIQ](https://captivateiq.com) | — | Jun 4 | [Apply](https://jobs.lever.co/captivateiq/3b6badbf-19db-4fb4-8078-be83a84c22a6) |
 | Integrations Partner Manager | [Vanta](https://vanta.com) | — | Jun 3 | [Apply](https://jobs.ashbyhq.com/vanta/44bbff9e-1dee-4a1e-8def-876c3a8a00a7) |
 | Gerente de Solucoes | [Experian](https://experianplc.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000130059479) |
