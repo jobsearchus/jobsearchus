@@ -2,13 +2,16 @@
 
 Remote creative roles — copywriters, content creators, graphic designers, and brand specialists.
 
-**75 open roles** — Last updated: 2026-06-03
+**78 open roles** — Last updated: 2026-06-04
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Graphic Designer | [Distro](https://distro.app) | — | Jun 3 | [Apply](https://jobs.lever.co/distro/8b155327-000b-482e-a93e-912b88d6ed88) |
 | Creative Coordinator | [NBCUniversal](https://nbcuniversal.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130050209) |
+| Creative Strategist | [StackAdapt](https://stackadapt.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/stackadapt/jobs/4272563009) |
+| Team Lead Creative Production (f/m/x) | [AUTO1 Group](https://auto1-group.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000130032995) |
 | Senior Producer, Breaking News Specials (Weekends) | [NBCUniversal](https://nbcuniversal.com) | $125K–$170K/yr | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130028778) |
 | 2D Artist | [Gameloft](https://gameloft.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/Gameloft/postings/744000129931714) |
 | Studio Game Artist Lead | [Gameloft](https://gameloft.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/Gameloft/postings/744000129712105) |

@@ -2,19 +2,41 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**1273 open roles** — Last updated: 2026-06-03
+**1297 open roles** — Last updated: 2026-06-04
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Engineer | [Mable](https://trymable.com) | — | Jun 4 | [Apply](https://jobs.lever.co/mable/37371970-00c1-4306-a6b6-6b8ec9db66cf) |
+| Senior Data Analyst | [Mable](https://trymable.com) | — | Jun 4 | [Apply](https://jobs.lever.co/mable/ea8048c3-c8cd-4c9f-be11-d0eed6ebc37c) |
+| Electrical Engineer – Vehicle Systems | [Parallel](https://beparallel.com) | — | Jun 4 | [Apply](https://boards.greenhouse.io/parallel/jobs/5155218007?gh_jid=5155218007) |
+| Staff Software Technical Program Manager, Platform | [RADAR](https://goradar.com) | $165K–$215K/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/radar/jobs/7974957) |
+| Director, GTM Engineering & Systems | [Ashby](https://ashbyhq.com) | — | Jun 3 | [Apply](https://jobs.ashbyhq.com/ashby/6abcee41-5c58-4825-aba2-baba665cdb24) |
+| Analista de Transmisiones / Control‑M – Entornos Previos  | [Inetum](https://inetum.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000130094579) |
+| Civil CAD Drafter/Technician  | [KPFF Consulting Engineers](https://kpff.com) | $50/yr | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/KPFFConsultingEngineers/postings/3743990013458190) |
+| Chief Architect | [Legion Health](https://legionhealth.com) | $300K–$385K/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/legion/jobs/7763058003) |
+| Structural Engineering Manager   | [Remora](https://remoracarbon.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/remoracarbon/jobs/5154988007) |
+| Software Development Manager, Commerce | [Twitch](https://twitch.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8577609002) |
+| Software Development Manager, Commerce | [Twitch](https://twitch.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8577598002) |
+| Senior Software Engineer - Database Engine | [SingleStore](https://singlestore.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/singlestore/jobs/7863354) |
+| Staff Software Engineer | [Clutch](https://clutch.io) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/clutch/jobs/6013361004) |
 | Senior Python engineer (All Genders) | [Dailymotion](https://dailymotion.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/Dailymotion/postings/744000130057659) |
+| Software Engineering Intern | [BillionToOne](https://billiontoone.com) | $25/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/billiontoone/jobs/4702398005) |
+| Android Application Engineer | [Lilt](https://lilt.com) | — | Jun 3 | [Apply](https://jobs.ashbyhq.com/lilt-corporate/55971c15-9633-482e-92f2-b80dffa4f256) |
+| HIL Technician II | [Inversion Space](https://inversionspace.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/inversionspace/jobs/4702386005) |
+| Facilities Management Assistant | [Axle](https://axle.insure) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/axle/jobs/5151423007) |
 | Senior System Engineering Analyst, System-of-Systems Engineering | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $90K–$120K/yr | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000130035079) |
 | Production Support Engineer – CCaaS | [Miratech](https://miratech.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000130031931) |
+| Werkvoorbereider - Civiele Werken (Gent) | [BESIX](https://besix.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000130029309) |
+| Werkvoorbereider - Civiele Werken (Gent) | [BESIX](https://besix.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000130028857) |
 | IT Solutions Consultant | [University of Notre Dame](https://universityofnotredame.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013445966) |
+| Industry Strategy Lead | [CoLab](https://colabsoftware.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/colabsoftware/jobs/5238706008) |
+| Credit Risk Analyst  | [Reach](https://reachpower.com) | $90K–$110K/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/reach/jobs/8573228002) |
 | Content Marketing Manager | [Socure](https://socure.com) | — | Jun 3 | [Apply](https://jobs.ashbyhq.com/socure/eb900ba1-8fc5-401b-83bc-d9742f30f98e) |
 | Senior Amazon Connect  | [Miratech](https://miratech.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000129990512) |
 | Adobe Enterprise Architect | [VML](https://vml.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/vmlenterprisesolutions/jobs/8570568002) |
+| Großprojektleiter (m/w/d) Onshore-Leitungs- und Trassenbau (Gas / Wasserstoff / Strom) | [Drees & Sommer](https://dreso.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000129983219) |
 | Director Engineering | [SingleStore](https://singlestore.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/singlestore/jobs/7977111) |
 | Senior Staff Engineer, Teamcenter  | [Nagarro](https://nagarro.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000129969819) |
 | DC Industrial Engineer | [takealot.com](https://takealot.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/takealotcom/jobs/7971988) |
@@ -60,6 +82,8 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Entry Level - Structural Designer | [KPFF Consulting Engineers](https://kpff.com) | $80K–$90K/yr | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/KPFFConsultingEngineers/postings/3743990013425906) |
 | Entry Level - Structural Designer | [KPFF Consulting Engineers](https://kpff.com) | $80K–$90K/yr | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/KPFFConsultingEngineers/postings/3743990013425389) |
 | Senior Project Engineer - Systems Engineer | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $110K–$135K/yr | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000129817999) |
+| Structural Designer - 1-4 Years | [KPFF Consulting Engineers](https://kpff.com) | $85K–$102K/yr | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/KPFFConsultingEngineers/postings/3743990013425436) |
+| Structural Designer - 1-4 Years | [KPFF Consulting Engineers](https://kpff.com) | $85K–$102K/yr | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/KPFFConsultingEngineers/postings/3743990013425006) |
 | Senior Scientist, Molecular Biology  | [Flagship Pioneering, Inc.](https://flagshippioneering.com) | $126K–$182K/yr | Jun 2 | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8568486002?gh_jid=8568486002) |
 | Dimensional Engineer | [Genpak LLC](https://genpak-llc-2) | — | Jun 2 | [Apply](https://job-boards.greenhouse.io/gokenamericallc/jobs/4267656009) |
 | MEP Cost Manager | [AECOM](https://aecom.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000129799851) |

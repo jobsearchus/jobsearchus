@@ -2,14 +2,19 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**559 open roles** — Last updated: 2026-06-03
+**564 open roles** — Last updated: 2026-06-04
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Account Executive | [BillionToOne](https://billiontoone.com) | $185K–$248K/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/billiontoone/jobs/4702588005) |
+| Staff Software Technical Program Manager, Platform | [RADAR](https://goradar.com) | $165K–$215K/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/radar/jobs/7974957) |
+| Chief Architect | [Legion Health](https://legionhealth.com) | $300K–$385K/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/legion/jobs/7763058003) |
 | Senior Director, HR Business Partner - Marketing & Product  | [Freshworks](https://freshworks.com) | $246K–$305K/yr | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000130072302) |
 | Store Manager | [Anglo American](https://angloamerican.com) | $145K–$150K/yr | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000130068654) |
+| Production Lead (Creative) | [Seed](https://seed.co) | $145K–$165K/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/seed/jobs/7747296003) |
+| Principal Cloud FinOps Analyst | [Horizon3.ai](https://horizon3ai.com) | $241K–$297K/yr | Jun 3 | [Apply](https://jobs.ashbyhq.com/horizon3ai/a57e0bc0-0f60-4201-b86c-c89eea4ec10d) |
 | Director, Global Payroll | [Ping Identity](https://pingidentity.com) | $131K–$188K/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/pingidentity/jobs/8574170002) |
 | Senior Producer, Breaking News Specials (Weekends) | [NBCUniversal](https://nbcuniversal.com) | $125K–$170K/yr | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130028778) |
 | Product Strategy & Operations | [Vercel](https://vercel.com) | $232K–$348K/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/vercel/jobs/6011651004) |

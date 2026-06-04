@@ -2,15 +2,20 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**298 open roles** — Last updated: 2026-06-03
+**303 open roles** — Last updated: 2026-06-04
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Middle/Senior Creative Marketing Specialist | [Holywater](https://holywater.com) | — | Jun 3 | [Apply](https://jobs.ashbyhq.com/holywater/444fa1ec-c58d-45a6-ab7a-ff6ea3cae50c) |
+| Creative Marketing Specialist | [Holywater](https://holywater.com) | — | Jun 3 | [Apply](https://jobs.ashbyhq.com/holywater/be129dff-0fa0-43aa-ab10-43984a1a5193) |
+| Senior Marketing Manager | [Emburse](https://emburse.com) | — | Jun 3 | [Apply](https://jobs.lever.co/emburse/a3c942a8-1026-41ad-a710-51c0f761ad8f) |
+| Director, Marketing (B2B) | [Emburse](https://emburse.com) | — | Jun 3 | [Apply](https://jobs.lever.co/emburse/5ca6e625-f62e-41aa-8c58-75d00c635e40) |
 | Head of SEO (maternity cover) | [LinkedIn Job Wrapping](https://artefact.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/artefactlinkedin/jobs/8574707002) |
 | Lead Associate Account Director | [The Trade Desk](https://thetradedesk.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5132740007) |
 | Communication Specialist | [Gameloft](https://gameloft.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/Gameloft/postings/744000130019018) |
+| Senior Director, Product Marketing | [LastPass](https://lastpass.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/lastpass/jobs/4700146005) |
 | Education Growth Lead - MENAP | [Canva](https://canva.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001129745) |
 | Account Director, Social  | [WPP Media](https://wppmedia.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5226374008) |
 | ATL Marketing Manager (f/m/x) | [AUTO1 Group](https://auto1-group.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000129952589) |

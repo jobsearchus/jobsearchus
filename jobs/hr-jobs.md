@@ -2,13 +2,14 @@
 
 Remote HR, recruiting, and people operations roles.
 
-**145 open roles** — Last updated: 2026-06-03
+**146 open roles** — Last updated: 2026-06-04
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | Senior Director, HR Business Partner - Marketing & Product  | [Freshworks](https://freshworks.com) | $246K–$305K/yr | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000130072302) |
+| HR Generalist | [Lilt](https://lilt.com) | — | Jun 3 | [Apply](https://jobs.ashbyhq.com/lilt-corporate/b764fc8f-0adb-41aa-aa72-3769198f79dc) |
 | Coordinator, Human Resources - Coordonnateur·trice des ressources humaines | [NBCUniversal](https://nbcuniversal.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130043869) |
 | Manager, Human Resources - Gestionnaire, Ressources humaines | [NBCUniversal](https://nbcuniversal.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130043719) |
 | HR Manager | [INFINIT](https://infinit.com) | — | Jun 3 | [Apply](https://jobs.lever.co/infinit/50b80989-4a10-4923-b7f4-9c5c2a1f516f) |

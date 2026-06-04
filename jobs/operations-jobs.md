@@ -2,20 +2,31 @@
 
 Remote operations and business operations roles across industries.
 
-**882 open roles** — Last updated: 2026-06-03
+**893 open roles** — Last updated: 2026-06-04
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Class A CDL Driver- Day Route | [Nabis](https://nabis.com) | $31/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/nabis/jobs/6013597004) |
+| Temporary Fulfillment Associate  | [GOAT Group](https://goatgroup.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/goatgroup/jobs/4702672005) |
 | Ticketing Associate Director | [University of Notre Dame](https://universityofnotredame.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013454426) |
 | Sr Supply Chain Analyst | [Continental](https://continentalserves.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000130073129) |
 | AZ Night Linehaul Great Wages!! | [Manitoulin Global Forwarding](https://manitoulingroup.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000130070049) |
+| Sr. Supply Chain Partnership Manager | [Checkr](https://checkr.com) | $25K/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/checkr/jobs/7974617) |
 | Analista de Control Desk - Traffic & Real Time | [Experian](https://experianplc.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000130048695) |
+| Remote Triage Nurse | [Firsthand](https://shopfirsthand.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/firsthand/jobs/4272569009) |
 |  RECEPTIONNAIRE (H/F) MANUTENTIONNAIRE ENTRETIEN | [Genpak LLC](https://genpak-llc-2) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130046439) |
+| Systems Reliability Operator (10 PM - 8 AM) | [MEMX](https://memx.com) | $90K–$120K/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/memx/jobs/5240350008) |
 | Digital Operations Supervisor | [NBCUniversal](https://nbcuniversal.com) | $92K–$110K/yr | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130033384) |
 | Director, Global Payroll | [Ping Identity](https://pingidentity.com) | $131K–$188K/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/pingidentity/jobs/8574170002) |
+| Werkvoorbereider - Civiele Werken (Gent) | [BESIX](https://besix.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000130029629) |
+| Nationwide Shared Services Program Manager  | [ACLU](https://aclu.org) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/aclu/jobs/8574963002) |
+| chargé Approvisionnement F/H | [SEGULA Technologies](https://segulatechnologies.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/SegulaTechnologies/postings/744000130025259) |
+| Gestionnaire ADV – Pièces de rechange export H/F | [SEGULA Technologies](https://segulatechnologies.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/SegulaTechnologies/postings/744000130022265) |
 | Automotive Technician / Mechanic - Up To $50/hr. & Weekends Off - Katy Grand Parkway | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | $50/yr | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000130009376) |
+| Teamleiter (w/m/d) Baulogistik | [Drees & Sommer](https://dreso.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000130001955) |
+| Teamleiter (w/m/d) Baulogistik | [Drees & Sommer](https://dreso.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000130003620) |
 | Senior Manager of Major Projects | [Clear Gene](https://cleargene.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/clear/jobs/7921900) |
 | Systems Ops Administrator | [Twilio](https://twilio.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7837165) |
 | Global Operations Manager | [VML MAP](https://vml-map.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/map/jobs/8576095002) |

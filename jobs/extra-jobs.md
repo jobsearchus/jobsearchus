@@ -2,17 +2,27 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**880 open roles** — Last updated: 2026-06-03
+**895 open roles** — Last updated: 2026-06-04
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Colleague Services Supervisor | [ACCOR](https://group.accor.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130089734) |
+| Experienced Cook 1 & Cook 2 – Permanent Culinary Positions | [ACCOR](https://group.accor.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130087234) |
+| Director of Quality and Training | [ACCOR](https://group.accor.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130084399) |
+| Licensed Therapist (LCSW, LPCC, LMFT) - Remote 1099 Contract, $75-$90/Session | [Daybreak Health](https://daybreakhealth.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/daybreakhealth/jobs/5154869007) |
+| Licensed Therapist (LCSW, LPCC, LMFT) - Remote 1099 Contract, $75-$90/Session | [Daybreak Health](https://daybreakhealth.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/daybreakhealth/jobs/5154862007) |
 | Store Manager | [Anglo American](https://angloamerican.com) | $145K–$150K/yr | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000130068654) |
 | Head of Government Affairs | [Continental](https://continentalserves.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000130062234) |
+| VENDEUR LIBRE SERVICE (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130061584) |
+| Production Lead (Creative) | [Seed](https://seed.co) | $145K–$165K/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/seed/jobs/7747296003) |
+| INTERMARCHE - Chef BOUCHER (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130059385) |
+| CHEF BOUCHER | [Genpak LLC](https://genpak-llc-2) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130059059) |
 | Director Adjunct de Magazin  Oltul, Slatina | [JYSK](https://jysk.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000130056618) |
 | Verkäufer/in (a) 40% in der Filiale St. Gallen | [JYSK](https://jysk.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000130054229) |
 | VENDEUR(SE) BOUCHERIE (H/F)  | [Genpak LLC](https://genpak-llc-2) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130053120) |
+| Remote Triage Nurse | [Firsthand](https://shopfirsthand.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/firsthand/jobs/4272568009) |
 | VENDEUR PRODUITS FRAIS H/F | [Genpak LLC](https://genpak-llc-2) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130045739) |
 | Commercial Manager | [Egis](https://egis-group.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000130041372) |
 | Supervisor de recepción de obra - Cusco | [Egis](https://egis-group.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000130033769) |
@@ -20,6 +30,11 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Account Manager, Wolt for Work | [Wolt](https://wolt.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7978747) |
 | Commercial Manager (Change Management) | [Egis](https://egis-group.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000130029452) |
 | Enterprise Field Engineer - Adobe | [VML](https://vml.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/vmlenterprisesolutions/jobs/8570836002) |
+| Store Merchandiser - 2nd shift, Full Time | [Serv-U-Success](https://servusuccess.com) | $16/yr | Jun 3 | [Apply](https://jobs.lever.co/serv-u-success/f247db5f-7aa7-4445-ab07-d2a5d5a7cd23) |
+| Junior Software Support Analyst | [Objective](https://objective.com) | — | Jun 3 | [Apply](https://jobs.lever.co/objective/b4a3a99e-c946-4d43-9775-42417a8b615d) |
+| Feature Analyst | [Standard Bank](https://standardbank.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000129986568) |
+| Grocery Stocking and Retail Representative -PT Mid Shift | [Serv-U-Success](https://servusuccess.com) | — | Jun 3 | [Apply](https://jobs.lever.co/serv-u-success/c6dab8f3-b106-4e3d-9b88-8bbee1729a2c) |
+| Grocery Stocking and Retail Representative - Part Time -Mid Shift | [Serv-U-Success](https://servusuccess.com) | $17/yr | Jun 3 | [Apply](https://jobs.lever.co/serv-u-success/de100943-ac6c-4665-aa96-fe42175fa543) |
 | Manager, Product Support | [Zscaler](https://zscaler.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5153940007) |
 | Copy of Consulting Manager (m/f/d) Daten- & KI-Strategie | [LinkedIn Job Wrapping](https://artefact.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/artefactlinkedin/jobs/8576197002) |
 | Qualified dental nurse  | [PortmanDentex](https://portmandentex.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000129970417) |

@@ -2,15 +2,27 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**762 open roles** — Last updated: 2026-06-03
+**774 open roles** — Last updated: 2026-06-04
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Account Executive | [BillionToOne](https://billiontoone.com) | $185K–$248K/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/billiontoone/jobs/4702588005) |
+| Sales Development Representative, Singapore | [Horizon3.ai](https://horizon3ai.com) | — | Jun 3 | [Apply](https://jobs.ashbyhq.com/horizon3ai/be3f24da-cc9c-42d0-8bc6-4545676738db) |
+| Mid-Market Account Executive, Singapore | [Horizon3.ai](https://horizon3ai.com) | — | Jun 3 | [Apply](https://jobs.ashbyhq.com/horizon3ai/3f11f0c1-0889-46c8-b496-d51a929ce6bf) |
+| Provider Partnerships Regional Manager | [Nourish](https://usenourish.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/usenourish/jobs/5240359008) |
+| Provider Partnerships Regional Manager | [Nourish](https://usenourish.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/usenourish/jobs/5240371008) |
+| Provider Partnerships Regional Manager | [Nourish](https://usenourish.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/usenourish/jobs/5240340008) |
 | Brand Ambassador (Sales), Galleria Mall, Houston, TX | [Anglo American](https://angloamerican.com) | $55K–$60K/yr | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000130067802) |
+| HCM Business Consultant - Orlando, FL | [Distro](https://distro.app) | — | Jun 3 | [Apply](https://jobs.lever.co/distro/c9b3a06d-a113-400a-8905-5f4593684172) |
+| HCM Business Consultant - CA | [Distro](https://distro.app) | — | Jun 3 | [Apply](https://jobs.lever.co/distro/fe57b6a6-accc-4cb3-b228-144a72a2890f) |
+| Account Executive, Renewal Sales | [Kapitus](https://kapitus.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/kapitus/jobs/4238404009) |
 | Chef des ventes F/H/X | [BUT](https://but.fr) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000130054319) |
+| Pet Insurance Sales Associate - Harrisburg, PA  | [Fetch](https://fetchtruck.com) | $55K–$100K/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/fetch/jobs/4272554009) |
 | SI Partner Manager - Germany | [Freshworks](https://freshworks.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000130041939) |
+| Senior Software Engineer, Backend | [Flex](https://withflex.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/flex/jobs/4702333005) |
+|  Addetto Acquisti Auto e Back office- Desenzano del Garda | [AUTO1 Group](https://auto1-group.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000130024381) |
 | Lead - Account Executive | [Freshworks](https://freshworks.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000130007655) |
 | Partner Renewal Specialist | [Diligent Corporation](https://diligent.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/diligentcorporation/jobs/6003960004) |
 | Strategic Account Executive  - BeLux | [GitLab](https://about.gitlab.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8575027002) |

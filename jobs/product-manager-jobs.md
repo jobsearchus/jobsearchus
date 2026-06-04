@@ -2,14 +2,16 @@
 
 Product manager roles at companies building real products. Sourced directly from career pages.
 
-**152 open roles** — Last updated: 2026-06-03
+**154 open roles** — Last updated: 2026-06-04
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Director of Product Management -Product Platform | [CaptivateIQ](https://captivateiq.com) | — | Jun 4 | [Apply](https://jobs.lever.co/captivateiq/3b6badbf-19db-4fb4-8078-be83a84c22a6) |
 | Gerente de Solucoes | [Experian](https://experianplc.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000130059479) |
 | Product Manager - EMEA | [Canva](https://canva.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001129778) |
+| Product Manager (12-month FTC) | [VusionGroup SA](https://vusiongroup.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/VusionGroupSA/postings/744000129971471) |
 | Product Manager - Portugal | [Focal Systems](https://focal.systems) | €50K–€65K/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/focalsystems/jobs/6012182004) |
 | Product Strategy & Operations | [Vercel](https://vercel.com) | $232K–$348K/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/vercel/jobs/6011651004) |
 | Senior Product Manager - Retirement | [Finch](https://tryfinch.com) | — | Jun 3 | [Apply](https://jobs.lever.co/finch/6ecfd590-d27b-489f-8e24-e66868de4cbb) |

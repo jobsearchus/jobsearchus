@@ -2,16 +2,23 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**386 open roles** — Last updated: 2026-06-03
+**393 open roles** — Last updated: 2026-06-04
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Brokerage Operations Associate I - ACATS | [Alpaca](https://alpaca.markets) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/alpaca/jobs/6013555004) |
+| Senior Director, Accounting | [Deepgram](https://deepgram.com) | — | Jun 3 | [Apply](https://jobs.ashbyhq.com/Deepgram/072271ea-2006-47af-8c4f-e8f9e54daa11) |
+| Manager, Financial Planning and Analysis (B2B, GTM, SaaS) | [Emburse](https://emburse.com) | — | Jun 3 | [Apply](https://jobs.lever.co/emburse/075b103f-90fc-4bf5-917f-a61a50da5594) |
 | Accountant 3, Fund Accounting | [IQ-EQ](https://iqeq.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000130062886) |
+| Principal Cloud FinOps Analyst | [Horizon3.ai](https://horizon3ai.com) | $241K–$297K/yr | Jun 3 | [Apply](https://jobs.ashbyhq.com/horizon3ai/a57e0bc0-0f60-4201-b86c-c89eea4ec10d) |
 | Alternance - Contrôleur de Gestion F/H/X | [BUT](https://but.fr) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000130027340) |
+| 80293034 - Head, Credit, PPB | [Standard Bank](https://standardbank.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000130010120) |
+| Order Review Specialist | [LastPass](https://lastpass.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/lastpass/jobs/4700724005) |
 | Client Manager, Accountant – Capital Markets | [IQ-EQ](https://iqeq.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000130009719) |
 | Manager, Corporate Accounting | [IQ-EQ](https://iqeq.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000129993210) |
+| Compliance Officer - Digital & eCommerce, Technology  | [Standard Bank](https://standardbank.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000129983511) |
 | COMPTABLE (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000129943260) |
 | Head, Provincial, Commercial Asset Finance, (Limpopo & Mpumalanga) | [Standard Bank](https://standardbank.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000129943611) |
 | Technical Project Manager (all genders) - Autonomous Driving | [MOIA](https://moia.io) | — | Jun 3 | [Apply](https://job-boards.eu.greenhouse.io/moia/jobs/4881160101) |
