@@ -2,15 +2,19 @@
 
 Remote customer support and success roles across SaaS, e-commerce, and tech.
 
-**238 open roles** — Last updated: 2026-06-04
+**242 open roles** — Last updated: 2026-06-04
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Director, Commercial Customer Success | [Vanta](https://vanta.com) | — | Jun 4 | [Apply](https://jobs.ashbyhq.com/vanta/ec7f3a6a-1520-4a2a-8238-674eae684860) |
+| CX Specialist (French, Italian & English) – Saturday to Wednesday | [Too Good To Go](https://toogoodtogo.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/toogoodtogo/jobs/7763668003) |
+| CX Specialist (French, Italian & English) – Saturday to Wednesday | [Too Good To Go](https://toogoodtogo.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/toogoodtogo/jobs/7763664003) |
 |  HÔTE DE CAISSE/ ACCUEIL (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130190899) |
 | German Customer Service Agent | [MSX International](https://msxi.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013464196) |
 | Agente de Atención al Cliente | [MSX International](https://msxi.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013464152) |
+| Sr. Manager, Technical Support | [Smartsheet](https://smartsheet.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/smartsheet/jobs/7981733) |
 | Operator | [Avery Dennison](https://averydennison.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000130160989) |
 | Customer Service Executive (Bilingual - English & Chinese) | [Avery Dennison](https://averydennison.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000130136679) |
 | Customer Service Executive (Bilingual Chinese & English speaking) | [Avery Dennison](https://averydennison.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000130136249) |

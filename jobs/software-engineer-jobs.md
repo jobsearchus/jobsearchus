@@ -2,22 +2,30 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**1342 open roles** — Last updated: 2026-06-04
+**1353 open roles** — Last updated: 2026-06-04
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Customer Engineer (Pre-Sales)  | [Federato](https://federato.ai) | $175K–$195K/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/federato/jobs/5247643008) |
+| Senior Cloud Engineer  | [ClickHouse](https://clickhouse.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/clickhouse/jobs/5994726004) |
+| Senior Software Engineer | [Federato](https://federato.ai) | $160K–$200K/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/federato/jobs/5248372008) |
+| Salesforce Data Architect, Revenue Solutions | [NeuraFlash](https://neuraflash.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/neuraflash/jobs/6014291004) |
 | Data Center Engineer | [DRW](https://drw.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7982269) |
 | Desktop Systems Engineer | [DRW](https://drw.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7979645) |
+| Staff Software Engineer | [Federato](https://federato.ai) | $200K–$250K/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/federato/jobs/5248355008) |
 | Senior Solution Architect - Sales & Marketing | [WPP](https://wpp.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/wpp/jobs/8570388002) |
 | Business Operations Lead, Datacenters | [Cerebras Systems](https://cerebras.net) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/cerebrassystems/jobs/7763752003) |
+| Senior Analyst | [Genpak LLC](https://genpak-llc-2) | — | Jun 4 | [Apply](https://job-boards.eu.greenhouse.io/valtech/jobs/4883762101) |
 | Process Engineer | [Mariana Minerals](https://marianaminerals.com) | — | Jun 4 | [Apply](https://jobs.ashbyhq.com/marianaminerals/d0036867-cb67-49fb-909b-56712e9f66c1) |
 | Hospice Certified Home Health Aide (CHHA/CNA) | [Silverado](https://silverado.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/silverado/jobs/5154969007) |
 | Electrical Engineering Studio Leader  | [DLR Group](https://dlrgroup.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/dlrgroup/jobs/5245718008) |
 | Sustaining Engineering Lead | [Actian](https://actian.com) | — | Jun 4 | [Apply](https://jobs.lever.co/actian/f1add232-5e8c-4121-a3c5-dce5f27ae4ec) |
 | AI Tech Leader | [Genpak LLC](https://genpak-llc-2) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/martellgrowthsolutions/jobs/5248020008) |
 | Data Engineering Consultant | [Baringa](https://baringa.com) | — | Jun 4 | [Apply](https://job-boards.eu.greenhouse.io/baringa/jobs/4873814101) |
+| Senior Optical Test Setup Engineer | [IonQ](https://ionq.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/ionq/jobs/6013544004) |
+| Freelance Middle Salesforce Consultant | [Genpak LLC](https://genpak-llc-2) | — | Jun 4 | [Apply](https://job-boards.eu.greenhouse.io/valtech/jobs/4881533101) |
 | BI Engineer: Takealot Group | [takealot.com](https://takealot.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/takealotgroup/jobs/7981943) |
 | Senior Software Engineer | [Experian](https://experianplc.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000130186879) |
 | GenAI Integrated Project Manager | [Genpak LLC](https://genpak-llc-2) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/brandtechplus/jobs/7981908) |
@@ -28,6 +36,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | L2 Datacenter Support Engineer | [Mirantis](https://mirantis.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/Mirantis/postings/744000130166846) |
 | Senior Workplace Engineer with German | [Accesa](https://accesa.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/ACCESA/postings/744000130162930) |
 | Service Desk Operator | [Netcompany](https://netcompany.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000130162659) |
+| SDET II | [Vonage](https://vonage.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/vonage/jobs/8476724002) |
 | Senior Staff Engineer (SAP BPC Embedded)  | [Nagarro](https://nagarro.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000130159536) |
 | Senior Workplace Engineer (M365 & PowerShell) with German | [Accesa](https://accesa.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/ACCESA/postings/744000130157644) |
 | IT Support Specialist | [Netcompany](https://netcompany.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000130157054) |
@@ -57,10 +66,12 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Automotive Technician / Mechanic - $35-$55/Hr* & Weekends Off - Green Valley Ranch | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | $55/yr | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000130081959) |
 | Senior Software Engineer - Database Engine | [SingleStore](https://singlestore.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/singlestore/jobs/7863354) |
 | Staff Software Engineer | [Clutch](https://clutch.io) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/clutch/jobs/6013361004) |
+| Staff Certification Engineer | [Archer](https://archer.com) | $140K–$215K/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7732434003) |
 | MEP Senior Project Manager - Hospitality construction project | [AECOM](https://aecom.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000130071179) |
 | Director of Marketing Analytics (Remote) | [Rula](https://rula.com) | — | Jun 3 | [Apply](https://jobs.ashbyhq.com/rula/ddb7a13b-e54e-4bf6-b89d-20df0ebc6f90) |
 | Senior Python engineer (All Genders) | [Dailymotion](https://dailymotion.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/Dailymotion/postings/744000130057659) |
 | Software Engineering Intern | [BillionToOne](https://billiontoone.com) | $25/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/billiontoone/jobs/4702398005) |
+| Salesforce Data Cloud Technical Architect | [NeuraFlash](https://neuraflash.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/neuraflash/jobs/6013139004) |
 | Android Application Engineer | [Lilt](https://lilt.com) | — | Jun 3 | [Apply](https://jobs.ashbyhq.com/lilt-corporate/55971c15-9633-482e-92f2-b80dffa4f256) |
 | HIL Technician II | [Inversion Space](https://inversionspace.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/inversionspace/jobs/4702386005) |
 | Commercial Door Installer - Experienced or Trainee | [DH Pace Company](https://dhpace.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5240379008) |

@@ -2,12 +2,13 @@
 
 Backend, server-side, and API engineering roles. Node.js, Python, Go, Ruby, Java and beyond.
 
-**59 open roles** — Last updated: 2026-06-04
+**60 open roles** — Last updated: 2026-06-04
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Backend Engineer, Content Creation | [Box](https://box.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/boxinc/jobs/7962290) |
 | Staff Software Engineer – Backend (Python / Typescript / Big Data / AWS / Kubernetes) | [Varicent](https://varicent.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/varicent/jobs/5240133008) |
 | Staff Software Engineer – Backend (Python / Typescript / Big Data / AWS / Kubernetes) | [Varicent](https://varicent.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/varicent/jobs/5239883008) |
 | Staff Software Engineer – Backend (Python / Typescript / Big Data / AWS / Kubernetes) | [Varicent](https://varicent.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/varicent/jobs/5239879008) |

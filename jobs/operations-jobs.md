@@ -2,22 +2,29 @@
 
 Remote operations and business operations roles across industries.
 
-**926 open roles** — Last updated: 2026-06-04
+**933 open roles** — Last updated: 2026-06-04
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Aircraft Assembly Technician | [Aviation Institute of Maintenance](https://aviationmaintenance.edu) | $21/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/aviationinstituteofmaintenance/jobs/5237619008) |
+| Implementation Manager | [Bestow](https://bestow.com) | — | Jun 4 | [Apply](https://jobs.ashbyhq.com/bestow/13822aae-81ed-4ff9-85d3-05c0ddb0458a) |
+| Senior Program Manager - Talent & Workforce Strategy | [IonQ](https://ionq.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/ionq/jobs/6011425004) |
 | Fiber Inventory Specialist | [Enviva](https://envivabiomass.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/enviva/jobs/7763506003) |
 | Sr. Staff/Staff Design Verification Engineer | [Cerebras Systems](https://cerebras.net) | $250K–$300K/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/cerebrassystems/jobs/7763735003) |
+| Office Coordinator (Bilingual) | [OpenWork](https://openworklabs.com) | $25K/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/openwork/jobs/4272582009) |
+| Quality Assurance & Regulatory Lead | [Tovala](https://tovala.com) | — | Jun 4 | [Apply](https://jobs.lever.co/tovala/db97d8ce-3d49-43f6-a9f1-2666fb33f32d) |
 | ASIC Architect | [Cerebras Systems](https://cerebras.net) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/cerebrassystems/jobs/7753254003) |
 | Apprenti(e) Assistant(e) de Direction / Chef de Projet – Niveau Master (H/F) | [ACCOR](https://group.accor.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130246857) |
 | Chip Mill Operator | [Enviva](https://envivabiomass.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/enviva/jobs/7759312003) |
+| Automatic Door Technician | [DH Pace Company](https://dhpace.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5247883008) |
 | Store Manager In-Training | [Serv-U-Success](https://servusuccess.com) | — | Jun 4 | [Apply](https://jobs.lever.co/serv-u-success/46d14ac5-b47b-4502-a55f-c9fbe9d49795) |
 | Assistant manager - Adjoint responsable administratif (H/F) | [AUTO1 Group](https://auto1-group.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000130221549) |
 | Control Room Operator | [Enviva](https://envivabiomass.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/enviva/jobs/7763453003) |
 | CHARCUTIER-TRAITEUR (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130208894) |
 | Event Manager  | [JustMarkets](https://justmarkets.com) | — | Jun 4 | [Apply](https://job-boards.eu.greenhouse.io/justmarkets/jobs/4879609101) |
+| Lead Business Analyst (Enterprise Modernisation, Platform and Cloud) | [Referrals Only](https://thoughtworks.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7981963) |
 | EDI Central Key User / Business Analyst for APAC Region | [Continental](https://continentalserves.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000130186049) |
 | Maintenance Technician | [Egis](https://egis-group.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000130183719) |
 | Risicomanager | [BESIX](https://besix.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000130158571) |

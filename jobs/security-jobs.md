@@ -2,12 +2,13 @@
 
 Remote cybersecurity, information security, and security engineering roles.
 
-**98 open roles** — Last updated: 2026-06-04
+**99 open roles** — Last updated: 2026-06-04
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Security Regulatory Compliance Manager | [Twilio](https://twilio.com) | $156K–$194K/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7975991) |
 | Cyber Security Engineer (DLA JETS DLP) | [Horizon Industries](https://horizonindustries.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/horizonindustrieslimited/jobs/5248280008) |
 | Superintendente Seguridad Patrimonial | [Anglo American](https://angloamerican.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000130100119) |
 | Fraud SME | [Oscilar](https://oscilar.com) | — | Jun 3 | [Apply](https://jobs.ashbyhq.com/oscilar/c9bec05b-8ea5-48fc-a938-391063e35289) |

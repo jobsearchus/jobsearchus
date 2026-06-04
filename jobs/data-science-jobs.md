@@ -2,12 +2,13 @@
 
 Data science, machine learning, and AI engineering roles. Python, SQL, PyTorch, and beyond.
 
-**85 open roles** — Last updated: 2026-06-04
+**86 open roles** — Last updated: 2026-06-04
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Data Science Consultant | [Genpak LLC](https://genpak-llc-2) | — | Jun 4 | [Apply](https://job-boards.eu.greenhouse.io/valtech/jobs/4883962101) |
 | Director of Data Science | [Coupang](https://coupang.com) | — | Jun 4 | [Apply](https://boards.greenhouse.io/coupanginternal/jobs/7901576?gh_jid=7901576) |
 | Machine Learning Scientist | [Experian](https://experianplc.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000130187074) |
 | Bachelor angewandte Mathermatik & Data Science - Fachrichtung Technomathematik (m/w/d) - Tires | [Continental](https://continentalserves.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000130176629) |

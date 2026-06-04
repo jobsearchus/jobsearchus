@@ -2,12 +2,13 @@
 
 Remote administrative and executive assistant roles across industries.
 
-**31 open roles** — Last updated: 2026-06-04
+**32 open roles** — Last updated: 2026-06-04
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Branch Support Representative | [DH Pace Company](https://dhpace.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5240181008) |
 | Administrative Assistant  | [Avanath Capital Management](https://avanath.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/communitymanager/jobs/5154700007) |
 | Business Support Medewerker  | [Drees & Sommer](https://dreso.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000129956071) |
 | Product Manager - Game of Thrones Slots | [Zynga](https://zynga.com) | — | Jun 1 | [Apply](https://job-boards.greenhouse.io/zyngacareers/jobs/6007784004) |

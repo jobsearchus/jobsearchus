@@ -2,12 +2,13 @@
 
 Remote creative roles — copywriters, content creators, graphic designers, and brand specialists.
 
-**81 open roles** — Last updated: 2026-06-04
+**82 open roles** — Last updated: 2026-06-04
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Copywriter | [Too Good To Go](https://toogoodtogo.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/toogoodtogo/jobs/7763465003) |
 | Payment Operations Manager | [Growe](https://growe.com) | — | Jun 4 | [Apply](https://job-boards.eu.greenhouse.io/growe/jobs/4880647101) |
 | Game Designer Lead | [Gameloft](https://gameloft.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/Gameloft/postings/744000130141480) |
 | Real-Time Graphic Artist | [NBCUniversal](https://nbcuniversal.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130084040) |

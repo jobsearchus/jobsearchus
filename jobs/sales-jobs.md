@@ -2,16 +2,24 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**802 open roles** — Last updated: 2026-06-04
+**811 open roles** — Last updated: 2026-06-04
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Account Development Representative (Spanish Speaker) - Chicago Based | [Fever](https://feverup.com) | — | Jun 4 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4884069101) |
+| Account Development Associate (Portuguese Speaker) - Chicago Based | [Fever](https://feverup.com) | — | Jun 4 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4884064101) |
+| AWS (Amazon) Business Development Representative | [NeuraFlash](https://neuraflash.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/neuraflash/jobs/6014307004) |
+| Senior Business Development Representative, India | [Temporal](https://temporal.io) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/temporaltechnologies/jobs/5155501007) |
 | Client Account Manager, Large Customer Sales (Financial Services) | [Reddit](https://reddit.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/7982928) |
 | Client Account Manager, Large Customer Sales (Financial Services) | [Reddit](https://reddit.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/7982927) |
 | Client Account Manager, Large Customer Sales (Financial Services) | [Reddit](https://reddit.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/7982890) |
 | Sr. Channel Partnerships Manager | [Engine](https://engine.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/engine/jobs/7758434003) |
+| Associate, Enterprise Client Strategy | [ShopMy](https://shopmy.us) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/shopmy/jobs/5167043008) |
+| Enterprise Sales Director | [dbt Labs](https://getdbt.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/dbtlabsinc/jobs/4702284005) |
+| Inbound Account Executive | [Wisdom](https://withwisdom.com) | — | Jun 4 | [Apply](https://jobs.ashbyhq.com/withwisdom/be976c78-0ed5-4b57-8690-742363d5577a) |
+| Commercial Account Executive | [Box](https://box.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/boxinc/jobs/7982365) |
 | Key Account Manager-Remarketing auto usate Toscana | [AUTO1 Group](https://auto1-group.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000130222475) |
 | Employé(e) commercial(e) — rayon Vins & Alcools | [Genpak LLC](https://genpak-llc-2) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130210349) |
 | VENDEUR ALIMENTAIRE (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130207346) |
@@ -20,6 +28,7 @@ Remote sales roles — account executives, SDRs, and enterprise deals.
 | Sales Executive (Programmatic) | [Gameloft](https://gameloft.com) | $110K–$130K/yr | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/Gameloft/postings/744000130175769) |
 | Sales Executive (Programmatic) | [Gameloft](https://gameloft.com) | $110K–$130K/yr | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/Gameloft/postings/744000130174571) |
 | Part Time Sales Assistant | [Frasers Group](https://frasersgroup.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000130164445) |
+| Senior Client Partner - Pinterest Ads | [Aleph](https://aleph.vc) | — | Jun 4 | [Apply](https://jobs.lever.co/aleph/0989958b-73c8-447d-9eba-9c99fc2da666) |
 | Senior business development manager, omnichannel | [Flexport](https://flexport.com) | — | Jun 4 | [Apply](https://boards.greenhouse.io/flexport/jobs/7981626?gh_jid=7981626) |
 | Partner Business Manager – Distribution and Commercial Sales (ANZ) | [Genpak LLC](https://genpak-llc-2) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/commvault/jobs/5233782008) |
 | Senior Associate Account Executive, Commercial Inside Sales Germany | [Veeam Software](https://veeam.com) | — | Jun 4 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4882262101) |

@@ -2,12 +2,13 @@
 
 Remote legal, compliance, and counsel roles.
 
-**88 open roles** — Last updated: 2026-06-04
+**89 open roles** — Last updated: 2026-06-04
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Product and Regulatory Counsel | [KOHO](https://koho.ca) | $180K–$210K/yr | Jun 4 | [Apply](https://jobs.ashbyhq.com/koho/eee4ce09-110d-4a8e-8b23-219f3c89a13d) |
 | Contracts Attorney | [Flagship Pioneering, Inc.](https://flagshippioneering.com) | $138K–$237K/yr | Jun 4 | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8577828002?gh_jid=8577828002) |
 | Director, Information Governance | [NBCUniversal](https://nbcuniversal.com) | $110K–$140K/yr | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130103229) |
 | Associate General Counsel, Product & Privacy | [The Trade Desk](https://thetradedesk.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5154942007) |

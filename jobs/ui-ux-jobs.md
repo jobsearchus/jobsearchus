@@ -2,12 +2,13 @@
 
 UX design, UI design, and product design roles. Figma, research, and end-to-end product work.
 
-**125 open roles** — Last updated: 2026-06-04
+**126 open roles** — Last updated: 2026-06-04
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Experience Designer | [Referrals Only](https://thoughtworks.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7980614) |
 | UX/UI Designer | [Applaudo](https://applaudo.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/ApplaudoStudios/postings/744000130098288) |
 | Junior Architectural Designer | [AECOM](https://aecom.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000130087974) |
 | Product Designer | [Applaudo](https://applaudo.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/ApplaudoStudios/postings/744000130074087) |

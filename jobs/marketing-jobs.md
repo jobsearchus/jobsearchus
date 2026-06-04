@@ -2,15 +2,20 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**313 open roles** — Last updated: 2026-06-04
+**318 open roles** — Last updated: 2026-06-04
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Marketing Coordinator | [Yubico Inc.](https://yubico.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/yubico/jobs/4271631009) |
+| Performance Marketing Manager (Paid) | [Abacum](https://abacum.ai) | — | Jun 4 | [Apply](https://jobs.ashbyhq.com/abacum/881c89ac-6a1c-4b9a-a461-0f29638802a3) |
+| Manager, Social Media & Search Technology   | [New Era Technology](https://neweratech.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8568540002) |
+| Content Creator: Finance | [Clipboard](https://clipboardhealth.com) | — | Jun 4 | [Apply](https://jobs.ashbyhq.com/clipboard/11673cb5-ab23-467a-95f5-085c3af98411) |
 | Growth Marketing Lead | [Keyfactor](https://keyfactor.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/keyfactorinc/jobs/6014002004) |
 | Digital Trading Manager - EU Sites | [Frasers Group](https://frasersgroup.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000130156979) |
 | Director, Brand Marketing | [The Trade Desk](https://thetradedesk.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5144986007) |
+| Sr. Global Events Manager | [Twilio](https://twilio.com) | $106K–$133K/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7968265) |
 | Account Manager, Paid Social | [WPP Media](https://wppmedia.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5223928008) |
 | Vice President, Scaled Demand Generation | [Freshworks](https://freshworks.com) | $320K–$400K/yr | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000130090844) |
 | Middle/Senior Creative Marketing Specialist | [Holywater](https://holywater.com) | — | Jun 3 | [Apply](https://jobs.ashbyhq.com/holywater/444fa1ec-c58d-45a6-ab7a-ff6ea3cae50c) |

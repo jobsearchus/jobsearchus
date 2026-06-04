@@ -2,12 +2,13 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**915 open roles** — Last updated: 2026-06-04
+**918 open roles** — Last updated: 2026-06-04
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Account Development Associate (Portuguese Speaker) - Chicago Based | [Fever](https://feverup.com) | — | Jun 4 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4884065101) |
 | Mobile Response Peer Support Specialist | [Crestwood Behavioral Health](https://crestwoodbehavioralhealth.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/crestwoodcareers/jobs/7763836003) |
 | Help Desk Support II  | [Crestwood Behavioral Health](https://crestwoodbehavioralhealth.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/crestwoodcareers/jobs/7763645003) |
 | Senior Executive Assistant, Global Customer Solutions - United States - Remote | [Grafana Labs](https://grafana.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6014246004) |
@@ -18,9 +19,11 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Commis·e à la réception, temps plein (H/F/D) | [ACCOR](https://group.accor.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130248967) |
 | Help Desk Technician | [JRM Construction Management, LLC](https://jrmcm.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/jrmconstructionmanagementllc/jobs/4686806006) |
 | Part Time Registered Behavior Technician (RBT) - Loganville, GA | [Brightstone Therapy](https://brightstonetherapy.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/brightstonetherapy/jobs/5155125007) |
+| Early Years Educator (Qualified) | [Fennies Day Nurseries](https://fennies.com) | — | Jun 4 | [Apply](https://job-boards.eu.greenhouse.io/fenniesdaynurseries/jobs/4882550101) |
 | EMPLOYE COMMERCIAL (H/F) boulangerie patisserie POUR LE TERMINAL DE CUISSON | [Genpak LLC](https://genpak-llc-2) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130189749) |
 | Service Desk Analyst | [NEC Software Solutions](https://necsoftwaresolutions.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/NECSWS/postings/744000130180730) |
 | CTO - BFSI Technology & Transformation (m/f/d) | [Nagarro](https://nagarro.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000130172569) |
+| Early Years Educator (Unqualified) | [Fennies Day Nurseries](https://fennies.com) | — | Jun 4 | [Apply](https://job-boards.eu.greenhouse.io/fenniesdaynurseries/jobs/4868113101) |
 | 📌 Business Head - Pinterest Ads Sales | [Aleph](https://aleph.vc) | — | Jun 4 | [Apply](https://jobs.lever.co/aleph/1ad9387d-440e-42fc-854e-700ec5bfb2de) |
 | Part Time Caregiver (AM) | [Silverado](https://silverado.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/silverado/jobs/5155086007) |
 | Colleague Services Supervisor | [ACCOR](https://group.accor.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130089734) |
