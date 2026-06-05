@@ -2,13 +2,22 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**840 open roles** — Last updated: 2026-06-05
+**850 open roles** — Last updated: 2026-06-05
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Vendeur ALIMENTAIRE CHARCUTERIE TRAITEUR FROMAGE (H/F) CDI TEMPS PLEIN | [Genpak LLC](https://genpak-llc-2) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130560035) |
+| Senior Relationship Manager - Strategic Sales (Remote) | [Experian](https://experianplc.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000130546510) |
+| Sales Manager  -- Pool Applications | [Continental](https://continentalserves.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000130548094) |
+| Sales Manager  -- Pool Applications | [Continental](https://continentalserves.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000130545692) |
+| Sales Manager  --   Pool Applications | [Continental](https://continentalserves.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000130547639) |
+| Vendeur produit de complément (décoration) F/H/X | [BUT](https://but.fr) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000130546989) |
+| Client Executive – Preferred Regional Markets (West) | [Experian](https://experianplc.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000130536399) |
+| Manager, Sales Optimization | [NBCUniversal](https://nbcuniversal.com) | $90K–$100K/yr | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130520562) |
 | Regional Director, Enterprise Sales  | [Zscaler](https://zscaler.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5153344007) |
+| Sales Manager - France (All Genders) | [Dailymotion](https://dailymotion.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Dailymotion/postings/744000130401349) |
 | Business Development Representative (BDR), Iberia Market | [Riot](https://tryriot.com) | — | Jun 5 | [Apply](https://jobs.lever.co/tryriot/3482f817-98a2-45e4-a97b-e0b6d9ad9b09) |
 | Associate Account Director | [The Trade Desk](https://thetradedesk.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5156506007) |
 | Partner Sales Director, GSI | [Zscaler](https://zscaler.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5149661007) |
@@ -33,6 +42,7 @@ Remote sales roles — account executives, SDRs, and enterprise deals.
 | AWS (Amazon) Business Development Representative | [NeuraFlash](https://neuraflash.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/neuraflash/jobs/6014307004) |
 | Senior Business Development Representative, India | [Temporal](https://temporal.io) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/temporaltechnologies/jobs/5155501007) |
 | Senior Account Executive (Pharma) | [The Trade Desk](https://thetradedesk.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5155790007) |
+| Business Development Representative - UK | [Freshworks](https://freshworks.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000130267889) |
 | Client Account Manager, Large Customer Sales (Financial Services) | [Reddit](https://reddit.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/7982928) |
 | Client Account Manager, Large Customer Sales (Financial Services) | [Reddit](https://reddit.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/7982927) |
 | Client Account Manager, Large Customer Sales (Financial Services) | [Reddit](https://reddit.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/7982890) |

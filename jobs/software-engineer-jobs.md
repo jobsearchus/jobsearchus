@@ -2,13 +2,25 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**1394 open roles** — Last updated: 2026-06-05
+**1407 open roles** — Last updated: 2026-06-05
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Data Engineer | [MSX International](https://msxi.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013493059) |
+| AI & Data Governance and Trust Manager | [MSX International](https://msxi.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013493036) |
+| AI Solutions Architect | [MSX International](https://msxi.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013493017) |
+| Senior PLM Solution Architect (m/w/d) | [Nagarro](https://nagarro.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000130536957) |
+| Knowledge Analyst | [NEC Software Solutions](https://necsoftwaresolutions.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/NECSWS/postings/744000130531739) |
+| Senior Scrum Master | [NEC Software Solutions](https://necsoftwaresolutions.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/NECSWS/postings/744000130521500) |
+| System Engineer, Electro Optics | [NCS](https://ncs.co) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001135919) |
+| Staff Engineer, system analyst (core banking) | [Nagarro](https://nagarro.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000130435294) |
+| Solutions Lead | [NEC Software Solutions](https://necsoftwaresolutions.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/NECSWS/postings/744000130424605) |
 | MuleSoft - Technical Lead / Architect | [Genpak LLC](https://genpak-llc-2) | — | Jun 5 | [Apply](https://job-boards.eu.greenhouse.io/valtech/jobs/4879073101) |
+| Junior Engineer | [Miratech](https://miratech.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000130410621) |
+| Network Systems Project Manager | [NBCUniversal](https://nbcuniversal.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130406447) |
+| Tech Lead (Talend) | [NCS](https://ncs.co) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001135809) |
 | Software Engineer - Database Integrations | [ClickHouse](https://clickhouse.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/clickhouse/jobs/6015050004) |
 | Software Engineer - Database Integrations | [ClickHouse](https://clickhouse.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/clickhouse/jobs/6015049004) |
 | AI Automation Lead – Enterprise Platforms | [Sophos](https://sophos.com) | — | Jun 5 | [Apply](https://jobs.lever.co/sophos/d2be1e19-ef44-44bd-b64e-75770dd90f86) |
@@ -20,6 +32,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | CAD Drafter (Civil 3D) | [KPFF Consulting Engineers](https://kpff.com) | $60K–$105K/yr | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/KPFFConsultingEngineers/postings/3743990013483776) |
 | Engineering Manager, Platform  | [Render](https://render.com) | — | Jun 5 | [Apply](https://jobs.ashbyhq.com/render/f26084f3-992a-4fd3-8065-40cd51a8688f) |
 | Director, Data Engineering (AI Native) | [Life360](https://life360.com) | $216K–$318K/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/life360/jobs/8579704002) |
+| Multiphysics Systems Engineering Analyst – Acoustics & Optics | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $100K–$115K/yr | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000130309069) |
 | Signalling Design Engineer | [Egis](https://egis-group.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000130306386) |
 | Business System Analyst - Customer Support/CX platform | [Canva](https://canva.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001133241) |
 | Business System Analyst - Customer Support/CX platform | [Canva](https://canva.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001133237) |

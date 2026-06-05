@@ -2,13 +2,19 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**422 open roles** — Last updated: 2026-06-05
+**428 open roles** — Last updated: 2026-06-05
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Cost Controller UKI - Controls and Accounting | [Experian](https://experianplc.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000130534941) |
+| VP, Technical Operations Finance | [NBCUniversal](https://nbcuniversal.com) | $200K–$235K/yr | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130532392) |
+|  Manager - Client Compliance | [IQ-EQ](https://iqeq.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000130529061) |
+|  Client Relationship Director | [IQ-EQ](https://iqeq.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000130516214) |
+| Comptable Fournisseurs (confirmé.e) | [Gameloft](https://gameloft.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Gameloft/postings/744000130414935) |
 | Payment Processing Assistant | [Convera](https://convera.com) | — | Jun 5 | [Apply](https://job-boards.eu.greenhouse.io/convera/jobs/4871901101) |
+| Senior Manager - Deals Desk | [Freshworks](https://freshworks.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000130368829) |
 | Total Rewards Specialist | [Clara](https://clara.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/clara/jobs/5156448007) |
 | Principal Program Manager | [Intercom](https://intercom.com) | $189K–$226K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7961835) |
 | Senior Corporate Accountant, Crypto | [Robinhood](https://robinhood.com) | — | Jun 5 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7983883?t=gh_src=&gh_jid=7983883) |

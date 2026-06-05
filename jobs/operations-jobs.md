@@ -2,14 +2,22 @@
 
 Remote operations and business operations roles across industries.
 
-**962 open roles** — Last updated: 2026-06-05
+**971 open roles** — Last updated: 2026-06-05
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| ALTERNANT BAC PRO | [Genpak LLC](https://genpak-llc-2) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130563414) |
+| Project Quality Coordinator | [Egis](https://egis-group.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000130553869) |
+| Principal, Integrated Planning (Operations) | [Anglo American](https://angloamerican.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000130533425) |
+| Truck & Trailer Mechanic Great  Wages $46.34 & $5000 Sign On Bonus!! | [Manitoulin Global Forwarding](https://manitoulingroup.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000130532069) |
+| Transcriber | [NBCUniversal](https://nbcuniversal.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130521749) |
+| Operador  Desbarbe | [Avery Dennison](https://averydennison.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000130310839) |
+| Operador Feeder | [Avery Dennison](https://averydennison.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000130310809) |
 | Service Resolution Manager | [Tripadvisor](https://tripadvisor.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/tripadvisor/jobs/7976893) |
 | Lead, Business Operations | [Relativity Space](https://relativityspace.com) | — | Jun 4 | [Apply](https://boards.greenhouse.io/relativity/jobs/8579694002?gh_jid=8579694002) |
+| Tecnico de Calidad | [Avery Dennison](https://averydennison.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000130308429) |
 | Operations Manager | [Nabis](https://nabis.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/nabis/jobs/6014599004) |
 | Database Administrator | [SugarCRM](https://sugarcrm.com) | — | Jun 4 | [Apply](https://jobs.lever.co/sugarcrm/7a6012a6-0425-46eb-a46f-c751a90219bf) |
 | Senior Field Supervisor | [Gridware](https://gridware.io) | — | Jun 4 | [Apply](https://jobs.lever.co/gridware/5581d36f-bed6-4cd4-99ce-278ad4589967) |
@@ -69,6 +77,7 @@ Remote operations and business operations roles across industries.
 | Senior Manager, Physical Security Systems and Operations | [AHEAD](https://ahead.com) | — | Jun 3 | [Apply](https://jobs.lever.co/thinkahead/877ce4ce-8669-44c4-b961-14049918ec9e) |
 | Class 1 LCV Line Haul Driver Great Wages!! | [Manitoulin Global Forwarding](https://manitoulingroup.com) | $36/yr | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000130094799) |
 | Safety Manager - Bilingual in Korean  | [SBT Global](https://sbtglobal.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/SBTGlobalInc/postings/3743990013459096) |
+| Physical Security Project Manager - Billingual in Korean | [SBT Global](https://sbtglobal.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/SBTGlobalInc/postings/3743990013458866) |
 | Temporary Fulfillment Associate  | [GOAT Group](https://goatgroup.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/goatgroup/jobs/4702672005) |
 | Automotive Service Advisor / Writer - Weekends Off - Cheyenne | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000130086081) |
 | Shuttle Driver - 4 Day Work Week & Weekends Off - Peoria | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000130084839) |

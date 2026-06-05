@@ -2,12 +2,13 @@
 
 Remote cybersecurity, information security, and security engineering roles.
 
-**100 open roles** — Last updated: 2026-06-05
+**101 open roles** — Last updated: 2026-06-05
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Security Manager | [Anglo American](https://angloamerican.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000130413269) |
 | Staff Security Operations Engineer | [Apollo GraphQL](https://apollographql.com) | — | Jun 4 | [Apply](https://jobs.ashbyhq.com/apollo-graphql/af081db2-9d58-4525-8227-b5e6d800e72a) |
 | Senior Security Regulatory Compliance Manager | [Twilio](https://twilio.com) | $156K–$194K/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7975991) |
 | Cyber Security Engineer (DLA JETS DLP) | [Horizon Industries](https://horizonindustries.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/horizonindustrieslimited/jobs/5248280008) |

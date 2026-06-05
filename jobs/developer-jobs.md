@@ -2,13 +2,16 @@
 
 General developer and programmer roles that did not fit a more specific category.
 
-**91 open roles** — Last updated: 2026-06-05
+**94 open roles** — Last updated: 2026-06-05
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | Senior Developer (Java+AWS) | [Referrals Only](https://thoughtworks.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7984453) |
+| Senior Java Developer | [Miratech](https://miratech.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000130388959) |
+| Senior Java Developer | [Miratech](https://miratech.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000130386400) |
+| Senior Java Developer | [Miratech](https://miratech.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000130386254) |
 | Senior ServiceNow Developer | [DRW](https://drw.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7979909) |
 | Middle/ Senior Python Developer (ConnectWise) | [Sigma Software](https://sigmasoftware.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/SigmaSoftware2/postings/744000130253750) |
 | Lead Developer:Java+React+Azure | [Referrals Only](https://thoughtworks.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7981680) |

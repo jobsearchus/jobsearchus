@@ -2,18 +2,21 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**942 open roles** — Last updated: 2026-06-05
+**945 open roles** — Last updated: 2026-06-05
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Director, Application Managed Services (AMS) – Europe Growth & Transformation (m/f/d) | [Nagarro](https://nagarro.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000130539709) |
+| Assistant News Director, NBC Connecticut | [NBCUniversal](https://nbcuniversal.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130530429) |
 | Assistant Manager - Affi C.C. "Grand'Affi Shopping Center" | [JD Sports](https://jdsports.com) | — | Jun 5 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4884435101) |
 | Store Manager - Lonato del Garda C.C. "Il Leone" | [JD Sports](https://jdsports.com) | — | Jun 5 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4884374101) |
 | Equipier d'étage - Extra (H/F) | [ACCOR](https://group.accor.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130370179) |
 | Senior Sous Chef  | [ACCOR](https://group.accor.com) | $85K–$90K/yr | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130369339) |
 | Director of Residences | [ACCOR](https://group.accor.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130367359) |
 |  Facilities Manager | [Standard Bank](https://standardbank.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000130361459) |
+| RN Primary Health -Part time and Casual positions available  | [Healthcare Australia](https://healthcareaustralia.com.au) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/HealthcareAustralia1/postings/6000000001134172) |
 | Senior Air Operations Associate, Hanoi | [Flexport](https://flexport.com) | — | Jun 5 | [Apply](https://boards.greenhouse.io/flexport/jobs/7981862?gh_jid=7981862) |
 | Contract Global Intelligence Analyst (Tues & Thurs - Sat, 2:00pm-12:00am CT) | [AlertMedia](https://alertmedia.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/alertmedia/jobs/8579507002) |
 | Guide, Exercise Physiology & Sports Performance | [Sensei](https://senseirobotics.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/sensei/jobs/8579635002) |

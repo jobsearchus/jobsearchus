@@ -2,12 +2,14 @@
 
 Remote HR, recruiting, and people operations roles.
 
-**157 open roles** — Last updated: 2026-06-05
+**159 open roles** — Last updated: 2026-06-05
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Automotive Technician / Mechanic - Up to $55/Hr* & Weekends Off - Brownsburg | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | $55/yr | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000130513549) |
+| Automotive Technician / Mechanic - Up to $45/hr & Weekends Off - Wilmington | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | $45/yr | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000130506649) |
 | TALENT ACQUISITION SPECIALIST Alternance F/H  | [Inetum](https://inetum.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000130372719) |
 | Compliance & Employee Relations Partner | [Archer](https://archer.com) | $131K–$164K/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7692948003) |
 | Senior Manager, Payroll Compliance & International Operations (Sydney, Australia) | [Figma](https://figma.com) | — | Jun 4 | [Apply](https://boards.greenhouse.io/figma/jobs/6013144004?gh_jid=6013144004) |

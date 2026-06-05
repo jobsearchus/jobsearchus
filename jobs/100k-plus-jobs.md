@@ -2,16 +2,18 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**608 open roles** — Last updated: 2026-06-05
+**610 open roles** — Last updated: 2026-06-05
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| VP, Technical Operations Finance | [NBCUniversal](https://nbcuniversal.com) | $200K–$235K/yr | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130532392) |
 | Social Media Manager | [Discord](https://discord.com) | $132K–$148K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/discord/jobs/8573459002) |
 | Principal Program Manager | [Intercom](https://intercom.com) | $189K–$226K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7961835) |
 | Senior Visualizer | [Archer](https://archer.com) | $115K–$180K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7727755003) |
 | Director, Data Engineering (AI Native) | [Life360](https://life360.com) | $216K–$318K/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/life360/jobs/8579704002) |
+| Multiphysics Systems Engineering Analyst – Acoustics & Optics | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $100K–$115K/yr | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000130309069) |
 | Staff Product Marketing Manager, Consumer | [Discord](https://discord.com) | $204K–$255K/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/discord/jobs/8573433002) |
 | Sales Engineer | [Vantage](https://vantage.com) | $150K–$250K/yr | Jun 4 | [Apply](https://jobs.ashbyhq.com/vantage/312c5873-f635-4446-991e-870beb482056) |
 | Senior Channel Sales Manager | [Freshworks](https://freshworks.com) | $182K–$225K/yr | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000130304590) |
