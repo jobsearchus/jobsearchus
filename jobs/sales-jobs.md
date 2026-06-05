@@ -2,25 +2,31 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**811 open roles** — Last updated: 2026-06-04
+**817 open roles** — Last updated: 2026-06-05
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Channel Sales Manager | [Freshworks](https://freshworks.com) | $182K–$225K/yr | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000130304590) |
 | Account Development Representative (Spanish Speaker) - Chicago Based | [Fever](https://feverup.com) | — | Jun 4 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4884069101) |
 | Account Development Associate (Portuguese Speaker) - Chicago Based | [Fever](https://feverup.com) | — | Jun 4 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4884064101) |
+| BestDrive Service Technician - EG | [Continental](https://continentalserves.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000130270646) |
 | AWS (Amazon) Business Development Representative | [NeuraFlash](https://neuraflash.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/neuraflash/jobs/6014307004) |
 | Senior Business Development Representative, India | [Temporal](https://temporal.io) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/temporaltechnologies/jobs/5155501007) |
 | Client Account Manager, Large Customer Sales (Financial Services) | [Reddit](https://reddit.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/7982928) |
 | Client Account Manager, Large Customer Sales (Financial Services) | [Reddit](https://reddit.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/7982927) |
 | Client Account Manager, Large Customer Sales (Financial Services) | [Reddit](https://reddit.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/7982890) |
+| MODELE INTERMARCHE - CHARCUTIER-TRAITEUR (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130265989) |
+| Account Manager  | [Playtech](https://playtech.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/Playtech/postings/744000130264099) |
 | Sr. Channel Partnerships Manager | [Engine](https://engine.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/engine/jobs/7758434003) |
+| COMPTABLE & RH (H/F)  | [Genpak LLC](https://genpak-llc-2) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130260929) |
 | Associate, Enterprise Client Strategy | [ShopMy](https://shopmy.us) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/shopmy/jobs/5167043008) |
 | Enterprise Sales Director | [dbt Labs](https://getdbt.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/dbtlabsinc/jobs/4702284005) |
 | Inbound Account Executive | [Wisdom](https://withwisdom.com) | — | Jun 4 | [Apply](https://jobs.ashbyhq.com/withwisdom/be976c78-0ed5-4b57-8690-742363d5577a) |
 | Commercial Account Executive | [Box](https://box.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/boxinc/jobs/7982365) |
 | Key Account Manager-Remarketing auto usate Toscana | [AUTO1 Group](https://auto1-group.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000130222475) |
+| Field Performance Specialist | [MSX International](https://msxi.com) | $73K–$80K/yr | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013466066) |
 | Employé(e) commercial(e) — rayon Vins & Alcools | [Genpak LLC](https://genpak-llc-2) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130210349) |
 | VENDEUR ALIMENTAIRE (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130207346) |
 | CONSEILLER DE VENTE - VENDEUR (H/F) JARDIN | [Genpak LLC](https://genpak-llc-2) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130189589) |

@@ -2,7 +2,7 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**918 open roles** — Last updated: 2026-06-04
+**921 open roles** — Last updated: 2026-06-05
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -18,7 +18,10 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Business Correspondent, Artificial Intelligence and Emerging Technologies | [The New York Times](https://thenewyorktimes.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4701630005) |
 | Commis·e à la réception, temps plein (H/F/D) | [ACCOR](https://group.accor.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130248967) |
 | Help Desk Technician | [JRM Construction Management, LLC](https://jrmcm.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/jrmconstructionmanagementllc/jobs/4686806006) |
+| Registered Nurse-Psychiatric Full Time Nights | [Northwestern Medicine](https://northwesternmedicine.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/NorthwesternMedicine/postings/744000130213509) |
+| Case Manager-Social Services Part Time Days | [Northwestern Medicine](https://northwesternmedicine.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/NorthwesternMedicine/postings/744000130213044) |
 | Part Time Registered Behavior Technician (RBT) - Loganville, GA | [Brightstone Therapy](https://brightstonetherapy.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/brightstonetherapy/jobs/5155125007) |
+| Immediate Care Technician ICC Full time  | [Northwestern Medicine](https://northwesternmedicine.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/NorthwesternMedicine/postings/744000130204125) |
 | Early Years Educator (Qualified) | [Fennies Day Nurseries](https://fennies.com) | — | Jun 4 | [Apply](https://job-boards.eu.greenhouse.io/fenniesdaynurseries/jobs/4882550101) |
 | EMPLOYE COMMERCIAL (H/F) boulangerie patisserie POUR LE TERMINAL DE CUISSON | [Genpak LLC](https://genpak-llc-2) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130189749) |
 | Service Desk Analyst | [NEC Software Solutions](https://necsoftwaresolutions.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/NECSWS/postings/744000130180730) |

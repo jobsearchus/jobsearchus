@@ -2,12 +2,16 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**583 open roles** — Last updated: 2026-06-04
+**588 open roles** — Last updated: 2026-06-05
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Channel Sales Manager | [Freshworks](https://freshworks.com) | $182K–$225K/yr | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000130304590) |
+| Lead eLearning Designer - Technical Sales Enablement | [Freshworks](https://freshworks.com) | $115K–$150K/yr | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000130302532) |
+| Lead eLearning Designer - Technical Sales Enablement | [Freshworks](https://freshworks.com) | $110K–$142K/yr | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000130304069) |
+| Senior Program Manager / Account Manager | [CapTech](https://captech.com) | $130K–$160K/yr | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/CapTechConsulting/postings/744000130290094) |
 | Senior Security Regulatory Compliance Manager | [Twilio](https://twilio.com) | $156K–$194K/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7975991) |
 | Customer Engineer (Pre-Sales)  | [Federato](https://federato.ai) | $175K–$195K/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/federato/jobs/5247643008) |
 | Senior Product and Regulatory Counsel | [KOHO](https://koho.ca) | $180K–$210K/yr | Jun 4 | [Apply](https://jobs.ashbyhq.com/koho/eee4ce09-110d-4a8e-8b23-219f3c89a13d) |
@@ -17,6 +21,7 @@ Remote roles paying $100,000 or more per year. Salary data pulled directly from 
 | Director of Product Management | [Jump](https://jump.com) | $220K–$250K/yr | Jun 4 | [Apply](https://jobs.ashbyhq.com/jump-app/f7e31035-f4b6-4df2-915f-5aba1830142f) |
 | Associate Director Finance | [Flagship Pioneering, Inc.](https://flagshippioneering.com) | $148K–$204K/yr | Jun 4 | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8577784002?gh_jid=8577784002) |
 | Contracts Attorney | [Flagship Pioneering, Inc.](https://flagshippioneering.com) | $138K–$237K/yr | Jun 4 | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8577828002?gh_jid=8577828002) |
+| Network Systems Engineer (Pre Sales) - Trading Platforms | [Arista Networks](https://aristanetworks.com) | $130K–$175K/yr | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000130218147) |
 | Sales Executive (Programmatic) | [Gameloft](https://gameloft.com) | $110K–$130K/yr | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/Gameloft/postings/744000130175769) |
 | Sales Executive (Programmatic) | [Gameloft](https://gameloft.com) | $110K–$130K/yr | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/Gameloft/postings/744000130174571) |
 | Director, Information Governance | [NBCUniversal](https://nbcuniversal.com) | $110K–$140K/yr | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130103229) |

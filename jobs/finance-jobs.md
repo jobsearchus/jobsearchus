@@ -2,14 +2,18 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**407 open roles** — Last updated: 2026-06-04
+**411 open roles** — Last updated: 2026-06-05
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Associate - Investor Services | [IQ-EQ](https://iqeq.com) | $72K–$100K/yr | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000130297640) |
+| Senior Associate- Private Equity and Hedge Fund Accounting (CFO Services) | [IQ-EQ](https://iqeq.com) | $70K–$90K/yr | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000130293164) |
+| Senior Associate- Private Equity and Hedge Fund Accounting (CFO Services) | [IQ-EQ](https://iqeq.com) | $70K–$90K/yr | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000130293799) |
 | Portfolio Advisor | [Baringa](https://baringa.com) | — | Jun 4 | [Apply](https://job-boards.eu.greenhouse.io/baringa/jobs/4881291101) |
 | Comptable confirmé H/F  *** URGENT *** | [ACCOR](https://group.accor.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130249159) |
+| HT Technician | [Anglo American](https://angloamerican.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000130242607) |
 | Hulpboekhouder (ROCO) | [BESIX](https://besix.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000130222789) |
 | Associate Director Finance | [Flagship Pioneering, Inc.](https://flagshippioneering.com) | $148K–$204K/yr | Jun 4 | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8577784002?gh_jid=8577784002) |
 | Payroll Specialist | [Flagship Pioneering, Inc.](https://flagshippioneering.com) | $88K–$121K/yr | Jun 4 | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8577817002?gh_jid=8577817002) |

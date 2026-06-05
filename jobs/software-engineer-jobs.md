@@ -2,17 +2,24 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**1353 open roles** — Last updated: 2026-06-04
+**1365 open roles** — Last updated: 2026-06-05
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Signalling Design Engineer | [Egis](https://egis-group.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000130306386) |
+| Business System Analyst - Customer Support/CX platform | [Canva](https://canva.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001133241) |
+| Business System Analyst - Customer Support/CX platform | [Canva](https://canva.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001133237) |
+| Senior Software Engineer- Java & Database Development | [Experian](https://experianplc.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000130283930) |
 | Customer Engineer (Pre-Sales)  | [Federato](https://federato.ai) | $175K–$195K/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/federato/jobs/5247643008) |
+| Senior Staff Engineer - Data Analyst | [Nagarro](https://nagarro.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000130281589) |
+| Staff Engineer - SAP WM | [Nagarro](https://nagarro.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000130277895) |
 | Senior Cloud Engineer  | [ClickHouse](https://clickhouse.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/clickhouse/jobs/5994726004) |
 | Senior Software Engineer | [Federato](https://federato.ai) | $160K–$200K/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/federato/jobs/5248372008) |
 | Salesforce Data Architect, Revenue Solutions | [NeuraFlash](https://neuraflash.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/neuraflash/jobs/6014291004) |
 | Data Center Engineer | [DRW](https://drw.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7982269) |
+| Senior Civil Engineer - Land Development | [Egis](https://egis-group.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000130266804) |
 | Desktop Systems Engineer | [DRW](https://drw.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7979645) |
 | Staff Software Engineer | [Federato](https://federato.ai) | $200K–$250K/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/federato/jobs/5248355008) |
 | Senior Solution Architect - Sales & Marketing | [WPP](https://wpp.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/wpp/jobs/8570388002) |
@@ -23,7 +30,11 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Electrical Engineering Studio Leader  | [DLR Group](https://dlrgroup.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/dlrgroup/jobs/5245718008) |
 | Sustaining Engineering Lead | [Actian](https://actian.com) | — | Jun 4 | [Apply](https://jobs.lever.co/actian/f1add232-5e8c-4121-a3c5-dce5f27ae4ec) |
 | AI Tech Leader | [Genpak LLC](https://genpak-llc-2) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/martellgrowthsolutions/jobs/5248020008) |
+| Electrical Compliance Supervisor | [Anglo American](https://angloamerican.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000130239369) |
+| Network Systems Engineer (Pre Sales) - Trading Platforms | [Arista Networks](https://aristanetworks.com) | $130K–$175K/yr | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000130218147) |
+| Network Systems Engineer (Pre-Sales) -  Cloud Networking | [Arista Networks](https://aristanetworks.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000130215270) |
 | Data Engineering Consultant | [Baringa](https://baringa.com) | — | Jun 4 | [Apply](https://job-boards.eu.greenhouse.io/baringa/jobs/4873814101) |
+| Software Engineer - SONiC | [Arista Networks](https://aristanetworks.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000130208979) |
 | Senior Optical Test Setup Engineer | [IonQ](https://ionq.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/ionq/jobs/6013544004) |
 | Freelance Middle Salesforce Consultant | [Genpak LLC](https://genpak-llc-2) | — | Jun 4 | [Apply](https://job-boards.eu.greenhouse.io/valtech/jobs/4881533101) |
 | BI Engineer: Takealot Group | [takealot.com](https://takealot.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/takealotgroup/jobs/7981943) |
@@ -91,6 +102,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Senior Amazon Connect  | [Miratech](https://miratech.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000129990512) |
 | Adobe Enterprise Architect | [VML](https://vml.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/vmlenterprisesolutions/jobs/8570568002) |
 | Großprojektleiter (m/w/d) Onshore-Leitungs- und Trassenbau (Gas / Wasserstoff / Strom) | [Drees & Sommer](https://dreso.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000129983219) |
+| Learning Administrator x 2 (Based in Sishen and Kolomela) | [Anglo American](https://angloamerican.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000129980680) |
 | Director Engineering | [SingleStore](https://singlestore.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/singlestore/jobs/7977111) |
 | Senior Staff Engineer, Teamcenter  | [Nagarro](https://nagarro.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000129969819) |
 | DC Industrial Engineer | [takealot.com](https://takealot.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/takealotcom/jobs/7971988) |

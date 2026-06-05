@@ -2,7 +2,7 @@
 
 Remote jobs open to candidates with 0–2 years of experience. A real way in — no degree gatekeeping.
 
-**874 open roles** — Last updated: 2026-06-04
+**881 open roles** — Last updated: 2026-06-05
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -12,13 +12,20 @@ Remote jobs open to candidates with 0–2 years of experience. A real way in —
 | Marketing Coordinator | [Yubico Inc.](https://yubico.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/yubico/jobs/4271631009) |
 | AWS (Amazon) Business Development Representative | [NeuraFlash](https://neuraflash.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/neuraflash/jobs/6014307004) |
 | Mobile Response Peer Support Specialist | [Crestwood Behavioral Health](https://crestwoodbehavioralhealth.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/crestwoodcareers/jobs/7763836003) |
+| MODELE INTERMARCHE - CHARCUTIER-TRAITEUR (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130265989) |
+| employé commercial pour   secteur épicerie/liquide | [Genpak LLC](https://genpak-llc-2) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130265809) |
 | Peer Support Specialist  | [Crestwood Behavioral Health](https://crestwoodbehavioralhealth.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/crestwoodcareers/jobs/7763749003) |
+| COMPTABLE & RH (H/F)  | [Genpak LLC](https://genpak-llc-2) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130260929) |
+| HR Recruiting Intern | [Continental](https://continentalserves.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000130260369) |
 | Associate, Enterprise Client Strategy | [ShopMy](https://shopmy.us) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/shopmy/jobs/5167043008) |
+| Chinese Mandarin Speaking Game Presenter (No Experience Required) | [Evolution](https://evolution.com) | $25/yr | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/Evolution/postings/744000130250305) |
 | Commis·e à la réception, temps plein (H/F/D) | [ACCOR](https://group.accor.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130248967) |
 | Help Desk Technician | [JRM Construction Management, LLC](https://jrmcm.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/jrmconstructionmanagementllc/jobs/4686806006) |
+| Steward - South Dining Hall | [University of Notre Dame](https://universityofnotredame.com) | $18/yr | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013469035) |
 | Automatic Door Technician | [DH Pace Company](https://dhpace.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5247883008) |
 | Hulpboekhouder (ROCO) | [BESIX](https://besix.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000130222789) |
 | VENDEUR ALIMENTAIRE (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130207346) |
+| Immediate Care Technician ICC Full time  | [Northwestern Medicine](https://northwesternmedicine.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/NorthwesternMedicine/postings/744000130204125) |
 | Maintenance Technician | [Egis](https://egis-group.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000130183719) |
 | Alternance - Chargé de recrutement F/H/X | [BUT](https://but.fr) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000130181910) |
 | Bachelor angewandte Mathermatik & Data Science - Fachrichtung Technomathematik (m/w/d) - Tires | [Continental](https://continentalserves.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000130176629) |

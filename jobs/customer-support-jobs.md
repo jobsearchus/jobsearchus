@@ -2,7 +2,7 @@
 
 Remote customer support and success roles across SaaS, e-commerce, and tech.
 
-**242 open roles** — Last updated: 2026-06-04
+**243 open roles** — Last updated: 2026-06-05
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -11,6 +11,7 @@ Remote customer support and success roles across SaaS, e-commerce, and tech.
 | Director, Commercial Customer Success | [Vanta](https://vanta.com) | — | Jun 4 | [Apply](https://jobs.ashbyhq.com/vanta/ec7f3a6a-1520-4a2a-8238-674eae684860) |
 | CX Specialist (French, Italian & English) – Saturday to Wednesday | [Too Good To Go](https://toogoodtogo.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/toogoodtogo/jobs/7763668003) |
 | CX Specialist (French, Italian & English) – Saturday to Wednesday | [Too Good To Go](https://toogoodtogo.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/toogoodtogo/jobs/7763664003) |
+| Service Relationship Manager | [Experian](https://experianplc.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000130241335) |
 |  HÔTE DE CAISSE/ ACCUEIL (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130190899) |
 | German Customer Service Agent | [MSX International](https://msxi.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013464196) |
 | Agente de Atención al Cliente | [MSX International](https://msxi.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013464152) |
