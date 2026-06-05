@@ -2,12 +2,13 @@
 
 QA, test automation, and SDET roles. Manual and automated testing across all stacks.
 
-**46 open roles** — Last updated: 2026-06-05
+**47 open roles** — Last updated: 2026-06-05
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Middle QA Automation Engineer (Python) | [Miratech](https://miratech.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000130506765) |
 | Senior QA Automation Engineer (Python) | [Miratech](https://miratech.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000130511519) |
 | Quality Assurance Engineer | [Seesaw](https://seesaw.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/seesaw/jobs/4686715006) |
 | QA Functional Engineer | [Applaudo](https://applaudo.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/ApplaudoStudios/postings/744000130100008) |

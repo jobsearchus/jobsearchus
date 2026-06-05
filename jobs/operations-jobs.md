@@ -2,17 +2,23 @@
 
 Remote operations and business operations roles across industries.
 
-**971 open roles** — Last updated: 2026-06-05
+**977 open roles** — Last updated: 2026-06-05
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| PM Server at The Hive | [ACCOR](https://group.accor.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130582378) |
 | ALTERNANT BAC PRO | [Genpak LLC](https://genpak-llc-2) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130563414) |
 | Project Quality Coordinator | [Egis](https://egis-group.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000130553869) |
+| Référent Back Office Planning - CDD 9 mois (H/F) | [AUTO1 Group](https://auto1-group.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000130538792) |
 | Principal, Integrated Planning (Operations) | [Anglo American](https://angloamerican.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000130533425) |
 | Truck & Trailer Mechanic Great  Wages $46.34 & $5000 Sign On Bonus!! | [Manitoulin Global Forwarding](https://manitoulingroup.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000130532069) |
+| Junior inköpare och testare till vår station i Sundsvall | [AUTO1 Group](https://auto1-group.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000130530710) |
 | Transcriber | [NBCUniversal](https://nbcuniversal.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130521749) |
+| Customer Success Manager  | [VusionGroup SA](https://vusiongroup.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/VusionGroupSA/postings/744000130498180) |
+| Warehouse Group Leader | [Avery Dennison](https://averydennison.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000130352579) |
+| Operador de Impresion Ofsett  | [Avery Dennison](https://averydennison.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000130311009) |
 | Operador  Desbarbe | [Avery Dennison](https://averydennison.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000130310839) |
 | Operador Feeder | [Avery Dennison](https://averydennison.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000130310809) |
 | Service Resolution Manager | [Tripadvisor](https://tripadvisor.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/tripadvisor/jobs/7976893) |

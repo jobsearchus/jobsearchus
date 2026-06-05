@@ -2,12 +2,14 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**428 open roles** — Last updated: 2026-06-05
+**430 open roles** — Last updated: 2026-06-05
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Manager, Relationship, Commercial Banking | [Standard Bank](https://standardbank.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000130557975) |
+| VP, Engineering Finance | [NBCUniversal](https://nbcuniversal.com) | $200K–$235K/yr | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130535255) |
 | Cost Controller UKI - Controls and Accounting | [Experian](https://experianplc.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000130534941) |
 | VP, Technical Operations Finance | [NBCUniversal](https://nbcuniversal.com) | $200K–$235K/yr | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130532392) |
 |  Manager - Client Compliance | [IQ-EQ](https://iqeq.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000130529061) |

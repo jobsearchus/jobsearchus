@@ -2,13 +2,14 @@
 
 Remote customer support and success roles across SaaS, e-commerce, and tech.
 
-**247 open roles** — Last updated: 2026-06-05
+**248 open roles** — Last updated: 2026-06-05
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | Customer Research Agent  | [Genpak LLC](https://genpak-llc-2) | — | Jun 5 | [Apply](https://job-boards.eu.greenhouse.io/growetalents/jobs/4857574101) |
+| Alternance – Chargé(e) de Trésorerie & Financement Groupe | [VusionGroup SA](https://vusiongroup.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/VusionGroupSA/postings/744000130397114) |
 | Customer Service Specialist | [Genpak LLC](https://genpak-llc-2) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/APMGroup/postings/6000000001135426) |
 | Future Opportunities: Retirement Client Relationship Manager | [Gusto](https://gusto.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/gusto/jobs/7984008) |
 | Technical Account Manager | [AlertMedia](https://alertmedia.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/alertmedia/jobs/8573950002) |

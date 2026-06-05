@@ -2,12 +2,13 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**610 open roles** — Last updated: 2026-06-05
+**611 open roles** — Last updated: 2026-06-05
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| VP, Engineering Finance | [NBCUniversal](https://nbcuniversal.com) | $200K–$235K/yr | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130535255) |
 | VP, Technical Operations Finance | [NBCUniversal](https://nbcuniversal.com) | $200K–$235K/yr | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130532392) |
 | Social Media Manager | [Discord](https://discord.com) | $132K–$148K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/discord/jobs/8573459002) |
 | Principal Program Manager | [Intercom](https://intercom.com) | $189K–$226K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7961835) |

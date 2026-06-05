@@ -2,12 +2,13 @@
 
 UX design, UI design, and product design roles. Figma, research, and end-to-end product work.
 
-**132 open roles** — Last updated: 2026-06-05
+**133 open roles** — Last updated: 2026-06-05
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Praktikant/Werkstudent (w/m/d) Innen-/Architektur | [Drees & Sommer](https://dreso.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000130514082) |
 | Senior Visualizer | [Archer](https://archer.com) | $115K–$180K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7727755003) |
 | Design Technology Manager, Intermediate | [DLR Group](https://dlrgroup.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/dlrgroup/jobs/5026758008) |
 | Lead eLearning Designer - Technical Sales Enablement | [Freshworks](https://freshworks.com) | $115K–$150K/yr | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000130302532) |

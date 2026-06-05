@@ -2,19 +2,26 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**1407 open roles** — Last updated: 2026-06-05
+**1414 open roles** — Last updated: 2026-06-05
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| EN - Maintenance Agent-Technician | [ACCOR](https://group.accor.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130582321) |
 | Data Engineer | [MSX International](https://msxi.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013493059) |
 | AI & Data Governance and Trust Manager | [MSX International](https://msxi.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013493036) |
 | AI Solutions Architect | [MSX International](https://msxi.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013493017) |
+| Property Development Construction Director | [NBCUniversal](https://nbcuniversal.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130541042) |
 | Senior PLM Solution Architect (m/w/d) | [Nagarro](https://nagarro.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000130536957) |
+| Analyst, TechEx | [NBCUniversal](https://nbcuniversal.com) | $62K–$80K/yr | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130538987) |
 | Knowledge Analyst | [NEC Software Solutions](https://necsoftwaresolutions.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/NECSWS/postings/744000130531739) |
 | Senior Scrum Master | [NEC Software Solutions](https://necsoftwaresolutions.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/NECSWS/postings/744000130521500) |
 | System Engineer, Electro Optics | [NCS](https://ncs.co) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001135919) |
+| Praktikant (w/m/d) Energiewende und Wasserstoff | [Drees & Sommer](https://dreso.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000130493909) |
+| Praktikant (w/m/d) Energiewende und Wasserstoff | [Drees & Sommer](https://dreso.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000130493759) |
+| Senior Hardware Engineer | [BESIX](https://besix.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000130481690) |
+| Senior E-plan Designer | [BESIX](https://besix.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000130462014) |
 | Staff Engineer, system analyst (core banking) | [Nagarro](https://nagarro.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000130435294) |
 | Solutions Lead | [NEC Software Solutions](https://necsoftwaresolutions.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/NECSWS/postings/744000130424605) |
 | MuleSoft - Technical Lead / Architect | [Genpak LLC](https://genpak-llc-2) | — | Jun 5 | [Apply](https://job-boards.eu.greenhouse.io/valtech/jobs/4879073101) |

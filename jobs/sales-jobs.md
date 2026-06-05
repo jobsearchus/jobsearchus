@@ -2,13 +2,14 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**850 open roles** — Last updated: 2026-06-05
+**852 open roles** — Last updated: 2026-06-05
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | Vendeur ALIMENTAIRE CHARCUTERIE TRAITEUR FROMAGE (H/F) CDI TEMPS PLEIN | [Genpak LLC](https://genpak-llc-2) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130560035) |
+| Assistant Commercial Automobile (H/F) | [AUTO1 Group](https://auto1-group.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000130551759) |
 | Senior Relationship Manager - Strategic Sales (Remote) | [Experian](https://experianplc.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000130546510) |
 | Sales Manager  -- Pool Applications | [Continental](https://continentalserves.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000130548094) |
 | Sales Manager  -- Pool Applications | [Continental](https://continentalserves.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000130545692) |
@@ -23,6 +24,7 @@ Remote sales roles — account executives, SDRs, and enterprise deals.
 | Partner Sales Director, GSI | [Zscaler](https://zscaler.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5149661007) |
 | Business Value Strategist | [Oscilar](https://oscilar.com) | — | Jun 5 | [Apply](https://jobs.ashbyhq.com/oscilar/2b862f19-ae9c-47a7-a2f2-622295d3a52e) |
 | Head of Sales - TikTok | [Aleph Lab](https://alephlab.ai) | — | Jun 5 | [Apply](https://jobs.lever.co/aleph/2ed1820d-f220-4ff3-929f-79314276b3a1) |
+| Assistant Account Manager/ Business Development (Chinese Speaking) | [Avery Dennison](https://averydennison.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000130315132) |
 | Account Executive | [WPP Media](https://wppmedia.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5231413008) |
 | Customer Success Manager | [Emburse](https://emburse.com) | — | Jun 4 | [Apply](https://jobs.lever.co/emburse/b947905e-ac18-4a79-b89e-c67d49c86b51) |
 | Sales Engineer | [Vantage](https://vantage.com) | $150K–$250K/yr | Jun 4 | [Apply](https://jobs.ashbyhq.com/vantage/312c5873-f635-4446-991e-870beb482056) |

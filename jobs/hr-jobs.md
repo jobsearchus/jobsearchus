@@ -2,12 +2,13 @@
 
 Remote HR, recruiting, and people operations roles.
 
-**159 open roles** — Last updated: 2026-06-05
+**160 open roles** — Last updated: 2026-06-05
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Conseiller.ère acquisition de talents, par intérim (H/F/D) | [ACCOR](https://group.accor.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130582438) |
 | Automotive Technician / Mechanic - Up to $55/Hr* & Weekends Off - Brownsburg | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | $55/yr | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000130513549) |
 | Automotive Technician / Mechanic - Up to $45/hr & Weekends Off - Wilmington | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | $45/yr | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000130506649) |
 | TALENT ACQUISITION SPECIALIST Alternance F/H  | [Inetum](https://inetum.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000130372719) |
