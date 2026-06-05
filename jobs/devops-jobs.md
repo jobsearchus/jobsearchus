@@ -2,7 +2,7 @@
 
 DevOps, platform engineering, and infrastructure roles. AWS, GCP, Kubernetes, Terraform.
 
-**82 open roles** — Last updated: 2026-06-05
+**83 open roles** — Last updated: 2026-06-05
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -11,6 +11,7 @@ DevOps, platform engineering, and infrastructure roles. AWS, GCP, Kubernetes, Te
 | #EX DevOps Engineer (AWS + 12hrs Shiftwork) | [NCS](https://ncs.co) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001133047) |
 | Cloud Infrastructure Engineer -  Vice President | [iCapital](https://icapital.com) | $130K–$160K/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8577716002) |
 | Senior Software Engineer - Infrastructure | [Confluent](https://confluent.io) | — | Jun 3 | [Apply](https://jobs.ashbyhq.com/confluent/4218f1c2-3679-4aff-a458-20ef09817fc4) |
+| Project Manager - Railway Infrastructure | [Drees & Sommer](https://dreso.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000129980951) |
 | Stagiaire en alternance Support infrastructures IT  | [Avery Dennison](https://averydennison.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000129937739) |
 | Projeteur VRD (Aménagement urbain - Infrastructure de transport urbain Tram BHNS - Linéaire route)  | [Egis](https://egis-group.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000129929424) |
 | Core Platform Engineer, Data and Algo (All Levels) | [ŌURA](https://ouraring.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/oura/jobs/4259790009) |

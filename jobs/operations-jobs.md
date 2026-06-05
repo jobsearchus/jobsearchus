@@ -2,12 +2,13 @@
 
 Remote operations and business operations roles across industries.
 
-**946 open roles** — Last updated: 2026-06-05
+**949 open roles** — Last updated: 2026-06-05
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Service Resolution Manager | [Tripadvisor](https://tripadvisor.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/tripadvisor/jobs/7976893) |
 | Aircraft Assembly Technician | [Aviation Institute of Maintenance](https://aviationmaintenance.edu) | $21/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/aviationinstituteofmaintenance/jobs/5237619008) |
 | Staff Consultant - Functional Business Analyst / eCommerce | [Nagarro](https://nagarro.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000130283340) |
 | Strength & Conditioning Coach | [University of Notre Dame](https://universityofnotredame.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013477841) |
@@ -23,6 +24,7 @@ Remote operations and business operations roles across industries.
 | Animateur réseau VO (H/F) | [MSX International](https://msxi.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013470846) |
 | Chinese Mandarin Speaking Game Presenter (No Experience Required) | [Evolution](https://evolution.com) | $25/yr | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/Evolution/postings/744000130250305) |
 | Apprenti(e) Assistant(e) de Direction / Chef de Projet – Niveau Master (H/F) | [ACCOR](https://group.accor.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130246857) |
+| Corporate Procurement Manager - Middle East | [BESIX](https://besix.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000130244730) |
 | Chip Mill Operator | [Enviva](https://envivabiomass.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/enviva/jobs/7759312003) |
 | Steward - South Dining Hall | [University of Notre Dame](https://universityofnotredame.com) | $18/yr | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013469035) |
 | Production Support Specialist | [MSX International](https://msxi.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013467721) |
@@ -73,6 +75,7 @@ Remote operations and business operations roles across industries.
 | Director, Global Payroll | [Ping Identity](https://pingidentity.com) | $131K–$188K/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/pingidentity/jobs/8574170002) |
 | Werkvoorbereider - Civiele Werken (Gent) | [BESIX](https://besix.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000130029629) |
 | Nationwide Shared Services Program Manager  | [ACLU](https://aclu.org) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/aclu/jobs/8574963002) |
+| Kwaliteitsmedewerker - Antwerpen & Limburg | [BESIX](https://besix.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000130026409) |
 | chargé Approvisionnement F/H | [SEGULA Technologies](https://segulatechnologies.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/SegulaTechnologies/postings/744000130025259) |
 | Gestionnaire ADV – Pièces de rechange export H/F | [SEGULA Technologies](https://segulatechnologies.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/SegulaTechnologies/postings/744000130022265) |
 | Automotive Technician / Mechanic - Up To $50/hr. & Weekends Off - Katy Grand Parkway | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | $50/yr | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000130009376) |

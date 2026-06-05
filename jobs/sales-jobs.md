@@ -2,15 +2,21 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**817 open roles** — Last updated: 2026-06-05
+**824 open roles** — Last updated: 2026-06-05
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Business Value Strategist | [Oscilar](https://oscilar.com) | — | Jun 5 | [Apply](https://jobs.ashbyhq.com/oscilar/2b862f19-ae9c-47a7-a2f2-622295d3a52e) |
+| Customer Acquisition Expert - Travel (Especialista en Adquisición de Clientes - Travel) - Bogotá (Hybrid) | [Clara](https://clara.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/clara/jobs/5156317007) |
 | Senior Channel Sales Manager | [Freshworks](https://freshworks.com) | $182K–$225K/yr | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000130304590) |
+| Account Manager I (Onsite) | [Weedmaps](https://weedmaps.com) | $70K–$84K/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/weedmaps77/jobs/8578992002) |
 | Account Development Representative (Spanish Speaker) - Chicago Based | [Fever](https://feverup.com) | — | Jun 4 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4884069101) |
+| Account Executive, Scale | [Intercom](https://intercom.com) | $119K–$142K/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7982980) |
+| Account Executive, Scale | [Intercom](https://intercom.com) | $132K–$158K/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7980879) |
 | Account Development Associate (Portuguese Speaker) - Chicago Based | [Fever](https://feverup.com) | — | Jun 4 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4884064101) |
+| Regional Sales Manager - Federal | [ExtraHop](https://extrahop.com) | $135K–$155K/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/extrahopnetworks/jobs/6013600004) |
 | BestDrive Service Technician - EG | [Continental](https://continentalserves.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000130270646) |
 | AWS (Amazon) Business Development Representative | [NeuraFlash](https://neuraflash.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/neuraflash/jobs/6014307004) |
 | Senior Business Development Representative, India | [Temporal](https://temporal.io) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/temporaltechnologies/jobs/5155501007) |
@@ -24,6 +30,7 @@ Remote sales roles — account executives, SDRs, and enterprise deals.
 | Associate, Enterprise Client Strategy | [ShopMy](https://shopmy.us) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/shopmy/jobs/5167043008) |
 | Enterprise Sales Director | [dbt Labs](https://getdbt.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/dbtlabsinc/jobs/4702284005) |
 | Inbound Account Executive | [Wisdom](https://withwisdom.com) | — | Jun 4 | [Apply](https://jobs.ashbyhq.com/withwisdom/be976c78-0ed5-4b57-8690-742363d5577a) |
+| Copy of Receptionist  | [PortmanDentex](https://portmandentex.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000130246819) |
 | Commercial Account Executive | [Box](https://box.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/boxinc/jobs/7982365) |
 | Key Account Manager-Remarketing auto usate Toscana | [AUTO1 Group](https://auto1-group.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000130222475) |
 | Field Performance Specialist | [MSX International](https://msxi.com) | $73K–$80K/yr | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013466066) |

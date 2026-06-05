@@ -2,19 +2,23 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**588 open roles** — Last updated: 2026-06-05
+**592 open roles** — Last updated: 2026-06-05
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Principal Program Manager | [Intercom](https://intercom.com) | $189K–$226K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7961835) |
 | Senior Channel Sales Manager | [Freshworks](https://freshworks.com) | $182K–$225K/yr | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000130304590) |
 | Lead eLearning Designer - Technical Sales Enablement | [Freshworks](https://freshworks.com) | $115K–$150K/yr | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000130302532) |
 | Lead eLearning Designer - Technical Sales Enablement | [Freshworks](https://freshworks.com) | $110K–$142K/yr | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000130304069) |
 | Senior Program Manager / Account Manager | [CapTech](https://captech.com) | $130K–$160K/yr | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/CapTechConsulting/postings/744000130290094) |
 | Senior Security Regulatory Compliance Manager | [Twilio](https://twilio.com) | $156K–$194K/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7975991) |
 | Customer Engineer (Pre-Sales)  | [Federato](https://federato.ai) | $175K–$195K/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/federato/jobs/5247643008) |
+| Account Executive, Scale | [Intercom](https://intercom.com) | $119K–$142K/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7982980) |
+| Account Executive, Scale | [Intercom](https://intercom.com) | $132K–$158K/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7980879) |
 | Senior Product and Regulatory Counsel | [KOHO](https://koho.ca) | $180K–$210K/yr | Jun 4 | [Apply](https://jobs.ashbyhq.com/koho/eee4ce09-110d-4a8e-8b23-219f3c89a13d) |
+| Regional Sales Manager - Federal | [ExtraHop](https://extrahop.com) | $135K–$155K/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/extrahopnetworks/jobs/6013600004) |
 | Senior Software Engineer | [Federato](https://federato.ai) | $160K–$200K/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/federato/jobs/5248372008) |
 | Staff Software Engineer | [Federato](https://federato.ai) | $200K–$250K/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/federato/jobs/5248355008) |
 | Sr. Staff/Staff Design Verification Engineer | [Cerebras Systems](https://cerebras.net) | $250K–$300K/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/cerebrassystems/jobs/7763735003) |

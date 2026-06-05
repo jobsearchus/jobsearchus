@@ -2,7 +2,7 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**318 open roles** — Last updated: 2026-06-05
+**319 open roles** — Last updated: 2026-06-05
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -10,6 +10,7 @@ Remote marketing roles across growth, content, brand, and performance channels.
 | --- | --- | --- | --- | --- |
 | Marketing Coordinator | [Yubico Inc.](https://yubico.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/yubico/jobs/4271631009) |
 | Performance Marketing Manager (Paid) | [Abacum](https://abacum.ai) | — | Jun 4 | [Apply](https://jobs.ashbyhq.com/abacum/881c89ac-6a1c-4b9a-a461-0f29638802a3) |
+| Senior Product Marketing Manager, Marketing Orchestration   | [StackAdapt](https://stackadapt.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/stackadapt/jobs/4273011009) |
 | Manager, Social Media & Search Technology   | [New Era Technology](https://neweratech.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8568540002) |
 | Content Creator: Finance | [Clipboard](https://clipboardhealth.com) | — | Jun 4 | [Apply](https://jobs.ashbyhq.com/clipboard/11673cb5-ab23-467a-95f5-085c3af98411) |
 | Growth Marketing Lead | [Keyfactor](https://keyfactor.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/keyfactorinc/jobs/6014002004) |

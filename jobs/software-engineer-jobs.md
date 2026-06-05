@@ -2,20 +2,27 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**1365 open roles** — Last updated: 2026-06-05
+**1373 open roles** — Last updated: 2026-06-05
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Chef de projet MOE - Senior - H/F | [Inetum](https://inetum.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000130372113) |
+| Manager, Software Engineering | [AlertMedia](https://alertmedia.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/alertmedia/jobs/8579548002) |
+| Structural Engineer-Diver | [KPFF Consulting Engineers](https://kpff.com) | $90K–$160K/yr | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/KPFFConsultingEngineers/postings/3743990013483876) |
+| Structural Engineer-Diver | [KPFF Consulting Engineers](https://kpff.com) | $90K–$160K/yr | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/KPFFConsultingEngineers/postings/3743990013483826) |
+| CAD Drafter (Civil 3D) | [KPFF Consulting Engineers](https://kpff.com) | $60K–$105K/yr | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/KPFFConsultingEngineers/postings/3743990013483776) |
 | Signalling Design Engineer | [Egis](https://egis-group.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000130306386) |
 | Business System Analyst - Customer Support/CX platform | [Canva](https://canva.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001133241) |
 | Business System Analyst - Customer Support/CX platform | [Canva](https://canva.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001133237) |
 | Senior Software Engineer- Java & Database Development | [Experian](https://experianplc.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000130283930) |
 | Customer Engineer (Pre-Sales)  | [Federato](https://federato.ai) | $175K–$195K/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/federato/jobs/5247643008) |
+| Marketing Data Analyst | [SmithRx](https://smithrx.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/smithrx/jobs/8579254002) |
 | Senior Staff Engineer - Data Analyst | [Nagarro](https://nagarro.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000130281589) |
 | Staff Engineer - SAP WM | [Nagarro](https://nagarro.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000130277895) |
 | Senior Cloud Engineer  | [ClickHouse](https://clickhouse.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/clickhouse/jobs/5994726004) |
+|  Ingeniero de Software / Arquitecto de Soluciones  | [Inetum](https://inetum.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000130275839) |
 | Senior Software Engineer | [Federato](https://federato.ai) | $160K–$200K/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/federato/jobs/5248372008) |
 | Salesforce Data Architect, Revenue Solutions | [NeuraFlash](https://neuraflash.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/neuraflash/jobs/6014291004) |
 | Data Center Engineer | [DRW](https://drw.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7982269) |
@@ -25,6 +32,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Senior Solution Architect - Sales & Marketing | [WPP](https://wpp.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/wpp/jobs/8570388002) |
 | Business Operations Lead, Datacenters | [Cerebras Systems](https://cerebras.net) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/cerebrassystems/jobs/7763752003) |
 | Senior Analyst | [Genpak LLC](https://genpak-llc-2) | — | Jun 4 | [Apply](https://job-boards.eu.greenhouse.io/valtech/jobs/4883762101) |
+|  Junior Business Development Manager (m/w/d) | [AUTO1 Group](https://auto1-group.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000130257559) |
 | Process Engineer | [Mariana Minerals](https://marianaminerals.com) | — | Jun 4 | [Apply](https://jobs.ashbyhq.com/marianaminerals/d0036867-cb67-49fb-909b-56712e9f66c1) |
 | Hospice Certified Home Health Aide (CHHA/CNA) | [Silverado](https://silverado.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/silverado/jobs/5154969007) |
 | Electrical Engineering Studio Leader  | [DLR Group](https://dlrgroup.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/dlrgroup/jobs/5245718008) |

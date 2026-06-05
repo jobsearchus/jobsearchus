@@ -2,15 +2,21 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**411 open roles** — Last updated: 2026-06-05
+**417 open roles** — Last updated: 2026-06-05
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Payment Processing Assistant | [Convera](https://convera.com) | — | Jun 5 | [Apply](https://job-boards.eu.greenhouse.io/convera/jobs/4871901101) |
+| Total Rewards Specialist | [Clara](https://clara.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/clara/jobs/5156448007) |
+| Principal Program Manager | [Intercom](https://intercom.com) | $189K–$226K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7961835) |
 | Senior Associate - Investor Services | [IQ-EQ](https://iqeq.com) | $72K–$100K/yr | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000130297640) |
 | Senior Associate- Private Equity and Hedge Fund Accounting (CFO Services) | [IQ-EQ](https://iqeq.com) | $70K–$90K/yr | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000130293164) |
 | Senior Associate- Private Equity and Hedge Fund Accounting (CFO Services) | [IQ-EQ](https://iqeq.com) | $70K–$90K/yr | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000130293799) |
+| Revenue Accountant | [StackAdapt](https://stackadapt.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/stackadapt/jobs/4257194009) |
+| Universal Banker | [Standard Bank](https://standardbank.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000130282588) |
+| Universal Banker | [Standard Bank](https://standardbank.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000130267013) |
 | Portfolio Advisor | [Baringa](https://baringa.com) | — | Jun 4 | [Apply](https://job-boards.eu.greenhouse.io/baringa/jobs/4881291101) |
 | Comptable confirmé H/F  *** URGENT *** | [ACCOR](https://group.accor.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130249159) |
 | HT Technician | [Anglo American](https://angloamerican.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000130242607) |

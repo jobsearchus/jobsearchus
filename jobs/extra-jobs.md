@@ -2,25 +2,37 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**921 open roles** — Last updated: 2026-06-05
+**933 open roles** — Last updated: 2026-06-05
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Equipier d'étage - Extra (H/F) | [ACCOR](https://group.accor.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130370179) |
+| Senior Sous Chef  | [ACCOR](https://group.accor.com) | $85K–$90K/yr | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130369339) |
+| Director of Residences | [ACCOR](https://group.accor.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130367359) |
+|  Facilities Manager | [Standard Bank](https://standardbank.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000130361459) |
+| Contract Global Intelligence Analyst (Tues & Thurs - Sat, 2:00pm-12:00am CT) | [AlertMedia](https://alertmedia.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/alertmedia/jobs/8579507002) |
+| Partnerships Sales Expert (Especialista Comercial de Alianzas Estratégicas) - Bogotá [Hybrid] | [Clara](https://clara.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/clara/jobs/5156306007) |
 | Account Development Associate (Portuguese Speaker) - Chicago Based | [Fever](https://feverup.com) | — | Jun 4 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4884065101) |
+| EMPLOYE COMMERCIAL RAYON LIQUIDE | [Genpak LLC](https://genpak-llc-2) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130267217) |
 | Mobile Response Peer Support Specialist | [Crestwood Behavioral Health](https://crestwoodbehavioralhealth.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/crestwoodcareers/jobs/7763836003) |
 | Help Desk Support II  | [Crestwood Behavioral Health](https://crestwoodbehavioralhealth.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/crestwoodcareers/jobs/7763645003) |
 | Senior Executive Assistant, Global Customer Solutions - United States - Remote | [Grafana Labs](https://grafana.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6014246004) |
+| Especialista Parcerias com Fulfillments e Operadores Logísticos | [Skydropx](https://skydropx.com) | — | Jun 4 | [Apply](https://jobs.ashbyhq.com/skydropx/d855b399-6ea5-4316-b023-4c5940f8a3ad) |
 | Peer Support Specialist  | [Crestwood Behavioral Health](https://crestwoodbehavioralhealth.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/crestwoodcareers/jobs/7763749003) |
 | Bartender - Kettner's, Central London | [Soho House](https://sohohouse.com) | — | Jun 4 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4879587101) |
 | Senior Business Analyst – Global CRM Transformation  | [WPP](https://wpp.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/wpp/jobs/8570435002) |
 | Business Correspondent, Artificial Intelligence and Emerging Technologies | [The New York Times](https://thenewyorktimes.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4701630005) |
 | Commis·e à la réception, temps plein (H/F/D) | [ACCOR](https://group.accor.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130248967) |
 | Help Desk Technician | [JRM Construction Management, LLC](https://jrmcm.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/jrmconstructionmanagementllc/jobs/4686806006) |
+| KFZ-Experte (m/w/d) für Ausbildung & Training - in Ketzin | [AUTO1 Group](https://auto1-group.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000130245789) |
+| KFZ-Trainer - Schwerpunkt Mechanik (d/m/w) in Ketzin | [AUTO1 Group](https://auto1-group.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000130244930) |
 | Registered Nurse-Psychiatric Full Time Nights | [Northwestern Medicine](https://northwesternmedicine.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/NorthwesternMedicine/postings/744000130213509) |
 | Case Manager-Social Services Part Time Days | [Northwestern Medicine](https://northwesternmedicine.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/NorthwesternMedicine/postings/744000130213044) |
 | Part Time Registered Behavior Technician (RBT) - Loganville, GA | [Brightstone Therapy](https://brightstonetherapy.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/brightstonetherapy/jobs/5155125007) |
+| Femme/valet de chambre - CDD - H/F  | [Genpak LLC](https://genpak-llc-2) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000130206595) |
+| Chargé d'accueil et de services hôteliers - CDD - H/F | [Genpak LLC](https://genpak-llc-2) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000130206306) |
 | Immediate Care Technician ICC Full time  | [Northwestern Medicine](https://northwesternmedicine.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/NorthwesternMedicine/postings/744000130204125) |
 | Early Years Educator (Qualified) | [Fennies Day Nurseries](https://fennies.com) | — | Jun 4 | [Apply](https://job-boards.eu.greenhouse.io/fenniesdaynurseries/jobs/4882550101) |
 | EMPLOYE COMMERCIAL (H/F) boulangerie patisserie POUR LE TERMINAL DE CUISSON | [Genpak LLC](https://genpak-llc-2) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130189749) |

@@ -2,12 +2,15 @@
 
 Remote jobs open to candidates with 0–2 years of experience. A real way in — no degree gatekeeping.
 
-**881 open roles** — Last updated: 2026-06-05
+**886 open roles** — Last updated: 2026-06-05
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| TALENT ACQUISITION SPECIALIST Alternance F/H  | [Inetum](https://inetum.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000130372719) |
+| Equipier d'étage - Extra (H/F) | [ACCOR](https://group.accor.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130370179) |
+| Account Manager I (Onsite) | [Weedmaps](https://weedmaps.com) | $70K–$84K/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/weedmaps77/jobs/8578992002) |
 | Branch Support Representative | [DH Pace Company](https://dhpace.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5240181008) |
 | Marketing Coordinator | [Yubico Inc.](https://yubico.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/yubico/jobs/4271631009) |
 | AWS (Amazon) Business Development Representative | [NeuraFlash](https://neuraflash.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/neuraflash/jobs/6014307004) |
@@ -25,6 +28,8 @@ Remote jobs open to candidates with 0–2 years of experience. A real way in —
 | Automatic Door Technician | [DH Pace Company](https://dhpace.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5247883008) |
 | Hulpboekhouder (ROCO) | [BESIX](https://besix.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000130222789) |
 | VENDEUR ALIMENTAIRE (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130207346) |
+| Femme/valet de chambre - CDD - H/F  | [Genpak LLC](https://genpak-llc-2) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000130206595) |
+| Chargé d'accueil et de services hôteliers - CDD - H/F | [Genpak LLC](https://genpak-llc-2) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000130206306) |
 | Immediate Care Technician ICC Full time  | [Northwestern Medicine](https://northwesternmedicine.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/NorthwesternMedicine/postings/744000130204125) |
 | Maintenance Technician | [Egis](https://egis-group.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000130183719) |
 | Alternance - Chargé de recrutement F/H/X | [BUT](https://but.fr) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000130181910) |

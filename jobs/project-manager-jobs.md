@@ -2,12 +2,13 @@
 
 Project and program management roles across tech, operations, and enterprise.
 
-**96 open roles** — Last updated: 2026-06-05
+**97 open roles** — Last updated: 2026-06-05
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Project Manager, IT & Operations | [StackAdapt](https://stackadapt.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/stackadapt/jobs/4257206009) |
 | Senior Program Manager / Account Manager | [CapTech](https://captech.com) | $130K–$160K/yr | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/CapTechConsulting/postings/744000130290094) |
 | Task Order Project Manager (DLA JETS DLP) | [Horizon Industries](https://horizonindustries.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/horizonindustrieslimited/jobs/5248246008) |
 | Senior CGI Generalist  | [Genpak LLC](https://genpak-llc-2) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/brandtechplus/jobs/7957135) |

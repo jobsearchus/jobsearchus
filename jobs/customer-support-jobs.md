@@ -2,12 +2,13 @@
 
 Remote customer support and success roles across SaaS, e-commerce, and tech.
 
-**243 open roles** — Last updated: 2026-06-05
+**244 open roles** — Last updated: 2026-06-05
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Technical Account Manager | [AlertMedia](https://alertmedia.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/alertmedia/jobs/8573950002) |
 | Director, Commercial Customer Success | [Vanta](https://vanta.com) | — | Jun 4 | [Apply](https://jobs.ashbyhq.com/vanta/ec7f3a6a-1520-4a2a-8238-674eae684860) |
 | CX Specialist (French, Italian & English) – Saturday to Wednesday | [Too Good To Go](https://toogoodtogo.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/toogoodtogo/jobs/7763668003) |
 | CX Specialist (French, Italian & English) – Saturday to Wednesday | [Too Good To Go](https://toogoodtogo.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/toogoodtogo/jobs/7763664003) |
