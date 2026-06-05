@@ -2,24 +2,37 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**824 open roles** — Last updated: 2026-06-05
+**840 open roles** — Last updated: 2026-06-05
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Regional Director, Enterprise Sales  | [Zscaler](https://zscaler.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5153344007) |
+| Business Development Representative (BDR), Iberia Market | [Riot](https://tryriot.com) | — | Jun 5 | [Apply](https://jobs.lever.co/tryriot/3482f817-98a2-45e4-a97b-e0b6d9ad9b09) |
+| Associate Account Director | [The Trade Desk](https://thetradedesk.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5156506007) |
+| Partner Sales Director, GSI | [Zscaler](https://zscaler.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5149661007) |
 | Business Value Strategist | [Oscilar](https://oscilar.com) | — | Jun 5 | [Apply](https://jobs.ashbyhq.com/oscilar/2b862f19-ae9c-47a7-a2f2-622295d3a52e) |
+| Head of Sales - TikTok | [Aleph Lab](https://alephlab.ai) | — | Jun 5 | [Apply](https://jobs.lever.co/aleph/2ed1820d-f220-4ff3-929f-79314276b3a1) |
+| Account Executive | [WPP Media](https://wppmedia.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5231413008) |
+| Customer Success Manager | [Emburse](https://emburse.com) | — | Jun 4 | [Apply](https://jobs.lever.co/emburse/b947905e-ac18-4a79-b89e-c67d49c86b51) |
+| Sales Engineer | [Vantage](https://vantage.com) | $150K–$250K/yr | Jun 4 | [Apply](https://jobs.ashbyhq.com/vantage/312c5873-f635-4446-991e-870beb482056) |
 | Customer Acquisition Expert - Travel (Especialista en Adquisición de Clientes - Travel) - Bogotá (Hybrid) | [Clara](https://clara.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/clara/jobs/5156317007) |
 | Senior Channel Sales Manager | [Freshworks](https://freshworks.com) | $182K–$225K/yr | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000130304590) |
+| Customer Success Manager | [Yubico Inc.](https://yubico.com) | $6K/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/yubico/jobs/4260914009) |
+| Senior Channel Sales Manager -EMEA | [Teleport](https://goteleport.com) | — | Jun 4 | [Apply](https://jobs.ashbyhq.com/goteleport/949cafc3-46b1-4679-86f9-f0130b4422cc) |
 | Account Manager I (Onsite) | [Weedmaps](https://weedmaps.com) | $70K–$84K/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/weedmaps77/jobs/8578992002) |
 | Account Development Representative (Spanish Speaker) - Chicago Based | [Fever](https://feverup.com) | — | Jun 4 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4884069101) |
 | Account Executive, Scale | [Intercom](https://intercom.com) | $119K–$142K/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7982980) |
 | Account Executive, Scale | [Intercom](https://intercom.com) | $132K–$158K/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7980879) |
 | Account Development Associate (Portuguese Speaker) - Chicago Based | [Fever](https://feverup.com) | — | Jun 4 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4884064101) |
+| Senior Sales Engineer, Spain & Italy | [Horizon3.ai](https://horizon3ai.com) | — | Jun 4 | [Apply](https://jobs.ashbyhq.com/horizon3ai/228af00b-81c7-4dcc-9f85-4f28cfe2723a) |
 | Regional Sales Manager - Federal | [ExtraHop](https://extrahop.com) | $135K–$155K/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/extrahopnetworks/jobs/6013600004) |
+| Director of Retail, LATAM | [ŌURA](https://ouraring.com) | $201K–$236K/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/oura/jobs/4273761009) |
 | BestDrive Service Technician - EG | [Continental](https://continentalserves.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000130270646) |
 | AWS (Amazon) Business Development Representative | [NeuraFlash](https://neuraflash.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/neuraflash/jobs/6014307004) |
 | Senior Business Development Representative, India | [Temporal](https://temporal.io) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/temporaltechnologies/jobs/5155501007) |
+| Senior Account Executive (Pharma) | [The Trade Desk](https://thetradedesk.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5155790007) |
 | Client Account Manager, Large Customer Sales (Financial Services) | [Reddit](https://reddit.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/7982928) |
 | Client Account Manager, Large Customer Sales (Financial Services) | [Reddit](https://reddit.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/7982927) |
 | Client Account Manager, Large Customer Sales (Financial Services) | [Reddit](https://reddit.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/7982890) |
@@ -31,6 +44,8 @@ Remote sales roles — account executives, SDRs, and enterprise deals.
 | Enterprise Sales Director | [dbt Labs](https://getdbt.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/dbtlabsinc/jobs/4702284005) |
 | Inbound Account Executive | [Wisdom](https://withwisdom.com) | — | Jun 4 | [Apply](https://jobs.ashbyhq.com/withwisdom/be976c78-0ed5-4b57-8690-742363d5577a) |
 | Copy of Receptionist  | [PortmanDentex](https://portmandentex.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000130246819) |
+| Inside Sales | [Too Good To Go](https://toogoodtogo.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/toogoodtogo/jobs/7761256003) |
+| Innesäljare | [Too Good To Go](https://toogoodtogo.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/toogoodtogo/jobs/7761255003) |
 | Commercial Account Executive | [Box](https://box.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/boxinc/jobs/7982365) |
 | Key Account Manager-Remarketing auto usate Toscana | [AUTO1 Group](https://auto1-group.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000130222475) |
 | Field Performance Specialist | [MSX International](https://msxi.com) | $73K–$80K/yr | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013466066) |
@@ -64,6 +79,7 @@ Remote sales roles — account executives, SDRs, and enterprise deals.
 | Brand Ambassador (Sales), Galleria Mall, Houston, TX | [Anglo American](https://angloamerican.com) | $55K–$60K/yr | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000130067802) |
 | HCM Business Consultant - Orlando, FL | [Distro](https://distro.app) | — | Jun 3 | [Apply](https://jobs.lever.co/distro/c9b3a06d-a113-400a-8905-5f4593684172) |
 | HCM Business Consultant - CA | [Distro](https://distro.app) | — | Jun 3 | [Apply](https://jobs.lever.co/distro/fe57b6a6-accc-4cb3-b228-144a72a2890f) |
+| Senior Account Executive (Pharma) | [The Trade Desk](https://thetradedesk.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5154562007) |
 | Account Executive, Renewal Sales | [Kapitus](https://kapitus.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/kapitus/jobs/4238404009) |
 | Chef des ventes F/H/X | [BUT](https://but.fr) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000130054319) |
 | Account Executive 4 | [Twilio](https://twilio.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7967998) |

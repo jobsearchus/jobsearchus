@@ -2,13 +2,16 @@
 
 Remote HR, recruiting, and people operations roles.
 
-**154 open roles** — Last updated: 2026-06-05
+**157 open roles** — Last updated: 2026-06-05
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | TALENT ACQUISITION SPECIALIST Alternance F/H  | [Inetum](https://inetum.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000130372719) |
+| Compliance & Employee Relations Partner | [Archer](https://archer.com) | $131K–$164K/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7692948003) |
+| Senior Manager, Payroll Compliance & International Operations (Sydney, Australia) | [Figma](https://figma.com) | — | Jun 4 | [Apply](https://boards.greenhouse.io/figma/jobs/6013144004?gh_jid=6013144004) |
+| Human Resources Manager | [Inversion Space](https://inversionspace.com) | $134K–$195K/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/inversionspace/jobs/4703301005) |
 | Senior Health and Safety Advisor (Vancouver Office) | [Egis](https://egis-group.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000130268039) |
 | HR Recruiting Intern | [Continental](https://continentalserves.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000130260369) |
 | Alternance - Chargé de recrutement F/H/X | [BUT](https://but.fr) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000130181910) |

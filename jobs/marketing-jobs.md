@@ -2,14 +2,23 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**319 open roles** — Last updated: 2026-06-05
+**328 open roles** — Last updated: 2026-06-05
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Social Media Manager | [Discord](https://discord.com) | $132K–$148K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/discord/jobs/8573459002) |
+| Content Marketing Manager, Mumbai | [Flexport](https://flexport.com) | — | Jun 5 | [Apply](https://boards.greenhouse.io/flexport/jobs/7981879?gh_jid=7981879) |
+| Staff Product Marketing Manager, Consumer | [Discord](https://discord.com) | $204K–$255K/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/discord/jobs/8573433002) |
+| Freelance Brand Strategy Director | [Iris Automation](https://irisonboard.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/iris/jobs/7983670) |
+| Marketing Specialist | [Mozilla](https://mozilla.org) | $72K–$86K/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/mozilla/jobs/7983290) |
+| Marketing Specialist | [Mozilla](https://mozilla.org) | $72K–$82K/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/mozilla/jobs/7983284) |
+| Marketing Specialist | [Mozilla](https://mozilla.org) | $72K–$86K/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/mozilla/jobs/7983283) |
+| Social Media & Community Manager | [Bloxd](https://bloxd.com) | — | Jun 4 | [Apply](https://jobs.ashbyhq.com/bloxd/57fdefbd-f7cb-4e22-a675-bf3b9c20c765) |
 | Marketing Coordinator | [Yubico Inc.](https://yubico.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/yubico/jobs/4271631009) |
 | Performance Marketing Manager (Paid) | [Abacum](https://abacum.ai) | — | Jun 4 | [Apply](https://jobs.ashbyhq.com/abacum/881c89ac-6a1c-4b9a-a461-0f29638802a3) |
+| Analista de Negocios de Marketing | [Distro](https://distro.app) | — | Jun 4 | [Apply](https://jobs.lever.co/distro/59a11b6a-d361-4dc8-88b5-8d95e5ee127b) |
 | Senior Product Marketing Manager, Marketing Orchestration   | [StackAdapt](https://stackadapt.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/stackadapt/jobs/4273011009) |
 | Manager, Social Media & Search Technology   | [New Era Technology](https://neweratech.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8568540002) |
 | Content Creator: Finance | [Clipboard](https://clipboardhealth.com) | — | Jun 4 | [Apply](https://jobs.ashbyhq.com/clipboard/11673cb5-ab23-467a-95f5-085c3af98411) |

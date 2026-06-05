@@ -2,14 +2,18 @@
 
 UX design, UI design, and product design roles. Figma, research, and end-to-end product work.
 
-**128 open roles** — Last updated: 2026-06-05
+**132 open roles** — Last updated: 2026-06-05
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Visualizer | [Archer](https://archer.com) | $115K–$180K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7727755003) |
+| Design Technology Manager, Intermediate | [DLR Group](https://dlrgroup.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/dlrgroup/jobs/5026758008) |
 | Lead eLearning Designer - Technical Sales Enablement | [Freshworks](https://freshworks.com) | $115K–$150K/yr | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000130302532) |
 | Lead eLearning Designer - Technical Sales Enablement | [Freshworks](https://freshworks.com) | $110K–$142K/yr | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000130304069) |
+| Design Technology Manager, Entry-Level | [DLR Group](https://dlrgroup.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/dlrgroup/jobs/5234447008) |
+| Design Technology Manager, Entry-Level | [DLR Group](https://dlrgroup.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/dlrgroup/jobs/5029743008) |
 | Senior Experience Designer | [Referrals Only](https://thoughtworks.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7980614) |
 | UX/UI Designer | [Applaudo](https://applaudo.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/ApplaudoStudios/postings/744000130098288) |
 | Junior Architectural Designer | [AECOM](https://aecom.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000130087974) |

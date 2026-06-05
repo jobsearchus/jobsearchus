@@ -2,17 +2,24 @@
 
 Data science, machine learning, and AI engineering roles. Python, SQL, PyTorch, and beyond.
 
-**86 open roles** — Last updated: 2026-06-05
+**93 open roles** — Last updated: 2026-06-05
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Data Scientist | [G2](https://g2.com) | — | Jun 5 | [Apply](https://jobs.ashbyhq.com/g2/69a06d55-24c8-40e1-a638-2e8944a4d1f2) |
+| Senior Data Scientist | [ŌURA](https://ouraring.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/oura/jobs/4273393009) |
+| Senior Data Scientist Consultant | [Provenir](https://provenir.com) | — | Jun 4 | [Apply](https://jobs.ashbyhq.com/provenirinc/190ff23a-a393-44bb-b663-fd10f4701aa7) |
+| Senior AI Engineer | [Weave Robotics](https://weaverobots.com) | $175K–$215K/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/weave/jobs/4274000009) |
+| Senior Machine Learning Engineer / Data Scientist | [Flagship Pioneering, Inc.](https://flagshippioneering.com) | $96K–$215K/yr | Jun 4 | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8577760002?gh_jid=8577760002) |
 | Data Science Consultant | [Genpak LLC](https://genpak-llc-2) | — | Jun 4 | [Apply](https://job-boards.eu.greenhouse.io/valtech/jobs/4883962101) |
 | Director of Data Science | [Coupang](https://coupang.com) | — | Jun 4 | [Apply](https://boards.greenhouse.io/coupanginternal/jobs/7901576?gh_jid=7901576) |
+| Senior Machine Learning Engineer | [Referrals Only](https://thoughtworks.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7982064) |
 | Machine Learning Scientist | [Experian](https://experianplc.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000130187074) |
 | Bachelor angewandte Mathermatik & Data Science - Fachrichtung Technomathematik (m/w/d) - Tires | [Continental](https://continentalserves.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000130176629) |
 | Machine Learning Engineer III, Core Agents | [Box](https://box.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/boxinc/jobs/7962270) |
+| Senior Staff Machine Learning Engineer, Notifications | [Reddit](https://reddit.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/7979933) |
 | Senior AI/ML Engineer | [Natera](https://natera.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/natera/jobs/6012381004) |
 | Sr. Staff Machine Learning Engineer | [Flex](https://withflex.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/flex/jobs/4699019005) |
 | Sr. Data Scientist | [6sense](https://6sense.com) | — | Jun 3 | [Apply](https://boards.greenhouse.io/6sense/jobs/7974951?gh_jid=7974951) |

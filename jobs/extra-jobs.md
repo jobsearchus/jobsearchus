@@ -2,19 +2,25 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**933 open roles** — Last updated: 2026-06-05
+**942 open roles** — Last updated: 2026-06-05
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Assistant Manager - Affi C.C. "Grand'Affi Shopping Center" | [JD Sports](https://jdsports.com) | — | Jun 5 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4884435101) |
+| Store Manager - Lonato del Garda C.C. "Il Leone" | [JD Sports](https://jdsports.com) | — | Jun 5 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4884374101) |
 | Equipier d'étage - Extra (H/F) | [ACCOR](https://group.accor.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130370179) |
 | Senior Sous Chef  | [ACCOR](https://group.accor.com) | $85K–$90K/yr | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130369339) |
 | Director of Residences | [ACCOR](https://group.accor.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130367359) |
 |  Facilities Manager | [Standard Bank](https://standardbank.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000130361459) |
+| Senior Air Operations Associate, Hanoi | [Flexport](https://flexport.com) | — | Jun 5 | [Apply](https://boards.greenhouse.io/flexport/jobs/7981862?gh_jid=7981862) |
 | Contract Global Intelligence Analyst (Tues & Thurs - Sat, 2:00pm-12:00am CT) | [AlertMedia](https://alertmedia.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/alertmedia/jobs/8579507002) |
+| Guide, Exercise Physiology & Sports Performance | [Sensei](https://senseirobotics.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/sensei/jobs/8579635002) |
 | Partnerships Sales Expert (Especialista Comercial de Alianzas Estratégicas) - Bogotá [Hybrid] | [Clara](https://clara.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/clara/jobs/5156306007) |
+| Certified Recovery Specialist | [Ophelia](https://ophelia.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/ophelia/jobs/5234368008) |
 | Account Development Associate (Portuguese Speaker) - Chicago Based | [Fever](https://feverup.com) | — | Jun 4 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4884065101) |
+| Caregivers - Westchester, NY | [Distro](https://distro.app) | — | Jun 4 | [Apply](https://jobs.lever.co/distro/52bf1d28-73e9-446a-b9a1-0f56be956486) |
 | EMPLOYE COMMERCIAL RAYON LIQUIDE | [Genpak LLC](https://genpak-llc-2) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130267217) |
 | Mobile Response Peer Support Specialist | [Crestwood Behavioral Health](https://crestwoodbehavioralhealth.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/crestwoodcareers/jobs/7763836003) |
 | Help Desk Support II  | [Crestwood Behavioral Health](https://crestwoodbehavioralhealth.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/crestwoodcareers/jobs/7763645003) |
@@ -34,9 +40,11 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Femme/valet de chambre - CDD - H/F  | [Genpak LLC](https://genpak-llc-2) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000130206595) |
 | Chargé d'accueil et de services hôteliers - CDD - H/F | [Genpak LLC](https://genpak-llc-2) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000130206306) |
 | Immediate Care Technician ICC Full time  | [Northwestern Medicine](https://northwesternmedicine.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/NorthwesternMedicine/postings/744000130204125) |
+| Event Coordinator - Ingolstadt | [Fever](https://feverup.com) | — | Jun 4 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4882548101) |
 | Early Years Educator (Qualified) | [Fennies Day Nurseries](https://fennies.com) | — | Jun 4 | [Apply](https://job-boards.eu.greenhouse.io/fenniesdaynurseries/jobs/4882550101) |
 | EMPLOYE COMMERCIAL (H/F) boulangerie patisserie POUR LE TERMINAL DE CUISSON | [Genpak LLC](https://genpak-llc-2) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130189749) |
 | Service Desk Analyst | [NEC Software Solutions](https://necsoftwaresolutions.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/NECSWS/postings/744000130180730) |
+| Event Manager - Heraklion | [Fever](https://feverup.com) | — | Jun 4 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4882431101) |
 | CTO - BFSI Technology & Transformation (m/f/d) | [Nagarro](https://nagarro.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000130172569) |
 | Early Years Educator (Unqualified) | [Fennies Day Nurseries](https://fennies.com) | — | Jun 4 | [Apply](https://job-boards.eu.greenhouse.io/fenniesdaynurseries/jobs/4868113101) |
 | 📌 Business Head - Pinterest Ads Sales | [Aleph](https://aleph.vc) | — | Jun 4 | [Apply](https://jobs.lever.co/aleph/1ad9387d-440e-42fc-854e-700ec5bfb2de) |
@@ -60,6 +68,7 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Growth Portfolio Executive  | [9th Way Insignia](https://9thwayinsignia.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/9thwayinsignia/jobs/5240553008) |
 | Verkäufer/in (a) 40% in der Filiale St. Gallen | [JYSK](https://jysk.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000130054229) |
 | VENDEUR(SE) BOUCHERIE (H/F)  | [Genpak LLC](https://genpak-llc-2) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130053120) |
+| Recovery Coach - Entry-Level Mental Health Aide | [Crestwood Behavioral Health](https://crestwoodbehavioralhealth.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/crestwoodcareers/jobs/7762592003) |
 | Remote Triage Nurse | [Firsthand](https://shopfirsthand.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/firsthand/jobs/4272568009) |
 | VENDEUR PRODUITS FRAIS H/F | [Genpak LLC](https://genpak-llc-2) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130045739) |
 | Commercial Manager | [Egis](https://egis-group.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000130041372) |

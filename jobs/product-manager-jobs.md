@@ -2,12 +2,14 @@
 
 Product manager roles at companies building real products. Sourced directly from career pages.
 
-**163 open roles** — Last updated: 2026-06-05
+**165 open roles** — Last updated: 2026-06-05
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Product Designer | [UpCodes](https://up.codes) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/up/jobs/5248925008) |
+| Director of Product, Engagement, AI Native | [Life360](https://life360.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/life360/jobs/8579681002) |
 | Product Manager L3 | [Twilio](https://twilio.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7980740) |
 | Director of Product Management | [Jump](https://jump.com) | $220K–$250K/yr | Jun 4 | [Apply](https://jobs.ashbyhq.com/jump-app/f7e31035-f4b6-4df2-915f-5aba1830142f) |
 | Payments Product Analyst | [Bestow](https://bestow.com) | — | Jun 4 | [Apply](https://jobs.ashbyhq.com/bestow/6a504eb4-0b39-4331-aea4-dae5938fe570) |

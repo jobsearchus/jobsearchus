@@ -2,26 +2,43 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**1373 open roles** — Last updated: 2026-06-05
+**1394 open roles** — Last updated: 2026-06-05
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| MuleSoft - Technical Lead / Architect | [Genpak LLC](https://genpak-llc-2) | — | Jun 5 | [Apply](https://job-boards.eu.greenhouse.io/valtech/jobs/4879073101) |
+| Software Engineer - Database Integrations | [ClickHouse](https://clickhouse.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/clickhouse/jobs/6015050004) |
+| Software Engineer - Database Integrations | [ClickHouse](https://clickhouse.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/clickhouse/jobs/6015049004) |
+| AI Automation Lead – Enterprise Platforms | [Sophos](https://sophos.com) | — | Jun 5 | [Apply](https://jobs.lever.co/sophos/d2be1e19-ef44-44bd-b64e-75770dd90f86) |
 | Chef de projet MOE - Senior - H/F | [Inetum](https://inetum.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000130372113) |
+| Intern - Growth (AI & MarTech) | [Groww](https://groww.in) | — | Jun 5 | [Apply](https://job-boards.eu.greenhouse.io/groww/jobs/4780793101) |
 | Manager, Software Engineering | [AlertMedia](https://alertmedia.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/alertmedia/jobs/8579548002) |
 | Structural Engineer-Diver | [KPFF Consulting Engineers](https://kpff.com) | $90K–$160K/yr | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/KPFFConsultingEngineers/postings/3743990013483876) |
 | Structural Engineer-Diver | [KPFF Consulting Engineers](https://kpff.com) | $90K–$160K/yr | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/KPFFConsultingEngineers/postings/3743990013483826) |
 | CAD Drafter (Civil 3D) | [KPFF Consulting Engineers](https://kpff.com) | $60K–$105K/yr | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/KPFFConsultingEngineers/postings/3743990013483776) |
+| Engineering Manager, Platform  | [Render](https://render.com) | — | Jun 5 | [Apply](https://jobs.ashbyhq.com/render/f26084f3-992a-4fd3-8065-40cd51a8688f) |
+| Director, Data Engineering (AI Native) | [Life360](https://life360.com) | $216K–$318K/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/life360/jobs/8579704002) |
 | Signalling Design Engineer | [Egis](https://egis-group.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000130306386) |
 | Business System Analyst - Customer Support/CX platform | [Canva](https://canva.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001133241) |
 | Business System Analyst - Customer Support/CX platform | [Canva](https://canva.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001133237) |
+| Power Automate Solutions Architect | [Axle](https://axle.insure) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/axle/jobs/5155222007) |
+| Staff Cloud Operations Engineer | [Branch AI](https://branch-ai.com) | $185K–$200K/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/branch/jobs/7764041003) |
+| Cloud Operations Engineer | [Branch AI](https://branch-ai.com) | $135K–$150K/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/branch/jobs/7764056003) |
+| Senior Data Engineer | [Branch AI](https://branch-ai.com) | $160K–$175K/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/branch/jobs/7764002003) |
+| Staff Safety Engineer | [Serve Robotics](https://serverobotics.com) | — | Jun 4 | [Apply](https://jobs.ashbyhq.com/serverobotics/a0fa5927-9612-48f2-a0e8-9f92ef3b3b15) |
+| Data Analyst | [Modern Health](https://modernhealth.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/modernhealth/jobs/8550544002) |
 | Senior Software Engineer- Java & Database Development | [Experian](https://experianplc.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000130283930) |
+| Senior Sales Engineer | [Zscaler](https://zscaler.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5154840007) |
 | Customer Engineer (Pre-Sales)  | [Federato](https://federato.ai) | $175K–$195K/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/federato/jobs/5247643008) |
 | Marketing Data Analyst | [SmithRx](https://smithrx.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/smithrx/jobs/8579254002) |
+| Staff Technical Communications Lead - Quantum R&D | [IonQ](https://ionq.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/ionq/jobs/6012008004) |
 | Senior Staff Engineer - Data Analyst | [Nagarro](https://nagarro.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000130281589) |
 | Staff Engineer - SAP WM | [Nagarro](https://nagarro.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000130277895) |
 | Senior Cloud Engineer  | [ClickHouse](https://clickhouse.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/clickhouse/jobs/5994726004) |
+| Design Verification Engineer | [Cerebras Systems](https://cerebras.net) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/cerebrassystems/jobs/7763894003) |
+| Design Verification Engineer | [Cerebras Systems](https://cerebras.net) | $190K–$230K/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/cerebrassystems/jobs/7763846003) |
 |  Ingeniero de Software / Arquitecto de Soluciones  | [Inetum](https://inetum.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000130275839) |
 | Senior Software Engineer | [Federato](https://federato.ai) | $160K–$200K/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/federato/jobs/5248372008) |
 | Salesforce Data Architect, Revenue Solutions | [NeuraFlash](https://neuraflash.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/neuraflash/jobs/6014291004) |
@@ -45,6 +62,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Software Engineer - SONiC | [Arista Networks](https://aristanetworks.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000130208979) |
 | Senior Optical Test Setup Engineer | [IonQ](https://ionq.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/ionq/jobs/6013544004) |
 | Freelance Middle Salesforce Consultant | [Genpak LLC](https://genpak-llc-2) | — | Jun 4 | [Apply](https://job-boards.eu.greenhouse.io/valtech/jobs/4881533101) |
+| Alternance Data & Tech International F/H | [WPP Media](https://wppmedia.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5247751008) |
 | BI Engineer: Takealot Group | [takealot.com](https://takealot.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/takealotgroup/jobs/7981943) |
 | Senior Software Engineer | [Experian](https://experianplc.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000130186879) |
 | GenAI Integrated Project Manager | [Genpak LLC](https://genpak-llc-2) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/brandtechplus/jobs/7981908) |
@@ -79,12 +97,15 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Civil CAD Drafter/Technician  | [KPFF Consulting Engineers](https://kpff.com) | $50/yr | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/KPFFConsultingEngineers/postings/3743990013458190) |
 | Chief Architect | [Legion Health](https://legionhealth.com) | $300K–$385K/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/legion/jobs/7763058003) |
 | Structural Engineering Manager   | [Remora](https://remoracarbon.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/remoracarbon/jobs/5154988007) |
+| Staff Solutions Architect, Contract LifeCycle Management | [Twilio](https://twilio.com) | $129K–$161K/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7979245) |
 | Software Development Manager, Commerce | [Twitch](https://twitch.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8577609002) |
 | Software Development Manager, Commerce | [Twitch](https://twitch.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8577598002) |
 | Senior Software Engineer | [Confluent](https://confluent.io) | — | Jun 3 | [Apply](https://jobs.ashbyhq.com/confluent/905efbaa-d814-4b16-a377-d417c7d3d772) |
 | Automotive Technician / Mechanic - $35-$55/Hr* & Weekends Off - Green Valley Ranch | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | $55/yr | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000130081959) |
 | Senior Software Engineer - Database Engine | [SingleStore](https://singlestore.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/singlestore/jobs/7863354) |
 | Staff Software Engineer | [Clutch](https://clutch.io) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/clutch/jobs/6013361004) |
+| Salesforce Solution Architect, Data & AI | [NeuraFlash](https://neuraflash.com) | $101K–$245K/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/neuraflash/jobs/6013147004) |
+| Salesforce Solution Architect, Data & AI | [NeuraFlash](https://neuraflash.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/neuraflash/jobs/6013356004) |
 | Staff Certification Engineer | [Archer](https://archer.com) | $140K–$215K/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7732434003) |
 | MEP Senior Project Manager - Hospitality construction project | [AECOM](https://aecom.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000130071179) |
 | Director of Marketing Analytics (Remote) | [Rula](https://rula.com) | — | Jun 3 | [Apply](https://jobs.ashbyhq.com/rula/ddb7a13b-e54e-4bf6-b89d-20df0ebc6f90) |

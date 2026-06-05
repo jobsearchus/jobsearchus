@@ -2,12 +2,13 @@
 
 Frontend engineering roles. React, Vue, Angular, TypeScript — direct from company career pages.
 
-**22 open roles** — Last updated: 2026-06-05
+**23 open roles** — Last updated: 2026-06-05
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Front End Design Engineer (Microarchitecture) | [Cerebras Systems](https://cerebras.net) | $250K–$300K/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/cerebrassystems/jobs/7763907003) |
 | Sr. Software Engineer, Frontend - LATAM | [Engine](https://engine.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/engine/jobs/7762781003) |
 | Front-End Developer | [CapTech](https://captech.com) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/CapTechConsulting/postings/744000130104609) |
 | Senior Front-End (React) Engineer | [Dailymotion](https://dailymotion.com) | — | Jun 2 | [Apply](https://api.smartrecruiters.com/v1/companies/Dailymotion/postings/744000129855930) |

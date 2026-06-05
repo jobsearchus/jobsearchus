@@ -2,23 +2,37 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**592 open roles** — Last updated: 2026-06-05
+**608 open roles** — Last updated: 2026-06-05
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Social Media Manager | [Discord](https://discord.com) | $132K–$148K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/discord/jobs/8573459002) |
 | Principal Program Manager | [Intercom](https://intercom.com) | $189K–$226K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7961835) |
+| Senior Visualizer | [Archer](https://archer.com) | $115K–$180K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7727755003) |
+| Director, Data Engineering (AI Native) | [Life360](https://life360.com) | $216K–$318K/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/life360/jobs/8579704002) |
+| Staff Product Marketing Manager, Consumer | [Discord](https://discord.com) | $204K–$255K/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/discord/jobs/8573433002) |
+| Sales Engineer | [Vantage](https://vantage.com) | $150K–$250K/yr | Jun 4 | [Apply](https://jobs.ashbyhq.com/vantage/312c5873-f635-4446-991e-870beb482056) |
 | Senior Channel Sales Manager | [Freshworks](https://freshworks.com) | $182K–$225K/yr | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000130304590) |
 | Lead eLearning Designer - Technical Sales Enablement | [Freshworks](https://freshworks.com) | $115K–$150K/yr | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000130302532) |
 | Lead eLearning Designer - Technical Sales Enablement | [Freshworks](https://freshworks.com) | $110K–$142K/yr | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000130304069) |
+| Compliance & Employee Relations Partner | [Archer](https://archer.com) | $131K–$164K/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7692948003) |
+| Human Resources Manager | [Inversion Space](https://inversionspace.com) | $134K–$195K/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/inversionspace/jobs/4703301005) |
+| Staff Cloud Operations Engineer | [Branch AI](https://branch-ai.com) | $185K–$200K/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/branch/jobs/7764041003) |
+| Cloud Operations Engineer | [Branch AI](https://branch-ai.com) | $135K–$150K/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/branch/jobs/7764056003) |
 | Senior Program Manager / Account Manager | [CapTech](https://captech.com) | $130K–$160K/yr | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/CapTechConsulting/postings/744000130290094) |
+| Senior Data Engineer | [Branch AI](https://branch-ai.com) | $160K–$175K/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/branch/jobs/7764002003) |
 | Senior Security Regulatory Compliance Manager | [Twilio](https://twilio.com) | $156K–$194K/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7975991) |
+| Senior AI Engineer | [Weave Robotics](https://weaverobots.com) | $175K–$215K/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/weave/jobs/4274000009) |
 | Customer Engineer (Pre-Sales)  | [Federato](https://federato.ai) | $175K–$195K/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/federato/jobs/5247643008) |
 | Account Executive, Scale | [Intercom](https://intercom.com) | $119K–$142K/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7982980) |
 | Account Executive, Scale | [Intercom](https://intercom.com) | $132K–$158K/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7980879) |
 | Senior Product and Regulatory Counsel | [KOHO](https://koho.ca) | $180K–$210K/yr | Jun 4 | [Apply](https://jobs.ashbyhq.com/koho/eee4ce09-110d-4a8e-8b23-219f3c89a13d) |
+| Senior Front End Design Engineer (Microarchitecture) | [Cerebras Systems](https://cerebras.net) | $250K–$300K/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/cerebrassystems/jobs/7763907003) |
 | Regional Sales Manager - Federal | [ExtraHop](https://extrahop.com) | $135K–$155K/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/extrahopnetworks/jobs/6013600004) |
+| Director of Retail, LATAM | [ŌURA](https://ouraring.com) | $201K–$236K/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/oura/jobs/4273761009) |
+| Design Verification Engineer | [Cerebras Systems](https://cerebras.net) | $190K–$230K/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/cerebrassystems/jobs/7763846003) |
 | Senior Software Engineer | [Federato](https://federato.ai) | $160K–$200K/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/federato/jobs/5248372008) |
 | Staff Software Engineer | [Federato](https://federato.ai) | $200K–$250K/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/federato/jobs/5248355008) |
 | Sr. Staff/Staff Design Verification Engineer | [Cerebras Systems](https://cerebras.net) | $250K–$300K/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/cerebrassystems/jobs/7763735003) |
@@ -36,7 +50,9 @@ Remote roles paying $100,000 or more per year. Salary data pulled directly from 
 | Vice President, Scaled Demand Generation | [Freshworks](https://freshworks.com) | $320K–$400K/yr | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000130090844) |
 | Chief Architect | [Legion Health](https://legionhealth.com) | $300K–$385K/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/legion/jobs/7763058003) |
 | Cloud Infrastructure Engineer -  Vice President | [iCapital](https://icapital.com) | $130K–$160K/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8577716002) |
+| Staff Solutions Architect, Contract LifeCycle Management | [Twilio](https://twilio.com) | $129K–$161K/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7979245) |
 | Enterprise RIA Business Development - Senior Vice President  | [iCapital](https://icapital.com) | $200K–$240K/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8575538002) |
+| Salesforce Solution Architect, Data & AI | [NeuraFlash](https://neuraflash.com) | $101K–$245K/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/neuraflash/jobs/6013147004) |
 | Staff Certification Engineer | [Archer](https://archer.com) | $140K–$215K/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7732434003) |
 | Senior Director, HR Business Partner - Marketing & Product  | [Freshworks](https://freshworks.com) | $246K–$305K/yr | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000130072302) |
 | Store Manager | [Anglo American](https://angloamerican.com) | $145K–$150K/yr | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000130068654) |

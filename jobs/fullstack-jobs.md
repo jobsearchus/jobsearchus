@@ -2,12 +2,13 @@
 
 Full-stack engineering roles across product, platform, and startup companies.
 
-**46 open roles** — Last updated: 2026-06-05
+**47 open roles** — Last updated: 2026-06-05
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Developer Java Fullstack (React and AWS) | [Referrals Only](https://thoughtworks.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7971656) |
 | Java full stack Senior Developer | [Referrals Only](https://thoughtworks.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7981736) |
 | Java full stack Senior Developer | [Referrals Only](https://thoughtworks.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7981542) |
 | Full-Stack Engineer | [CapTech](https://captech.com) | $90K–$190K/yr | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/CapTechConsulting/postings/744000130102319) |

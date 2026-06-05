@@ -2,7 +2,7 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**417 open roles** — Last updated: 2026-06-05
+**422 open roles** — Last updated: 2026-06-05
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -11,11 +11,15 @@ Remote finance, accounting, and analyst roles at companies of all sizes.
 | Payment Processing Assistant | [Convera](https://convera.com) | — | Jun 5 | [Apply](https://job-boards.eu.greenhouse.io/convera/jobs/4871901101) |
 | Total Rewards Specialist | [Clara](https://clara.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/clara/jobs/5156448007) |
 | Principal Program Manager | [Intercom](https://intercom.com) | $189K–$226K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7961835) |
+| Senior Corporate Accountant, Crypto | [Robinhood](https://robinhood.com) | — | Jun 5 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7983883?t=gh_src=&gh_jid=7983883) |
 | Senior Associate - Investor Services | [IQ-EQ](https://iqeq.com) | $72K–$100K/yr | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000130297640) |
 | Senior Associate- Private Equity and Hedge Fund Accounting (CFO Services) | [IQ-EQ](https://iqeq.com) | $70K–$90K/yr | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000130293164) |
 | Senior Associate- Private Equity and Hedge Fund Accounting (CFO Services) | [IQ-EQ](https://iqeq.com) | $70K–$90K/yr | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000130293799) |
 | Revenue Accountant | [StackAdapt](https://stackadapt.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/stackadapt/jobs/4257194009) |
 | Universal Banker | [Standard Bank](https://standardbank.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000130282588) |
+| Brokerage Accounting Manager  (Japan Securities Entity)   | [Alpaca](https://alpaca.markets) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/alpaca/jobs/6013570004) |
+| Strategic Sourcing Manager (Engineering) | [Box](https://box.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/boxinc/jobs/7983238) |
+| Strategic Sourcing Manager (Engineering) | [Box](https://box.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/boxinc/jobs/7974271) |
 | Universal Banker | [Standard Bank](https://standardbank.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000130267013) |
 | Portfolio Advisor | [Baringa](https://baringa.com) | — | Jun 4 | [Apply](https://job-boards.eu.greenhouse.io/baringa/jobs/4881291101) |
 | Comptable confirmé H/F  *** URGENT *** | [ACCOR](https://group.accor.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130249159) |
@@ -28,6 +32,7 @@ Remote finance, accounting, and analyst roles at companies of all sizes.
 | Analyst, Client | [Standard Bank](https://standardbank.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000130202439) |
 | Business Analyst - Service Now | [Miratech](https://miratech.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000130178159) |
 | Senior Staff Consultant (Reporting Analyst) | [Nagarro](https://nagarro.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000130159324) |
+| Analista de Cuentas por Pagar | [WPP Media](https://wppmedia.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5247646008) |
 | Brokerage Operations Associate I - ACATS | [Alpaca](https://alpaca.markets) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/alpaca/jobs/6013555004) |
 | Senior Director, Accounting | [Deepgram](https://deepgram.com) | — | Jun 3 | [Apply](https://jobs.ashbyhq.com/Deepgram/072271ea-2006-47af-8c4f-e8f9e54daa11) |
 | Senior Financial Analyst, Operations | [Avery Dennison](https://averydennison.com) | $81K–$121K/yr | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000130088989) |
