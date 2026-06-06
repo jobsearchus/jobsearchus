@@ -2,14 +2,20 @@
 
 Remote operations and business operations roles across industries.
 
-**992 open roles** — Last updated: 2026-06-06
+**1007 open roles** — Last updated: 2026-06-06
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Driver - Light Vehicle | [Egis](https://egis-group.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000130630599) |
+| Office Coordinator | [University of Notre Dame](https://universityofnotredame.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013505446) |
 | Senior FPGA Engineer | [DRW](https://drw.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7986135) |
+| Maintenance Planner (Maintenance System Coordinator) | [Continental](https://continentalserves.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000130593374) |
+| Automotive Technician / Mechanic - Up To $55/hr. & Climate-Controlled Shop - Katy Grand Parkway | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | $55/yr | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000130592180) |
 | Director/Senior Director of Asset Quality Assurance | [Formation Bio](https://formation.bio) | $178K–$222K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/formationbio/jobs/7972582) |
+| Shuttle Driver / Guest Relations Specialist - Weekends Off - Forney | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000130586600) |
+| Automotive Technician / Mechanic - Up to $65/HR* & Fully Air-Conditioned Shop - Folly Road | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | $65/yr | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000130584666) |
 | APRENDIZ TÉCNICO EM MECÂNICA | [O-I Glass](https://o-i.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/O-I/postings/744000130584024) |
 | Clow Valve - 1st Shift Brass Production Supervisor | [McWane](https://mcwane.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/McWaneInc/postings/3743990013500876) |
 | Senior Manager, Operations Program Manager | [ŌURA](https://ouraring.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/oura/jobs/4266351009) |
@@ -19,9 +25,16 @@ Remote operations and business operations roles across industries.
 | Maintenance Superintendent | [Avanath Capital Management](https://avanath.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/communitymanager/jobs/5157830007) |
 | ALTERNANT BAC PRO | [Genpak LLC](https://genpak-llc-2) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130563414) |
 | Fulfillment & Operations Coordinator | [Vosker](https://vosker.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Vosker/postings/744000130562532) |
+| Senior Project Manager - Property Development | [NBCUniversal](https://nbcuniversal.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130557559) |
+| Production Machine Operator - Night Shift | [Avery Dennison](https://averydennison.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000130555604) |
+| Project Coordinator - Property Development | [NBCUniversal](https://nbcuniversal.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130552406) |
 | Project Quality Coordinator | [Egis](https://egis-group.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000130553869) |
 | Area Manager (WM) | [Wolt](https://wolt.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7984751) |
+| DZ City Owner Operators Great Wages & Capped Fuel | [Manitoulin Global Forwarding](https://manitoulingroup.com) | $40/yr | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000130550669) |
 | AI Quality Evaluator - Arabic  | [Canva](https://canva.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Canva/postings/6000000001135987) |
+| Production Manager | [Avery Dennison](https://averydennison.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000130547121) |
+| Supply Chain Supervisor | [Avery Dennison](https://averydennison.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000130549239) |
+| Reporting Manager | [AECOM](https://aecom.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000130543970) |
 | Référent Back Office Planning - CDD 9 mois (H/F) | [AUTO1 Group](https://auto1-group.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000130538792) |
 | Principal, Integrated Planning (Operations) | [Anglo American](https://angloamerican.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000130533425) |
 | Truck & Trailer Mechanic Great  Wages $46.34 & $5000 Sign On Bonus!! | [Manitoulin Global Forwarding](https://manitoulingroup.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000130532069) |
@@ -32,7 +45,9 @@ Remote operations and business operations roles across industries.
 | Ведущий специалист по планированию производства | [Syngenta](https://syngenta.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000130503125) |
 | Customer Success Manager  | [VusionGroup SA](https://vusiongroup.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/VusionGroupSA/postings/744000130498180) |
 | Stock Manager | [Gymshark](https://gymshark.com) | — | Jun 5 | [Apply](https://job-boards.eu.greenhouse.io/gymshark/jobs/4884532101) |
+| Outbye Superintendent | [Anglo American](https://angloamerican.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000130353279) |
 | Warehouse Group Leader | [Avery Dennison](https://averydennison.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000130352579) |
+| Geólogo Ore Control - Temporal | [Anglo American](https://angloamerican.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000130312938) |
 | Operador de Impresion Ofsett  | [Avery Dennison](https://averydennison.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000130311009) |
 | Operador  Desbarbe | [Avery Dennison](https://averydennison.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000130310839) |
 | Operador Feeder | [Avery Dennison](https://averydennison.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000130310809) |

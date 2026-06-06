@@ -2,17 +2,23 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**960 open roles** — Last updated: 2026-06-06
+**966 open roles** — Last updated: 2026-06-06
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Delivery Driver(4701) - 243 W Main st | [Domino's](https://dominos.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130621602) |
+| Pizza Maker/Crew Member(06580) | [Domino's](https://dominos.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130619044) |
+| Regional Network Director - Washington, DC | [University of Notre Dame](https://universityofnotredame.com) | $120K–$130K/yr | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013505396) |
+| Serveur bar et lounge - H/F | [Genpak LLC](https://genpak-llc-2) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000130588347) |
 | Clinical Lab Operator I | [Natera](https://natera.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/natera/jobs/5775499004) |
 | Veterinary Technician - Surgery | [Veritas Veterinary Partners](https://veritasveterinarypartners.com) | $23/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/veritasvetpartners/jobs/5249765008) |
 | RETAIL ASSISTANT - WEEKEND ONLY | [Primark Tiendas SLU](https://primark.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000130580399) |
+| General Service Technician / Mechanic - Weekends Off - Weatherford | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000130578840) |
 | Veterinary Technician - Swing | [Veritas Veterinary Partners](https://veritasveterinarypartners.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/veritasvetpartners/jobs/5249676008) |
 | Veterinary Technician - Surgery | [Veritas Veterinary Partners](https://veritasveterinarypartners.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/veritasvetpartners/jobs/5249675008) |
+| Director - Channel & Alliances Strategy | [Freshworks](https://freshworks.com) | $214K–$264K/yr | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000130572432) |
 | Dietary - Kitchen Manager | [Crestwood Behavioral Health](https://crestwoodbehavioralhealth.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/crestwoodcareers/jobs/7764841003) |
 | Caissier(ère)/Hôte(sse) | [Genpak LLC](https://genpak-llc-2) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000130553669) |
 | Technicien(ne) de maintenance [CDI] | [Genpak LLC](https://genpak-llc-2) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000130545697) |

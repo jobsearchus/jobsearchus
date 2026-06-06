@@ -2,17 +2,21 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**621 open roles** — Last updated: 2026-06-06
+**625 open roles** — Last updated: 2026-06-06
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Regional Network Director - Washington, DC | [University of Notre Dame](https://universityofnotredame.com) | $120K–$130K/yr | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013505396) |
 | Senior FPGA Engineer | [DRW](https://drw.com) | $225K–$325K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7958746) |
 | Director/Senior Director of Asset Quality Assurance | [Formation Bio](https://formation.bio) | $178K–$222K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/formationbio/jobs/7972582) |
 | Technical Account Manager, Mid-Market | [Hightouch](https://hightouch.com) | $165K–$200K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/hightouch/jobs/6015438004) |
+| Digital Marketing Campaign Specialist (New Business Acquisition) | [Freshworks](https://freshworks.com) | $130K–$162K/yr | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000130573731) |
+| Director - Channel & Alliances Strategy | [Freshworks](https://freshworks.com) | $214K–$264K/yr | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000130572432) |
 | Senior Regulatory Counsel | [DRW](https://drw.com) | $150K–$275K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7983837) |
 | Staff Software Engineer | [Garner Health](https://getgarner.com) | $231K–$260K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/garnerhealth/jobs/6013546004) |
+| Virtual Events & Webinars Specialist | [Freshworks](https://freshworks.com) | $130K–$162K/yr | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000130564999) |
 | Staff Technical Recruiter | [Mapbox](https://mapbox.com) | $167K–$227K/yr | Jun 5 | [Apply](https://jobs.ashbyhq.com/mapbox/799c2811-01e2-4b7a-9489-95ac5bcc0dd4) |
 | VP, Engineering Finance | [NBCUniversal](https://nbcuniversal.com) | $200K–$235K/yr | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130535255) |
 | VP, Technical Operations Finance | [NBCUniversal](https://nbcuniversal.com) | $200K–$235K/yr | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130532392) |

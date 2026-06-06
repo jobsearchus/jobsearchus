@@ -2,14 +2,21 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**865 open roles** — Last updated: 2026-06-06
+**872 open roles** — Last updated: 2026-06-06
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| EMPLOYE COMMERCIAL (H/F) Rayon Liquide | [Genpak LLC](https://genpak-llc-2) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130631999) |
+| Job étudiant | [Genpak LLC](https://genpak-llc-2) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130631539) |
+| EMPLOYE COMMERCIAL (H/F) - Employé polyvalent | [Genpak LLC](https://genpak-llc-2) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130631349) |
+| BizDev IV - Crédito e Plataformas de Decisão | [Experian](https://experianplc.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000130601609) |
+| BizDev IV - Crédito e Plataformas de Decisão | [Experian](https://experianplc.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000130601559) |
+| BizDev IV - Crédito e Plataformas de Decisão | [Experian](https://experianplc.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000130601399) |
 | Professional Services Engagement Manager | [GitLab](https://about.gitlab.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8579044002) |
 | Technical Account Manager, Mid-Market | [Hightouch](https://hightouch.com) | $165K–$200K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/hightouch/jobs/6015438004) |
+| Account Director - Public Safety | [NEC Software Solutions](https://necsoftwaresolutions.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/NECSWS/postings/744000130578706) |
 | Vendeur ALIMENTAIRE CHARCUTERIE TRAITEUR FROMAGE (H/F) CDI TEMPS PLEIN | [Genpak LLC](https://genpak-llc-2) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130560035) |
 | Senior Account Executive (Growth) | [The Trade Desk](https://thetradedesk.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5153192007) |
 | Account Executive F/H – CDI | [WPP Media](https://wppmedia.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5249452008) |

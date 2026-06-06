@@ -2,19 +2,23 @@
 
 Remote customer support and success roles across SaaS, e-commerce, and tech.
 
-**252 open roles** — Last updated: 2026-06-06
+**256 open roles** — Last updated: 2026-06-06
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Food Architect | [Domino's](https://dominos.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130621683) |
+| Service Center Analyst | [Continental](https://continentalserves.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000130594289) |
 | Customer Service Representative | [Axon](https://axon.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/axon/jobs/7764930003) |
 | Bilingual International Customer Support Representative | [Natera](https://natera.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/natera/jobs/5995577004) |
 | Customer Support Agent | [Gymshark](https://gymshark.com) | — | Jun 5 | [Apply](https://job-boards.eu.greenhouse.io/gymshark/jobs/4881182101) |
 | English Speaking Support Associate Part-Time (Onsite) | [Wolt](https://wolt.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7984874) |
 | Customer Research Agent  | [Genpak LLC](https://genpak-llc-2) | — | Jun 5 | [Apply](https://job-boards.eu.greenhouse.io/growetalents/jobs/4857574101) |
 | Alternance – Chargé(e) de Trésorerie & Financement Groupe | [VusionGroup SA](https://vusiongroup.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/VusionGroupSA/postings/744000130397114) |
+| Customer Success Manager | [NCS](https://ncs.co) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001135582) |
 | Customer Service Specialist | [Genpak LLC](https://genpak-llc-2) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/APMGroup/postings/6000000001135426) |
+| Customer Service Specialist - Call Centre | [Genpak LLC](https://genpak-llc-2) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/APMGroup/postings/6000000001135389) |
 | Future Opportunities: Retirement Client Relationship Manager | [Gusto](https://gusto.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/gusto/jobs/7984008) |
 | Technical Account Manager | [AlertMedia](https://alertmedia.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/alertmedia/jobs/8573950002) |
 | Director, Commercial Customer Success | [Vanta](https://vanta.com) | — | Jun 4 | [Apply](https://jobs.ashbyhq.com/vanta/ec7f3a6a-1520-4a2a-8238-674eae684860) |

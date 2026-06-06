@@ -2,12 +2,13 @@
 
 General developer and programmer roles that did not fit a more specific category.
 
-**100 open roles** — Last updated: 2026-06-06
+**101 open roles** — Last updated: 2026-06-06
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Android Developer | [Applaudo](https://applaudo.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/ApplaudoStudios/postings/744000130596870) |
 | Clow Valve - CNC Programmer | [McWane](https://mcwane.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/McWaneInc/postings/3743990013500836) |
 | Java Developer  | [Endava](https://endava.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Endava/postings/744000130566700) |
 | C++ Developer (System Components) | [Veeam Software](https://veeam.com) | — | Jun 5 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4763632101) |

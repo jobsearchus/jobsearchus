@@ -2,25 +2,35 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**1440 open roles** — Last updated: 2026-06-06
+**1451 open roles** — Last updated: 2026-06-06
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Staff Engineer, ERP Workday (Functional Consultant) | [Nagarro](https://nagarro.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000130628859) |
+| Staff Engineer, ERP Workday (Technical Consultant) | [Nagarro](https://nagarro.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000130628839) |
+| Staff Engineer, ERP Workday (Functional Consultant) | [Nagarro](https://nagarro.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000130628779) |
 | Senior FPGA Engineer | [DRW](https://drw.com) | $225K–$325K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7958746) |
 | EN - Maintenance Agent-Technician | [ACCOR](https://group.accor.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130582321) |
 | Strategic Solutions Engineer, Chicago/Dallas | [ClickUp](https://clickup.com) | — | Jun 5 | [Apply](https://jobs.ashbyhq.com/clickup/e44a6810-6a4a-4ff2-b2a4-5ca04eaecb02) |
 | Data Architect | [Endava](https://endava.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Endava/postings/744000130580729) |
+| Mobile Solutions Architect | [Applaudo](https://applaudo.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/ApplaudoStudios/postings/744000130578818) |
+| Quality Architect Engineer | [Applaudo](https://applaudo.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/ApplaudoStudios/postings/744000130578084) |
 | [8NW] Staff Software Engineer | [Software Mind](https://softwaremind.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/SoftwareMind/postings/744000130574709) |
 | Business Systems Architect – Finance (D365 FO) | [Axon](https://axon.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/axon/jobs/7764947003) |
 | Business Systems Architect – Finance (D365 FO) | [Axon](https://axon.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/axon/jobs/7764948003) |
 | Senior Regulatory Counsel | [DRW](https://drw.com) | $150K–$275K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7983837) |
 | Staff Software Engineer | [Garner Health](https://getgarner.com) | $231K–$260K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/garnerhealth/jobs/6013546004) |
+| Senior Signaling and ATC Engineer | [Egis](https://egis-group.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000130562489) |
 | Lead data engineer & Team Lead | [VML MAP](https://vml-map.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/map/jobs/8580487002) |
+| Technical Services Engineer | [NEC Software Solutions](https://necsoftwaresolutions.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/NECSWS/postings/744000130557749) |
+| Broadcast IT Systems Engineer - Live Events | [NBCUniversal](https://nbcuniversal.com) | $65K–$90K/yr | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130551496) |
+| AI & Data Governance and Trust Manager | [MSX International](https://msxi.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013493486) |
 | Data Engineer | [MSX International](https://msxi.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013493059) |
 | AI & Data Governance and Trust Manager | [MSX International](https://msxi.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013493036) |
 | AI Solutions Architect | [MSX International](https://msxi.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013493017) |
+| Entry-Level Civil Engineer | [AECOM](https://aecom.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000130544140) |
 | Technical Lead, WPP Open | [WPP](https://wpp.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/wpp/jobs/8557768002) |
 | Property Development Construction Director | [NBCUniversal](https://nbcuniversal.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130541042) |
 | Lead eCommerce, Plateforme transactionnelle | [Vosker](https://vosker.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Vosker/postings/744000130537931) |
@@ -57,6 +67,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | AI Automation Lead – Enterprise Platforms | [Sophos](https://sophos.com) | — | Jun 5 | [Apply](https://jobs.lever.co/sophos/d2be1e19-ef44-44bd-b64e-75770dd90f86) |
 | Chef de projet MOE - Senior - H/F | [Inetum](https://inetum.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000130372113) |
 | Intern - Growth (AI & MarTech) | [Groww](https://groww.in) | — | Jun 5 | [Apply](https://job-boards.eu.greenhouse.io/groww/jobs/4780793101) |
+| Especialista de Ingeniería | [Anglo American](https://angloamerican.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000130336038) |
 | Manager, Software Engineering | [AlertMedia](https://alertmedia.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/alertmedia/jobs/8579548002) |
 | Structural Engineer-Diver | [KPFF Consulting Engineers](https://kpff.com) | $90K–$160K/yr | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/KPFFConsultingEngineers/postings/3743990013483876) |
 | Structural Engineer-Diver | [KPFF Consulting Engineers](https://kpff.com) | $90K–$160K/yr | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/KPFFConsultingEngineers/postings/3743990013483826) |

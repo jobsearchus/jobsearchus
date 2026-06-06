@@ -2,15 +2,19 @@
 
 Remote HR, recruiting, and people operations roles.
 
-**165 open roles** — Last updated: 2026-06-06
+**169 open roles** — Last updated: 2026-06-06
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| HR Manager | [Continental](https://continentalserves.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000130600169) |
 | Conseiller.ère acquisition de talents, par intérim (H/F/D) | [ACCOR](https://group.accor.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130582438) |
+| Automotive Technician / Mechanic - Up to $45/hr & Weekends Off - Weatherford | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | $45/yr | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000130578710) |
+| Senior Health and Safety Advisor (Edmonton Office) | [Egis](https://egis-group.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000130567138) |
 | Staff Technical Recruiter | [Mapbox](https://mapbox.com) | — | Jun 5 | [Apply](https://jobs.ashbyhq.com/mapbox/9fb79daf-1e66-474d-9171-05e0198f9b29) |
 | Staff Technical Recruiter | [Mapbox](https://mapbox.com) | $167K–$227K/yr | Jun 5 | [Apply](https://jobs.ashbyhq.com/mapbox/799c2811-01e2-4b7a-9489-95ac5bcc0dd4) |
+| Automotive Technician / Mechanic - Up to $55/Hr & Weekends Off - Loveland | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | $55/yr | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000130556154) |
 | Automotive Technician / Mechanic - Up to $55/Hr* & Weekends Off - Brownsburg | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | $55/yr | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000130513549) |
 | Automotive Technician / Mechanic - Up to $45/hr & Weekends Off - Wilmington | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | $45/yr | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000130506649) |
 | HR Operations Partner | [JustMarkets](https://justmarkets.com) | — | Jun 5 | [Apply](https://job-boards.eu.greenhouse.io/justmarkets/jobs/4880760101) |
