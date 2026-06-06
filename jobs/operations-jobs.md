@@ -2,14 +2,17 @@
 
 Remote operations and business operations roles across industries.
 
-**1018 open roles** — Last updated: 2026-06-06
+**1029 open roles** — Last updated: 2026-06-06
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Cleaner weekend | [Greene King](https://greeneking.co.uk) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/GreeneKing/postings/744000130641019) |
+| Magasinier / Responsable de réserve | [JYSK](https://jysk.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000130639029) |
 | Recruiting Coordinator | [OpenWork](https://openworklabs.com) | $25K/yr | Jun 6 | [Apply](https://job-boards.greenhouse.io/openwork/jobs/4274608009) |
 | AC Technician  | [ACCOR](https://group.accor.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130632139) |
+| Workplace Manager- Gurgaon | [G2](https://g2.com) | — | Jun 6 | [Apply](https://jobs.ashbyhq.com/g2/51c11a15-42c0-45e2-a771-f767107e33df) |
 | Driver - Light Vehicle | [Egis](https://egis-group.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000130630599) |
 | Office Coordinator | [University of Notre Dame](https://universityofnotredame.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013505446) |
 | Data Center Operations Tier 1 Technician | [LightEdge](https://lightedge.com) | — | Jun 6 | [Apply](https://jobs.lever.co/lightedge/57864062-c7ec-4874-912b-8b78dd10eb32) |
@@ -29,7 +32,10 @@ Remote operations and business operations roles across industries.
 | Safety Specialist/Engineer | [Mariana Minerals](https://marianaminerals.com) | — | Jun 5 | [Apply](https://jobs.ashbyhq.com/marianaminerals/dd818bfb-4403-41d6-b4f2-1ef6684640a3) |
 | PM Server at The Hive | [ACCOR](https://group.accor.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130582378) |
 | ESTAGIÁRIO TÉCNICO - OPERAÇÃO MÁQUINAS | [O-I Glass](https://o-i.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/O-I/postings/744000130581819) |
+| ESTAGIÁRIO TÉCNICO - MECANIZAÇÃO E INSPEÇÃO AUTOMÁTICA | [O-I Glass](https://o-i.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/O-I/postings/744000130579769) |
 | Maintenance Superintendent | [Avanath Capital Management](https://avanath.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/communitymanager/jobs/5157830007) |
+| ESTAGIÁRIO EHS  | [O-I Glass](https://o-i.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/O-I/postings/744000130578759) |
+| ESTAGIÁRIO TÉCNICO  | [O-I Glass](https://o-i.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/O-I/postings/744000130566485) |
 | ALTERNANT BAC PRO | [Genpak LLC](https://genpak-llc-2) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130563414) |
 | Fulfillment & Operations Coordinator | [Vosker](https://vosker.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Vosker/postings/744000130562532) |
 | Senior Project Manager - Property Development | [NBCUniversal](https://nbcuniversal.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130557559) |
@@ -44,13 +50,18 @@ Remote operations and business operations roles across industries.
 | Housekeeper - Janitor | [Crestwood Behavioral Health](https://crestwoodbehavioralhealth.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/crestwoodcareers/jobs/7764686003) |
 | Reporting Manager | [AECOM](https://aecom.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000130543970) |
 | Référent Back Office Planning - CDD 9 mois (H/F) | [AUTO1 Group](https://auto1-group.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000130538792) |
+| Senior Partner Manager (8-Month Parental Leave Cover)  | [Too Good To Go](https://toogoodtogo.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/toogoodtogo/jobs/7764507003) |
 | Principal, Integrated Planning (Operations) | [Anglo American](https://angloamerican.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000130533425) |
+| Campus Receptionist | [Aviation Institute of Maintenance](https://aviationmaintenance.edu) | $22/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/aviationinstituteofmaintenance/jobs/5249230008) |
+| Automatic Door Installer | [DH Pace Company](https://dhpace.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5249229008) |
 | Truck & Trailer Mechanic Great  Wages $46.34 & $5000 Sign On Bonus!! | [Manitoulin Global Forwarding](https://manitoulingroup.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000130532069) |
 | Junior inköpare och testare till vår station i Sundsvall | [AUTO1 Group](https://auto1-group.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000130530710) |
+| Automatic Door Installer | [DH Pace Company](https://dhpace.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5249203008) |
 | CX SME | [Genpak LLC](https://genpak-llc-2) | — | Jun 5 | [Apply](https://job-boards.eu.greenhouse.io/lotusworks/jobs/4884155101) |
 | Transcriber | [NBCUniversal](https://nbcuniversal.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130521749) |
 | GTM Strategy and Operations Director - EMEA | [The Trade Desk](https://thetradedesk.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5156564007) |
 | Ведущий специалист по планированию производства | [Syngenta](https://syngenta.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000130503125) |
+| Key Account Manager  - Retail | [Wolt](https://wolt.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7984611) |
 | Customer Success Manager  | [VusionGroup SA](https://vusiongroup.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/VusionGroupSA/postings/744000130498180) |
 | Business Analyst - Confirmé - H/F | [Inetum](https://inetum.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000130499925) |
 | Stock Manager | [Gymshark](https://gymshark.com) | — | Jun 5 | [Apply](https://job-boards.eu.greenhouse.io/gymshark/jobs/4884532101) |

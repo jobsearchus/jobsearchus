@@ -2,12 +2,15 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**881 open roles** — Last updated: 2026-06-06
+**888 open roles** — Last updated: 2026-06-06
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Sales Assistant part-time C.C. “Punta di Ferro” | [JD Sports](https://jdsports.com) | — | Jun 6 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4886392101) |
+| SALES ASSISTANT JDI  | [JD Sports](https://jdsports.com) | — | Jun 6 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4886346101) |
+| Sales Assistant (Part Time) - C.C. "Val Vibrata" | [JD Sports](https://jdsports.com) | — | Jun 6 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4886334101) |
 | EMPLOYE COMMERCIAL (H/F) Rayon Liquide | [Genpak LLC](https://genpak-llc-2) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130631999) |
 | Job étudiant | [Genpak LLC](https://genpak-llc-2) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130631539) |
 | EMPLOYE COMMERCIAL (H/F) - Employé polyvalent | [Genpak LLC](https://genpak-llc-2) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130631349) |
@@ -31,18 +34,22 @@ Remote sales roles — account executives, SDRs, and enterprise deals.
 | Account Executive F/H – CDI | [WPP Media](https://wppmedia.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5249452008) |
 | Account Executive - SLED - AZ/NM/HI/NV | [Zscaler](https://zscaler.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5147261007) |
 | Assistant Commercial Automobile (H/F) | [AUTO1 Group](https://auto1-group.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000130551759) |
+| Commercial Account Executive - Federal FSI | [Zscaler](https://zscaler.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5141037007) |
 | Senior Relationship Manager - Strategic Sales (Remote) | [Experian](https://experianplc.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000130546510) |
 | Sales Manager  -- Pool Applications | [Continental](https://continentalserves.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000130548094) |
 | Sales Manager  -- Pool Applications | [Continental](https://continentalserves.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000130545692) |
 | Sales Manager  --   Pool Applications | [Continental](https://continentalserves.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000130547639) |
 | Vendeur produit de complément (décoration) F/H/X | [BUT](https://but.fr) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000130546989) |
 | Account Executive - SLED - Texas | [Zscaler](https://zscaler.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5151891007) |
+| Principal Specialist Sales Engineer, Zero Trust Branch | [Zscaler](https://zscaler.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5153361007) |
 | Client Executive – Preferred Regional Markets (West) | [Experian](https://experianplc.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000130536399) |
 | Manager, Sales Optimization | [NBCUniversal](https://nbcuniversal.com) | $90K–$100K/yr | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130520562) |
 | Account Development Representative - SLED CENTRAL | [Job Board](https://corelight.com) | $180K–$214K/yr | Jun 5 | [Apply](https://boards.greenhouse.io/corelight/jobs/7984809?gh_jid=7984809) |
 | Account Development Representative - Federal | [Job Board](https://corelight.com) | $180K–$214K/yr | Jun 5 | [Apply](https://boards.greenhouse.io/corelight/jobs/7984807?gh_jid=7984807) |
 | Senior Manager, Revenue Enablement | [Peek](https://peek.com) | — | Jun 5 | [Apply](https://jobs.ashbyhq.com/peek/bad7e0f4-8d2c-446b-aad7-8eba66905ef5) |
 | Channel Account Manager - Inside Sales (m/f/d) | [Sophos](https://sophos.com) | — | Jun 5 | [Apply](https://jobs.lever.co/sophos/fa4062e0-d043-461f-83ab-e519bfc69ef6) |
+| Менеджер технической поддержки продаж | [Syngenta](https://syngenta.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000130501002) |
+| Менеджер по продажам СЗР | [Syngenta](https://syngenta.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000130503578) |
 | Regional Director, Enterprise Sales  | [Zscaler](https://zscaler.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5153344007) |
 | Manager, Retention and Growth | [Razorpay Software Private Limited](https://razorpay.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4702165005) |
 | Sales Manager - France (All Genders) | [Dailymotion](https://dailymotion.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Dailymotion/postings/744000130401349) |

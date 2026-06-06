@@ -2,7 +2,7 @@
 
 General developer and programmer roles that did not fit a more specific category.
 
-**102 open roles** — Last updated: 2026-06-06
+**103 open roles** — Last updated: 2026-06-06
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -15,6 +15,7 @@ General developer and programmer roles that did not fit a more specific category
 | C++ Developer (System Components) | [Veeam Software](https://veeam.com) | — | Jun 5 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4763632101) |
 | Senior Java Developer | [Miratech](https://miratech.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000130512771) |
 | Senior Java Developer | [Miratech](https://miratech.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000130511924) |
+| Senior Adobe Developer  | [VML MAP](https://vml-map.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/map/jobs/8579903002) |
 | Manager - Adobe Developer | [VML MAP](https://vml-map.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/map/jobs/8579908002) |
 | Senior Developer (Java+AWS) | [Referrals Only](https://thoughtworks.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7984453) |
 | Senior Java Developer | [Miratech](https://miratech.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000130388959) |

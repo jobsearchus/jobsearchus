@@ -2,7 +2,7 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**338 open roles** — Last updated: 2026-06-06
+**339 open roles** — Last updated: 2026-06-06
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -14,6 +14,7 @@ Remote marketing roles across growth, content, brand, and performance channels.
 | AI Product Engineer - ClickStack | [ClickHouse](https://clickhouse.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/clickhouse/jobs/6014113004) |
 | Brand Assurance Lead - Consumer Products | [Mob Entertainment](https://mobentertainment.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/mobentertainment/jobs/5157277007) |
 | Virtual Events & Webinars Specialist | [Freshworks](https://freshworks.com) | $130K–$162K/yr | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000130564999) |
+| Principal, Marketing Architecture & Strategy | [Twilio](https://twilio.com) | $142K–$177K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7968269) |
 | Senior Partner Marketing Manager | [ClickHouse](https://clickhouse.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/clickhouse/jobs/6014645004) |
 | Interim Senior Marketing Manager | [NBCUniversal](https://nbcuniversal.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130416060) |
 | Social Media Manager | [Discord](https://discord.com) | $132K–$148K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/discord/jobs/8573459002) |

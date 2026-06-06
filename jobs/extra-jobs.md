@@ -2,13 +2,21 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**979 open roles** — Last updated: 2026-06-06
+**990 open roles** — Last updated: 2026-06-06
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Associate Business Director | [WPP Media](https://wppmedia.com) | — | Jun 6 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5207480008) |
+| RETAIL ASSISTANT - NIGHT SHIFT | [Primark Tiendas SLU](https://primark.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000130638739) |
+| RETAIL ASSISTANT - NIGHT SHIFT | [Primark Tiendas SLU](https://primark.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000130638719) |
+| Guest Relation H/F - Hostellerie de Levernois | [Relais & Châteaux](https://relaischateaux.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000130637569) |
+| Chef de Partie (H/F) - Villa Gallici | [Relais & Châteaux](https://relaischateaux.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000130637489) |
 | Bilingual Onsite Manager (2nd & 3rd Shift Available) | [OpenWork](https://openworklabs.com) | — | Jun 6 | [Apply](https://job-boards.greenhouse.io/openwork/jobs/4274597009) |
+| Part Time Sales Assistant- JYSK Mahon Point | [JYSK](https://jysk.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000130636640) |
+| Chef de Partie (H/F) - Villa Gallici | [Relais & Châteaux](https://relaischateaux.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000130636689) |
+| Vice Store Manager 30-40 h SOSTITUZIONE MATERNITà LUNGA- MANTOVA  | [JYSK](https://jysk.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000130636539) |
 | Chef de rang-Serveur confirmé - semaine en 4 jours | [ACCOR](https://group.accor.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130632255) |
 | F&B Executive | [ACCOR](https://group.accor.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130631459) |
 | Director of Food & Beverage | [ACCOR](https://group.accor.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130630889) |
@@ -35,9 +43,12 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Assistant Manager (sostituzione maternita') - Milano | [JD Sports](https://jdsports.com) | — | Jun 5 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4885305101) |
 | Dental Nurse Maternity Cover | [PortmanDentex](https://portmandentex.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000130544340) |
 | Director, Application Managed Services (AMS) – Europe Growth & Transformation (m/f/d) | [Nagarro](https://nagarro.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000130539709) |
+| Chauffeur / Préparateur de commandes polyvalent H/F | [Genpak LLC](https://genpak-llc-2) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000130537398) |
 | Assistant News Director, NBC Connecticut | [NBCUniversal](https://nbcuniversal.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130530429) |
+| Assistant clientèle | [Genpak LLC](https://genpak-llc-2) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000130529739) |
 | Sales Assistant Part Time (Categorie Protette) - Antegnate C.C. "Antegnate Gran Shopping" | [JD Sports](https://jdsports.com) | — | Jun 5 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4885136101) |
 | Busser - Soho House Austin | [Soho House](https://sohohouse.com) | — | Jun 5 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4884030101) |
+| Runner | [Genpak LLC](https://genpak-llc-2) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000130520511) |
 | Product/Application Support Specialist  | [WIN Home Inspection](https://winhomeinspection.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/winhomeinspection/jobs/4687161006) |
 | Senior Certification Manager | [Vertical Aerospace](https://vertical-aerospace.com) | — | Jun 5 | [Apply](https://jobs.ashbyhq.com/vertical-aerospace/cce1b3ad-fc26-40a6-bf93-481d3e757fc5) |
 | Administrativo/a Automoción - Figueres (Girona) | [AUTO1 Group](https://auto1-group.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000130426349) |

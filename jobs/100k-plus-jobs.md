@@ -2,7 +2,7 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**629 open roles** — Last updated: 2026-06-06
+**631 open roles** — Last updated: 2026-06-06
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -21,10 +21,12 @@ Remote roles paying $100,000 or more per year. Salary data pulled directly from 
 | Senior Regulatory Counsel | [DRW](https://drw.com) | $150K–$275K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7983837) |
 | Staff Software Engineer | [Garner Health](https://getgarner.com) | $231K–$260K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/garnerhealth/jobs/6013546004) |
 | Virtual Events & Webinars Specialist | [Freshworks](https://freshworks.com) | $130K–$162K/yr | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000130564999) |
+| Principal, Marketing Architecture & Strategy | [Twilio](https://twilio.com) | $142K–$177K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7968269) |
 | Staff Technical Recruiter | [Mapbox](https://mapbox.com) | $167K–$227K/yr | Jun 5 | [Apply](https://jobs.ashbyhq.com/mapbox/799c2811-01e2-4b7a-9489-95ac5bcc0dd4) |
 | VP, Engineering Finance | [NBCUniversal](https://nbcuniversal.com) | $200K–$235K/yr | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130535255) |
 | VP, Technical Operations Finance | [NBCUniversal](https://nbcuniversal.com) | $200K–$235K/yr | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130532392) |
 | Platform Engineering Manager, Cloud Infrastructure | [Garner Health](https://getgarner.com) | $219K–$250K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/garnerhealth/jobs/6014311004) |
+| Staff Solutions Architect, Opportunity LifeCycle Management | [Twilio](https://twilio.com) | $127K–$161K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7979240) |
 | Account Development Representative - SLED CENTRAL | [Job Board](https://corelight.com) | $180K–$214K/yr | Jun 5 | [Apply](https://boards.greenhouse.io/corelight/jobs/7984809?gh_jid=7984809) |
 | Account Development Representative - Federal | [Job Board](https://corelight.com) | $180K–$214K/yr | Jun 5 | [Apply](https://boards.greenhouse.io/corelight/jobs/7984807?gh_jid=7984807) |
 | Director - Real Estate Credit, Fund Administration (Accounting) | [Juniper Square](https://junipersquare.com) | $180K–$200K/yr | Jun 5 | [Apply](https://jobs.ashbyhq.com/junipersquare/df9764f8-d750-4713-9c31-4425eacf1953) |

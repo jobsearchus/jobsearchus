@@ -2,7 +2,7 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**1458 open roles** — Last updated: 2026-06-06
+**1463 open roles** — Last updated: 2026-06-06
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -17,11 +17,13 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Senior FPGA Engineer | [DRW](https://drw.com) | $225K–$325K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7958746) |
 | Senior Cloud Engineer | [SmithRx](https://smithrx.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/smithrx/jobs/8579521002) |
 | Desarrollador Java Senior | [Inetum](https://inetum.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000130590009) |
+| Principal Software Development Engineer | [Zscaler](https://zscaler.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5156438007) |
 | EN - Maintenance Agent-Technician | [ACCOR](https://group.accor.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130582321) |
 | Strategic Solutions Engineer, Chicago/Dallas | [ClickUp](https://clickup.com) | — | Jun 5 | [Apply](https://jobs.ashbyhq.com/clickup/e44a6810-6a4a-4ff2-b2a4-5ca04eaecb02) |
 | Data Architect | [Endava](https://endava.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Endava/postings/744000130580729) |
 | Mobile Solutions Architect | [Applaudo](https://applaudo.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/ApplaudoStudios/postings/744000130578818) |
 | Quality Architect Engineer | [Applaudo](https://applaudo.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/ApplaudoStudios/postings/744000130578084) |
+| M&H Valve - Information Technology (IT)  Intern | [McWane](https://mcwane.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/McWaneInc/postings/3743990013498156) |
 | [8NW] Staff Software Engineer | [Software Mind](https://softwaremind.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/SoftwareMind/postings/744000130574709) |
 | Business Systems Architect – Finance (D365 FO) | [Axon](https://axon.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/axon/jobs/7764947003) |
 | Business Systems Architect – Finance (D365 FO) | [Axon](https://axon.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/axon/jobs/7764948003) |
@@ -30,6 +32,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Staff Software Engineer | [Garner Health](https://getgarner.com) | $231K–$260K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/garnerhealth/jobs/6013546004) |
 | Senior Signaling and ATC Engineer | [Egis](https://egis-group.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000130562489) |
 | Lead data engineer & Team Lead | [VML MAP](https://vml-map.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/map/jobs/8580487002) |
+| Senior Technical Project Manager - Martech | [VML MAP](https://vml-map.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/map/jobs/8580490002) |
 | Technical Services Engineer | [NEC Software Solutions](https://necsoftwaresolutions.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/NECSWS/postings/744000130557749) |
 | Broadcast IT Systems Engineer - Live Events | [NBCUniversal](https://nbcuniversal.com) | $65K–$90K/yr | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130551496) |
 | AI & Data Governance and Trust Manager | [MSX International](https://msxi.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013493486) |
@@ -53,9 +56,11 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Software Engineer, Networking (Edge) | [Tailscale](https://tailscale.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/tailscale/jobs/4703163005) |
 | Software Engineer, Networking (Dataplane) | [Tailscale](https://tailscale.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/tailscale/jobs/4703138005) |
 | Software Engineer, Networking (Dataplane) | [Tailscale](https://tailscale.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/tailscale/jobs/4702613005) |
+| Staff Solutions Architect, Opportunity LifeCycle Management | [Twilio](https://twilio.com) | $127K–$161K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7979240) |
 | System Engineer, Electro Optics | [NCS](https://ncs.co) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001135919) |
 | Analyst - MDM (ANZ) | [WPP](https://wpp.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/wpp/jobs/8570401002) |
 | SPR Agronomist Coordinator | [Syngenta](https://syngenta.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000130503785) |
+| Grocery/Warehouse Associate - შეკვეთების შემგროვებელი/საწყობის თანამშრომელი | [Wolt](https://wolt.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7984718) |
 | Praktikant (w/m/d) Energiewende und Wasserstoff | [Drees & Sommer](https://dreso.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000130493909) |
 | Praktikant (w/m/d) Energiewende und Wasserstoff | [Drees & Sommer](https://dreso.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000130493759) |
 | Senior Hardware Engineer | [BESIX](https://besix.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000130481690) |

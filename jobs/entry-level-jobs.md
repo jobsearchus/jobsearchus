@@ -2,12 +2,19 @@
 
 Remote jobs open to candidates with 0–2 years of experience. A real way in — no degree gatekeeping.
 
-**949 open roles** — Last updated: 2026-06-06
+**967 open roles** — Last updated: 2026-06-06
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Cleaner weekend | [Greene King](https://greeneking.co.uk) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/GreeneKing/postings/744000130641019) |
+| RETAIL ASSISTANT - NIGHT SHIFT | [Primark Tiendas SLU](https://primark.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000130638739) |
+| RETAIL ASSISTANT - NIGHT SHIFT | [Primark Tiendas SLU](https://primark.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000130638719) |
+| Sales Assistant part-time C.C. “Punta di Ferro” | [JD Sports](https://jdsports.com) | — | Jun 6 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4886392101) |
+| SALES ASSISTANT JDI  | [JD Sports](https://jdsports.com) | — | Jun 6 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4886346101) |
+| Part Time Sales Assistant- JYSK Mahon Point | [JYSK](https://jysk.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000130636640) |
+| Sales Assistant (Part Time) - C.C. "Val Vibrata" | [JD Sports](https://jdsports.com) | — | Jun 6 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4886334101) |
 | EMPLOYE COMMERCIAL (H/F) Rayon Liquide | [Genpak LLC](https://genpak-llc-2) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130631999) |
 | Job étudiant | [Genpak LLC](https://genpak-llc-2) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130631539) |
 | EMPLOYE COMMERCIAL (H/F) - Employé polyvalent | [Genpak LLC](https://genpak-llc-2) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130631349) |
@@ -29,8 +36,12 @@ Remote jobs open to candidates with 0–2 years of experience. A real way in —
 | RETAIL ASSISTANT - WEEKEND ONLY | [Primark Tiendas SLU](https://primark.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000130580399) |
 | Fund Reporting - Analyst | [iCapital](https://icapital.com) | $70K–$85K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8580782002) |
 | Fund Reporting - Analyst | [iCapital](https://icapital.com) | $70K–$85K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8580065002) |
+| ESTAGIÁRIO TÉCNICO - MECANIZAÇÃO E INSPEÇÃO AUTOMÁTICA | [O-I Glass](https://o-i.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/O-I/postings/744000130579769) |
+| ESTAGIÁRIO EHS  | [O-I Glass](https://o-i.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/O-I/postings/744000130578759) |
 | MHV Marketing Intern | [McWane](https://mcwane.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/McWaneInc/postings/3743990013499066) |
+| M&H Valve - Information Technology (IT)  Intern | [McWane](https://mcwane.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/McWaneInc/postings/3743990013498156) |
 | Customer Service Representative | [Axon](https://axon.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/axon/jobs/7764930003) |
+| ESTAGIÁRIO TÉCNICO  | [O-I Glass](https://o-i.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/O-I/postings/744000130566485) |
 | ALTERNANT BAC PRO | [Genpak LLC](https://genpak-llc-2) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130563414) |
 | Manager, Relationship, Commercial Banking | [Standard Bank](https://standardbank.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000130557975) |
 | Automotive Technician / Mechanic - Up to $55/Hr & Weekends Off - Loveland | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | $55/yr | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000130556154) |
@@ -42,13 +53,20 @@ Remote jobs open to candidates with 0–2 years of experience. A real way in —
 | Housekeeper - Janitor | [Crestwood Behavioral Health](https://crestwoodbehavioralhealth.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/crestwoodcareers/jobs/7764686003) |
 | Entry-Level Civil Engineer | [AECOM](https://aecom.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000130544140) |
 | Customer Support Agent | [Gymshark](https://gymshark.com) | — | Jun 5 | [Apply](https://job-boards.eu.greenhouse.io/gymshark/jobs/4881182101) |
+| Chauffeur / Préparateur de commandes polyvalent H/F | [Genpak LLC](https://genpak-llc-2) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000130537398) |
+| Campus Receptionist | [Aviation Institute of Maintenance](https://aviationmaintenance.edu) | $22/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/aviationinstituteofmaintenance/jobs/5249230008) |
+| Automatic Door Installer | [DH Pace Company](https://dhpace.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5249229008) |
 | Junior inköpare och testare till vår station i Sundsvall | [AUTO1 Group](https://auto1-group.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000130530710) |
+| Automatic Door Installer | [DH Pace Company](https://dhpace.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5249203008) |
+| Assistant clientèle | [Genpak LLC](https://genpak-llc-2) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000130529739) |
 | Versant Academic Year Internships: Platform Engineering (Fandango, GolfNow, Rotten Tomatoes) | [Versant](https://versant.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Versant3/postings/744000130519424) |
 | English Speaking Support Associate Part-Time (Onsite) | [Wolt](https://wolt.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7984874) |
 | Sales Assistant Part Time (Categorie Protette) - Antegnate C.C. "Antegnate Gran Shopping" | [JD Sports](https://jdsports.com) | — | Jun 5 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4885136101) |
 | Busser - Soho House Austin | [Soho House](https://sohohouse.com) | — | Jun 5 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4884030101) |
+| Runner | [Genpak LLC](https://genpak-llc-2) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000130520511) |
 | Praktikant/Werkstudent (w/m/d) Innen-/Architektur | [Drees & Sommer](https://dreso.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000130514082) |
 | Analyst - MDM (ANZ) | [WPP](https://wpp.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/wpp/jobs/8570401002) |
+| Key Account Manager  - Retail | [Wolt](https://wolt.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7984611) |
 | Praktikant (w/m/d) Energiewende und Wasserstoff | [Drees & Sommer](https://dreso.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000130493909) |
 | Praktikant (w/m/d) Energiewende und Wasserstoff | [Drees & Sommer](https://dreso.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000130493759) |
 | Junior Vehicle Pricing Specialist | [AUTO1 Group](https://auto1-group.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000130421676) |
