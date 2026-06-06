@@ -2,12 +2,14 @@
 
 Full-stack engineering roles across product, platform, and startup companies.
 
-**49 open roles** — Last updated: 2026-06-06
+**51 open roles** — Last updated: 2026-06-06
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| [8JH] Senior Full-Stack Engineer (.NET/Angular – CSS/UI) – Team Lead | [Software Mind](https://softwaremind.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/SoftwareMind/postings/744000130585379) |
+| [8JH] Senior Full-Stack Engineer (.NET/Angular) – Migration | [Software Mind](https://softwaremind.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/SoftwareMind/postings/744000130585339) |
 | Junior PHP Full Stack Engineer (PHP, Vue.JS) | [Miratech](https://miratech.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000130410799) |
 | Senior Developer Java Fullstack (React and AWS) | [Referrals Only](https://thoughtworks.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7971656) |
 | Java full stack Senior Developer | [Referrals Only](https://thoughtworks.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7981736) |

@@ -2,13 +2,14 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**333 open roles** — Last updated: 2026-06-06
+**334 open roles** — Last updated: 2026-06-06
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | Marketing Engineer, AI Deployment | [Figma](https://figma.com) | — | Jun 5 | [Apply](https://boards.greenhouse.io/figma/jobs/6013495004?gh_jid=6013495004) |
+| MHV Marketing Intern | [McWane](https://mcwane.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/McWaneInc/postings/3743990013499066) |
 | Brand Assurance Lead - Consumer Products | [Mob Entertainment](https://mobentertainment.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/mobentertainment/jobs/5157277007) |
 | Interim Senior Marketing Manager | [NBCUniversal](https://nbcuniversal.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130416060) |
 | Social Media Manager | [Discord](https://discord.com) | $132K–$148K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/discord/jobs/8573459002) |

@@ -2,7 +2,7 @@
 
 Remote operations and business operations roles across industries.
 
-**986 open roles** — Last updated: 2026-06-06
+**992 open roles** — Last updated: 2026-06-06
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -10,13 +10,18 @@ Remote operations and business operations roles across industries.
 | --- | --- | --- | --- | --- |
 | Senior FPGA Engineer | [DRW](https://drw.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7986135) |
 | Director/Senior Director of Asset Quality Assurance | [Formation Bio](https://formation.bio) | $178K–$222K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/formationbio/jobs/7972582) |
+| APRENDIZ TÉCNICO EM MECÂNICA | [O-I Glass](https://o-i.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/O-I/postings/744000130584024) |
+| Clow Valve - 1st Shift Brass Production Supervisor | [McWane](https://mcwane.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/McWaneInc/postings/3743990013500876) |
 | Senior Manager, Operations Program Manager | [ŌURA](https://ouraring.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/oura/jobs/4266351009) |
 | Safety Specialist/Engineer | [Mariana Minerals](https://marianaminerals.com) | — | Jun 5 | [Apply](https://jobs.ashbyhq.com/marianaminerals/dd818bfb-4403-41d6-b4f2-1ef6684640a3) |
 | PM Server at The Hive | [ACCOR](https://group.accor.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130582378) |
+| ESTAGIÁRIO TÉCNICO - OPERAÇÃO MÁQUINAS | [O-I Glass](https://o-i.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/O-I/postings/744000130581819) |
 | Maintenance Superintendent | [Avanath Capital Management](https://avanath.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/communitymanager/jobs/5157830007) |
 | ALTERNANT BAC PRO | [Genpak LLC](https://genpak-llc-2) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130563414) |
+| Fulfillment & Operations Coordinator | [Vosker](https://vosker.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Vosker/postings/744000130562532) |
 | Project Quality Coordinator | [Egis](https://egis-group.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000130553869) |
 | Area Manager (WM) | [Wolt](https://wolt.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7984751) |
+| AI Quality Evaluator - Arabic  | [Canva](https://canva.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Canva/postings/6000000001135987) |
 | Référent Back Office Planning - CDD 9 mois (H/F) | [AUTO1 Group](https://auto1-group.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000130538792) |
 | Principal, Integrated Planning (Operations) | [Anglo American](https://angloamerican.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000130533425) |
 | Truck & Trailer Mechanic Great  Wages $46.34 & $5000 Sign On Bonus!! | [Manitoulin Global Forwarding](https://manitoulingroup.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000130532069) |
@@ -24,6 +29,7 @@ Remote operations and business operations roles across industries.
 | CX SME | [Genpak LLC](https://genpak-llc-2) | — | Jun 5 | [Apply](https://job-boards.eu.greenhouse.io/lotusworks/jobs/4884155101) |
 | Transcriber | [NBCUniversal](https://nbcuniversal.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130521749) |
 | GTM Strategy and Operations Director - EMEA | [The Trade Desk](https://thetradedesk.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5156564007) |
+| Ведущий специалист по планированию производства | [Syngenta](https://syngenta.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000130503125) |
 | Customer Success Manager  | [VusionGroup SA](https://vusiongroup.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/VusionGroupSA/postings/744000130498180) |
 | Stock Manager | [Gymshark](https://gymshark.com) | — | Jun 5 | [Apply](https://job-boards.eu.greenhouse.io/gymshark/jobs/4884532101) |
 | Warehouse Group Leader | [Avery Dennison](https://averydennison.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000130352579) |

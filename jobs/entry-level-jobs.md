@@ -2,21 +2,28 @@
 
 Remote jobs open to candidates with 0–2 years of experience. A real way in — no degree gatekeeping.
 
-**918 open roles** — Last updated: 2026-06-06
+**926 open roles** — Last updated: 2026-06-06
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | Clinical Lab Operator I | [Natera](https://natera.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/natera/jobs/5775499004) |
+| APRENDIZ TÉCNICO EM MECÂNICA | [O-I Glass](https://o-i.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/O-I/postings/744000130584024) |
+| ESTAGIÁRIO TÉCNICO - OPERAÇÃO MÁQUINAS | [O-I Glass](https://o-i.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/O-I/postings/744000130581819) |
+| RETAIL ASSISTANT - WEEKEND ONLY | [Primark Tiendas SLU](https://primark.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000130580399) |
 | Fund Reporting - Analyst | [iCapital](https://icapital.com) | $70K–$85K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8580782002) |
 | Fund Reporting - Analyst | [iCapital](https://icapital.com) | $70K–$85K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8580065002) |
+| MHV Marketing Intern | [McWane](https://mcwane.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/McWaneInc/postings/3743990013499066) |
 | Customer Service Representative | [Axon](https://axon.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/axon/jobs/7764930003) |
 | ALTERNANT BAC PRO | [Genpak LLC](https://genpak-llc-2) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130563414) |
 | Manager, Relationship, Commercial Banking | [Standard Bank](https://standardbank.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000130557975) |
+| Caissier(ère)/Hôte(sse) | [Genpak LLC](https://genpak-llc-2) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000130553669) |
 | Assistant Commercial Automobile (H/F) | [AUTO1 Group](https://auto1-group.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000130551759) |
+| Technicien(ne) de maintenance [CDI] | [Genpak LLC](https://genpak-llc-2) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000130545697) |
 | Customer Support Agent | [Gymshark](https://gymshark.com) | — | Jun 5 | [Apply](https://job-boards.eu.greenhouse.io/gymshark/jobs/4881182101) |
 | Junior inköpare och testare till vår station i Sundsvall | [AUTO1 Group](https://auto1-group.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000130530710) |
+| Versant Academic Year Internships: Platform Engineering (Fandango, GolfNow, Rotten Tomatoes) | [Versant](https://versant.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Versant3/postings/744000130519424) |
 | English Speaking Support Associate Part-Time (Onsite) | [Wolt](https://wolt.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7984874) |
 | Sales Assistant Part Time (Categorie Protette) - Antegnate C.C. "Antegnate Gran Shopping" | [JD Sports](https://jdsports.com) | — | Jun 5 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4885136101) |
 | Busser - Soho House Austin | [Soho House](https://sohohouse.com) | — | Jun 5 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4884030101) |
@@ -31,6 +38,7 @@ Remote jobs open to candidates with 0–2 years of experience. A real way in —
 | Customer Service Specialist | [Genpak LLC](https://genpak-llc-2) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/APMGroup/postings/6000000001135426) |
 | Equipier d'étage - Extra (H/F) | [ACCOR](https://group.accor.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130370179) |
 | Intern - Growth (AI & MarTech) | [Groww](https://groww.in) | — | Jun 5 | [Apply](https://job-boards.eu.greenhouse.io/groww/jobs/4780793101) |
+| 2028年卒コンサルタント新卒採用　ジョブ・プログラム（本エントリー） | [Roland Berger](https://rolandberger.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/RolandBerger/postings/744000130359039) |
 | Operador  Desbarbe | [Avery Dennison](https://averydennison.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000130310839) |
 | Operador Feeder | [Avery Dennison](https://averydennison.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000130310809) |
 | Design Technology Manager, Entry-Level | [DLR Group](https://dlrgroup.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/dlrgroup/jobs/5234447008) |

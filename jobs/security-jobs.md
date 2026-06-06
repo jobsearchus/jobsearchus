@@ -2,12 +2,16 @@
 
 Remote cybersecurity, information security, and security engineering roles.
 
-**101 open roles** — Last updated: 2026-06-06
+**105 open roles** — Last updated: 2026-06-06
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Site Lead (OCONUS) | [Genpak LLC](https://genpak-llc-2) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/SOSi1/postings/3743990013494054) |
+| Administrateur/trice - SIEM SPLUNK - Cybersécurité - Rennes | [Sopra Steria](https://soprasteria.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/SopraSteria1/postings/744000130527930) |
+| Consultant(e) SIEM - Cybersécurité - Toulouse | [Sopra Steria](https://soprasteria.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/SopraSteria1/postings/744000130525919) |
+| Ingénieur Cybersécurité Microsoft – Active Directory & PKI (H/F) | [Everience](https://everience.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/EVERIENCE/postings/744000130519344) |
 | Security Manager | [Anglo American](https://angloamerican.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000130413269) |
 | Staff Security Operations Engineer | [Apollo GraphQL](https://apollographql.com) | — | Jun 4 | [Apply](https://jobs.ashbyhq.com/apollo-graphql/af081db2-9d58-4525-8227-b5e6d800e72a) |
 | Senior Security Regulatory Compliance Manager | [Twilio](https://twilio.com) | $156K–$194K/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7975991) |

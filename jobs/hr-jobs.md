@@ -2,7 +2,7 @@
 
 Remote HR, recruiting, and people operations roles.
 
-**164 open roles** — Last updated: 2026-06-06
+**165 open roles** — Last updated: 2026-06-06
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -16,6 +16,7 @@ Remote HR, recruiting, and people operations roles.
 | HR Operations Partner | [JustMarkets](https://justmarkets.com) | — | Jun 5 | [Apply](https://job-boards.eu.greenhouse.io/justmarkets/jobs/4880760101) |
 | Recruiter (Berlin, Germany) | [Figma](https://figma.com) | — | Jun 5 | [Apply](https://boards.greenhouse.io/figma/jobs/6014235004?gh_jid=6014235004) |
 | TALENT ACQUISITION SPECIALIST Alternance F/H  | [Inetum](https://inetum.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000130372719) |
+| 【コーポレート】HR Talent Development team | [Roland Berger](https://rolandberger.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/RolandBerger/postings/744000130359249) |
 | Compliance & Employee Relations Partner | [Archer](https://archer.com) | $131K–$164K/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7692948003) |
 | Senior Manager, Payroll Compliance & International Operations (Sydney, Australia) | [Figma](https://figma.com) | — | Jun 4 | [Apply](https://boards.greenhouse.io/figma/jobs/6013144004?gh_jid=6013144004) |
 | Human Resources Manager | [Inversion Space](https://inversionspace.com) | $134K–$195K/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/inversionspace/jobs/4703301005) |

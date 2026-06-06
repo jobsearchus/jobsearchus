@@ -2,7 +2,7 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**956 open roles** — Last updated: 2026-06-06
+**960 open roles** — Last updated: 2026-06-06
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -10,9 +10,12 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | --- | --- | --- | --- | --- |
 | Clinical Lab Operator I | [Natera](https://natera.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/natera/jobs/5775499004) |
 | Veterinary Technician - Surgery | [Veritas Veterinary Partners](https://veritasveterinarypartners.com) | $23/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/veritasvetpartners/jobs/5249765008) |
+| RETAIL ASSISTANT - WEEKEND ONLY | [Primark Tiendas SLU](https://primark.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000130580399) |
 | Veterinary Technician - Swing | [Veritas Veterinary Partners](https://veritasveterinarypartners.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/veritasvetpartners/jobs/5249676008) |
 | Veterinary Technician - Surgery | [Veritas Veterinary Partners](https://veritasveterinarypartners.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/veritasvetpartners/jobs/5249675008) |
 | Dietary - Kitchen Manager | [Crestwood Behavioral Health](https://crestwoodbehavioralhealth.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/crestwoodcareers/jobs/7764841003) |
+| Caissier(ère)/Hôte(sse) | [Genpak LLC](https://genpak-llc-2) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000130553669) |
+| Technicien(ne) de maintenance [CDI] | [Genpak LLC](https://genpak-llc-2) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000130545697) |
 | Assistant Manager (sostituzione maternita') - Milano | [JD Sports](https://jdsports.com) | — | Jun 5 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4885305101) |
 | Director, Application Managed Services (AMS) – Europe Growth & Transformation (m/f/d) | [Nagarro](https://nagarro.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000130539709) |
 | Assistant News Director, NBC Connecticut | [NBCUniversal](https://nbcuniversal.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130530429) |
@@ -26,6 +29,7 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Senior Sous Chef  | [ACCOR](https://group.accor.com) | $85K–$90K/yr | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130369339) |
 | Director of Residences | [ACCOR](https://group.accor.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130367359) |
 |  Facilities Manager | [Standard Bank](https://standardbank.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000130361459) |
+| 2028年卒コンサルタント新卒採用　ジョブ・プログラム（本エントリー） | [Roland Berger](https://rolandberger.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/RolandBerger/postings/744000130359039) |
 | RN Primary Health -Part time and Casual positions available  | [Healthcare Australia](https://healthcareaustralia.com.au) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/HealthcareAustralia1/postings/6000000001134172) |
 | Senior Air Operations Associate, Hanoi | [Flexport](https://flexport.com) | — | Jun 5 | [Apply](https://boards.greenhouse.io/flexport/jobs/7981862?gh_jid=7981862) |
 | Contract Global Intelligence Analyst (Tues & Thurs - Sat, 2:00pm-12:00am CT) | [AlertMedia](https://alertmedia.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/alertmedia/jobs/8579507002) |

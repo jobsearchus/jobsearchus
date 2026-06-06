@@ -2,7 +2,7 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**1432 open roles** — Last updated: 2026-06-06
+**1440 open roles** — Last updated: 2026-06-06
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -11,6 +11,8 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Senior FPGA Engineer | [DRW](https://drw.com) | $225K–$325K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7958746) |
 | EN - Maintenance Agent-Technician | [ACCOR](https://group.accor.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130582321) |
 | Strategic Solutions Engineer, Chicago/Dallas | [ClickUp](https://clickup.com) | — | Jun 5 | [Apply](https://jobs.ashbyhq.com/clickup/e44a6810-6a4a-4ff2-b2a4-5ca04eaecb02) |
+| Data Architect | [Endava](https://endava.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Endava/postings/744000130580729) |
+| [8NW] Staff Software Engineer | [Software Mind](https://softwaremind.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/SoftwareMind/postings/744000130574709) |
 | Business Systems Architect – Finance (D365 FO) | [Axon](https://axon.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/axon/jobs/7764947003) |
 | Business Systems Architect – Finance (D365 FO) | [Axon](https://axon.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/axon/jobs/7764948003) |
 | Senior Regulatory Counsel | [DRW](https://drw.com) | $150K–$275K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7983837) |
@@ -21,17 +23,23 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | AI Solutions Architect | [MSX International](https://msxi.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013493017) |
 | Technical Lead, WPP Open | [WPP](https://wpp.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/wpp/jobs/8557768002) |
 | Property Development Construction Director | [NBCUniversal](https://nbcuniversal.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130541042) |
+| Lead eCommerce, Plateforme transactionnelle | [Vosker](https://vosker.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Vosker/postings/744000130537931) |
 | Senior PLM Solution Architect (m/w/d) | [Nagarro](https://nagarro.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000130536957) |
 | Analyst, TechEx | [NBCUniversal](https://nbcuniversal.com) | $62K–$80K/yr | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130538987) |
 | Martech Solutions Architect - AEP | [VML MAP](https://vml-map.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/map/jobs/8580226002) |
 | Senior Technical Producer | [Mob Entertainment](https://mobentertainment.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/mobentertainment/jobs/5156852007) |
 | Knowledge Analyst | [NEC Software Solutions](https://necsoftwaresolutions.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/NECSWS/postings/744000130531739) |
+| Principal Cloud Architect | [Devoteam](https://devoteam.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Devoteam/postings/744000130528149) |
+| Reconversion Ingénieur(e) Informatique - Java - Nantes | [Sopra Steria](https://soprasteria.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/SopraSteria1/postings/744000130527159) |
+| Senior Consultant - Solution | [WNS](https://wns.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/WNSGlobalServices144/postings/744000130521727) |
 | Senior Scrum Master | [NEC Software Solutions](https://necsoftwaresolutions.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/NECSWS/postings/744000130521500) |
+| Ingénieur Réseau LAN/Wi-Fi et Automatisation | [Everience](https://everience.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/EVERIENCE/postings/744000130520810) |
 | Software Engineer, Networking (Edge) | [Tailscale](https://tailscale.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/tailscale/jobs/4703163005) |
 | Software Engineer, Networking (Dataplane) | [Tailscale](https://tailscale.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/tailscale/jobs/4703138005) |
 | Software Engineer, Networking (Dataplane) | [Tailscale](https://tailscale.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/tailscale/jobs/4702613005) |
 | System Engineer, Electro Optics | [NCS](https://ncs.co) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001135919) |
 | Analyst - MDM (ANZ) | [WPP](https://wpp.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/wpp/jobs/8570401002) |
+| SPR Agronomist Coordinator | [Syngenta](https://syngenta.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000130503785) |
 | Praktikant (w/m/d) Energiewende und Wasserstoff | [Drees & Sommer](https://dreso.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000130493909) |
 | Praktikant (w/m/d) Energiewende und Wasserstoff | [Drees & Sommer](https://dreso.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000130493759) |
 | Senior Hardware Engineer | [BESIX](https://besix.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000130481690) |

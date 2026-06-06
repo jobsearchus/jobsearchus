@@ -2,12 +2,14 @@
 
 Data science, machine learning, and AI engineering roles. Python, SQL, PyTorch, and beyond.
 
-**93 open roles** — Last updated: 2026-06-06
+**95 open roles** — Last updated: 2026-06-06
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior ML Engineer-AI Platform | [Versant](https://versant.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Versant3/postings/744000130538272) |
+| Senior Data Analyst (SQL, DBT, PYTHON, TABLEAU and Forecast ML Performance) | [Everience](https://everience.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/EVERIENCE/postings/744000130519567) |
 | Data Scientist | [G2](https://g2.com) | — | Jun 5 | [Apply](https://jobs.ashbyhq.com/g2/69a06d55-24c8-40e1-a638-2e8944a4d1f2) |
 | Senior Data Scientist | [ŌURA](https://ouraring.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/oura/jobs/4273393009) |
 | Senior Data Scientist Consultant | [Provenir](https://provenir.com) | — | Jun 4 | [Apply](https://jobs.ashbyhq.com/provenirinc/190ff23a-a393-44bb-b663-fd10f4701aa7) |
