@@ -2,15 +2,19 @@
 
 Remote HR, recruiting, and people operations roles.
 
-**160 open roles** — Last updated: 2026-06-05
+**164 open roles** — Last updated: 2026-06-06
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | Conseiller.ère acquisition de talents, par intérim (H/F/D) | [ACCOR](https://group.accor.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130582438) |
+| Staff Technical Recruiter | [Mapbox](https://mapbox.com) | — | Jun 5 | [Apply](https://jobs.ashbyhq.com/mapbox/9fb79daf-1e66-474d-9171-05e0198f9b29) |
+| Staff Technical Recruiter | [Mapbox](https://mapbox.com) | $167K–$227K/yr | Jun 5 | [Apply](https://jobs.ashbyhq.com/mapbox/799c2811-01e2-4b7a-9489-95ac5bcc0dd4) |
 | Automotive Technician / Mechanic - Up to $55/Hr* & Weekends Off - Brownsburg | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | $55/yr | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000130513549) |
 | Automotive Technician / Mechanic - Up to $45/hr & Weekends Off - Wilmington | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | $45/yr | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000130506649) |
+| HR Operations Partner | [JustMarkets](https://justmarkets.com) | — | Jun 5 | [Apply](https://job-boards.eu.greenhouse.io/justmarkets/jobs/4880760101) |
+| Recruiter (Berlin, Germany) | [Figma](https://figma.com) | — | Jun 5 | [Apply](https://boards.greenhouse.io/figma/jobs/6014235004?gh_jid=6014235004) |
 | TALENT ACQUISITION SPECIALIST Alternance F/H  | [Inetum](https://inetum.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000130372719) |
 | Compliance & Employee Relations Partner | [Archer](https://archer.com) | $131K–$164K/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7692948003) |
 | Senior Manager, Payroll Compliance & International Operations (Sydney, Australia) | [Figma](https://figma.com) | — | Jun 4 | [Apply](https://boards.greenhouse.io/figma/jobs/6013144004?gh_jid=6013144004) |

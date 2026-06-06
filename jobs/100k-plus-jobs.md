@@ -2,14 +2,24 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**611 open roles** — Last updated: 2026-06-05
+**621 open roles** — Last updated: 2026-06-06
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior FPGA Engineer | [DRW](https://drw.com) | $225K–$325K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7958746) |
+| Director/Senior Director of Asset Quality Assurance | [Formation Bio](https://formation.bio) | $178K–$222K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/formationbio/jobs/7972582) |
+| Technical Account Manager, Mid-Market | [Hightouch](https://hightouch.com) | $165K–$200K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/hightouch/jobs/6015438004) |
+| Senior Regulatory Counsel | [DRW](https://drw.com) | $150K–$275K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7983837) |
+| Staff Software Engineer | [Garner Health](https://getgarner.com) | $231K–$260K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/garnerhealth/jobs/6013546004) |
+| Staff Technical Recruiter | [Mapbox](https://mapbox.com) | $167K–$227K/yr | Jun 5 | [Apply](https://jobs.ashbyhq.com/mapbox/799c2811-01e2-4b7a-9489-95ac5bcc0dd4) |
 | VP, Engineering Finance | [NBCUniversal](https://nbcuniversal.com) | $200K–$235K/yr | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130535255) |
 | VP, Technical Operations Finance | [NBCUniversal](https://nbcuniversal.com) | $200K–$235K/yr | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130532392) |
+| Platform Engineering Manager, Cloud Infrastructure | [Garner Health](https://getgarner.com) | $219K–$250K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/garnerhealth/jobs/6014311004) |
+| Account Development Representative - SLED CENTRAL | [Job Board](https://corelight.com) | $180K–$214K/yr | Jun 5 | [Apply](https://boards.greenhouse.io/corelight/jobs/7984809?gh_jid=7984809) |
+| Account Development Representative - Federal | [Job Board](https://corelight.com) | $180K–$214K/yr | Jun 5 | [Apply](https://boards.greenhouse.io/corelight/jobs/7984807?gh_jid=7984807) |
+| Director - Real Estate Credit, Fund Administration (Accounting) | [Juniper Square](https://junipersquare.com) | $180K–$200K/yr | Jun 5 | [Apply](https://jobs.ashbyhq.com/junipersquare/df9764f8-d750-4713-9c31-4425eacf1953) |
 | Social Media Manager | [Discord](https://discord.com) | $132K–$148K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/discord/jobs/8573459002) |
 | Principal Program Manager | [Intercom](https://intercom.com) | $189K–$226K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7961835) |
 | Senior Visualizer | [Archer](https://archer.com) | $115K–$180K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7727755003) |

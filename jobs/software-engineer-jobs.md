@@ -2,28 +2,44 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**1414 open roles** — Last updated: 2026-06-05
+**1432 open roles** — Last updated: 2026-06-06
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior FPGA Engineer | [DRW](https://drw.com) | $225K–$325K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7958746) |
 | EN - Maintenance Agent-Technician | [ACCOR](https://group.accor.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130582321) |
+| Strategic Solutions Engineer, Chicago/Dallas | [ClickUp](https://clickup.com) | — | Jun 5 | [Apply](https://jobs.ashbyhq.com/clickup/e44a6810-6a4a-4ff2-b2a4-5ca04eaecb02) |
+| Business Systems Architect – Finance (D365 FO) | [Axon](https://axon.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/axon/jobs/7764947003) |
+| Business Systems Architect – Finance (D365 FO) | [Axon](https://axon.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/axon/jobs/7764948003) |
+| Senior Regulatory Counsel | [DRW](https://drw.com) | $150K–$275K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7983837) |
+| Staff Software Engineer | [Garner Health](https://getgarner.com) | $231K–$260K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/garnerhealth/jobs/6013546004) |
+| Lead data engineer & Team Lead | [VML MAP](https://vml-map.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/map/jobs/8580487002) |
 | Data Engineer | [MSX International](https://msxi.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013493059) |
 | AI & Data Governance and Trust Manager | [MSX International](https://msxi.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013493036) |
 | AI Solutions Architect | [MSX International](https://msxi.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013493017) |
+| Technical Lead, WPP Open | [WPP](https://wpp.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/wpp/jobs/8557768002) |
 | Property Development Construction Director | [NBCUniversal](https://nbcuniversal.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130541042) |
 | Senior PLM Solution Architect (m/w/d) | [Nagarro](https://nagarro.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000130536957) |
 | Analyst, TechEx | [NBCUniversal](https://nbcuniversal.com) | $62K–$80K/yr | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130538987) |
+| Martech Solutions Architect - AEP | [VML MAP](https://vml-map.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/map/jobs/8580226002) |
+| Senior Technical Producer | [Mob Entertainment](https://mobentertainment.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/mobentertainment/jobs/5156852007) |
 | Knowledge Analyst | [NEC Software Solutions](https://necsoftwaresolutions.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/NECSWS/postings/744000130531739) |
 | Senior Scrum Master | [NEC Software Solutions](https://necsoftwaresolutions.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/NECSWS/postings/744000130521500) |
+| Software Engineer, Networking (Edge) | [Tailscale](https://tailscale.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/tailscale/jobs/4703163005) |
+| Software Engineer, Networking (Dataplane) | [Tailscale](https://tailscale.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/tailscale/jobs/4703138005) |
+| Software Engineer, Networking (Dataplane) | [Tailscale](https://tailscale.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/tailscale/jobs/4702613005) |
 | System Engineer, Electro Optics | [NCS](https://ncs.co) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001135919) |
+| Analyst - MDM (ANZ) | [WPP](https://wpp.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/wpp/jobs/8570401002) |
 | Praktikant (w/m/d) Energiewende und Wasserstoff | [Drees & Sommer](https://dreso.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000130493909) |
 | Praktikant (w/m/d) Energiewende und Wasserstoff | [Drees & Sommer](https://dreso.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000130493759) |
 | Senior Hardware Engineer | [BESIX](https://besix.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000130481690) |
 | Senior E-plan Designer | [BESIX](https://besix.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000130462014) |
 | Staff Engineer, system analyst (core banking) | [Nagarro](https://nagarro.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000130435294) |
+| Assoc. Software Dev Engineer | [Veeam Software](https://veeam.com) | — | Jun 5 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4837963101) |
 | Solutions Lead | [NEC Software Solutions](https://necsoftwaresolutions.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/NECSWS/postings/744000130424605) |
+| Senior Data Engineer - Global People Data | [WPP](https://wpp.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/wpp/jobs/8570859002) |
 | MuleSoft - Technical Lead / Architect | [Genpak LLC](https://genpak-llc-2) | — | Jun 5 | [Apply](https://job-boards.eu.greenhouse.io/valtech/jobs/4879073101) |
 | Junior Engineer | [Miratech](https://miratech.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000130410621) |
 | Network Systems Project Manager | [NBCUniversal](https://nbcuniversal.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130406447) |
@@ -75,7 +91,9 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Electrical Engineering Studio Leader  | [DLR Group](https://dlrgroup.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/dlrgroup/jobs/5245718008) |
 | Sustaining Engineering Lead | [Actian](https://actian.com) | — | Jun 4 | [Apply](https://jobs.lever.co/actian/f1add232-5e8c-4121-a3c5-dce5f27ae4ec) |
 | AI Tech Leader | [Genpak LLC](https://genpak-llc-2) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/martellgrowthsolutions/jobs/5248020008) |
+| SRA, Histology | [Flagship Pioneering, Inc.](https://flagshippioneering.com) | — | Jun 4 | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8566762002?gh_jid=8566762002) |
 | Electrical Compliance Supervisor | [Anglo American](https://angloamerican.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000130239369) |
+| SRA, Flow Sorting | [Flagship Pioneering, Inc.](https://flagshippioneering.com) | — | Jun 4 | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8568549002?gh_jid=8568549002) |
 | Network Systems Engineer (Pre Sales) - Trading Platforms | [Arista Networks](https://aristanetworks.com) | $130K–$175K/yr | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000130218147) |
 | Network Systems Engineer (Pre-Sales) -  Cloud Networking | [Arista Networks](https://aristanetworks.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000130215270) |
 | Data Engineering Consultant | [Baringa](https://baringa.com) | — | Jun 4 | [Apply](https://job-boards.eu.greenhouse.io/baringa/jobs/4873814101) |

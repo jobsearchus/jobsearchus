@@ -2,14 +2,16 @@
 
 Remote legal, compliance, and counsel roles.
 
-**92 open roles** — Last updated: 2026-06-05
+**94 open roles** — Last updated: 2026-06-06
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Employment Counsel | [Box](https://box.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/boxinc/jobs/7985372) |
 | Insurance Lawyer – Construction Law H/F | [Egis](https://egis-group.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000130540827) |
 | Juriste Assurance - Construction H/F | [Egis](https://egis-group.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000130543140) |
+| 건설/부동산 컴플라이언스 담당자 | [Coupang](https://coupang.com) | — | Jun 5 | [Apply](https://boards.greenhouse.io/coupanginternal/jobs/7984468?gh_jid=7984468) |
 | Legal Counsel | [Box](https://box.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/boxinc/jobs/7980770) |
 | Senior Product and Regulatory Counsel | [KOHO](https://koho.ca) | $180K–$210K/yr | Jun 4 | [Apply](https://jobs.ashbyhq.com/koho/eee4ce09-110d-4a8e-8b23-219f3c89a13d) |
 | Contracts Attorney | [Flagship Pioneering, Inc.](https://flagshippioneering.com) | $138K–$237K/yr | Jun 4 | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8577828002?gh_jid=8577828002) |

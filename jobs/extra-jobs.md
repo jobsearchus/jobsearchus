@@ -2,14 +2,24 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**945 open roles** — Last updated: 2026-06-05
+**956 open roles** — Last updated: 2026-06-06
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Clinical Lab Operator I | [Natera](https://natera.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/natera/jobs/5775499004) |
+| Veterinary Technician - Surgery | [Veritas Veterinary Partners](https://veritasveterinarypartners.com) | $23/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/veritasvetpartners/jobs/5249765008) |
+| Veterinary Technician - Swing | [Veritas Veterinary Partners](https://veritasveterinarypartners.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/veritasvetpartners/jobs/5249676008) |
+| Veterinary Technician - Surgery | [Veritas Veterinary Partners](https://veritasveterinarypartners.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/veritasvetpartners/jobs/5249675008) |
+| Dietary - Kitchen Manager | [Crestwood Behavioral Health](https://crestwoodbehavioralhealth.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/crestwoodcareers/jobs/7764841003) |
+| Assistant Manager (sostituzione maternita') - Milano | [JD Sports](https://jdsports.com) | — | Jun 5 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4885305101) |
 | Director, Application Managed Services (AMS) – Europe Growth & Transformation (m/f/d) | [Nagarro](https://nagarro.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000130539709) |
 | Assistant News Director, NBC Connecticut | [NBCUniversal](https://nbcuniversal.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130530429) |
+| Sales Assistant Part Time (Categorie Protette) - Antegnate C.C. "Antegnate Gran Shopping" | [JD Sports](https://jdsports.com) | — | Jun 5 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4885136101) |
+| Busser - Soho House Austin | [Soho House](https://sohohouse.com) | — | Jun 5 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4884030101) |
+| Product/Application Support Specialist  | [WIN Home Inspection](https://winhomeinspection.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/winhomeinspection/jobs/4687161006) |
+| Senior Certification Manager | [Vertical Aerospace](https://vertical-aerospace.com) | — | Jun 5 | [Apply](https://jobs.ashbyhq.com/vertical-aerospace/cce1b3ad-fc26-40a6-bf93-481d3e757fc5) |
 | Assistant Manager - Affi C.C. "Grand'Affi Shopping Center" | [JD Sports](https://jdsports.com) | — | Jun 5 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4884435101) |
 | Store Manager - Lonato del Garda C.C. "Il Leone" | [JD Sports](https://jdsports.com) | — | Jun 5 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4884374101) |
 | Equipier d'étage - Extra (H/F) | [ACCOR](https://group.accor.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130370179) |
@@ -24,6 +34,7 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Certified Recovery Specialist | [Ophelia](https://ophelia.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/ophelia/jobs/5234368008) |
 | Account Development Associate (Portuguese Speaker) - Chicago Based | [Fever](https://feverup.com) | — | Jun 4 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4884065101) |
 | Caregivers - Westchester, NY | [Distro](https://distro.app) | — | Jun 4 | [Apply](https://jobs.lever.co/distro/52bf1d28-73e9-446a-b9a1-0f56be956486) |
+| Part Time Caregiver (NOC) | [Silverado](https://silverado.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/silverado/jobs/5155884007) |
 | EMPLOYE COMMERCIAL RAYON LIQUIDE | [Genpak LLC](https://genpak-llc-2) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130267217) |
 | Mobile Response Peer Support Specialist | [Crestwood Behavioral Health](https://crestwoodbehavioralhealth.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/crestwoodcareers/jobs/7763836003) |
 | Help Desk Support II  | [Crestwood Behavioral Health](https://crestwoodbehavioralhealth.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/crestwoodcareers/jobs/7763645003) |

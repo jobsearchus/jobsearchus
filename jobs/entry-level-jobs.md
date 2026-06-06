@@ -2,17 +2,26 @@
 
 Remote jobs open to candidates with 0–2 years of experience. A real way in — no degree gatekeeping.
 
-**907 open roles** — Last updated: 2026-06-05
+**918 open roles** — Last updated: 2026-06-06
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Clinical Lab Operator I | [Natera](https://natera.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/natera/jobs/5775499004) |
+| Fund Reporting - Analyst | [iCapital](https://icapital.com) | $70K–$85K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8580782002) |
+| Fund Reporting - Analyst | [iCapital](https://icapital.com) | $70K–$85K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8580065002) |
+| Customer Service Representative | [Axon](https://axon.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/axon/jobs/7764930003) |
 | ALTERNANT BAC PRO | [Genpak LLC](https://genpak-llc-2) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130563414) |
 | Manager, Relationship, Commercial Banking | [Standard Bank](https://standardbank.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000130557975) |
 | Assistant Commercial Automobile (H/F) | [AUTO1 Group](https://auto1-group.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000130551759) |
+| Customer Support Agent | [Gymshark](https://gymshark.com) | — | Jun 5 | [Apply](https://job-boards.eu.greenhouse.io/gymshark/jobs/4881182101) |
 | Junior inköpare och testare till vår station i Sundsvall | [AUTO1 Group](https://auto1-group.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000130530710) |
+| English Speaking Support Associate Part-Time (Onsite) | [Wolt](https://wolt.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7984874) |
+| Sales Assistant Part Time (Categorie Protette) - Antegnate C.C. "Antegnate Gran Shopping" | [JD Sports](https://jdsports.com) | — | Jun 5 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4885136101) |
+| Busser - Soho House Austin | [Soho House](https://sohohouse.com) | — | Jun 5 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4884030101) |
 | Praktikant/Werkstudent (w/m/d) Innen-/Architektur | [Drees & Sommer](https://dreso.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000130514082) |
+| Analyst - MDM (ANZ) | [WPP](https://wpp.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/wpp/jobs/8570401002) |
 | Praktikant (w/m/d) Energiewende und Wasserstoff | [Drees & Sommer](https://dreso.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000130493909) |
 | Praktikant (w/m/d) Energiewende und Wasserstoff | [Drees & Sommer](https://dreso.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000130493759) |
 | Junior Engineer | [Miratech](https://miratech.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000130410621) |
@@ -30,6 +39,7 @@ Remote jobs open to candidates with 0–2 years of experience. A real way in —
 | Painter | [Crusoe](https://crusoe.com) | $26/yr | Jun 4 | [Apply](https://jobs.ashbyhq.com/crusoe/eb2e397f-9c6e-4b2a-9828-edb5568bfabb) |
 | Branch Support Representative | [DH Pace Company](https://dhpace.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5240181008) |
 | Caregivers - Westchester, NY | [Distro](https://distro.app) | — | Jun 4 | [Apply](https://jobs.lever.co/distro/52bf1d28-73e9-446a-b9a1-0f56be956486) |
+| Part Time Caregiver (NOC) | [Silverado](https://silverado.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/silverado/jobs/5155884007) |
 | Marketing Coordinator | [Yubico Inc.](https://yubico.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/yubico/jobs/4271631009) |
 | AWS (Amazon) Business Development Representative | [NeuraFlash](https://neuraflash.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/neuraflash/jobs/6014307004) |
 | Mobile Response Peer Support Specialist | [Crestwood Behavioral Health](https://crestwoodbehavioralhealth.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/crestwoodcareers/jobs/7763836003) |
@@ -42,6 +52,7 @@ Remote jobs open to candidates with 0–2 years of experience. A real way in —
 | Chinese Mandarin Speaking Game Presenter (No Experience Required) | [Evolution](https://evolution.com) | $25/yr | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/Evolution/postings/744000130250305) |
 | Commis·e à la réception, temps plein (H/F/D) | [ACCOR](https://group.accor.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130248967) |
 | Help Desk Technician | [JRM Construction Management, LLC](https://jrmcm.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/jrmconstructionmanagementllc/jobs/4686806006) |
+| Sales Representative | [Genpak LLC](https://genpak-llc-2) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/martellgrowthsolutions/jobs/5248013008) |
 | Inside Sales | [Too Good To Go](https://toogoodtogo.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/toogoodtogo/jobs/7761256003) |
 | Innesäljare | [Too Good To Go](https://toogoodtogo.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/toogoodtogo/jobs/7761255003) |
 | Steward - South Dining Hall | [University of Notre Dame](https://universityofnotredame.com) | $18/yr | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013469035) |

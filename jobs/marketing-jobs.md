@@ -2,12 +2,14 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**329 open roles** — Last updated: 2026-06-05
+**333 open roles** — Last updated: 2026-06-06
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Marketing Engineer, AI Deployment | [Figma](https://figma.com) | — | Jun 5 | [Apply](https://boards.greenhouse.io/figma/jobs/6013495004?gh_jid=6013495004) |
+| Brand Assurance Lead - Consumer Products | [Mob Entertainment](https://mobentertainment.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/mobentertainment/jobs/5157277007) |
 | Interim Senior Marketing Manager | [NBCUniversal](https://nbcuniversal.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130416060) |
 | Social Media Manager | [Discord](https://discord.com) | $132K–$148K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/discord/jobs/8573459002) |
 | Content Marketing Manager, Mumbai | [Flexport](https://flexport.com) | — | Jun 5 | [Apply](https://boards.greenhouse.io/flexport/jobs/7981879?gh_jid=7981879) |
@@ -21,10 +23,12 @@ Remote marketing roles across growth, content, brand, and performance channels.
 | Performance Marketing Manager (Paid) | [Abacum](https://abacum.ai) | — | Jun 4 | [Apply](https://jobs.ashbyhq.com/abacum/881c89ac-6a1c-4b9a-a461-0f29638802a3) |
 | Analista de Negocios de Marketing | [Distro](https://distro.app) | — | Jun 4 | [Apply](https://jobs.lever.co/distro/59a11b6a-d361-4dc8-88b5-8d95e5ee127b) |
 | Senior Product Marketing Manager, Marketing Orchestration   | [StackAdapt](https://stackadapt.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/stackadapt/jobs/4273011009) |
+| Senior Director, Client Service | [The Trade Desk](https://thetradedesk.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5154626007) |
 | Manager, Social Media & Search Technology   | [New Era Technology](https://neweratech.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8568540002) |
 | Content Creator: Finance | [Clipboard](https://clipboardhealth.com) | — | Jun 4 | [Apply](https://jobs.ashbyhq.com/clipboard/11673cb5-ab23-467a-95f5-085c3af98411) |
 | Growth Marketing Lead | [Keyfactor](https://keyfactor.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/keyfactorinc/jobs/6014002004) |
 | Digital Trading Manager - EU Sites | [Frasers Group](https://frasersgroup.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000130156979) |
+| Assistant Manager Programmatic | [WPP Media](https://wppmedia.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5207376008) |
 | Director, Brand Marketing | [The Trade Desk](https://thetradedesk.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5144986007) |
 | Sr. Global Events Manager | [Twilio](https://twilio.com) | $106K–$133K/yr | Jun 3 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7968265) |
 | Account Manager, Paid Social | [WPP Media](https://wppmedia.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5223928008) |

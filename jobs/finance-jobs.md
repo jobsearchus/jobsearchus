@@ -2,19 +2,27 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**430 open roles** — Last updated: 2026-06-05
+**438 open roles** — Last updated: 2026-06-06
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Client Delivery Specialist - Associate | [iCapital](https://icapital.com) | $75K–$85K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8566974002) |
+| Fund Reporting - Analyst | [iCapital](https://icapital.com) | $70K–$85K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8580782002) |
+| Fund Reporting - Analyst | [iCapital](https://icapital.com) | $70K–$85K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8580065002) |
+| Character Artist (7-month contract) | [Blackbird Interactive](https://blackbirdinteractive.com) | — | Jun 5 | [Apply](https://jobs.lever.co/blackbirdinteractive/8041a66c-0e7b-4c09-bb40-daee7ffa0680) |
 | Manager, Relationship, Commercial Banking | [Standard Bank](https://standardbank.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000130557975) |
 | VP, Engineering Finance | [NBCUniversal](https://nbcuniversal.com) | $200K–$235K/yr | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130535255) |
 | Cost Controller UKI - Controls and Accounting | [Experian](https://experianplc.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000130534941) |
 | VP, Technical Operations Finance | [NBCUniversal](https://nbcuniversal.com) | $200K–$235K/yr | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130532392) |
 |  Manager - Client Compliance | [IQ-EQ](https://iqeq.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000130529061) |
 |  Client Relationship Director | [IQ-EQ](https://iqeq.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000130516214) |
+| Financial Accountant (6-Month Fixed-Term Contract) | [Volito Aviation August 2007](https://trustly.com) | — | Jun 5 | [Apply](https://jobs.lever.co/trustly/20043534-f49d-4365-9ccf-54e6de4d4dc7) |
+| Director - Real Estate Credit, Fund Administration (Accounting) | [Juniper Square](https://junipersquare.com) | $180K–$200K/yr | Jun 5 | [Apply](https://jobs.ashbyhq.com/junipersquare/df9764f8-d750-4713-9c31-4425eacf1953) |
+| Director Finance Operations | [Volito Aviation August 2007](https://trustly.com) | — | Jun 5 | [Apply](https://jobs.lever.co/trustly/88cf187b-6eaf-43d7-bf9a-1c8c7d0e37c3) |
 | Comptable Fournisseurs (confirmé.e) | [Gameloft](https://gameloft.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Gameloft/postings/744000130414935) |
+| [CFN] Senior Manager II, Financial Accounting   | [Coupang](https://coupang.com) | — | Jun 5 | [Apply](https://boards.greenhouse.io/coupanginternal/jobs/7981582?gh_jid=7981582) |
 | Payment Processing Assistant | [Convera](https://convera.com) | — | Jun 5 | [Apply](https://job-boards.eu.greenhouse.io/convera/jobs/4871901101) |
 | Senior Manager - Deals Desk | [Freshworks](https://freshworks.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000130368829) |
 | Total Rewards Specialist | [Clara](https://clara.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/clara/jobs/5156448007) |
