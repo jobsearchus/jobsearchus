@@ -2,12 +2,13 @@
 
 Data science, machine learning, and AI engineering roles. Python, SQL, PyTorch, and beyond.
 
-**95 open roles** — Last updated: 2026-06-06
+**96 open roles** — Last updated: 2026-06-06
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Machine Learning Scientist, Agentic AI | [Natera](https://natera.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/natera/jobs/5994723004) |
 | Senior ML Engineer-AI Platform | [Versant](https://versant.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Versant3/postings/744000130538272) |
 | Senior Data Analyst (SQL, DBT, PYTHON, TABLEAU and Forecast ML Performance) | [Everience](https://everience.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/EVERIENCE/postings/744000130519567) |
 | Data Scientist | [G2](https://g2.com) | — | Jun 5 | [Apply](https://jobs.ashbyhq.com/g2/69a06d55-24c8-40e1-a638-2e8944a4d1f2) |

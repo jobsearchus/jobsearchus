@@ -2,7 +2,7 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**1451 open roles** — Last updated: 2026-06-06
+**1458 open roles** — Last updated: 2026-06-06
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -11,7 +11,12 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Senior Staff Engineer, ERP Workday (Functional Consultant) | [Nagarro](https://nagarro.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000130628859) |
 | Staff Engineer, ERP Workday (Technical Consultant) | [Nagarro](https://nagarro.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000130628839) |
 | Staff Engineer, ERP Workday (Functional Consultant) | [Nagarro](https://nagarro.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000130628779) |
+| Serif Biomedicines, Market Intelligence and Strategy Internship | [Flagship Pioneering, Inc.](https://flagshippioneering.com) | $45/yr | Jun 6 | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8580062002?gh_jid=8580062002) |
+| Reactor Core Thermal Fluids Engineer | [Oklo](https://oklo.com) | $80K–$175K/yr | Jun 6 | [Apply](https://job-boards.greenhouse.io/oklo/jobs/6015809004) |
+| Senior Solution Consultant | [Agiloft](https://agiloft.com) | — | Jun 5 | [Apply](https://jobs.lever.co/agiloft/248e66bc-823c-4ec3-bb8d-e43e397b543c) |
 | Senior FPGA Engineer | [DRW](https://drw.com) | $225K–$325K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7958746) |
+| Senior Cloud Engineer | [SmithRx](https://smithrx.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/smithrx/jobs/8579521002) |
+| Desarrollador Java Senior | [Inetum](https://inetum.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000130590009) |
 | EN - Maintenance Agent-Technician | [ACCOR](https://group.accor.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130582321) |
 | Strategic Solutions Engineer, Chicago/Dallas | [ClickUp](https://clickup.com) | — | Jun 5 | [Apply](https://jobs.ashbyhq.com/clickup/e44a6810-6a4a-4ff2-b2a4-5ca04eaecb02) |
 | Data Architect | [Endava](https://endava.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Endava/postings/744000130580729) |
@@ -21,6 +26,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Business Systems Architect – Finance (D365 FO) | [Axon](https://axon.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/axon/jobs/7764947003) |
 | Business Systems Architect – Finance (D365 FO) | [Axon](https://axon.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/axon/jobs/7764948003) |
 | Senior Regulatory Counsel | [DRW](https://drw.com) | $150K–$275K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7983837) |
+| AI Product Engineer - ClickStack | [ClickHouse](https://clickhouse.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/clickhouse/jobs/6014112004) |
 | Staff Software Engineer | [Garner Health](https://getgarner.com) | $231K–$260K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/garnerhealth/jobs/6013546004) |
 | Senior Signaling and ATC Engineer | [Egis](https://egis-group.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000130562489) |
 | Lead data engineer & Team Lead | [VML MAP](https://vml-map.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/map/jobs/8580487002) |
@@ -59,6 +65,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Solutions Lead | [NEC Software Solutions](https://necsoftwaresolutions.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/NECSWS/postings/744000130424605) |
 | Senior Data Engineer - Global People Data | [WPP](https://wpp.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/wpp/jobs/8570859002) |
 | MuleSoft - Technical Lead / Architect | [Genpak LLC](https://genpak-llc-2) | — | Jun 5 | [Apply](https://job-boards.eu.greenhouse.io/valtech/jobs/4879073101) |
+| Praktikant/Werkstudent (w/m/d) Nachhaltige Stadtentwicklung & Raumplanung | [Drees & Sommer](https://dreso.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000130415439) |
 | Junior Engineer | [Miratech](https://miratech.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000130410621) |
 | Network Systems Project Manager | [NBCUniversal](https://nbcuniversal.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130406447) |
 | Tech Lead (Talend) | [NCS](https://ncs.co) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001135809) |

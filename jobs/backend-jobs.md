@@ -2,12 +2,13 @@
 
 Backend, server-side, and API engineering roles. Node.js, Python, Go, Ruby, Java and beyond.
 
-**61 open roles** — Last updated: 2026-06-06
+**62 open roles** — Last updated: 2026-06-06
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Backend Engineer | [Upfront](https://tryupfront.com) | — | Jun 6 | [Apply](https://upfront.recruitee.com/o/backend-engineer/c/new) |
 | Senior SFCC Multicloud Backend Engineer | [Genpak LLC](https://genpak-llc-2) | — | Jun 4 | [Apply](https://job-boards.eu.greenhouse.io/valtech/jobs/4880632101) |
 | Senior Backend Engineer, Content Creation | [Box](https://box.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/boxinc/jobs/7962290) |
 | Staff Software Engineer – Backend (Python / Typescript / Big Data / AWS / Kubernetes) | [Varicent](https://varicent.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/varicent/jobs/5240133008) |

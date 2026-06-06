@@ -2,15 +2,25 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**966 open roles** — Last updated: 2026-06-06
+**979 open roles** — Last updated: 2026-06-06
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Bilingual Onsite Manager (2nd & 3rd Shift Available) | [OpenWork](https://openworklabs.com) | — | Jun 6 | [Apply](https://job-boards.greenhouse.io/openwork/jobs/4274597009) |
+| Chef de rang-Serveur confirmé - semaine en 4 jours | [ACCOR](https://group.accor.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130632255) |
+| F&B Executive | [ACCOR](https://group.accor.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130631459) |
+| Director of Food & Beverage | [ACCOR](https://group.accor.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130630889) |
+| Senior Consultant, Commodity & Energy Trading | [Baringa](https://baringa.com) | — | Jun 6 | [Apply](https://job-boards.eu.greenhouse.io/baringa/jobs/4863891101) |
+| Senior Director, Customer Success | [Webflow](https://webflow.com) | $256K–$320K/yr | Jun 6 | [Apply](https://job-boards.greenhouse.io/webflow/jobs/7986111) |
+| Busser - Soho House Holloway (Part-Time) | [Soho House](https://sohohouse.com) | — | Jun 6 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4872343101) |
 | Delivery Driver(4701) - 243 W Main st | [Domino's](https://dominos.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130621602) |
 | Pizza Maker/Crew Member(06580) | [Domino's](https://dominos.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130619044) |
 | Regional Network Director - Washington, DC | [University of Notre Dame](https://universityofnotredame.com) | $120K–$130K/yr | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013505396) |
+| Assistant Program Director (AMFT - ACSW) | [Crestwood Behavioral Health](https://crestwoodbehavioralhealth.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/crestwoodcareers/jobs/7764748003) |
+| Residential Counselor I/II - Beeler House - Mon-Fri 2pm-11pm | [WellPower - All External Jobs](https://wellpower.org) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/mentalhealthcenterofdenver/jobs/7765243003) |
+| Cleared Business Analyst (Washington, DC) | [Accenture Federal Services](https://accenturefederalservices.com) | — | Jun 5 | [Apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4687401006?gh_jid=4687401006) |
 | Serveur bar et lounge - H/F | [Genpak LLC](https://genpak-llc-2) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000130588347) |
 | Clinical Lab Operator I | [Natera](https://natera.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/natera/jobs/5775499004) |
 | Veterinary Technician - Surgery | [Veritas Veterinary Partners](https://veritasveterinarypartners.com) | $23/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/veritasvetpartners/jobs/5249765008) |
@@ -23,12 +33,15 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Caissier(ère)/Hôte(sse) | [Genpak LLC](https://genpak-llc-2) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000130553669) |
 | Technicien(ne) de maintenance [CDI] | [Genpak LLC](https://genpak-llc-2) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000130545697) |
 | Assistant Manager (sostituzione maternita') - Milano | [JD Sports](https://jdsports.com) | — | Jun 5 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4885305101) |
+| Dental Nurse Maternity Cover | [PortmanDentex](https://portmandentex.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000130544340) |
 | Director, Application Managed Services (AMS) – Europe Growth & Transformation (m/f/d) | [Nagarro](https://nagarro.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000130539709) |
 | Assistant News Director, NBC Connecticut | [NBCUniversal](https://nbcuniversal.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130530429) |
 | Sales Assistant Part Time (Categorie Protette) - Antegnate C.C. "Antegnate Gran Shopping" | [JD Sports](https://jdsports.com) | — | Jun 5 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4885136101) |
 | Busser - Soho House Austin | [Soho House](https://sohohouse.com) | — | Jun 5 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4884030101) |
 | Product/Application Support Specialist  | [WIN Home Inspection](https://winhomeinspection.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/winhomeinspection/jobs/4687161006) |
 | Senior Certification Manager | [Vertical Aerospace](https://vertical-aerospace.com) | — | Jun 5 | [Apply](https://jobs.ashbyhq.com/vertical-aerospace/cce1b3ad-fc26-40a6-bf93-481d3e757fc5) |
+| Administrativo/a Automoción - Figueres (Girona) | [AUTO1 Group](https://auto1-group.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000130426349) |
+| Junior Vehicle Pricing Specialist | [AUTO1 Group](https://auto1-group.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000130421676) |
 | Assistant Manager - Affi C.C. "Grand'Affi Shopping Center" | [JD Sports](https://jdsports.com) | — | Jun 5 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4884435101) |
 | Store Manager - Lonato del Garda C.C. "Il Leone" | [JD Sports](https://jdsports.com) | — | Jun 5 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4884374101) |
 | Equipier d'étage - Extra (H/F) | [ACCOR](https://group.accor.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130370179) |

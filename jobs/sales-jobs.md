@@ -2,7 +2,7 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**872 open roles** — Last updated: 2026-06-06
+**881 open roles** — Last updated: 2026-06-06
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -11,12 +11,21 @@ Remote sales roles — account executives, SDRs, and enterprise deals.
 | EMPLOYE COMMERCIAL (H/F) Rayon Liquide | [Genpak LLC](https://genpak-llc-2) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130631999) |
 | Job étudiant | [Genpak LLC](https://genpak-llc-2) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130631539) |
 | EMPLOYE COMMERCIAL (H/F) - Employé polyvalent | [Genpak LLC](https://genpak-llc-2) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130631349) |
+| Sales Enablement Manager, Business Development | [Dandy](https://meetdandy.com) | — | Jun 6 | [Apply](https://jobs.ashbyhq.com/dandy/937426b6-a36b-445a-bee3-eddaa8d352eb) |
+| Sales Enablement Manager, Business Development | [Dandy](https://meetdandy.com) | — | Jun 6 | [Apply](https://jobs.ashbyhq.com/dandy/f9d0862f-9a10-4b04-8688-800d98c81d2e) |
+| Sales Enablement Manager, Business Development | [Dandy](https://meetdandy.com) | — | Jun 6 | [Apply](https://jobs.ashbyhq.com/dandy/90a55402-76a4-44e1-a1de-24cff7ced4d8) |
+| Director, International Commercialization Strategy | [Life360](https://life360.com) | $186K–$275K/yr | Jun 6 | [Apply](https://job-boards.greenhouse.io/life360/jobs/8581314002) |
+| Director, International Commercialization Strategy | [Life360](https://life360.com) | $186K–$275K/yr | Jun 6 | [Apply](https://job-boards.greenhouse.io/life360/jobs/8581301002) |
 | BizDev IV - Crédito e Plataformas de Decisão | [Experian](https://experianplc.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000130601609) |
 | BizDev IV - Crédito e Plataformas de Decisão | [Experian](https://experianplc.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000130601559) |
 | BizDev IV - Crédito e Plataformas de Decisão | [Experian](https://experianplc.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000130601399) |
+| Business Development Executive Sr | [Delivery Hero](https://deliveryhero.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000130598859) |
 | Professional Services Engagement Manager | [GitLab](https://about.gitlab.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8579044002) |
+| Agente Stone - Consultor(a) Comercial Externo -  Maracanaú/CE | [Stone](https://stone.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/stone/jobs/7765203003) |
+| Agente Stone - Consultor(a) Comercial Externo -  Fortaleza/CE | [Stone](https://stone.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/stone/jobs/7765202003) |
 | Technical Account Manager, Mid-Market | [Hightouch](https://hightouch.com) | $165K–$200K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/hightouch/jobs/6015438004) |
 | Account Director - Public Safety | [NEC Software Solutions](https://necsoftwaresolutions.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/NECSWS/postings/744000130578706) |
+| Salesforce Solution Engineer,  RCA & RCB | [NeuraFlash](https://neuraflash.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/neuraflash/jobs/6015378004) |
 | Vendeur ALIMENTAIRE CHARCUTERIE TRAITEUR FROMAGE (H/F) CDI TEMPS PLEIN | [Genpak LLC](https://genpak-llc-2) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130560035) |
 | Senior Account Executive (Growth) | [The Trade Desk](https://thetradedesk.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5153192007) |
 | Account Executive F/H – CDI | [WPP Media](https://wppmedia.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5249452008) |

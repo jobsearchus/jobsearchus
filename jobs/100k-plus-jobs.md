@@ -2,14 +2,18 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**625 open roles** — Last updated: 2026-06-06
+**629 open roles** — Last updated: 2026-06-06
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Director, Customer Success | [Webflow](https://webflow.com) | $256K–$320K/yr | Jun 6 | [Apply](https://job-boards.greenhouse.io/webflow/jobs/7986111) |
 | Regional Network Director - Washington, DC | [University of Notre Dame](https://universityofnotredame.com) | $120K–$130K/yr | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013505396) |
+| Director, International Commercialization Strategy | [Life360](https://life360.com) | $186K–$275K/yr | Jun 6 | [Apply](https://job-boards.greenhouse.io/life360/jobs/8581314002) |
+| Director, International Commercialization Strategy | [Life360](https://life360.com) | $186K–$275K/yr | Jun 6 | [Apply](https://job-boards.greenhouse.io/life360/jobs/8581301002) |
 | Senior FPGA Engineer | [DRW](https://drw.com) | $225K–$325K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7958746) |
+| Product Management Analyst | [MEMX](https://memx.com) | $135K–$165K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/memx/jobs/5249873008) |
 | Director/Senior Director of Asset Quality Assurance | [Formation Bio](https://formation.bio) | $178K–$222K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/formationbio/jobs/7972582) |
 | Technical Account Manager, Mid-Market | [Hightouch](https://hightouch.com) | $165K–$200K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/hightouch/jobs/6015438004) |
 | Digital Marketing Campaign Specialist (New Business Acquisition) | [Freshworks](https://freshworks.com) | $130K–$162K/yr | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000130573731) |

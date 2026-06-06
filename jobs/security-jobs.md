@@ -2,12 +2,14 @@
 
 Remote cybersecurity, information security, and security engineering roles.
 
-**105 open roles** — Last updated: 2026-06-06
+**107 open roles** — Last updated: 2026-06-06
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Cybersecurity Specialist | [Upfront](https://tryupfront.com) | — | Jun 6 | [Apply](https://upfront.recruitee.com/o/cybersecurity-specialist/c/new) |
+| Manager, Security Operations | [Figma](https://figma.com) | — | Jun 5 | [Apply](https://boards.greenhouse.io/figma/jobs/6015609004?gh_jid=6015609004) |
 | Site Lead (OCONUS) | [Genpak LLC](https://genpak-llc-2) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/SOSi1/postings/3743990013494054) |
 | Administrateur/trice - SIEM SPLUNK - Cybersécurité - Rennes | [Sopra Steria](https://soprasteria.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/SopraSteria1/postings/744000130527930) |
 | Consultant(e) SIEM - Cybersécurité - Toulouse | [Sopra Steria](https://soprasteria.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/SopraSteria1/postings/744000130525919) |

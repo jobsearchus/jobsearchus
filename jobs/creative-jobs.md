@@ -2,12 +2,13 @@
 
 Remote creative roles — copywriters, content creators, graphic designers, and brand specialists.
 
-**84 open roles** — Last updated: 2026-06-06
+**85 open roles** — Last updated: 2026-06-06
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Junior Creative Marketing Specialist (TikTok) | [Holywater](https://holywater.com) | — | Jun 6 | [Apply](https://jobs.ashbyhq.com/holywater/918f740a-1f3a-4aae-a118-dc4b58fc0f5f) |
 | Segment Producer - Breaking News, MS NOW | [Versant](https://versant.com) | $93K–$110K/yr | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Versant3/postings/744000130537761) |
 | Copywriter | [Too Good To Go](https://toogoodtogo.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/toogoodtogo/jobs/7763465003) |
 | Graphic Designer | [Evolution](https://evolution.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/Evolution/postings/744000130195320) |

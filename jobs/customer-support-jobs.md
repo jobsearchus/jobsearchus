@@ -2,12 +2,13 @@
 
 Remote customer support and success roles across SaaS, e-commerce, and tech.
 
-**256 open roles** — Last updated: 2026-06-06
+**258 open roles** — Last updated: 2026-06-06
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Customer Engineer | [Render](https://render.com) | — | Jun 6 | [Apply](https://jobs.ashbyhq.com/render/4bf72ced-b09f-4b42-a4b3-92b38ff21025) |
 | Food Architect | [Domino's](https://dominos.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130621683) |
 | Service Center Analyst | [Continental](https://continentalserves.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000130594289) |
 | Customer Service Representative | [Axon](https://axon.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/axon/jobs/7764930003) |
@@ -16,6 +17,7 @@ Remote customer support and success roles across SaaS, e-commerce, and tech.
 | English Speaking Support Associate Part-Time (Onsite) | [Wolt](https://wolt.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7984874) |
 | Customer Research Agent  | [Genpak LLC](https://genpak-llc-2) | — | Jun 5 | [Apply](https://job-boards.eu.greenhouse.io/growetalents/jobs/4857574101) |
 | Alternance – Chargé(e) de Trésorerie & Financement Groupe | [VusionGroup SA](https://vusiongroup.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/VusionGroupSA/postings/744000130397114) |
+| Music Streaming Platform Customer Specialist with Polish and English (Remote in Bulgaria) | [Genpak LLC](https://genpak-llc-2) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000130390460) |
 | Customer Success Manager | [NCS](https://ncs.co) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001135582) |
 | Customer Service Specialist | [Genpak LLC](https://genpak-llc-2) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/APMGroup/postings/6000000001135426) |
 | Customer Service Specialist - Call Centre | [Genpak LLC](https://genpak-llc-2) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/APMGroup/postings/6000000001135389) |

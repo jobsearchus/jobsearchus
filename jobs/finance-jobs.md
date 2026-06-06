@@ -2,12 +2,17 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**444 open roles** — Last updated: 2026-06-06
+**453 open roles** — Last updated: 2026-06-06
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Assistant Manager, Fund Administration (AML) | [Juniper Square](https://junipersquare.com) | — | Jun 5 | [Apply](https://jobs.ashbyhq.com/junipersquare/49c4d98e-ad3a-4cd5-a62f-c8b23c512cce) |
+| Senior Project Cost Accountant | [KPFF Consulting Engineers](https://kpff.com) | $90K–$120K/yr | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/KPFFConsultingEngineers/postings/3743990013504766) |
+| Accounting Manager  - Marketing | [Truelogic](https://truelogic.com) | — | Jun 5 | [Apply](https://jobs.ashbyhq.com/truelogic/ffe3bd5d-87a3-4969-b535-ef222f168b04) |
+| Accounting Manager  - Marketing | [Truelogic](https://truelogic.com) | — | Jun 5 | [Apply](https://jobs.ashbyhq.com/truelogic/8a91b63c-22b1-4e96-8d37-570df4d69ca6) |
+| Accounting Manager  - Marketing | [Truelogic](https://truelogic.com) | — | Jun 5 | [Apply](https://jobs.ashbyhq.com/truelogic/28cc5696-2b51-4d12-9e91-d91b76bc4e80) |
 | Client Delivery Specialist - Associate | [iCapital](https://icapital.com) | $75K–$85K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8566974002) |
 | Fund Reporting - Analyst | [iCapital](https://icapital.com) | $70K–$85K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8580782002) |
 | Fund Reporting - Analyst | [iCapital](https://icapital.com) | $70K–$85K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8580065002) |
@@ -26,9 +31,13 @@ Remote finance, accounting, and analyst roles at companies of all sizes.
 | REF99017L-Assistant Manager - Accounts Receivable (Collection/Cash Apps/Reporting)-Pune- UK Shift | [WNS](https://wns.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/WNSGlobalServices144/postings/744000130519919) |
 | Financial Accountant (6-Month Fixed-Term Contract) | [Volito Aviation August 2007](https://trustly.com) | — | Jun 5 | [Apply](https://jobs.lever.co/trustly/20043534-f49d-4365-9ccf-54e6de4d4dc7) |
 | Director - Real Estate Credit, Fund Administration (Accounting) | [Juniper Square](https://junipersquare.com) | $180K–$200K/yr | Jun 5 | [Apply](https://jobs.ashbyhq.com/junipersquare/df9764f8-d750-4713-9c31-4425eacf1953) |
+| Analyst, Transactional Treasury & Capital Management | [Standard Bank](https://standardbank.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000130513198) |
+| Portfolio Analyst | [Standard Bank](https://standardbank.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000130506027) |
+| Chief Information Officer, PPB Finance | [Standard Bank](https://standardbank.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000130505596) |
 | Director Finance Operations | [Volito Aviation August 2007](https://trustly.com) | — | Jun 5 | [Apply](https://jobs.lever.co/trustly/88cf187b-6eaf-43d7-bf9a-1c8c7d0e37c3) |
 | Comptable Fournisseurs (confirmé.e) | [Gameloft](https://gameloft.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Gameloft/postings/744000130414935) |
 | [CFN] Senior Manager II, Financial Accounting   | [Coupang](https://coupang.com) | — | Jun 5 | [Apply](https://boards.greenhouse.io/coupanginternal/jobs/7981582?gh_jid=7981582) |
+| Hulpboekhouder (ROCO) | [BESIX](https://besix.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000130406036) |
 | Payment Processing Assistant | [Convera](https://convera.com) | — | Jun 5 | [Apply](https://job-boards.eu.greenhouse.io/convera/jobs/4871901101) |
 | Senior Manager - Deals Desk | [Freshworks](https://freshworks.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000130368829) |
 | Total Rewards Specialist | [Clara](https://clara.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/clara/jobs/5156448007) |

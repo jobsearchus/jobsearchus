@@ -2,14 +2,21 @@
 
 Remote operations and business operations roles across industries.
 
-**1007 open roles** — Last updated: 2026-06-06
+**1018 open roles** — Last updated: 2026-06-06
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Recruiting Coordinator | [OpenWork](https://openworklabs.com) | $25K/yr | Jun 6 | [Apply](https://job-boards.greenhouse.io/openwork/jobs/4274608009) |
+| AC Technician  | [ACCOR](https://group.accor.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130632139) |
 | Driver - Light Vehicle | [Egis](https://egis-group.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000130630599) |
 | Office Coordinator | [University of Notre Dame](https://universityofnotredame.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013505446) |
+| Data Center Operations Tier 1 Technician | [LightEdge](https://lightedge.com) | — | Jun 6 | [Apply](https://jobs.lever.co/lightedge/57864062-c7ec-4874-912b-8b78dd10eb32) |
+| Governance Risk and Compliance | [Figma](https://figma.com) | — | Jun 5 | [Apply](https://boards.greenhouse.io/figma/jobs/6015630004?gh_jid=6015630004) |
+| Accounting Manager (Mexico) - Marketing | [Truelogic](https://truelogic.com) | — | Jun 5 | [Apply](https://jobs.ashbyhq.com/truelogic/4bc76276-e9ee-4a50-a52d-bab3ac33750d) |
+| Accounting Manager (Brazil) - Marketing | [Truelogic](https://truelogic.com) | — | Jun 5 | [Apply](https://jobs.ashbyhq.com/truelogic/7061328c-2824-4a27-967e-5fee513f2bcb) |
+| Gerente de Producción y Entornos Previos | [Inetum](https://inetum.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000130597169) |
 | Senior FPGA Engineer | [DRW](https://drw.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7986135) |
 | Maintenance Planner (Maintenance System Coordinator) | [Continental](https://continentalserves.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000130593374) |
 | Automotive Technician / Mechanic - Up To $55/hr. & Climate-Controlled Shop - Katy Grand Parkway | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | $55/yr | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000130592180) |
@@ -34,6 +41,7 @@ Remote operations and business operations roles across industries.
 | AI Quality Evaluator - Arabic  | [Canva](https://canva.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Canva/postings/6000000001135987) |
 | Production Manager | [Avery Dennison](https://averydennison.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000130547121) |
 | Supply Chain Supervisor | [Avery Dennison](https://averydennison.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000130549239) |
+| Housekeeper - Janitor | [Crestwood Behavioral Health](https://crestwoodbehavioralhealth.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/crestwoodcareers/jobs/7764686003) |
 | Reporting Manager | [AECOM](https://aecom.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000130543970) |
 | Référent Back Office Planning - CDD 9 mois (H/F) | [AUTO1 Group](https://auto1-group.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000130538792) |
 | Principal, Integrated Planning (Operations) | [Anglo American](https://angloamerican.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000130533425) |
@@ -44,6 +52,7 @@ Remote operations and business operations roles across industries.
 | GTM Strategy and Operations Director - EMEA | [The Trade Desk](https://thetradedesk.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5156564007) |
 | Ведущий специалист по планированию производства | [Syngenta](https://syngenta.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000130503125) |
 | Customer Success Manager  | [VusionGroup SA](https://vusiongroup.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/VusionGroupSA/postings/744000130498180) |
+| Business Analyst - Confirmé - H/F | [Inetum](https://inetum.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000130499925) |
 | Stock Manager | [Gymshark](https://gymshark.com) | — | Jun 5 | [Apply](https://job-boards.eu.greenhouse.io/gymshark/jobs/4884532101) |
 | Outbye Superintendent | [Anglo American](https://angloamerican.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000130353279) |
 | Warehouse Group Leader | [Avery Dennison](https://averydennison.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000130352579) |
@@ -71,6 +80,8 @@ Remote operations and business operations roles across industries.
 | Implementation Manager | [Bestow](https://bestow.com) | — | Jun 4 | [Apply](https://jobs.ashbyhq.com/bestow/13822aae-81ed-4ff9-85d3-05c0ddb0458a) |
 | Senior Program Manager - Talent & Workforce Strategy | [IonQ](https://ionq.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/ionq/jobs/6011425004) |
 | Fiber Inventory Specialist | [Enviva](https://envivabiomass.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/enviva/jobs/7763506003) |
+| Survey - Survey Analyst | [KPFF Consulting Engineers](https://kpff.com) | $52K–$90K/yr | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/KPFFConsultingEngineers/postings/3743990013473606) |
+| Survey - Project Surveyor | [KPFF Consulting Engineers](https://kpff.com) | $80K–$105K/yr | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/KPFFConsultingEngineers/postings/3743990013473536) |
 | employé commercial pour   secteur épicerie/liquide | [Genpak LLC](https://genpak-llc-2) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130265809) |
 | Transformation Lead  | [Playtech](https://playtech.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/Playtech/postings/744000130264999) |
 | Sr. Staff/Staff Design Verification Engineer | [Cerebras Systems](https://cerebras.net) | $250K–$300K/yr | Jun 4 | [Apply](https://job-boards.greenhouse.io/cerebrassystems/jobs/7763735003) |

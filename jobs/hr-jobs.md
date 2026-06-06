@@ -2,12 +2,16 @@
 
 Remote HR, recruiting, and people operations roles.
 
-**169 open roles** — Last updated: 2026-06-06
+**173 open roles** — Last updated: 2026-06-06
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| People  Development Manager | [ACCOR](https://group.accor.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130633989) |
+| Talent Acquisition Partner - International Scope | [Delivery Hero](https://deliveryhero.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000130629859) |
+| Talent Acquisition Partner - Commercial Scope | [Delivery Hero](https://deliveryhero.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000130629809) |
+| Marketing Manager | [b12 Labs](https://b12-labs.com) | — | Jun 6 | [Apply](https://job-boards.greenhouse.io/b12/jobs/7987863) |
 | HR Manager | [Continental](https://continentalserves.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000130600169) |
 | Conseiller.ère acquisition de talents, par intérim (H/F/D) | [ACCOR](https://group.accor.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130582438) |
 | Automotive Technician / Mechanic - Up to $45/hr & Weekends Off - Weatherford | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | $45/yr | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000130578710) |
