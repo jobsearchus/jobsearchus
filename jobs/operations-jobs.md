@@ -2,14 +2,25 @@
 
 Remote operations and business operations roles across industries.
 
-**1050 open roles** — Last updated: 2026-06-07
+**1061 open roles** — Last updated: 2026-06-07
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Chefe de Fila - Novotel SP Morumbi (Zona Sul) - Horário: 15h00 às 23h10 | [ACCOR](https://group.accor.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130669749) |
+| Catering and  Conference Services Executive | [ACCOR](https://group.accor.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130668909) |
+| Assistant Store Supervisor | [Delivery Hero](https://deliveryhero.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000130666789) |
 | Service Process Coordinator | [MSX International](https://msxi.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013507396) |
 | Service Process Coordinator | [MSX International](https://msxi.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013507356) |
+| Employé(e) Fruits et legumes | [Genpak LLC](https://genpak-llc-2) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130664659) |
+| INTERMARCHE - PREPARATEUR DRIVE (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130664579) |
+| Pizza Maker/Crew Member(05403) | [Domino's](https://dominos.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130647256) |
+| Delivery Driver (03143) - 5113 SR 674 Suite 117 | [Domino's](https://dominos.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130650879) |
+| General Manager(04773) - 2825 Carlisle Rd | [Domino's](https://dominos.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130650680) |
+| Domino's Pizza Maker/CSR - Mill Creek / Seattle Hill Rd. (7085) | [Domino's](https://dominos.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130646714) |
+| Pizza Maker/Crew Member(06797) | [Domino's](https://dominos.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130650758) |
+| Level 2 Assistant Manager(06275) - 1003 ROYAL GORGE BLVD | [Domino's](https://dominos.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130650659) |
 | Store Delivery Expert | [Domino's](https://dominos.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130642739) |
 | Store Delivery Driver | [Domino's](https://dominos.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130642699) |
 | Assistant Manager | [Domino's](https://dominos.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130642479) |

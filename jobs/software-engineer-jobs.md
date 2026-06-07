@@ -2,12 +2,15 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**1480 open roles** — Last updated: 2026-06-07
+**1483 open roles** — Last updated: 2026-06-07
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Project Lead | [Fluidstack](https://fluidstack.com) | $160K–$250K/yr | Jun 7 | [Apply](https://jobs.ashbyhq.com/fluidstack/344b7b07-6580-475f-a25c-d98b4defbf3f) |
+| Sr. Project Manager | [Fluidstack](https://fluidstack.com) | $160K–$250K/yr | Jun 7 | [Apply](https://jobs.ashbyhq.com/fluidstack/010c50f4-5055-4dba-8750-6d75597a6955) |
+| Project Executive | [Fluidstack](https://fluidstack.com) | $160K–$250K/yr | Jun 7 | [Apply](https://jobs.ashbyhq.com/fluidstack/8771d8f5-eb2b-49d7-a419-79dba5561b94) |
 | Senior Cost Engineer | [AECOM](https://aecom.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000130663949) |
 | Staff Engineer (IBM MQ. IBM ACE) | [Nagarro](https://nagarro.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000130663249) |
 | Engineer - Architecture | [AECOM](https://aecom.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000130663109) |

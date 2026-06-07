@@ -2,12 +2,13 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**1018 open roles** — Last updated: 2026-06-07
+**1019 open roles** — Last updated: 2026-06-07
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Associate Clinical Oncology Specialist | [Natera](https://natera.com) | — | Jun 7 | [Apply](https://job-boards.greenhouse.io/natera/jobs/6015793004) |
 | Asst. Team Leader | [MSX International](https://msxi.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013507316) |
 | JYSK MAĞAZA MÜDÜR YARDIMCISI (ANKARA) | [JYSK](https://jysk.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000130663999) |
 | JYSK MAĞAZA MÜDÜRÜ (ANKARA) | [JYSK](https://jysk.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000130663839) |
