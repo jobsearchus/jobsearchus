@@ -2,7 +2,7 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**891 open roles** — Last updated: 2026-06-07
+**892 open roles** — Last updated: 2026-06-07
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -11,6 +11,7 @@ Remote sales roles — account executives, SDRs, and enterprise deals.
 | Sales Assistant part-time C.C. “Punta di Ferro” | [JD Sports](https://jdsports.com) | — | Jun 6 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4886392101) |
 | SALES ASSISTANT JDI  | [JD Sports](https://jdsports.com) | — | Jun 6 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4886346101) |
 | Sales Assistant (Part Time) - C.C. "Val Vibrata" | [JD Sports](https://jdsports.com) | — | Jun 6 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4886334101) |
+| Part Time Sales Associate killarney | [Frasers Group](https://frasersgroup.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000130634379) |
 | EMPLOYE COMMERCIAL (H/F) Rayon Liquide | [Genpak LLC](https://genpak-llc-2) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130631999) |
 | Job étudiant | [Genpak LLC](https://genpak-llc-2) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130631539) |
 | EMPLOYE COMMERCIAL (H/F) - Employé polyvalent | [Genpak LLC](https://genpak-llc-2) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130631349) |

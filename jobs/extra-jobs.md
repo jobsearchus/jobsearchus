@@ -2,7 +2,7 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**1007 open roles** — Last updated: 2026-06-07
+**1009 open roles** — Last updated: 2026-06-07
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -27,6 +27,7 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Part Time Sales Assistant- JYSK Mahon Point | [JYSK](https://jysk.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000130636640) |
 | Chef de Partie (H/F) - Villa Gallici | [Relais & Châteaux](https://relaischateaux.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000130636689) |
 | Vice Store Manager 30-40 h SOSTITUZIONE MATERNITà LUNGA- MANTOVA  | [JYSK](https://jysk.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000130636539) |
+| Assistente de Venda a Tempo Parcial –  Alverca | [Frasers Group](https://frasersgroup.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000130634799) |
 | Supervisor  | [Frasers Group](https://frasersgroup.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000130633649) |
 | Chef de rang-Serveur confirmé - semaine en 4 jours | [ACCOR](https://group.accor.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130632255) |
 | F&B Executive | [ACCOR](https://group.accor.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130631459) |
@@ -51,6 +52,7 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Veterinary Technician - Surgery | [Veritas Veterinary Partners](https://veritasveterinarypartners.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/veritasvetpartners/jobs/5249675008) |
 | Director - Channel & Alliances Strategy | [Freshworks](https://freshworks.com) | $214K–$264K/yr | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000130572432) |
 | Dietary - Kitchen Manager | [Crestwood Behavioral Health](https://crestwoodbehavioralhealth.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/crestwoodcareers/jobs/7764841003) |
+| Mental Health Response Team Manager (AMFT, ACSW, etc.) | [Crestwood Behavioral Health](https://crestwoodbehavioralhealth.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/crestwoodcareers/jobs/7764826003) |
 | Caissier(ère)/Hôte(sse) | [Genpak LLC](https://genpak-llc-2) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000130553669) |
 | Technicien(ne) de maintenance [CDI] | [Genpak LLC](https://genpak-llc-2) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000130545697) |
 | Assistant Manager (sostituzione maternita') - Milano | [JD Sports](https://jdsports.com) | — | Jun 5 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4885305101) |

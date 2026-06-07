@@ -2,13 +2,14 @@
 
 Remote jobs open to candidates with 0–2 years of experience. A real way in — no degree gatekeeping.
 
-**975 open roles** — Last updated: 2026-06-07
+**978 open roles** — Last updated: 2026-06-07
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | Second de cuisine H/F | [ACCOR](https://group.accor.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130643849) |
+| Store Delivery Expert | [Domino's](https://dominos.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130642299) |
 | Delivery Driver (05376) - 12009 HWY 231/431 N | [Domino's](https://dominos.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130641909) |
 | Catering & Conference Services Manager | [ACCOR](https://group.accor.com) | $78K–$85K/yr | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130641619) |
 | Vendeur / Vendeuse CDI -  35 d'heures (H/F) | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000130641199) |
@@ -22,6 +23,8 @@ Remote jobs open to candidates with 0–2 years of experience. A real way in —
 | SALES ASSISTANT JDI  | [JD Sports](https://jdsports.com) | — | Jun 6 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4886346101) |
 | Part Time Sales Assistant- JYSK Mahon Point | [JYSK](https://jysk.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000130636640) |
 | Sales Assistant (Part Time) - C.C. "Val Vibrata" | [JD Sports](https://jdsports.com) | — | Jun 6 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4886334101) |
+| Assistente de Venda a Tempo Parcial –  Alverca | [Frasers Group](https://frasersgroup.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000130634799) |
+| Part Time Sales Associate killarney | [Frasers Group](https://frasersgroup.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000130634379) |
 | EMPLOYE COMMERCIAL (H/F) Rayon Liquide | [Genpak LLC](https://genpak-llc-2) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130631999) |
 | Job étudiant | [Genpak LLC](https://genpak-llc-2) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130631539) |
 | EMPLOYE COMMERCIAL (H/F) - Employé polyvalent | [Genpak LLC](https://genpak-llc-2) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130631349) |

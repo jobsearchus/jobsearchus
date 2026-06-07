@@ -2,14 +2,17 @@
 
 Remote operations and business operations roles across industries.
 
-**1039 open roles** — Last updated: 2026-06-07
+**1043 open roles** — Last updated: 2026-06-07
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Assistant Manager | [Domino's](https://dominos.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130642479) |
+| Store Delivery Expert | [Domino's](https://dominos.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130642439) |
 | Cleaner weekend | [Greene King](https://greeneking.co.uk) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/GreeneKing/postings/744000130641019) |
 | MODELE ROADY - RECEPTIONNAIRE ATELIER (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130639840) |
+| Lider de Proyectos de Compras | [Bosch](https://bosch.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/BoschGroup/postings/744000130639149) |
 | Magasinier / Responsable de réserve | [JYSK](https://jysk.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000130639029) |
 | Assistant Store Manager (efood market) - Αττική | [Delivery Hero](https://deliveryhero.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000130638399) |
 | Recruiting Coordinator | [OpenWork](https://openworklabs.com) | $25K/yr | Jun 6 | [Apply](https://job-boards.greenhouse.io/openwork/jobs/4274608009) |
@@ -22,6 +25,7 @@ Remote operations and business operations roles across industries.
 | Office Coordinator | [University of Notre Dame](https://universityofnotredame.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013505446) |
 | Data Center Operations Tier 1 Technician | [LightEdge](https://lightedge.com) | — | Jun 6 | [Apply](https://jobs.lever.co/lightedge/57864062-c7ec-4874-912b-8b78dd10eb32) |
 | Governance Risk and Compliance | [Figma](https://figma.com) | — | Jun 5 | [Apply](https://boards.greenhouse.io/figma/jobs/6015630004?gh_jid=6015630004) |
+| Maintenance Assistant - Technician | [Crestwood Behavioral Health](https://crestwoodbehavioralhealth.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/crestwoodcareers/jobs/7765207003) |
 | Accounting Manager (Mexico) - Marketing | [Truelogic](https://truelogic.com) | — | Jun 5 | [Apply](https://jobs.ashbyhq.com/truelogic/4bc76276-e9ee-4a50-a52d-bab3ac33750d) |
 | Accounting Manager (Brazil) - Marketing | [Truelogic](https://truelogic.com) | — | Jun 5 | [Apply](https://jobs.ashbyhq.com/truelogic/7061328c-2824-4a27-967e-5fee513f2bcb) |
 | Gerente de Producción y Entornos Previos | [Inetum](https://inetum.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000130597169) |

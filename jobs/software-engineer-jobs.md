@@ -2,7 +2,7 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**1470 open roles** — Last updated: 2026-06-07
+**1471 open roles** — Last updated: 2026-06-07
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -11,6 +11,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Senior Analytics Engineer (ETL/ELT focused) - Design Marketplace - Mexico | [Truelogic](https://truelogic.com) | — | Jun 6 | [Apply](https://jobs.ashbyhq.com/truelogic/5276a678-6385-4fe1-b215-aa263e0537c3) |
 | Senior Analytics Engineer (ETL/ELT focused) - Design Marketplace - DR | [Truelogic](https://truelogic.com) | — | Jun 6 | [Apply](https://jobs.ashbyhq.com/truelogic/37c8a255-41f8-4459-8afb-984549ad6d6b) |
 | Senior Analytics Engineer (ETL/ELT focused) - Design Marketplace - Colombia | [Truelogic](https://truelogic.com) | — | Jun 6 | [Apply](https://jobs.ashbyhq.com/truelogic/ec798d5e-3979-4c92-ac7d-1484758776c4) |
+| Hardware Engineer for Consumer Electronics  | [Bosch](https://bosch.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/BoschGroup/postings/744000130638190) |
 | Senior Staff Engineer, ERP Dynamics Functional (Finance) | [Nagarro](https://nagarro.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000130631319) |
 | Senior Staff Engineer, ERP Workday (Technical Consultant) | [Nagarro](https://nagarro.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000130629849) |
 | Senior Staff Engineer, ERP Workday (Functional Consultant) | [Nagarro](https://nagarro.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000130628859) |
