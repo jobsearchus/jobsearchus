@@ -2,7 +2,7 @@
 
 Remote operations and business operations roles across industries.
 
-**1061 open roles** — Last updated: 2026-06-07
+**1063 open roles** — Last updated: 2026-06-07
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -15,6 +15,8 @@ Remote operations and business operations roles across industries.
 | Service Process Coordinator | [MSX International](https://msxi.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013507356) |
 | Employé(e) Fruits et legumes | [Genpak LLC](https://genpak-llc-2) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130664659) |
 | INTERMARCHE - PREPARATEUR DRIVE (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130664579) |
+| Assistant Manager(03127) - 5045 Soutel Dr #14 | [Domino's](https://dominos.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130650970) |
+| Assistant Manager(3115) - 4158 W. County Road 218 | [Domino's](https://dominos.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130649475) |
 | Pizza Maker/Crew Member(05403) | [Domino's](https://dominos.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130647256) |
 | Delivery Driver (03143) - 5113 SR 674 Suite 117 | [Domino's](https://dominos.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130650879) |
 | General Manager(04773) - 2825 Carlisle Rd | [Domino's](https://dominos.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130650680) |

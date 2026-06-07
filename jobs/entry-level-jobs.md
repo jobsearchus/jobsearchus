@@ -2,13 +2,14 @@
 
 Remote jobs open to candidates with 0–2 years of experience. A real way in — no degree gatekeeping.
 
-**992 open roles** — Last updated: 2026-06-07
+**993 open roles** — Last updated: 2026-06-07
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | INTERMARCHE - PREPARATEUR DRIVE (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130664579) |
+| Customer Service Rep(01600) - 5531 Osage Beach Parkway | [Domino's](https://dominos.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130650595) |
 | Pizza Maker/Crew Member(05403) | [Domino's](https://dominos.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130647256) |
 | Delivery Driver (03143) - 5113 SR 674 Suite 117 | [Domino's](https://dominos.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130650879) |
 | Pizza Maker/Crew Member(06797) | [Domino's](https://dominos.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130650758) |

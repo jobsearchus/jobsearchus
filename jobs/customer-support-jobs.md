@@ -2,12 +2,13 @@
 
 Remote customer support and success roles across SaaS, e-commerce, and tech.
 
-**264 open roles** — Last updated: 2026-06-07
+**265 open roles** — Last updated: 2026-06-07
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Customer Service Rep(01600) - 5531 Osage Beach Parkway | [Domino's](https://dominos.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130650595) |
 |  Chef de Partie H/F | [ACCOR](https://group.accor.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130644129) |
 | Store Delivery Expert | [Domino's](https://dominos.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130642649) |
 | Store Delivery Expert | [Domino's](https://dominos.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130642299) |
