@@ -2,12 +2,16 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**1009 open roles** — Last updated: 2026-06-07
+**1018 open roles** — Last updated: 2026-06-07
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Asst. Team Leader | [MSX International](https://msxi.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013507316) |
+| JYSK MAĞAZA MÜDÜR YARDIMCISI (ANKARA) | [JYSK](https://jysk.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000130663999) |
+| JYSK MAĞAZA MÜDÜRÜ (ANKARA) | [JYSK](https://jysk.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000130663839) |
+| Chef de Rang (H/F) - Restaurant Bras | [Relais & Châteaux](https://relaischateaux.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000130644649) |
 | Second de cuisine H/F | [ACCOR](https://group.accor.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130643849) |
 | Assistant Manager | [Domino's](https://dominos.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130642219) |
 | Business Analyst | [Accenture Federal Services](https://accenturefederalservices.com) | — | Jun 6 | [Apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4687456006?gh_jid=4687456006) |
@@ -30,7 +34,9 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Assistente de Venda a Tempo Parcial –  Alverca | [Frasers Group](https://frasersgroup.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000130634799) |
 | Supervisor  | [Frasers Group](https://frasersgroup.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000130633649) |
 | Chef de rang-Serveur confirmé - semaine en 4 jours | [ACCOR](https://group.accor.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130632255) |
+| Chef de Partie (H/F) - Nom de l'établissement | [Relais & Châteaux](https://relaischateaux.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000130631789) |
 | F&B Executive | [ACCOR](https://group.accor.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130631459) |
+| Pastry Sous-Chef – 2 Michelin-Star Restaurant Georges Blanc H/F | [Relais & Châteaux](https://relaischateaux.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000130631145) |
 | Director of Food & Beverage | [ACCOR](https://group.accor.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130630889) |
 | Senior Consultant, Commodity & Energy Trading | [Baringa](https://baringa.com) | — | Jun 6 | [Apply](https://job-boards.eu.greenhouse.io/baringa/jobs/4863891101) |
 | Senior Director, Customer Success | [Webflow](https://webflow.com) | $256K–$320K/yr | Jun 6 | [Apply](https://job-boards.greenhouse.io/webflow/jobs/7986111) |
@@ -57,14 +63,17 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Technicien(ne) de maintenance [CDI] | [Genpak LLC](https://genpak-llc-2) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000130545697) |
 | Assistant Manager (sostituzione maternita') - Milano | [JD Sports](https://jdsports.com) | — | Jun 5 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4885305101) |
 | Dental Nurse Maternity Cover | [PortmanDentex](https://portmandentex.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000130544340) |
+| Store Manager - Olbia C.C. "Olbia Mare" | [JD Sports](https://jdsports.com) | — | Jun 5 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4885266101) |
 | Director, Application Managed Services (AMS) – Europe Growth & Transformation (m/f/d) | [Nagarro](https://nagarro.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000130539709) |
 | Chauffeur / Préparateur de commandes polyvalent H/F | [Genpak LLC](https://genpak-llc-2) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000130537398) |
+| Store Manager - Montebello della Battaglia C.C. "Montebello" | [JD Sports](https://jdsports.com) | — | Jun 5 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4885186101) |
 | Assistant News Director, NBC Connecticut | [NBCUniversal](https://nbcuniversal.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130530429) |
 | Assistant clientèle | [Genpak LLC](https://genpak-llc-2) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000130529739) |
 | Sales Assistant Part Time (Categorie Protette) - Antegnate C.C. "Antegnate Gran Shopping" | [JD Sports](https://jdsports.com) | — | Jun 5 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4885136101) |
 | Busser - Soho House Austin | [Soho House](https://sohohouse.com) | — | Jun 5 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4884030101) |
 | Runner | [Genpak LLC](https://genpak-llc-2) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000130520511) |
 | Dental Receptionist, Bromley | [PortmanDentex](https://portmandentex.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000130516309) |
+| Chef de Partie | [Genpak LLC](https://genpak-llc-2) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000130513593) |
 | Product/Application Support Specialist  | [WIN Home Inspection](https://winhomeinspection.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/winhomeinspection/jobs/4687161006) |
 | Consultant(e) Fonctionnel(le) Finance – ERP Dynamics Senior H/F | [Inetum](https://inetum.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000130495122) |
 | Senior Certification Manager | [Vertical Aerospace](https://vertical-aerospace.com) | — | Jun 5 | [Apply](https://jobs.ashbyhq.com/vertical-aerospace/cce1b3ad-fc26-40a6-bf93-481d3e757fc5) |

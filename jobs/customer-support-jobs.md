@@ -2,22 +2,25 @@
 
 Remote customer support and success roles across SaaS, e-commerce, and tech.
 
-**261 open roles** — Last updated: 2026-06-07
+**264 open roles** — Last updated: 2026-06-07
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 |  Chef de Partie H/F | [ACCOR](https://group.accor.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130644129) |
+| Store Delivery Expert | [Domino's](https://dominos.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130642649) |
 | Store Delivery Expert | [Domino's](https://dominos.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130642299) |
 | Store Delivery Driver | [Domino's](https://dominos.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130642119) |
 | Customer Engineer | [Render](https://render.com) | — | Jun 6 | [Apply](https://jobs.ashbyhq.com/render/4bf72ced-b09f-4b42-a4b3-92b38ff21025) |
 | Food Architect | [Domino's](https://dominos.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130621683) |
 | Service Center Analyst | [Continental](https://continentalserves.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000130594289) |
+| Technical Support Expert 2 | [Twilio](https://twilio.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7966810) |
 | Customer Service Representative | [Axon](https://axon.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/axon/jobs/7764930003) |
 | Bilingual International Customer Support Representative | [Natera](https://natera.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/natera/jobs/5995577004) |
 | Customer Support Agent | [Gymshark](https://gymshark.com) | — | Jun 5 | [Apply](https://job-boards.eu.greenhouse.io/gymshark/jobs/4881182101) |
 | English Speaking Support Associate Part-Time (Onsite) | [Wolt](https://wolt.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7984874) |
+| Technical Support Engineer 3 | [Twilio](https://twilio.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7977252) |
 | Customer Research Agent  | [Genpak LLC](https://genpak-llc-2) | — | Jun 5 | [Apply](https://job-boards.eu.greenhouse.io/growetalents/jobs/4857574101) |
 | Alternance – Chargé(e) de Trésorerie & Financement Groupe | [VusionGroup SA](https://vusiongroup.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/VusionGroupSA/postings/744000130397114) |
 | Music Streaming Platform Customer Specialist with Polish and English (Remote in Bulgaria) | [Genpak LLC](https://genpak-llc-2) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000130390460) |

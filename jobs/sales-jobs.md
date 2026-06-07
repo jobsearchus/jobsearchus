@@ -2,7 +2,7 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**892 open roles** — Last updated: 2026-06-07
+**901 open roles** — Last updated: 2026-06-07
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -12,9 +12,14 @@ Remote sales roles — account executives, SDRs, and enterprise deals.
 | SALES ASSISTANT JDI  | [JD Sports](https://jdsports.com) | — | Jun 6 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4886346101) |
 | Sales Assistant (Part Time) - C.C. "Val Vibrata" | [JD Sports](https://jdsports.com) | — | Jun 6 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4886334101) |
 | Part Time Sales Associate killarney | [Frasers Group](https://frasersgroup.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000130634379) |
+| Retail Assistant - Operador de Loja (m/f) | [Primark Tiendas SLU](https://primark.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000130632589) |
 | EMPLOYE COMMERCIAL (H/F) Rayon Liquide | [Genpak LLC](https://genpak-llc-2) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130631999) |
+| Addetto/a alle vendite | [Primark Tiendas SLU](https://primark.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000130631699) |
 | Job étudiant | [Genpak LLC](https://genpak-llc-2) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130631539) |
 | EMPLOYE COMMERCIAL (H/F) - Employé polyvalent | [Genpak LLC](https://genpak-llc-2) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130631349) |
+| Sales Assistant (Stage) - Guidonia C.C. "Tiburtino" | [JD Sports](https://jdsports.com) | — | Jun 6 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4886120101) |
+| Sales Assistant (Part Time) - Guidonia C.C. "Tiburtino" | [JD Sports](https://jdsports.com) | — | Jun 6 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4886118101) |
+| Stage Sales Assistant - Forlì C.C. "Punta di Ferro" | [JD Sports](https://jdsports.com) | — | Jun 6 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4886073101) |
 | Sales Enablement Manager, Business Development | [Dandy](https://meetdandy.com) | — | Jun 6 | [Apply](https://jobs.ashbyhq.com/dandy/937426b6-a36b-445a-bee3-eddaa8d352eb) |
 | Sales Enablement Manager, Business Development | [Dandy](https://meetdandy.com) | — | Jun 6 | [Apply](https://jobs.ashbyhq.com/dandy/f9d0862f-9a10-4b04-8688-800d98c81d2e) |
 | Sales Enablement Manager, Business Development | [Dandy](https://meetdandy.com) | — | Jun 6 | [Apply](https://jobs.ashbyhq.com/dandy/90a55402-76a4-44e1-a1de-24cff7ced4d8) |
@@ -31,8 +36,11 @@ Remote sales roles — account executives, SDRs, and enterprise deals.
 | Agente Stone - Consultor(a) Comercial Externo -  Fortaleza/CE | [Stone](https://stone.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/stone/jobs/7765202003) |
 | BestDrive Commercial Sales Associate (EG) | [Continental](https://continentalserves.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000130589014) |
 | Technical Account Manager, Mid-Market | [Hightouch](https://hightouch.com) | $165K–$200K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/hightouch/jobs/6015438004) |
+| Sales Account Executive, Public Sector | [Zscaler](https://zscaler.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5147257007) |
 | Account Director - Public Safety | [NEC Software Solutions](https://necsoftwaresolutions.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/NECSWS/postings/744000130578706) |
+| Regional Director, Public Sector | [Zscaler](https://zscaler.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5147259007) |
 | Salesforce Solution Engineer,  RCA & RCB | [NeuraFlash](https://neuraflash.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/neuraflash/jobs/6015378004) |
+| BestDrive Retail Store Manager | [Continental](https://continentalserves.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000130562967) |
 | Vendeur ALIMENTAIRE CHARCUTERIE TRAITEUR FROMAGE (H/F) CDI TEMPS PLEIN | [Genpak LLC](https://genpak-llc-2) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130560035) |
 | Senior Account Executive (Growth) | [The Trade Desk](https://thetradedesk.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5153192007) |
 | Account Executive F/H – CDI | [WPP Media](https://wppmedia.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5249452008) |
@@ -47,6 +55,7 @@ Remote sales roles — account executives, SDRs, and enterprise deals.
 | Account Executive - SLED - Texas | [Zscaler](https://zscaler.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5151891007) |
 | Principal Specialist Sales Engineer, Zero Trust Branch | [Zscaler](https://zscaler.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5153361007) |
 | Client Executive – Preferred Regional Markets (West) | [Experian](https://experianplc.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000130536399) |
+| Stage Sales Assistant - Fiumicino Parco Commerciale "Da Vinci" | [JD Sports](https://jdsports.com) | — | Jun 5 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4885146101) |
 | Manager, Sales Optimization | [NBCUniversal](https://nbcuniversal.com) | $90K–$100K/yr | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130520562) |
 | Account Development Representative - SLED CENTRAL | [Job Board](https://corelight.com) | $180K–$214K/yr | Jun 5 | [Apply](https://boards.greenhouse.io/corelight/jobs/7984809?gh_jid=7984809) |
 | Account Development Representative - Federal | [Job Board](https://corelight.com) | $180K–$214K/yr | Jun 5 | [Apply](https://boards.greenhouse.io/corelight/jobs/7984807?gh_jid=7984807) |

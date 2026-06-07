@@ -2,12 +2,17 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**1471 open roles** — Last updated: 2026-06-07
+**1480 open roles** — Last updated: 2026-06-07
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Cost Engineer | [AECOM](https://aecom.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000130663949) |
+| Staff Engineer (IBM MQ. IBM ACE) | [Nagarro](https://nagarro.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000130663249) |
+| Engineer - Architecture | [AECOM](https://aecom.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000130663109) |
+| Engineer - Architecture | [AECOM](https://aecom.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000130663059) |
+| Staff Engineer (IBM APP Connect) | [Nagarro](https://nagarro.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000130662879) |
 | Senior Analytics Engineer (ETL/ELT focused) - Design Marketplace - Mexico | [Truelogic](https://truelogic.com) | — | Jun 6 | [Apply](https://jobs.ashbyhq.com/truelogic/5276a678-6385-4fe1-b215-aa263e0537c3) |
 | Senior Analytics Engineer (ETL/ELT focused) - Design Marketplace - DR | [Truelogic](https://truelogic.com) | — | Jun 6 | [Apply](https://jobs.ashbyhq.com/truelogic/37c8a255-41f8-4459-8afb-984549ad6d6b) |
 | Senior Analytics Engineer (ETL/ELT focused) - Design Marketplace - Colombia | [Truelogic](https://truelogic.com) | — | Jun 6 | [Apply](https://jobs.ashbyhq.com/truelogic/ec798d5e-3979-4c92-ac7d-1484758776c4) |
@@ -31,6 +36,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Quality Architect Engineer | [Applaudo](https://applaudo.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/ApplaudoStudios/postings/744000130578084) |
 | M&H Valve - Information Technology (IT)  Intern | [McWane](https://mcwane.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/McWaneInc/postings/3743990013498156) |
 | [8NW] Staff Software Engineer | [Software Mind](https://softwaremind.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/SoftwareMind/postings/744000130574709) |
+| Field Engineer - Tires | [Continental](https://continentalserves.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000130573799) |
 | Business Systems Architect – Finance (D365 FO) | [Axon](https://axon.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/axon/jobs/7764947003) |
 | Business Systems Architect – Finance (D365 FO) | [Axon](https://axon.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/axon/jobs/7764948003) |
 | Senior Regulatory Counsel | [DRW](https://drw.com) | $150K–$275K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7983837) |
@@ -41,6 +47,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Lead data engineer & Team Lead | [VML MAP](https://vml-map.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/map/jobs/8580487002) |
 | Senior Technical Project Manager - Martech | [VML MAP](https://vml-map.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/map/jobs/8580490002) |
 | Technical Services Engineer | [NEC Software Solutions](https://necsoftwaresolutions.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/NECSWS/postings/744000130557749) |
+| Associate Director, Analytics | [WPP Media](https://wppmedia.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5207061008) |
 | Broadcast IT Systems Engineer - Live Events | [NBCUniversal](https://nbcuniversal.com) | $65K–$90K/yr | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130551496) |
 | AI & Data Governance and Trust Manager | [MSX International](https://msxi.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013493486) |
 | Data Engineer | [MSX International](https://msxi.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013493059) |
@@ -66,6 +73,8 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Staff Solutions Architect, Opportunity LifeCycle Management | [Twilio](https://twilio.com) | $127K–$161K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7979240) |
 | System Engineer, Electro Optics | [NCS](https://ncs.co) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001135919) |
 | Analyst - MDM (ANZ) | [WPP](https://wpp.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/wpp/jobs/8570401002) |
+| Senior Software Engineer | [Robinhood](https://robinhood.com) | — | Jun 5 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7473817?t=gh_src=&gh_jid=7473817) |
+| Professional Service Engineer - AI Security | [Zscaler](https://zscaler.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5151897007) |
 | SPR Agronomist Coordinator | [Syngenta](https://syngenta.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000130503785) |
 | Grocery/Warehouse Associate - შეკვეთების შემგროვებელი/საწყობის თანამშრომელი | [Wolt](https://wolt.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7984718) |
 | Team lead CRM Dynamics - H/F | [Inetum](https://inetum.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000130497201) |

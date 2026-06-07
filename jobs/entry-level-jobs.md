@@ -2,13 +2,15 @@
 
 Remote jobs open to candidates with 0–2 years of experience. A real way in — no degree gatekeeping.
 
-**978 open roles** — Last updated: 2026-06-07
+**988 open roles** — Last updated: 2026-06-07
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | Second de cuisine H/F | [ACCOR](https://group.accor.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130643849) |
+| Store Delivery Expert | [Domino's](https://dominos.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130642739) |
+| Store Delivery Driver | [Domino's](https://dominos.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130642699) |
 | Store Delivery Expert | [Domino's](https://dominos.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130642299) |
 | Delivery Driver (05376) - 12009 HWY 231/431 N | [Domino's](https://dominos.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130641909) |
 | Catering & Conference Services Manager | [ACCOR](https://group.accor.com) | $78K–$85K/yr | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130641619) |
@@ -25,10 +27,15 @@ Remote jobs open to candidates with 0–2 years of experience. A real way in —
 | Sales Assistant (Part Time) - C.C. "Val Vibrata" | [JD Sports](https://jdsports.com) | — | Jun 6 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4886334101) |
 | Assistente de Venda a Tempo Parcial –  Alverca | [Frasers Group](https://frasersgroup.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000130634799) |
 | Part Time Sales Associate killarney | [Frasers Group](https://frasersgroup.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000130634379) |
+| Retail Assistant - Operador de Loja (m/f) | [Primark Tiendas SLU](https://primark.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000130632589) |
 | EMPLOYE COMMERCIAL (H/F) Rayon Liquide | [Genpak LLC](https://genpak-llc-2) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130631999) |
+| Addetto/a alle vendite | [Primark Tiendas SLU](https://primark.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000130631699) |
 | Job étudiant | [Genpak LLC](https://genpak-llc-2) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130631539) |
 | EMPLOYE COMMERCIAL (H/F) - Employé polyvalent | [Genpak LLC](https://genpak-llc-2) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130631349) |
+| Sales Assistant (Stage) - Guidonia C.C. "Tiburtino" | [JD Sports](https://jdsports.com) | — | Jun 6 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4886120101) |
 | Driver - Light Vehicle | [Egis](https://egis-group.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000130630599) |
+| Sales Assistant (Part Time) - Guidonia C.C. "Tiburtino" | [JD Sports](https://jdsports.com) | — | Jun 6 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4886118101) |
+| Stage Sales Assistant - Forlì C.C. "Punta di Ferro" | [JD Sports](https://jdsports.com) | — | Jun 6 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4886073101) |
 | Junior Creative Marketing Specialist (TikTok) | [Holywater](https://holywater.com) | — | Jun 6 | [Apply](https://jobs.ashbyhq.com/holywater/918f740a-1f3a-4aae-a118-dc4b58fc0f5f) |
 | Busser - Soho House Holloway (Part-Time) | [Soho House](https://sohohouse.com) | — | Jun 6 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4872343101) |
 | Data Center Operations Tier 1 Technician | [LightEdge](https://lightedge.com) | — | Jun 6 | [Apply](https://jobs.lever.co/lightedge/57864062-c7ec-4874-912b-8b78dd10eb32) |
@@ -67,9 +74,12 @@ Remote jobs open to candidates with 0–2 years of experience. A real way in —
 | Chauffeur / Préparateur de commandes polyvalent H/F | [Genpak LLC](https://genpak-llc-2) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000130537398) |
 | Campus Receptionist | [Aviation Institute of Maintenance](https://aviationmaintenance.edu) | $22/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/aviationinstituteofmaintenance/jobs/5249230008) |
 | Automatic Door Installer | [DH Pace Company](https://dhpace.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5249229008) |
+| Automatic Door Technician | [DH Pace Company](https://dhpace.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5249225008) |
 | Junior inköpare och testare till vår station i Sundsvall | [AUTO1 Group](https://auto1-group.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000130530710) |
 | Automatic Door Installer | [DH Pace Company](https://dhpace.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5249203008) |
+| Automatic Door Technician | [DH Pace Company](https://dhpace.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5249198008) |
 | Assistant clientèle | [Genpak LLC](https://genpak-llc-2) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000130529739) |
+| Stage Sales Assistant - Fiumicino Parco Commerciale "Da Vinci" | [JD Sports](https://jdsports.com) | — | Jun 5 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4885146101) |
 | Versant Academic Year Internships: Platform Engineering (Fandango, GolfNow, Rotten Tomatoes) | [Versant](https://versant.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Versant3/postings/744000130519424) |
 | English Speaking Support Associate Part-Time (Onsite) | [Wolt](https://wolt.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7984874) |
 | Sales Assistant Part Time (Categorie Protette) - Antegnate C.C. "Antegnate Gran Shopping" | [JD Sports](https://jdsports.com) | — | Jun 5 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4885136101) |

@@ -2,7 +2,7 @@
 
 Project and program management roles across tech, operations, and enterprise.
 
-**104 open roles** — Last updated: 2026-06-07
+**107 open roles** — Last updated: 2026-06-07
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -11,6 +11,9 @@ Project and program management roles across tech, operations, and enterprise.
 | Program PMO Manager, Chandler, AZ - Semiconductor Basebuild | [World Wide Professional Solutions](https://worldwideprofessionalsolutions.com) | — | Jun 5 | [Apply](https://jobs.lever.co/wwprosolutions/91d45b5e-da3a-4c0d-918c-d3cb6a451411) |
 | Staff Program Manager - M&A Integration | [IonQ](https://ionq.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/ionq/jobs/6015458004) |
 | Senior Project Manager - Rail and Roads | [NBCUniversal](https://nbcuniversal.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130559839) |
+| Senior Technical Project Manager - Martech | [VML MAP](https://vml-map.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/map/jobs/8580496002) |
+| Senior Technical Project Manager - Martech | [VML MAP](https://vml-map.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/map/jobs/8580492002) |
+| Senior Technical Project Manager - Martech | [VML MAP](https://vml-map.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/map/jobs/8580463002) |
 | Project Director - Utilities | [NBCUniversal](https://nbcuniversal.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130547299) |
 | Project Manager | [AECOM](https://aecom.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000130546700) |
 | Assistant Project Director - Utilities | [NBCUniversal](https://nbcuniversal.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130545723) |
