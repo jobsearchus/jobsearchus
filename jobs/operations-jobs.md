@@ -2,15 +2,20 @@
 
 Remote operations and business operations roles across industries.
 
-**1029 open roles** — Last updated: 2026-06-06
+**1039 open roles** — Last updated: 2026-06-07
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | Cleaner weekend | [Greene King](https://greeneking.co.uk) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/GreeneKing/postings/744000130641019) |
+| MODELE ROADY - RECEPTIONNAIRE ATELIER (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130639840) |
 | Magasinier / Responsable de réserve | [JYSK](https://jysk.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000130639029) |
+| Assistant Store Manager (efood market) - Αττική | [Delivery Hero](https://deliveryhero.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000130638399) |
 | Recruiting Coordinator | [OpenWork](https://openworklabs.com) | $25K/yr | Jun 6 | [Apply](https://job-boards.greenhouse.io/openwork/jobs/4274608009) |
+| Yard Driver | [Domino's](https://dominos.com) | $26/yr | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130633699) |
+| CDL A Yard Driver | [Domino's](https://dominos.com) | $26/yr | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130632935) |
+| Warehouse Associate | [Domino's](https://dominos.com) | $21/yr | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130632974) |
 | AC Technician  | [ACCOR](https://group.accor.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130632139) |
 | Workplace Manager- Gurgaon | [G2](https://g2.com) | — | Jun 6 | [Apply](https://jobs.ashbyhq.com/g2/51c11a15-42c0-45e2-a771-f767107e33df) |
 | Driver - Light Vehicle | [Egis](https://egis-group.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000130630599) |
@@ -23,6 +28,7 @@ Remote operations and business operations roles across industries.
 | Senior FPGA Engineer | [DRW](https://drw.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7986135) |
 | Maintenance Planner (Maintenance System Coordinator) | [Continental](https://continentalserves.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000130593374) |
 | Automotive Technician / Mechanic - Up To $55/hr. & Climate-Controlled Shop - Katy Grand Parkway | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | $55/yr | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000130592180) |
+| SIOP Operation Manager | [Continental](https://continentalserves.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000130589999) |
 | Director/Senior Director of Asset Quality Assurance | [Formation Bio](https://formation.bio) | $178K–$222K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/formationbio/jobs/7972582) |
 | Shuttle Driver / Guest Relations Specialist - Weekends Off - Forney | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000130586600) |
 | Automotive Technician / Mechanic - Up to $65/HR* & Fully Air-Conditioned Shop - Folly Road | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | $65/yr | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000130584666) |
@@ -47,6 +53,7 @@ Remote operations and business operations roles across industries.
 | AI Quality Evaluator - Arabic  | [Canva](https://canva.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Canva/postings/6000000001135987) |
 | Production Manager | [Avery Dennison](https://averydennison.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000130547121) |
 | Supply Chain Supervisor | [Avery Dennison](https://averydennison.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000130549239) |
+| Vehicle or Commodity Specialist | [MSX International](https://msxi.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013492727) |
 | Housekeeper - Janitor | [Crestwood Behavioral Health](https://crestwoodbehavioralhealth.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/crestwoodcareers/jobs/7764686003) |
 | Reporting Manager | [AECOM](https://aecom.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000130543970) |
 | Référent Back Office Planning - CDD 9 mois (H/F) | [AUTO1 Group](https://auto1-group.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000130538792) |
@@ -62,8 +69,11 @@ Remote operations and business operations roles across industries.
 | GTM Strategy and Operations Director - EMEA | [The Trade Desk](https://thetradedesk.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5156564007) |
 | Ведущий специалист по планированию производства | [Syngenta](https://syngenta.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000130503125) |
 | Key Account Manager  - Retail | [Wolt](https://wolt.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7984611) |
+| Specialist, Onboarding | [Standard Bank](https://standardbank.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000130502244) |
 | Customer Success Manager  | [VusionGroup SA](https://vusiongroup.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/VusionGroupSA/postings/744000130498180) |
 | Business Analyst - Confirmé - H/F | [Inetum](https://inetum.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000130499925) |
+| DIRECTEUR DE PROJET ERP DYNAMICS H/F | [Inetum](https://inetum.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000130497646) |
+| Head, Enterprise Banking | [Standard Bank](https://standardbank.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000130491084) |
 | Stock Manager | [Gymshark](https://gymshark.com) | — | Jun 5 | [Apply](https://job-boards.eu.greenhouse.io/gymshark/jobs/4884532101) |
 | Outbye Superintendent | [Anglo American](https://angloamerican.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000130353279) |
 | Warehouse Group Leader | [Avery Dennison](https://averydennison.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000130352579) |

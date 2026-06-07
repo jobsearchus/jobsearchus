@@ -2,13 +2,15 @@
 
 Backend, server-side, and API engineering roles. Node.js, Python, Go, Ruby, Java and beyond.
 
-**62 open roles** — Last updated: 2026-06-06
+**64 open roles** — Last updated: 2026-06-07
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | Backend Engineer | [Upfront](https://tryupfront.com) | — | Jun 6 | [Apply](https://upfront.recruitee.com/o/backend-engineer/c/new) |
+| Sr Software Engineer Backend | [Delivery Hero](https://deliveryhero.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000130564509) |
+| Sr Software Engineer Backend | [Delivery Hero](https://deliveryhero.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000130564019) |
 | Senior SFCC Multicloud Backend Engineer | [Genpak LLC](https://genpak-llc-2) | — | Jun 4 | [Apply](https://job-boards.eu.greenhouse.io/valtech/jobs/4880632101) |
 | Senior Backend Engineer, Content Creation | [Box](https://box.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/boxinc/jobs/7962290) |
 | Staff Software Engineer – Backend (Python / Typescript / Big Data / AWS / Kubernetes) | [Varicent](https://varicent.com) | — | Jun 3 | [Apply](https://job-boards.greenhouse.io/varicent/jobs/5240133008) |

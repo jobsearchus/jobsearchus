@@ -2,12 +2,17 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**1463 open roles** — Last updated: 2026-06-06
+**1470 open roles** — Last updated: 2026-06-07
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Analytics Engineer (ETL/ELT focused) - Design Marketplace - Mexico | [Truelogic](https://truelogic.com) | — | Jun 6 | [Apply](https://jobs.ashbyhq.com/truelogic/5276a678-6385-4fe1-b215-aa263e0537c3) |
+| Senior Analytics Engineer (ETL/ELT focused) - Design Marketplace - DR | [Truelogic](https://truelogic.com) | — | Jun 6 | [Apply](https://jobs.ashbyhq.com/truelogic/37c8a255-41f8-4459-8afb-984549ad6d6b) |
+| Senior Analytics Engineer (ETL/ELT focused) - Design Marketplace - Colombia | [Truelogic](https://truelogic.com) | — | Jun 6 | [Apply](https://jobs.ashbyhq.com/truelogic/ec798d5e-3979-4c92-ac7d-1484758776c4) |
+| Senior Staff Engineer, ERP Dynamics Functional (Finance) | [Nagarro](https://nagarro.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000130631319) |
+| Senior Staff Engineer, ERP Workday (Technical Consultant) | [Nagarro](https://nagarro.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000130629849) |
 | Senior Staff Engineer, ERP Workday (Functional Consultant) | [Nagarro](https://nagarro.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000130628859) |
 | Staff Engineer, ERP Workday (Technical Consultant) | [Nagarro](https://nagarro.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000130628839) |
 | Staff Engineer, ERP Workday (Functional Consultant) | [Nagarro](https://nagarro.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000130628779) |
@@ -31,6 +36,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | AI Product Engineer - ClickStack | [ClickHouse](https://clickhouse.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/clickhouse/jobs/6014112004) |
 | Staff Software Engineer | [Garner Health](https://getgarner.com) | $231K–$260K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/garnerhealth/jobs/6013546004) |
 | Senior Signaling and ATC Engineer | [Egis](https://egis-group.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000130562489) |
+| System Interface Manager | [Egis](https://egis-group.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000130561061) |
 | Lead data engineer & Team Lead | [VML MAP](https://vml-map.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/map/jobs/8580487002) |
 | Senior Technical Project Manager - Martech | [VML MAP](https://vml-map.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/map/jobs/8580490002) |
 | Technical Services Engineer | [NEC Software Solutions](https://necsoftwaresolutions.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/NECSWS/postings/744000130557749) |
@@ -61,6 +67,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Analyst - MDM (ANZ) | [WPP](https://wpp.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/wpp/jobs/8570401002) |
 | SPR Agronomist Coordinator | [Syngenta](https://syngenta.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000130503785) |
 | Grocery/Warehouse Associate - შეკვეთების შემგროვებელი/საწყობის თანამშრომელი | [Wolt](https://wolt.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7984718) |
+| Team lead CRM Dynamics - H/F | [Inetum](https://inetum.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000130497201) |
 | Praktikant (w/m/d) Energiewende und Wasserstoff | [Drees & Sommer](https://dreso.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000130493909) |
 | Praktikant (w/m/d) Energiewende und Wasserstoff | [Drees & Sommer](https://dreso.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000130493759) |
 | Senior Hardware Engineer | [BESIX](https://besix.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000130481690) |

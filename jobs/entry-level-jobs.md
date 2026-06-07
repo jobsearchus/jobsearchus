@@ -2,13 +2,20 @@
 
 Remote jobs open to candidates with 0–2 years of experience. A real way in — no degree gatekeeping.
 
-**967 open roles** — Last updated: 2026-06-06
+**975 open roles** — Last updated: 2026-06-07
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Second de cuisine H/F | [ACCOR](https://group.accor.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130643849) |
+| Delivery Driver (05376) - 12009 HWY 231/431 N | [Domino's](https://dominos.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130641909) |
+| Catering & Conference Services Manager | [ACCOR](https://group.accor.com) | $78K–$85K/yr | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130641619) |
+| Vendeur / Vendeuse CDI -  35 d'heures (H/F) | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000130641199) |
 | Cleaner weekend | [Greene King](https://greeneking.co.uk) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/GreeneKing/postings/744000130641019) |
+| ELS POLYVALENT H/F | [Genpak LLC](https://genpak-llc-2) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130640329) |
+| INTERMARCHE - CDD- HÔTE DE CAISSE CONTRAT 13 heures (H/F)  | [Genpak LLC](https://genpak-llc-2) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130639749) |
+| EMPLOYE COMMERCIAL POLYVALENT (H/F)  36H75 CDI MI AOUT | [Genpak LLC](https://genpak-llc-2) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130638809) |
 | RETAIL ASSISTANT - NIGHT SHIFT | [Primark Tiendas SLU](https://primark.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000130638739) |
 | RETAIL ASSISTANT - NIGHT SHIFT | [Primark Tiendas SLU](https://primark.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000130638719) |
 | Sales Assistant part-time C.C. “Punta di Ferro” | [JD Sports](https://jdsports.com) | — | Jun 6 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4886392101) |
@@ -35,6 +42,7 @@ Remote jobs open to candidates with 0–2 years of experience. A real way in —
 | ESTAGIÁRIO TÉCNICO - OPERAÇÃO MÁQUINAS | [O-I Glass](https://o-i.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/O-I/postings/744000130581819) |
 | RETAIL ASSISTANT - WEEKEND ONLY | [Primark Tiendas SLU](https://primark.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000130580399) |
 | Fund Reporting - Analyst | [iCapital](https://icapital.com) | $70K–$85K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8580782002) |
+| TT Quality Technician  | [Continental](https://continentalserves.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000130579152) |
 | Fund Reporting - Analyst | [iCapital](https://icapital.com) | $70K–$85K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8580065002) |
 | ESTAGIÁRIO TÉCNICO - MECANIZAÇÃO E INSPEÇÃO AUTOMÁTICA | [O-I Glass](https://o-i.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/O-I/postings/744000130579769) |
 | ESTAGIÁRIO EHS  | [O-I Glass](https://o-i.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/O-I/postings/744000130578759) |

@@ -2,12 +2,13 @@
 
 QA, test automation, and SDET roles. Manual and automated testing across all stacks.
 
-**47 open roles** — Last updated: 2026-06-06
+**48 open roles** — Last updated: 2026-06-07
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Corporate IT Automation Engineer | [Tempo Software](https://temposoftware.com) | — | Jun 6 | [Apply](https://jobs.ashbyhq.com/tempo-io/ba2b3a6b-8be3-4f8a-9e11-2a33650d522e) |
 | Middle QA Automation Engineer (Python) | [Miratech](https://miratech.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000130506765) |
 | Senior QA Automation Engineer (Python) | [Miratech](https://miratech.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000130511519) |
 | Quality Assurance Engineer | [Seesaw](https://seesaw.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/seesaw/jobs/4686715006) |

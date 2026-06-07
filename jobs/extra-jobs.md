@@ -2,13 +2,23 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**990 open roles** — Last updated: 2026-06-06
+**1007 open roles** — Last updated: 2026-06-07
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Second de cuisine H/F | [ACCOR](https://group.accor.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130643849) |
+| Assistant Manager | [Domino's](https://dominos.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130642219) |
+| Business Analyst | [Accenture Federal Services](https://accenturefederalservices.com) | — | Jun 6 | [Apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4687456006?gh_jid=4687456006) |
+| Delivery Driver (05376) - 12009 HWY 231/431 N | [Domino's](https://dominos.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130641909) |
+| Catering & Conference Services Manager | [ACCOR](https://group.accor.com) | $78K–$85K/yr | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130641619) |
+| Vendeur / Vendeuse CDI -  35 d'heures (H/F) | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000130641199) |
+| ELS POLYVALENT H/F | [Genpak LLC](https://genpak-llc-2) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130640329) |
+| MODELE ROADY - MECANICIEN CONFIRME (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130639899) |
+| INTERMARCHE - CDD- HÔTE DE CAISSE CONTRAT 13 heures (H/F)  | [Genpak LLC](https://genpak-llc-2) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130639749) |
 | Associate Business Director | [WPP Media](https://wppmedia.com) | — | Jun 6 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5207480008) |
+| EMPLOYE COMMERCIAL POLYVALENT (H/F)  36H75 CDI MI AOUT | [Genpak LLC](https://genpak-llc-2) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130638809) |
 | RETAIL ASSISTANT - NIGHT SHIFT | [Primark Tiendas SLU](https://primark.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000130638739) |
 | RETAIL ASSISTANT - NIGHT SHIFT | [Primark Tiendas SLU](https://primark.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000130638719) |
 | Guest Relation H/F - Hostellerie de Levernois | [Relais & Châteaux](https://relaischateaux.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000130637569) |
@@ -17,6 +27,7 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Part Time Sales Assistant- JYSK Mahon Point | [JYSK](https://jysk.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000130636640) |
 | Chef de Partie (H/F) - Villa Gallici | [Relais & Châteaux](https://relaischateaux.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000130636689) |
 | Vice Store Manager 30-40 h SOSTITUZIONE MATERNITà LUNGA- MANTOVA  | [JYSK](https://jysk.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000130636539) |
+| Supervisor  | [Frasers Group](https://frasersgroup.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000130633649) |
 | Chef de rang-Serveur confirmé - semaine en 4 jours | [ACCOR](https://group.accor.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130632255) |
 | F&B Executive | [ACCOR](https://group.accor.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130631459) |
 | Director of Food & Beverage | [ACCOR](https://group.accor.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130630889) |
@@ -33,7 +44,9 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Clinical Lab Operator I | [Natera](https://natera.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/natera/jobs/5775499004) |
 | Veterinary Technician - Surgery | [Veritas Veterinary Partners](https://veritasveterinarypartners.com) | $23/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/veritasvetpartners/jobs/5249765008) |
 | RETAIL ASSISTANT - WEEKEND ONLY | [Primark Tiendas SLU](https://primark.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000130580399) |
+| TT Quality Technician  | [Continental](https://continentalserves.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000130579152) |
 | General Service Technician / Mechanic - Weekends Off - Weatherford | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000130578840) |
+| Rector - Tantur Ecumenical institute | [University of Notre Dame](https://universityofnotredame.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013497817) |
 | Veterinary Technician - Swing | [Veritas Veterinary Partners](https://veritasveterinarypartners.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/veritasvetpartners/jobs/5249676008) |
 | Veterinary Technician - Surgery | [Veritas Veterinary Partners](https://veritasveterinarypartners.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/veritasvetpartners/jobs/5249675008) |
 | Director - Channel & Alliances Strategy | [Freshworks](https://freshworks.com) | $214K–$264K/yr | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000130572432) |
@@ -49,10 +62,14 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Sales Assistant Part Time (Categorie Protette) - Antegnate C.C. "Antegnate Gran Shopping" | [JD Sports](https://jdsports.com) | — | Jun 5 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4885136101) |
 | Busser - Soho House Austin | [Soho House](https://sohohouse.com) | — | Jun 5 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4884030101) |
 | Runner | [Genpak LLC](https://genpak-llc-2) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000130520511) |
+| Dental Receptionist, Bromley | [PortmanDentex](https://portmandentex.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000130516309) |
 | Product/Application Support Specialist  | [WIN Home Inspection](https://winhomeinspection.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/winhomeinspection/jobs/4687161006) |
+| Consultant(e) Fonctionnel(le) Finance – ERP Dynamics Senior H/F | [Inetum](https://inetum.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000130495122) |
 | Senior Certification Manager | [Vertical Aerospace](https://vertical-aerospace.com) | — | Jun 5 | [Apply](https://jobs.ashbyhq.com/vertical-aerospace/cce1b3ad-fc26-40a6-bf93-481d3e757fc5) |
 | Administrativo/a Automoción - Figueres (Girona) | [AUTO1 Group](https://auto1-group.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000130426349) |
 | Junior Vehicle Pricing Specialist | [AUTO1 Group](https://auto1-group.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000130421676) |
+| Manager, Property Leasing Administration (Real Estate Services - Retail )   | [Standard Bank](https://standardbank.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000130414999) |
+| Vice Regional Manager Piemonte - Gestione Filiali Noicompriamoauto.it | [AUTO1 Group](https://auto1-group.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000130399349) |
 | Assistant Manager - Affi C.C. "Grand'Affi Shopping Center" | [JD Sports](https://jdsports.com) | — | Jun 5 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4884435101) |
 | Store Manager - Lonato del Garda C.C. "Il Leone" | [JD Sports](https://jdsports.com) | — | Jun 5 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4884374101) |
 | Equipier d'étage - Extra (H/F) | [ACCOR](https://group.accor.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130370179) |

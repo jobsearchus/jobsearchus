@@ -2,7 +2,7 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**888 open roles** — Last updated: 2026-06-06
+**891 open roles** — Last updated: 2026-06-07
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -22,10 +22,13 @@ Remote sales roles — account executives, SDRs, and enterprise deals.
 | BizDev IV - Crédito e Plataformas de Decisão | [Experian](https://experianplc.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000130601609) |
 | BizDev IV - Crédito e Plataformas de Decisão | [Experian](https://experianplc.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000130601559) |
 | BizDev IV - Crédito e Plataformas de Decisão | [Experian](https://experianplc.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000130601399) |
+| Gerente de Novos Negócios  | [Experian](https://experianplc.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000130601239) |
+| Gerente de Novos Negócios  | [Experian](https://experianplc.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000130601199) |
 | Business Development Executive Sr | [Delivery Hero](https://deliveryhero.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000130598859) |
 | Professional Services Engagement Manager | [GitLab](https://about.gitlab.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8579044002) |
 | Agente Stone - Consultor(a) Comercial Externo -  Maracanaú/CE | [Stone](https://stone.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/stone/jobs/7765203003) |
 | Agente Stone - Consultor(a) Comercial Externo -  Fortaleza/CE | [Stone](https://stone.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/stone/jobs/7765202003) |
+| BestDrive Commercial Sales Associate (EG) | [Continental](https://continentalserves.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000130589014) |
 | Technical Account Manager, Mid-Market | [Hightouch](https://hightouch.com) | $165K–$200K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/hightouch/jobs/6015438004) |
 | Account Director - Public Safety | [NEC Software Solutions](https://necsoftwaresolutions.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/NECSWS/postings/744000130578706) |
 | Salesforce Solution Engineer,  RCA & RCB | [NeuraFlash](https://neuraflash.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/neuraflash/jobs/6015378004) |

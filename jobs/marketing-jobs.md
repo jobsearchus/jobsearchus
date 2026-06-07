@@ -2,7 +2,7 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**339 open roles** — Last updated: 2026-06-06
+**340 open roles** — Last updated: 2026-06-07
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -10,6 +10,7 @@ Remote marketing roles across growth, content, brand, and performance channels.
 | --- | --- | --- | --- | --- |
 | Marketing Engineer, AI Deployment | [Figma](https://figma.com) | — | Jun 5 | [Apply](https://boards.greenhouse.io/figma/jobs/6013495004?gh_jid=6013495004) |
 | MHV Marketing Intern | [McWane](https://mcwane.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/McWaneInc/postings/3743990013499066) |
+| Marketing Manager Housing - Remote | [Experian](https://experianplc.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000130573057) |
 | Digital Marketing Campaign Specialist (New Business Acquisition) | [Freshworks](https://freshworks.com) | $130K–$162K/yr | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000130573731) |
 | AI Product Engineer - ClickStack | [ClickHouse](https://clickhouse.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/clickhouse/jobs/6014113004) |
 | Brand Assurance Lead - Consumer Products | [Mob Entertainment](https://mobentertainment.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/mobentertainment/jobs/5157277007) |

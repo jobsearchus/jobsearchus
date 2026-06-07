@@ -2,12 +2,13 @@
 
 Remote administrative and executive assistant roles across industries.
 
-**35 open roles** — Last updated: 2026-06-06
+**36 open roles** — Last updated: 2026-06-07
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Administrative Assistant - Landscape Services | [University of Notre Dame](https://universityofnotredame.com) | $22/yr | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013498706) |
 | Office Administrator | [JustMarkets](https://justmarkets.com) | — | Jun 5 | [Apply](https://job-boards.eu.greenhouse.io/justmarkets/jobs/4879612101) |
 | Admin Business Partner | [Canva](https://canva.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001135758) |
 | Branch Support Representative | [DH Pace Company](https://dhpace.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5240181008) |
