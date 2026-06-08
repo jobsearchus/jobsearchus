@@ -2,14 +2,16 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**458 open roles** — Last updated: 2026-06-08
+**460 open roles** — Last updated: 2026-06-08
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Mortgage Loan Processor- High Net Worth Loans | [Genpak LLC](https://genpak-llc-2) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000130854930) |
 | Equity Analyst & Reporter | [Versant](https://versant.com) | $100K–$125K/yr | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/Versant3/postings/744000130803969) |
 | Application Security Engineer | [Paystack](https://paystack.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/paystack/jobs/8581608002) |
+| Treasury Analyst | [Convera](https://convera.com) | — | Jun 8 | [Apply](https://job-boards.eu.greenhouse.io/convera/jobs/4880920101) |
 | Officer, Operational Risk, Stanbic IBTC Insurance Limited | [Standard Bank](https://standardbank.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000130673219) |
 | Assistant Manager, Fund Administration (AML) | [Juniper Square](https://junipersquare.com) | — | Jun 5 | [Apply](https://jobs.ashbyhq.com/junipersquare/49c4d98e-ad3a-4cd5-a62f-c8b23c512cce) |
 | Senior Project Cost Accountant | [KPFF Consulting Engineers](https://kpff.com) | $90K–$120K/yr | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/KPFFConsultingEngineers/postings/3743990013504766) |

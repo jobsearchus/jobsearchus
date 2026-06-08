@@ -2,13 +2,14 @@
 
 Remote customer support and success roles across SaaS, e-commerce, and tech.
 
-**273 open roles** — Last updated: 2026-06-08
+**274 open roles** — Last updated: 2026-06-08
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | Consultant, Customer Experience | [Standard Bank](https://standardbank.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000130850839) |
+| Customer Support Specialist with German & English (Remote - Antivirus Software) | [Genpak LLC](https://genpak-llc-2) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000130848526) |
 | Customer Service Rep(09665) - 661 NW 32nd St | [Domino's](https://dominos.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130694390) |
 | Customer Service Rep (03154) - 537 US Highway 41 Byp N. | [Domino's](https://dominos.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130695079) |
 | Customer Service Rep(05380) - 644 Jeff Rd. | [Domino's](https://dominos.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130674709) |

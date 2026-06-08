@@ -2,13 +2,18 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**637 open roles** — Last updated: 2026-06-08
+**642 open roles** — Last updated: 2026-06-08
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| QA Automation Engineer | [Slingshot Aerospace](https://slingshotaerospace.com) | $105K–$160K/yr | Jun 8 | [Apply](https://job-boards.greenhouse.io/slingshotaerospace/jobs/6016469004?gh_jid=6016469004) |
+| Senior Client Solution Architect (Remote) | [Myriad360](https://myriad360.com) | $250K–$275K/yr | Jun 8 | [Apply](https://boards.greenhouse.io/myriad360/jobs/8582560002?gh_jid=8582560002) |
+| Senior Client Solution Architect (Remote) | [Myriad360](https://myriad360.com) | $250K–$275K/yr | Jun 8 | [Apply](https://boards.greenhouse.io/myriad360/jobs/8582554002?gh_jid=8582554002) |
+| Lead Solutions Consultant - US | [Perk](https://perk.com) | $141K–$165K/yr | Jun 8 | [Apply](https://jobs.ashbyhq.com/perk/cbdc07f0-ee67-4b2c-b1e6-9d4f6c6b53fa) |
 | Equity Analyst & Reporter | [Versant](https://versant.com) | $100K–$125K/yr | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/Versant3/postings/744000130803969) |
+| Solutions Development Architect : Datacenter (Remote) | [Myriad360](https://myriad360.com) | $150K–$180K/yr | Jun 8 | [Apply](https://boards.greenhouse.io/myriad360/jobs/8575489002?gh_jid=8575489002) |
 | Director of Client Engineering | [Tide](https://tide.com) | €100K–€142K/yr | Jun 8 | [Apply](https://job-boards.greenhouse.io/tide/jobs/7765740003) |
 | Territory Sales Enrollment Director - Senior Care (SF South Bay) | [Pine Park Health](https://pineparkhealth.com) | $110K–$140K/yr | Jun 7 | [Apply](https://job-boards.greenhouse.io/pineparkhealth/jobs/6015905004) |
 | Project Lead | [Fluidstack](https://fluidstack.com) | $160K–$250K/yr | Jun 7 | [Apply](https://jobs.ashbyhq.com/fluidstack/344b7b07-6580-475f-a25c-d98b4defbf3f) |

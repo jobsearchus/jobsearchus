@@ -2,14 +2,28 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**1515 open roles** — Last updated: 2026-06-08
+**1529 open roles** — Last updated: 2026-06-08
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| [Job- 29771] Software Architect Senior, Brazil | [CI&T](https://cit.com) | — | Jun 8 | [Apply](https://jobs.lever.co/ciandt/7d37c726-8d13-49c5-bda5-05bdd6638991) |
+| Senior Client Solution Architect (Remote) | [Myriad360](https://myriad360.com) | $250K–$275K/yr | Jun 8 | [Apply](https://boards.greenhouse.io/myriad360/jobs/8582560002?gh_jid=8582560002) |
+| Senior Client Solution Architect (Remote) | [Myriad360](https://myriad360.com) | $250K–$275K/yr | Jun 8 | [Apply](https://boards.greenhouse.io/myriad360/jobs/8582554002?gh_jid=8582554002) |
+| Senior Data Analyst, Growth Product | [Chime](https://chime.com) | $15K/yr | Jun 8 | [Apply](https://boards.greenhouse.io/chime/jobs/8580595002?gh_jid=8580595002) |
+| [Job - 29755] Senior Data Analyst (Google Analytics/Martech), Brazil | [CI&T](https://cit.com) | — | Jun 8 | [Apply](https://jobs.lever.co/ciandt/0281a4dd-ee59-4321-a5ba-ad32cbb0b2e1) |
+| Data Engineer- GCP | [Lingaro](https://lingaro.com) | — | Jun 8 | [Apply](https://jobs.lever.co/lingarogroup/75075431-2430-496b-a829-a46fae9a9c82) |
+| Data Engineer - Azure | [Lingaro](https://lingaro.com) | — | Jun 8 | [Apply](https://jobs.lever.co/lingarogroup/a9e19f55-31b7-4977-8d36-9553732a4b88) |
+| Research Lead, New AI Products & Platforms | [The New York Times](https://thenewyorktimes.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4703588005) |
+| ETL Engineer SME | [AnaVation](https://anavation.com) | — | Jun 8 | [Apply](https://jobs.lever.co/anavationllc/5540f02a-0bb4-4fdc-9575-4b6c9e0c5777) |
+| Senior TypeScript Engineer | [RTB House](https://rtbhouse.com) | — | Jun 8 | [Apply](https://job-boards.eu.greenhouse.io/rtbhouse/jobs/4889082101) |
+| MedChron SME | [Filevine](https://filevine.com) | — | Jun 8 | [Apply](https://jobs.lever.co/filevine/f4bbb273-e769-4cbd-afdf-5e9ce277f552) |
+| Staff Software Engineer  | [RTB House](https://rtbhouse.com) | — | Jun 8 | [Apply](https://job-boards.eu.greenhouse.io/rtbhouse/jobs/4888309101) |
 | SPR Sunflower Parental Characterization Coordinator  | [Syngenta](https://syngenta.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000130795399) |
 | Staff Software Engineer (.Net and AWS) | [Diligent Corporation](https://diligent.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/diligentcorporation/jobs/5988542004) |
+| Solutions Development Architect : Datacenter (Remote) | [Myriad360](https://myriad360.com) | $150K–$180K/yr | Jun 8 | [Apply](https://boards.greenhouse.io/myriad360/jobs/8575489002?gh_jid=8575489002) |
+| Express Reporter, Western Canada | [The New York Times](https://thenewyorktimes.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4703175005) |
 | Estágio em Customer Success | [Syngenta](https://syngenta.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000130761700) |
 | Platform Security Engineer | [Paystack](https://paystack.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/paystack/jobs/8581614002) |
 | Localization Test Manager | [ŌURA](https://ouraring.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/oura/jobs/4272597009) |

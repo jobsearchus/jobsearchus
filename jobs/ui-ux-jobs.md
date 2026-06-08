@@ -2,12 +2,14 @@
 
 UX design, UI design, and product design roles. Figma, research, and end-to-end product work.
 
-**135 open roles** — Last updated: 2026-06-08
+**137 open roles** — Last updated: 2026-06-08
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Staff Product Designer (Grant OS) | [Instrumentl](https://instrumentl.com) | — | Jun 8 | [Apply](https://jobs.lever.co/Instrumentl/513688c0-2efa-442e-b4de-19f0da10519c) |
+| Product Management Intern, Device Trust - Fall 2026 | [1Password](https://1password.com) | — | Jun 8 | [Apply](https://jobs.ashbyhq.com/1password/97775e0c-57f4-4947-b129-0876211f4c5a) |
 | Designer - BIM, Structures - T&P, REC | [Ramboll](https://ramboll.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/Ramboll3/postings/744000130626549) |
 | Designer Advocate | [Figma](https://figma.com) | — | Jun 5 | [Apply](https://boards.greenhouse.io/figma/jobs/6014530004?gh_jid=6014530004) |
 | Praktikant/Werkstudent (w/m/d) Innen-/Architektur | [Drees & Sommer](https://dreso.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000130514082) |

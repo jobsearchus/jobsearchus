@@ -2,13 +2,15 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**344 open roles** — Last updated: 2026-06-08
+**346 open roles** — Last updated: 2026-06-08
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Field Marketing Manager | [Instrumentl](https://instrumentl.com) | — | Jun 8 | [Apply](https://jobs.lever.co/Instrumentl/e22a5f97-e72a-4bd7-94bc-075dc9539983) |
 | SVP Marketing | [AUTO1 Group](https://auto1-group.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000130858646) |
+| Media Planner | [Chime](https://chime.com) | $15K/yr | Jun 8 | [Apply](https://boards.greenhouse.io/chime/jobs/8581012002?gh_jid=8581012002) |
 | Senior Consultant(e) Digital Marketing (H/F) - CDI - Paris  | [LinkedIn Job Wrapping](https://artefact.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/artefactlinkedin/jobs/8581618002) |
 | Brand Management Specialist [L5~L6-I] (Beauty) | [Coupang](https://coupang.com) | — | Jun 8 | [Apply](https://boards.greenhouse.io/coupanginternal/jobs/7984342?gh_jid=7984342) |
 | Restaurant Promotions Specialist | [Wolt](https://wolt.com) | — | Jun 7 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7983192) |

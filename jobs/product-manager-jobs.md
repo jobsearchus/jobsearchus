@@ -2,12 +2,14 @@
 
 Product manager roles at companies building real products. Sourced directly from career pages.
 
-**168 open roles** — Last updated: 2026-06-08
+**170 open roles** — Last updated: 2026-06-08
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Product Design, Design & UX, Enterprise Password Manager Intern - Fall 2026 | [1Password](https://1password.com) | — | Jun 8 | [Apply](https://jobs.ashbyhq.com/1password/6d60d60c-4290-43e5-9de2-e771adf4a559) |
+| Lead Solutions Consultant - US | [Perk](https://perk.com) | $141K–$165K/yr | Jun 8 | [Apply](https://jobs.ashbyhq.com/perk/cbdc07f0-ee67-4b2c-b1e6-9d4f6c6b53fa) |
 | Product Manager | [WPP](https://wpp.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/wpp/jobs/8535550002) |
 | Product Management Analyst | [MEMX](https://memx.com) | $135K–$165K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/memx/jobs/5249873008) |
 | Learning Product Lead | [Entain](https://entaingroup.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Entain/postings/744000130548450) |

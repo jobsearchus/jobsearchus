@@ -2,12 +2,13 @@
 
 Backend, server-side, and API engineering roles. Node.js, Python, Go, Ruby, Java and beyond.
 
-**64 open roles** — Last updated: 2026-06-08
+**65 open roles** — Last updated: 2026-06-08
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Backend Engineer - Personalization | [Spotify](https://open.spotify.com) | — | Jun 8 | [Apply](https://jobs.lever.co/spotify/aac09f2d-e0cc-43e1-8435-01e60e426520) |
 | Backend Engineer | [Upfront](https://tryupfront.com) | — | Jun 6 | [Apply](https://upfront.recruitee.com/o/backend-engineer/c/new) |
 | Sr Software Engineer Backend | [Delivery Hero](https://deliveryhero.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000130564509) |
 | Sr Software Engineer Backend | [Delivery Hero](https://deliveryhero.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000130564019) |

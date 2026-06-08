@@ -2,14 +2,19 @@
 
 Remote operations and business operations roles across industries.
 
-**1085 open roles** — Last updated: 2026-06-08
+**1090 open roles** — Last updated: 2026-06-08
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Logistics Performance Sr Analyst | [Delivery Hero](https://deliveryhero.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000130860069) |
 | Facility Manager (d/m/w)  | [AUTO1 Group](https://auto1-group.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000130838818) |
+| Harvesting Mechanic | [Super-Sod](https://supersod.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/supersod/jobs/5249550008) |
+| Project Scheduler | [Mariana Minerals](https://marianaminerals.com) | — | Jun 8 | [Apply](https://jobs.ashbyhq.com/marianaminerals/86661368-ecf7-4da9-a82b-fb089b8ec461) |
+| Lifecycle Operations Lead, Time & Attendance | [Remote](https://remote.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/remotecom/jobs/7764990003) |
 | Experienced Consultant: Industrials & Automotive / Strategy & Operations (m/f/d) | [Roland Berger](https://rolandberger.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/RolandBerger/postings/744000130807021) |
+| Chargé d'opérations Retail Media / Alternance 2 ans | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000130793020) |
 | Technik urządzeń kontrolnych - maszyny kontrolne (k/m) | [O-I Glass](https://o-i.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/O-I/postings/744000130786144) |
 | Coordenador de Barter | [Syngenta](https://syngenta.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000130786468) |
 | Shift Lead, Partner Service | [Delivery Hero](https://deliveryhero.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000130725420) |

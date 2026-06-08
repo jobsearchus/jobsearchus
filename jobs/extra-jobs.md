@@ -2,12 +2,16 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**1056 open roles** — Last updated: 2026-06-08
+**1061 open roles** — Last updated: 2026-06-08
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Staff Software Engineer | [GiveCampus](https://givecampus.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/givecampus/jobs/4278428009) |
+| Product Management Intern, Unified Access - Fall 2026 | [1Password](https://1password.com) | — | Jun 8 | [Apply](https://jobs.ashbyhq.com/1password/f1bcc5f9-c715-468e-905c-b3f96f7dd1a6) |
+| Manager, Chief International Officer (CIO) Office | [Delivery Hero](https://deliveryhero.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000130862409) |
+| Manager, Chief International Officer (CIO) Office | [Delivery Hero](https://deliveryhero.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000130860914) |
 | EMPLOYE COMMERCIAL (H/F) RAYON CHARCUTERIE TRAITEUR FROMAGE TRAD | [Genpak LLC](https://genpak-llc-2) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130854421) |
 | responsable Frais  | [Genpak LLC](https://genpak-llc-2) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130850613) |
 | PATISSIER | [Genpak LLC](https://genpak-llc-2) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130843387) |
@@ -17,6 +21,7 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Kennedy Valve- Commercial Cleaner    | [McWane](https://mcwane.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/McWaneInc/postings/3743990013511986) |
 | Spa Praticien(ne) polyvalent(e) en apprentissage (H/F) | [Relais & Châteaux](https://relaischateaux.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000130800170) |
 | Bar & Waiting Staff | [Greene King](https://greeneking.co.uk) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/GreeneKing/postings/744000130795828) |
+| Transformation, Change and Delivery Consultant | [Baringa](https://baringa.com) | — | Jun 8 | [Apply](https://job-boards.eu.greenhouse.io/baringa/jobs/4879336101) |
 | Spa Praticien(ne) polyvalent(e) - Spa Guerlain (H/F) | [Relais & Châteaux](https://relaischateaux.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000130794839) |
 | Chef de rang saisonnier(e) - La Terrasse Saint James Paris (H/F) | [Relais & Châteaux](https://relaischateaux.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000130791199) |
 | European Female Talent Program 2026 | [Roland Berger](https://rolandberger.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/RolandBerger/postings/744000130784934) |

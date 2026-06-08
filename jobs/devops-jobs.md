@@ -2,12 +2,13 @@
 
 DevOps, platform engineering, and infrastructure roles. AWS, GCP, Kubernetes, Terraform.
 
-**88 open roles** — Last updated: 2026-06-08
+**89 open roles** — Last updated: 2026-06-08
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| DevOps Engineer (Consulting sphere) | [Coherent Solutions](https://coherentsolutions.com) | — | Jun 8 | [Apply](https://job-boards.eu.greenhouse.io/coherentsolutions/jobs/4885077101) |
 | SO_IT Infrastructure Support Engineer–Storage and Server_TM_2026 | [Bosch](https://bosch.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/BoschGroup/postings/744000130665556) |
 | Senior DevOps Engineer | [SmithRx](https://smithrx.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/smithrx/jobs/8579519002) |
 | Platform Engineering Manager, Cloud Infrastructure | [Garner Health](https://getgarner.com) | $219K–$250K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/garnerhealth/jobs/6014311004) |

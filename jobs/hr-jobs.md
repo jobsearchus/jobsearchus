@@ -2,13 +2,19 @@
 
 Remote HR, recruiting, and people operations roles.
 
-**178 open roles** — Last updated: 2026-06-08
+**184 open roles** — Last updated: 2026-06-08
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| HR Back - office administrator with ITALIAN | [Genpak LLC](https://genpak-llc-2) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000130861420) |
+| JR Analista de Departamento Pessoal - Afirmativa para Pessoas com Deficiência (PCD) | [ília](https://lia.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/ilia/jobs/6016294004) |
+| Senior Technical Recruiter | [Mapbox](https://mapbox.com) | — | Jun 8 | [Apply](https://jobs.ashbyhq.com/mapbox/0214e461-fbc4-4e3b-99f9-55daabbd27f4) |
+| Lifecycle Operations Lead, Time & Attendance | [Remote](https://remote.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/remotecom/jobs/7766002003) |
+| Lifecycle Operations Lead, Time & Attendance | [Remote](https://remote.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/remotecom/jobs/7765999003) |
 | People & Culture Store Administrator  | [Primark Tiendas SLU](https://primark.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000130794630) |
+| Regional People Partner, Temporary  | [The Knot Worldwide](https://theknotworldwide.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/theknotworldwide/jobs/5248581008) |
 | Benefits Operations Specialist - EMEA | [Remote](https://remote.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/remotecom/jobs/7765727003) |
 | Chargé(e) de paie et d’administration du personnel (H/F)- CDI - Paris  | [LinkedIn Job Wrapping](https://artefact.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/artefactlinkedin/jobs/8581550002) |
 | People Advisor | [Ramboll](https://ramboll.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/Ramboll3/postings/744000130662869) |

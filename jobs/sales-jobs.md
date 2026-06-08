@@ -2,7 +2,7 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**916 open roles** — Last updated: 2026-06-08
+**918 open roles** — Last updated: 2026-06-08
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -12,6 +12,8 @@ Remote sales roles — account executives, SDRs, and enterprise deals.
 | Emploi Étudiant en Vente | [JYSK](https://jysk.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000130801140) |
 | ASISTENT/KA PRODEJE V PRODEJNĚ JYSK- možnost zkráceného úvazku - SA template | [JYSK](https://jysk.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000130800349) |
 | Sales Assistant NUOVA APERTURA  - Categoria Protetta L.68/99 - Romano di Lombardia (BG) | [JYSK](https://jysk.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000130799295) |
+| Inbound Sales Representative - French Market | [Tripadvisor](https://tripadvisor.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/tripadvisor/jobs/7959852) |
+| Sales Specialist | [Tide](https://tide.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/tide/jobs/7713104003) |
 | Sales Enablement Specialist Nordics | [RTB House](https://rtbhouse.com) | — | Jun 8 | [Apply](https://job-boards.eu.greenhouse.io/rtbhouse/jobs/4884650101) |
 | Senior Channel Manager | [Veeam Software](https://veeam.com) | — | Jun 8 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4881503101) |
 | (Senior) Laser Scientist (f/m/x) | [Marvel Fusion](https://marvelfusion.com) | — | Jun 8 | [Apply](https://job-boards.eu.greenhouse.io/marvelfusion/jobs/4888231101) |

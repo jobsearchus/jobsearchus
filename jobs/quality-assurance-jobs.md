@@ -2,12 +2,13 @@
 
 QA, test automation, and SDET roles. Manual and automated testing across all stacks.
 
-**48 open roles** — Last updated: 2026-06-08
+**49 open roles** — Last updated: 2026-06-08
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| QA Automation Engineer | [Slingshot Aerospace](https://slingshotaerospace.com) | $105K–$160K/yr | Jun 8 | [Apply](https://job-boards.greenhouse.io/slingshotaerospace/jobs/6016469004?gh_jid=6016469004) |
 | Corporate IT Automation Engineer | [Tempo Software](https://temposoftware.com) | — | Jun 6 | [Apply](https://jobs.ashbyhq.com/tempo-io/ba2b3a6b-8be3-4f8a-9e11-2a33650d522e) |
 | Middle QA Automation Engineer (Python) | [Miratech](https://miratech.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000130506765) |
 | Senior QA Automation Engineer (Python) | [Miratech](https://miratech.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000130511519) |

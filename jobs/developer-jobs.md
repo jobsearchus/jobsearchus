@@ -2,12 +2,13 @@
 
 General developer and programmer roles that did not fit a more specific category.
 
-**105 open roles** — Last updated: 2026-06-08
+**106 open roles** — Last updated: 2026-06-08
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| [Job 29813] Developer  React Pleno | [CI&T](https://cit.com) | — | Jun 8 | [Apply](https://jobs.lever.co/ciandt/31b39968-ed75-4a2f-a7bc-3794106291c8) |
 | Clow Valve - Foundry Tooling Center CNC Programmer | [McWane](https://mcwane.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/McWaneInc/postings/3743990013510866) |
 | Senior PHP Developer | [INGENIOUS.BUILD](https://ingeniousbuild.com) | — | Jun 7 | [Apply](https://job-boards.greenhouse.io/ingenious/jobs/4703784005) |
 | Android Developer | [Applaudo](https://applaudo.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/ApplaudoStudios/postings/744000130596870) |
