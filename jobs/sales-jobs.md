@@ -2,13 +2,15 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**904 open roles** — Last updated: 2026-06-07
+**906 open roles** — Last updated: 2026-06-08
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Verkoopmedewerker vakantie - Arnhem | [Frasers Group](https://frasersgroup.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000130673229) |
 | Territory Sales Enrollment Director - Senior Care (SF South Bay) | [Pine Park Health](https://pineparkhealth.com) | $110K–$140K/yr | Jun 7 | [Apply](https://job-boards.greenhouse.io/pineparkhealth/jobs/6015905004) |
+| Territory Account Executive, Digital Native (Hong Kong) | [Cloudflare](https://cloudflare.com) | — | Jun 7 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7972135?gh_jid=7972135) |
 | VENDEUR CONSEIL - CDI TEMPS PARTIEL H/F 20H | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000130640049) |
 | Sales Assistant part-time C.C. “Punta di Ferro” | [JD Sports](https://jdsports.com) | — | Jun 6 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4886392101) |
 | Vendeur / Vendeuse CDi -  Temps partiel 28H | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000130637019) |

@@ -2,7 +2,7 @@
 
 Backend, server-side, and API engineering roles. Node.js, Python, Go, Ruby, Java and beyond.
 
-**64 open roles** — Last updated: 2026-06-07
+**64 open roles** — Last updated: 2026-06-08
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 

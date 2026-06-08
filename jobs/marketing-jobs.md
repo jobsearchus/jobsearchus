@@ -2,12 +2,13 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**340 open roles** — Last updated: 2026-06-07
+**341 open roles** — Last updated: 2026-06-08
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Restaurant Promotions Specialist | [Wolt](https://wolt.com) | — | Jun 7 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7983192) |
 | Marketing Engineer, AI Deployment | [Figma](https://figma.com) | — | Jun 5 | [Apply](https://boards.greenhouse.io/figma/jobs/6013495004?gh_jid=6013495004) |
 | MHV Marketing Intern | [McWane](https://mcwane.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/McWaneInc/postings/3743990013499066) |
 | Marketing Manager Housing - Remote | [Experian](https://experianplc.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000130573057) |

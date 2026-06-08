@@ -2,12 +2,13 @@
 
 Full-stack engineering roles across product, platform, and startup companies.
 
-**51 open roles** — Last updated: 2026-06-07
+**52 open roles** — Last updated: 2026-06-08
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Engineer, .Net Fullstack | [Nagarro](https://nagarro.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000130671509) |
 | [8JH] Senior Full-Stack Engineer (.NET/Angular – CSS/UI) – Team Lead | [Software Mind](https://softwaremind.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/SoftwareMind/postings/744000130585379) |
 | [8JH] Senior Full-Stack Engineer (.NET/Angular) – Migration | [Software Mind](https://softwaremind.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/SoftwareMind/postings/744000130585339) |
 | Junior PHP Full Stack Engineer (PHP, Vue.JS) | [Miratech](https://miratech.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000130410799) |

@@ -2,7 +2,7 @@
 
 Remote cybersecurity, information security, and security engineering roles.
 
-**107 open roles** — Last updated: 2026-06-07
+**107 open roles** — Last updated: 2026-06-08
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 

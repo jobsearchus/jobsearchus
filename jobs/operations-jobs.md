@@ -2,15 +2,19 @@
 
 Remote operations and business operations roles across industries.
 
-**1063 open roles** — Last updated: 2026-06-07
+**1068 open roles** — Last updated: 2026-06-08
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Mechanical Inspector | [AECOM](https://aecom.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000130672309) |
+| Mechanical Inspector | [AECOM](https://aecom.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000130672219) |
 | Chefe de Fila - Novotel SP Morumbi (Zona Sul) - Horário: 15h00 às 23h10 | [ACCOR](https://group.accor.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130669749) |
 | Catering and  Conference Services Executive | [ACCOR](https://group.accor.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130668909) |
 | Assistant Store Supervisor | [Delivery Hero](https://deliveryhero.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000130666789) |
+| Global Seed Logistics Lead - R&D Vegetables | [Syngenta](https://syngenta.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000130666599) |
+| Material Planner | [Avery Dennison](https://averydennison.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000130666109) |
 | Service Process Coordinator | [MSX International](https://msxi.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013507396) |
 | Service Process Coordinator | [MSX International](https://msxi.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013507356) |
 | Employé(e) Fruits et legumes | [Genpak LLC](https://genpak-llc-2) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130664659) |
@@ -39,6 +43,7 @@ Remote operations and business operations roles across industries.
 | AC Technician  | [ACCOR](https://group.accor.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130632139) |
 | Workplace Manager- Gurgaon | [G2](https://g2.com) | — | Jun 6 | [Apply](https://jobs.ashbyhq.com/g2/51c11a15-42c0-45e2-a771-f767107e33df) |
 | Driver - Light Vehicle | [Egis](https://egis-group.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000130630599) |
+| Magasinier F/H | [BUT](https://but.fr) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000130630019) |
 | Office Coordinator | [University of Notre Dame](https://universityofnotredame.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013505446) |
 | Data Center Operations Tier 1 Technician | [LightEdge](https://lightedge.com) | — | Jun 6 | [Apply](https://jobs.lever.co/lightedge/57864062-c7ec-4874-912b-8b78dd10eb32) |
 | Governance Risk and Compliance | [Figma](https://figma.com) | — | Jun 5 | [Apply](https://boards.greenhouse.io/figma/jobs/6015630004?gh_jid=6015630004) |

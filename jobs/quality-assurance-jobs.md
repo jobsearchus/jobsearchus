@@ -2,7 +2,7 @@
 
 QA, test automation, and SDET roles. Manual and automated testing across all stacks.
 
-**48 open roles** — Last updated: 2026-06-07
+**48 open roles** — Last updated: 2026-06-08
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 

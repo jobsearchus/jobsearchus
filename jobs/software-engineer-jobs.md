@@ -2,15 +2,23 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**1483 open roles** — Last updated: 2026-06-07
+**1493 open roles** — Last updated: 2026-06-08
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Manager, Ride & Show Engineering (Scenic)  | [NBCUniversal](https://nbcuniversal.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130677679) |
+| Engineer-Planning | [AECOM](https://aecom.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000130672689) |
+| Architectural Inspector | [AECOM](https://aecom.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000130672159) |
+| Architectural Inspector | [AECOM](https://aecom.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000130672099) |
 | Project Lead | [Fluidstack](https://fluidstack.com) | $160K–$250K/yr | Jun 7 | [Apply](https://jobs.ashbyhq.com/fluidstack/344b7b07-6580-475f-a25c-d98b4defbf3f) |
 | Sr. Project Manager | [Fluidstack](https://fluidstack.com) | $160K–$250K/yr | Jun 7 | [Apply](https://jobs.ashbyhq.com/fluidstack/010c50f4-5055-4dba-8750-6d75597a6955) |
 | Project Executive | [Fluidstack](https://fluidstack.com) | $160K–$250K/yr | Jun 7 | [Apply](https://jobs.ashbyhq.com/fluidstack/8771d8f5-eb2b-49d7-a419-79dba5561b94) |
+| Digital Transformation Specialist | [AECOM](https://aecom.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000130665929) |
+| Sr. Software Engineer (CSM_Integration Developer) | [Bosch](https://bosch.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/BoschGroup/postings/744000130665600) |
+| SO_Service Delivery Manager-Platform | [Bosch](https://bosch.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/BoschGroup/postings/744000130665529) |
+| Senior Diagnostic Support Engineer Chennai-05 | [MSX International](https://msxi.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013507217) |
 | Senior Cost Engineer | [AECOM](https://aecom.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000130663949) |
 | Staff Engineer (IBM MQ. IBM ACE) | [Nagarro](https://nagarro.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000130663249) |
 | Engineer - Architecture | [AECOM](https://aecom.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000130663109) |
@@ -25,6 +33,8 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Senior Staff Engineer, ERP Workday (Functional Consultant) | [Nagarro](https://nagarro.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000130628859) |
 | Staff Engineer, ERP Workday (Technical Consultant) | [Nagarro](https://nagarro.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000130628839) |
 | Staff Engineer, ERP Workday (Functional Consultant) | [Nagarro](https://nagarro.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000130628779) |
+| Associate Staff Engineer, ERP Workday (Technical Consultant) | [Nagarro](https://nagarro.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000130628404) |
+| Associate Staff Engineer, ERP Workday (Technical Consultant) | [Nagarro](https://nagarro.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000130628649) |
 | Serif Biomedicines, Market Intelligence and Strategy Internship | [Flagship Pioneering, Inc.](https://flagshippioneering.com) | $45/yr | Jun 6 | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8580062002?gh_jid=8580062002) |
 | Reactor Core Thermal Fluids Engineer | [Oklo](https://oklo.com) | $80K–$175K/yr | Jun 6 | [Apply](https://job-boards.greenhouse.io/oklo/jobs/6015809004) |
 | Senior Solution Consultant | [Agiloft](https://agiloft.com) | — | Jun 5 | [Apply](https://jobs.lever.co/agiloft/248e66bc-823c-4ec3-bb8d-e43e397b543c) |
