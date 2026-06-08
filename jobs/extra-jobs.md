@@ -2,12 +2,16 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**1052 open roles** — Last updated: 2026-06-08
+**1056 open roles** — Last updated: 2026-06-08
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| EMPLOYE COMMERCIAL (H/F) RAYON CHARCUTERIE TRAITEUR FROMAGE TRAD | [Genpak LLC](https://genpak-llc-2) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130854421) |
+| responsable Frais  | [Genpak LLC](https://genpak-llc-2) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130850613) |
+| PATISSIER | [Genpak LLC](https://genpak-llc-2) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130843387) |
+| Banker, Relationship, Enterprise Direct | [Standard Bank](https://standardbank.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000130829018) |
 | Experienced Consultant: Health & Consumer (m/f/d) | [Roland Berger](https://rolandberger.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/RolandBerger/postings/744000130807556) |
 | RETAIL ASSISTANT | [Primark Tiendas SLU](https://primark.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000130807329) |
 | Kennedy Valve- Commercial Cleaner    | [McWane](https://mcwane.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/McWaneInc/postings/3743990013511986) |

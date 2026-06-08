@@ -2,12 +2,13 @@
 
 Remote operations and business operations roles across industries.
 
-**1080 open roles** — Last updated: 2026-06-08
+**1085 open roles** — Last updated: 2026-06-08
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Facility Manager (d/m/w)  | [AUTO1 Group](https://auto1-group.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000130838818) |
 | Experienced Consultant: Industrials & Automotive / Strategy & Operations (m/f/d) | [Roland Berger](https://rolandberger.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/RolandBerger/postings/744000130807021) |
 | Technik urządzeń kontrolnych - maszyny kontrolne (k/m) | [O-I Glass](https://o-i.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/O-I/postings/744000130786144) |
 | Coordenador de Barter | [Syngenta](https://syngenta.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000130786468) |
@@ -20,6 +21,10 @@ Remote operations and business operations roles across industries.
 | Benefits Operations Specialist - APAC | [Remote](https://remote.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/remotecom/jobs/7765729003) |
 | Parts Support | [Fletcher Jones Automotive Group](https://fletcherjonesautomotivegroup.com) | — | Jun 8 | [Apply](https://boards.greenhouse.io/fletcherjonesautomotivegroup/jobs/5158302007?gh_jid=5158302007) |
 | Senior Software Engineer | [Affinity](https://itsaffinity.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/affinity/jobs/7765696003) |
+| General Manager(02027) - 17305 W Capitol Dr | [Domino's](https://dominos.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130688432) |
+| Delivery Driver(05664) - 509 Highway 17 N. | [Domino's](https://dominos.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130694224) |
+| General Manager(01988) - 355 Willow Bend | [Domino's](https://dominos.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130694013) |
+| Assistant Manager(06450) - 201 N Commerce | [Domino's](https://dominos.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130694052) |
 | Mechanical Inspector | [AECOM](https://aecom.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000130672309) |
 | Mechanical Inspector | [AECOM](https://aecom.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000130672219) |
 | Chefe de Fila - Novotel SP Morumbi (Zona Sul) - Horário: 15h00 às 23h10 | [ACCOR](https://group.accor.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130669749) |

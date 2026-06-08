@@ -2,12 +2,15 @@
 
 Remote jobs open to candidates with 0–2 years of experience. A real way in — no degree gatekeeping.
 
-**1023 open roles** — Last updated: 2026-06-08
+**1029 open roles** — Last updated: 2026-06-08
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| EMPLOYE COMMERCIAL (H/F) RAYON CHARCUTERIE TRAITEUR FROMAGE TRAD | [Genpak LLC](https://genpak-llc-2) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130854421) |
+| responsable Frais  | [Genpak LLC](https://genpak-llc-2) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130850613) |
+| PATISSIER | [Genpak LLC](https://genpak-llc-2) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130843387) |
 | RETAIL ASSISTANT | [Primark Tiendas SLU](https://primark.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000130807329) |
 | Emploi Étudiant en Vente | [JYSK](https://jysk.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000130801140) |
 | Bar & Waiting Staff | [Greene King](https://greeneking.co.uk) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/GreeneKing/postings/744000130795828) |
@@ -20,6 +23,9 @@ Remote jobs open to candidates with 0–2 years of experience. A real way in —
 | Driver | [ACCOR](https://group.accor.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130711719) |
 | Junior Business Analyst (f/m/x) - Retail | [AUTO1 Group](https://auto1-group.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000130705689) |
 | Structural Engineer (with Computational Design Skills)- “High-Rise & Complex Buildings” | [Ramboll](https://ramboll.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/Ramboll3/postings/744000130702449) |
+| Customer Service Rep(09665) - 661 NW 32nd St | [Domino's](https://dominos.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130694390) |
+| Customer Service Rep (03154) - 537 US Highway 41 Byp N. | [Domino's](https://dominos.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130695079) |
+| Delivery Driver(05664) - 509 Highway 17 N. | [Domino's](https://dominos.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130694224) |
 | Dishwasher (Porter) - Soho House West Hollywood | [Soho House](https://sohohouse.com) | — | Jun 7 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4884127101) |
 | Customer Service Rep(05380) - 644 Jeff Rd. | [Domino's](https://dominos.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130674709) |
 | Customer Service Rep(09408) - 143 Martin Road | [Domino's](https://dominos.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130674399) |

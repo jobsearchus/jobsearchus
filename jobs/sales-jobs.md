@@ -2,12 +2,13 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**915 open roles** — Last updated: 2026-06-08
+**916 open roles** — Last updated: 2026-06-08
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Sales Manager B2B / Telesales - 100% Remote in Hamburg und Umgebung (d/m/w) | [AUTO1 Group](https://auto1-group.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000130825812) |
 | Emploi Étudiant en Vente | [JYSK](https://jysk.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000130801140) |
 | ASISTENT/KA PRODEJE V PRODEJNĚ JYSK- možnost zkráceného úvazku - SA template | [JYSK](https://jysk.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000130800349) |
 | Sales Assistant NUOVA APERTURA  - Categoria Protetta L.68/99 - Romano di Lombardia (BG) | [JYSK](https://jysk.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000130799295) |

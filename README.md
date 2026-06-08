@@ -1,8 +1,8 @@
 # JobSearchUs — Looking for Your Next Job? Just Search Us
 
-[![7046 jobs](https://img.shields.io/badge/jobs-7%2C046-blue?style=flat-square)](https://www.jobsearchus.com)  [![Updated 2026-06-08](https://img.shields.io/badge/updated-2026-06-08-lightgrey?style=flat-square)](https://github.com/jobsearchus/jobsearchus)
+[![7061 jobs](https://img.shields.io/badge/jobs-7%2C061-blue?style=flat-square)](https://www.jobsearchus.com)  [![Updated 2026-06-08](https://img.shields.io/badge/updated-2026-06-08-lightgrey?style=flat-square)](https://github.com/jobsearchus/jobsearchus)
 
-**7046 jobs** across 23 categories — updated 2026-06-08
+**7061 jobs** across 23 categories — updated 2026-06-08
 
 Fresh jobs pulled straight from company career pages — not recycled from job boards.
 Updated 5 times a day across 5,500+ companies worldwide.
@@ -24,7 +24,7 @@ Full job board with filters: **[jobsearchus.com](https://www.jobsearchus.com)**
 | Category | Open Roles | Link |
 | --- | --- | --- |
 | $100K+ Remote Jobs | 637 | [View →](jobs/100k-plus-jobs.md) |
-| Entry Level Remote Jobs | 1023 | [View →](jobs/entry-level-jobs.md) |
+| Entry Level Remote Jobs | 1029 | [View →](jobs/entry-level-jobs.md) |
 | Software Engineer Jobs | 1515 | [View →](jobs/software-engineer-jobs.md) |
 | Backend Jobs | 64 | [View →](jobs/backend-jobs.md) |
 | Frontend Jobs | 23 | [View →](jobs/frontend-jobs.md) |
@@ -37,17 +37,17 @@ Full job board with filters: **[jobsearchus.com](https://www.jobsearchus.com)**
 | Product Manager Jobs | 168 | [View →](jobs/product-manager-jobs.md) |
 | Project Manager Jobs | 109 | [View →](jobs/project-manager-jobs.md) |
 | UI/UX Jobs | 135 | [View →](jobs/ui-ux-jobs.md) |
-| Marketing Jobs | 343 | [View →](jobs/marketing-jobs.md) |
-| Sales Jobs | 915 | [View →](jobs/sales-jobs.md) |
-| Customer Support Jobs | 270 | [View →](jobs/customer-support-jobs.md) |
+| Marketing Jobs | 344 | [View →](jobs/marketing-jobs.md) |
+| Sales Jobs | 916 | [View →](jobs/sales-jobs.md) |
+| Customer Support Jobs | 273 | [View →](jobs/customer-support-jobs.md) |
 | Finance Jobs | 458 | [View →](jobs/finance-jobs.md) |
 | HR Jobs | 178 | [View →](jobs/hr-jobs.md) |
-| Legal Jobs | 94 | [View →](jobs/legal-jobs.md) |
-| Operations Jobs | 1080 | [View →](jobs/operations-jobs.md) |
+| Legal Jobs | 95 | [View →](jobs/legal-jobs.md) |
+| Operations Jobs | 1085 | [View →](jobs/operations-jobs.md) |
 | Security Jobs | 108 | [View →](jobs/security-jobs.md) |
 | Creative Jobs | 86 | [View →](jobs/creative-jobs.md) |
 | Admin Jobs | 36 | [View →](jobs/admin-jobs.md) |
-| More Remote Jobs | 1052 | [View →](jobs/extra-jobs.md) |
+| More Remote Jobs | 1056 | [View →](jobs/extra-jobs.md) |
 
 ---
 
