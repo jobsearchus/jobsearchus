@@ -2,16 +2,31 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**1500 open roles** — Last updated: 2026-06-08
+**1515 open roles** — Last updated: 2026-06-08
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| SPR Sunflower Parental Characterization Coordinator  | [Syngenta](https://syngenta.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000130795399) |
+| Staff Software Engineer (.Net and AWS) | [Diligent Corporation](https://diligent.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/diligentcorporation/jobs/5988542004) |
+| Estágio em Customer Success | [Syngenta](https://syngenta.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000130761700) |
+| Platform Security Engineer | [Paystack](https://paystack.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/paystack/jobs/8581614002) |
+| Localization Test Manager | [ŌURA](https://ouraring.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/oura/jobs/4272597009) |
+| Sr. Learning & Development Specialist | [6sense](https://6sense.com) | — | Jun 8 | [Apply](https://boards.greenhouse.io/6sense/jobs/7978108?gh_jid=7978108) |
+| Lead Data Engineer | [HackerRank](https://hackerrank.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/hackerrank/jobs/7959595) |
+| Principal Engineer | [takealot.com](https://takealot.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/takealotgroup/jobs/7984450) |
 | Senior Solutions Engineer (Google Workspace / Slack / Enterprise Apps) | [Delivery Hero](https://deliveryhero.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000130719394) |
+| Senior Engineer, Python | [Tide](https://tide.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/tide/jobs/6613023003) |
+| Finance Intern  | [Instawork](https://instawork.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/instawork/jobs/4687486006) |
+| Partner Account Manager - Greenville and Charleston | [Human Interest](https://humaninterest.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/humaninterest/jobs/7984122) |
+| Director of Client Engineering | [Tide](https://tide.com) | €100K–€142K/yr | Jun 8 | [Apply](https://job-boards.greenhouse.io/tide/jobs/7765740003) |
 | (Junior / Senior ) Planer und Planungsleitung (w/m/d) – Data Center  | [Drees & Sommer](https://dreso.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000130707699) |
 | (Junior / Senior ) Planer und Planungsleitung (w/m/d) – Data Center  | [Drees & Sommer](https://dreso.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000130707182) |
 | Junior Business Analyst (f/m/x) - Retail | [AUTO1 Group](https://auto1-group.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000130705689) |
+| Lead Computational Designer - “High-Rise & Complex Buildings” | [Ramboll](https://ramboll.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/Ramboll3/postings/744000130702799) |
+| Senior Structural Engineer - “High-Rise & Complex Buildings” | [Ramboll](https://ramboll.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/Ramboll3/postings/744000130702569) |
+| Structural Engineer (with Computational Design Skills)- “High-Rise & Complex Buildings” | [Ramboll](https://ramboll.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/Ramboll3/postings/744000130702449) |
 | [Job -29790]  Senior Data Engineer - (Spark + Databricks) | [CI&T](https://cit.com) | — | Jun 8 | [Apply](https://jobs.lever.co/ciandt/8d686bc6-b7a6-44fa-9149-d46deb8892eb) |
 | Senior Manager, Ride & Show Engineering (Scenic)  | [NBCUniversal](https://nbcuniversal.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130677679) |
 | Project Engineer-Mechanical | [AECOM](https://aecom.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000130673159) |

@@ -2,12 +2,14 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**635 open roles** — Last updated: 2026-06-08
+**637 open roles** — Last updated: 2026-06-08
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Equity Analyst & Reporter | [Versant](https://versant.com) | $100K–$125K/yr | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/Versant3/postings/744000130803969) |
+| Director of Client Engineering | [Tide](https://tide.com) | €100K–€142K/yr | Jun 8 | [Apply](https://job-boards.greenhouse.io/tide/jobs/7765740003) |
 | Territory Sales Enrollment Director - Senior Care (SF South Bay) | [Pine Park Health](https://pineparkhealth.com) | $110K–$140K/yr | Jun 7 | [Apply](https://job-boards.greenhouse.io/pineparkhealth/jobs/6015905004) |
 | Project Lead | [Fluidstack](https://fluidstack.com) | $160K–$250K/yr | Jun 7 | [Apply](https://jobs.ashbyhq.com/fluidstack/344b7b07-6580-475f-a25c-d98b4defbf3f) |
 | Sr. Project Manager | [Fluidstack](https://fluidstack.com) | $160K–$250K/yr | Jun 7 | [Apply](https://jobs.ashbyhq.com/fluidstack/010c50f4-5055-4dba-8750-6d75597a6955) |

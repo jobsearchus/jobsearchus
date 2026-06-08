@@ -2,16 +2,27 @@
 
 Remote jobs open to candidates with 0–2 years of experience. A real way in — no degree gatekeeping.
 
-**1012 open roles** — Last updated: 2026-06-08
+**1023 open roles** — Last updated: 2026-06-08
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| RETAIL ASSISTANT | [Primark Tiendas SLU](https://primark.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000130807329) |
+| Emploi Étudiant en Vente | [JYSK](https://jysk.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000130801140) |
+| Bar & Waiting Staff | [Greene King](https://greeneking.co.uk) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/GreeneKing/postings/744000130795828) |
+| European Female Talent Program 2026 | [Roland Berger](https://rolandberger.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/RolandBerger/postings/744000130784934) |
+| Estágio em Customer Success | [Syngenta](https://syngenta.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000130761700) |
+| Application Security Engineer | [Paystack](https://paystack.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/paystack/jobs/8581608002) |
+| Chargé(e) de paie et d’administration du personnel (H/F)- CDI - Paris  | [LinkedIn Job Wrapping](https://artefact.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/artefactlinkedin/jobs/8581550002) |
 | Resort Houseperson | [ACCOR](https://group.accor.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130713249) |
 | Receptionist | [ACCOR](https://group.accor.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130711654) |
 | Driver | [ACCOR](https://group.accor.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130711719) |
 | Junior Business Analyst (f/m/x) - Retail | [AUTO1 Group](https://auto1-group.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000130705689) |
+| Structural Engineer (with Computational Design Skills)- “High-Rise & Complex Buildings” | [Ramboll](https://ramboll.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/Ramboll3/postings/744000130702449) |
+| Dishwasher (Porter) - Soho House West Hollywood | [Soho House](https://sohohouse.com) | — | Jun 7 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4884127101) |
+| Customer Service Rep(05380) - 644 Jeff Rd. | [Domino's](https://dominos.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130674709) |
+| Customer Service Rep(09408) - 143 Martin Road | [Domino's](https://dominos.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130674399) |
 | Delivery Driver (09408) - 143 Martin Road | [Domino's](https://dominos.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130674249) |
 | Customer Service Rep(05873) - 4506 University Drive | [Domino's](https://dominos.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130674089) |
 | Delivery Driver (05873) - 4506 University Drive | [Domino's](https://dominos.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130673991) |

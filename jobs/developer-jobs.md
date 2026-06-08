@@ -2,12 +2,14 @@
 
 General developer and programmer roles that did not fit a more specific category.
 
-**103 open roles** — Last updated: 2026-06-08
+**105 open roles** — Last updated: 2026-06-08
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Clow Valve - Foundry Tooling Center CNC Programmer | [McWane](https://mcwane.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/McWaneInc/postings/3743990013510866) |
+| Senior PHP Developer | [INGENIOUS.BUILD](https://ingeniousbuild.com) | — | Jun 7 | [Apply](https://job-boards.greenhouse.io/ingenious/jobs/4703784005) |
 | Android Developer | [Applaudo](https://applaudo.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/ApplaudoStudios/postings/744000130596870) |
 | Cleared Java Developer (Colorado Springs, CO) | [Accenture Federal Services](https://accenturefederalservices.com) | — | Jun 5 | [Apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4687390006?gh_jid=4687390006) |
 | Clow Valve - CNC Programmer | [McWane](https://mcwane.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/McWaneInc/postings/3743990013500836) |

@@ -2,12 +2,14 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**341 open roles** — Last updated: 2026-06-08
+**343 open roles** — Last updated: 2026-06-08
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Consultant(e) Digital Marketing (H/F) - CDI - Paris  | [LinkedIn Job Wrapping](https://artefact.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/artefactlinkedin/jobs/8581618002) |
+| Brand Management Specialist [L5~L6-I] (Beauty) | [Coupang](https://coupang.com) | — | Jun 8 | [Apply](https://boards.greenhouse.io/coupanginternal/jobs/7984342?gh_jid=7984342) |
 | Restaurant Promotions Specialist | [Wolt](https://wolt.com) | — | Jun 7 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7983192) |
 | Marketing Engineer, AI Deployment | [Figma](https://figma.com) | — | Jun 5 | [Apply](https://boards.greenhouse.io/figma/jobs/6013495004?gh_jid=6013495004) |
 | MHV Marketing Intern | [McWane](https://mcwane.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/McWaneInc/postings/3743990013499066) |

@@ -2,12 +2,13 @@
 
 Product manager roles at companies building real products. Sourced directly from career pages.
 
-**167 open roles** — Last updated: 2026-06-08
+**168 open roles** — Last updated: 2026-06-08
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Product Manager | [WPP](https://wpp.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/wpp/jobs/8535550002) |
 | Product Management Analyst | [MEMX](https://memx.com) | $135K–$165K/yr | Jun 5 | [Apply](https://job-boards.greenhouse.io/memx/jobs/5249873008) |
 | Learning Product Lead | [Entain](https://entaingroup.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Entain/postings/744000130548450) |
 | Product Designer | [UpCodes](https://up.codes) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/up/jobs/5248925008) |

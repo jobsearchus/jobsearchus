@@ -2,12 +2,13 @@
 
 Project and program management roles across tech, operations, and enterprise.
 
-**108 open roles** — Last updated: 2026-06-08
+**109 open roles** — Last updated: 2026-06-08
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Technical Project Manager | [WPP](https://wpp.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/wpp/jobs/8569242002) |
 | Senior Project Manager:Noise Insulation | [AECOM](https://aecom.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000130673329) |
 | Program PMO Manager, Chandler, AZ - Semiconductor Basebuild | [World Wide Professional Solutions](https://worldwideprofessionalsolutions.com) | — | Jun 5 | [Apply](https://jobs.lever.co/wwprosolutions/91d45b5e-da3a-4c0d-918c-d3cb6a451411) |
 | Staff Program Manager - M&A Integration | [IonQ](https://ionq.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/ionq/jobs/6015458004) |

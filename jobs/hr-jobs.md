@@ -2,13 +2,15 @@
 
 Remote HR, recruiting, and people operations roles.
 
-**176 open roles** — Last updated: 2026-06-08
+**178 open roles** — Last updated: 2026-06-08
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| People & Culture Store Administrator  | [Primark Tiendas SLU](https://primark.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000130794630) |
 | Benefits Operations Specialist - EMEA | [Remote](https://remote.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/remotecom/jobs/7765727003) |
+| Chargé(e) de paie et d’administration du personnel (H/F)- CDI - Paris  | [LinkedIn Job Wrapping](https://artefact.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/artefactlinkedin/jobs/8581550002) |
 | People Advisor | [Ramboll](https://ramboll.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/Ramboll3/postings/744000130662869) |
 | Sr. Manager HR Operations | [Genpak LLC](https://genpak-llc-2) | — | Jun 7 | [Apply](https://job-boards.greenhouse.io/commvault/jobs/5232710008) |
 | People  Development Manager | [ACCOR](https://group.accor.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130633989) |

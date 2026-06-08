@@ -2,12 +2,13 @@
 
 Remote cybersecurity, information security, and security engineering roles.
 
-**107 open roles** — Last updated: 2026-06-08
+**108 open roles** — Last updated: 2026-06-08
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Security Analyst | [AHEAD](https://ahead.com) | — | Jun 8 | [Apply](https://jobs.lever.co/thinkahead/01d07b62-aab8-4aba-a870-db591a9b3581) |
 | Cybersecurity Specialist | [Upfront](https://tryupfront.com) | — | Jun 6 | [Apply](https://upfront.recruitee.com/o/cybersecurity-specialist/c/new) |
 | Manager, Security Operations | [Figma](https://figma.com) | — | Jun 5 | [Apply](https://boards.greenhouse.io/figma/jobs/6015609004?gh_jid=6015609004) |
 | Site Lead (OCONUS) | [Genpak LLC](https://genpak-llc-2) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/SOSi1/postings/3743990013494054) |

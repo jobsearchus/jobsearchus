@@ -2,14 +2,26 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**1040 open roles** — Last updated: 2026-06-08
+**1052 open roles** — Last updated: 2026-06-08
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Experienced Consultant: Health & Consumer (m/f/d) | [Roland Berger](https://rolandberger.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/RolandBerger/postings/744000130807556) |
+| RETAIL ASSISTANT | [Primark Tiendas SLU](https://primark.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000130807329) |
+| Kennedy Valve- Commercial Cleaner    | [McWane](https://mcwane.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/McWaneInc/postings/3743990013511986) |
+| Spa Praticien(ne) polyvalent(e) en apprentissage (H/F) | [Relais & Châteaux](https://relaischateaux.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000130800170) |
+| Bar & Waiting Staff | [Greene King](https://greeneking.co.uk) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/GreeneKing/postings/744000130795828) |
+| Spa Praticien(ne) polyvalent(e) - Spa Guerlain (H/F) | [Relais & Châteaux](https://relaischateaux.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000130794839) |
+| Chef de rang saisonnier(e) - La Terrasse Saint James Paris (H/F) | [Relais & Châteaux](https://relaischateaux.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000130791199) |
+| European Female Talent Program 2026 | [Roland Berger](https://rolandberger.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/RolandBerger/postings/744000130784934) |
+| MCD Machines à Sous en CDD | [Genpak LLC](https://genpak-llc-2) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000130734833) |
+| Bartender - Soho House Copenhagen | [Soho House](https://sohohouse.com) | — | Jun 8 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4888281101) |
 | Resort Houseperson | [ACCOR](https://group.accor.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130713249) |
 | Receptionist | [ACCOR](https://group.accor.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130711654) |
+| Dishwasher (Porter) - Soho House West Hollywood | [Soho House](https://sohohouse.com) | — | Jun 7 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4884127101) |
+| Assistant Manager(09408) - 143 Martin Road | [Domino's](https://dominos.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130674197) |
 | General Manager (09408) - 143 Martin Road | [Domino's](https://dominos.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130674289) |
 | General Manager (05873) - 4506 University Drive | [Domino's](https://dominos.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130674199) |
 | Assistant Manager(05873) - 4506 University Dr | [Domino's](https://dominos.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130674149) |

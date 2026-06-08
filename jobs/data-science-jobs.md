@@ -2,12 +2,13 @@
 
 Data science, machine learning, and AI engineering roles. Python, SQL, PyTorch, and beyond.
 
-**98 open roles** — Last updated: 2026-06-08
+**99 open roles** — Last updated: 2026-06-08
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Data Scientist - UK | [Focal Systems](https://focal.systems) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/focalsystems/jobs/6016008004) |
 | Senior Data Scientist – AI Solutions (IDT), Air & Climate  | [Ramboll](https://ramboll.com) | $97K–$122K/yr | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/Ramboll3/postings/744000130644369) |
 | Senior Data Scientist – AI Solutions (IDT), Air & Climate  | [Ramboll](https://ramboll.com) | $97K–$122K/yr | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/Ramboll3/postings/744000130644219) |
 | Senior Machine Learning Scientist, Agentic AI | [Natera](https://natera.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/natera/jobs/5994723004) |
