@@ -2,12 +2,13 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**455 open roles** — Last updated: 2026-06-08
+**456 open roles** — Last updated: 2026-06-08
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Officer, Operational Risk, Stanbic IBTC Insurance Limited | [Standard Bank](https://standardbank.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000130673219) |
 | Assistant Manager, Fund Administration (AML) | [Juniper Square](https://junipersquare.com) | — | Jun 5 | [Apply](https://jobs.ashbyhq.com/junipersquare/49c4d98e-ad3a-4cd5-a62f-c8b23c512cce) |
 | Senior Project Cost Accountant | [KPFF Consulting Engineers](https://kpff.com) | $90K–$120K/yr | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/KPFFConsultingEngineers/postings/3743990013504766) |
 | Accounting Manager  - Marketing | [Truelogic](https://truelogic.com) | — | Jun 5 | [Apply](https://jobs.ashbyhq.com/truelogic/ffe3bd5d-87a3-4969-b535-ef222f168b04) |

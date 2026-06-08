@@ -2,12 +2,16 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**1036 open roles** — Last updated: 2026-06-08
+**1040 open roles** — Last updated: 2026-06-08
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Resort Houseperson | [ACCOR](https://group.accor.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130713249) |
+| Receptionist | [ACCOR](https://group.accor.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130711654) |
+| General Manager (09408) - 143 Martin Road | [Domino's](https://dominos.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130674289) |
+| General Manager (05873) - 4506 University Drive | [Domino's](https://dominos.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130674199) |
 | Assistant Manager(05873) - 4506 University Dr | [Domino's](https://dominos.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130674149) |
 | Delivery Driver (05873) - 4506 University Drive | [Domino's](https://dominos.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130673991) |
 | PREPARATEUR DRIVE (H/F) Temps partiel 18h | [Genpak LLC](https://genpak-llc-2) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130673959) |

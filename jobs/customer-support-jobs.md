@@ -2,12 +2,13 @@
 
 Remote customer support and success roles across SaaS, e-commerce, and tech.
 
-**267 open roles** — Last updated: 2026-06-08
+**268 open roles** — Last updated: 2026-06-08
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Delivery Driver (09408) - 143 Martin Road | [Domino's](https://dominos.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130674249) |
 | Customer Service Rep(05873) - 4506 University Drive | [Domino's](https://dominos.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130674089) |
 | Customer Success Manager- Restaurants  | [Wolt](https://wolt.com) | — | Jun 7 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7988106) |
 | Customer Service Rep(01600) - 5531 Osage Beach Parkway | [Domino's](https://dominos.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130650595) |

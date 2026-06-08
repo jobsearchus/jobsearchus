@@ -2,7 +2,7 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**906 open roles** — Last updated: 2026-06-08
+**907 open roles** — Last updated: 2026-06-08
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -17,6 +17,7 @@ Remote sales roles — account executives, SDRs, and enterprise deals.
 | SALES ASSISTANT JDI  | [JD Sports](https://jdsports.com) | — | Jun 6 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4886346101) |
 | Sales Assistant (Part Time) - C.C. "Val Vibrata" | [JD Sports](https://jdsports.com) | — | Jun 6 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4886334101) |
 | Part Time Sales Associate killarney | [Frasers Group](https://frasersgroup.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000130634379) |
+| Vendeur / Vendeuse CDI -  Temps partiel [20 heures] (H/F) | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000130634189) |
 | Retail Assistant - Operador de Loja (m/f) | [Primark Tiendas SLU](https://primark.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000130632589) |
 | EMPLOYE COMMERCIAL (H/F) Rayon Liquide | [Genpak LLC](https://genpak-llc-2) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130631999) |
 | Addetto/a alle vendite | [Primark Tiendas SLU](https://primark.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000130631699) |

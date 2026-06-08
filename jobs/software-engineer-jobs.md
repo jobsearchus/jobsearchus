@@ -2,13 +2,20 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**1493 open roles** — Last updated: 2026-06-08
+**1500 open roles** — Last updated: 2026-06-08
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Solutions Engineer (Google Workspace / Slack / Enterprise Apps) | [Delivery Hero](https://deliveryhero.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000130719394) |
+| (Junior / Senior ) Planer und Planungsleitung (w/m/d) – Data Center  | [Drees & Sommer](https://dreso.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000130707699) |
+| (Junior / Senior ) Planer und Planungsleitung (w/m/d) – Data Center  | [Drees & Sommer](https://dreso.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000130707182) |
+| Junior Business Analyst (f/m/x) - Retail | [AUTO1 Group](https://auto1-group.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000130705689) |
+| [Job -29790]  Senior Data Engineer - (Spark + Databricks) | [CI&T](https://cit.com) | — | Jun 8 | [Apply](https://jobs.lever.co/ciandt/8d686bc6-b7a6-44fa-9149-d46deb8892eb) |
 | Senior Manager, Ride & Show Engineering (Scenic)  | [NBCUniversal](https://nbcuniversal.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130677679) |
+| Project Engineer-Mechanical | [AECOM](https://aecom.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000130673159) |
+| Electrical Building Services Engineer | [AECOM](https://aecom.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000130673109) |
 | Engineer-Planning | [AECOM](https://aecom.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000130672689) |
 | Architectural Inspector | [AECOM](https://aecom.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000130672159) |
 | Architectural Inspector | [AECOM](https://aecom.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000130672099) |

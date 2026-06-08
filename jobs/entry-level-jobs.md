@@ -2,12 +2,17 @@
 
 Remote jobs open to candidates with 0–2 years of experience. A real way in — no degree gatekeeping.
 
-**1006 open roles** — Last updated: 2026-06-08
+**1012 open roles** — Last updated: 2026-06-08
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Resort Houseperson | [ACCOR](https://group.accor.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130713249) |
+| Receptionist | [ACCOR](https://group.accor.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130711654) |
+| Driver | [ACCOR](https://group.accor.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130711719) |
+| Junior Business Analyst (f/m/x) - Retail | [AUTO1 Group](https://auto1-group.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000130705689) |
+| Delivery Driver (09408) - 143 Martin Road | [Domino's](https://dominos.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130674249) |
 | Customer Service Rep(05873) - 4506 University Drive | [Domino's](https://dominos.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130674089) |
 | Delivery Driver (05873) - 4506 University Drive | [Domino's](https://dominos.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130673991) |
 | PREPARATEUR DRIVE (H/F) Temps partiel 18h | [Genpak LLC](https://genpak-llc-2) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130673959) |
@@ -44,6 +49,7 @@ Remote jobs open to candidates with 0–2 years of experience. A real way in —
 | Sales Assistant (Part Time) - C.C. "Val Vibrata" | [JD Sports](https://jdsports.com) | — | Jun 6 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4886334101) |
 | Assistente de Venda a Tempo Parcial –  Alverca | [Frasers Group](https://frasersgroup.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000130634799) |
 | Part Time Sales Associate killarney | [Frasers Group](https://frasersgroup.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000130634379) |
+| Vendeur / Vendeuse CDI -  Temps partiel [20 heures] (H/F) | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000130634189) |
 | Retail Assistant - Operador de Loja (m/f) | [Primark Tiendas SLU](https://primark.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000130632589) |
 | EMPLOYE COMMERCIAL (H/F) Rayon Liquide | [Genpak LLC](https://genpak-llc-2) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130631999) |
 | Addetto/a alle vendite | [Primark Tiendas SLU](https://primark.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000130631699) |

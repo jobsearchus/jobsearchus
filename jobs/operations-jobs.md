@@ -2,12 +2,16 @@
 
 Remote operations and business operations roles across industries.
 
-**1068 open roles** — Last updated: 2026-06-08
+**1072 open roles** — Last updated: 2026-06-08
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Shift Lead, Partner Service | [Delivery Hero](https://deliveryhero.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000130725420) |
+| Warehouse Manager | [Delivery Hero](https://deliveryhero.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000130717049) |
+| Driver | [ACCOR](https://group.accor.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130711719) |
+| Benefits Operations Specialist - APAC | [Remote](https://remote.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/remotecom/jobs/7765729003) |
 | Mechanical Inspector | [AECOM](https://aecom.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000130672309) |
 | Mechanical Inspector | [AECOM](https://aecom.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000130672219) |
 | Chefe de Fila - Novotel SP Morumbi (Zona Sul) - Horário: 15h00 às 23h10 | [ACCOR](https://group.accor.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130669749) |
