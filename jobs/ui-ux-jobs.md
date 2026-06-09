@@ -2,13 +2,14 @@
 
 UX design, UI design, and product design roles. Figma, research, and end-to-end product work.
 
-**138 open roles** — Last updated: 2026-06-09
+**139 open roles** — Last updated: 2026-06-09
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | Senior Architect Of Record  | [Egis](https://egis-group.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000131047339) |
+| Junior Design Intern | [Pursuit](https://pursuit-properties.com) | $35/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/pursuit/jobs/7991738) |
 | Staff Product Designer (Grant OS) | [Instrumentl](https://instrumentl.com) | — | Jun 8 | [Apply](https://jobs.lever.co/Instrumentl/513688c0-2efa-442e-b4de-19f0da10519c) |
 | Product Management Intern, Device Trust - Fall 2026 | [1Password](https://1password.com) | — | Jun 8 | [Apply](https://jobs.ashbyhq.com/1password/97775e0c-57f4-4947-b129-0876211f4c5a) |
 | Designer - BIM, Structures - T&P, REC | [Ramboll](https://ramboll.com) | — | Jun 6 | [Apply](https://api.smartrecruiters.com/v1/companies/Ramboll3/postings/744000130626549) |

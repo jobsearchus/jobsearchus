@@ -2,12 +2,14 @@
 
 Remote customer support and success roles across SaaS, e-commerce, and tech.
 
-**277 open roles** — Last updated: 2026-06-09
+**279 open roles** — Last updated: 2026-06-09
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| General Manager (05045)- 3112 Cleveland Ave Unit 3 | [Domino's](https://dominos.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131034050) |
+| Crew Member (03151) - 10555 NW 41st St | [Domino's](https://dominos.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131035663) |
 | Technical Customer Success Manager- EAST | [Honeycomb.io](https://honeycomb.io) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/honeycomb/jobs/5233408008) |
 | Technical Customer Success Manager- EAST | [Honeycomb.io](https://honeycomb.io) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/honeycomb/jobs/5233406008) |
 | Customer Experience Associate (Unlicensed) | [Robinhood](https://robinhood.com) | — | Jun 8 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7991112?t=gh_src=&gh_jid=7991112) |

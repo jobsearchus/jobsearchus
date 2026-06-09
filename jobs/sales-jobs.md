@@ -2,14 +2,27 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**931 open roles** — Last updated: 2026-06-09
+**944 open roles** — Last updated: 2026-06-09
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Account Executive, Commercial Accounts (Remote:  AL/MS) | [Veeam Software](https://veeam.com) | — | Jun 9 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4885244101) |
+| Associate Manager, Startup Accounts | [Razorpay Software Private Limited](https://razorpay.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4702189005) |
+| Equipier/ Equipière client CDD - Temps plein (H/F) | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000131099183) |
+| Conseiller de vente multimédia CDI - (H/F) 35h - 25H | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000131083509) |
+| Assessor de Clientes - Energia  | [ComparaJá](https://comparaja.pt) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/comparaja/jobs/7766822003) |
+| Consultor de Energia  | [ComparaJá](https://comparaja.pt) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/comparaja/jobs/7766821003) |
+| Agente de Call Center - Energia | [ComparaJá](https://comparaja.pt) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/comparaja/jobs/7766820003) |
+| Technical Account Manager France | [RTB House](https://rtbhouse.com) | — | Jun 9 | [Apply](https://job-boards.eu.greenhouse.io/rtbhouse/jobs/4883775101) |
+| Sales Manager B2B / Telesales - 100% Remote (d/m/w) | [AUTO1 Group](https://auto1-group.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000131066750) |
+| Junior Sales Manager B2B / Telesales - 100% Remote (d/m/w) im Rhein-Ruhr-Gebiet | [AUTO1 Group](https://auto1-group.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000131070499) |
+| Senior Software Engineer - Cards Experience EU  | [Perk](https://perk.com) | — | Jun 9 | [Apply](https://jobs.ashbyhq.com/perk/ac6d7e7d-49b5-43d7-9837-d8337cf93561) |
+| Senior Sales Development Representative | [Veeam Software](https://veeam.com) | — | Jun 9 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4865428101) |
 | Account Executive - Direct & Channel Sales - Japan | [Canva](https://canva.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001139150) |
 | Commercial Account Director - Government - Hybrid | [Experian](https://experianplc.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000130984410) |
+| Technical Account Manager | [RTB House](https://rtbhouse.com) | $110K–$150K/yr | Jun 8 | [Apply](https://job-boards.eu.greenhouse.io/rtbhouse/jobs/4884286101) |
 | Enterprise Account Executive - Montreal/Toronto | [Chainguard](https://chainguard.dev) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/chainguard/jobs/4687500006) |
 | Inside Sales Professional - Bilingual  | [Manitoulin Global Forwarding](https://manitoulingroup.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000130878421) |
 | Sales Host | [Frasers Group](https://frasersgroup.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000130878478) |

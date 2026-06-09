@@ -2,12 +2,13 @@
 
 DevOps, platform engineering, and infrastructure roles. AWS, GCP, Kubernetes, Terraform.
 
-**90 open roles** — Last updated: 2026-06-09
+**91 open roles** — Last updated: 2026-06-09
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| DevSecOps Engineer | [AHEAD](https://ahead.com) | — | Jun 9 | [Apply](https://jobs.lever.co/thinkahead/a7addcd4-e7c7-4bbf-bcb3-022f838cb60f) |
 | Staff Software Engineer, Infrastructure | [Docker](https://docker.com) | — | Jun 8 | [Apply](https://jobs.ashbyhq.com/docker/9bbe3ad7-f4be-4efa-8889-b93e9d62c1ed) |
 | DevOps Engineer (Consulting sphere) | [Coherent Solutions](https://coherentsolutions.com) | — | Jun 8 | [Apply](https://job-boards.eu.greenhouse.io/coherentsolutions/jobs/4885077101) |
 | SO_IT Infrastructure Support Engineer–Storage and Server_TM_2026 | [Bosch](https://bosch.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/BoschGroup/postings/744000130665556) |

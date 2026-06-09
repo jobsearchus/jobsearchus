@@ -2,12 +2,16 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**652 open roles** — Last updated: 2026-06-09
+**656 open roles** — Last updated: 2026-06-09
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Observability Architect - West Coast - PST - Remote  | [Grafana Labs](https://grafana.com) | $204K–$260K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6013689004) |
+| Pronto - Robotics Test Engineer, San Francisco | [Pronto](https://tuprontomx.com) | $298K–$376K/yr | Jun 8 | [Apply](https://job-boards.greenhouse.io/pronto/jobs/8583040002) |
+| Technical Account Manager | [RTB House](https://rtbhouse.com) | $110K–$150K/yr | Jun 8 | [Apply](https://job-boards.eu.greenhouse.io/rtbhouse/jobs/4884286101) |
+| Senior Financial Analyst, Business Partnership | [Discord](https://discord.com) | $152K–$171K/yr | Jun 8 | [Apply](https://job-boards.greenhouse.io/discord/jobs/8580659002) |
 | Developer Relations Evangelist  | [AssemblyAI](https://assemblyai.com) | $130K–$190K/yr | Jun 8 | [Apply](https://job-boards.greenhouse.io/assemblyai/jobs/4703690005) |
 | Staff Applications Engineer, GTM Systems | [HackerOne](https://hackerone.com) | $220K–$235K/yr | Jun 8 | [Apply](https://jobs.ashbyhq.com/hackerone/62c0d421-71f7-43c0-989d-dc89782041d7) |
 | QA Automation Engineer | [Slingshot Aerospace](https://slingshotaerospace.com) | $105K–$160K/yr | Jun 8 | [Apply](https://job-boards.greenhouse.io/slingshotaerospace/jobs/6016469004?gh_jid=6016469004) |

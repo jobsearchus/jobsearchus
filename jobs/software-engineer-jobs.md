@@ -2,20 +2,36 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**1547 open roles** — Last updated: 2026-06-09
+**1563 open roles** — Last updated: 2026-06-09
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| LSS Commissioning Technican  | [Genpak LLC](https://genpak-llc-2) | — | Jun 9 | [Apply](https://job-boards.eu.greenhouse.io/lotusworks/jobs/4882552101) |
+|  Electrical Commissioning Technician | [Genpak LLC](https://genpak-llc-2) | — | Jun 9 | [Apply](https://job-boards.eu.greenhouse.io/lotusworks/jobs/4882555101) |
+| Senior Data Engineering Manager | [WPP](https://wpp.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/wpp/jobs/8570476002) |
+| Analista de Dados | [Standard Bank](https://standardbank.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000131087574) |
+| Senior Engineer, Flutter | [Tide](https://tide.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/tide/jobs/7766824003) |
+| Senior Engineer, Flutter | [Tide](https://tide.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/tide/jobs/7766823003) |
+| Senior Engineer, Flutter | [Tide](https://tide.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/tide/jobs/7766790003) |
+| Senior Data Engineer  | [WIN Home Inspection](https://winhomeinspection.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/winhomeinspection/jobs/4651160006) |
+| Senior Software Development Engineer in Test | [Ivanti](https://ivanti.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/a3c41b8b71eff8c4/jobs/7764426003) |
+| Senior Software Engineer - Cards Experience EU | [Perk](https://perk.com) | — | Jun 9 | [Apply](https://jobs.ashbyhq.com/perk/65e675b2-4088-41ea-93d3-9c4543d4096d) |
+| Engineering Manager - Cards Experience EU | [Perk](https://perk.com) | — | Jun 9 | [Apply](https://jobs.ashbyhq.com/perk/a8273db2-8a1e-4f28-8064-37890f9e96c5) |
+| Studentischer Mitarbeiter (w/m/d) IT-Support | [Drees & Sommer](https://dreso.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000131056089) |
+| Junior Structural Engineer (UAE National Only) | [BESIX](https://besix.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000131044019) |
 | AOV MOV Valve Diagnostic Tester - Nuclear | [Egis](https://egis-group.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000131043989) |
+| Junior Quantity Surveyor (UAE National) | [BESIX](https://besix.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000131043079) |
 | Associate Principal Engineer, Delivery | [Nagarro](https://nagarro.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000131032107) |
+| Senior Observability Architect - West Coast - PST - Remote  | [Grafana Labs](https://grafana.com) | $204K–$260K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6013689004) |
 | #EG Desktop Support Engineers (EUSS) | [NCS](https://ncs.co) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001138761) |
 | Analista de Atendimento Junior | [Experian](https://experianplc.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000130897789) |
 | Analista de Atendimento Pleno  | [Experian](https://experianplc.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000130896131) |
 | Flight Support Engineer - Night Shift (Brazil) | [Pyka](https://flypyka.com) | — | Jun 8 | [Apply](https://jobs.lever.co/pyka/64f0c454-e436-46c7-9ddb-3e8e4fde4987) |
 | Junior Data Analyst (Operations / Sales Analytics) | [SBT Global](https://sbtglobal.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/SBTGlobalInc/postings/3743990013526926) |
 | Mechanical Technician (Illinois) | [Continental](https://continentalserves.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000130886764) |
+| Sr Systems Engineer | [AnaVation](https://anavation.com) | — | Jun 8 | [Apply](https://jobs.lever.co/anavationllc/79312b01-08bd-4bc8-b7fb-43207bb92681) |
 | Sr. Manager, Solution Engineering  | [Freshworks](https://freshworks.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000130881459) |
 | Staff Applications Engineer, GTM Systems | [HackerOne](https://hackerone.com) | $220K–$235K/yr | Jun 8 | [Apply](https://jobs.ashbyhq.com/hackerone/62c0d421-71f7-43c0-989d-dc89782041d7) |
 | [Job- 29771] Software Architect Senior, Brazil | [CI&T](https://cit.com) | — | Jun 8 | [Apply](https://jobs.lever.co/ciandt/7d37c726-8d13-49c5-bda5-05bdd6638991) |

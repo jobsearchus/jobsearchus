@@ -2,12 +2,13 @@
 
 Data science, machine learning, and AI engineering roles. Python, SQL, PyTorch, and beyond.
 
-**103 open roles** — Last updated: 2026-06-09
+**104 open roles** — Last updated: 2026-06-09
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| ML Ops Engineer | [Moonpig Group](https://moonpiggroup.com) | — | Jun 9 | [Apply](https://jobs.lever.co/moonpig/26b67a79-604f-4e34-97ed-c7db7331cac6) |
 | Platform Senior AI Engineer | [NCS](https://ncs.co) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001138861) |
 | Senior AI/ML Engineer | [Chime](https://chime.com) | $15K/yr | Jun 8 | [Apply](https://boards.greenhouse.io/chime/jobs/8569366002?gh_jid=8569366002) |
 | Senior Data/ML Engineer (AWS) | [Capstone Integrated Solutions](https://capstoneintegratedsolutions.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/capstoneintegratedsolutions/jobs/5158460007) |

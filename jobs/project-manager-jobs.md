@@ -2,12 +2,14 @@
 
 Project and program management roles across tech, operations, and enterprise.
 
-**112 open roles** — Last updated: 2026-06-09
+**114 open roles** — Last updated: 2026-06-09
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Project Manager | [Entain](https://entaingroup.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/Entain/postings/744000131107704) |
+| Retail  Senior Project Manager | [Entain](https://entaingroup.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/Entain/postings/744000131103381) |
 | Project Manager - Public Safety  | [NEC Software Solutions](https://necsoftwaresolutions.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/NECSWS/postings/744000130846905) |
 | Environmental Project Manager - 4 years minimum experience  | [AECOM](https://aecom.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000130826029) |
 | Environmental Project Manager - 8 years minimum experience | [AECOM](https://aecom.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000130825839) |

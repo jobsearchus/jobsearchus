@@ -2,13 +2,14 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**354 open roles** — Last updated: 2026-06-09
+**355 open roles** — Last updated: 2026-06-09
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | SEO Lead (Malaysia) | [Canva](https://canva.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001138816) |
+| Director, Performance Marketing -  Unannounced ARPG Mobile Game | [Scopely](https://scopely.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/scopely/jobs/5239651008?gh_jid=5239651008) |
 | Senior Manager, User Acquisition | [Gametime](https://gametime.co) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/gametimeunited/jobs/5251558008) |
 | Senior Manager, Paid Search | [Gametime](https://gametime.co) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/gametimeunited/jobs/5251460008) |
 | Field Marketing Manager | [Instrumentl](https://instrumentl.com) | — | Jun 8 | [Apply](https://jobs.lever.co/Instrumentl/e22a5f97-e72a-4bd7-94bc-075dc9539983) |

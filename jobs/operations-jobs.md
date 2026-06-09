@@ -2,16 +2,18 @@
 
 Remote operations and business operations roles across industries.
 
-**1109 open roles** — Last updated: 2026-06-09
+**1113 open roles** — Last updated: 2026-06-09
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Junior Inköpare & Biltestare | [AUTO1 Group](https://auto1-group.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000131084920) |
 | Supervisor de Perforación y Voladura - Temporal | [Anglo American](https://angloamerican.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000130899190) |
 | Purchasing Intern | [Continental](https://continentalserves.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000130897104) |
 | Material Handler / Warehouse Associate - 1st Shift, 6AM - 2PM | [Avery Dennison](https://averydennison.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000130886678) |
 | Delivery Consultant | [Airtable](https://airtable.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8582568002) |
+| Business Operator | [Accenture Federal Services](https://accenturefederalservices.com) | — | Jun 8 | [Apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4687850006?gh_jid=4687850006) |
 | AI-Driven Talent Acquisition Lead (Remote) | [Hone Health](https://honehealth.com) | $90K–$110K/yr | Jun 8 | [Apply](https://job-boards.greenhouse.io/honehealth/jobs/5251486008) |
 | Production Operator  | [Continental](https://continentalserves.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000130881050) |
 | Senior GTM Operations Engineer | [HackerOne](https://hackerone.com) | $153K–$187K/yr | Jun 8 | [Apply](https://jobs.ashbyhq.com/hackerone/c96e0eec-fe37-45a6-86dd-e2b1efdffa05) |
@@ -23,10 +25,12 @@ Remote operations and business operations roles across industries.
 | Logistics Performance Sr Analyst | [Delivery Hero](https://deliveryhero.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000130860069) |
 | General Assistant (Cleaning Team) - Everlast Gyms | [Frasers Group](https://frasersgroup.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000130839339) |
 | Facility Manager (d/m/w)  | [AUTO1 Group](https://auto1-group.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000130838818) |
+| Documentbeheerder (ROCO) | [BESIX](https://besix.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000130833310) |
 | Base Optimization Specialist | [Airtable](https://airtable.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8580787002) |
 | Technical Logistics Assistant IV | [NBCUniversal](https://nbcuniversal.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130820731) |
 | Harvesting Mechanic | [Super-Sod](https://supersod.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/supersod/jobs/5249550008) |
 | Project Scheduler | [Mariana Minerals](https://marianaminerals.com) | — | Jun 8 | [Apply](https://jobs.ashbyhq.com/marianaminerals/86661368-ecf7-4da9-a82b-fb089b8ec461) |
+| Global CRM - Change Management Lead | [WPP](https://wpp.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/wpp/jobs/8570462002) |
 | Lifecycle Operations Lead, Time & Attendance | [Remote](https://remote.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/remotecom/jobs/7764990003) |
 | Experienced Consultant: Industrials & Automotive / Strategy & Operations (m/f/d) | [Roland Berger](https://rolandberger.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/RolandBerger/postings/744000130807021) |
 | Delivery Manager | [Mayflower](https://mayflowervisa.com) | — | Jun 8 | [Apply](https://mayflower.recruitee.com/o/delivery-manager/c/new) |
