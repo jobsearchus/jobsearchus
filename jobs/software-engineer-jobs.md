@@ -2,23 +2,32 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**1529 open roles** — Last updated: 2026-06-08
+**1538 open roles** — Last updated: 2026-06-09
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Flight Support Engineer - Night Shift (Brazil) | [Pyka](https://flypyka.com) | — | Jun 8 | [Apply](https://jobs.lever.co/pyka/64f0c454-e436-46c7-9ddb-3e8e4fde4987) |
+| Staff Applications Engineer, GTM Systems | [HackerOne](https://hackerone.com) | $220K–$235K/yr | Jun 8 | [Apply](https://jobs.ashbyhq.com/hackerone/62c0d421-71f7-43c0-989d-dc89782041d7) |
 | [Job- 29771] Software Architect Senior, Brazil | [CI&T](https://cit.com) | — | Jun 8 | [Apply](https://jobs.lever.co/ciandt/7d37c726-8d13-49c5-bda5-05bdd6638991) |
+| Senior Software Engineer II AI-Native, Mobile - Pet Experiences | [Life360](https://life360.com) | $148K–$216K/yr | Jun 8 | [Apply](https://job-boards.greenhouse.io/life360/jobs/8582261002) |
 | Senior Client Solution Architect (Remote) | [Myriad360](https://myriad360.com) | $250K–$275K/yr | Jun 8 | [Apply](https://boards.greenhouse.io/myriad360/jobs/8582560002?gh_jid=8582560002) |
 | Senior Client Solution Architect (Remote) | [Myriad360](https://myriad360.com) | $250K–$275K/yr | Jun 8 | [Apply](https://boards.greenhouse.io/myriad360/jobs/8582554002?gh_jid=8582554002) |
 | Senior Data Analyst, Growth Product | [Chime](https://chime.com) | $15K/yr | Jun 8 | [Apply](https://boards.greenhouse.io/chime/jobs/8580595002?gh_jid=8580595002) |
+| Senior Test Technician | [Pyka](https://flypyka.com) | — | Jun 8 | [Apply](https://jobs.lever.co/pyka/396f83af-cb1f-484c-8c68-0ad8e28a6346) |
 | [Job - 29755] Senior Data Analyst (Google Analytics/Martech), Brazil | [CI&T](https://cit.com) | — | Jun 8 | [Apply](https://jobs.lever.co/ciandt/0281a4dd-ee59-4321-a5ba-ad32cbb0b2e1) |
+| Senior Fleet Maintenance Technician | [Pyka](https://flypyka.com) | — | Jun 8 | [Apply](https://jobs.lever.co/pyka/f9f10d34-1b50-4623-87fb-be5145d7a7a4) |
 | Data Engineer- GCP | [Lingaro](https://lingaro.com) | — | Jun 8 | [Apply](https://jobs.lever.co/lingarogroup/75075431-2430-496b-a829-a46fae9a9c82) |
+| GTM Engineer | [Greenhouse](https://greenhouse.com) | $118K–$176K/yr | Jun 8 | [Apply](https://job-boards.greenhouse.io/greenhouse/jobs/7985838?gh_jid=7985838) |
+| GTM Engineer | [Greenhouse](https://greenhouse.com) | $118K–$176K/yr | Jun 8 | [Apply](https://job-boards.greenhouse.io/greenhouse/jobs/7982414?gh_jid=7982414) |
 | Data Engineer - Azure | [Lingaro](https://lingaro.com) | — | Jun 8 | [Apply](https://jobs.lever.co/lingarogroup/a9e19f55-31b7-4977-8d36-9553732a4b88) |
 | Research Lead, New AI Products & Platforms | [The New York Times](https://thenewyorktimes.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4703588005) |
 | ETL Engineer SME | [AnaVation](https://anavation.com) | — | Jun 8 | [Apply](https://jobs.lever.co/anavationllc/5540f02a-0bb4-4fdc-9575-4b6c9e0c5777) |
+| Electrical Estimator | [Distro](https://distro.app) | — | Jun 8 | [Apply](https://jobs.lever.co/distro/d488dbe1-b9c8-4857-bf8b-5d02123f4987) |
 | Senior TypeScript Engineer | [RTB House](https://rtbhouse.com) | — | Jun 8 | [Apply](https://job-boards.eu.greenhouse.io/rtbhouse/jobs/4889082101) |
 | MedChron SME | [Filevine](https://filevine.com) | — | Jun 8 | [Apply](https://jobs.lever.co/filevine/f4bbb273-e769-4cbd-afdf-5e9ce277f552) |
+| Senior Consultant - Environment | [AECOM](https://aecom.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000130812831) |
 | Staff Software Engineer  | [RTB House](https://rtbhouse.com) | — | Jun 8 | [Apply](https://job-boards.eu.greenhouse.io/rtbhouse/jobs/4888309101) |
 | SPR Sunflower Parental Characterization Coordinator  | [Syngenta](https://syngenta.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000130795399) |
 | Staff Software Engineer (.Net and AWS) | [Diligent Corporation](https://diligent.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/diligentcorporation/jobs/5988542004) |

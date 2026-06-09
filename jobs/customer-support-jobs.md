@@ -2,12 +2,15 @@
 
 Remote customer support and success roles across SaaS, e-commerce, and tech.
 
-**274 open roles** — Last updated: 2026-06-08
+**277 open roles** — Last updated: 2026-06-09
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Technical Customer Success Manager- EAST | [Honeycomb.io](https://honeycomb.io) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/honeycomb/jobs/5233408008) |
+| Technical Customer Success Manager- EAST | [Honeycomb.io](https://honeycomb.io) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/honeycomb/jobs/5233406008) |
+| Customer Experience Associate (Unlicensed) | [Robinhood](https://robinhood.com) | — | Jun 8 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7991112?t=gh_src=&gh_jid=7991112) |
 | Consultant, Customer Experience | [Standard Bank](https://standardbank.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000130850839) |
 | Customer Support Specialist with German & English (Remote - Antivirus Software) | [Genpak LLC](https://genpak-llc-2) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000130848526) |
 | Customer Service Rep(09665) - 661 NW 32nd St | [Domino's](https://dominos.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130694390) |

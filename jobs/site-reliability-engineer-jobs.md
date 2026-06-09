@@ -2,12 +2,16 @@
 
 SRE and reliability engineering roles at companies that take uptime seriously.
 
-**20 open roles** — Last updated: 2026-06-08
+**24 open roles** — Last updated: 2026-06-09
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Site Reliability Engineer | [SecurityScorecard](https://securityscorecard.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/securityscorecard/jobs/7991310) |
+| Senior Site Reliability Engineer | [Mozilla](https://mozilla.org) | $123K–$144K/yr | Jun 8 | [Apply](https://job-boards.greenhouse.io/mozilla/jobs/7985338) |
+| Senior Site Reliability Engineer | [Mozilla](https://mozilla.org) | £62K–£72K/yr | Jun 8 | [Apply](https://job-boards.greenhouse.io/mozilla/jobs/7985337) |
+| Senior Site Reliability Engineer | [Mozilla](https://mozilla.org) | $108K–$125K/yr | Jun 8 | [Apply](https://job-boards.greenhouse.io/mozilla/jobs/7985325) |
 | Senior Site Reliability Engineer | [Calendly](https://calendly.com) | — | Jun 4 | [Apply](https://job-boards.greenhouse.io/calendly/jobs/8579321002) |
 | Site Reliability Engineer | [Sectigo](https://sectigo.com) | — | Jun 4 | [Apply](https://api.smartrecruiters.com/v1/companies/Sectigo/postings/3743990013465967) |
 | Senior SRE/Platform/ Observability Engineer | [NCS](https://ncs.co) | — | Jun 3 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001129569) |

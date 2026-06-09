@@ -2,16 +2,26 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**918 open roles** — Last updated: 2026-06-08
+**928 open roles** — Last updated: 2026-06-09
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Enterprise Account Executive - Montreal/Toronto | [Chainguard](https://chainguard.dev) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/chainguard/jobs/4687500006) |
+| Sales Host | [Frasers Group](https://frasersgroup.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000130878478) |
+| Freight Agent (remote) | [Distro](https://distro.app) | — | Jun 8 | [Apply](https://jobs.lever.co/distro/d6102512-8fad-4f99-86c2-e0e034d7f76e) |
+| Director, Sales Enablement | [Docker](https://docker.com) | — | Jun 8 | [Apply](https://jobs.ashbyhq.com/docker/58524e05-a6ab-48ad-8a3c-67d9ac05ff6e) |
+| Senior Account Executive, Commercial, DACH | [HackerOne](https://hackerone.com) | £65K–£73K/yr | Jun 8 | [Apply](https://jobs.ashbyhq.com/hackerone/4ded5c3c-3b7c-4e87-8d0c-5e9c859e6e4a) |
+| Account Executive, Commercial - SMB (East) | [Smartsheet](https://smartsheet.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/smartsheet/jobs/7990798) |
+| Sr BDR (Netherlands) | [Dandy](https://meetdandy.com) | — | Jun 8 | [Apply](https://jobs.ashbyhq.com/dandy/e00aa5bf-91a1-4a32-a6de-1df9ed5ebccc) |
+| Principal Partner Solutions Consultant  | [Cresta](https://cresta.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/cresta/jobs/5238215008) |
+| Partner Program Director | [Cresta](https://cresta.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/cresta/jobs/5250874008) |
 | Sales Manager B2B / Telesales - 100% Remote in Hamburg und Umgebung (d/m/w) | [AUTO1 Group](https://auto1-group.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000130825812) |
 | Emploi Étudiant en Vente | [JYSK](https://jysk.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000130801140) |
 | ASISTENT/KA PRODEJE V PRODEJNĚ JYSK- možnost zkráceného úvazku - SA template | [JYSK](https://jysk.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000130800349) |
 | Sales Assistant NUOVA APERTURA  - Categoria Protetta L.68/99 - Romano di Lombardia (BG) | [JYSK](https://jysk.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000130799295) |
+| Restaurant Account Manager | [Sharebite](https://sharebite.com) | $65K–$75K/yr | Jun 8 | [Apply](https://job-boards.greenhouse.io/sharebite/jobs/6016044004) |
 | Inbound Sales Representative - French Market | [Tripadvisor](https://tripadvisor.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/tripadvisor/jobs/7959852) |
 | Sales Specialist | [Tide](https://tide.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/tide/jobs/7713104003) |
 | Sales Enablement Specialist Nordics | [RTB House](https://rtbhouse.com) | — | Jun 8 | [Apply](https://job-boards.eu.greenhouse.io/rtbhouse/jobs/4884650101) |

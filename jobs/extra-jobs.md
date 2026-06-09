@@ -2,16 +2,21 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**1061 open roles** — Last updated: 2026-06-08
+**1066 open roles** — Last updated: 2026-06-09
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Public Sector Lead - SLED | [IonQ](https://ionq.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/ionq/jobs/6009277004) |
+| DC Licensed 1099 Mental HealthTherapist | [Mantra Health](https://mantrahealth.com) | $60/yr | Jun 8 | [Apply](https://job-boards.greenhouse.io/mantrahealth/jobs/6016572004) |
+| Dental Launch Trainer (UK) | [Dandy](https://meetdandy.com) | — | Jun 8 | [Apply](https://jobs.ashbyhq.com/dandy/96b71018-fce2-4273-9a0e-213dfb20450d) |
+| MA Licensed 1099 Mental HealthTherapist | [Mantra Health](https://mantrahealth.com) | $60/yr | Jun 8 | [Apply](https://job-boards.greenhouse.io/mantrahealth/jobs/6016509004) |
 | Staff Software Engineer | [GiveCampus](https://givecampus.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/givecampus/jobs/4278428009) |
 | Product Management Intern, Unified Access - Fall 2026 | [1Password](https://1password.com) | — | Jun 8 | [Apply](https://jobs.ashbyhq.com/1password/f1bcc5f9-c715-468e-905c-b3f96f7dd1a6) |
 | Manager, Chief International Officer (CIO) Office | [Delivery Hero](https://deliveryhero.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000130862409) |
 | Manager, Chief International Officer (CIO) Office | [Delivery Hero](https://deliveryhero.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000130860914) |
+| 1099 Mental HealthTherapist - Nationwide | [Mantra Health](https://mantrahealth.com) | $60/yr | Jun 8 | [Apply](https://job-boards.greenhouse.io/mantrahealth/jobs/6016352004) |
 | EMPLOYE COMMERCIAL (H/F) RAYON CHARCUTERIE TRAITEUR FROMAGE TRAD | [Genpak LLC](https://genpak-llc-2) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130854421) |
 | responsable Frais  | [Genpak LLC](https://genpak-llc-2) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130850613) |
 | PATISSIER | [Genpak LLC](https://genpak-llc-2) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130843387) |

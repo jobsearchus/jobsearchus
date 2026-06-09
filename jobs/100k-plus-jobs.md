@@ -2,15 +2,23 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**642 open roles** — Last updated: 2026-06-08
+**650 open roles** — Last updated: 2026-06-09
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Developer Relations Evangelist  | [AssemblyAI](https://assemblyai.com) | $130K–$190K/yr | Jun 8 | [Apply](https://job-boards.greenhouse.io/assemblyai/jobs/4703690005) |
+| Staff Applications Engineer, GTM Systems | [HackerOne](https://hackerone.com) | $220K–$235K/yr | Jun 8 | [Apply](https://jobs.ashbyhq.com/hackerone/62c0d421-71f7-43c0-989d-dc89782041d7) |
 | QA Automation Engineer | [Slingshot Aerospace](https://slingshotaerospace.com) | $105K–$160K/yr | Jun 8 | [Apply](https://job-boards.greenhouse.io/slingshotaerospace/jobs/6016469004?gh_jid=6016469004) |
+| Senior Software Engineer II AI-Native, Mobile - Pet Experiences | [Life360](https://life360.com) | $148K–$216K/yr | Jun 8 | [Apply](https://job-boards.greenhouse.io/life360/jobs/8582261002) |
+| Senior GTM Operations Engineer | [HackerOne](https://hackerone.com) | $153K–$187K/yr | Jun 8 | [Apply](https://jobs.ashbyhq.com/hackerone/c96e0eec-fe37-45a6-86dd-e2b1efdffa05) |
 | Senior Client Solution Architect (Remote) | [Myriad360](https://myriad360.com) | $250K–$275K/yr | Jun 8 | [Apply](https://boards.greenhouse.io/myriad360/jobs/8582560002?gh_jid=8582560002) |
 | Senior Client Solution Architect (Remote) | [Myriad360](https://myriad360.com) | $250K–$275K/yr | Jun 8 | [Apply](https://boards.greenhouse.io/myriad360/jobs/8582554002?gh_jid=8582554002) |
+| GTM Engineer | [Greenhouse](https://greenhouse.com) | $118K–$176K/yr | Jun 8 | [Apply](https://job-boards.greenhouse.io/greenhouse/jobs/7985838?gh_jid=7985838) |
+| GTM Engineer | [Greenhouse](https://greenhouse.com) | $118K–$176K/yr | Jun 8 | [Apply](https://job-boards.greenhouse.io/greenhouse/jobs/7982414?gh_jid=7982414) |
+| Senior Site Reliability Engineer | [Mozilla](https://mozilla.org) | $123K–$144K/yr | Jun 8 | [Apply](https://job-boards.greenhouse.io/mozilla/jobs/7985338) |
+| Senior Site Reliability Engineer | [Mozilla](https://mozilla.org) | $108K–$125K/yr | Jun 8 | [Apply](https://job-boards.greenhouse.io/mozilla/jobs/7985325) |
 | Lead Solutions Consultant - US | [Perk](https://perk.com) | $141K–$165K/yr | Jun 8 | [Apply](https://jobs.ashbyhq.com/perk/cbdc07f0-ee67-4b2c-b1e6-9d4f6c6b53fa) |
 | Equity Analyst & Reporter | [Versant](https://versant.com) | $100K–$125K/yr | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/Versant3/postings/744000130803969) |
 | Solutions Development Architect : Datacenter (Remote) | [Myriad360](https://myriad360.com) | $150K–$180K/yr | Jun 8 | [Apply](https://boards.greenhouse.io/myriad360/jobs/8575489002?gh_jid=8575489002) |

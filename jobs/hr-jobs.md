@@ -2,7 +2,7 @@
 
 Remote HR, recruiting, and people operations roles.
 
-**184 open roles** — Last updated: 2026-06-08
+**185 open roles** — Last updated: 2026-06-09
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -10,6 +10,7 @@ Remote HR, recruiting, and people operations roles.
 | --- | --- | --- | --- | --- |
 | HR Back - office administrator with ITALIAN | [Genpak LLC](https://genpak-llc-2) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000130861420) |
 | JR Analista de Departamento Pessoal - Afirmativa para Pessoas com Deficiência (PCD) | [ília](https://lia.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/ilia/jobs/6016294004) |
+| HR Operations Partner | [Vonage](https://vonage.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/vonage/jobs/8582066002) |
 | Senior Technical Recruiter | [Mapbox](https://mapbox.com) | — | Jun 8 | [Apply](https://jobs.ashbyhq.com/mapbox/0214e461-fbc4-4e3b-99f9-55daabbd27f4) |
 | Lifecycle Operations Lead, Time & Attendance | [Remote](https://remote.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/remotecom/jobs/7766002003) |
 | Lifecycle Operations Lead, Time & Attendance | [Remote](https://remote.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/remotecom/jobs/7765999003) |

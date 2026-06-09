@@ -2,18 +2,25 @@
 
 Remote jobs open to candidates with 0–2 years of experience. A real way in — no degree gatekeeping.
 
-**1033 open roles** — Last updated: 2026-06-08
+**1040 open roles** — Last updated: 2026-06-09
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Material Handler / Warehouse Associate - 1st Shift, 6AM - 2PM | [Avery Dennison](https://averydennison.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000130886678) |
+| Sales Host | [Frasers Group](https://frasersgroup.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000130878478) |
+| Sports Marketing Intern - Fall 2026 | [1Password](https://1password.com) | — | Jun 8 | [Apply](https://jobs.ashbyhq.com/1password/777b0c0e-cc29-4959-a649-ddd4c0b365c7) |
 | Product Management Intern, Device Trust - Fall 2026 | [1Password](https://1password.com) | — | Jun 8 | [Apply](https://jobs.ashbyhq.com/1password/97775e0c-57f4-4947-b129-0876211f4c5a) |
 | Product Design, Design & UX, Enterprise Password Manager Intern - Fall 2026 | [1Password](https://1password.com) | — | Jun 8 | [Apply](https://jobs.ashbyhq.com/1password/6d60d60c-4290-43e5-9de2-e771adf4a559) |
+| Especialista en Monitoreo de video | [Distro](https://distro.app) | — | Jun 8 | [Apply](https://jobs.lever.co/distro/ba2dec59-625c-40c2-83ce-ebcb36d60e70) |
+| Finishing Operator- Night Shift | [Avery Dennison](https://averydennison.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000130865079) |
+| Finishing Floating Operator- Rotating Night Shift | [Avery Dennison](https://averydennison.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000130864049) |
 | EMPLOYE COMMERCIAL (H/F) RAYON CHARCUTERIE TRAITEUR FROMAGE TRAD | [Genpak LLC](https://genpak-llc-2) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130854421) |
 | JR Analista de Departamento Pessoal - Afirmativa para Pessoas com Deficiência (PCD) | [ília](https://lia.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/ilia/jobs/6016294004) |
 | responsable Frais  | [Genpak LLC](https://genpak-llc-2) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130850613) |
 | PATISSIER | [Genpak LLC](https://genpak-llc-2) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130843387) |
+| General Assistant (Cleaning Team) - Everlast Gyms | [Frasers Group](https://frasersgroup.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000130839339) |
 | Lead Solutions Consultant - US | [Perk](https://perk.com) | $141K–$165K/yr | Jun 8 | [Apply](https://jobs.ashbyhq.com/perk/cbdc07f0-ee67-4b2c-b1e6-9d4f6c6b53fa) |
 | RETAIL ASSISTANT | [Primark Tiendas SLU](https://primark.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000130807329) |
 | Emploi Étudiant en Vente | [JYSK](https://jysk.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000130801140) |
