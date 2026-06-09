@@ -2,13 +2,19 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**1066 open roles** — Last updated: 2026-06-09
+**1077 open roles** — Last updated: 2026-06-09
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Nurse Trainer and Assessor (ongoing casual) | [Healthcare Australia](https://healthcareaustralia.com.au) | $69/yr | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/HealthcareAustralia1/postings/6000000001139047) |
+| Senior Therapy Coordinator | [Genpak LLC](https://genpak-llc-2) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/APMGroup/postings/6000000001138578) |
+| Massage Therapist | [Genpak LLC](https://genpak-llc-2) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/APMGroup/postings/6000000001138159) |
+| Clinical Nurse Leader | [Healthcare Australia](https://healthcareaustralia.com.au) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/HealthcareAustralia1/postings/6000000001138062) |
+| HSE/Auxiliary Trainer | [Anglo American](https://angloamerican.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000130894435) |
 | Senior Public Sector Lead - SLED | [IonQ](https://ionq.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/ionq/jobs/6009277004) |
+| Équipier - H/F | [Genpak LLC](https://genpak-llc-2) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000130880829) |
 | DC Licensed 1099 Mental HealthTherapist | [Mantra Health](https://mantrahealth.com) | $60/yr | Jun 8 | [Apply](https://job-boards.greenhouse.io/mantrahealth/jobs/6016572004) |
 | Dental Launch Trainer (UK) | [Dandy](https://meetdandy.com) | — | Jun 8 | [Apply](https://jobs.ashbyhq.com/dandy/96b71018-fce2-4273-9a0e-213dfb20450d) |
 | MA Licensed 1099 Mental HealthTherapist | [Mantra Health](https://mantrahealth.com) | $60/yr | Jun 8 | [Apply](https://job-boards.greenhouse.io/mantrahealth/jobs/6016509004) |
@@ -17,8 +23,13 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Manager, Chief International Officer (CIO) Office | [Delivery Hero](https://deliveryhero.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000130862409) |
 | Manager, Chief International Officer (CIO) Office | [Delivery Hero](https://deliveryhero.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000130860914) |
 | 1099 Mental HealthTherapist - Nationwide | [Mantra Health](https://mantrahealth.com) | $60/yr | Jun 8 | [Apply](https://job-boards.greenhouse.io/mantrahealth/jobs/6016352004) |
+| Dish Crew Steward - Rohr's | [University of Notre Dame](https://universityofnotredame.com) | $18/yr | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013518596) |
+| Vice President - Global Support Services | [Freshworks](https://freshworks.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000130858188) |
+| Analista de Treinamento Jr. | [MSX International](https://msxi.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013517955) |
+| Analista de Treinamento Jr. | [MSX International](https://msxi.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013517925) |
 | EMPLOYE COMMERCIAL (H/F) RAYON CHARCUTERIE TRAITEUR FROMAGE TRAD | [Genpak LLC](https://genpak-llc-2) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130854421) |
 | responsable Frais  | [Genpak LLC](https://genpak-llc-2) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130850613) |
+| Hôte de caisse F/H/X CDD ETE | [BUT](https://but.fr) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000130848249) |
 | PATISSIER | [Genpak LLC](https://genpak-llc-2) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130843387) |
 | Banker, Relationship, Enterprise Direct | [Standard Bank](https://standardbank.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000130829018) |
 | Experienced Consultant: Health & Consumer (m/f/d) | [Roland Berger](https://rolandberger.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/RolandBerger/postings/744000130807556) |

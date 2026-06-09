@@ -2,12 +2,13 @@
 
 Data science, machine learning, and AI engineering roles. Python, SQL, PyTorch, and beyond.
 
-**102 open roles** — Last updated: 2026-06-09
+**103 open roles** — Last updated: 2026-06-09
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Platform Senior AI Engineer | [NCS](https://ncs.co) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001138861) |
 | Senior AI/ML Engineer | [Chime](https://chime.com) | $15K/yr | Jun 8 | [Apply](https://boards.greenhouse.io/chime/jobs/8569366002?gh_jid=8569366002) |
 | Senior Data/ML Engineer (AWS) | [Capstone Integrated Solutions](https://capstoneintegratedsolutions.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/capstoneintegratedsolutions/jobs/5158460007) |
 | Senior Data Scientist | [Rovio](https://rovio.com) | — | Jun 8 | [Apply](https://jobs.lever.co/rovio-2/fbbf07b6-2c3d-47d1-bec8-a56ad9897695) |

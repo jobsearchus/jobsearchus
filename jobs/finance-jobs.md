@@ -2,15 +2,21 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**462 open roles** — Last updated: 2026-06-09
+**468 open roles** — Last updated: 2026-06-09
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Accountant | [Egis](https://egis-group.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000131044689) |
 | Fraud Investigator - Customer Protection | [Robinhood](https://robinhood.com) | — | Jun 8 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7964038?t=gh_src=&gh_jid=7964038) |
+|  Client Accountant - Funds | [IQ-EQ](https://iqeq.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000130861899) |
+| Operador Financeiro Jr. | [MSX International](https://msxi.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013518025) |
+| FP&A Manager - GTM | [Freshworks](https://freshworks.com) | $150K–$190K/yr | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000130857859) |
 | Mortgage Loan Processor- High Net Worth Loans | [Genpak LLC](https://genpak-llc-2) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000130854930) |
 | Financial Reporting & Equity Administration Senior Accountant | [IonQ](https://ionq.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/ionq/jobs/6015382004) |
+| AML/CFT Services, Manager, RC | [IQ-EQ](https://iqeq.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000130836370) |
+| Officer 3, Regulatory & Compliance | [IQ-EQ](https://iqeq.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000130834802) |
 | Equity Analyst & Reporter | [Versant](https://versant.com) | $100K–$125K/yr | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/Versant3/postings/744000130803969) |
 | Application Security Engineer | [Paystack](https://paystack.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/paystack/jobs/8581608002) |
 | Treasury Analyst | [Convera](https://convera.com) | — | Jun 8 | [Apply](https://job-boards.eu.greenhouse.io/convera/jobs/4880920101) |

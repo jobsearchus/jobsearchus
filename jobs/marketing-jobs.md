@@ -2,19 +2,23 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**350 open roles** — Last updated: 2026-06-09
+**354 open roles** — Last updated: 2026-06-09
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| SEO Lead (Malaysia) | [Canva](https://canva.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001138816) |
 | Senior Manager, User Acquisition | [Gametime](https://gametime.co) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/gametimeunited/jobs/5251558008) |
 | Senior Manager, Paid Search | [Gametime](https://gametime.co) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/gametimeunited/jobs/5251460008) |
 | Field Marketing Manager | [Instrumentl](https://instrumentl.com) | — | Jun 8 | [Apply](https://jobs.lever.co/Instrumentl/e22a5f97-e72a-4bd7-94bc-075dc9539983) |
+| Regional Careers Specialist - iNDustry Labs | [University of Notre Dame](https://universityofnotredame.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013521747) |
 | Sports Marketing Intern - Fall 2026 | [1Password](https://1password.com) | — | Jun 8 | [Apply](https://jobs.ashbyhq.com/1password/777b0c0e-cc29-4959-a649-ddd4c0b365c7) |
 | SVP Marketing | [AUTO1 Group](https://auto1-group.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000130858646) |
 | Senior Demand Generation Manager | [Abacum](https://abacum.ai) | — | Jun 8 | [Apply](https://jobs.ashbyhq.com/abacum/86a25249-d5d2-4ac3-a5e0-fa1562026147) |
+| Sr. Manager, Marketing Strategy | [NBCUniversal](https://nbcuniversal.com) | $115K–$145K/yr | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130850889) |
 | Media Planner | [Chime](https://chime.com) | $15K/yr | Jun 8 | [Apply](https://boards.greenhouse.io/chime/jobs/8581012002?gh_jid=8581012002) |
+| Bilingual News Zone Producer, NBC & Telemundo New York  | [NBCUniversal](https://nbcuniversal.com) | $70K–$100K/yr | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130828829) |
 | Senior Consultant(e) Digital Marketing (H/F) - CDI - Paris  | [LinkedIn Job Wrapping](https://artefact.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/artefactlinkedin/jobs/8581618002) |
 | Brand Management Specialist [L5~L6-I] (Beauty) | [Coupang](https://coupang.com) | — | Jun 8 | [Apply](https://boards.greenhouse.io/coupanginternal/jobs/7984342?gh_jid=7984342) |
 | Restaurant Promotions Specialist | [Wolt](https://wolt.com) | — | Jun 7 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7983192) |

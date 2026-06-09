@@ -2,15 +2,24 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**1538 open roles** — Last updated: 2026-06-09
+**1547 open roles** — Last updated: 2026-06-09
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| AOV MOV Valve Diagnostic Tester - Nuclear | [Egis](https://egis-group.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000131043989) |
+| Associate Principal Engineer, Delivery | [Nagarro](https://nagarro.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000131032107) |
+| #EG Desktop Support Engineers (EUSS) | [NCS](https://ncs.co) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001138761) |
+| Analista de Atendimento Junior | [Experian](https://experianplc.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000130897789) |
+| Analista de Atendimento Pleno  | [Experian](https://experianplc.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000130896131) |
 | Flight Support Engineer - Night Shift (Brazil) | [Pyka](https://flypyka.com) | — | Jun 8 | [Apply](https://jobs.lever.co/pyka/64f0c454-e436-46c7-9ddb-3e8e4fde4987) |
+| Junior Data Analyst (Operations / Sales Analytics) | [SBT Global](https://sbtglobal.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/SBTGlobalInc/postings/3743990013526926) |
+| Mechanical Technician (Illinois) | [Continental](https://continentalserves.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000130886764) |
+| Sr. Manager, Solution Engineering  | [Freshworks](https://freshworks.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000130881459) |
 | Staff Applications Engineer, GTM Systems | [HackerOne](https://hackerone.com) | $220K–$235K/yr | Jun 8 | [Apply](https://jobs.ashbyhq.com/hackerone/62c0d421-71f7-43c0-989d-dc89782041d7) |
 | [Job- 29771] Software Architect Senior, Brazil | [CI&T](https://cit.com) | — | Jun 8 | [Apply](https://jobs.lever.co/ciandt/7d37c726-8d13-49c5-bda5-05bdd6638991) |
+| IT Solutions Associate - Campus Safety and University Operations | [University of Notre Dame](https://universityofnotredame.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013521476) |
 | Senior Software Engineer II AI-Native, Mobile - Pet Experiences | [Life360](https://life360.com) | $148K–$216K/yr | Jun 8 | [Apply](https://job-boards.greenhouse.io/life360/jobs/8582261002) |
 | Senior Client Solution Architect (Remote) | [Myriad360](https://myriad360.com) | $250K–$275K/yr | Jun 8 | [Apply](https://boards.greenhouse.io/myriad360/jobs/8582560002?gh_jid=8582560002) |
 | Senior Client Solution Architect (Remote) | [Myriad360](https://myriad360.com) | $250K–$275K/yr | Jun 8 | [Apply](https://boards.greenhouse.io/myriad360/jobs/8582554002?gh_jid=8582554002) |

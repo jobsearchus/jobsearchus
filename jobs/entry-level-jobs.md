@@ -2,20 +2,32 @@
 
 Remote jobs open to candidates with 0–2 years of experience. A real way in — no degree gatekeeping.
 
-**1040 open roles** — Last updated: 2026-06-09
+**1052 open roles** — Last updated: 2026-06-09
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| #EG Desktop Support Engineers (EUSS) | [NCS](https://ncs.co) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001138761) |
+| Analista de Atendimento Junior | [Experian](https://experianplc.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000130897789) |
+| Purchasing Intern | [Continental](https://continentalserves.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000130897104) |
+| Junior Data Analyst (Operations / Sales Analytics) | [SBT Global](https://sbtglobal.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/SBTGlobalInc/postings/3743990013526926) |
+| Mechanical Technician (Illinois) | [Continental](https://continentalserves.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000130886764) |
 | Material Handler / Warehouse Associate - 1st Shift, 6AM - 2PM | [Avery Dennison](https://averydennison.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000130886678) |
+| Production Operator  | [Continental](https://continentalserves.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000130881050) |
+| Équipier - H/F | [Genpak LLC](https://genpak-llc-2) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000130880829) |
 | Sales Host | [Frasers Group](https://frasersgroup.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000130878478) |
+| IT Solutions Associate - Campus Safety and University Operations | [University of Notre Dame](https://universityofnotredame.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013521476) |
 | Sports Marketing Intern - Fall 2026 | [1Password](https://1password.com) | — | Jun 8 | [Apply](https://jobs.ashbyhq.com/1password/777b0c0e-cc29-4959-a649-ddd4c0b365c7) |
 | Product Management Intern, Device Trust - Fall 2026 | [1Password](https://1password.com) | — | Jun 8 | [Apply](https://jobs.ashbyhq.com/1password/97775e0c-57f4-4947-b129-0876211f4c5a) |
 | Product Design, Design & UX, Enterprise Password Manager Intern - Fall 2026 | [1Password](https://1password.com) | — | Jun 8 | [Apply](https://jobs.ashbyhq.com/1password/6d60d60c-4290-43e5-9de2-e771adf4a559) |
 | Especialista en Monitoreo de video | [Distro](https://distro.app) | — | Jun 8 | [Apply](https://jobs.lever.co/distro/ba2dec59-625c-40c2-83ce-ebcb36d60e70) |
 | Finishing Operator- Night Shift | [Avery Dennison](https://averydennison.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000130865079) |
 | Finishing Floating Operator- Rotating Night Shift | [Avery Dennison](https://averydennison.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000130864049) |
+| Dish Crew Steward - Rohr's | [University of Notre Dame](https://universityofnotredame.com) | $18/yr | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013518596) |
+| Operador Financeiro Jr. | [MSX International](https://msxi.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013518025) |
+| Analista de Treinamento Jr. | [MSX International](https://msxi.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013517955) |
+| Analista de Treinamento Jr. | [MSX International](https://msxi.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013517925) |
 | EMPLOYE COMMERCIAL (H/F) RAYON CHARCUTERIE TRAITEUR FROMAGE TRAD | [Genpak LLC](https://genpak-llc-2) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130854421) |
 | JR Analista de Departamento Pessoal - Afirmativa para Pessoas com Deficiência (PCD) | [ília](https://lia.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/ilia/jobs/6016294004) |
 | responsable Frais  | [Genpak LLC](https://genpak-llc-2) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000130850613) |

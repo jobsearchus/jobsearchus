@@ -2,12 +2,13 @@
 
 Product manager roles at companies building real products. Sourced directly from career pages.
 
-**172 open roles** — Last updated: 2026-06-09
+**173 open roles** — Last updated: 2026-06-09
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Product Manager - Content Safety  | [Canva](https://canva.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001138569) |
 | Sr. Director, Pricing & Packaging | [Smartsheet](https://smartsheet.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/smartsheet/jobs/7991550) |
 | Product Design, Design & UX, Enterprise Password Manager Intern - Fall 2026 | [1Password](https://1password.com) | — | Jun 8 | [Apply](https://jobs.ashbyhq.com/1password/6d60d60c-4290-43e5-9de2-e771adf4a559) |
 | Product Lead | [Attio](https://attio.com) | — | Jun 8 | [Apply](https://jobs.ashbyhq.com/attio/51876281-f2ca-4375-b07d-af54544fc27c) |

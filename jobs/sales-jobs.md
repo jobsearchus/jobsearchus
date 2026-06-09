@@ -2,13 +2,16 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**928 open roles** — Last updated: 2026-06-09
+**931 open roles** — Last updated: 2026-06-09
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Account Executive - Direct & Channel Sales - Japan | [Canva](https://canva.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001139150) |
+| Commercial Account Director - Government - Hybrid | [Experian](https://experianplc.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000130984410) |
 | Enterprise Account Executive - Montreal/Toronto | [Chainguard](https://chainguard.dev) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/chainguard/jobs/4687500006) |
+| Inside Sales Professional - Bilingual  | [Manitoulin Global Forwarding](https://manitoulingroup.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000130878421) |
 | Sales Host | [Frasers Group](https://frasersgroup.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000130878478) |
 | Freight Agent (remote) | [Distro](https://distro.app) | — | Jun 8 | [Apply](https://jobs.lever.co/distro/d6102512-8fad-4f99-86c2-e0e034d7f76e) |
 | Director, Sales Enablement | [Docker](https://docker.com) | — | Jun 8 | [Apply](https://jobs.ashbyhq.com/docker/58524e05-a6ab-48ad-8a3c-67d9ac05ff6e) |

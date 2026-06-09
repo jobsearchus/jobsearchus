@@ -2,24 +2,29 @@
 
 Remote operations and business operations roles across industries.
 
-**1103 open roles** — Last updated: 2026-06-09
+**1109 open roles** — Last updated: 2026-06-09
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Supervisor de Perforación y Voladura - Temporal | [Anglo American](https://angloamerican.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000130899190) |
+| Purchasing Intern | [Continental](https://continentalserves.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000130897104) |
 | Material Handler / Warehouse Associate - 1st Shift, 6AM - 2PM | [Avery Dennison](https://averydennison.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000130886678) |
 | Delivery Consultant | [Airtable](https://airtable.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8582568002) |
 | AI-Driven Talent Acquisition Lead (Remote) | [Hone Health](https://honehealth.com) | $90K–$110K/yr | Jun 8 | [Apply](https://job-boards.greenhouse.io/honehealth/jobs/5251486008) |
+| Production Operator  | [Continental](https://continentalserves.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000130881050) |
 | Senior GTM Operations Engineer | [HackerOne](https://hackerone.com) | $153K–$187K/yr | Jun 8 | [Apply](https://jobs.ashbyhq.com/hackerone/c96e0eec-fe37-45a6-86dd-e2b1efdffa05) |
 | Especialista en Monitoreo de video | [Distro](https://distro.app) | — | Jun 8 | [Apply](https://jobs.lever.co/distro/ba2dec59-625c-40c2-83ce-ebcb36d60e70) |
 | Finishing Operator- Night Shift | [Avery Dennison](https://averydennison.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000130865079) |
 | Finishing Floating Operator- Rotating Night Shift | [Avery Dennison](https://averydennison.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000130864049) |
+| Operadora / Operador Máquinas B (Operação de Mina) | [Anglo American](https://angloamerican.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000130862689) |
 | Country Manager (Netherlands) | [Dandy](https://meetdandy.com) | — | Jun 8 | [Apply](https://jobs.ashbyhq.com/dandy/2fa07c86-348d-4eb9-a221-b17c3baf3cb4) |
 | Logistics Performance Sr Analyst | [Delivery Hero](https://deliveryhero.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000130860069) |
 | General Assistant (Cleaning Team) - Everlast Gyms | [Frasers Group](https://frasersgroup.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000130839339) |
 | Facility Manager (d/m/w)  | [AUTO1 Group](https://auto1-group.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000130838818) |
 | Base Optimization Specialist | [Airtable](https://airtable.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8580787002) |
+| Technical Logistics Assistant IV | [NBCUniversal](https://nbcuniversal.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130820731) |
 | Harvesting Mechanic | [Super-Sod](https://supersod.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/supersod/jobs/5249550008) |
 | Project Scheduler | [Mariana Minerals](https://marianaminerals.com) | — | Jun 8 | [Apply](https://jobs.ashbyhq.com/marianaminerals/86661368-ecf7-4da9-a82b-fb089b8ec461) |
 | Lifecycle Operations Lead, Time & Attendance | [Remote](https://remote.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/remotecom/jobs/7764990003) |
@@ -33,6 +38,7 @@ Remote operations and business operations roles across industries.
 | Shift Lead, Partner Service | [Delivery Hero](https://deliveryhero.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000130725420) |
 | Founder Associate | [Wheely](https://wheely.com) | — | Jun 8 | [Apply](https://boards.greenhouse.io/wheely/jobs/7765792003?gh_jid=7765792003) |
 | Warehouse Manager | [Delivery Hero](https://deliveryhero.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000130717049) |
+| Lead Service Delivery Manager | [NCS](https://ncs.co) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001137219) |
 | [CFS] Area Manager, ICQA (ICQA DAE8) | [Coupang](https://coupang.com) | — | Jun 8 | [Apply](https://boards.greenhouse.io/coupanginternal/jobs/7988332?gh_jid=7988332) |
 | [CFS] Area Manager, ICQA (ICQA DAE3) | [Coupang](https://coupang.com) | — | Jun 8 | [Apply](https://boards.greenhouse.io/coupanginternal/jobs/7988330?gh_jid=7988330) |
 | Driver | [ACCOR](https://group.accor.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130711719) |
