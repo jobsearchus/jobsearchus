@@ -2,13 +2,16 @@
 
 UX design, UI design, and product design roles. Figma, research, and end-to-end product work.
 
-**139 open roles** — Last updated: 2026-06-09
+**142 open roles** — Last updated: 2026-06-09
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior UI/UX Designer (+3 Years Gaming Exp.) | [Gameloft](https://gameloft.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/Gameloft/postings/744000131183796) |
+| Junior Game Designer | [Gameloft](https://gameloft.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/Gameloft/postings/744000131062058) |
 | Senior Architect Of Record  | [Egis](https://egis-group.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000131047339) |
+| Senior Product Designer | [Omada Health](https://omadahealth.com) | $156K–$196K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/omadahealth/jobs/7800336) |
 | Junior Design Intern | [Pursuit](https://pursuit-properties.com) | $35/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/pursuit/jobs/7991738) |
 | Staff Product Designer (Grant OS) | [Instrumentl](https://instrumentl.com) | — | Jun 8 | [Apply](https://jobs.lever.co/Instrumentl/513688c0-2efa-442e-b4de-19f0da10519c) |
 | Product Management Intern, Device Trust - Fall 2026 | [1Password](https://1password.com) | — | Jun 8 | [Apply](https://jobs.ashbyhq.com/1password/97775e0c-57f4-4947-b129-0876211f4c5a) |

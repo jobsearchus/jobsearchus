@@ -2,12 +2,14 @@
 
 Remote legal, compliance, and counsel roles.
 
-**95 open roles** — Last updated: 2026-06-09
+**97 open roles** — Last updated: 2026-06-09
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| French Legal Intern | [Fever](https://feverup.com) | — | Jun 9 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4890223101) |
+| French Legal Intern | [Fever](https://feverup.com) | — | Jun 9 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4890222101) |
 | Officer, Compliance, Stockbroker | [Standard Bank](https://standardbank.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000130848520) |
 | Employment Counsel | [Box](https://box.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/boxinc/jobs/7985372) |
 | Insurance Lawyer – Construction Law H/F | [Egis](https://egis-group.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000130540827) |

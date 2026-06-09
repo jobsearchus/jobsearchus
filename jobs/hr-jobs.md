@@ -2,14 +2,17 @@
 
 Remote HR, recruiting, and people operations roles.
 
-**187 open roles** — Last updated: 2026-06-09
+**190 open roles** — Last updated: 2026-06-09
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| HR Coordinator - 6 months FTC | [NBCUniversal](https://nbcuniversal.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000131181679) |
+| Master Automotive Technician / Mechanic -$35 - $45/HR -  Weekends Off - Rio Rancho/Albuquerque | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | $45/yr | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000131175080) |
 | [Coupang] Senior HR Analytics Specialist  | [Coupang](https://coupang.com) | — | Jun 9 | [Apply](https://boards.greenhouse.io/coupanginternal/jobs/7992129?gh_jid=7992129) |
 | Principal Talent Acquisition Partner | [Redox](https://redoxengine.com) | — | Jun 9 | [Apply](https://jobs.lever.co/redoxengine/e41e7a1e-ff89-49f4-a8c7-d11d562230aa) |
+| Senior Compensation Strategy & Systems Manager | [Replit](https://replit.com) | — | Jun 9 | [Apply](https://jobs.ashbyhq.com/replit/6b9b25d2-cf44-446e-8e1f-dacb5ade7b6c) |
 | HR Back - office administrator with ITALIAN | [Genpak LLC](https://genpak-llc-2) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000130861420) |
 | JR Analista de Departamento Pessoal - Afirmativa para Pessoas com Deficiência (PCD) | [ília](https://lia.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/ilia/jobs/6016294004) |
 | HR Operations Partner | [Vonage](https://vonage.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/vonage/jobs/8582066002) |

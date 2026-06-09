@@ -2,12 +2,16 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**355 open roles** — Last updated: 2026-06-09
+**360 open roles** — Last updated: 2026-06-09
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Director, Brand Partnerships | [NBCUniversal](https://nbcuniversal.com) | $125K–$160K/yr | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000131179965) |
+| Global Senior Marketing Manager, Workwear | [Avery Dennison](https://averydennison.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000131092879) |
+| Bid Writer | [NEC Software Solutions](https://necsoftwaresolutions.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/NECSWS/postings/744000131082137) |
+| Activation Manager | [WPP Media](https://wppmedia.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5220219008) |
 | SEO Lead (Malaysia) | [Canva](https://canva.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001138816) |
 | Director, Performance Marketing -  Unannounced ARPG Mobile Game | [Scopely](https://scopely.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/scopely/jobs/5239651008?gh_jid=5239651008) |
 | Senior Manager, User Acquisition | [Gametime](https://gametime.co) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/gametimeunited/jobs/5251558008) |
@@ -20,6 +24,7 @@ Remote marketing roles across growth, content, brand, and performance channels.
 | Sr. Manager, Marketing Strategy | [NBCUniversal](https://nbcuniversal.com) | $115K–$145K/yr | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130850889) |
 | Media Planner | [Chime](https://chime.com) | $15K/yr | Jun 8 | [Apply](https://boards.greenhouse.io/chime/jobs/8581012002?gh_jid=8581012002) |
 | Bilingual News Zone Producer, NBC & Telemundo New York  | [NBCUniversal](https://nbcuniversal.com) | $70K–$100K/yr | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000130828829) |
+| Account Manager Planning H/F - CDI | [WPP Media](https://wppmedia.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5250615008) |
 | Senior Consultant(e) Digital Marketing (H/F) - CDI - Paris  | [LinkedIn Job Wrapping](https://artefact.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/artefactlinkedin/jobs/8581618002) |
 | Brand Management Specialist [L5~L6-I] (Beauty) | [Coupang](https://coupang.com) | — | Jun 8 | [Apply](https://boards.greenhouse.io/coupanginternal/jobs/7984342?gh_jid=7984342) |
 | Restaurant Promotions Specialist | [Wolt](https://wolt.com) | — | Jun 7 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7983192) |

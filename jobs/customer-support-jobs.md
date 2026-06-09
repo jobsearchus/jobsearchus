@@ -2,12 +2,13 @@
 
 Remote customer support and success roles across SaaS, e-commerce, and tech.
 
-**279 open roles** — Last updated: 2026-06-09
+**280 open roles** — Last updated: 2026-06-09
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Call Center Agent | [MSX International](https://msxi.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013535466) |
 | General Manager (05045)- 3112 Cleveland Ave Unit 3 | [Domino's](https://dominos.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131034050) |
 | Crew Member (03151) - 10555 NW 41st St | [Domino's](https://dominos.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131035663) |
 | Technical Customer Success Manager- EAST | [Honeycomb.io](https://honeycomb.io) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/honeycomb/jobs/5233408008) |

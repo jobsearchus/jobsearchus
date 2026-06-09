@@ -2,12 +2,13 @@
 
 General developer and programmer roles that did not fit a more specific category.
 
-**108 open roles** — Last updated: 2026-06-09
+**109 open roles** — Last updated: 2026-06-09
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Intermediate C++ Developer | [Gameloft](https://gameloft.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/Gameloft/postings/744000131122089) |
 | Senior Game Developer | [Loop Games](https://loopgames.com) | — | Jun 9 | [Apply](https://jobs.lever.co/loopgames/5e966197-eb1d-4d5b-bcf3-d562b39412fa) |
 | Developer Relations Evangelist  | [AssemblyAI](https://assemblyai.com) | $130K–$190K/yr | Jun 8 | [Apply](https://job-boards.greenhouse.io/assemblyai/jobs/4703690005) |
 | [Job 29813] Developer  React Pleno | [CI&T](https://cit.com) | — | Jun 8 | [Apply](https://jobs.lever.co/ciandt/31b39968-ed75-4a2f-a7bc-3794106291c8) |

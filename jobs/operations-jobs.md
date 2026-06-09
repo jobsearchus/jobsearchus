@@ -2,13 +2,26 @@
 
 Remote operations and business operations roles across industries.
 
-**1113 open roles** — Last updated: 2026-06-09
+**1126 open roles** — Last updated: 2026-06-09
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Manager, Center of Excellence | [NBCUniversal](https://nbcuniversal.com) | $95K–$105K/yr | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000131191689) |
+| Automotive Service Estimator/Dispatcher - Starting at $60k* & Weekends Off - South Meridian | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | $60K/yr | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000131171230) |
+| Genesys Cloud CX Change Lead (Part-time) | [Miratech](https://miratech.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000131137951) |
+| Assistant Manager - Milano  | [JD Sports](https://jdsports.com) | — | Jun 9 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4890468101) |
 | Junior Inköpare & Biltestare | [AUTO1 Group](https://auto1-group.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000131084920) |
+| Analyst-AA | [WPP Media](https://wppmedia.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5221682008) |
+| Production Team Leader | [Avery Dennison](https://averydennison.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000131053831) |
+| Product Delivery Coordinator - Remote | [New Era Technology](https://neweratech.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8581880002) |
+| Automotive Dispatcher/ Production Coordinator - Up To $60K & Weekends Off - Higley | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | $60K/yr | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000131040207) |
+| Lead, Customer Advocacy  | [Affirm](https://affirm.com) | $89K–$139K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7764791003) |
+| Revenue Operations Manager | [Bestow](https://bestow.com) | — | Jun 9 | [Apply](https://jobs.ashbyhq.com/bestow/52a1eabb-db44-4179-9c26-23ef29646847) |
+| Senior Associate, Control Tower & Service Delivery | [Flexport](https://flexport.com) | — | Jun 9 | [Apply](https://boards.greenhouse.io/flexport/jobs/7988576?gh_jid=7988576) |
+| Intern, Control Tower & Service Delivery | [Flexport](https://flexport.com) | — | Jun 9 | [Apply](https://boards.greenhouse.io/flexport/jobs/7988600?gh_jid=7988600) |
+| Senior Operations Manager | [Flexport](https://flexport.com) | — | Jun 8 | [Apply](https://boards.greenhouse.io/flexport/jobs/7962155?gh_jid=7962155) |
 | Supervisor de Perforación y Voladura - Temporal | [Anglo American](https://angloamerican.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000130899190) |
 | Purchasing Intern | [Continental](https://continentalserves.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000130897104) |
 | Material Handler / Warehouse Associate - 1st Shift, 6AM - 2PM | [Avery Dennison](https://averydennison.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000130886678) |

@@ -2,13 +2,19 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**944 open roles** — Last updated: 2026-06-09
+**958 open roles** — Last updated: 2026-06-09
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Digital Sales Representative - Activate (Twilio.org) | [Twilio](https://twilio.com) | $30/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7992719) |
+| Sr. Client Partner - Video Business Unit | [Aleph](https://aleph.vc) | — | Jun 9 | [Apply](https://jobs.lever.co/aleph/da79667d-0c4f-4ba3-a250-69f081e9c03d) |
+| Sr. Client Partner - Video Business Unit | [Aleph](https://aleph.vc) | — | Jun 9 | [Apply](https://jobs.lever.co/aleph/9d336026-2cbe-4e93-8e46-0d43f3ae77b4) |
+| Account Executive, Fever for Business (Dutch Speaker) | [Fever](https://feverup.com) | — | Jun 9 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4890437101) |
+| Account Executive - ANZE | [Job Board](https://corelight.com) | $180K–$214K/yr | Jun 9 | [Apply](https://boards.greenhouse.io/corelight/jobs/7960654?gh_jid=7960654) |
 | Account Executive, Commercial Accounts (Remote:  AL/MS) | [Veeam Software](https://veeam.com) | — | Jun 9 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4885244101) |
+| Digital Sales Representative 2 | [Twilio](https://twilio.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7988900) |
 | Associate Manager, Startup Accounts | [Razorpay Software Private Limited](https://razorpay.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4702189005) |
 | Equipier/ Equipière client CDD - Temps plein (H/F) | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000131099183) |
 | Conseiller de vente multimédia CDI - (H/F) 35h - 25H | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000131083509) |
@@ -19,9 +25,14 @@ Remote sales roles — account executives, SDRs, and enterprise deals.
 | Sales Manager B2B / Telesales - 100% Remote (d/m/w) | [AUTO1 Group](https://auto1-group.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000131066750) |
 | Junior Sales Manager B2B / Telesales - 100% Remote (d/m/w) im Rhein-Ruhr-Gebiet | [AUTO1 Group](https://auto1-group.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000131070499) |
 | Senior Software Engineer - Cards Experience EU  | [Perk](https://perk.com) | — | Jun 9 | [Apply](https://jobs.ashbyhq.com/perk/ac6d7e7d-49b5-43d7-9837-d8337cf93561) |
+| Sales Assistant Part Time (Categorie Protette) - Modena C.C. "Grandemilia" | [JD Sports](https://jdsports.com) | — | Jun 9 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4889217101) |
 | Senior Sales Development Representative | [Veeam Software](https://veeam.com) | — | Jun 9 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4865428101) |
+| Account Executive - Automotive | [INFINIT](https://infinit.com) | — | Jun 9 | [Apply](https://jobs.lever.co/infinit/7971cb23-9572-4e79-9f3c-a96897ceb3ad) |
 | Account Executive - Direct & Channel Sales - Japan | [Canva](https://canva.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001139150) |
 | Commercial Account Director - Government - Hybrid | [Experian](https://experianplc.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000130984410) |
+| Account Executive, Commercial | [Zscaler](https://zscaler.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5156026007) |
+| Account Executive, Commercial | [Zscaler](https://zscaler.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5156024007) |
+| Account Executive, Commercial | [Zscaler](https://zscaler.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5156022007) |
 | Technical Account Manager | [RTB House](https://rtbhouse.com) | $110K–$150K/yr | Jun 8 | [Apply](https://job-boards.eu.greenhouse.io/rtbhouse/jobs/4884286101) |
 | Enterprise Account Executive - Montreal/Toronto | [Chainguard](https://chainguard.dev) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/chainguard/jobs/4687500006) |
 | Inside Sales Professional - Bilingual  | [Manitoulin Global Forwarding](https://manitoulingroup.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000130878421) |
@@ -34,6 +45,9 @@ Remote sales roles — account executives, SDRs, and enterprise deals.
 | Principal Partner Solutions Consultant  | [Cresta](https://cresta.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/cresta/jobs/5238215008) |
 | Partner Program Director | [Cresta](https://cresta.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/cresta/jobs/5250874008) |
 | Sales Manager B2B / Telesales - 100% Remote in Hamburg und Umgebung (d/m/w) | [AUTO1 Group](https://auto1-group.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000130825812) |
+| Mid-Market Solutions Engineer | [Box](https://box.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/boxinc/jobs/7988982) |
+| Mid-Market Solutions Engineer | [Box](https://box.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/boxinc/jobs/7988978) |
+| Mid-Market Solutions Engineer | [Box](https://box.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/boxinc/jobs/7983567) |
 | Emploi Étudiant en Vente | [JYSK](https://jysk.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000130801140) |
 | ASISTENT/KA PRODEJE V PRODEJNĚ JYSK- možnost zkráceného úvazku - SA template | [JYSK](https://jysk.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000130800349) |
 | Sales Assistant NUOVA APERTURA  - Categoria Protetta L.68/99 - Romano di Lombardia (BG) | [JYSK](https://jysk.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000130799295) |

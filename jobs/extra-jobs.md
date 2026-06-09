@@ -2,12 +2,16 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**1094 open roles** — Last updated: 2026-06-09
+**1106 open roles** — Last updated: 2026-06-09
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Director, Retail - VenturaOS | [The Trade Desk](https://thetradedesk.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5159663007) |
+| Logistics Manager - English & German or Dutch | [Too Good To Go](https://toogoodtogo.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/toogoodtogo/jobs/7766880003) |
+| Logistics Specialist - English & German or Dutch | [Too Good To Go](https://toogoodtogo.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/toogoodtogo/jobs/7766874003) |
+| Senior Strategy Associate | [Too Good To Go](https://toogoodtogo.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/toogoodtogo/jobs/7766828003) |
 | General Manager - Live Studios (Hybrid-casual Games) | [Genpak LLC](https://genpak-llc-2) | — | Jun 9 | [Apply](https://jobs.ashbyhq.com/voodoo/ee013fb9-3719-430a-b07a-78a25b500370) |
 | EN - Reception INTERNSHIP ❤️ RECEPTION minimum length +4 months from 1.2.2027 for students and candidates from EU | [ACCOR](https://group.accor.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000131096068) |
 | Assistant Restaurant Manager | [ACCOR](https://group.accor.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000131094649) |
@@ -16,8 +20,12 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | AI Builder | [Razorpay Software Private Limited](https://razorpay.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4698362005) |
 | EMPLOI SAISON MAI A OCTOBRE  DRIVE (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000131067206) |
 | ADJOINT CHEF BOUCHER (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000131061336) |
+| Rehabilitation Consultant (OT, Physio, AEP) | [Genpak LLC](https://genpak-llc-2) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/APMGroup/postings/6000000001140391) |
 | General Manager(06135) - 4845 N 90th St. | [Domino's](https://dominos.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131036022) |
 | Nurse Trainer and Assessor (ongoing casual) | [Healthcare Australia](https://healthcareaustralia.com.au) | $69/yr | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/HealthcareAustralia1/postings/6000000001139047) |
+| Veterinary Client Service Representative - Morristown, NJ | [Veritas Veterinary Partners](https://veritasveterinarypartners.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/veritasvetpartners/jobs/5251746008) |
+| Veterinary Assistant - Morristown, NJ | [Veritas Veterinary Partners](https://veritasveterinarypartners.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/veritasvetpartners/jobs/5251743008) |
+| Veterinary Technician – Morristown, NJ | [Veritas Veterinary Partners](https://veritasveterinarypartners.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/veritasvetpartners/jobs/5251737008) |
 | Senior Therapy Coordinator | [Genpak LLC](https://genpak-llc-2) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/APMGroup/postings/6000000001138578) |
 | Massage Therapist | [Genpak LLC](https://genpak-llc-2) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/APMGroup/postings/6000000001138159) |
 | Weekend Licensed Clinician (LCSW, LMFT, Clinical Psychologist) | [Crestwood Behavioral Health](https://crestwoodbehavioralhealth.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/crestwoodcareers/jobs/7766537003) |
@@ -30,10 +38,13 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Clinical Nurse Coordinator - Transplant | [Natera](https://natera.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/natera/jobs/6010819004) |
 | Équipier - H/F | [Genpak LLC](https://genpak-llc-2) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000130880829) |
 | DC Licensed 1099 Mental HealthTherapist | [Mantra Health](https://mantrahealth.com) | $60/yr | Jun 8 | [Apply](https://job-boards.greenhouse.io/mantrahealth/jobs/6016572004) |
+| NC Licensed 1099 Mental HealthTherapist | [Mantra Health](https://mantrahealth.com) | $60/yr | Jun 8 | [Apply](https://job-boards.greenhouse.io/mantrahealth/jobs/6016547004) |
 | Dental Launch Trainer (UK) | [Dandy](https://meetdandy.com) | — | Jun 8 | [Apply](https://jobs.ashbyhq.com/dandy/96b71018-fce2-4273-9a0e-213dfb20450d) |
+| MN Licensed 1099 Mental HealthTherapist | [Mantra Health](https://mantrahealth.com) | $60/yr | Jun 8 | [Apply](https://job-boards.greenhouse.io/mantrahealth/jobs/6016532004) |
 | MA Licensed 1099 Mental HealthTherapist | [Mantra Health](https://mantrahealth.com) | $60/yr | Jun 8 | [Apply](https://job-boards.greenhouse.io/mantrahealth/jobs/6016509004) |
 | Staff Software Engineer | [GiveCampus](https://givecampus.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/givecampus/jobs/4278428009) |
 | Product Management Intern, Unified Access - Fall 2026 | [1Password](https://1password.com) | — | Jun 8 | [Apply](https://jobs.ashbyhq.com/1password/f1bcc5f9-c715-468e-905c-b3f96f7dd1a6) |
+| NY Licensed 1099 Mental HealthTherapist | [Mantra Health](https://mantrahealth.com) | $60/yr | Jun 8 | [Apply](https://job-boards.greenhouse.io/mantrahealth/jobs/6016408004) |
 | Manager, Chief International Officer (CIO) Office | [Delivery Hero](https://deliveryhero.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000130862409) |
 | Manager, Chief International Officer (CIO) Office | [Delivery Hero](https://deliveryhero.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000130860914) |
 | 1099 Mental HealthTherapist - Nationwide | [Mantra Health](https://mantrahealth.com) | $60/yr | Jun 8 | [Apply](https://job-boards.greenhouse.io/mantrahealth/jobs/6016352004) |
@@ -62,6 +73,7 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Bartender - Soho House Copenhagen | [Soho House](https://sohohouse.com) | — | Jun 8 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4888281101) |
 | Resort Houseperson | [ACCOR](https://group.accor.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130713249) |
 | Receptionist | [ACCOR](https://group.accor.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000130711654) |
+| Physical Therapist - PRN  | [Genpak LLC](https://genpak-llc-2) | — | Jun 7 | [Apply](https://job-boards.greenhouse.io/drayerpt/jobs/5158268007) |
 | Dishwasher (Porter) - Soho House West Hollywood | [Soho House](https://sohohouse.com) | — | Jun 7 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4884127101) |
 | Assistant Manager(09408) - 143 Martin Road | [Domino's](https://dominos.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130674197) |
 | General Manager (09408) - 143 Martin Road | [Domino's](https://dominos.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000130674289) |

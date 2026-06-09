@@ -2,13 +2,19 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**656 open roles** — Last updated: 2026-06-09
+**662 open roles** — Last updated: 2026-06-09
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Director, Brand Partnerships | [NBCUniversal](https://nbcuniversal.com) | $125K–$160K/yr | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000131179965) |
+| Account Executive - ANZE | [Job Board](https://corelight.com) | $180K–$214K/yr | Jun 9 | [Apply](https://boards.greenhouse.io/corelight/jobs/7960654?gh_jid=7960654) |
+| EE Lead | [Archer](https://archer.com) | $150K–$190K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7741003003) |
 | Senior Observability Architect - West Coast - PST - Remote  | [Grafana Labs](https://grafana.com) | $204K–$260K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6013689004) |
+| IT Associate | [Owner.com](https://owner.com) | $150K–$170K/yr | Jun 9 | [Apply](https://jobs.ashbyhq.com/Owner/b10724ff-2f6a-4892-898b-26f0d35aeb14) |
+| Senior Product Designer | [Omada Health](https://omadahealth.com) | $156K–$196K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/omadahealth/jobs/7800336) |
+| Manager, Software Engineering (Account Management) | [Affirm](https://affirm.com) | $181K–$241K/yr | Jun 8 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7758888003) |
 | Pronto - Robotics Test Engineer, San Francisco | [Pronto](https://tuprontomx.com) | $298K–$376K/yr | Jun 8 | [Apply](https://job-boards.greenhouse.io/pronto/jobs/8583040002) |
 | Technical Account Manager | [RTB House](https://rtbhouse.com) | $110K–$150K/yr | Jun 8 | [Apply](https://job-boards.eu.greenhouse.io/rtbhouse/jobs/4884286101) |
 | Senior Financial Analyst, Business Partnership | [Discord](https://discord.com) | $152K–$171K/yr | Jun 8 | [Apply](https://job-boards.greenhouse.io/discord/jobs/8580659002) |

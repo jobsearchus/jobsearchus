@@ -2,12 +2,13 @@
 
 Backend, server-side, and API engineering roles. Node.js, Python, Go, Ruby, Java and beyond.
 
-**67 open roles** — Last updated: 2026-06-09
+**68 open roles** — Last updated: 2026-06-09
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Backend Engineer (All Genders) | [Dailymotion](https://dailymotion.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/Dailymotion/postings/744000131129819) |
 | Senior Backend Engineer, Platform | [ClickUp](https://clickup.com) | — | Jun 8 | [Apply](https://jobs.ashbyhq.com/clickup/4db8c9cb-c9b1-4ace-a38b-cc53eea99eee) |
 | Senior Software Engineer, Backend (Taiwan) | [Cresta](https://cresta.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/cresta/jobs/5099052008) |
 | Backend Engineer - Personalization | [Spotify](https://open.spotify.com) | — | Jun 8 | [Apply](https://jobs.lever.co/spotify/aac09f2d-e0cc-43e1-8435-01e60e426520) |

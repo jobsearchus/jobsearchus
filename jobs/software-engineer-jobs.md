@@ -2,16 +2,24 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**1563 open roles** — Last updated: 2026-06-09
+**1575 open roles** — Last updated: 2026-06-09
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Software Developer - Contractor | [Acumatica](https://acumatica.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/Acumatica/postings/744000131161649) |
+| Software Developer | [Acumatica](https://acumatica.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/Acumatica/postings/744000131149122) |
+| Senior Data Engineer | [Genpak LLC](https://genpak-llc-2) | — | Jun 9 | [Apply](https://job-boards.eu.greenhouse.io/valtech/jobs/4890368101) |
+| Senior Data Engineer | [Genpak LLC](https://genpak-llc-2) | — | Jun 9 | [Apply](https://job-boards.eu.greenhouse.io/valtech/jobs/4888650101) |
+| Principal Data Engineer | [Netcompany](https://netcompany.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000131118089) |
+| Lead Data Engineer | [Netcompany](https://netcompany.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000131115984) |
 | LSS Commissioning Technican  | [Genpak LLC](https://genpak-llc-2) | — | Jun 9 | [Apply](https://job-boards.eu.greenhouse.io/lotusworks/jobs/4882552101) |
 |  Electrical Commissioning Technician | [Genpak LLC](https://genpak-llc-2) | — | Jun 9 | [Apply](https://job-boards.eu.greenhouse.io/lotusworks/jobs/4882555101) |
 | Senior Data Engineering Manager | [WPP](https://wpp.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/wpp/jobs/8570476002) |
 | Analista de Dados | [Standard Bank](https://standardbank.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000131087574) |
+| Apprentice Software Developer | [NEC Software Solutions](https://necsoftwaresolutions.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/NECSWS/postings/744000131085999) |
+| End User Support | [NEC Software Solutions](https://necsoftwaresolutions.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/NECSWS/postings/744000131083572) |
 | Senior Engineer, Flutter | [Tide](https://tide.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/tide/jobs/7766824003) |
 | Senior Engineer, Flutter | [Tide](https://tide.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/tide/jobs/7766823003) |
 | Senior Engineer, Flutter | [Tide](https://tide.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/tide/jobs/7766790003) |
@@ -20,12 +28,15 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Senior Software Engineer - Cards Experience EU | [Perk](https://perk.com) | — | Jun 9 | [Apply](https://jobs.ashbyhq.com/perk/65e675b2-4088-41ea-93d3-9c4543d4096d) |
 | Engineering Manager - Cards Experience EU | [Perk](https://perk.com) | — | Jun 9 | [Apply](https://jobs.ashbyhq.com/perk/a8273db2-8a1e-4f28-8064-37890f9e96c5) |
 | Studentischer Mitarbeiter (w/m/d) IT-Support | [Drees & Sommer](https://dreso.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000131056089) |
+| Maximo specialist  | [New Era Technology](https://neweratech.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8583306002) |
 | Junior Structural Engineer (UAE National Only) | [BESIX](https://besix.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000131044019) |
 | AOV MOV Valve Diagnostic Tester - Nuclear | [Egis](https://egis-group.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000131043989) |
 | Junior Quantity Surveyor (UAE National) | [BESIX](https://besix.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000131043079) |
 | Associate Principal Engineer, Delivery | [Nagarro](https://nagarro.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000131032107) |
+| EE Lead | [Archer](https://archer.com) | $150K–$190K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7741003003) |
 | Senior Observability Architect - West Coast - PST - Remote  | [Grafana Labs](https://grafana.com) | $204K–$260K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6013689004) |
 | #EG Desktop Support Engineers (EUSS) | [NCS](https://ncs.co) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001138761) |
+| Manager, Software Engineering (Account Management) | [Affirm](https://affirm.com) | $181K–$241K/yr | Jun 8 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7758888003) |
 | Analista de Atendimento Junior | [Experian](https://experianplc.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000130897789) |
 | Analista de Atendimento Pleno  | [Experian](https://experianplc.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000130896131) |
 | Flight Support Engineer - Night Shift (Brazil) | [Pyka](https://flypyka.com) | — | Jun 8 | [Apply](https://jobs.lever.co/pyka/64f0c454-e436-46c7-9ddb-3e8e4fde4987) |
@@ -50,6 +61,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Research Lead, New AI Products & Platforms | [The New York Times](https://thenewyorktimes.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4703588005) |
 | ETL Engineer SME | [AnaVation](https://anavation.com) | — | Jun 8 | [Apply](https://jobs.lever.co/anavationllc/5540f02a-0bb4-4fdc-9575-4b6c9e0c5777) |
 | Electrical Estimator | [Distro](https://distro.app) | — | Jun 8 | [Apply](https://jobs.lever.co/distro/d488dbe1-b9c8-4857-bf8b-5d02123f4987) |
+| Senior Director, Engineering & Applied Science - VenturaOS | [The Trade Desk](https://thetradedesk.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5148820007) |
 | Senior TypeScript Engineer | [RTB House](https://rtbhouse.com) | — | Jun 8 | [Apply](https://job-boards.eu.greenhouse.io/rtbhouse/jobs/4889082101) |
 | MedChron SME | [Filevine](https://filevine.com) | — | Jun 8 | [Apply](https://jobs.lever.co/filevine/f4bbb273-e769-4cbd-afdf-5e9ce277f552) |
 | Senior Consultant - Environment | [AECOM](https://aecom.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/AECOM2/postings/744000130812831) |

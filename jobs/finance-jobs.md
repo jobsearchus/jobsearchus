@@ -2,15 +2,17 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**472 open roles** — Last updated: 2026-06-09
+**474 open roles** — Last updated: 2026-06-09
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Operador de Financiamento Jr. (F&I) - Volante | [MSX International](https://msxi.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013539966) |
 | Manager, Management Information Systems | [Standard Bank](https://standardbank.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000131075014) |
 | INTERMARCHE - COMPTABLE (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000131065909) |
 | [CFS]GO Capex operations_Finance_FP&A | [Coupang](https://coupang.com) | — | Jun 9 | [Apply](https://boards.greenhouse.io/coupanginternal/jobs/7813264?gh_jid=7813264) |
+| Commercial Finance Business Analyst | [Avery Dennison](https://averydennison.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/AveryDennison/postings/744000131060003) |
 | Senior Accountant | [Egis](https://egis-group.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000131044689) |
 | Senior Financial Analyst, Business Partnership | [Discord](https://discord.com) | $152K–$171K/yr | Jun 8 | [Apply](https://job-boards.greenhouse.io/discord/jobs/8580659002) |
 | Fraud Investigator - Customer Protection | [Robinhood](https://robinhood.com) | — | Jun 8 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7964038?t=gh_src=&gh_jid=7964038) |
