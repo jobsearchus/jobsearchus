@@ -2,13 +2,14 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**1106 open roles** — Last updated: 2026-06-09
+**1107 open roles** — Last updated: 2026-06-09
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | Director, Retail - VenturaOS | [The Trade Desk](https://thetradedesk.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5159663007) |
+| Domino's General Manager (05750) | [Domino's](https://dominos.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131150339) |
 | Logistics Manager - English & German or Dutch | [Too Good To Go](https://toogoodtogo.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/toogoodtogo/jobs/7766880003) |
 | Logistics Specialist - English & German or Dutch | [Too Good To Go](https://toogoodtogo.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/toogoodtogo/jobs/7766874003) |
 | Senior Strategy Associate | [Too Good To Go](https://toogoodtogo.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/toogoodtogo/jobs/7766828003) |

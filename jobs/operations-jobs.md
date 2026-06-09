@@ -2,14 +2,17 @@
 
 Remote operations and business operations roles across industries.
 
-**1126 open roles** — Last updated: 2026-06-09
+**1129 open roles** — Last updated: 2026-06-09
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| MECANICIEN SERVICE RAPIDE (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000131211730) |
+| MECANICIEN CONFIRME (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000131212102) |
 | Manager, Center of Excellence | [NBCUniversal](https://nbcuniversal.com) | $95K–$105K/yr | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000131191689) |
 | Automotive Service Estimator/Dispatcher - Starting at $60k* & Weekends Off - South Meridian | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | $60K/yr | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000131171230) |
+| Domino's Delivery Driver (05750) | [Domino's](https://dominos.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131150300) |
 | Genesys Cloud CX Change Lead (Part-time) | [Miratech](https://miratech.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000131137951) |
 | Assistant Manager - Milano  | [JD Sports](https://jdsports.com) | — | Jun 9 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4890468101) |
 | Junior Inköpare & Biltestare | [AUTO1 Group](https://auto1-group.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000131084920) |
