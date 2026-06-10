@@ -2,12 +2,18 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**686 open roles** — Last updated: 2026-06-10
+**695 open roles** — Last updated: 2026-06-10
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Business Development and Enterprise Coverage, RIA's - Senior Vice President / Managing Director | [iCapital](https://icapital.com) | $160K–$200K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8585578002) |
+| Junior Floor Trader | [Maven Securities](https://mavensecurities.com) | $150K–$190K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7966652) |
+| Senior Solutions Architect - UK - Remote | [Grafana Labs](https://grafana.com) | £104K–£125K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6018325004) |
+| Senior Data Scientist, Machine Learning | [Serve Robotics](https://serverobotics.com) | $195K–$218K/yr | Jun 10 | [Apply](https://jobs.ashbyhq.com/serverobotics/ecec96e0-bc5c-485f-8f47-4420590695df) |
+| Principal Scientist, Machine Learning - Biomolecules | [Flagship Pioneering, Inc.](https://flagshippioneering.com) | $208K–$286K/yr | Jun 10 | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8584537002?gh_jid=8584537002) |
+| Solutions Architect, SF Bay Area | [Discord](https://discord.com) | $220K–$248K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/discord/jobs/8579738002) |
 | Sr. IT Systems Operations Manager | [ExtraHop](https://extrahop.com) | $170K–$195K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/extrahopnetworks/jobs/6016297004) |
 | Principal Product Marketing Manager | [Drata](https://drata.com) | $214K–$264K/yr | Jun 9 | [Apply](https://jobs.ashbyhq.com/drata/0dd897fb-3279-4268-aab3-8fdb5fbe052a) |
 | Enterprise Customer Success Manager | [Intercom](https://intercom.com) | $186K–$223K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7981111) |
@@ -16,11 +22,13 @@ Remote roles paying $100,000 or more per year. Salary data pulled directly from 
 | Commercial Account Executive (NYC)  | [Sigma Computing](https://sigmacomputing.com) | $100K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/7767738003) |
 | Practice Manager - Electrical & Software Engineering | [ALTEN](https://alten.com) | $160K–$170K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5160495007) |
 | Senior Technical Support Engineer | [Horizon3.ai](https://horizon3ai.com) | $102K–$127K/yr | Jun 9 | [Apply](https://jobs.ashbyhq.com/horizon3ai/983ab553-f5aa-4019-9851-1f8728d5f509) |
+| Senior Software Engineer, BMS | [Archer](https://archer.com) | $145K–$180K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7740914003) |
 | Senior Treasury Analyst | [Coursera](https://coursera.org) | $110K–$130K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/coursera/jobs/6013260004) |
 | Senior Accountant | [Instawork](https://instawork.com) | $100K–$125K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/instawork/jobs/4688162006) |
 | Full Stack Engineer, Foundation | [LaunchDarkly](https://launchdarkly.com) | $171K–$235K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/launchdarkly/jobs/7767264003) |
 | Senior Software Engineer, Cloud Identity | [Temporal](https://temporal.io) | $212K–$237K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/temporaltechnologies/jobs/5158843007) |
 | Staff Software Developer | [Varicent](https://varicent.com) | $104K–$137K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/varicent/jobs/5216446008) |
+| Staff Product Designer | [Omada Health](https://omadahealth.com) | $175K–$219K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/omadahealth/jobs/7821718) |
 | Credit Policy & Decisioning Analyst  | [Reach](https://reachpower.com) | $120K–$150K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/reach/jobs/8584446002) |
 | Tax Senior Analyst | [Faire](https://faire.com) | $126K–$173K/yr | Jun 9 | [Apply](https://boards.greenhouse.io/faire/jobs/8584437002?gh_jid=8584437002) |
 | Senior Retail Forecast & Replenishment Analyst | [Grüns](https://gruns.co) | $110K–$125K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/gruns/jobs/5252692008) |
@@ -28,6 +36,7 @@ Remote roles paying $100,000 or more per year. Salary data pulled directly from 
 | Senior People Operations Specialist | [Mercury](https://mercury.com) | $154K–$193K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/mercury/jobs/6017266004) |
 | Senior HRIS Analyst | [Mercury](https://mercury.com) | $154K–$193K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/mercury/jobs/6017264004) |
 | Senior Named Account Executive | [Cloudflare](https://cloudflare.com) | $281K–$360K/yr | Jun 9 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7991568?gh_jid=7991568) |
+| Vice President, Investor Relations and Capital Markets | [Omada Health](https://omadahealth.com) | $243K–$304K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/omadahealth/jobs/7961027) |
 |  Senior Customer Integration Engineer | [Focal Systems](https://focal.systems) | $117K–$133K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/focalsystems/jobs/6016013004) |
 | Director, Brand Partnerships | [NBCUniversal](https://nbcuniversal.com) | $125K–$160K/yr | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000131179965) |
 | Team Lead, Software Engineering | [Clutch](https://clutch.io) | $175K–$225K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/clutch/jobs/6017401004) |

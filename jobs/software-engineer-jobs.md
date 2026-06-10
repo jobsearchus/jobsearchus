@@ -2,25 +2,47 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**1612 open roles** — Last updated: 2026-06-10
+**1636 open roles** — Last updated: 2026-06-10
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Member of Technical Staff, Release/Production Engineering Lead | [Pure Storage](https://purestorage.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/7994936) |
+| Manager, Propulsion Analysis | [Relativity Space](https://relativityspace.com) | — | Jun 10 | [Apply](https://boards.greenhouse.io/relativity/jobs/8586032002?gh_jid=8586032002) |
+| Senior Software Engineer, Cloud Service Engineering | [Box](https://box.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/boxinc/jobs/7962284) |
+| Solutions Architect (Pre-Sales) | [Blue](https://heyblue.com) | — | Jun 10 | [Apply](https://jobs.lever.co/blue/639d784c-c45c-48c6-8636-cacfec1d2d3c) |
+| Enterprise Solutions Engineer | [Box](https://box.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/boxinc/jobs/7985637) |
+| Licensed Automotive Technician (Evening Shift)   | [Clutch](https://clutch.io) | $39/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/clutch/jobs/6018358004) |
+| CRM Business Analyst | [Fever](https://feverup.com) | — | Jun 10 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4892839101) |
 | Procurement administrator - Junior- Hispanophone | [Inetum](https://inetum.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000131437809) |
+| Senior Manager, Software Engineering | [Diligent Corporation](https://diligent.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/diligentcorporation/jobs/6009032004) |
+| Senior Solutions Architect - UK - Remote | [Grafana Labs](https://grafana.com) | £104K–£125K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6018325004) |
+| Copy of Senior Solutions Architect - Spain - Remote | [Grafana Labs](https://grafana.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6018327004) |
+| Copy of Senior Solutions Architect - Netherlands - Remote | [Grafana Labs](https://grafana.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6018326004) |
+| Analytics Manager, Marketing Analytics | [Wolt](https://wolt.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7992265) |
 | [Job-  29814]  Architect Manager, Brazil | [CI&T](https://cit.com) | — | Jun 10 | [Apply](https://jobs.lever.co/ciandt/7695c52a-97c3-4183-b8f9-f67c454d8bca) |
+| Head of Engineering, POS Application Platform | [Moniepoint](https://moniepoint.com) | — | Jun 10 | [Apply](https://job-boards.eu.greenhouse.io/moniepoint/jobs/4885572101) |
+| Business Intelligence Analyst | [Fever](https://feverup.com) | — | Jun 10 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4892580101) |
 | Consultant SAP fonctionnel Industrie | [Inetum](https://inetum.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000131415989) |
+| Senior Manager, Presales Engineering | [Twilio](https://twilio.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7988973) |
+| Director of Client Engineering | [Tide](https://tide.com) | €90K–€127K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/tide/jobs/7768101003) |
+| Measurement Lead  | [Genpak LLC](https://genpak-llc-2) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/brandtechplus/jobs/7898606) |
+| Technical Principal | [Referrals Only](https://thoughtworks.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7992089) |
+| Wind Turbine Blade Engineer | [Intersect Labs](https://intersectlabs.io) | — | Jun 10 | [Apply](https://jobs.lever.co/intersect/90c87430-c8ff-4bba-bc57-ee9d9f923cfe) |
 | Software Engineer II | [The Trade Desk](https://thetradedesk.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5159472007) |
+| Solutions Architect, SF Bay Area | [Discord](https://discord.com) | $220K–$248K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/discord/jobs/8579738002) |
 | Civil Design Engineer (3-5 Years)   | [KPFF Consulting Engineers](https://kpff.com) | $75K–$125K/yr | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/KPFFConsultingEngineers/postings/3743990013551326) |
 | Civil Engineering Project Manager or Project Manager (Civil)  | [KPFF Consulting Engineers](https://kpff.com) | $94K–$150K/yr | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/KPFFConsultingEngineers/postings/3743990013551191) |
 | Civil Design Engineer (3-5 Years)   | [KPFF Consulting Engineers](https://kpff.com) | $75K–$125K/yr | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/KPFFConsultingEngineers/postings/3743990013551016) |
+| Partner Solution Architect - GSI | [Zscaler](https://zscaler.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5155311007) |
 | Software Engineer, People Technology | [Gusto](https://gusto.com) | $163K–$204K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/gusto/jobs/7947424) |
 | Analytics Manager, GOC | [WPP Media](https://wppmedia.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5252463008) |
 | Entry Level Civil Engineer or Graduate Civil Engineer (0-3 Years)  | [KPFF Consulting Engineers](https://kpff.com) | $64K–$85K/yr | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/KPFFConsultingEngineers/postings/3743990013550256) |
 | Practice Manager - Electrical & Software Engineering | [ALTEN](https://alten.com) | $160K–$170K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5160495007) |
 | Senior Technical Support Engineer | [Horizon3.ai](https://horizon3ai.com) | $102K–$127K/yr | Jun 9 | [Apply](https://jobs.ashbyhq.com/horizon3ai/983ab553-f5aa-4019-9851-1f8728d5f509) |
 | Design Release Engineer - Audio Systems  | [ALTEN](https://alten.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5160441007) |
+| Senior Software Engineer, BMS | [Archer](https://archer.com) | $145K–$180K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7740914003) |
 | Ingeniero en Sistemas  | [Inetum](https://inetum.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000131230329) |
 | Manager, Engineering - Scenario Planning | [Smartsheet](https://smartsheet.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/smartsheet/jobs/7993802) |
 | Embedded Electronics Engineer | [HavocAI](https://havocai.com) | — | Jun 9 | [Apply](https://jobs.ashbyhq.com/havocai/87134691-2bd5-4023-820c-2721b70a4f37) |
@@ -39,9 +61,11 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Engineering Manager, Advisory Platform | [Robinhood](https://robinhood.com) | — | Jun 9 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7992784?t=gh_src=&gh_jid=7992784) |
 | Team Lead, Software Engineering | [Clutch](https://clutch.io) | $175K–$225K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/clutch/jobs/6017401004) |
 | Staff Solutions Engineer (France), Firefox Enterprise | [Mozilla](https://mozilla.org) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/mozilla/jobs/7991257) |
+| Software Engineer (Node.js, React) | [Diligent Corporation](https://diligent.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/diligentcorporation/jobs/6009082004) |
 |  Software Engineer (Node.js) | [Diligent Corporation](https://diligent.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/diligentcorporation/jobs/6009141004) |
 | Senior Software Developer - Contractor | [Acumatica](https://acumatica.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/Acumatica/postings/744000131161649) |
 | Werkstudent (w/m/d) IT-Support | [Drees & Sommer](https://dreso.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000131157194) |
+| Senior Solutions Architect, Microsoft SME | [GitLab](https://about.gitlab.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8488427002) |
 | Software Developer | [Acumatica](https://acumatica.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/Acumatica/postings/744000131149122) |
 | Associate Principal Engineer - Java | [Saviynt](https://saviynt.com) | — | Jun 9 | [Apply](https://jobs.lever.co/saviynt/4ff9cf78-58dc-4b4a-a0f0-2f171b78e162) |
 | Senior Data Engineer | [Genpak LLC](https://genpak-llc-2) | — | Jun 9 | [Apply](https://job-boards.eu.greenhouse.io/valtech/jobs/4890368101) |

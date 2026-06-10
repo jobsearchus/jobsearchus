@@ -2,12 +2,16 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**1131 open roles** — Last updated: 2026-06-10
+**1142 open roles** — Last updated: 2026-06-10
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+|  Adult Mental Health Speech and Language Therapist | [Pulse](https://runpulse.com) | £28/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/pulse/jobs/7768366003) |
+| Assistant Manager - Napoli C.C. "La Birreria" | [JD Sports](https://jdsports.com) | — | Jun 10 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4892987101) |
+| Assistant Manager - Afragola C.C. "Le Porte Di Napoli" | [JD Sports](https://jdsports.com) | — | Jun 10 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4892936101) |
+| Assistant Manager - Benevento C.C "Buonvento" | [JD Sports](https://jdsports.com) | — | Jun 10 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4892928101) |
 | User Acceptance Testing Manager | [Inetum](https://inetum.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000131434719) |
 | Réceptionniste Tournant (H/F/X) | [ACCOR](https://group.accor.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000131432150) |
 | VOITURIER BAGAGISTE (H/F/X) | [ACCOR](https://group.accor.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000131431729) |
@@ -15,15 +19,21 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | (Senior) Projektleiter (w/m/d) Hochbau | [Drees & Sommer](https://dreso.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000131420464) |
 | INTERMARCHE -  BOUCHER POLYVALENT TRAD + LS + LS INDUS (H/F) - 41H | [Genpak LLC](https://genpak-llc-2) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000131417764) |
 | INTERMARCHE - BOUCHER POLYVALENT TRAD + LS + LS INDUS (H/F) - 41H | [Genpak LLC](https://genpak-llc-2) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000131417999) |
+| Senior Graphic Designer (AI + Motion Exp) | [Genpak LLC](https://genpak-llc-2) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/brandtechplus/jobs/7913517) |
+| Chef de Partie - Soho House, London | [Soho House](https://sohohouse.com) | — | Jun 10 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4892412101) |
+| Senior QA Consultant (SAP/Zuora/Finance systems) | [Sophos](https://sophos.com) | — | Jun 10 | [Apply](https://jobs.lever.co/sophos/7a9b15e8-4919-476e-9409-d8ec40adc571) |
 | Veiligheidskundige / HSE-adviseur  | [BESIX](https://besix.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000131399227) |
+| Assistant General Manager - Soho House Manchester | [Soho House](https://sohohouse.com) | — | Jun 10 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4891013101) |
 | (Senior) Consultant (w/m/d) TGA/ Facility Management (75-100%) | [Drees & Sommer](https://dreso.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000131387579) |
 | Superintendent - ROCO-Antwerp  | [BESIX](https://besix.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000131385229) |
+| Chef de Partie - High Road House West London | [Soho House](https://sohohouse.com) | — | Jun 10 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4889100101) |
 | Shift Leader(01692) - 321 S. Andover Road, Suite 500 | [Domino's](https://dominos.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131363390) |
 | Delivery Driver(08764) - 1335 N. Longstreet St. | [Domino's](https://dominos.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131363911) |
 | Sr. IT Systems Operations Manager | [ExtraHop](https://extrahop.com) | $170K–$195K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/extrahopnetworks/jobs/6016297004) |
 | Réceptionniste  | [ACCOR](https://group.accor.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000131233929) |
 | Server Assistant | [ACCOR](https://group.accor.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000131233719) |
 | Arrumador (eira) | [ACCOR](https://group.accor.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000131226939) |
+| Histology Lab Operator II | [Natera](https://natera.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/natera/jobs/6017501004) |
 | Chief of Staff and Corporate Development Lead | [Canary Technologies](https://canarytechnologies.com) | — | Jun 9 | [Apply](https://jobs.lever.co/canarytechnologies/ff3287c4-e68d-4b25-9a62-6a0666f45acb) |
 | Manager, Professional Services  | [Zscaler](https://zscaler.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5153323007) |
 | Field Service Technician | [Distro](https://distro.app) | — | Jun 9 | [Apply](https://jobs.lever.co/distro/31161747-46fe-495c-8971-1300c4388358) |
@@ -52,6 +62,7 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Veterinary Assistant - Morristown, NJ | [Veritas Veterinary Partners](https://veritasveterinarypartners.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/veritasvetpartners/jobs/5251743008) |
 | Veterinary Technician – Morristown, NJ | [Veritas Veterinary Partners](https://veritasveterinarypartners.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/veritasvetpartners/jobs/5251737008) |
 | Senior Therapy Coordinator | [Genpak LLC](https://genpak-llc-2) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/APMGroup/postings/6000000001138578) |
+| Part Time Licensed Practical Nurse, LPN (Multiple Shifts Available) | [Silverado](https://silverado.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/silverado/jobs/5159250007) |
 | Massage Therapist | [Genpak LLC](https://genpak-llc-2) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/APMGroup/postings/6000000001138159) |
 | Weekend Licensed Clinician (LCSW, LMFT, Clinical Psychologist) | [Crestwood Behavioral Health](https://crestwoodbehavioralhealth.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/crestwoodcareers/jobs/7766537003) |
 | Lab Assistant I- Temp | [Natera](https://natera.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/natera/jobs/6015928004) |

@@ -2,13 +2,14 @@
 
 Remote HR, recruiting, and people operations roles.
 
-**196 open roles** — Last updated: 2026-06-10
+**198 open roles** — Last updated: 2026-06-10
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | People Partner | [PortmanDentex](https://portmandentex.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000131435684) |
+| HR Operations Specialist | [Pure Storage](https://purestorage.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/7992761) |
 | Account Executive, Healthcare(Hospital)  | [Pure Storage](https://purestorage.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/7978578) |
 | Senior Technical Recruiter | [Canary Technologies](https://canarytechnologies.com) | — | Jun 9 | [Apply](https://jobs.lever.co/canarytechnologies/48dc79b2-cd14-44d9-80fd-e8bf278434a2) |
 | Director, HR Business Partner | [Omada Health](https://omadahealth.com) | $191K–$243K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/omadahealth/jobs/7983680) |
@@ -16,6 +17,7 @@ Remote HR, recruiting, and people operations roles.
 | Senior HRIS Analyst | [Mercury](https://mercury.com) | $154K–$193K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/mercury/jobs/6017264004) |
 | HR Coordinator - 6 months FTC | [NBCUniversal](https://nbcuniversal.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000131181679) |
 | Master Automotive Technician / Mechanic -$35 - $45/HR -  Weekends Off - Rio Rancho/Albuquerque | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | $45/yr | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000131175080) |
+| Sr. Manager, People Engagement | [ClickUp](https://clickup.com) | — | Jun 9 | [Apply](https://jobs.ashbyhq.com/clickup/22dbd8a1-50db-43dc-a21d-3a18611b90ee) |
 | [Coupang] Senior HR Analytics Specialist  | [Coupang](https://coupang.com) | — | Jun 9 | [Apply](https://boards.greenhouse.io/coupanginternal/jobs/7992129?gh_jid=7992129) |
 | Principal Talent Acquisition Partner | [Redox](https://redoxengine.com) | — | Jun 9 | [Apply](https://jobs.lever.co/redoxengine/e41e7a1e-ff89-49f4-a8c7-d11d562230aa) |
 | Senior Compensation Strategy & Systems Manager | [Replit](https://replit.com) | — | Jun 9 | [Apply](https://jobs.ashbyhq.com/replit/6b9b25d2-cf44-446e-8e1f-dacb5ade7b6c) |

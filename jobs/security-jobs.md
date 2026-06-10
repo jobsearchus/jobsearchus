@@ -2,12 +2,14 @@
 
 Remote cybersecurity, information security, and security engineering roles.
 
-**113 open roles** — Last updated: 2026-06-10
+**115 open roles** — Last updated: 2026-06-10
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Staff Security Engineer - SecOps & Threat | [6sense](https://6sense.com) | — | Jun 10 | [Apply](https://boards.greenhouse.io/6sense/jobs/7996539?gh_jid=7996539) |
+| Senior Security Engineer, Detection and Response | [Crusoe](https://crusoe.com) | — | Jun 10 | [Apply](https://jobs.ashbyhq.com/crusoe/fba363d0-4f6f-40a8-8ea4-ceaea637b42a) |
 | Senior Security Engineer (AI Platform) | [Chainguard](https://chainguard.dev) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/chainguard/jobs/4687742006) |
 | IT Internal Auditor | [Twilio](https://twilio.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7987846) |
 | Security Operations Engineer | [Mayflower](https://mayflowervisa.com) | — | Jun 9 | [Apply](https://mayflower.recruitee.com/o/security-operations-engineer-1/c/new) |

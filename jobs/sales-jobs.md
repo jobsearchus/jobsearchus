@@ -2,18 +2,29 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**996 open roles** — Last updated: 2026-06-10
+**1008 open roles** — Last updated: 2026-06-10
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Regional Sales Director, Portworx - Strategics    | [Pure Storage](https://purestorage.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/7994266) |
+| Sales Development Representative | [Illumio](https://illumio.com) | — | Jun 10 | [Apply](https://jobs.ashbyhq.com/illumio/63da54f8-509f-4bf6-960f-131de498bb87) |
+| Sales Engineer | [Illumio](https://illumio.com) | — | Jun 10 | [Apply](https://jobs.ashbyhq.com/illumio/528e8a71-18fc-45e8-a94c-10b103522cb5) |
+| Enterprise Account Executive | [Blue](https://heyblue.com) | — | Jun 10 | [Apply](https://jobs.lever.co/blue/d36f6677-4686-472a-b270-fddb4ede8535) |
+| Partner Sales Director - HCL | [Zscaler](https://zscaler.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5149605007) |
+| Sales Specialist - Data & AI Security | [Veeam Software](https://veeam.com) | — | Jun 10 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4872389101) |
+| Senior Client Partner, Large Customer Sales - DACH | [Reddit](https://reddit.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/7996471) |
+| Channel Sales Manager, EMEA | [Mixpanel](https://mixpanel.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/mixpanel/jobs/7993118) |
+| Senior Pre-Sales Solution Consultant , Marketplace | [Socure](https://socure.com) | — | Jun 10 | [Apply](https://jobs.ashbyhq.com/socure/5758a063-d5ad-40b0-8c3f-6eb92db0671c) |
 | Junior Inköpare och Biltestare - deltid/sommar | [AUTO1 Group](https://auto1-group.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000131429900) |
 | Junior Kundmottagare till Tagene | [AUTO1 Group](https://auto1-group.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000131428741) |
+| [쿠팡] Eats 세일즈 전략 & 데이터 분석 매니저 [L5] | [Coupang](https://coupang.com) | — | Jun 10 | [Apply](https://boards.greenhouse.io/coupanginternal/jobs/7994868?gh_jid=7994868) |
 | Addetto Acquisti Auto e Back office- Desenzano del Garda | [AUTO1 Group](https://auto1-group.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000131411159) |
 |  Account Executive - Majors | [Zscaler](https://zscaler.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5156014007) |
 | Client Partner | [Aleph](https://aleph.vc) | — | Jun 10 | [Apply](https://jobs.lever.co/aleph/221676d2-eef0-470a-af1a-1a59ab417729) |
 | Manager, Service Account Manager | [Pure Storage](https://purestorage.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/7988570) |
+| Senior Partner Account Manager, Japan (Based in Tokyo) | [Cloudflare](https://cloudflare.com) | — | Jun 10 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7981489?gh_jid=7981489) |
 | [28067] VP of Business Development, ANZ | [CI&T](https://cit.com) | — | Jun 10 | [Apply](https://jobs.lever.co/ciandt/facf6ccb-b34b-4e44-9413-933dc4a1c6b8) |
 | Enterprise Customer Success Manager | [Intercom](https://intercom.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7994422) |
 | Enterprise Customer Success Manager | [Intercom](https://intercom.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7980800) |
@@ -43,6 +54,7 @@ Remote sales roles — account executives, SDRs, and enterprise deals.
 | Senior Commercial Account Executive - CIS (Russian Speaker) | [GitLab](https://gitlab.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8583752002) |
 | Senior Commercial Account Executive - CIS (Russian Speaker) | [GitLab](https://gitlab.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8551468002) |
 | Sales Development Manager - Melbourne | [Convera](https://convera.com) | — | Jun 9 | [Apply](https://job-boards.eu.greenhouse.io/convera/jobs/4890560101) |
+| Field Sales Director Netherlands | [IRCA](https://irca.eu) | — | Jun 9 | [Apply](https://jobs.lever.co/ircagroup/88bb2ad2-3542-4894-a97a-0b3e26ab730c) |
 | [Job- 29772] Senior Sales Executive/Business Development Manager (Life Sciences), US | [CI&T](https://cit.com) | — | Jun 9 | [Apply](https://jobs.lever.co/ciandt/4d9fbb2a-1a44-403b-89fb-4dfdb3a896ef) |
 | Sr. Client Partner - Video Business Unit | [Aleph](https://aleph.vc) | — | Jun 9 | [Apply](https://jobs.lever.co/aleph/da79667d-0c4f-4ba3-a250-69f081e9c03d) |
 | Sr. Client Partner - Video Business Unit | [Aleph](https://aleph.vc) | — | Jun 9 | [Apply](https://jobs.lever.co/aleph/9d336026-2cbe-4e93-8e46-0d43f3ae77b4) |

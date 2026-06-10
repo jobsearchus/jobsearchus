@@ -2,12 +2,13 @@
 
 Remote legal, compliance, and counsel roles.
 
-**99 open roles** — Last updated: 2026-06-10
+**100 open roles** — Last updated: 2026-06-10
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Sr. Legal Counsel | [Illumio](https://illumio.com) | — | Jun 10 | [Apply](https://jobs.ashbyhq.com/illumio/82412e93-f2bf-4d0b-9042-bf0edd0a87e7) |
 | Corporate Counsel  | [Smartsheet](https://smartsheet.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/smartsheet/jobs/7993147) |
 | Compliance Communications Senior Specialist | [Robinhood](https://robinhood.com) | — | Jun 9 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7990844?t=gh_src=&gh_jid=7990844) |
 | French Legal Intern | [Fever](https://feverup.com) | — | Jun 9 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4890223101) |

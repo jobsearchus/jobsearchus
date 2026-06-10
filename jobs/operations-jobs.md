@@ -2,22 +2,29 @@
 
 Remote operations and business operations roles across industries.
 
-**1150 open roles** — Last updated: 2026-06-10
+**1157 open roles** — Last updated: 2026-06-10
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Master NDE Inspector | [Relativity Space](https://relativityspace.com) | — | Jun 10 | [Apply](https://boards.greenhouse.io/relativity/jobs/8582334002?gh_jid=8582334002) |
+| Alliances Manager | [Blue](https://heyblue.com) | — | Jun 10 | [Apply](https://jobs.lever.co/blue/3f804749-8143-4731-8b0a-a74bab82b6f9) |
+| Occupational Health and Safety Officer  | [takealot.com](https://takealot.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/takealotcom/jobs/7976075) |
+| Sourcing & Procurement Analyst (Software Helpdesk) | [WPP](https://wpp.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/wpp/jobs/8578199002) |
+| Sourcing and Procurement Analyst (Strategic Sourcing) | [WPP](https://wpp.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/wpp/jobs/8578230002) |
 | Branch Supervisor | [takealot.com](https://takealot.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/takealotcom/jobs/7977167) |
 | Ocean Operations Specialist | [Flexport](https://flexport.com) | — | Jun 10 | [Apply](https://boards.greenhouse.io/flexport/jobs/7994556?gh_jid=7994556) |
 | Delivery Driver(06404) - 720 Bastrop Highway | [Domino's](https://dominos.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131363873) |
 | Assistant Manager(03715) - 199 Mystic Avenue | [Domino's](https://dominos.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131360970) |
 | Delivery Expert(03494) - 2104 Grand Central Ave | [Domino's](https://dominos.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131364159) |
 | Bank Chief Operations Officer | [Sezzle](https://sezzle.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/sezzle/jobs/7764777003) |
+| IQC-RGT Associate 1 | [Natera](https://natera.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/natera/jobs/6016261004) |
 | Rider Performance Specialist | [Delivery Hero](https://deliveryhero.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000131228269) |
 | Quick Commerce Operations Specialist | [Delivery Hero](https://deliveryhero.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000131227359) |
 | Immigration Operations Specialist - Internship | [Envoy Global](https://envoyglobal.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/envoyglobalinc/jobs/6014163004) |
 | Merchandising Store Manager In-Training | [Serv-U-Success](https://servusuccess.com) | — | Jun 9 | [Apply](https://jobs.lever.co/serv-u-success/a54265db-82b1-45e3-a11f-b8818fd417ea) |
+| Supervisor, BPO Services | [New Era Technology](https://neweratech.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8564379002) |
 | Global Operations Specialist | [Flexport](https://flexport.com) | — | Jun 9 | [Apply](https://boards.greenhouse.io/flexport/jobs/7993353?gh_jid=7993353) |
 | Project Coordinator (Transportation) | [KPFF Consulting Engineers](https://kpff.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/KPFFConsultingEngineers/postings/3743990013545466) |
 | Director, Order-to-Cash | [Life360](https://life360.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/life360/jobs/8584456002) |

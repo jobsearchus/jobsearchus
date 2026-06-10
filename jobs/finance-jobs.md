@@ -2,14 +2,20 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**489 open roles** — Last updated: 2026-06-10
+**496 open roles** — Last updated: 2026-06-10
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Business Development and Enterprise Coverage, RIA's - Senior Vice President / Managing Director | [iCapital](https://icapital.com) | $160K–$200K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8585578002) |
+| Junior Floor Trader | [Maven Securities](https://mavensecurities.com) | $150K–$190K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7966652) |
 | Financial Reporting Analyst | [Standard Bank](https://standardbank.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000131431618) |
 | Specialist, Investment Consultant | [Standard Bank](https://standardbank.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000131411611) |
+| Senior Treasury Specialist (all genders) - Accounting, Tax & Trade Compliance | [MOIA](https://moia.io) | — | Jun 10 | [Apply](https://job-boards.eu.greenhouse.io/moia/jobs/4892162101) |
+| Digital & System Admin – Procurement & REWS | [WPP](https://wpp.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/wpp/jobs/8576089002) |
+| Payroll Manager, APAC | [Flexport](https://flexport.com) | — | Jun 10 | [Apply](https://boards.greenhouse.io/flexport/jobs/7992012?gh_jid=7992012) |
+| Payroll Manager, APAC | [Flexport](https://flexport.com) | — | Jun 10 | [Apply](https://boards.greenhouse.io/flexport/jobs/7992011?gh_jid=7992011) |
 | Director, Assistant Controller | [Checkr](https://checkr.com) | $25K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/checkr/jobs/7985646) |
 | Senior Treasury Analyst | [Coursera](https://coursera.org) | $110K–$130K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/coursera/jobs/6013260004) |
 | Senior Accountant | [Instawork](https://instawork.com) | $100K–$125K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/instawork/jobs/4688162006) |
@@ -19,6 +25,7 @@ Remote finance, accounting, and analyst roles at companies of all sizes.
 | Tax Senior Analyst | [Faire](https://faire.com) | $126K–$173K/yr | Jun 9 | [Apply](https://boards.greenhouse.io/faire/jobs/8584437002?gh_jid=8584437002) |
 | Operador de Financiamento Jr. (F&I) - Volante | [MSX International](https://msxi.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013539966) |
 | Pricing Strategy Senior Manager | [Checkr](https://checkr.com) | $25K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/checkr/jobs/7993115) |
+| Vice President, Investor Relations and Capital Markets | [Omada Health](https://omadahealth.com) | $243K–$304K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/omadahealth/jobs/7961027) |
 | Credit Risk Manager, Portfolio Management | [Monzo](https://monzo.com) | £100K–£130K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7991227) |
 | Cash Application Specialist | [Distro](https://distro.app) | — | Jun 9 | [Apply](https://jobs.lever.co/distro/55c07468-88b9-44dd-82c2-861e05212d12) |
 | Credit Risk Manager, Flex Originations  | [Monzo](https://monzo.com) | £100K–£130K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7991200) |

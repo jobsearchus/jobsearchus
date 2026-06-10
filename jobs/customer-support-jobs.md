@@ -2,17 +2,25 @@
 
 Remote customer support and success roles across SaaS, e-commerce, and tech.
 
-**284 open roles** — Last updated: 2026-06-10
+**292 open roles** — Last updated: 2026-06-10
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Customer Success Manager, SEUR | [GitLab](https://about.gitlab.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8578341002) |
+| Customer Support Agent | [Tide](https://tide.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/tide/jobs/7768067003) |
+| Merchant Services Associate | [Wolt](https://wolt.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7992538) |
+| Customer Success Specialist ( Data Migration) | [Diligent Corporation](https://diligent.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/diligentcorporation/jobs/6010945004) |
+| Customer Service Agent, French Speakers | [Wheely](https://wheely.com) | — | Jun 10 | [Apply](https://boards.greenhouse.io/wheely/jobs/7767950003?gh_jid=7767950003) |
 | Customer Service Rep(05007) - 4115 W Kennedy Blvd | [Domino's](https://dominos.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131364120) |
+| Complaint Experince Management Sr.Specialist [L5] (TW Complaint Experience Management) | [Coupang](https://coupang.com) | — | Jun 10 | [Apply](https://boards.greenhouse.io/coupanginternal/jobs/7893152?gh_jid=7893152) |
 | Senior Support Engineer | [Greenhouse](https://greenhouse.com) | $88K–$127K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/greenhouse/jobs/7993560?gh_jid=7993560) |
+| Technical Account Manager 3 | [Twilio](https://twilio.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7698038) |
 | Agente de Servicio al Cliente Bilingue | [Distro](https://distro.app) | — | Jun 9 | [Apply](https://jobs.lever.co/distro/d341240d-2cf0-4ec7-92b4-5ea837e3795e) |
 | Call Center Agent | [MSX International](https://msxi.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013535466) |
 | Domino's Customer Service Rep (05750) | [Domino's](https://dominos.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131146752) |
+| Senior Data Scientist | [Genpak LLC](https://genpak-llc-2) | — | Jun 9 | [Apply](https://job-boards.eu.greenhouse.io/valtech/jobs/4890555101) |
 | General Manager (05045)- 3112 Cleveland Ave Unit 3 | [Domino's](https://dominos.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131034050) |
 | Crew Member (03151) - 10555 NW 41st St | [Domino's](https://dominos.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131035663) |
 | Technical Customer Success Manager- EAST | [Honeycomb.io](https://honeycomb.io) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/honeycomb/jobs/5233408008) |

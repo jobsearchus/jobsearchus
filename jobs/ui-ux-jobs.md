@@ -2,13 +2,16 @@
 
 UX design, UI design, and product design roles. Figma, research, and end-to-end product work.
 
-**144 open roles** — Last updated: 2026-06-10
+**147 open roles** — Last updated: 2026-06-10
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| UI/UX Designer | [Medsien](https://medsien.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/medsien/jobs/5160843007) |
+| Lead Full Stack Machine Learning Engineer | [Cerebras Systems](https://cerebras.net) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/cerebrassystems/jobs/7767933003) |
 | Jr. Visual Designer | [Quilt Data](https://quiltdata.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/quilt/jobs/5160563007) |
+| Staff Product Designer | [Omada Health](https://omadahealth.com) | $175K–$219K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/omadahealth/jobs/7821718) |
 | Senior Product Designer, Crypto | [Robinhood](https://robinhood.com) | — | Jun 9 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7940160?t=gh_src=&gh_jid=7940160) |
 | Senior UI/UX Designer (+3 Years Gaming Exp.) | [Gameloft](https://gameloft.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/Gameloft/postings/744000131183796) |
 | Junior Game Designer | [Gameloft](https://gameloft.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/Gameloft/postings/744000131062058) |

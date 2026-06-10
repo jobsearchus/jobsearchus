@@ -2,13 +2,16 @@
 
 Remote jobs open to candidates with 0–2 years of experience. A real way in — no degree gatekeeping.
 
-**1104 open roles** — Last updated: 2026-06-10
+**1109 open roles** — Last updated: 2026-06-10
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Digital Marketing Associate | [Fever](https://feverup.com) | — | Jun 10 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4893334101) |
+| Junior Floor Trader | [Maven Securities](https://mavensecurities.com) | $150K–$190K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7966652) |
 | Procurement administrator - Junior- Hispanophone | [Inetum](https://inetum.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000131437809) |
+| Customer Support Agent | [Tide](https://tide.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/tide/jobs/7768067003) |
 | Réceptionniste Tournant (H/F/X) | [ACCOR](https://group.accor.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000131432150) |
 | VOITURIER BAGAGISTE (H/F/X) | [ACCOR](https://group.accor.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000131431729) |
 | Junior Inköpare och Biltestare - deltid/sommar | [AUTO1 Group](https://auto1-group.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000131429900) |
@@ -22,6 +25,7 @@ Remote jobs open to candidates with 0–2 years of experience. A real way in —
 | Jr. Visual Designer | [Quilt Data](https://quiltdata.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/quilt/jobs/5160563007) |
 | Developer Intern, Trust Platforms - Fall 2026 | [1Password](https://1password.com) | — | Jun 9 | [Apply](https://jobs.ashbyhq.com/1password/8f8774dc-e400-48b1-8100-c6840b8eaed1) |
 | Entry Level Civil Engineer or Graduate Civil Engineer (0-3 Years)  | [KPFF Consulting Engineers](https://kpff.com) | $64K–$85K/yr | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/KPFFConsultingEngineers/postings/3743990013550256) |
+| IQC-RGT Associate 1 | [Natera](https://natera.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/natera/jobs/6016261004) |
 | Product Management Intern, End User Experience - Fall 2026 | [1Password](https://1password.com) | — | Jun 9 | [Apply](https://jobs.ashbyhq.com/1password/f80c256e-8768-4b39-af2d-5e81290b43c7) |
 | Developer Intern, Data Security - Fall 2026 | [1Password](https://1password.com) | — | Jun 9 | [Apply](https://jobs.ashbyhq.com/1password/47274802-4040-4039-978a-fc9b7d6868ce) |
 | JR Analista Salesforce Marketing Cloud | [ília](https://lia.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/ilia/jobs/6017916004) |
@@ -33,6 +37,7 @@ Remote jobs open to candidates with 0–2 years of experience. A real way in —
 | Werkstudent (w/m/d) IT-Support | [Drees & Sommer](https://dreso.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000131157194) |
 | Domino's Delivery Driver (05750) | [Domino's](https://dominos.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131150300) |
 | Domino's Customer Service Rep (05750) | [Domino's](https://dominos.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131146752) |
+| Senior Data Scientist | [Genpak LLC](https://genpak-llc-2) | — | Jun 9 | [Apply](https://job-boards.eu.greenhouse.io/valtech/jobs/4890555101) |
 | Junior Bauingenieur (w/m/d) Tiefbau - Energieprojekte | [Drees & Sommer](https://dreso.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000131126637) |
 | Junior Bauingenieur (w/m/d) Tiefbau - Energieprojekte | [Drees & Sommer](https://dreso.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000131127209) |
 | French Legal Intern | [Fever](https://feverup.com) | — | Jun 9 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4890223101) |

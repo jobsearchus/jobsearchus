@@ -2,15 +2,19 @@
 
 Data science, machine learning, and AI engineering roles. Python, SQL, PyTorch, and beyond.
 
-**108 open roles** — Last updated: 2026-06-10
+**112 open roles** — Last updated: 2026-06-10
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Data Scientist, Machine Learning | [Serve Robotics](https://serverobotics.com) | $195K–$218K/yr | Jun 10 | [Apply](https://jobs.ashbyhq.com/serverobotics/ecec96e0-bc5c-485f-8f47-4420590695df) |
+| Principal Scientist, Machine Learning - Biomolecules | [Flagship Pioneering, Inc.](https://flagshippioneering.com) | $208K–$286K/yr | Jun 10 | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8584537002?gh_jid=8584537002) |
 | Senior Machine Learning Engineer, AI Platform | [Mozilla](https://mozilla.org) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/mozilla/jobs/7993049) |
 | Senior Machine Learning Engineer, AI Platform | [Mozilla](https://mozilla.org) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/mozilla/jobs/7993046) |
 | Product Data Scientist | [Tripadvisor](https://tripadvisor.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/tripadvisor/jobs/7992203) |
+| Senior Data Scientist | [Genpak LLC](https://genpak-llc-2) | — | Jun 9 | [Apply](https://job-boards.eu.greenhouse.io/valtech/jobs/4890465101) |
+| Senior Data Scientist | [Genpak LLC](https://genpak-llc-2) | — | Jun 9 | [Apply](https://job-boards.eu.greenhouse.io/valtech/jobs/4888739101) |
 | [Job- 29774]Sênior, AI Engineer  Agentic SDLC, Brazil | [CI&T](https://cit.com) | — | Jun 9 | [Apply](https://jobs.lever.co/ciandt/405dc303-2ebf-4b0c-89fc-859887ace5df) |
 | ML Ops Engineer | [Moonpig Group](https://moonpiggroup.com) | — | Jun 9 | [Apply](https://jobs.lever.co/moonpig/26b67a79-604f-4e34-97ed-c7db7331cac6) |
 | Platform Senior AI Engineer | [NCS](https://ncs.co) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001138861) |

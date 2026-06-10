@@ -2,12 +2,14 @@
 
 General developer and programmer roles that did not fit a more specific category.
 
-**112 open roles** — Last updated: 2026-06-10
+**114 open roles** — Last updated: 2026-06-10
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Developer (Python,React,AWS,Terraform) | [Referrals Only](https://thoughtworks.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7992219) |
+| iOS Developer (IoT sphere) | [Coherent Solutions](https://coherentsolutions.com) | — | Jun 10 | [Apply](https://job-boards.eu.greenhouse.io/coherentsolutions/jobs/4865727101) |
 | Developer Intern, Trust Platforms - Fall 2026 | [1Password](https://1password.com) | — | Jun 9 | [Apply](https://jobs.ashbyhq.com/1password/8f8774dc-e400-48b1-8100-c6840b8eaed1) |
 | Developer Intern, Data Security - Fall 2026 | [1Password](https://1password.com) | — | Jun 9 | [Apply](https://jobs.ashbyhq.com/1password/47274802-4040-4039-978a-fc9b7d6868ce) |
 | [Job- 29803] Mid-Level iOS Developer , Brazil | [CI&T](https://cit.com) | — | Jun 9 | [Apply](https://jobs.lever.co/ciandt/5f4807e2-9f48-4151-b05d-ded22d0413e6) |

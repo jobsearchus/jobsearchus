@@ -2,13 +2,21 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**370 open roles** — Last updated: 2026-06-10
+**378 open roles** — Last updated: 2026-06-10
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Coordinator, Influencer Marketing, rhode | [e.l.f. Beauty](https://elfbeauty.com) | — | Jun 10 | [Apply](https://jobs.lever.co/elfbeauty/d6561fee-34ac-4294-b0c6-086680cf7f4c) |
+| GTM Reporting Analyst (Revenue Operations) | [Emburse](https://emburse.com) | — | Jun 10 | [Apply](https://jobs.lever.co/emburse/9b03d87f-b9ba-44c0-8f17-0f7a4cc2e045) |
+| Digital Marketing Associate | [Fever](https://feverup.com) | — | Jun 10 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4893334101) |
 | Marketing Advisor  | [PortmanDentex](https://portmandentex.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000131427546) |
+| CRM Strategist  | [VML MAP](https://vml-map.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/map/jobs/8585271002) |
+| CRM Strategist  | [VML MAP](https://vml-map.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/map/jobs/8585264002) |
+| Brand Marketing Manager | [FamPay](https://fampay.in) | — | Jun 10 | [Apply](https://jobs.lever.co/fampay/54c74111-28a1-44bf-ad9d-72312f3c64a9) |
+| Senior Marketing Executive | [dmg events](https://dmgevents.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/dmgevents/jobs/7995002) |
+| Director, Advertising Growth & Marketing | [Coupang](https://coupang.com) | — | Jun 10 | [Apply](https://boards.greenhouse.io/coupanginternal/jobs/7992287?gh_jid=7992287) |
 | Principal Product Marketing Manager | [Drata](https://drata.com) | $214K–$264K/yr | Jun 9 | [Apply](https://jobs.ashbyhq.com/drata/0dd897fb-3279-4268-aab3-8fdb5fbe052a) |
 | JR Analista Salesforce Marketing Cloud | [ília](https://lia.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/ilia/jobs/6017916004) |
 | Affiliate Marketing Coordinator | [KOHO](https://koho.ca) | — | Jun 9 | [Apply](https://jobs.ashbyhq.com/koho/9b619cdc-0016-4be4-9006-ae0d6225e3e6) |
