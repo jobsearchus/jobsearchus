@@ -2,12 +2,14 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**496 open roles** — Last updated: 2026-06-10
+**498 open roles** — Last updated: 2026-06-10
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Manager - Private Equity Fund Accounting | [IQ-EQ](https://iqeq.com) | $100K–$130K/yr | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000131530737) |
+| Senior Manager - Private Equity Fund Accounting | [IQ-EQ](https://iqeq.com) | $100K–$130K/yr | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000131529250) |
 | Business Development and Enterprise Coverage, RIA's - Senior Vice President / Managing Director | [iCapital](https://icapital.com) | $160K–$200K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8585578002) |
 | Junior Floor Trader | [Maven Securities](https://mavensecurities.com) | $150K–$190K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7966652) |
 | Financial Reporting Analyst | [Standard Bank](https://standardbank.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000131431618) |

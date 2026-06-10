@@ -2,12 +2,13 @@
 
 Project and program management roles across tech, operations, and enterprise.
 
-**115 open roles** — Last updated: 2026-06-10
+**116 open roles** — Last updated: 2026-06-10
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Technical Project Manager | [CapTech](https://captech.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/CapTechConsulting/postings/744000131508830) |
 | Senior Project Manager | [TTEC Digital](https://ttecdigital.com) | — | Jun 9 | [Apply](https://jobs.lever.co/ttecdigital/87ca6a15-6cfd-4455-ac93-b38b39bc4caa) |
 | Senior Project Manager | [Entain](https://entaingroup.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/Entain/postings/744000131107704) |
 | Retail  Senior Project Manager | [Entain](https://entaingroup.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/Entain/postings/744000131103381) |

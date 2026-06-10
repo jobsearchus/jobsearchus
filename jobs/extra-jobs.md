@@ -2,16 +2,23 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**1142 open roles** — Last updated: 2026-06-10
+**1150 open roles** — Last updated: 2026-06-10
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+|  Plant I Ice Cleaner Setup Tech II | [Continental](https://continentalserves.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000131524859) |
+| TT Final Finish Setup Tech | [Continental](https://continentalserves.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000131519819) |
+| Employé exploitation polyvalent - H/F | [Genpak LLC](https://genpak-llc-2) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000131500915) |
+| Assistant Vice President Career & Professional Development | [University of Notre Dame](https://universityofnotredame.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013562146) |
+| Vice-President, Transit Infrastructure and BRT (Bus Rapid Transit) | [Egis](https://egis-group.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000131497573) |
+| Superintendente de Contratos | [Anglo American](https://angloamerican.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000131485906) |
 |  Adult Mental Health Speech and Language Therapist | [Pulse](https://runpulse.com) | £28/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/pulse/jobs/7768366003) |
 | Assistant Manager - Napoli C.C. "La Birreria" | [JD Sports](https://jdsports.com) | — | Jun 10 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4892987101) |
 | Assistant Manager - Afragola C.C. "Le Porte Di Napoli" | [JD Sports](https://jdsports.com) | — | Jun 10 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4892936101) |
 | Assistant Manager - Benevento C.C "Buonvento" | [JD Sports](https://jdsports.com) | — | Jun 10 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4892928101) |
+| Employé(e) d'Exploitation polyvalent | [Genpak LLC](https://genpak-llc-2) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000131435849) |
 | User Acceptance Testing Manager | [Inetum](https://inetum.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000131434719) |
 | Réceptionniste Tournant (H/F/X) | [ACCOR](https://group.accor.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000131432150) |
 | VOITURIER BAGAGISTE (H/F/X) | [ACCOR](https://group.accor.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000131431729) |
@@ -54,6 +61,7 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | AI Builder | [Razorpay Software Private Limited](https://razorpay.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4698362005) |
 | EMPLOI SAISON MAI A OCTOBRE  DRIVE (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000131067206) |
 | ADJOINT CHEF BOUCHER (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000131061336) |
+| Femme/valet de chambre - H/F | [Genpak LLC](https://genpak-llc-2) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000131051839) |
 | Rehabilitation Consultant (OT, Physio, AEP) | [Genpak LLC](https://genpak-llc-2) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/APMGroup/postings/6000000001140391) |
 | General Manager(06135) - 4845 N 90th St. | [Domino's](https://dominos.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131036022) |
 | Nurse Trainer and Assessor (ongoing casual) | [Healthcare Australia](https://healthcareaustralia.com.au) | $69/yr | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/HealthcareAustralia1/postings/6000000001139047) |

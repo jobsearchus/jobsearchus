@@ -2,12 +2,18 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**695 open roles** — Last updated: 2026-06-10
+**701 open roles** — Last updated: 2026-06-10
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Manager - Private Equity Fund Accounting | [IQ-EQ](https://iqeq.com) | $100K–$130K/yr | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000131530737) |
+| Senior Manager - Private Equity Fund Accounting | [IQ-EQ](https://iqeq.com) | $100K–$130K/yr | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000131529250) |
+| Technical Sales Manager | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $130K–$165K/yr | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000131512807) |
+| Senior Events Marketing Manager - Base44 | [Wix.com](https://wix.com) | $130K–$155K/yr | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Wix2/postings/744000131496899) |
+| Senior Events Marketing Manager - Base44 | [Wix.com](https://wix.com) | $145K–$175K/yr | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Wix2/postings/744000131488919) |
+| Lead Customer Success Manager | [Freshworks](https://freshworks.com) | $109K–$134K/yr | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000131479426) |
 | Business Development and Enterprise Coverage, RIA's - Senior Vice President / Managing Director | [iCapital](https://icapital.com) | $160K–$200K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8585578002) |
 | Junior Floor Trader | [Maven Securities](https://mavensecurities.com) | $150K–$190K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7966652) |
 | Senior Solutions Architect - UK - Remote | [Grafana Labs](https://grafana.com) | £104K–£125K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6018325004) |

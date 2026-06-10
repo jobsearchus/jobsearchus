@@ -2,19 +2,31 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**1636 open roles** — Last updated: 2026-06-10
+**1649 open roles** — Last updated: 2026-06-10
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| PV - Analista de Desenvolvimento de Software Go Júnior | [Experian](https://experianplc.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000131529939) |
+| PV - Analista de Desenvolvimento de Software C# Júnior | [Experian](https://experianplc.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000131529480) |
+| Automotive Technical Specialist  | [MSX International](https://msxi.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013565596) |
+| Automotive Technical Specialist Level 1 | [MSX International](https://msxi.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013565236) |
+| Analista Técnico-Funcional Salesforce | [MSX International](https://msxi.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013564706) |
+| IT Solutions Specialist - Notre Dame London | [University of Notre Dame](https://universityofnotredame.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013564081) |
+| Intern, Systems Engineering | [Egis](https://egis-group.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000131509289) |
 | Member of Technical Staff, Release/Production Engineering Lead | [Pure Storage](https://purestorage.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/7994936) |
+| Data Engineer (GCP) | [Applaudo](https://applaudo.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/ApplaudoStudios/postings/744000131496325) |
 | Manager, Propulsion Analysis | [Relativity Space](https://relativityspace.com) | — | Jun 10 | [Apply](https://boards.greenhouse.io/relativity/jobs/8586032002?gh_jid=8586032002) |
 | Senior Software Engineer, Cloud Service Engineering | [Box](https://box.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/boxinc/jobs/7962284) |
 | Solutions Architect (Pre-Sales) | [Blue](https://heyblue.com) | — | Jun 10 | [Apply](https://jobs.lever.co/blue/639d784c-c45c-48c6-8636-cacfec1d2d3c) |
 | Enterprise Solutions Engineer | [Box](https://box.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/boxinc/jobs/7985637) |
+| Co-op Fall 2026 - Systems Integration, Verification, and Validation - 8-12 Months | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000131450011) |
+| Senior Staff Engineer,SAP Hybris AMS | [Nagarro](https://nagarro.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000131444004) |
 | Licensed Automotive Technician (Evening Shift)   | [Clutch](https://clutch.io) | $39/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/clutch/jobs/6018358004) |
 | CRM Business Analyst | [Fever](https://feverup.com) | — | Jun 10 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4892839101) |
+| Staff Production Engineer | [Canva](https://canva.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001144644) |
+| Staff Production Engineer | [Canva](https://canva.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001144621) |
 | Procurement administrator - Junior- Hispanophone | [Inetum](https://inetum.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000131437809) |
 | Senior Manager, Software Engineering | [Diligent Corporation](https://diligent.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/diligentcorporation/jobs/6009032004) |
 | Senior Solutions Architect - UK - Remote | [Grafana Labs](https://grafana.com) | £104K–£125K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6018325004) |
@@ -26,6 +38,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Business Intelligence Analyst | [Fever](https://feverup.com) | — | Jun 10 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4892580101) |
 | Consultant SAP fonctionnel Industrie | [Inetum](https://inetum.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000131415989) |
 | Senior Manager, Presales Engineering | [Twilio](https://twilio.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7988973) |
+| Senior Service Delivery Manager | [NCS](https://ncs.co) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001144152) |
 | Director of Client Engineering | [Tide](https://tide.com) | €90K–€127K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/tide/jobs/7768101003) |
 | Measurement Lead  | [Genpak LLC](https://genpak-llc-2) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/brandtechplus/jobs/7898606) |
 | Technical Principal | [Referrals Only](https://thoughtworks.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7992089) |

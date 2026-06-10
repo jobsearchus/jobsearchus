@@ -2,15 +2,20 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**378 open roles** — Last updated: 2026-06-10
+**383 open roles** — Last updated: 2026-06-10
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Communications Specialist | [Continental](https://continentalserves.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000131534108) |
+| Alternance - Content Manager Produit Marketplace F/H/X | [BUT](https://but.fr) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000131518039) |
+| Senior Events Marketing Manager - Base44 | [Wix.com](https://wix.com) | $130K–$155K/yr | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Wix2/postings/744000131496899) |
 | Coordinator, Influencer Marketing, rhode | [e.l.f. Beauty](https://elfbeauty.com) | — | Jun 10 | [Apply](https://jobs.lever.co/elfbeauty/d6561fee-34ac-4294-b0c6-086680cf7f4c) |
 | GTM Reporting Analyst (Revenue Operations) | [Emburse](https://emburse.com) | — | Jun 10 | [Apply](https://jobs.lever.co/emburse/9b03d87f-b9ba-44c0-8f17-0f7a4cc2e045) |
 | Digital Marketing Associate | [Fever](https://feverup.com) | — | Jun 10 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4893334101) |
+| Senior Events Marketing Manager - Base44 | [Wix.com](https://wix.com) | $145K–$175K/yr | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Wix2/postings/744000131488919) |
+| Marketing Operations Specialist (Event & Email MarTech) - 6 month contract | [Canva](https://canva.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001144725) |
 | Marketing Advisor  | [PortmanDentex](https://portmandentex.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000131427546) |
 | CRM Strategist  | [VML MAP](https://vml-map.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/map/jobs/8585271002) |
 | CRM Strategist  | [VML MAP](https://vml-map.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/map/jobs/8585264002) |

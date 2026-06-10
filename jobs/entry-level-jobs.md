@@ -2,16 +2,26 @@
 
 Remote jobs open to candidates with 0–2 years of experience. A real way in — no degree gatekeeping.
 
-**1109 open roles** — Last updated: 2026-06-10
+**1119 open roles** — Last updated: 2026-06-10
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+|  Plant I Ice Cleaner Setup Tech II | [Continental](https://continentalserves.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000131524859) |
+| TT Final Finish Setup Tech | [Continental](https://continentalserves.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000131519819) |
+| Alternance - Content Manager Produit Marketplace F/H/X | [BUT](https://but.fr) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000131518039) |
+| Alternance - Chef de Produit et Acheteur E-commerce F/H/X | [BUT](https://but.fr) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000131517384) |
+| Intern, Systems Engineering | [Egis](https://egis-group.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000131509289) |
+| Logistics Coordinator (Korean Bilingual) | [SBT Global](https://sbtglobal.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/SBTGlobalInc/postings/3743990013562967) |
+| Employé exploitation polyvalent - H/F | [Genpak LLC](https://genpak-llc-2) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000131500915) |
 | Digital Marketing Associate | [Fever](https://feverup.com) | — | Jun 10 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4893334101) |
 | Junior Floor Trader | [Maven Securities](https://mavensecurities.com) | $150K–$190K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7966652) |
+| Co-op Fall 2026 - Systems Integration, Verification, and Validation - 8-12 Months | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000131450011) |
+| Sales Special Operation - Apprenticeship  (All genders) | [Dailymotion](https://dailymotion.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Dailymotion/postings/744000131443532) |
 | Procurement administrator - Junior- Hispanophone | [Inetum](https://inetum.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000131437809) |
 | Customer Support Agent | [Tide](https://tide.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/tide/jobs/7768067003) |
+| Employé(e) d'Exploitation polyvalent | [Genpak LLC](https://genpak-llc-2) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000131435849) |
 | Réceptionniste Tournant (H/F/X) | [ACCOR](https://group.accor.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000131432150) |
 | VOITURIER BAGAGISTE (H/F/X) | [ACCOR](https://group.accor.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000131431729) |
 | Junior Inköpare och Biltestare - deltid/sommar | [AUTO1 Group](https://auto1-group.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000131429900) |

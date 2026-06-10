@@ -2,12 +2,13 @@
 
 Remote customer support and success roles across SaaS, e-commerce, and tech.
 
-**292 open roles** — Last updated: 2026-06-10
+**293 open roles** — Last updated: 2026-06-10
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Lead Customer Success Manager | [Freshworks](https://freshworks.com) | $109K–$134K/yr | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000131479426) |
 | Customer Success Manager, SEUR | [GitLab](https://about.gitlab.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8578341002) |
 | Customer Support Agent | [Tide](https://tide.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/tide/jobs/7768067003) |
 | Merchant Services Associate | [Wolt](https://wolt.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7992538) |

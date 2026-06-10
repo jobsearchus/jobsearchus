@@ -2,18 +2,21 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**1008 open roles** — Last updated: 2026-06-10
+**1011 open roles** — Last updated: 2026-06-10
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Technical Sales Manager | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $130K–$165K/yr | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000131512807) |
 | Regional Sales Director, Portworx - Strategics    | [Pure Storage](https://purestorage.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/7994266) |
 | Sales Development Representative | [Illumio](https://illumio.com) | — | Jun 10 | [Apply](https://jobs.ashbyhq.com/illumio/63da54f8-509f-4bf6-960f-131de498bb87) |
 | Sales Engineer | [Illumio](https://illumio.com) | — | Jun 10 | [Apply](https://jobs.ashbyhq.com/illumio/528e8a71-18fc-45e8-a94c-10b103522cb5) |
 | Enterprise Account Executive | [Blue](https://heyblue.com) | — | Jun 10 | [Apply](https://jobs.lever.co/blue/d36f6677-4686-472a-b270-fddb4ede8535) |
 | Partner Sales Director - HCL | [Zscaler](https://zscaler.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5149605007) |
+| One Shot Quote Analyst - Remote from Alberta, British Columbia or Saskatchewan | [Manitoulin Global Forwarding](https://manitoulingroup.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000131452939) |
 | Sales Specialist - Data & AI Security | [Veeam Software](https://veeam.com) | — | Jun 10 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4872389101) |
+| Sales Special Operation - Apprenticeship  (All genders) | [Dailymotion](https://dailymotion.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Dailymotion/postings/744000131443532) |
 | Senior Client Partner, Large Customer Sales - DACH | [Reddit](https://reddit.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/7996471) |
 | Channel Sales Manager, EMEA | [Mixpanel](https://mixpanel.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/mixpanel/jobs/7993118) |
 | Senior Pre-Sales Solution Consultant , Marketplace | [Socure](https://socure.com) | — | Jun 10 | [Apply](https://jobs.ashbyhq.com/socure/5758a063-d5ad-40b0-8c3f-6eb92db0671c) |

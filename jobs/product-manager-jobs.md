@@ -2,12 +2,14 @@
 
 Product manager roles at companies building real products. Sourced directly from career pages.
 
-**179 open roles** — Last updated: 2026-06-10
+**181 open roles** — Last updated: 2026-06-10
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Product Owner Sênior | [Experian](https://experianplc.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000131528611) |
+| Alternance - Chef de Produit et Acheteur E-commerce F/H/X | [BUT](https://but.fr) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000131517384) |
 | Director, Product Management | [Twilio](https://twilio.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7966926) |
 | Director, Product Management, Customer Security Outcomes | [Zscaler](https://zscaler.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5149191007) |
 | Product Analyst | [Box](https://box.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/boxinc/jobs/7964508) |

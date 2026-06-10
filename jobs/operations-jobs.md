@@ -2,14 +2,19 @@
 
 Remote operations and business operations roles across industries.
 
-**1157 open roles** — Last updated: 2026-06-10
+**1162 open roles** — Last updated: 2026-06-10
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Assistente Administrativo | [Egis](https://egis-group.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000131529275) |
+| Logistics Coordinator (Korean Bilingual) | [SBT Global](https://sbtglobal.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/SBTGlobalInc/postings/3743990013562967) |
+| Chargé de Transport B2C F/H/X | [BUT](https://but.fr) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000131501371) |
+| Service Delivery Leader | [Applaudo](https://applaudo.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/ApplaudoStudios/postings/744000131499868) |
 | Master NDE Inspector | [Relativity Space](https://relativityspace.com) | — | Jun 10 | [Apply](https://boards.greenhouse.io/relativity/jobs/8582334002?gh_jid=8582334002) |
 | Alliances Manager | [Blue](https://heyblue.com) | — | Jun 10 | [Apply](https://jobs.lever.co/blue/3f804749-8143-4731-8b0a-a74bab82b6f9) |
+| Class 1 Driver for City Pickup & Delivery Great Wages $26.00 an hour with Incentives | [Manitoulin Global Forwarding](https://manitoulingroup.com) | $26/yr | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000131477689) |
 | Occupational Health and Safety Officer  | [takealot.com](https://takealot.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/takealotcom/jobs/7976075) |
 | Sourcing & Procurement Analyst (Software Helpdesk) | [WPP](https://wpp.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/wpp/jobs/8578199002) |
 | Sourcing and Procurement Analyst (Strategic Sourcing) | [WPP](https://wpp.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/wpp/jobs/8578230002) |
