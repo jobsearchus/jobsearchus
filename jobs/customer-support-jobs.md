@@ -2,12 +2,14 @@
 
 Remote customer support and success roles across SaaS, e-commerce, and tech.
 
-**281 open roles** — Last updated: 2026-06-09
+**283 open roles** — Last updated: 2026-06-10
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Support Engineer | [Greenhouse](https://greenhouse.com) | $88K–$127K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/greenhouse/jobs/7993560?gh_jid=7993560) |
+| Agente de Servicio al Cliente Bilingue | [Distro](https://distro.app) | — | Jun 9 | [Apply](https://jobs.lever.co/distro/d341240d-2cf0-4ec7-92b4-5ea837e3795e) |
 | Call Center Agent | [MSX International](https://msxi.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013535466) |
 | Domino's Customer Service Rep (05750) | [Domino's](https://dominos.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131146752) |
 | General Manager (05045)- 3112 Cleveland Ave Unit 3 | [Domino's](https://dominos.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131034050) |

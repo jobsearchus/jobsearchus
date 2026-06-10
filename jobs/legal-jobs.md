@@ -2,12 +2,14 @@
 
 Remote legal, compliance, and counsel roles.
 
-**97 open roles** — Last updated: 2026-06-09
+**99 open roles** — Last updated: 2026-06-10
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Corporate Counsel  | [Smartsheet](https://smartsheet.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/smartsheet/jobs/7993147) |
+| Compliance Communications Senior Specialist | [Robinhood](https://robinhood.com) | — | Jun 9 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7990844?t=gh_src=&gh_jid=7990844) |
 | French Legal Intern | [Fever](https://feverup.com) | — | Jun 9 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4890223101) |
 | French Legal Intern | [Fever](https://feverup.com) | — | Jun 9 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4890222101) |
 | Officer, Compliance, Stockbroker | [Standard Bank](https://standardbank.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000130848520) |

@@ -2,12 +2,13 @@
 
 DevOps, platform engineering, and infrastructure roles. AWS, GCP, Kubernetes, Terraform.
 
-**93 open roles** — Last updated: 2026-06-09
+**94 open roles** — Last updated: 2026-06-10
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| DevOps Engineer | [Aura](https://aura.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/aura798/jobs/6016666004) |
 | AI Infrastructure & Platform Operations Engineer  | [Mirantis](https://mirantis.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/Mirantis/postings/744000131118389) |
 | Senior DevOps Engineer (Full Remote from France) | [Dailymotion](https://dailymotion.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/Dailymotion/postings/744000131050419) |
 | DevSecOps Engineer | [AHEAD](https://ahead.com) | — | Jun 9 | [Apply](https://jobs.lever.co/thinkahead/a7addcd4-e7c7-4bbf-bcb3-022f838cb60f) |

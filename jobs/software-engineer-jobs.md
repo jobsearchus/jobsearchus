@@ -2,16 +2,39 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**1575 open roles** — Last updated: 2026-06-09
+**1598 open roles** — Last updated: 2026-06-10
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Software Engineer, People Technology | [Gusto](https://gusto.com) | $163K–$204K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/gusto/jobs/7947424) |
+| Entry Level Civil Engineer or Graduate Civil Engineer (0-3 Years)  | [KPFF Consulting Engineers](https://kpff.com) | $64K–$85K/yr | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/KPFFConsultingEngineers/postings/3743990013550256) |
+| Practice Manager - Electrical & Software Engineering | [ALTEN](https://alten.com) | $160K–$170K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5160495007) |
+| Senior Technical Support Engineer | [Horizon3.ai](https://horizon3ai.com) | $102K–$127K/yr | Jun 9 | [Apply](https://jobs.ashbyhq.com/horizon3ai/983ab553-f5aa-4019-9851-1f8728d5f509) |
+| Design Release Engineer - Audio Systems  | [ALTEN](https://alten.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5160441007) |
+| Ingeniero en Sistemas  | [Inetum](https://inetum.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000131230329) |
+| Manager, Engineering - Scenario Planning | [Smartsheet](https://smartsheet.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/smartsheet/jobs/7993802) |
+| Embedded Electronics Engineer | [HavocAI](https://havocai.com) | — | Jun 9 | [Apply](https://jobs.ashbyhq.com/havocai/87134691-2bd5-4023-820c-2721b70a4f37) |
+| Senior Software Engineer, Cloud Identity | [Temporal](https://temporal.io) | $212K–$237K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/temporaltechnologies/jobs/5158843007) |
+| Senior Reliability Engineer | [Skyways](https://skyways.com) | — | Jun 9 | [Apply](https://jobs.lever.co/skyways/99960405-ca7b-41fa-9ecc-5a27efa79bed) |
+| Senior Analyst, SEM Bidding | [Tripadvisor](https://tripadvisor.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/tripadvisor/jobs/7993516) |
+| Entry Level Civil Engineer or Graduate Civil Engineer (0-3 Years)  | [KPFF Consulting Engineers](https://kpff.com) | $64K–$85K/yr | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/KPFFConsultingEngineers/postings/3743990013542918) |
+| Analista Desenvolvedor Magento 2 & Open Source | [Skydropx](https://skydropx.com) | — | Jun 9 | [Apply](https://jobs.ashbyhq.com/skydropx/4832dd70-15b7-4d37-8a1a-c888d25628e8) |
+| Software Engineer II  | [Tripadvisor](https://tripadvisor.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/tripadvisor/jobs/7993242) |
+|  Senior Customer Integration Engineer | [Focal Systems](https://focal.systems) | $117K–$133K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/focalsystems/jobs/6016013004) |
+| Chef de projet applicatif - Senior - H/F | [Inetum](https://inetum.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000131181771) |
+| Engineering Manager, Advisory Platform | [Robinhood](https://robinhood.com) | — | Jun 9 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7992784?t=gh_src=&gh_jid=7992784) |
+| Team Lead, Software Engineering | [Clutch](https://clutch.io) | $175K–$225K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/clutch/jobs/6017401004) |
+| Staff Solutions Engineer (France), Firefox Enterprise | [Mozilla](https://mozilla.org) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/mozilla/jobs/7991257) |
 | Senior Software Developer - Contractor | [Acumatica](https://acumatica.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/Acumatica/postings/744000131161649) |
+| Werkstudent (w/m/d) IT-Support | [Drees & Sommer](https://dreso.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000131157194) |
 | Software Developer | [Acumatica](https://acumatica.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/Acumatica/postings/744000131149122) |
+| Associate Principal Engineer - Java | [Saviynt](https://saviynt.com) | — | Jun 9 | [Apply](https://jobs.lever.co/saviynt/4ff9cf78-58dc-4b4a-a0f0-2f171b78e162) |
 | Senior Data Engineer | [Genpak LLC](https://genpak-llc-2) | — | Jun 9 | [Apply](https://job-boards.eu.greenhouse.io/valtech/jobs/4890368101) |
 | Senior Data Engineer | [Genpak LLC](https://genpak-llc-2) | — | Jun 9 | [Apply](https://job-boards.eu.greenhouse.io/valtech/jobs/4888650101) |
+| Junior Bauingenieur (w/m/d) Tiefbau - Energieprojekte | [Drees & Sommer](https://dreso.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000131126637) |
+| Junior Bauingenieur (w/m/d) Tiefbau - Energieprojekte | [Drees & Sommer](https://dreso.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000131127209) |
 | Principal Data Engineer | [Netcompany](https://netcompany.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000131118089) |
 | Lead Data Engineer | [Netcompany](https://netcompany.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000131115984) |
 | LSS Commissioning Technican  | [Genpak LLC](https://genpak-llc-2) | — | Jun 9 | [Apply](https://job-boards.eu.greenhouse.io/lotusworks/jobs/4882552101) |

@@ -2,13 +2,29 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**958 open roles** — Last updated: 2026-06-09
+**974 open roles** — Last updated: 2026-06-10
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Commercial Account Executive (CAE)  | [Sigma Computing](https://sigmacomputing.com) | $100K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/7767739003) |
+| Commercial Account Executive (NYC)  | [Sigma Computing](https://sigmacomputing.com) | $100K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/7767738003) |
+| Commercial Account Executive (CAE) Manager - EMEA | [Sigma Computing](https://sigmacomputing.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/7767734003) |
+| Account Executive - Digital Sales - CCaaS | [TTEC Digital](https://ttecdigital.com) | — | Jun 9 | [Apply](https://jobs.lever.co/ttecdigital/e05a5840-99b8-48bc-a4e5-162164d488db) |
+| Sales Executive - Exclusive Hiring Day Event | [Delivery Hero](https://deliveryhero.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000131218610) |
+| Sales Engineer | [Luma Health](https://lumahealth.io) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/lumahealth/jobs/8584517002) |
+| Account Executive, Paid Media Specialist (Executivo de Vendas, Especialista em Mídia Paga) - São Paulo (Hybrid) | [Clara](https://clara.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/clara/jobs/5160163007) |
+| Sales Development Manager – London | [Convera](https://convera.com) | — | Jun 9 | [Apply](https://job-boards.eu.greenhouse.io/convera/jobs/4890987101) |
+| Account Executive, SMB | [Apollo.io](https://apollo.io) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/apolloio/jobs/6017467004) |
+| Pet Insurance Sales Associate - Tucson, AZ  | [Fetch](https://fetchtruck.com) | $55K–$100K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/fetch/jobs/4279432009) |
+| Account Executive, Trading-as-a-Service (TaaS), Payward Services | [Kraken](https://kraken.com) | — | Jun 9 | [Apply](https://jobs.ashbyhq.com/kraken.com/9b6ef26d-0e1b-4a7e-8a52-b4d568a332ab) |
 | Digital Sales Representative - Activate (Twilio.org) | [Twilio](https://twilio.com) | $30/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7992719) |
+| Senior Commercial Account Executive - CIS (Russian Speaker) | [GitLab](https://gitlab.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8583753002) |
+| Senior Commercial Account Executive - CIS (Russian Speaker) | [GitLab](https://gitlab.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8583752002) |
+| Senior Commercial Account Executive - CIS (Russian Speaker) | [GitLab](https://gitlab.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8551468002) |
+| Sales Development Manager - Melbourne | [Convera](https://convera.com) | — | Jun 9 | [Apply](https://job-boards.eu.greenhouse.io/convera/jobs/4890560101) |
+| [Job- 29772] Senior Sales Executive/Business Development Manager (Life Sciences), US | [CI&T](https://cit.com) | — | Jun 9 | [Apply](https://jobs.lever.co/ciandt/4d9fbb2a-1a44-403b-89fb-4dfdb3a896ef) |
 | Sr. Client Partner - Video Business Unit | [Aleph](https://aleph.vc) | — | Jun 9 | [Apply](https://jobs.lever.co/aleph/da79667d-0c4f-4ba3-a250-69f081e9c03d) |
 | Sr. Client Partner - Video Business Unit | [Aleph](https://aleph.vc) | — | Jun 9 | [Apply](https://jobs.lever.co/aleph/9d336026-2cbe-4e93-8e46-0d43f3ae77b4) |
 | Account Executive, Fever for Business (Dutch Speaker) | [Fever](https://feverup.com) | — | Jun 9 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4890437101) |

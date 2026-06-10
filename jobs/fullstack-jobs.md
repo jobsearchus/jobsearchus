@@ -2,12 +2,15 @@
 
 Full-stack engineering roles across product, platform, and startup companies.
 
-**53 open roles** — Last updated: 2026-06-09
+**56 open roles** — Last updated: 2026-06-10
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Full Stack Engineer, Foundation | [LaunchDarkly](https://launchdarkly.com) | $171K–$235K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/launchdarkly/jobs/7767264003) |
+| Sr. Full Stack Engineer | [Homera Health](https://homerahealth.com) | — | Jun 9 | [Apply](https://jobs.ashbyhq.com/homera-health/6dd79eb5-24e7-44d3-9b1c-3daaa9dc7931) |
+| Senior Full-Stack Software Engineer | [Sectigo](https://sectigo.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/Sectigo/postings/3743990013531516) |
 | Senior Full-Stack Engineer – Gravity (Offshore) | [MedMe Health](https://medmehealth.com) | $50K–$80K/yr | Jun 8 | [Apply](https://medmehealth.recruitee.com/o/senior-full-stack-engineer-gravity-offshore/c/new) |
 | Senior Engineer, .Net Fullstack | [Nagarro](https://nagarro.com) | — | Jun 7 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000130671509) |
 | [8JH] Senior Full-Stack Engineer (.NET/Angular – CSS/UI) – Team Lead | [Software Mind](https://softwaremind.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/SoftwareMind/postings/744000130585379) |

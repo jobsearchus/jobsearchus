@@ -2,16 +2,28 @@
 
 Remote operations and business operations roles across industries.
 
-**1129 open roles** — Last updated: 2026-06-09
+**1141 open roles** — Last updated: 2026-06-10
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Rider Performance Specialist | [Delivery Hero](https://deliveryhero.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000131228269) |
+| Quick Commerce Operations Specialist | [Delivery Hero](https://deliveryhero.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000131227359) |
+| Immigration Operations Specialist - Internship | [Envoy Global](https://envoyglobal.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/envoyglobalinc/jobs/6014163004) |
+| Merchandising Store Manager In-Training | [Serv-U-Success](https://servusuccess.com) | — | Jun 9 | [Apply](https://jobs.lever.co/serv-u-success/a54265db-82b1-45e3-a11f-b8818fd417ea) |
+| Project Coordinator (Transportation) | [KPFF Consulting Engineers](https://kpff.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/KPFFConsultingEngineers/postings/3743990013545466) |
+| Director, Order-to-Cash | [Life360](https://life360.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/life360/jobs/8584456002) |
 | MECANICIEN SERVICE RAPIDE (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000131211730) |
 | MECANICIEN CONFIRME (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000131212102) |
+| Senior Retail Forecast & Replenishment Analyst | [Grüns](https://gruns.co) | $110K–$125K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/gruns/jobs/5252692008) |
 | Manager, Center of Excellence | [NBCUniversal](https://nbcuniversal.com) | $95K–$105K/yr | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000131191689) |
+| Fulfillment Associate | [GOAT Group](https://goatgroup.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/goatgroup/jobs/4704248005) |
+| Linux Patching Programme Manager | [Qube Research & Technologies](https://quberesearch.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8584033002) |
 | Automotive Service Estimator/Dispatcher - Starting at $60k* & Weekends Off - South Meridian | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | $60K/yr | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000131171230) |
+| Storekeeper | [BESIX](https://besix.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000131161197) |
+| Storekeeper | [BESIX](https://besix.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000131158981) |
+| Operations Risk Manager (Backbook Integrations)  | [Affirm](https://affirm.com) | £80K–£118K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7761356003) |
 | Domino's Delivery Driver (05750) | [Domino's](https://dominos.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131150300) |
 | Genesys Cloud CX Change Lead (Part-time) | [Miratech](https://miratech.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000131137951) |
 | Assistant Manager - Milano  | [JD Sports](https://jdsports.com) | — | Jun 9 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4890468101) |

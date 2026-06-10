@@ -2,12 +2,14 @@
 
 Remote cybersecurity, information security, and security engineering roles.
 
-**110 open roles** — Last updated: 2026-06-09
+**112 open roles** — Last updated: 2026-06-10
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Security Engineer (AI Platform) | [Chainguard](https://chainguard.dev) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/chainguard/jobs/4687742006) |
+| Security Operations Engineer | [Mayflower](https://mayflowervisa.com) | — | Jun 9 | [Apply](https://mayflower.recruitee.com/o/security-operations-engineer-1/c/new) |
 | Senior Security Engineer | [Zuora](https://zuora.com) | — | Jun 9 | [Apply](https://boards.greenhouse.io/zuora/jobs/7966296?gh_jid=7966296) |
 | IT Associate | [Owner.com](https://owner.com) | $150K–$170K/yr | Jun 9 | [Apply](https://jobs.ashbyhq.com/Owner/b10724ff-2f6a-4892-898b-26f0d35aeb14) |
 | Security Analyst | [AHEAD](https://ahead.com) | — | Jun 8 | [Apply](https://jobs.lever.co/thinkahead/01d07b62-aab8-4aba-a870-db591a9b3581) |

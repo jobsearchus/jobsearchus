@@ -2,12 +2,15 @@
 
 General developer and programmer roles that did not fit a more specific category.
 
-**109 open roles** — Last updated: 2026-06-09
+**112 open roles** — Last updated: 2026-06-10
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Developer Intern, Trust Platforms - Fall 2026 | [1Password](https://1password.com) | — | Jun 9 | [Apply](https://jobs.ashbyhq.com/1password/8f8774dc-e400-48b1-8100-c6840b8eaed1) |
+| Developer Intern, Data Security - Fall 2026 | [1Password](https://1password.com) | — | Jun 9 | [Apply](https://jobs.ashbyhq.com/1password/47274802-4040-4039-978a-fc9b7d6868ce) |
+| [Job- 29803] Mid-Level iOS Developer , Brazil | [CI&T](https://cit.com) | — | Jun 9 | [Apply](https://jobs.lever.co/ciandt/5f4807e2-9f48-4151-b05d-ded22d0413e6) |
 | Intermediate C++ Developer | [Gameloft](https://gameloft.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/Gameloft/postings/744000131122089) |
 | Senior Game Developer | [Loop Games](https://loopgames.com) | — | Jun 9 | [Apply](https://jobs.lever.co/loopgames/5e966197-eb1d-4d5b-bcf3-d562b39412fa) |
 | Developer Relations Evangelist  | [AssemblyAI](https://assemblyai.com) | $130K–$190K/yr | Jun 8 | [Apply](https://job-boards.greenhouse.io/assemblyai/jobs/4703690005) |

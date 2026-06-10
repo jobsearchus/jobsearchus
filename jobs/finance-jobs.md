@@ -2,13 +2,23 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**474 open roles** — Last updated: 2026-06-09
+**484 open roles** — Last updated: 2026-06-10
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Director, Assistant Controller | [Checkr](https://checkr.com) | $25K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/checkr/jobs/7985646) |
+| Senior Accountant | [Instawork](https://instawork.com) | $100K–$125K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/instawork/jobs/4688162006) |
+| Senior Strategic Finance Analyst, GTM | [Docker](https://docker.com) | — | Jun 9 | [Apply](https://jobs.ashbyhq.com/docker/2983a9fa-8714-4e71-88c7-9012be090f09) |
+| Senior Strategic Finance Manager | [SmithRx](https://smithrx.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/smithrx/jobs/8584577002) |
+| Credit Policy & Decisioning Analyst  | [Reach](https://reachpower.com) | $120K–$150K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/reach/jobs/8584446002) |
+| Tax Senior Analyst | [Faire](https://faire.com) | $126K–$173K/yr | Jun 9 | [Apply](https://boards.greenhouse.io/faire/jobs/8584437002?gh_jid=8584437002) |
 | Operador de Financiamento Jr. (F&I) - Volante | [MSX International](https://msxi.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013539966) |
+| Pricing Strategy Senior Manager | [Checkr](https://checkr.com) | $25K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/checkr/jobs/7993115) |
+| Credit Risk Manager, Portfolio Management | [Monzo](https://monzo.com) | £100K–£130K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7991227) |
+| Cash Application Specialist | [Distro](https://distro.app) | — | Jun 9 | [Apply](https://jobs.lever.co/distro/55c07468-88b9-44dd-82c2-861e05212d12) |
+| Credit Risk Manager, Flex Originations  | [Monzo](https://monzo.com) | £100K–£130K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7991200) |
 | Manager, Management Information Systems | [Standard Bank](https://standardbank.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000131075014) |
 | INTERMARCHE - COMPTABLE (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000131065909) |
 | [CFS]GO Capex operations_Finance_FP&A | [Coupang](https://coupang.com) | — | Jun 9 | [Apply](https://boards.greenhouse.io/coupanginternal/jobs/7813264?gh_jid=7813264) |
