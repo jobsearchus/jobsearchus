@@ -2,12 +2,25 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**1118 open roles** — Last updated: 2026-06-10
+**1131 open roles** — Last updated: 2026-06-10
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| User Acceptance Testing Manager | [Inetum](https://inetum.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000131434719) |
+| Réceptionniste Tournant (H/F/X) | [ACCOR](https://group.accor.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000131432150) |
+| VOITURIER BAGAGISTE (H/F/X) | [ACCOR](https://group.accor.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000131431729) |
+| Manager, Relationship, Ecosystems | [Standard Bank](https://standardbank.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000131424379) |
+| (Senior) Projektleiter (w/m/d) Hochbau | [Drees & Sommer](https://dreso.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000131420464) |
+| INTERMARCHE -  BOUCHER POLYVALENT TRAD + LS + LS INDUS (H/F) - 41H | [Genpak LLC](https://genpak-llc-2) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000131417764) |
+| INTERMARCHE - BOUCHER POLYVALENT TRAD + LS + LS INDUS (H/F) - 41H | [Genpak LLC](https://genpak-llc-2) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000131417999) |
+| Veiligheidskundige / HSE-adviseur  | [BESIX](https://besix.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000131399227) |
+| (Senior) Consultant (w/m/d) TGA/ Facility Management (75-100%) | [Drees & Sommer](https://dreso.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000131387579) |
+| Superintendent - ROCO-Antwerp  | [BESIX](https://besix.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000131385229) |
+| Shift Leader(01692) - 321 S. Andover Road, Suite 500 | [Domino's](https://dominos.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131363390) |
+| Delivery Driver(08764) - 1335 N. Longstreet St. | [Domino's](https://dominos.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131363911) |
+| Sr. IT Systems Operations Manager | [ExtraHop](https://extrahop.com) | $170K–$195K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/extrahopnetworks/jobs/6016297004) |
 | Réceptionniste  | [ACCOR](https://group.accor.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000131233929) |
 | Server Assistant | [ACCOR](https://group.accor.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000131233719) |
 | Arrumador (eira) | [ACCOR](https://group.accor.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000131226939) |

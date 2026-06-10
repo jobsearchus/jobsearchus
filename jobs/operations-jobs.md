@@ -2,7 +2,7 @@
 
 Remote operations and business operations roles across industries.
 
-**1148 open roles** — Last updated: 2026-06-10
+**1150 open roles** — Last updated: 2026-06-10
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -10,8 +10,10 @@ Remote operations and business operations roles across industries.
 | --- | --- | --- | --- | --- |
 | Branch Supervisor | [takealot.com](https://takealot.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/takealotcom/jobs/7977167) |
 | Ocean Operations Specialist | [Flexport](https://flexport.com) | — | Jun 10 | [Apply](https://boards.greenhouse.io/flexport/jobs/7994556?gh_jid=7994556) |
+| Delivery Driver(06404) - 720 Bastrop Highway | [Domino's](https://dominos.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131363873) |
 | Assistant Manager(03715) - 199 Mystic Avenue | [Domino's](https://dominos.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131360970) |
 | Delivery Expert(03494) - 2104 Grand Central Ave | [Domino's](https://dominos.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131364159) |
+| Bank Chief Operations Officer | [Sezzle](https://sezzle.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/sezzle/jobs/7764777003) |
 | Rider Performance Specialist | [Delivery Hero](https://deliveryhero.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000131228269) |
 | Quick Commerce Operations Specialist | [Delivery Hero](https://deliveryhero.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000131227359) |
 | Immigration Operations Specialist - Internship | [Envoy Global](https://envoyglobal.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/envoyglobalinc/jobs/6014163004) |

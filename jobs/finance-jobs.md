@@ -2,12 +2,14 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**487 open roles** — Last updated: 2026-06-10
+**489 open roles** — Last updated: 2026-06-10
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Financial Reporting Analyst | [Standard Bank](https://standardbank.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000131431618) |
+| Specialist, Investment Consultant | [Standard Bank](https://standardbank.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000131411611) |
 | Director, Assistant Controller | [Checkr](https://checkr.com) | $25K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/checkr/jobs/7985646) |
 | Senior Treasury Analyst | [Coursera](https://coursera.org) | $110K–$130K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/coursera/jobs/6013260004) |
 | Senior Accountant | [Instawork](https://instawork.com) | $100K–$125K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/instawork/jobs/4688162006) |

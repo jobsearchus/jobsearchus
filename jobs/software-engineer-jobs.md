@@ -2,13 +2,19 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**1606 open roles** — Last updated: 2026-06-10
+**1612 open roles** — Last updated: 2026-06-10
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Procurement administrator - Junior- Hispanophone | [Inetum](https://inetum.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000131437809) |
+| [Job-  29814]  Architect Manager, Brazil | [CI&T](https://cit.com) | — | Jun 10 | [Apply](https://jobs.lever.co/ciandt/7695c52a-97c3-4183-b8f9-f67c454d8bca) |
+| Consultant SAP fonctionnel Industrie | [Inetum](https://inetum.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000131415989) |
 | Software Engineer II | [The Trade Desk](https://thetradedesk.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5159472007) |
+| Civil Design Engineer (3-5 Years)   | [KPFF Consulting Engineers](https://kpff.com) | $75K–$125K/yr | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/KPFFConsultingEngineers/postings/3743990013551326) |
+| Civil Engineering Project Manager or Project Manager (Civil)  | [KPFF Consulting Engineers](https://kpff.com) | $94K–$150K/yr | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/KPFFConsultingEngineers/postings/3743990013551191) |
+| Civil Design Engineer (3-5 Years)   | [KPFF Consulting Engineers](https://kpff.com) | $75K–$125K/yr | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/KPFFConsultingEngineers/postings/3743990013551016) |
 | Software Engineer, People Technology | [Gusto](https://gusto.com) | $163K–$204K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/gusto/jobs/7947424) |
 | Analytics Manager, GOC | [WPP Media](https://wppmedia.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5252463008) |
 | Entry Level Civil Engineer or Graduate Civil Engineer (0-3 Years)  | [KPFF Consulting Engineers](https://kpff.com) | $64K–$85K/yr | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/KPFFConsultingEngineers/postings/3743990013550256) |

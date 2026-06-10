@@ -2,13 +2,15 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**684 open roles** — Last updated: 2026-06-10
+**686 open roles** — Last updated: 2026-06-10
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Sr. IT Systems Operations Manager | [ExtraHop](https://extrahop.com) | $170K–$195K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/extrahopnetworks/jobs/6016297004) |
 | Principal Product Marketing Manager | [Drata](https://drata.com) | $214K–$264K/yr | Jun 9 | [Apply](https://jobs.ashbyhq.com/drata/0dd897fb-3279-4268-aab3-8fdb5fbe052a) |
+| Enterprise Customer Success Manager | [Intercom](https://intercom.com) | $186K–$223K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7981111) |
 | Commercial Account Executive (CAE)  | [Sigma Computing](https://sigmacomputing.com) | $100K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/7767739003) |
 | Software Engineer, People Technology | [Gusto](https://gusto.com) | $163K–$204K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/gusto/jobs/7947424) |
 | Commercial Account Executive (NYC)  | [Sigma Computing](https://sigmacomputing.com) | $100K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/7767738003) |

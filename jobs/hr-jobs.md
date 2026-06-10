@@ -2,12 +2,13 @@
 
 Remote HR, recruiting, and people operations roles.
 
-**195 open roles** — Last updated: 2026-06-10
+**196 open roles** — Last updated: 2026-06-10
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| People Partner | [PortmanDentex](https://portmandentex.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000131435684) |
 | Account Executive, Healthcare(Hospital)  | [Pure Storage](https://purestorage.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/7978578) |
 | Senior Technical Recruiter | [Canary Technologies](https://canarytechnologies.com) | — | Jun 9 | [Apply](https://jobs.lever.co/canarytechnologies/48dc79b2-cd14-44d9-80fd-e8bf278434a2) |
 | Director, HR Business Partner | [Omada Health](https://omadahealth.com) | $191K–$243K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/omadahealth/jobs/7983680) |

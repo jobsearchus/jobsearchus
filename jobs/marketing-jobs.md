@@ -2,12 +2,13 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**369 open roles** — Last updated: 2026-06-10
+**370 open roles** — Last updated: 2026-06-10
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Marketing Advisor  | [PortmanDentex](https://portmandentex.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000131427546) |
 | Principal Product Marketing Manager | [Drata](https://drata.com) | $214K–$264K/yr | Jun 9 | [Apply](https://jobs.ashbyhq.com/drata/0dd897fb-3279-4268-aab3-8fdb5fbe052a) |
 | JR Analista Salesforce Marketing Cloud | [ília](https://lia.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/ilia/jobs/6017916004) |
 | Affiliate Marketing Coordinator | [KOHO](https://koho.ca) | — | Jun 9 | [Apply](https://jobs.ashbyhq.com/koho/9b619cdc-0016-4be4-9006-ae0d6225e3e6) |

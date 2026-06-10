@@ -2,15 +2,22 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**990 open roles** — Last updated: 2026-06-10
+**996 open roles** — Last updated: 2026-06-10
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Junior Inköpare och Biltestare - deltid/sommar | [AUTO1 Group](https://auto1-group.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000131429900) |
+| Junior Kundmottagare till Tagene | [AUTO1 Group](https://auto1-group.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000131428741) |
+| Addetto Acquisti Auto e Back office- Desenzano del Garda | [AUTO1 Group](https://auto1-group.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000131411159) |
 |  Account Executive - Majors | [Zscaler](https://zscaler.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5156014007) |
 | Client Partner | [Aleph](https://aleph.vc) | — | Jun 10 | [Apply](https://jobs.lever.co/aleph/221676d2-eef0-470a-af1a-1a59ab417729) |
 | Manager, Service Account Manager | [Pure Storage](https://purestorage.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/7988570) |
+| [28067] VP of Business Development, ANZ | [CI&T](https://cit.com) | — | Jun 10 | [Apply](https://jobs.lever.co/ciandt/facf6ccb-b34b-4e44-9413-933dc4a1c6b8) |
+| Enterprise Customer Success Manager | [Intercom](https://intercom.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7994422) |
+| Enterprise Customer Success Manager | [Intercom](https://intercom.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7980800) |
+| Enterprise Customer Success Manager | [Intercom](https://intercom.com) | $186K–$223K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7981111) |
 | Commercial Account Executive (CAE)  | [Sigma Computing](https://sigmacomputing.com) | $100K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/7767739003) |
 | Commercial Account Executive (NYC)  | [Sigma Computing](https://sigmacomputing.com) | $100K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/7767738003) |
 | Commercial Account Executive (CAE) Manager - EMEA | [Sigma Computing](https://sigmacomputing.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/7767734003) |
@@ -151,7 +158,6 @@ Remote sales roles — account executives, SDRs, and enterprise deals.
 | Channel Account Manager - Inside Sales (m/f/d) | [Sophos](https://sophos.com) | — | Jun 5 | [Apply](https://jobs.lever.co/sophos/fa4062e0-d043-461f-83ab-e519bfc69ef6) |
 | Менеджер технической поддержки продаж | [Syngenta](https://syngenta.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000130501002) |
 | Менеджер по продажам СЗР | [Syngenta](https://syngenta.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000130503578) |
-| Regional Director, Enterprise Sales  | [Zscaler](https://zscaler.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5153344007) |
 | Regional Director, Enterprise Sales  | [Zscaler](https://zscaler.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5153344007) |
 | Manager, Retention and Growth | [Razorpay Software Private Limited](https://razorpay.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4702165005) |
 | Sales Manager - France (All Genders) | [Dailymotion](https://dailymotion.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Dailymotion/postings/744000130401349) |
