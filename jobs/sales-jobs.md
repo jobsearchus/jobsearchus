@@ -2,24 +2,36 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**974 open roles** — Last updated: 2026-06-10
+**990 open roles** — Last updated: 2026-06-10
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+|  Account Executive - Majors | [Zscaler](https://zscaler.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5156014007) |
+| Client Partner | [Aleph](https://aleph.vc) | — | Jun 10 | [Apply](https://jobs.lever.co/aleph/221676d2-eef0-470a-af1a-1a59ab417729) |
+| Manager, Service Account Manager | [Pure Storage](https://purestorage.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/7988570) |
 | Commercial Account Executive (CAE)  | [Sigma Computing](https://sigmacomputing.com) | $100K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/7767739003) |
 | Commercial Account Executive (NYC)  | [Sigma Computing](https://sigmacomputing.com) | $100K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/7767738003) |
 | Commercial Account Executive (CAE) Manager - EMEA | [Sigma Computing](https://sigmacomputing.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/7767734003) |
 | Account Executive - Digital Sales - CCaaS | [TTEC Digital](https://ttecdigital.com) | — | Jun 9 | [Apply](https://jobs.lever.co/ttecdigital/e05a5840-99b8-48bc-a4e5-162164d488db) |
 | Sales Executive - Exclusive Hiring Day Event | [Delivery Hero](https://deliveryhero.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000131218610) |
+| Named Sales Director, TOLA | [Cloudflare](https://cloudflare.com) | — | Jun 9 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7991249?gh_jid=7991249) |
+| Enterprise Account Executive - Hunter | [Flexport](https://flexport.com) | — | Jun 9 | [Apply](https://boards.greenhouse.io/flexport/jobs/7977805?gh_jid=7977805) |
 | Sales Engineer | [Luma Health](https://lumahealth.io) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/lumahealth/jobs/8584517002) |
 | Account Executive, Paid Media Specialist (Executivo de Vendas, Especialista em Mídia Paga) - São Paulo (Hybrid) | [Clara](https://clara.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/clara/jobs/5160163007) |
+| Strategic Account Executive 3 | [Twilio](https://twilio.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7985177) |
+| Business Development Director (Pharma) | [The Trade Desk](https://thetradedesk.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5159834007) |
+| Senior Named Account Executive, Houston | [Cloudflare](https://cloudflare.com) | — | Jun 9 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7991283?gh_jid=7991283) |
+| Senior Named Account Executive | [Cloudflare](https://cloudflare.com) | $281K–$360K/yr | Jun 9 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7991568?gh_jid=7991568) |
 | Sales Development Manager – London | [Convera](https://convera.com) | — | Jun 9 | [Apply](https://job-boards.eu.greenhouse.io/convera/jobs/4890987101) |
 | Account Executive, SMB | [Apollo.io](https://apollo.io) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/apolloio/jobs/6017467004) |
 | Pet Insurance Sales Associate - Tucson, AZ  | [Fetch](https://fetchtruck.com) | $55K–$100K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/fetch/jobs/4279432009) |
+| Key Account Manager | [Wolt](https://wolt.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7992232) |
 | Account Executive, Trading-as-a-Service (TaaS), Payward Services | [Kraken](https://kraken.com) | — | Jun 9 | [Apply](https://jobs.ashbyhq.com/kraken.com/9b6ef26d-0e1b-4a7e-8a52-b4d568a332ab) |
 | Digital Sales Representative - Activate (Twilio.org) | [Twilio](https://twilio.com) | $30/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7992719) |
+| Sales Development Representative, UK | [Pure Storage](https://purestorage.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/7982106) |
+| Operations Associate, Courier HR (m/f/x) | [Wolt](https://wolt.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7984756) |
 | Senior Commercial Account Executive - CIS (Russian Speaker) | [GitLab](https://gitlab.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8583753002) |
 | Senior Commercial Account Executive - CIS (Russian Speaker) | [GitLab](https://gitlab.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8583752002) |
 | Senior Commercial Account Executive - CIS (Russian Speaker) | [GitLab](https://gitlab.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8551468002) |
@@ -40,7 +52,9 @@ Remote sales roles — account executives, SDRs, and enterprise deals.
 | Technical Account Manager France | [RTB House](https://rtbhouse.com) | — | Jun 9 | [Apply](https://job-boards.eu.greenhouse.io/rtbhouse/jobs/4883775101) |
 | Sales Manager B2B / Telesales - 100% Remote (d/m/w) | [AUTO1 Group](https://auto1-group.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000131066750) |
 | Junior Sales Manager B2B / Telesales - 100% Remote (d/m/w) im Rhein-Ruhr-Gebiet | [AUTO1 Group](https://auto1-group.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000131070499) |
+| Sales Assistant (Part Time) - Foggia C.C. GrandApulia | [JD Sports](https://jdsports.com) | — | Jun 9 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4889894101) |
 | Senior Software Engineer - Cards Experience EU  | [Perk](https://perk.com) | — | Jun 9 | [Apply](https://jobs.ashbyhq.com/perk/ac6d7e7d-49b5-43d7-9837-d8337cf93561) |
+| Sales Assistant (Part Time) - Verona C.C. "Adigeo" | [JD Sports](https://jdsports.com) | — | Jun 9 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4889863101) |
 | Sales Assistant Part Time (Categorie Protette) - Modena C.C. "Grandemilia" | [JD Sports](https://jdsports.com) | — | Jun 9 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4889217101) |
 | Senior Sales Development Representative | [Veeam Software](https://veeam.com) | — | Jun 9 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4865428101) |
 | Account Executive - Automotive | [INFINIT](https://infinit.com) | — | Jun 9 | [Apply](https://jobs.lever.co/infinit/7971cb23-9572-4e79-9f3c-a96897ceb3ad) |
@@ -58,6 +72,7 @@ Remote sales roles — account executives, SDRs, and enterprise deals.
 | Senior Account Executive, Commercial, DACH | [HackerOne](https://hackerone.com) | £65K–£73K/yr | Jun 8 | [Apply](https://jobs.ashbyhq.com/hackerone/4ded5c3c-3b7c-4e87-8d0c-5e9c859e6e4a) |
 | Account Executive, Commercial - SMB (East) | [Smartsheet](https://smartsheet.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/smartsheet/jobs/7990798) |
 | Sr BDR (Netherlands) | [Dandy](https://meetdandy.com) | — | Jun 8 | [Apply](https://jobs.ashbyhq.com/dandy/e00aa5bf-91a1-4a32-a6de-1df9ed5ebccc) |
+| SALES ASSISTANT (PART TIME) - OLBIA C.C. "OLBIA MARE" | [JD Sports](https://jdsports.com) | — | Jun 8 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4889230101) |
 | Principal Partner Solutions Consultant  | [Cresta](https://cresta.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/cresta/jobs/5238215008) |
 | Partner Program Director | [Cresta](https://cresta.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/cresta/jobs/5250874008) |
 | Sales Manager B2B / Telesales - 100% Remote in Hamburg und Umgebung (d/m/w) | [AUTO1 Group](https://auto1-group.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000130825812) |
@@ -136,6 +151,7 @@ Remote sales roles — account executives, SDRs, and enterprise deals.
 | Channel Account Manager - Inside Sales (m/f/d) | [Sophos](https://sophos.com) | — | Jun 5 | [Apply](https://jobs.lever.co/sophos/fa4062e0-d043-461f-83ab-e519bfc69ef6) |
 | Менеджер технической поддержки продаж | [Syngenta](https://syngenta.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000130501002) |
 | Менеджер по продажам СЗР | [Syngenta](https://syngenta.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000130503578) |
+| Regional Director, Enterprise Sales  | [Zscaler](https://zscaler.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5153344007) |
 | Regional Director, Enterprise Sales  | [Zscaler](https://zscaler.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5153344007) |
 | Manager, Retention and Growth | [Razorpay Software Private Limited](https://razorpay.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4702165005) |
 | Sales Manager - France (All Genders) | [Dailymotion](https://dailymotion.com) | — | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/Dailymotion/postings/744000130401349) |

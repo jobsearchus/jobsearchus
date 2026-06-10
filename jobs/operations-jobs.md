@@ -2,21 +2,28 @@
 
 Remote operations and business operations roles across industries.
 
-**1141 open roles** — Last updated: 2026-06-10
+**1148 open roles** — Last updated: 2026-06-10
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Branch Supervisor | [takealot.com](https://takealot.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/takealotcom/jobs/7977167) |
+| Ocean Operations Specialist | [Flexport](https://flexport.com) | — | Jun 10 | [Apply](https://boards.greenhouse.io/flexport/jobs/7994556?gh_jid=7994556) |
+| Assistant Manager(03715) - 199 Mystic Avenue | [Domino's](https://dominos.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131360970) |
+| Delivery Expert(03494) - 2104 Grand Central Ave | [Domino's](https://dominos.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131364159) |
 | Rider Performance Specialist | [Delivery Hero](https://deliveryhero.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000131228269) |
 | Quick Commerce Operations Specialist | [Delivery Hero](https://deliveryhero.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000131227359) |
 | Immigration Operations Specialist - Internship | [Envoy Global](https://envoyglobal.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/envoyglobalinc/jobs/6014163004) |
 | Merchandising Store Manager In-Training | [Serv-U-Success](https://servusuccess.com) | — | Jun 9 | [Apply](https://jobs.lever.co/serv-u-success/a54265db-82b1-45e3-a11f-b8818fd417ea) |
+| Global Operations Specialist | [Flexport](https://flexport.com) | — | Jun 9 | [Apply](https://boards.greenhouse.io/flexport/jobs/7993353?gh_jid=7993353) |
 | Project Coordinator (Transportation) | [KPFF Consulting Engineers](https://kpff.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/KPFFConsultingEngineers/postings/3743990013545466) |
 | Director, Order-to-Cash | [Life360](https://life360.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/life360/jobs/8584456002) |
 | MECANICIEN SERVICE RAPIDE (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000131211730) |
 | MECANICIEN CONFIRME (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000131212102) |
+| Advisory & Consulting Manager | [Diligent Corporation](https://diligent.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/diligentcorporation/jobs/5978125004) |
 | Senior Retail Forecast & Replenishment Analyst | [Grüns](https://gruns.co) | $110K–$125K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/gruns/jobs/5252692008) |
+| Partner Experience Manager | [Diligent Corporation](https://diligent.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/diligentcorporation/jobs/6013205004) |
 | Manager, Center of Excellence | [NBCUniversal](https://nbcuniversal.com) | $95K–$105K/yr | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000131191689) |
 | Fulfillment Associate | [GOAT Group](https://goatgroup.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/goatgroup/jobs/4704248005) |
 | Linux Patching Programme Manager | [Qube Research & Technologies](https://quberesearch.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8584033002) |

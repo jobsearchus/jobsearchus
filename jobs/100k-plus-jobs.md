@@ -2,7 +2,7 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**680 open roles** — Last updated: 2026-06-10
+**684 open roles** — Last updated: 2026-06-10
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -14,14 +14,18 @@ Remote roles paying $100,000 or more per year. Salary data pulled directly from 
 | Commercial Account Executive (NYC)  | [Sigma Computing](https://sigmacomputing.com) | $100K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/7767738003) |
 | Practice Manager - Electrical & Software Engineering | [ALTEN](https://alten.com) | $160K–$170K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5160495007) |
 | Senior Technical Support Engineer | [Horizon3.ai](https://horizon3ai.com) | $102K–$127K/yr | Jun 9 | [Apply](https://jobs.ashbyhq.com/horizon3ai/983ab553-f5aa-4019-9851-1f8728d5f509) |
+| Senior Treasury Analyst | [Coursera](https://coursera.org) | $110K–$130K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/coursera/jobs/6013260004) |
 | Senior Accountant | [Instawork](https://instawork.com) | $100K–$125K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/instawork/jobs/4688162006) |
 | Full Stack Engineer, Foundation | [LaunchDarkly](https://launchdarkly.com) | $171K–$235K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/launchdarkly/jobs/7767264003) |
 | Senior Software Engineer, Cloud Identity | [Temporal](https://temporal.io) | $212K–$237K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/temporaltechnologies/jobs/5158843007) |
+| Staff Software Developer | [Varicent](https://varicent.com) | $104K–$137K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/varicent/jobs/5216446008) |
 | Credit Policy & Decisioning Analyst  | [Reach](https://reachpower.com) | $120K–$150K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/reach/jobs/8584446002) |
 | Tax Senior Analyst | [Faire](https://faire.com) | $126K–$173K/yr | Jun 9 | [Apply](https://boards.greenhouse.io/faire/jobs/8584437002?gh_jid=8584437002) |
 | Senior Retail Forecast & Replenishment Analyst | [Grüns](https://gruns.co) | $110K–$125K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/gruns/jobs/5252692008) |
+| Director, HR Business Partner | [Omada Health](https://omadahealth.com) | $191K–$243K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/omadahealth/jobs/7983680) |
 | Senior People Operations Specialist | [Mercury](https://mercury.com) | $154K–$193K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/mercury/jobs/6017266004) |
 | Senior HRIS Analyst | [Mercury](https://mercury.com) | $154K–$193K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/mercury/jobs/6017264004) |
+| Senior Named Account Executive | [Cloudflare](https://cloudflare.com) | $281K–$360K/yr | Jun 9 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7991568?gh_jid=7991568) |
 |  Senior Customer Integration Engineer | [Focal Systems](https://focal.systems) | $117K–$133K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/focalsystems/jobs/6016013004) |
 | Director, Brand Partnerships | [NBCUniversal](https://nbcuniversal.com) | $125K–$160K/yr | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000131179965) |
 | Team Lead, Software Engineering | [Clutch](https://clutch.io) | $175K–$225K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/clutch/jobs/6017401004) |

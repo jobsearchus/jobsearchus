@@ -2,13 +2,14 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**484 open roles** — Last updated: 2026-06-10
+**487 open roles** — Last updated: 2026-06-10
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | Director, Assistant Controller | [Checkr](https://checkr.com) | $25K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/checkr/jobs/7985646) |
+| Senior Treasury Analyst | [Coursera](https://coursera.org) | $110K–$130K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/coursera/jobs/6013260004) |
 | Senior Accountant | [Instawork](https://instawork.com) | $100K–$125K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/instawork/jobs/4688162006) |
 | Senior Strategic Finance Analyst, GTM | [Docker](https://docker.com) | — | Jun 9 | [Apply](https://jobs.ashbyhq.com/docker/2983a9fa-8714-4e71-88c7-9012be090f09) |
 | Senior Strategic Finance Manager | [SmithRx](https://smithrx.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/smithrx/jobs/8584577002) |
@@ -19,6 +20,8 @@ Remote finance, accounting, and analyst roles at companies of all sizes.
 | Credit Risk Manager, Portfolio Management | [Monzo](https://monzo.com) | £100K–£130K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7991227) |
 | Cash Application Specialist | [Distro](https://distro.app) | — | Jun 9 | [Apply](https://jobs.lever.co/distro/55c07468-88b9-44dd-82c2-861e05212d12) |
 | Credit Risk Manager, Flex Originations  | [Monzo](https://monzo.com) | £100K–£130K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7991200) |
+| Senior Corporate Financial Analyst  | [Box](https://box.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/boxinc/jobs/7992627) |
+| Credit Risk Analyst | [INFINIT](https://infinit.com) | — | Jun 9 | [Apply](https://jobs.lever.co/infinit/e576d941-d343-45ba-8739-ea64bc6fb99f) |
 | Manager, Management Information Systems | [Standard Bank](https://standardbank.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000131075014) |
 | INTERMARCHE - COMPTABLE (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000131065909) |
 | [CFS]GO Capex operations_Finance_FP&A | [Coupang](https://coupang.com) | — | Jun 9 | [Apply](https://boards.greenhouse.io/coupanginternal/jobs/7813264?gh_jid=7813264) |

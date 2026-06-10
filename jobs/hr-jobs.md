@@ -2,13 +2,15 @@
 
 Remote HR, recruiting, and people operations roles.
 
-**193 open roles** — Last updated: 2026-06-10
+**195 open roles** — Last updated: 2026-06-10
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Account Executive, Healthcare(Hospital)  | [Pure Storage](https://purestorage.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/7978578) |
 | Senior Technical Recruiter | [Canary Technologies](https://canarytechnologies.com) | — | Jun 9 | [Apply](https://jobs.lever.co/canarytechnologies/48dc79b2-cd14-44d9-80fd-e8bf278434a2) |
+| Director, HR Business Partner | [Omada Health](https://omadahealth.com) | $191K–$243K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/omadahealth/jobs/7983680) |
 | Senior People Operations Specialist | [Mercury](https://mercury.com) | $154K–$193K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/mercury/jobs/6017266004) |
 | Senior HRIS Analyst | [Mercury](https://mercury.com) | $154K–$193K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/mercury/jobs/6017264004) |
 | HR Coordinator - 6 months FTC | [NBCUniversal](https://nbcuniversal.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000131181679) |

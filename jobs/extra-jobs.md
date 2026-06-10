@@ -2,7 +2,7 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**1113 open roles** — Last updated: 2026-06-10
+**1118 open roles** — Last updated: 2026-06-10
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -12,6 +12,7 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Server Assistant | [ACCOR](https://group.accor.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000131233719) |
 | Arrumador (eira) | [ACCOR](https://group.accor.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000131226939) |
 | Chief of Staff and Corporate Development Lead | [Canary Technologies](https://canarytechnologies.com) | — | Jun 9 | [Apply](https://jobs.lever.co/canarytechnologies/ff3287c4-e68d-4b25-9a62-6a0666f45acb) |
+| Manager, Professional Services  | [Zscaler](https://zscaler.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5153323007) |
 | Field Service Technician | [Distro](https://distro.app) | — | Jun 9 | [Apply](https://jobs.lever.co/distro/31161747-46fe-495c-8971-1300c4388358) |
 | Director, Retail - VenturaOS | [The Trade Desk](https://thetradedesk.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5159663007) |
 | Site Superintendent- ROCO-Antwerp  | [BESIX](https://besix.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000131152049) |
@@ -19,6 +20,9 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Logistics Manager - English & German or Dutch | [Too Good To Go](https://toogoodtogo.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/toogoodtogo/jobs/7766880003) |
 | Logistics Specialist - English & German or Dutch | [Too Good To Go](https://toogoodtogo.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/toogoodtogo/jobs/7766874003) |
 | Senior Strategy Associate | [Too Good To Go](https://toogoodtogo.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/toogoodtogo/jobs/7766828003) |
+| Growth Strategy Canada Manager- Based in Buenos Aires | [Fever](https://feverup.com) | — | Jun 9 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4890342101) |
+| Growth Strategy Brazil Manager- Based in Buenos Aires | [Fever](https://feverup.com) | — | Jun 9 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4890337101) |
+| Growth Strategy Brazil Manager- Based in Buenos Aires | [Fever](https://feverup.com) | — | Jun 9 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4890332101) |
 | General Manager - Live Studios (Hybrid-casual Games) | [Genpak LLC](https://genpak-llc-2) | — | Jun 9 | [Apply](https://jobs.ashbyhq.com/voodoo/ee013fb9-3719-430a-b07a-78a25b500370) |
 | EN - Reception INTERNSHIP ❤️ RECEPTION minimum length +4 months from 1.2.2027 for students and candidates from EU | [ACCOR](https://group.accor.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000131096068) |
 | Assistant Restaurant Manager | [ACCOR](https://group.accor.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000131094649) |
@@ -31,6 +35,7 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | General Manager(06135) - 4845 N 90th St. | [Domino's](https://dominos.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131036022) |
 | Nurse Trainer and Assessor (ongoing casual) | [Healthcare Australia](https://healthcareaustralia.com.au) | $69/yr | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/HealthcareAustralia1/postings/6000000001139047) |
 | Veterinary Client Service Representative - Morristown, NJ | [Veritas Veterinary Partners](https://veritasveterinarypartners.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/veritasvetpartners/jobs/5251746008) |
+| Associate, Clients | [WPP Media](https://wppmedia.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5250457008) |
 | Veterinary Assistant - Morristown, NJ | [Veritas Veterinary Partners](https://veritasveterinarypartners.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/veritasvetpartners/jobs/5251743008) |
 | Veterinary Technician – Morristown, NJ | [Veritas Veterinary Partners](https://veritasveterinarypartners.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/veritasvetpartners/jobs/5251737008) |
 | Senior Therapy Coordinator | [Genpak LLC](https://genpak-llc-2) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/APMGroup/postings/6000000001138578) |

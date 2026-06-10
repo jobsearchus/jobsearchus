@@ -2,12 +2,13 @@
 
 SRE and reliability engineering roles at companies that take uptime seriously.
 
-**24 open roles** — Last updated: 2026-06-10
+**25 open roles** — Last updated: 2026-06-10
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Sr. Site Reliability Engineer | [Illumio](https://illumio.com) | — | Jun 9 | [Apply](https://jobs.ashbyhq.com/illumio/57a6eba4-b6ac-4ebf-87f3-5cf3506175d9) |
 | Senior Site Reliability Engineer | [SecurityScorecard](https://securityscorecard.com) | — | Jun 8 | [Apply](https://job-boards.greenhouse.io/securityscorecard/jobs/7991310) |
 | Senior Site Reliability Engineer | [Mozilla](https://mozilla.org) | $123K–$144K/yr | Jun 8 | [Apply](https://job-boards.greenhouse.io/mozilla/jobs/7985338) |
 | Senior Site Reliability Engineer | [Mozilla](https://mozilla.org) | £62K–£72K/yr | Jun 8 | [Apply](https://job-boards.greenhouse.io/mozilla/jobs/7985337) |
