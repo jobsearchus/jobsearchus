@@ -2,12 +2,16 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**1165 open roles** — Last updated: 2026-06-11
+**1169 open roles** — Last updated: 2026-06-11
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Bartender - Electric House, West London | [Soho House](https://sohohouse.com) | — | Jun 11 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4895314101) |
+| COMMIS DE CUISINE CONFIRME F/H/X - CDI | [ACCOR](https://group.accor.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000131714529) |
+| Insurance Consulting, Senior Manager (Life & Pensions) | [Baringa](https://baringa.com) | — | Jun 11 | [Apply](https://job-boards.eu.greenhouse.io/baringa/jobs/4895481101) |
+| Bartender - High Road House Chiswick, West London | [Soho House](https://sohohouse.com) | — | Jun 11 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4893462101) |
 | Hôtesse d'accueil - CDI temps partiel - H/F | [Relais & Châteaux](https://relaischateaux.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000131631789) |
 | Chef de rang H/F - Bistrot André | [Relais & Châteaux](https://relaischateaux.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000131626458) |
 | Forming Process Specialist | [O-I Glass](https://o-i.com) | $93K–$115K/yr | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/O-I/postings/744000131539919) |

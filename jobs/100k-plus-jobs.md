@@ -2,12 +2,14 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**723 open roles** — Last updated: 2026-06-11
+**725 open roles** — Last updated: 2026-06-11
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| RCM Solutions Lead | [SuperDial](https://superdial.com) | $100K–$150K/yr | Jun 11 | [Apply](https://jobs.ashbyhq.com/superdial/e097fb22-cee6-4954-9617-f9103cd4f5b3) |
+| Expedition Medicines: Vice President, Finance | [Flagship Pioneering, Inc.](https://flagshippioneering.com) | $275K–$330K/yr | Jun 11 | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8587498002?gh_jid=8587498002) |
 | Research Finance Officer | [Western Sydney University](https://westernsydney.edu.au) | $107K–$115K/yr | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/WesternSydneyUniversity/postings/6000000001147342) |
 | Software Engineer - Neki Orchestration | [PlanetScale](https://planetscale.com) | $120K–$290K/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/planetscale/jobs/4280570009) |
 | Senior Manager, Data Science & Analytics | [Customer.io](https://customer.io) | $170K–$200K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/customerio/jobs/7991018) |

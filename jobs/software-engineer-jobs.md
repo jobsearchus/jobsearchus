@@ -2,12 +2,19 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**1679 open roles** — Last updated: 2026-06-11
+**1686 open roles** — Last updated: 2026-06-11
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Cloud Services Engineer  | [Accenture Federal Services](https://accenturefederalservices.com) | — | Jun 11 | [Apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4688754006?gh_jid=4688754006) |
+| Genesys Platform Program Lead | [Chime](https://chime.com) | $15K/yr | Jun 11 | [Apply](https://boards.greenhouse.io/chime/jobs/8584112002?gh_jid=8584112002) |
+| Project Controls Manager | [Mariana Minerals](https://marianaminerals.com) | — | Jun 11 | [Apply](https://jobs.ashbyhq.com/marianaminerals/7f497f17-366d-4b59-b887-f3b57302ae61) |
+| Senior Scientist, Biology | [Flagship Pioneering, Inc.](https://flagshippioneering.com) | — | Jun 11 | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8587024002?gh_jid=8587024002) |
+| Commissioning Engineer | [Genpak LLC](https://genpak-llc-2) | — | Jun 11 | [Apply](https://job-boards.eu.greenhouse.io/lotusworks/jobs/4878826101) |
+| Senior Manager, Analytics | [Rovio](https://rovio.com) | — | Jun 11 | [Apply](https://jobs.lever.co/rovio-2/49ebf965-1908-44eb-acee-7e14ac92bf5f) |
+| Management Consultant - Data Engineering | [Baringa](https://baringa.com) | — | Jun 11 | [Apply](https://job-boards.eu.greenhouse.io/baringa/jobs/4895138101) |
 | Junior Sous-Chef H/F R&D - PICLAB | [Relais & Châteaux](https://relaischateaux.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000131638458) |
 | BIM-tekniker bru | [Ramboll](https://ramboll.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/Ramboll3/postings/744000131610189) |
 | BIM-tekniker bru | [Ramboll](https://ramboll.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/Ramboll3/postings/744000131609671) |

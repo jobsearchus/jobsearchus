@@ -2,14 +2,31 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**1032 open roles** — Last updated: 2026-06-11
+**1049 open roles** — Last updated: 2026-06-11
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Sales Engineer | [Valon](https://valon.com) | — | Jun 11 | [Apply](https://jobs.ashbyhq.com/valon/7803a34d-471f-4935-bcea-f54b34a3ce95) |
+| Enterprise Account Executive - Southeast | [MariaDB](https://mariadb.com) | — | Jun 11 | [Apply](https://job-boards.eu.greenhouse.io/mariadbplc/jobs/4876690101) |
+| Senior Sales Manager - Government and Corporate | [ACCOR](https://group.accor.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000131710162) |
+| Account Manager Marketplace externe (H/F) - CDD | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000131706749) |
+| VENDEUR CONSEIL - CDI TEMPS PARTIEL H/F 9H, 10H ou 15H | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000131701735) |
+| Educational Sales Representative (Work from Home) | [Nerdy](https://nerdy.com) | $20/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/nerdy/jobs/8000791) |
+| Educational Sales Representative (Work from Home) | [Nerdy](https://nerdy.com) | $20/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/nerdy/jobs/8000787) |
+|  Educational Sales Representative (Work from Home) | [Nerdy](https://nerdy.com) | $20/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/nerdy/jobs/8000792) |
+| Tasador/a Administrativo/a Automoción - El Manar | [AUTO1 Group](https://auto1-group.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000131684599) |
+| Associate Account Executive, UKI | [Veeam Software](https://veeam.com) | — | Jun 11 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4888861101) |
+| Senior Area Sales Specialist - Loan Against Securities | [Tide](https://tide.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/tide/jobs/7747896003) |
+| Enterprise Account Executive - GridGain - Northeast | [MariaDB](https://mariadb.com) | — | Jun 11 | [Apply](https://job-boards.eu.greenhouse.io/mariadbplc/jobs/4891610101) |
+| INTERMARCHE - EMPLOYE COMMERCIAL (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000131674694) |
+| CDI - VENDEUR ALIMENTAIRE FROMAGE (H/F) - 36H45 | [Genpak LLC](https://genpak-llc-2) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000131671508) |
+| Commercial Automobile BtoB (H/F) | [AUTO1 Group](https://auto1-group.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000131664196) |
+| Senior Sales Executive - Big 5 Global | [dmg events](https://dmgevents.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/dmgevents/jobs/8000181) |
 | Executive Territory Manager | [Syngenta](https://syngenta.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000131612299) |
 | Sales- en accountmanager | [CB Therapeutics](https://cbthera.com) | — | Jun 11 | [Apply](https://cb.recruitee.com/o/sales-en-accountmanager-1/c/new) |
+| [쿠팡] Account Management Specialist (3P Hardline) | [Coupang](https://coupang.com) | — | Jun 11 | [Apply](https://boards.greenhouse.io/coupanginternal/jobs/7992250?gh_jid=7992250) |
 | Partner Account Manager - Gulfport-Biloxi | [Human Interest](https://humaninterest.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/humaninterest/jobs/7997333) |
 | Partner Account Manager - Mobile AL | [Human Interest](https://humaninterest.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/humaninterest/jobs/7997327) |
 | Sr Business Development Manager - Bank Channel | [Human Interest](https://humaninterest.com) | $205K–$235K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/humaninterest/jobs/7993800) |

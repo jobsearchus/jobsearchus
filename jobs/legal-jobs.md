@@ -2,12 +2,13 @@
 
 Remote legal, compliance, and counsel roles.
 
-**102 open roles** — Last updated: 2026-06-11
+**103 open roles** — Last updated: 2026-06-11
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Risk Specialist | [WPP](https://wpp.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/wpp/jobs/8580426002) |
 | Director of Legal & Regulatory Affairs, APAC | [Mesh](https://usemesh.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/mesh/jobs/5254371008) |
 | Legal Assistant | [Customer.io](https://customer.io) | $78K–$89K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/customerio/jobs/7992941) |
 | Sr. Legal Counsel | [Illumio](https://illumio.com) | — | Jun 10 | [Apply](https://jobs.ashbyhq.com/illumio/82412e93-f2bf-4d0b-9042-bf0edd0a87e7) |

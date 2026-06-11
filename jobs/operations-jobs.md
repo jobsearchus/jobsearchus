@@ -2,14 +2,31 @@
 
 Remote operations and business operations roles across industries.
 
-**1179 open roles** — Last updated: 2026-06-11
+**1196 open roles** — Last updated: 2026-06-11
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| RCM Solutions Lead | [SuperDial](https://superdial.com) | $100K–$150K/yr | Jun 11 | [Apply](https://jobs.ashbyhq.com/superdial/e097fb22-cee6-4954-9617-f9103cd4f5b3) |
+| Social Production Lead | [teamLFG](https://teamlfg.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/teamlfg/jobs/6000518004) |
+| Material Handler-Delaware (Contract to Hire) | [Myriad360](https://myriad360.com) | $23/yr | Jun 11 | [Apply](https://boards.greenhouse.io/myriad360/jobs/8587913002?gh_jid=8587913002) |
+| Technical Procurement Specialist | [BESIX](https://besix.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000131679377) |
+| INTERMARCHE - BOUCHER (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000131677995) |
+| Senior Inventory Operations Specialist | [Perk](https://perk.com) | — | Jun 11 | [Apply](https://jobs.ashbyhq.com/perk/09d000cc-32cc-45ea-8fac-1365b932454d) |
+| Senior Inventory Operations Specialist | [Perk](https://perk.com) | — | Jun 11 | [Apply](https://jobs.ashbyhq.com/perk/8d099fe3-f5b7-48f3-9370-216e132a1e94) |
+| Senior Inventory Operations Specialist | [Perk](https://perk.com) | — | Jun 11 | [Apply](https://jobs.ashbyhq.com/perk/b5fd2d5d-b734-4e13-a2b6-7e0532d1526a) |
+| Lead, Merchant KYC Support | [Moniepoint](https://moniepoint.com) | — | Jun 11 | [Apply](https://job-boards.eu.greenhouse.io/moniepoint/jobs/4871261101) |
+| IT Administrator | [Sun Studio](https://sunstudio.com) | — | Jun 11 | [Apply](https://jobs.lever.co/sunstudio/ec8be799-d2d8-4545-b449-3c2e6f83430e) |
+| Préparateur de commandes H/F | [VusionGroup SA](https://vusiongroup.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/VusionGroupSA/postings/744000131652159) |
+| Apprentissage Coordinateur ADV H/F  | [VusionGroup SA](https://vusiongroup.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/VusionGroupSA/postings/744000131626083) |
+| Calibration Technician | [Genpak LLC](https://genpak-llc-2) | — | Jun 11 | [Apply](https://job-boards.eu.greenhouse.io/lotusworks/jobs/4893151101) |
+| Maconomy Services – Maconomy Support Analyst Lead | [WPP](https://wpp.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/wpp/jobs/8569127002) |
 | AI Business Operations Analyst - São Paulo (Hybrid) | [Clara Labs](https://claralabs.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/clara/jobs/5161852007) |
 | AI Business Operations Analyst - Mexico City (Hybrid) | [Clara Labs](https://claralabs.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/clara/jobs/5161494007) |
+| Customer Service Rep(07897) - 12501 Burbank Boulevard | [Domino's](https://dominos.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131575651) |
+| Domino's Pizza Assistant Manager New Lenox IL (9196) | [Domino's](https://dominos.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131576519) |
+| Assistant Manager(03669) - 1758 Pitkin Ave | [Domino's](https://dominos.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131574874) |
 | General Manager(06811) - 7036 FM 1960 Rd E | [Domino's](https://dominos.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131576448) |
 | Delivery Driver(03797) - 1514 Blue Hill | [Domino's](https://dominos.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131574787) |
 | Program Manager, Professional Services - East | [Airtable](https://airtable.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8586863002) |

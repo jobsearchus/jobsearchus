@@ -2,13 +2,19 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**386 open roles** — Last updated: 2026-06-11
+**392 open roles** — Last updated: 2026-06-11
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Stage communication et community management (H/F) | [ACCOR](https://group.accor.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000131711174) |
+| Account Manager, Media Solutions | [The Knot Worldwide](https://theknotworldwide.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/theknotworldwide/jobs/5251439008) |
+| Praktikant/Werkstudent (w/m/d) Global Relations/ Internal Communications | [Drees & Sommer](https://dreso.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000131657540) |
+| Werkstudent (w/m/d) Innovations- und Branchenkommunikation | [Drees & Sommer](https://dreso.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000131647002) |
+| Director, Brand Management(Kitchen) [L7-I] | [Coupang](https://coupang.com) | — | Jun 11 | [Apply](https://boards.greenhouse.io/coupanginternal/jobs/7952176?gh_jid=7952176) |
 | Marketing Co-Op Intern (Fall 2026) | [Suger](https://suger.io) | — | Jun 11 | [Apply](https://jobs.lever.co/suger/01ca6e25-f724-442a-8502-c830e90aabbf) |
+| Partner Marketing Manager | [Patch My PC](https://patchmypc.com) | — | Jun 10 | [Apply](https://jobs.lever.co/patchmypc/7cbe8fe4-153a-47c4-adb8-469cd0b8192f) |
 | Communications Specialist | [Continental](https://continentalserves.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000131534108) |
 | Freelance Social Media Coordinator | [Versant](https://versant.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Versant3/postings/744000131530899) |
 | Alternance - Content Manager Produit Marketplace F/H/X | [BUT](https://but.fr) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000131518039) |

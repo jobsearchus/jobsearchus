@@ -2,12 +2,19 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**507 open roles** — Last updated: 2026-06-11
+**514 open roles** — Last updated: 2026-06-11
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Expedition Medicines: Vice President, Finance | [Flagship Pioneering, Inc.](https://flagshippioneering.com) | $275K–$330K/yr | Jun 11 | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8587498002?gh_jid=8587498002) |
+| Finance Manager (Fixed Term Contract) | [Standard Bank](https://standardbank.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000131695917) |
+| Analyst, Business | [Standard Bank](https://standardbank.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000131681254) |
+| Accounting Specialist | [AUTO1 Group](https://auto1-group.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000131675080) |
+| Consultant / Analyst (w/m/d) Distressed Real Estate | [Drees & Sommer](https://dreso.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000131671222) |
+| Senior Associate, Fund Administration (Accounting) - India | [Juniper Square](https://junipersquare.com) | — | Jun 11 | [Apply](https://jobs.ashbyhq.com/junipersquare/e9c65052-ccef-4a97-8454-921983aa36b5) |
+| Analyst – ESG & Risk – Procurement & REWS  | [WPP](https://wpp.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/wpp/jobs/8578191002) |
 | Finance & Strategy Manager (Mexico) | [Tilt](https://tilt.com) | — | Jun 10 | [Apply](https://jobs.ashbyhq.com/tilthq/cae7a836-81bc-4f0f-8ea9-1d13f47d76ce) |
 | Strategic Finance Manager, EPD | [Vercel](https://vercel.com) | $180K–$220K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/vercel/jobs/5855000004) |
 | Senior Accountant | [Suger](https://suger.io) | — | Jun 10 | [Apply](https://jobs.lever.co/suger/d05832ac-6482-4830-a310-0dd966bd50b5) |
