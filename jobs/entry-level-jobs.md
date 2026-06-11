@@ -2,12 +2,13 @@
 
 Remote jobs open to candidates with 0–2 years of experience. A real way in — no degree gatekeeping.
 
-**1128 open roles** — Last updated: 2026-06-11
+**1130 open roles** — Last updated: 2026-06-11
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Marketing Co-Op Intern (Fall 2026) | [Suger](https://suger.io) | — | Jun 11 | [Apply](https://jobs.lever.co/suger/01ca6e25-f724-442a-8502-c830e90aabbf) |
 | Machine Learning Engineer  | [Mariana Minerals](https://marianaminerals.com) | — | Jun 10 | [Apply](https://jobs.ashbyhq.com/marianaminerals/44c92dd6-55f2-4e44-9360-bf4676466dac) |
 | NPR News Now Internship - Fall 2026 | [NPR](https://npr.com) | $20/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/nationalpublicradioinc/jobs/4704236005) |
 | Planet Money & The Sunday Story Internship - Fall 2026 | [NPR](https://npr.com) | $20/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/nationalpublicradioinc/jobs/4704052005) |
@@ -28,6 +29,7 @@ Remote jobs open to candidates with 0–2 years of experience. A real way in —
 | Junior Floor Trader | [Maven Securities](https://mavensecurities.com) | $150K–$190K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7966652) |
 | Co-op Fall 2026 - Systems Integration, Verification, and Validation - 8-12 Months | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000131450011) |
 | Sales Special Operation - Apprenticeship  (All genders) | [Dailymotion](https://dailymotion.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Dailymotion/postings/744000131443532) |
+| Software Engineer I (Full stack Developer) | [H1](https://h1.co) | — | Jun 10 | [Apply](https://jobs.lever.co/h1/bee34d29-0fff-4731-ad36-471dd0106171) |
 | Procurement administrator - Junior- Hispanophone | [Inetum](https://inetum.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000131437809) |
 | Customer Support Agent | [Tide](https://tide.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/tide/jobs/7768067003) |
 | Employé(e) d'Exploitation polyvalent | [Genpak LLC](https://genpak-llc-2) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000131435849) |

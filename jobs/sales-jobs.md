@@ -2,16 +2,25 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**1020 open roles** — Last updated: 2026-06-11
+**1029 open roles** — Last updated: 2026-06-11
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Sales- en accountmanager | [CB Therapeutics](https://cbthera.com) | — | Jun 11 | [Apply](https://cb.recruitee.com/o/sales-en-accountmanager-1/c/new) |
+| Partner Account Manager - Gulfport-Biloxi | [Human Interest](https://humaninterest.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/humaninterest/jobs/7997333) |
+| Partner Account Manager - Mobile AL | [Human Interest](https://humaninterest.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/humaninterest/jobs/7997327) |
+| Sr Business Development Manager - Bank Channel | [Human Interest](https://humaninterest.com) | $205K–$235K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/humaninterest/jobs/7993800) |
+| Senior Lead Account Executive, Enterprise | [Emburse](https://emburse.com) | — | Jun 10 | [Apply](https://jobs.lever.co/emburse/9e306cd0-37d4-4895-85ba-b32314ad4a4d) |
+| Account Executive (New Vertical) | [Dandy](https://meetdandy.com) | — | Jun 10 | [Apply](https://jobs.ashbyhq.com/dandy/0b419657-5b36-429f-9ba1-c5ece1266706) |
+| Account Executive | [Jeeves](https://tryjeeves.com) | — | Jun 10 | [Apply](https://jobs.lever.co/tryjeeves/ea968f90-3d26-4963-b478-f4d7cc37b286) |
+| Founding Account Executive | [Superset](https://superset.sh) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/superset/jobs/5254099008) |
 | Technical Sales Manager | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $130K–$165K/yr | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000131512807) |
 | Sr. Strategic Client Executive (Providers) | [Redox](https://redoxengine.com) | — | Jun 10 | [Apply](https://jobs.lever.co/redoxengine/c118febd-36f3-4fe0-94ee-1fd74a967bf5) |
 | Regional Sales Director, Portworx - Strategics    | [Pure Storage](https://purestorage.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/7994266) |
 | Sales Development Representative | [Illumio](https://illumio.com) | — | Jun 10 | [Apply](https://jobs.ashbyhq.com/illumio/63da54f8-509f-4bf6-960f-131de498bb87) |
+| Business Development Representative (EMEA) | [Docker](https://docker.com) | — | Jun 10 | [Apply](https://jobs.ashbyhq.com/docker/f86d037f-b65b-473b-afc9-d8b2c438f431) |
 | Senior Customer Architect - Public Sector | [Endgame Systems](https://endgamesystems.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/endgamesystemsllc/jobs/5253838008) |
 | Senior Account Executive - DOD - Defense Agencies | [Endgame Systems](https://endgamesystems.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/endgamesystemsllc/jobs/5252743008) |
 |  CONSEILLER DE VENTE - VENDEUR (H/F) SOL / BOIS | [Genpak LLC](https://genpak-llc-2) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000131497164) |

@@ -2,14 +2,16 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**383 open roles** — Last updated: 2026-06-11
+**385 open roles** — Last updated: 2026-06-11
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Marketing Co-Op Intern (Fall 2026) | [Suger](https://suger.io) | — | Jun 11 | [Apply](https://jobs.lever.co/suger/01ca6e25-f724-442a-8502-c830e90aabbf) |
 | Communications Specialist | [Continental](https://continentalserves.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000131534108) |
 | Alternance - Content Manager Produit Marketplace F/H/X | [BUT](https://but.fr) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000131518039) |
+| Web Optimization Manager | [Checkr](https://checkr.com) | $25K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/checkr/jobs/7994212) |
 | Senior Events Marketing Manager - Base44 | [Wix.com](https://wix.com) | $130K–$155K/yr | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Wix2/postings/744000131496899) |
 | Coordinator, Influencer Marketing, rhode | [e.l.f. Beauty](https://elfbeauty.com) | — | Jun 10 | [Apply](https://jobs.lever.co/elfbeauty/d6561fee-34ac-4294-b0c6-086680cf7f4c) |
 | GTM Reporting Analyst (Revenue Operations) | [Emburse](https://emburse.com) | — | Jun 10 | [Apply](https://jobs.lever.co/emburse/9b03d87f-b9ba-44c0-8f17-0f7a4cc2e045) |

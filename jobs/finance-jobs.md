@@ -2,16 +2,21 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**502 open roles** — Last updated: 2026-06-11
+**507 open roles** — Last updated: 2026-06-11
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Finance & Strategy Manager (Mexico) | [Tilt](https://tilt.com) | — | Jun 10 | [Apply](https://jobs.ashbyhq.com/tilthq/cae7a836-81bc-4f0f-8ea9-1d13f47d76ce) |
+| Strategic Finance Manager, EPD | [Vercel](https://vercel.com) | $180K–$220K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/vercel/jobs/5855000004) |
+| Senior Accountant | [Suger](https://suger.io) | — | Jun 10 | [Apply](https://jobs.lever.co/suger/d05832ac-6482-4830-a310-0dd966bd50b5) |
 | FP&A Product Lead, Financial Manager | [Tempo Software](https://temposoftware.com) | — | Jun 10 | [Apply](https://jobs.ashbyhq.com/tempo-io/6cb4a142-c559-4cb7-9a60-8510ed6741cd) |
 | Senior Manager - Private Equity Fund Accounting | [IQ-EQ](https://iqeq.com) | $100K–$130K/yr | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000131530737) |
 | Senior Manager - Private Equity Fund Accounting | [IQ-EQ](https://iqeq.com) | $100K–$130K/yr | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000131529250) |
+| Senior Risk Analyst | [Checkr](https://checkr.com) | $25K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/checkr/jobs/7997695) |
 | Finance & Accounting Manager - Soho House Bangkok | [Soho House](https://sohohouse.com) | — | Jun 10 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4883848101) |
+| SOX Auditor - IT Controls Manager | [Kraken](https://kraken.com) | — | Jun 10 | [Apply](https://jobs.ashbyhq.com/kraken.com/59df8379-a9b3-4967-b64d-19b94e9d0cc4) |
 | Senior Revenue Accounting Manager | [Veeam Software](https://veeam.com) | — | Jun 10 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4743926101) |
 | International Tax Manager  | [WPP](https://wpp.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/wpp/jobs/8584341002) |
 | Business Development and Enterprise Coverage, RIA's - Senior Vice President / Managing Director | [iCapital](https://icapital.com) | $160K–$200K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8585578002) |

@@ -2,19 +2,28 @@
 
 Remote operations and business operations roles across industries.
 
-**1166 open roles** — Last updated: 2026-06-11
+**1175 open roles** — Last updated: 2026-06-11
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| AI Business Operations Analyst - São Paulo (Hybrid) | [Clara Labs](https://claralabs.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/clara/jobs/5161852007) |
+| AI Business Operations Analyst - Mexico City (Hybrid) | [Clara Labs](https://claralabs.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/clara/jobs/5161494007) |
+| Program Manager, Professional Services - East | [Airtable](https://airtable.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8586863002) |
+| Program Manager, Professional Services - West | [Airtable](https://airtable.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8586865002) |
 | Data Center Capacity Consultant (Remote) | [Myriad360](https://myriad360.com) | $110K–$120K/yr | Jun 10 | [Apply](https://boards.greenhouse.io/myriad360/jobs/8586671002?gh_jid=8586671002) |
 | Data Center Capacity Analyst (Remote)  | [Myriad360](https://myriad360.com) | $80K–$90K/yr | Jun 10 | [Apply](https://boards.greenhouse.io/myriad360/jobs/8586643002?gh_jid=8586643002) |
+| Reporting Specialist | [Certus AI](https://certus-ai.com) | — | Jun 10 | [Apply](https://certus.recruitee.com/o/reporting-specialist/c/new) |
 | Assistente Administrativo | [Egis](https://egis-group.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000131529275) |
+| Forklift Operator | [Distro](https://distro.app) | $19/yr | Jun 10 | [Apply](https://jobs.lever.co/distro/4c4be59e-f2bd-456d-be74-f076c1e9a180) |
 | Logistics Coordinator (Korean Bilingual) | [SBT Global](https://sbtglobal.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/SBTGlobalInc/postings/3743990013562967) |
+| Folder Gluer Operator - 1st Shift | [Distro](https://distro.app) | — | Jun 10 | [Apply](https://jobs.lever.co/distro/2bd18bfc-876e-4cdb-b2b2-2a6c42b9183c) |
 | Chargé de Transport B2C F/H/X | [BUT](https://but.fr) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000131501371) |
 | Service Delivery Leader | [Applaudo](https://applaudo.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/ApplaudoStudios/postings/744000131499868) |
+| Forklift Operator - 1st Shift (In-House Certification) | [Distro](https://distro.app) | — | Jun 10 | [Apply](https://jobs.lever.co/distro/a670aa6c-0ee6-47a4-b8cb-7001cde90779) |
 | Master NDE Inspector | [Relativity Space](https://relativityspace.com) | — | Jun 10 | [Apply](https://boards.greenhouse.io/relativity/jobs/8582334002?gh_jid=8582334002) |
+| Assistant Manager, Operations | [GOAT Group](https://goatgroup.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/goatgroup/jobs/4704651005) |
 | Alliances Manager | [Blue](https://heyblue.com) | — | Jun 10 | [Apply](https://jobs.lever.co/blue/3f804749-8143-4731-8b0a-a74bab82b6f9) |
 | Class 1 Driver for City Pickup & Delivery Great Wages $26.00 an hour with Incentives | [Manitoulin Global Forwarding](https://manitoulingroup.com) | $26/yr | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000131477689) |
 | Supply & Logistics Coordinator | [Nabu Casa](https://nabucasa.com) | — | Jun 10 | [Apply](https://jobs.ashbyhq.com/nabucasa/071ebe03-a49e-4b46-a089-a28e7712a1ba) |

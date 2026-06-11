@@ -2,20 +2,33 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**706 open roles** — Last updated: 2026-06-11
+**719 open roles** — Last updated: 2026-06-11
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Software Engineer - Neki Orchestration | [PlanetScale](https://planetscale.com) | $120K–$290K/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/planetscale/jobs/4280570009) |
+| Senior Manager, Data Science & Analytics | [Customer.io](https://customer.io) | $170K–$200K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/customerio/jobs/7991018) |
 | Executive Assistant | [Flagship Pioneering, Inc.](https://flagshippioneering.com) | $120K–$145K/yr | Jun 10 | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8536719002?gh_jid=8536719002) |
 | Vice President, Human Resources | [Flagship Pioneering, Inc.](https://flagshippioneering.com) | $270K–$320K/yr | Jun 10 | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8585078002?gh_jid=8585078002) |
+| Strategic Finance Manager, EPD | [Vercel](https://vercel.com) | $180K–$220K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/vercel/jobs/5855000004) |
+| GRC Analyst | [Mesh](https://usemesh.com) | $130K–$175K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/mesh/jobs/5254431008) |
+| Sr Business Development Manager - Bank Channel | [Human Interest](https://humaninterest.com) | $205K–$235K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/humaninterest/jobs/7993800) |
+| Lead Decision Scientist (Web) | [Life360](https://life360.com) | $133K–$195K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/life360/jobs/8586935002) |
+| Lead Decision Scientist (International)  | [Life360](https://life360.com) | $133K–$195K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/life360/jobs/8586784002) |
+| Southeastern Idaho Environmental Specialist | [Oklo](https://oklo.com) | $100K–$140K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/oklo/jobs/6013588004) |
+| Solutions Architect | [SecurityScorecard](https://securityscorecard.com) | $100K–$195K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/securityscorecard/jobs/7997779) |
 | Data Center Capacity Consultant (Remote) | [Myriad360](https://myriad360.com) | $110K–$120K/yr | Jun 10 | [Apply](https://boards.greenhouse.io/myriad360/jobs/8586671002?gh_jid=8586671002) |
+| Solutions Architect | [SecurityScorecard](https://securityscorecard.com) | $100K–$195K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/securityscorecard/jobs/7997662) |
 | Senior Manager - Private Equity Fund Accounting | [IQ-EQ](https://iqeq.com) | $100K–$130K/yr | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000131530737) |
 | Senior Manager - Private Equity Fund Accounting | [IQ-EQ](https://iqeq.com) | $100K–$130K/yr | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000131529250) |
+| Solutions Architect | [SecurityScorecard](https://securityscorecard.com) | $100K–$195K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/securityscorecard/jobs/7997663) |
 | Technical Sales Manager | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $130K–$165K/yr | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000131512807) |
+| GTM Engineer  | [Superset](https://superset.sh) | $150K–$175K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/superset/jobs/5253946008) |
 | Senior Advisory Consultant @Advizex (Remote) | [Myriad360](https://myriad360.com) | $180K–$200K/yr | Jun 10 | [Apply](https://boards.greenhouse.io/myriad360/jobs/8586052002?gh_jid=8586052002) |
 | Senior Events Marketing Manager - Base44 | [Wix.com](https://wix.com) | $130K–$155K/yr | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Wix2/postings/744000131496899) |
+| Senior Technical Success Manager III - Strategic | [Amplitude](https://amplitude.com) | $194K–$291K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/amplitude/jobs/8586044002) |
 | Senior Events Marketing Manager - Base44 | [Wix.com](https://wix.com) | $145K–$175K/yr | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Wix2/postings/744000131488919) |
 | Client Success Executive | [Arine](https://arine.com) | $160K–$180K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/arine/jobs/6017621004) |
 | Lead Customer Success Manager | [Freshworks](https://freshworks.com) | $109K–$134K/yr | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000131479426) |

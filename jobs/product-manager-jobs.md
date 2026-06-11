@@ -2,13 +2,15 @@
 
 Product manager roles at companies building real products. Sourced directly from career pages.
 
-**184 open roles** — Last updated: 2026-06-11
+**186 open roles** — Last updated: 2026-06-11
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Product Manager | [Mable](https://trymable.com) | — | Jun 11 | [Apply](https://jobs.lever.co/mable/cc885c74-6ac9-4c0c-97fc-e69876379089) |
 | [쿠팡 Ads] Product Specialist [L5](광고 프로덕트 전략 및 GTM 전문가) | [Coupang](https://coupang.com) | — | Jun 11 | [Apply](https://boards.greenhouse.io/coupanginternal/jobs/7998449?gh_jid=7998449) |
+| Senior Product Manager, Government Products | [Robinhood](https://robinhood.com) | — | Jun 10 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7968044?t=gh_src=&gh_jid=7968044) |
 | Product Owner Sênior | [Experian](https://experianplc.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000131528611) |
 | Product Director, Multimodal, News Product | [The New York Times](https://thenewyorktimes.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4704752005) |
 | Alternance - Chef de Produit et Acheteur E-commerce F/H/X | [BUT](https://but.fr) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000131517384) |

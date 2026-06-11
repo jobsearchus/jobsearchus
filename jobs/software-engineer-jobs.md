@@ -2,21 +2,34 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**1655 open roles** — Last updated: 2026-06-11
+**1670 open roles** — Last updated: 2026-06-11
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Agentic Solution Engineer | [Netomi](https://netomi.com) | — | Jun 11 | [Apply](https://jobs.lever.co/netomi/b4d9ce2b-479e-47f2-a9c0-52827e94e129) |
+| Software Engineer - Neki Orchestration | [PlanetScale](https://planetscale.com) | $120K–$290K/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/planetscale/jobs/4280570009) |
 | Sr. Data Engineer  | [Mariana Minerals](https://marianaminerals.com) | — | Jun 10 | [Apply](https://jobs.ashbyhq.com/marianaminerals/d47156a6-0ac7-4940-bf22-ed8c856dc002) |
+| Senior Web Engineer, Legend | [Robinhood](https://robinhood.com) | — | Jun 10 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7847004?t=gh_src=&gh_jid=7847004) |
+| Lead Decision Scientist (Web) | [Life360](https://life360.com) | $133K–$195K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/life360/jobs/8586935002) |
+| Lead Decision Scientist (International)  | [Life360](https://life360.com) | £90K–£105K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/life360/jobs/8586885002) |
+| Lead Decision Scientist (International)  | [Life360](https://life360.com) | $133K–$195K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/life360/jobs/8586784002) |
+| Southeastern Idaho Environmental Specialist | [Oklo](https://oklo.com) | $100K–$140K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/oklo/jobs/6013588004) |
 | Mechanical Commissioning Lead | [Genpak LLC](https://genpak-llc-2) | — | Jun 10 | [Apply](https://job-boards.eu.greenhouse.io/lotusworks/jobs/4889355101) |
+| Solutions Architect | [SecurityScorecard](https://securityscorecard.com) | $100K–$195K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/securityscorecard/jobs/7997779) |
+| Solutions Architect | [SecurityScorecard](https://securityscorecard.com) | $100K–$195K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/securityscorecard/jobs/7997662) |
+| Solutions Architect | [SecurityScorecard](https://securityscorecard.com) | $100K–$195K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/securityscorecard/jobs/7997663) |
 | PV - Analista de Desenvolvimento de Software Go Júnior | [Experian](https://experianplc.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000131529939) |
 | PV - Analista de Desenvolvimento de Software C# Júnior | [Experian](https://experianplc.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000131529480) |
 | Automotive Technical Specialist  | [MSX International](https://msxi.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013565596) |
 | Automotive Technical Specialist Level 1 | [MSX International](https://msxi.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013565236) |
+| Financial Systems Integration Lead | [Checkr](https://checkr.com) | $25K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/checkr/jobs/7997435) |
 | Analista Técnico-Funcional Salesforce | [MSX International](https://msxi.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013564706) |
 | IT Solutions Specialist - Notre Dame London | [University of Notre Dame](https://universityofnotredame.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013564081) |
 | Intern, Systems Engineering | [Egis](https://egis-group.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000131509289) |
+| GTM Engineer  | [Superset](https://superset.sh) | $150K–$175K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/superset/jobs/5253946008) |
+| Client Engagement API Specialist | [Kraken](https://kraken.com) | — | Jun 10 | [Apply](https://jobs.ashbyhq.com/kraken.com/7f7e6a24-42e2-4f16-93df-b0d50c66c20b) |
 | Member of Technical Staff, Release/Production Engineering Lead | [Pure Storage](https://purestorage.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/7994936) |
 | Senior Advisory Consultant @Advizex (Remote) | [Myriad360](https://myriad360.com) | $180K–$200K/yr | Jun 10 | [Apply](https://boards.greenhouse.io/myriad360/jobs/8586052002?gh_jid=8586052002) |
 | Data Engineer (GCP) | [Applaudo](https://applaudo.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/ApplaudoStudios/postings/744000131496325) |
@@ -62,6 +75,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Senior Technical Support Engineer | [Horizon3.ai](https://horizon3ai.com) | $102K–$127K/yr | Jun 9 | [Apply](https://jobs.ashbyhq.com/horizon3ai/983ab553-f5aa-4019-9851-1f8728d5f509) |
 | Design Release Engineer - Audio Systems  | [ALTEN](https://alten.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5160441007) |
 | Senior Software Engineer, BMS | [Archer](https://archer.com) | $145K–$180K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/archer56/jobs/7740914003) |
+| Commercial Solution Engineer | [Sigma Computing](https://sigmacomputing.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/7767591003) |
 | Ingeniero en Sistemas  | [Inetum](https://inetum.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000131230329) |
 | Manager, Engineering - Scenario Planning | [Smartsheet](https://smartsheet.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/smartsheet/jobs/7993802) |
 | Embedded Electronics Engineer | [HavocAI](https://havocai.com) | — | Jun 9 | [Apply](https://jobs.ashbyhq.com/havocai/87134691-2bd5-4023-820c-2721b70a4f37) |
@@ -72,6 +86,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Entry Level Civil Engineer or Graduate Civil Engineer (0-3 Years)  | [KPFF Consulting Engineers](https://kpff.com) | $64K–$85K/yr | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/KPFFConsultingEngineers/postings/3743990013542918) |
 | Analista Desenvolvedor Magento 2 & Open Source | [Skydropx](https://skydropx.com) | — | Jun 9 | [Apply](https://jobs.ashbyhq.com/skydropx/4832dd70-15b7-4d37-8a1a-c888d25628e8) |
 | Software Engineer II  | [Tripadvisor](https://tripadvisor.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/tripadvisor/jobs/7993242) |
+| Senior Software Engineer, Streaming Platform | [Robinhood](https://robinhood.com) | — | Jun 9 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7992796?t=gh_src=&gh_jid=7992796) |
 | AI Solutions Engineer | [Axon](https://axon.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/axon/jobs/7766442003) |
 | AI Solutions Engineer | [Axon](https://axon.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/axon/jobs/7766441003) |
 | AI Solutions Engineer | [Axon](https://axon.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/axon/jobs/7766440003) |

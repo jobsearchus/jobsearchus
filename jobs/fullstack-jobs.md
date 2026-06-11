@@ -2,13 +2,14 @@
 
 Full-stack engineering roles across product, platform, and startup companies.
 
-**58 open roles** — Last updated: 2026-06-11
+**59 open roles** — Last updated: 2026-06-11
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | Senior Full Stack Integration Engineer  | [HavocAI](https://havocai.com) | — | Jun 10 | [Apply](https://jobs.ashbyhq.com/havocai/cecf3e9f-4668-4547-8959-e2781103707c) |
+| Software Engineer I (Full stack Developer) | [H1](https://h1.co) | — | Jun 10 | [Apply](https://jobs.lever.co/h1/bee34d29-0fff-4731-ad36-471dd0106171) |
 | Senior Developer - Python Fullstack | [Referrals Only](https://thoughtworks.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7995046) |
 | Full Stack Engineer, Foundation | [LaunchDarkly](https://launchdarkly.com) | $171K–$235K/yr | Jun 9 | [Apply](https://job-boards.greenhouse.io/launchdarkly/jobs/7767264003) |
 | Sr. Full Stack Engineer | [Homera Health](https://homerahealth.com) | — | Jun 9 | [Apply](https://jobs.ashbyhq.com/homera-health/6dd79eb5-24e7-44d3-9b1c-3daaa9dc7931) |

@@ -2,7 +2,7 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**1158 open roles** — Last updated: 2026-06-11
+**1159 open roles** — Last updated: 2026-06-11
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -20,6 +20,7 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Assistant Manager(02954) - 401 N State St | [Domino's](https://dominos.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131494740) |
 | Contrat étudiant | [Genpak LLC](https://genpak-llc-2) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000131491175) |
 | Saisonnier Boucherie (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000131488494) |
+| Director of Business Development, Midwest | [Gridware](https://gridware.io) | — | Jun 10 | [Apply](https://jobs.lever.co/gridware/192c93b0-2dad-4130-89f8-b7fc03b337ff) |
 | Superintendente de Contratos | [Anglo American](https://angloamerican.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000131485906) |
 |  Adult Mental Health Speech and Language Therapist | [Pulse](https://runpulse.com) | £28/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/pulse/jobs/7768366003) |
 | Barman - Soho House Paris H/F | [Soho House](https://sohohouse.com) | — | Jun 10 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4893268101) |

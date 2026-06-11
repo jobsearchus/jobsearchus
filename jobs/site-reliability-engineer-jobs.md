@@ -2,12 +2,13 @@
 
 SRE and reliability engineering roles at companies that take uptime seriously.
 
-**27 open roles** — Last updated: 2026-06-11
+**28 open roles** — Last updated: 2026-06-11
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Site Reliability Engineer | [GoCardless](https://gocardless.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/gocardless/jobs/7996584) |
 | GOV Site Reliability Engineer | [Veeam Software](https://veeam.com) | — | Jun 10 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4634731101) |
 | Senior Site Reliability Engineer | [HavocAI](https://havocai.com) | — | Jun 10 | [Apply](https://jobs.ashbyhq.com/havocai/ddd83382-52e1-4214-a0c6-e3c5b9b2dfef) |
 | Sr. Site Reliability Engineer | [Illumio](https://illumio.com) | — | Jun 9 | [Apply](https://jobs.ashbyhq.com/illumio/57a6eba4-b6ac-4ebf-87f3-5cf3506175d9) |

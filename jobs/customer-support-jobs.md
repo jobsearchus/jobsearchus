@@ -2,12 +2,14 @@
 
 Remote customer support and success roles across SaaS, e-commerce, and tech.
 
-**294 open roles** — Last updated: 2026-06-11
+**296 open roles** — Last updated: 2026-06-11
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Customer Trust Lead | [Emburse](https://emburse.com) | — | Jun 10 | [Apply](https://jobs.lever.co/emburse/221d8ef3-4df9-466e-870a-4fa38a898763) |
+| Senior Technical Success Manager III - Strategic | [Amplitude](https://amplitude.com) | $194K–$291K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/amplitude/jobs/8586044002) |
 | Customer Service Rep(02954) - 401 N State St | [Domino's](https://dominos.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131494979) |
 | Lead Customer Success Manager | [Freshworks](https://freshworks.com) | $109K–$134K/yr | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000131479426) |
 | Customer Success Manager, SEUR | [GitLab](https://about.gitlab.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8578341002) |
