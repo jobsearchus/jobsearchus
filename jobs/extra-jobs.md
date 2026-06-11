@@ -2,18 +2,26 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**1169 open roles** — Last updated: 2026-06-11
+**1177 open roles** — Last updated: 2026-06-11
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | Bartender - Electric House, West London | [Soho House](https://sohohouse.com) | — | Jun 11 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4895314101) |
+| SweatHouz- Studio Manager, Pasadena | [Momentic](https://momentic.ai) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/momentic/jobs/5255211008) |
 | COMMIS DE CUISINE CONFIRME F/H/X - CDI | [ACCOR](https://group.accor.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000131714529) |
+| Intercity Bus and Coach Driver - Uig/Portree | [Ember](https://embercopilot.ai) | £16/yr | Jun 11 | [Apply](https://ember.recruitee.com/o/intercity-bus-and-coach-driver-uigportree/c/new) |
+| Advancement Manager, Events & Corporate Partnerships (Hybrid - NYC) | [Beam](https://beam.cloud) | $72K–$88K/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/beam/jobs/4704833005) |
 | Insurance Consulting, Senior Manager (Life & Pensions) | [Baringa](https://baringa.com) | — | Jun 11 | [Apply](https://job-boards.eu.greenhouse.io/baringa/jobs/4895481101) |
+| IT Support Apprentice | [Orca](https://orca.fyi) | — | Jun 11 | [Apply](https://job-boards.eu.greenhouse.io/orca/jobs/4895205101) |
 | Bartender - High Road House Chiswick, West London | [Soho House](https://sohohouse.com) | — | Jun 11 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4893462101) |
 | Hôtesse d'accueil - CDI temps partiel - H/F | [Relais & Châteaux](https://relaischateaux.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000131631789) |
 | Chef de rang H/F - Bistrot André | [Relais & Châteaux](https://relaischateaux.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000131626458) |
+| Revalidatiearts | [Basalt](https://basalt.space) | — | Jun 11 | [Apply](https://werkenbijbasalt.nl/o/revalidatiearts-4/c/new) |
+| Revalidatiearts Volwassenen Revalidatie | [Basalt](https://basalt.space) | — | Jun 11 | [Apply](https://werkenbijbasalt.nl/o/revalidatiearts-volwassenen-revalidatie-8/c/new) |
+| Revalidatiearts Kinderrevalidatie | [Basalt](https://basalt.space) | — | Jun 11 | [Apply](https://werkenbijbasalt.nl/o/revalidatiearts-kinderrevalidatie-5/c/new) |
+| Lunch Kok (10.00 - 18.00) | [Escape](https://escape.tech) | — | Jun 11 | [Apply](https://jobs.escape.nl/o/lunch-kok-1000-1800-1806/c/new) |
 | Forming Process Specialist | [O-I Glass](https://o-i.com) | $93K–$115K/yr | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/O-I/postings/744000131539919) |
 | NPR News Now Internship - Fall 2026 | [NPR](https://npr.com) | $20/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/nationalpublicradioinc/jobs/4704236005) |
 | Planet Money & The Sunday Story Internship - Fall 2026 | [NPR](https://npr.com) | $20/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/nationalpublicradioinc/jobs/4704052005) |

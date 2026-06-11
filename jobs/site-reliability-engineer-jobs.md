@@ -2,12 +2,14 @@
 
 SRE and reliability engineering roles at companies that take uptime seriously.
 
-**28 open roles** — Last updated: 2026-06-11
+**30 open roles** — Last updated: 2026-06-11
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Site Reliability Engineer - AI Agents | [Kraken](https://kraken.com) | — | Jun 11 | [Apply](https://jobs.ashbyhq.com/kraken.com/c331de1b-b75a-48f5-9d19-0e56ccb935ab) |
+| Site Reliability Engineer - AI Agents | [Kraken](https://kraken.com) | — | Jun 11 | [Apply](https://jobs.ashbyhq.com/kraken.com/c7409ffc-4430-4cdd-906c-3a0487d3e780) |
 | Site Reliability Engineer | [GoCardless](https://gocardless.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/gocardless/jobs/7996584) |
 | GOV Site Reliability Engineer | [Veeam Software](https://veeam.com) | — | Jun 10 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4634731101) |
 | Senior Site Reliability Engineer | [HavocAI](https://havocai.com) | — | Jun 10 | [Apply](https://jobs.ashbyhq.com/havocai/ddd83382-52e1-4214-a0c6-e3c5b9b2dfef) |

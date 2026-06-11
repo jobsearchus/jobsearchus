@@ -2,21 +2,28 @@
 
 Remote operations and business operations roles across industries.
 
-**1196 open roles** — Last updated: 2026-06-11
+**1206 open roles** — Last updated: 2026-06-11
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Fulfillment Operations Lead | [Certus AI](https://certus-ai.com) | — | Jun 11 | [Apply](https://certus.recruitee.com/o/fulfillment-operations-lead/c/new) |
+| Fleet Manager | [PowerX](https://powerx.co) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/powerx/jobs/4283887009) |
+| IPA Operations Manager | [Akido Labs](https://akidolabs.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/akidolabs/jobs/4686767006) |
 | RCM Solutions Lead | [SuperDial](https://superdial.com) | $100K–$150K/yr | Jun 11 | [Apply](https://jobs.ashbyhq.com/superdial/e097fb22-cee6-4954-9617-f9103cd4f5b3) |
 | Social Production Lead | [teamLFG](https://teamlfg.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/teamlfg/jobs/6000518004) |
 | Material Handler-Delaware (Contract to Hire) | [Myriad360](https://myriad360.com) | $23/yr | Jun 11 | [Apply](https://boards.greenhouse.io/myriad360/jobs/8587913002?gh_jid=8587913002) |
 | Technical Procurement Specialist | [BESIX](https://besix.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000131679377) |
 | INTERMARCHE - BOUCHER (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000131677995) |
+| Strategy & Operations Manager, Wholesale | [Clutch](https://clutch.io) | $110K–$130K/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/clutch/jobs/6019836004) |
+| Senior Implementation Manager | [Loop Health](https://loophealth.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/loop/jobs/6019811004) |
 | Senior Inventory Operations Specialist | [Perk](https://perk.com) | — | Jun 11 | [Apply](https://jobs.ashbyhq.com/perk/09d000cc-32cc-45ea-8fac-1365b932454d) |
 | Senior Inventory Operations Specialist | [Perk](https://perk.com) | — | Jun 11 | [Apply](https://jobs.ashbyhq.com/perk/8d099fe3-f5b7-48f3-9370-216e132a1e94) |
 | Senior Inventory Operations Specialist | [Perk](https://perk.com) | — | Jun 11 | [Apply](https://jobs.ashbyhq.com/perk/b5fd2d5d-b734-4e13-a2b6-7e0532d1526a) |
 | Lead, Merchant KYC Support | [Moniepoint](https://moniepoint.com) | — | Jun 11 | [Apply](https://job-boards.eu.greenhouse.io/moniepoint/jobs/4871261101) |
+| Operations Leadership, Financial Crime (Multilingual)  | [Monzo](https://monzo.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7996449) |
+| Senior Investigator, Operations Analyst, Financial Crime (Multilingual)  | [Monzo](https://monzo.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7996433) |
 | IT Administrator | [Sun Studio](https://sunstudio.com) | — | Jun 11 | [Apply](https://jobs.lever.co/sunstudio/ec8be799-d2d8-4545-b449-3c2e6f83430e) |
 | Préparateur de commandes H/F | [VusionGroup SA](https://vusiongroup.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/VusionGroupSA/postings/744000131652159) |
 | Apprentissage Coordinateur ADV H/F  | [VusionGroup SA](https://vusiongroup.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/VusionGroupSA/postings/744000131626083) |
@@ -30,12 +37,15 @@ Remote operations and business operations roles across industries.
 | General Manager(06811) - 7036 FM 1960 Rd E | [Domino's](https://dominos.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131576448) |
 | Delivery Driver(03797) - 1514 Blue Hill | [Domino's](https://dominos.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131574787) |
 | Program Manager, Professional Services - East | [Airtable](https://airtable.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8586863002) |
+| Warehouse Manager (Temporary)  | [xAI](https://x.ai) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/xai/jobs/5161485007) |
+| Warehouse Supervisor (Temporary) | [xAI](https://x.ai) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/xai/jobs/5161447007) |
 | Program Manager, Professional Services - West | [Airtable](https://airtable.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8586865002) |
 | Machine Operator II | [Nielsen](https://nielsen.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990013570309) |
 | Data Center Capacity Consultant (Remote) | [Myriad360](https://myriad360.com) | $110K–$120K/yr | Jun 10 | [Apply](https://boards.greenhouse.io/myriad360/jobs/8586671002?gh_jid=8586671002) |
 | Data Center Capacity Analyst (Remote)  | [Myriad360](https://myriad360.com) | $80K–$90K/yr | Jun 10 | [Apply](https://boards.greenhouse.io/myriad360/jobs/8586643002?gh_jid=8586643002) |
 | Reporting Specialist | [Certus AI](https://certus-ai.com) | — | Jun 10 | [Apply](https://certus.recruitee.com/o/reporting-specialist/c/new) |
 | Assistente Administrativo | [Egis](https://egis-group.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000131529275) |
+| Senior Platform Operations Coordinator | [Life360](https://life360.com) | $72K–$105K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/life360/jobs/8586379002) |
 | Forklift Operator | [Distro](https://distro.app) | $19/yr | Jun 10 | [Apply](https://jobs.lever.co/distro/4c4be59e-f2bd-456d-be74-f076c1e9a180) |
 | Logistics Coordinator (Korean Bilingual) | [SBT Global](https://sbtglobal.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/SBTGlobalInc/postings/3743990013562967) |
 | Folder Gluer Operator - 1st Shift | [Distro](https://distro.app) | — | Jun 10 | [Apply](https://jobs.lever.co/distro/2bd18bfc-876e-4cdb-b2b2-2a6c42b9183c) |

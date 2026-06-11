@@ -2,13 +2,16 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**392 open roles** — Last updated: 2026-06-11
+**395 open roles** — Last updated: 2026-06-11
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Marketing Operations Manager | [SmartAsset](https://smartasset.com) | $150K–$175K/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/smartasset/jobs/8588751002) |
+| Student Social Media & Content Creation | [Poppy](https://meetpoppy.com) | — | Jun 11 | [Apply](https://jobs.poppy.be/o/student-social-media-content-creation/c/new) |
 | Stage communication et community management (H/F) | [ACCOR](https://group.accor.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000131711174) |
+| Tech Recruiter | [Clear Gene](https://cleargene.com) | $140K–$170K/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/clear/jobs/8000893) |
 | Account Manager, Media Solutions | [The Knot Worldwide](https://theknotworldwide.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/theknotworldwide/jobs/5251439008) |
 | Praktikant/Werkstudent (w/m/d) Global Relations/ Internal Communications | [Drees & Sommer](https://dreso.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000131657540) |
 | Werkstudent (w/m/d) Innovations- und Branchenkommunikation | [Drees & Sommer](https://dreso.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000131647002) |

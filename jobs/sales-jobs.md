@@ -2,17 +2,22 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**1049 open roles** — Last updated: 2026-06-11
+**1055 open roles** — Last updated: 2026-06-11
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Manager, Sales Development | [Procurify](https://procurify.com) | $126K–$144K/yr | Jun 11 | [Apply](https://jobs.ashbyhq.com/procurify/78125681-3d2a-4af8-86d4-316c97077ee2) |
+| Senior Salesforce Administrator, Sales Operations | [PowerX](https://powerx.co) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/powerx/jobs/4283920009) |
+| Senior Manufacturing Engineer (Arc Vehicle) | [Inversion Space](https://inversionspace.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/inversionspace/jobs/4705085005) |
 | Sales Engineer | [Valon](https://valon.com) | — | Jun 11 | [Apply](https://jobs.ashbyhq.com/valon/7803a34d-471f-4935-bcea-f54b34a3ce95) |
+| Enterprise Account Executive | [SingleStore](https://singlestore.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/singlestore/jobs/7983245) |
 | Enterprise Account Executive - Southeast | [MariaDB](https://mariadb.com) | — | Jun 11 | [Apply](https://job-boards.eu.greenhouse.io/mariadbplc/jobs/4876690101) |
 | Senior Sales Manager - Government and Corporate | [ACCOR](https://group.accor.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000131710162) |
 | Account Manager Marketplace externe (H/F) - CDD | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000131706749) |
 | VENDEUR CONSEIL - CDI TEMPS PARTIEL H/F 9H, 10H ou 15H | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000131701735) |
+| Associate Account Executive | [Emburse](https://emburse.com) | — | Jun 11 | [Apply](https://jobs.lever.co/emburse/6affa02c-1342-43de-9b2b-91be861c52a6) |
 | Educational Sales Representative (Work from Home) | [Nerdy](https://nerdy.com) | $20/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/nerdy/jobs/8000791) |
 | Educational Sales Representative (Work from Home) | [Nerdy](https://nerdy.com) | $20/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/nerdy/jobs/8000787) |
 |  Educational Sales Representative (Work from Home) | [Nerdy](https://nerdy.com) | $20/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/nerdy/jobs/8000792) |
@@ -26,6 +31,7 @@ Remote sales roles — account executives, SDRs, and enterprise deals.
 | Senior Sales Executive - Big 5 Global | [dmg events](https://dmgevents.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/dmgevents/jobs/8000181) |
 | Executive Territory Manager | [Syngenta](https://syngenta.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000131612299) |
 | Sales- en accountmanager | [CB Therapeutics](https://cbthera.com) | — | Jun 11 | [Apply](https://cb.recruitee.com/o/sales-en-accountmanager-1/c/new) |
+| Customer Success Manager - Benelux | [Saga AI](https://usesaga.ai) | — | Jun 11 | [Apply](https://careers.sagalegal.io/o/customersuccessmanager-benelux/c/new) |
 | [쿠팡] Account Management Specialist (3P Hardline) | [Coupang](https://coupang.com) | — | Jun 11 | [Apply](https://boards.greenhouse.io/coupanginternal/jobs/7992250?gh_jid=7992250) |
 | Partner Account Manager - Gulfport-Biloxi | [Human Interest](https://humaninterest.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/humaninterest/jobs/7997333) |
 | Partner Account Manager - Mobile AL | [Human Interest](https://humaninterest.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/humaninterest/jobs/7997327) |

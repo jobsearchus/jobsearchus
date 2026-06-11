@@ -2,14 +2,22 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**725 open roles** — Last updated: 2026-06-11
+**734 open roles** — Last updated: 2026-06-11
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Manager, Sales Development | [Procurify](https://procurify.com) | $126K–$144K/yr | Jun 11 | [Apply](https://jobs.ashbyhq.com/procurify/78125681-3d2a-4af8-86d4-316c97077ee2) |
+| Senior Marketing Operations Manager | [SmartAsset](https://smartasset.com) | $150K–$175K/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/smartasset/jobs/8588751002) |
+| Senior Product Design Engineer | [Cortex](https://cortex.io) | $160K–$190K/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/cortex/jobs/5238549008) |
+| HR Generalist, Facilities | [Grüns](https://gruns.co) | $100K–$120K/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/gruns/jobs/5255448008) |
+| WebApp Offensive Security Engineer | [Horizon3.ai](https://horizon3ai.com) | $196K–$242K/yr | Jun 11 | [Apply](https://jobs.ashbyhq.com/horizon3ai/169d3dde-b8e7-4545-a5a4-cd5cc882c101) |
 | RCM Solutions Lead | [SuperDial](https://superdial.com) | $100K–$150K/yr | Jun 11 | [Apply](https://jobs.ashbyhq.com/superdial/e097fb22-cee6-4954-9617-f9103cd4f5b3) |
+| Staff Attack Engineer, OCI | [Horizon3.ai](https://horizon3ai.com) | $247K–$275K/yr | Jun 11 | [Apply](https://jobs.ashbyhq.com/horizon3ai/36eedee8-946c-442e-bffd-b2ad2e638cb3) |
 | Expedition Medicines: Vice President, Finance | [Flagship Pioneering, Inc.](https://flagshippioneering.com) | $275K–$330K/yr | Jun 11 | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8587498002?gh_jid=8587498002) |
+| Tech Recruiter | [Clear Gene](https://cleargene.com) | $140K–$170K/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/clear/jobs/8000893) |
+| Strategy & Operations Manager, Wholesale | [Clutch](https://clutch.io) | $110K–$130K/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/clutch/jobs/6019836004) |
 | Research Finance Officer | [Western Sydney University](https://westernsydney.edu.au) | $107K–$115K/yr | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/WesternSydneyUniversity/postings/6000000001147342) |
 | Software Engineer - Neki Orchestration | [PlanetScale](https://planetscale.com) | $120K–$290K/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/planetscale/jobs/4280570009) |
 | Senior Manager, Data Science & Analytics | [Customer.io](https://customer.io) | $170K–$200K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/customerio/jobs/7991018) |
@@ -20,6 +28,7 @@ Remote roles paying $100,000 or more per year. Salary data pulled directly from 
 | Sr Business Development Manager - Bank Channel | [Human Interest](https://humaninterest.com) | $205K–$235K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/humaninterest/jobs/7993800) |
 | Director, Event Sales & Partnerships - CNBC | [Versant](https://versant.com) | $120K–$165K/yr | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Versant3/postings/744000131542919) |
 | Lead Decision Scientist (Web) | [Life360](https://life360.com) | $133K–$195K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/life360/jobs/8586935002) |
+| Staff Decision Scientist (Strategic Insights) | [Life360](https://life360.com) | $148K–$219K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/life360/jobs/8586894002) |
 | Senior Cyber Defense Analyst | [Genpak LLC](https://genpak-llc-2) | $110K–$149K/yr | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/SOSi1/postings/3743990013569596) |
 | Lead Decision Scientist (International)  | [Life360](https://life360.com) | $133K–$195K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/life360/jobs/8586784002) |
 | Southeastern Idaho Environmental Specialist | [Oklo](https://oklo.com) | $100K–$140K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/oklo/jobs/6013588004) |

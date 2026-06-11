@@ -2,12 +2,13 @@
 
 UX design, UI design, and product design roles. Figma, research, and end-to-end product work.
 
-**152 open roles** — Last updated: 2026-06-11
+**153 open roles** — Last updated: 2026-06-11
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Product Design Engineer | [Cortex](https://cortex.io) | $160K–$190K/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/cortex/jobs/5238549008) |
 | Senior / Staff Product Designer | [Suger](https://suger.io) | — | Jun 11 | [Apply](https://jobs.lever.co/suger/8fb1e88a-18c5-4c24-8e88-0e4af0fcd8df) |
 | UI/UX Designer - 6 Month Contract | [Blackbird Interactive](https://blackbirdinteractive.com) | — | Jun 10 | [Apply](https://jobs.lever.co/blackbirdinteractive/450d7de4-24f5-4b76-9c9e-5b752ceb94a4) |
 | Senior Concept Artist (9-month contract) | [Blackbird Interactive](https://blackbirdinteractive.com) | — | Jun 10 | [Apply](https://jobs.lever.co/blackbirdinteractive/5d5e4fb5-60d6-454a-bd5d-1a677815bb33) |

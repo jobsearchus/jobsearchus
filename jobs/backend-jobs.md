@@ -2,12 +2,13 @@
 
 Backend, server-side, and API engineering roles. Node.js, Python, Go, Ruby, Java and beyond.
 
-**72 open roles** — Last updated: 2026-06-11
+**73 open roles** — Last updated: 2026-06-11
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Backend Software Engineer  | [HavocAI](https://havocai.com) | — | Jun 11 | [Apply](https://jobs.ashbyhq.com/havocai/042d257f-b0b4-4546-b20c-a990ccb2a3cb) |
 | Lead Back-end Engineer Node.Js - Wizz | [Genpak LLC](https://genpak-llc-2) | — | Jun 11 | [Apply](https://jobs.ashbyhq.com/voodoo/69b27376-4113-4829-8b0b-666dff96cdc6) |
 | [Growth Engineering] Senior Staff Back-end Engineer I | [Coupang](https://coupang.com) | — | Jun 11 | [Apply](https://boards.greenhouse.io/coupanginternal/jobs/7959527?gh_jid=7959527) |
 | Senior Software Engineer - Back-end/Data Pipeline - VenturaOS | [The Trade Desk](https://thetradedesk.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/4823055007) |

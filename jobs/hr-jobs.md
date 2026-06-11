@@ -2,13 +2,17 @@
 
 Remote HR, recruiting, and people operations roles.
 
-**202 open roles** — Last updated: 2026-06-11
+**206 open roles** — Last updated: 2026-06-11
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| HR Generalist, Facilities | [Grüns](https://gruns.co) | $100K–$120K/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/gruns/jobs/5255448008) |
+| Specialist, Social | [Known Medicine](https://knownmed.com) | $80K–$90K/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/known/jobs/8585028002) |
+| Bilingual Recruiter | [OpenWork](https://openworklabs.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/openwork/jobs/4282609009) |
 | Manager, HR Operations | [Western Sydney University](https://westernsydney.edu.au) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/WesternSydneyUniversity/postings/6000000001147337) |
+| Recruiter | [Suger](https://suger.io) | — | Jun 11 | [Apply](https://jobs.lever.co/suger/1e11b7d8-4140-4d98-b8b0-b3d7f3999bef) |
 | Vice President, Human Resources | [Flagship Pioneering, Inc.](https://flagshippioneering.com) | $270K–$320K/yr | Jun 10 | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8585078002?gh_jid=8585078002) |
 | Talent Development Specialist - (12 Month Term) | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000131525000) |
 | Talent Acquisition Specialist | [Genpak LLC](https://genpak-llc-2) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/SOSi1/postings/3743990013565986) |

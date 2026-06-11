@@ -2,20 +2,28 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**1686 open roles** — Last updated: 2026-06-11
+**1696 open roles** — Last updated: 2026-06-11
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Manager, Engineering, Secure Build | [Docker](https://docker.com) | — | Jun 11 | [Apply](https://jobs.ashbyhq.com/docker/a6eb0b73-d10e-4d2c-8f94-173f5584bef8) |
+| Technical Cofounder | [Superset](https://superset.sh) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/superset/jobs/5255447008) |
+| Director, Growth Creative | [Nourish](https://usenourish.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/usenourish/jobs/5255395008) |
+| Senior Backline Support Engineer - Remote | [Motive](https://gomotive.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/gomotive/jobs/8587391002) |
 | Cloud Services Engineer  | [Accenture Federal Services](https://accenturefederalservices.com) | — | Jun 11 | [Apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4688754006?gh_jid=4688754006) |
+| Staff Cloud Engineer | [Hone Health](https://honehealth.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/honehealth/jobs/5255106008) |
 | Genesys Platform Program Lead | [Chime](https://chime.com) | $15K/yr | Jun 11 | [Apply](https://boards.greenhouse.io/chime/jobs/8584112002?gh_jid=8584112002) |
+| Software Engineer - Database Engine | [SingleStore](https://singlestore.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/singlestore/jobs/8000966) |
 | Project Controls Manager | [Mariana Minerals](https://marianaminerals.com) | — | Jun 11 | [Apply](https://jobs.ashbyhq.com/marianaminerals/7f497f17-366d-4b59-b887-f3b57302ae61) |
 | Senior Scientist, Biology | [Flagship Pioneering, Inc.](https://flagshippioneering.com) | — | Jun 11 | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8587024002?gh_jid=8587024002) |
 | Commissioning Engineer | [Genpak LLC](https://genpak-llc-2) | — | Jun 11 | [Apply](https://job-boards.eu.greenhouse.io/lotusworks/jobs/4878826101) |
 | Senior Manager, Analytics | [Rovio](https://rovio.com) | — | Jun 11 | [Apply](https://jobs.lever.co/rovio-2/49ebf965-1908-44eb-acee-7e14ac92bf5f) |
 | Management Consultant - Data Engineering | [Baringa](https://baringa.com) | — | Jun 11 | [Apply](https://job-boards.eu.greenhouse.io/baringa/jobs/4895138101) |
 | Junior Sous-Chef H/F R&D - PICLAB | [Relais & Châteaux](https://relaischateaux.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000131638458) |
+| Customer Insight Analyst | [Monzo](https://monzo.com) | £33K–£45K/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7997156) |
+| Agentic Engineer | [Netomi](https://netomi.com) | — | Jun 11 | [Apply](https://jobs.lever.co/netomi/ba379f47-091b-4f2d-82d3-e97a0821227e) |
 | BIM-tekniker bru | [Ramboll](https://ramboll.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/Ramboll3/postings/744000131610189) |
 | BIM-tekniker bru | [Ramboll](https://ramboll.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/Ramboll3/postings/744000131609671) |
 | Agentic Solution Engineer | [Netomi](https://netomi.com) | — | Jun 11 | [Apply](https://jobs.lever.co/netomi/b4d9ce2b-479e-47f2-a9c0-52827e94e129) |
@@ -26,9 +34,11 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Sr. Data Engineer  | [Mariana Minerals](https://marianaminerals.com) | — | Jun 10 | [Apply](https://jobs.ashbyhq.com/marianaminerals/d47156a6-0ac7-4940-bf22-ed8c856dc002) |
 | Senior Web Engineer, Legend | [Robinhood](https://robinhood.com) | — | Jun 10 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7847004?t=gh_src=&gh_jid=7847004) |
 | Lead Decision Scientist (Web) | [Life360](https://life360.com) | $133K–$195K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/life360/jobs/8586935002) |
+| Staff Decision Scientist (Strategic Insights) | [Life360](https://life360.com) | $148K–$219K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/life360/jobs/8586894002) |
 | Lead Decision Scientist (International)  | [Life360](https://life360.com) | £90K–£105K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/life360/jobs/8586885002) |
 | Lead Decision Scientist (International)  | [Life360](https://life360.com) | $133K–$195K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/life360/jobs/8586784002) |
 | Southeastern Idaho Environmental Specialist | [Oklo](https://oklo.com) | $100K–$140K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/oklo/jobs/6013588004) |
+| Staff Decision Scientist (International)  | [Life360](https://life360.com) | £100K–£118K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/life360/jobs/8586639002) |
 | Mechanical Commissioning Lead | [Genpak LLC](https://genpak-llc-2) | — | Jun 10 | [Apply](https://job-boards.eu.greenhouse.io/lotusworks/jobs/4889355101) |
 | Solutions Architect | [SecurityScorecard](https://securityscorecard.com) | $100K–$195K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/securityscorecard/jobs/7997779) |
 | Solutions Architect | [SecurityScorecard](https://securityscorecard.com) | $100K–$195K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/securityscorecard/jobs/7997662) |

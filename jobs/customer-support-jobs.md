@@ -2,15 +2,17 @@
 
 Remote customer support and success roles across SaaS, e-commerce, and tech.
 
-**301 open roles** — Last updated: 2026-06-11
+**303 open roles** — Last updated: 2026-06-11
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Bilingual Customer Experience Specialist | [Certus AI](https://certus-ai.com) | — | Jun 11 | [Apply](https://certus.recruitee.com/o/bilingual-customer-experience-specialist-1/c/new) |
 | Retail Customer Service | [Entain](https://entaingroup.com) | £13/yr | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/Entain/postings/744000131711960) |
 | Retail Customer Service | [Entain](https://entaingroup.com) | £13/yr | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/Entain/postings/744000131705417) |
 | SERVICE CLIENT MAGASIN - CDI et CDD - Temps complet et Temps partiel H/F - OUVERTURE NANTES BASSE GOULAINE | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000131691605) |
+| Customer Success Architect  | [Sigma Computing](https://sigmacomputing.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/7598665003) |
 | Customer Support Executive with German (Onboarding) | [Tide](https://tide.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/tide/jobs/7766788003) |
 | Customer Service Rep(03756) -321 Main Street | [Domino's](https://dominos.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131576399) |
 | Customer Trust Lead | [Emburse](https://emburse.com) | — | Jun 10 | [Apply](https://jobs.lever.co/emburse/221d8ef3-4df9-466e-870a-4fa38a898763) |
