@@ -2,12 +2,13 @@
 
 Remote customer support and success roles across SaaS, e-commerce, and tech.
 
-**296 open roles** — Last updated: 2026-06-11
+**297 open roles** — Last updated: 2026-06-11
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Customer Service Rep(03756) -321 Main Street | [Domino's](https://dominos.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131576399) |
 | Customer Trust Lead | [Emburse](https://emburse.com) | — | Jun 10 | [Apply](https://jobs.lever.co/emburse/221d8ef3-4df9-466e-870a-4fa38a898763) |
 | Senior Technical Success Manager III - Strategic | [Amplitude](https://amplitude.com) | $194K–$291K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/amplitude/jobs/8586044002) |
 | Customer Service Rep(02954) - 401 N State St | [Domino's](https://dominos.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131494979) |

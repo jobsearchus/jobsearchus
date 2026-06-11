@@ -2,12 +2,13 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**719 open roles** — Last updated: 2026-06-11
+**723 open roles** — Last updated: 2026-06-11
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Research Finance Officer | [Western Sydney University](https://westernsydney.edu.au) | $107K–$115K/yr | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/WesternSydneyUniversity/postings/6000000001147342) |
 | Software Engineer - Neki Orchestration | [PlanetScale](https://planetscale.com) | $120K–$290K/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/planetscale/jobs/4280570009) |
 | Senior Manager, Data Science & Analytics | [Customer.io](https://customer.io) | $170K–$200K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/customerio/jobs/7991018) |
 | Executive Assistant | [Flagship Pioneering, Inc.](https://flagshippioneering.com) | $120K–$145K/yr | Jun 10 | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8536719002?gh_jid=8536719002) |
@@ -15,7 +16,9 @@ Remote roles paying $100,000 or more per year. Salary data pulled directly from 
 | Strategic Finance Manager, EPD | [Vercel](https://vercel.com) | $180K–$220K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/vercel/jobs/5855000004) |
 | GRC Analyst | [Mesh](https://usemesh.com) | $130K–$175K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/mesh/jobs/5254431008) |
 | Sr Business Development Manager - Bank Channel | [Human Interest](https://humaninterest.com) | $205K–$235K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/humaninterest/jobs/7993800) |
+| Director, Event Sales & Partnerships - CNBC | [Versant](https://versant.com) | $120K–$165K/yr | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Versant3/postings/744000131542919) |
 | Lead Decision Scientist (Web) | [Life360](https://life360.com) | $133K–$195K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/life360/jobs/8586935002) |
+| Senior Cyber Defense Analyst | [Genpak LLC](https://genpak-llc-2) | $110K–$149K/yr | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/SOSi1/postings/3743990013569596) |
 | Lead Decision Scientist (International)  | [Life360](https://life360.com) | $133K–$195K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/life360/jobs/8586784002) |
 | Southeastern Idaho Environmental Specialist | [Oklo](https://oklo.com) | $100K–$140K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/oklo/jobs/6013588004) |
 | Solutions Architect | [SecurityScorecard](https://securityscorecard.com) | $100K–$195K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/securityscorecard/jobs/7997779) |
@@ -32,6 +35,7 @@ Remote roles paying $100,000 or more per year. Salary data pulled directly from 
 | Senior Events Marketing Manager - Base44 | [Wix.com](https://wix.com) | $145K–$175K/yr | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Wix2/postings/744000131488919) |
 | Client Success Executive | [Arine](https://arine.com) | $160K–$180K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/arine/jobs/6017621004) |
 | Lead Customer Success Manager | [Freshworks](https://freshworks.com) | $109K–$134K/yr | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000131479426) |
+| Digital Product Advancement and Placement Lead | [Syngenta](https://syngenta.com) | $106K–$152K/yr | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000131479403) |
 | Business Development and Enterprise Coverage, RIA's - Senior Vice President / Managing Director | [iCapital](https://icapital.com) | $160K–$200K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8585578002) |
 | Junior Floor Trader | [Maven Securities](https://mavensecurities.com) | $150K–$190K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7966652) |
 | Senior Solutions Architect - UK - Remote | [Grafana Labs](https://grafana.com) | £104K–£125K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6018325004) |

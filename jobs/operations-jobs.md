@@ -2,7 +2,7 @@
 
 Remote operations and business operations roles across industries.
 
-**1175 open roles** — Last updated: 2026-06-11
+**1179 open roles** — Last updated: 2026-06-11
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -10,8 +10,11 @@ Remote operations and business operations roles across industries.
 | --- | --- | --- | --- | --- |
 | AI Business Operations Analyst - São Paulo (Hybrid) | [Clara Labs](https://claralabs.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/clara/jobs/5161852007) |
 | AI Business Operations Analyst - Mexico City (Hybrid) | [Clara Labs](https://claralabs.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/clara/jobs/5161494007) |
+| General Manager(06811) - 7036 FM 1960 Rd E | [Domino's](https://dominos.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131576448) |
+| Delivery Driver(03797) - 1514 Blue Hill | [Domino's](https://dominos.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131574787) |
 | Program Manager, Professional Services - East | [Airtable](https://airtable.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8586863002) |
 | Program Manager, Professional Services - West | [Airtable](https://airtable.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8586865002) |
+| Machine Operator II | [Nielsen](https://nielsen.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990013570309) |
 | Data Center Capacity Consultant (Remote) | [Myriad360](https://myriad360.com) | $110K–$120K/yr | Jun 10 | [Apply](https://boards.greenhouse.io/myriad360/jobs/8586671002?gh_jid=8586671002) |
 | Data Center Capacity Analyst (Remote)  | [Myriad360](https://myriad360.com) | $80K–$90K/yr | Jun 10 | [Apply](https://boards.greenhouse.io/myriad360/jobs/8586643002?gh_jid=8586643002) |
 | Reporting Specialist | [Certus AI](https://certus-ai.com) | — | Jun 10 | [Apply](https://certus.recruitee.com/o/reporting-specialist/c/new) |
@@ -28,6 +31,7 @@ Remote operations and business operations roles across industries.
 | Class 1 Driver for City Pickup & Delivery Great Wages $26.00 an hour with Incentives | [Manitoulin Global Forwarding](https://manitoulingroup.com) | $26/yr | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000131477689) |
 | Supply & Logistics Coordinator | [Nabu Casa](https://nabucasa.com) | — | Jun 10 | [Apply](https://jobs.ashbyhq.com/nabucasa/071ebe03-a49e-4b46-a089-a28e7712a1ba) |
 | Scheduling  Coordinator  | [Genpak LLC](https://genpak-llc-2) | — | Jun 10 | [Apply](https://job-boards.eu.greenhouse.io/lotusworks/jobs/4882564101) |
+| OPERADOR SELECIONAMENTO | [O-I Glass](https://o-i.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/O-I/postings/744000131444940) |
 | Occupational Health and Safety Officer  | [takealot.com](https://takealot.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/takealotcom/jobs/7976075) |
 | Sourcing & Procurement Analyst (Software Helpdesk) | [WPP](https://wpp.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/wpp/jobs/8578199002) |
 | Sourcing and Procurement Analyst (Strategic Sourcing) | [WPP](https://wpp.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/wpp/jobs/8578230002) |

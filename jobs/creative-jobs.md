@@ -2,12 +2,13 @@
 
 Remote creative roles — copywriters, content creators, graphic designers, and brand specialists.
 
-**87 open roles** — Last updated: 2026-06-11
+**88 open roles** — Last updated: 2026-06-11
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Editor, Strategic Verticals - CNBC | [Versant](https://versant.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Versant3/postings/744000131521674) |
 | Interim, Senior Art Director | [e.l.f. Beauty](https://elfbeauty.com) | — | Jun 9 | [Apply](https://jobs.lever.co/elfbeauty/1f670c97-9246-4c62-80b1-5950a9da8416) |
 | Junior Creative Marketing Specialist (TikTok) | [Holywater](https://holywater.com) | — | Jun 6 | [Apply](https://jobs.ashbyhq.com/holywater/918f740a-1f3a-4aae-a118-dc4b58fc0f5f) |
 | Senior Manager, Creative Operations | [The Trade Desk](https://thetradedesk.com) | — | Jun 5 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5157805007) |

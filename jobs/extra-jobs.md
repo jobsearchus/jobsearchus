@@ -2,16 +2,20 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**1159 open roles** — Last updated: 2026-06-11
+**1165 open roles** — Last updated: 2026-06-11
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Hôtesse d'accueil - CDI temps partiel - H/F | [Relais & Châteaux](https://relaischateaux.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000131631789) |
+| Chef de rang H/F - Bistrot André | [Relais & Châteaux](https://relaischateaux.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000131626458) |
+| Forming Process Specialist | [O-I Glass](https://o-i.com) | $93K–$115K/yr | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/O-I/postings/744000131539919) |
 | NPR News Now Internship - Fall 2026 | [NPR](https://npr.com) | $20/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/nationalpublicradioinc/jobs/4704236005) |
 | Planet Money & The Sunday Story Internship - Fall 2026 | [NPR](https://npr.com) | $20/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/nationalpublicradioinc/jobs/4704052005) |
 | Weekend Edition & Science Desk Internship - Fall 2026 | [NPR](https://npr.com) | $20/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/nationalpublicradioinc/jobs/4704027005) |
 |  Plant I Ice Cleaner Setup Tech II | [Continental](https://continentalserves.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000131524859) |
+| ESTAGIÁRIO QUALIDADE E ATENDIMENTO TÉCNICO A CLIENTES | [O-I Glass](https://o-i.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/O-I/postings/744000131521939) |
 | TT Final Finish Setup Tech | [Continental](https://continentalserves.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000131519819) |
 | Employé exploitation polyvalent - H/F | [Genpak LLC](https://genpak-llc-2) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000131500915) |
 | Assistant Vice President Career & Professional Development | [University of Notre Dame](https://universityofnotredame.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013562146) |
@@ -39,6 +43,8 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Chef de Partie - Soho House, London | [Soho House](https://sohohouse.com) | — | Jun 10 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4892412101) |
 | Senior QA Consultant (SAP/Zuora/Finance systems) | [Sophos](https://sophos.com) | — | Jun 10 | [Apply](https://jobs.lever.co/sophos/7a9b15e8-4919-476e-9409-d8ec40adc571) |
 | Veiligheidskundige / HSE-adviseur  | [BESIX](https://besix.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000131399227) |
+| Senior Consultant | [Roland Berger](https://rolandberger.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/RolandBerger/postings/744000131398729) |
+| Maintenance personnel | [Genpak LLC](https://genpak-llc-2) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000131396260) |
 | Assistant General Manager - Soho House Manchester | [Soho House](https://sohohouse.com) | — | Jun 10 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4891013101) |
 | (Senior) Consultant (w/m/d) TGA/ Facility Management (75-100%) | [Drees & Sommer](https://dreso.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000131387579) |
 | Superintendent - ROCO-Antwerp  | [BESIX](https://besix.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000131385229) |

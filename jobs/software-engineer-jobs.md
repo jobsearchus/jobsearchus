@@ -2,14 +2,20 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**1670 open roles** — Last updated: 2026-06-11
+**1679 open roles** — Last updated: 2026-06-11
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Junior Sous-Chef H/F R&D - PICLAB | [Relais & Châteaux](https://relaischateaux.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000131638458) |
+| BIM-tekniker bru | [Ramboll](https://ramboll.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/Ramboll3/postings/744000131610189) |
+| BIM-tekniker bru | [Ramboll](https://ramboll.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/Ramboll3/postings/744000131609671) |
 | Agentic Solution Engineer | [Netomi](https://netomi.com) | — | Jun 11 | [Apply](https://jobs.lever.co/netomi/b4d9ce2b-479e-47f2-a9c0-52827e94e129) |
+| Research Finance Officer | [Western Sydney University](https://westernsydney.edu.au) | $107K–$115K/yr | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/WesternSydneyUniversity/postings/6000000001147342) |
+| Senior Member Technical Staff | [Nielsen](https://nielsen.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990013573356) |
 | Software Engineer - Neki Orchestration | [PlanetScale](https://planetscale.com) | $120K–$290K/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/planetscale/jobs/4280570009) |
+| Engineering Manager (FE) - Editing Performance | [Canva](https://canva.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/Canva/postings/6000000001146279) |
 | Sr. Data Engineer  | [Mariana Minerals](https://marianaminerals.com) | — | Jun 10 | [Apply](https://jobs.ashbyhq.com/marianaminerals/d47156a6-0ac7-4940-bf22-ed8c856dc002) |
 | Senior Web Engineer, Legend | [Robinhood](https://robinhood.com) | — | Jun 10 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7847004?t=gh_src=&gh_jid=7847004) |
 | Lead Decision Scientist (Web) | [Life360](https://life360.com) | $133K–$195K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/life360/jobs/8586935002) |
@@ -22,6 +28,9 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Solutions Architect | [SecurityScorecard](https://securityscorecard.com) | $100K–$195K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/securityscorecard/jobs/7997663) |
 | PV - Analista de Desenvolvimento de Software Go Júnior | [Experian](https://experianplc.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000131529939) |
 | PV - Analista de Desenvolvimento de Software C# Júnior | [Experian](https://experianplc.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000131529480) |
+| Mechanical Engineer - Data Center Facilities | [Ramboll](https://ramboll.com) | $75K–$90K/yr | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Ramboll3/postings/744000131529504) |
+| Tyler Union - Mechanical Maintenance (Millwright) - 2nd Shift | [McWane](https://mcwane.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/McWaneInc/postings/3743990013565786) |
+| Tyler Union - Electrical Maintenance (Electrician) - 3rd Shift | [McWane](https://mcwane.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/McWaneInc/postings/3743990013565666) |
 | Automotive Technical Specialist  | [MSX International](https://msxi.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013565596) |
 | Automotive Technical Specialist Level 1 | [MSX International](https://msxi.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013565236) |
 | Financial Systems Integration Lead | [Checkr](https://checkr.com) | $25K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/checkr/jobs/7997435) |

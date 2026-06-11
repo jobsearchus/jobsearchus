@@ -2,7 +2,7 @@
 
 Remote cybersecurity, information security, and security engineering roles.
 
-**118 open roles** — Last updated: 2026-06-11
+**119 open roles** — Last updated: 2026-06-11
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -10,6 +10,7 @@ Remote cybersecurity, information security, and security engineering roles.
 | --- | --- | --- | --- | --- |
 | GRC Analyst | [Mesh](https://usemesh.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/mesh/jobs/5254432008) |
 | GRC Analyst | [Mesh](https://usemesh.com) | $130K–$175K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/mesh/jobs/5254431008) |
+| Senior Cyber Defense Analyst | [Genpak LLC](https://genpak-llc-2) | $110K–$149K/yr | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/SOSi1/postings/3743990013569596) |
 | Sr. Cloud Security Architect | [AnaVation](https://anavation.com) | — | Jun 10 | [Apply](https://jobs.lever.co/anavationllc/b33c4a32-261b-4e83-90a3-110aea8489db) |
 | Staff Security Engineer - SecOps & Threat | [6sense](https://6sense.com) | — | Jun 10 | [Apply](https://boards.greenhouse.io/6sense/jobs/7996539?gh_jid=7996539) |
 | Senior Security Engineer, Detection and Response | [Crusoe](https://crusoe.com) | — | Jun 10 | [Apply](https://jobs.ashbyhq.com/crusoe/fba363d0-4f6f-40a8-8ea4-ceaea637b42a) |

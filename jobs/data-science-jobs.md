@@ -2,12 +2,13 @@
 
 Data science, machine learning, and AI engineering roles. Python, SQL, PyTorch, and beyond.
 
-**120 open roles** — Last updated: 2026-06-11
+**121 open roles** — Last updated: 2026-06-11
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Machine Learning Engineer  - AI Effects and Editing | [Canva](https://canva.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/Canva/postings/6000000001146221) |
 | Staff Machine Learning Engineer  | [Mariana Minerals](https://marianaminerals.com) | — | Jun 10 | [Apply](https://jobs.ashbyhq.com/marianaminerals/f3f189d1-763d-4196-9ef9-5a7e7931e71b) |
 | Machine Learning Engineer  | [Mariana Minerals](https://marianaminerals.com) | — | Jun 10 | [Apply](https://jobs.ashbyhq.com/marianaminerals/44c92dd6-55f2-4e44-9360-bf4676466dac) |
 | Senior Manager, Data Science & Analytics | [Customer.io](https://customer.io) | $170K–$200K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/customerio/jobs/7991018) |

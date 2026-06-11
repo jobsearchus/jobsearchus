@@ -2,17 +2,19 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**1029 open roles** — Last updated: 2026-06-11
+**1032 open roles** — Last updated: 2026-06-11
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Executive Territory Manager | [Syngenta](https://syngenta.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000131612299) |
 | Sales- en accountmanager | [CB Therapeutics](https://cbthera.com) | — | Jun 11 | [Apply](https://cb.recruitee.com/o/sales-en-accountmanager-1/c/new) |
 | Partner Account Manager - Gulfport-Biloxi | [Human Interest](https://humaninterest.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/humaninterest/jobs/7997333) |
 | Partner Account Manager - Mobile AL | [Human Interest](https://humaninterest.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/humaninterest/jobs/7997327) |
 | Sr Business Development Manager - Bank Channel | [Human Interest](https://humaninterest.com) | $205K–$235K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/humaninterest/jobs/7993800) |
 | Senior Lead Account Executive, Enterprise | [Emburse](https://emburse.com) | — | Jun 10 | [Apply](https://jobs.lever.co/emburse/9e306cd0-37d4-4895-85ba-b32314ad4a4d) |
+| Director, Event Sales & Partnerships - CNBC | [Versant](https://versant.com) | $120K–$165K/yr | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Versant3/postings/744000131542919) |
 | Account Executive (New Vertical) | [Dandy](https://meetdandy.com) | — | Jun 10 | [Apply](https://jobs.ashbyhq.com/dandy/0b419657-5b36-429f-9ba1-c5ece1266706) |
 | Account Executive | [Jeeves](https://tryjeeves.com) | — | Jun 10 | [Apply](https://jobs.lever.co/tryjeeves/ea968f90-3d26-4963-b478-f4d7cc37b286) |
 | Founding Account Executive | [Superset](https://superset.sh) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/superset/jobs/5254099008) |
@@ -29,6 +31,7 @@ Remote sales roles — account executives, SDRs, and enterprise deals.
 | Account Executive  | [RTB House](https://rtbhouse.com) | — | Jun 10 | [Apply](https://job-boards.eu.greenhouse.io/rtbhouse/jobs/4889120101) |
 | Client Success Executive | [Arine](https://arine.com) | $160K–$180K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/arine/jobs/6017621004) |
 | Enterprise Account Executive | [Blue](https://heyblue.com) | — | Jun 10 | [Apply](https://jobs.lever.co/blue/d36f6677-4686-472a-b270-fddb4ede8535) |
+| Digital Product Advancement and Placement Lead | [Syngenta](https://syngenta.com) | $106K–$152K/yr | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000131479403) |
 | Sales Analyst | [TRG Screen](https://trgscreen.com) | — | Jun 10 | [Apply](https://job-boards.eu.greenhouse.io/trgscreen/jobs/4893157101) |
 | Regional Account Executive (SMB) (Position located in Cape Town, South Africa) | [KnowBe4](https://knowbe4.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8585678002) |
 | Partner Sales Director - HCL | [Zscaler](https://zscaler.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5149605007) |

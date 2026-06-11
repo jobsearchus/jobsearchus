@@ -2,18 +2,21 @@
 
 Remote jobs open to candidates with 0–2 years of experience. A real way in — no degree gatekeeping.
 
-**1130 open roles** — Last updated: 2026-06-11
+**1134 open roles** — Last updated: 2026-06-11
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Customer Service Rep(03756) -321 Main Street | [Domino's](https://dominos.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131576399) |
+| Delivery Driver(03797) - 1514 Blue Hill | [Domino's](https://dominos.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131574787) |
 | Marketing Co-Op Intern (Fall 2026) | [Suger](https://suger.io) | — | Jun 11 | [Apply](https://jobs.lever.co/suger/01ca6e25-f724-442a-8502-c830e90aabbf) |
 | Machine Learning Engineer  | [Mariana Minerals](https://marianaminerals.com) | — | Jun 10 | [Apply](https://jobs.ashbyhq.com/marianaminerals/44c92dd6-55f2-4e44-9360-bf4676466dac) |
 | NPR News Now Internship - Fall 2026 | [NPR](https://npr.com) | $20/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/nationalpublicradioinc/jobs/4704236005) |
 | Planet Money & The Sunday Story Internship - Fall 2026 | [NPR](https://npr.com) | $20/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/nationalpublicradioinc/jobs/4704052005) |
 | Weekend Edition & Science Desk Internship - Fall 2026 | [NPR](https://npr.com) | $20/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/nationalpublicradioinc/jobs/4704027005) |
 |  Plant I Ice Cleaner Setup Tech II | [Continental](https://continentalserves.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000131524859) |
+| ESTAGIÁRIO QUALIDADE E ATENDIMENTO TÉCNICO A CLIENTES | [O-I Glass](https://o-i.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/O-I/postings/744000131521939) |
 | TT Final Finish Setup Tech | [Continental](https://continentalserves.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000131519819) |
 | Alternance - Content Manager Produit Marketplace F/H/X | [BUT](https://but.fr) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000131518039) |
 | Alternance - Chef de Produit et Acheteur E-commerce F/H/X | [BUT](https://but.fr) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000131517384) |
@@ -40,6 +43,7 @@ Remote jobs open to candidates with 0–2 years of experience. A real way in —
 | INTERMARCHE -  BOUCHER POLYVALENT TRAD + LS + LS INDUS (H/F) - 41H | [Genpak LLC](https://genpak-llc-2) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000131417764) |
 | INTERMARCHE - BOUCHER POLYVALENT TRAD + LS + LS INDUS (H/F) - 41H | [Genpak LLC](https://genpak-llc-2) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000131417999) |
 | Addetto Acquisti Auto e Back office- Desenzano del Garda | [AUTO1 Group](https://auto1-group.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000131411159) |
+| Maintenance personnel | [Genpak LLC](https://genpak-llc-2) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000131396260) |
 | Delivery Driver(06404) - 720 Bastrop Highway | [Domino's](https://dominos.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131363873) |
 | Delivery Driver(08764) - 1335 N. Longstreet St. | [Domino's](https://dominos.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131363911) |
 | Delivery Expert(03494) - 2104 Grand Central Ave | [Domino's](https://dominos.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131364159) |

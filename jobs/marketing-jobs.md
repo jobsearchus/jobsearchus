@@ -2,7 +2,7 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**385 open roles** — Last updated: 2026-06-11
+**386 open roles** — Last updated: 2026-06-11
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -10,6 +10,7 @@ Remote marketing roles across growth, content, brand, and performance channels.
 | --- | --- | --- | --- | --- |
 | Marketing Co-Op Intern (Fall 2026) | [Suger](https://suger.io) | — | Jun 11 | [Apply](https://jobs.lever.co/suger/01ca6e25-f724-442a-8502-c830e90aabbf) |
 | Communications Specialist | [Continental](https://continentalserves.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000131534108) |
+| Freelance Social Media Coordinator | [Versant](https://versant.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Versant3/postings/744000131530899) |
 | Alternance - Content Manager Produit Marketplace F/H/X | [BUT](https://but.fr) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000131518039) |
 | Web Optimization Manager | [Checkr](https://checkr.com) | $25K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/checkr/jobs/7994212) |
 | Senior Events Marketing Manager - Base44 | [Wix.com](https://wix.com) | $130K–$155K/yr | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Wix2/postings/744000131496899) |
