@@ -2,12 +2,13 @@
 
 Backend, server-side, and API engineering roles. Node.js, Python, Go, Ruby, Java and beyond.
 
-**70 open roles** — Last updated: 2026-06-10
+**71 open roles** — Last updated: 2026-06-11
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| [Growth Engineering] Senior Staff Back-end Engineer I | [Coupang](https://coupang.com) | — | Jun 11 | [Apply](https://boards.greenhouse.io/coupanginternal/jobs/7959527?gh_jid=7959527) |
 | Senior Software Engineer - Back-end/Data Pipeline - VenturaOS | [The Trade Desk](https://thetradedesk.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/4823055007) |
 | SR Desenvolvimento Fullstack (Java e React) - Foco em Backend & Arquitetura | [ília](https://lia.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/ilia/jobs/6017541004) |
 | Senior Backend Engineer (All Genders) | [Dailymotion](https://dailymotion.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/Dailymotion/postings/744000131129819) |

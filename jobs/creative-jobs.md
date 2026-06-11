@@ -2,7 +2,7 @@
 
 Remote creative roles — copywriters, content creators, graphic designers, and brand specialists.
 
-**87 open roles** — Last updated: 2026-06-10
+**87 open roles** — Last updated: 2026-06-11
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 

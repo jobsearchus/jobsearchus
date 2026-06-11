@@ -2,17 +2,26 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**1011 open roles** — Last updated: 2026-06-10
+**1020 open roles** — Last updated: 2026-06-11
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | Technical Sales Manager | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $130K–$165K/yr | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000131512807) |
+| Sr. Strategic Client Executive (Providers) | [Redox](https://redoxengine.com) | — | Jun 10 | [Apply](https://jobs.lever.co/redoxengine/c118febd-36f3-4fe0-94ee-1fd74a967bf5) |
 | Regional Sales Director, Portworx - Strategics    | [Pure Storage](https://purestorage.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/7994266) |
 | Sales Development Representative | [Illumio](https://illumio.com) | — | Jun 10 | [Apply](https://jobs.ashbyhq.com/illumio/63da54f8-509f-4bf6-960f-131de498bb87) |
+| Senior Customer Architect - Public Sector | [Endgame Systems](https://endgamesystems.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/endgamesystemsllc/jobs/5253838008) |
+| Senior Account Executive - DOD - Defense Agencies | [Endgame Systems](https://endgamesystems.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/endgamesystemsllc/jobs/5252743008) |
+|  CONSEILLER DE VENTE - VENDEUR (H/F) SOL / BOIS | [Genpak LLC](https://genpak-llc-2) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000131497164) |
 | Sales Engineer | [Illumio](https://illumio.com) | — | Jun 10 | [Apply](https://jobs.ashbyhq.com/illumio/528e8a71-18fc-45e8-a94c-10b103522cb5) |
+| Account Manager | [Patch My PC](https://patchmypc.com) | — | Jun 10 | [Apply](https://jobs.lever.co/patchmypc/9d4557ae-7f9d-4499-bfb8-4dbce53d58d0) |
+| Account Executive  | [RTB House](https://rtbhouse.com) | — | Jun 10 | [Apply](https://job-boards.eu.greenhouse.io/rtbhouse/jobs/4889120101) |
+| Client Success Executive | [Arine](https://arine.com) | $160K–$180K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/arine/jobs/6017621004) |
 | Enterprise Account Executive | [Blue](https://heyblue.com) | — | Jun 10 | [Apply](https://jobs.lever.co/blue/d36f6677-4686-472a-b270-fddb4ede8535) |
+| Sales Analyst | [TRG Screen](https://trgscreen.com) | — | Jun 10 | [Apply](https://job-boards.eu.greenhouse.io/trgscreen/jobs/4893157101) |
+| Regional Account Executive (SMB) (Position located in Cape Town, South Africa) | [KnowBe4](https://knowbe4.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8585678002) |
 | Partner Sales Director - HCL | [Zscaler](https://zscaler.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5149605007) |
 | One Shot Quote Analyst - Remote from Alberta, British Columbia or Saskatchewan | [Manitoulin Global Forwarding](https://manitoulingroup.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000131452939) |
 | Sales Specialist - Data & AI Security | [Veeam Software](https://veeam.com) | — | Jun 10 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4872389101) |

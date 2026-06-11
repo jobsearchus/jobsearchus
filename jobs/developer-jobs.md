@@ -2,12 +2,13 @@
 
 General developer and programmer roles that did not fit a more specific category.
 
-**115 open roles** — Last updated: 2026-06-10
+**116 open roles** — Last updated: 2026-06-11
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Middle Java Developer | [GR8 Tech](https://gr8.com) | — | Jun 10 | [Apply](https://job-boards.eu.greenhouse.io/gr8tech/jobs/4884982101) |
 | Senior Staff Engineer, BPEL Developer | [Nagarro](https://nagarro.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000131446914) |
 | Senior Developer (Python,React,AWS,Terraform) | [Referrals Only](https://thoughtworks.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7992219) |
 | iOS Developer (IoT sphere) | [Coherent Solutions](https://coherentsolutions.com) | — | Jun 10 | [Apply](https://job-boards.eu.greenhouse.io/coherentsolutions/jobs/4865727101) |

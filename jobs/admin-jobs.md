@@ -2,12 +2,13 @@
 
 Remote administrative and executive assistant roles across industries.
 
-**37 open roles** — Last updated: 2026-06-10
+**38 open roles** — Last updated: 2026-06-11
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Executive Assistant | [Flagship Pioneering, Inc.](https://flagshippioneering.com) | $120K–$145K/yr | Jun 10 | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8536719002?gh_jid=8536719002) |
 | RECEPTIONIST - Tamayyaz | [ACCOR](https://group.accor.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000131095139) |
 | Administrative Assistant - Landscape Services | [University of Notre Dame](https://universityofnotredame.com) | $22/yr | Jun 5 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013498706) |
 | Office Administrator | [JustMarkets](https://justmarkets.com) | — | Jun 5 | [Apply](https://job-boards.eu.greenhouse.io/justmarkets/jobs/4879612101) |

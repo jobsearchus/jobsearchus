@@ -2,17 +2,22 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**701 open roles** — Last updated: 2026-06-10
+**706 open roles** — Last updated: 2026-06-11
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Executive Assistant | [Flagship Pioneering, Inc.](https://flagshippioneering.com) | $120K–$145K/yr | Jun 10 | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8536719002?gh_jid=8536719002) |
+| Vice President, Human Resources | [Flagship Pioneering, Inc.](https://flagshippioneering.com) | $270K–$320K/yr | Jun 10 | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8585078002?gh_jid=8585078002) |
+| Data Center Capacity Consultant (Remote) | [Myriad360](https://myriad360.com) | $110K–$120K/yr | Jun 10 | [Apply](https://boards.greenhouse.io/myriad360/jobs/8586671002?gh_jid=8586671002) |
 | Senior Manager - Private Equity Fund Accounting | [IQ-EQ](https://iqeq.com) | $100K–$130K/yr | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000131530737) |
 | Senior Manager - Private Equity Fund Accounting | [IQ-EQ](https://iqeq.com) | $100K–$130K/yr | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000131529250) |
 | Technical Sales Manager | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $130K–$165K/yr | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000131512807) |
+| Senior Advisory Consultant @Advizex (Remote) | [Myriad360](https://myriad360.com) | $180K–$200K/yr | Jun 10 | [Apply](https://boards.greenhouse.io/myriad360/jobs/8586052002?gh_jid=8586052002) |
 | Senior Events Marketing Manager - Base44 | [Wix.com](https://wix.com) | $130K–$155K/yr | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Wix2/postings/744000131496899) |
 | Senior Events Marketing Manager - Base44 | [Wix.com](https://wix.com) | $145K–$175K/yr | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Wix2/postings/744000131488919) |
+| Client Success Executive | [Arine](https://arine.com) | $160K–$180K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/arine/jobs/6017621004) |
 | Lead Customer Success Manager | [Freshworks](https://freshworks.com) | $109K–$134K/yr | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000131479426) |
 | Business Development and Enterprise Coverage, RIA's - Senior Vice President / Managing Director | [iCapital](https://icapital.com) | $160K–$200K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8585578002) |
 | Junior Floor Trader | [Maven Securities](https://mavensecurities.com) | $150K–$190K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7966652) |

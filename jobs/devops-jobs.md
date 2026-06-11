@@ -2,12 +2,15 @@
 
 DevOps, platform engineering, and infrastructure roles. AWS, GCP, Kubernetes, Terraform.
 
-**96 open roles** — Last updated: 2026-06-10
+**99 open roles** — Last updated: 2026-06-11
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior DevOps Engineer | [WPP](https://wpp.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/wpp/jobs/8569092002) |
+| DevOps Engineer | [WPP](https://wpp.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/wpp/jobs/8569147002) |
+| Senior DevOps Engineer | [Perk](https://perk.com) | — | Jun 10 | [Apply](https://jobs.ashbyhq.com/perk/87a0e6e0-3528-4976-b50f-a5e70d3ae1af) |
 | Platform Engineer III | [Emburse](https://emburse.com) | — | Jun 10 | [Apply](https://jobs.lever.co/emburse/13517020-063c-4eba-8e07-37c555418d48) |
 | DevOps Engineer (IoT sphere) | [Coherent Solutions](https://coherentsolutions.com) | — | Jun 10 | [Apply](https://job-boards.eu.greenhouse.io/coherentsolutions/jobs/4874025101) |
 | DevOps Engineer | [Aura](https://aura.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/aura798/jobs/6016666004) |

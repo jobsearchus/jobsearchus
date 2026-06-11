@@ -2,12 +2,13 @@
 
 Remote HR, recruiting, and people operations roles.
 
-**199 open roles** — Last updated: 2026-06-10
+**200 open roles** — Last updated: 2026-06-11
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Vice President, Human Resources | [Flagship Pioneering, Inc.](https://flagshippioneering.com) | $270K–$320K/yr | Jun 10 | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8585078002?gh_jid=8585078002) |
 | Talent Development Specialist - (12 Month Term) | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000131525000) |
 | People Partner | [PortmanDentex](https://portmandentex.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000131435684) |
 | HR Operations Specialist | [Pure Storage](https://purestorage.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/7992761) |
