@@ -2,13 +2,14 @@
 
 QA, test automation, and SDET roles. Manual and automated testing across all stacks.
 
-**52 open roles** — Last updated: 2026-06-12
+**53 open roles** — Last updated: 2026-06-12
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | Manufacturing Test Engineer II, Pneumatic Mechanisms & Fluid Assemblies | [Relativity Space](https://relativityspace.com) | — | Jun 11 | [Apply](https://boards.greenhouse.io/relativity/jobs/8588815002?gh_jid=8588815002) |
+| Senior Staff Automation Engineer | [SmithRx](https://smithrx.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/smithrx/jobs/8582583002) |
 | Pronto - Robotics Test Engineer, San Francisco | [Pronto](https://tuprontomx.com) | $298K–$376K/yr | Jun 8 | [Apply](https://job-boards.greenhouse.io/pronto/jobs/8583040002) |
 | QA Automation Engineer | [Slingshot Aerospace](https://slingshotaerospace.com) | $105K–$160K/yr | Jun 8 | [Apply](https://job-boards.greenhouse.io/slingshotaerospace/jobs/6016469004?gh_jid=6016469004) |
 | Senior QA Engineer | [Miratech](https://miratech.com) | — | Jun 8 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000130857479) |

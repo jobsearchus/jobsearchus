@@ -2,12 +2,14 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**1067 open roles** — Last updated: 2026-06-12
+**1070 open roles** — Last updated: 2026-06-12
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Sales Director | [Saviynt](https://saviynt.com) | — | Jun 12 | [Apply](https://jobs.lever.co/saviynt/caf633b3-4f4a-499d-ad0c-26192a10b42a) |
+| PL Analista Salesforce Marketing Cloud | [ília](https://lia.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/ilia/jobs/6020751004) |
 | Senior Manager, Sales Development | [Procurify](https://procurify.com) | $126K–$144K/yr | Jun 11 | [Apply](https://jobs.ashbyhq.com/procurify/78125681-3d2a-4af8-86d4-316c97077ee2) |
 | Sales Assistant 21 h - Categoria protetta L.68/99 - Benevento  | [JYSK](https://jysk.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000131740850) |
 | Sales Assistant 21 h - Categoria protetta L.68/99 - Potenza | [JYSK](https://jysk.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000131740566) |
@@ -15,6 +17,7 @@ Remote sales roles — account executives, SDRs, and enterprise deals.
 | Senior Manufacturing Engineer (Arc Vehicle) | [Inversion Space](https://inversionspace.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/inversionspace/jobs/4705085005) |
 | Sales Engineer | [Valon](https://valon.com) | — | Jun 11 | [Apply](https://jobs.ashbyhq.com/valon/7803a34d-471f-4935-bcea-f54b34a3ce95) |
 | Enterprise Account Executive | [SingleStore](https://singlestore.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/singlestore/jobs/7983245) |
+| Senior Account Manager, Strategic Accounts  | [VusionGroup SA](https://vusiongroup.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/VusionGroupSA/postings/744000131733150) |
 | Customer Success Executive | [Ping Identity](https://pingidentity.com) | $131K–$142K/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/pingidentity/jobs/8582959002) |
 | Pre-Sales Director | [D-Fend Solutions](https://d-fendsolutions.com) | — | Jun 11 | [Apply](https://jobs.lever.co/d-fendsolutions/1252ab08-3770-4bc9-a9d2-114f6e3eba35) |
 | Sales Assistant (Categorie Protette) - Ferrara C.C. "Castello"  | [JD Sports](https://jdsports.com) | — | Jun 11 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4895805101) |

@@ -2,28 +2,39 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**1705 open roles** — Last updated: 2026-06-12
+**1716 open roles** — Last updated: 2026-06-12
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Associate Principal Engineer | [Saviynt](https://saviynt.com) | — | Jun 12 | [Apply](https://jobs.lever.co/saviynt/fe33f98f-6db1-467f-a41f-62513b09c6dd) |
 | Sr. Professional Services Specialist | [Illumio](https://illumio.com) | — | Jun 11 | [Apply](https://jobs.ashbyhq.com/illumio/d013e299-888f-4eea-8fdb-964341240b8c) |
 | Integration Technician II, Stage Integration, Second Shift | [Relativity Space](https://relativityspace.com) | — | Jun 11 | [Apply](https://boards.greenhouse.io/relativity/jobs/8588738002?gh_jid=8588738002) |
 | Integration Technician II, Thrust Structure, Second Shift | [Relativity Space](https://relativityspace.com) | — | Jun 11 | [Apply](https://boards.greenhouse.io/relativity/jobs/8588702002?gh_jid=8588702002) |
+| Data Architect - Fleet Aviation Team | [Genpak LLC](https://genpak-llc-2) | — | Jun 11 | [Apply](https://jobs.lever.co/steerbridge/361e49fb-ed6d-440e-8185-6acba49342df) |
+| Software Engineer - Fleet Aviation Team | [Genpak LLC](https://genpak-llc-2) | — | Jun 11 | [Apply](https://jobs.lever.co/steerbridge/48998b31-69da-4092-bd06-e1a6fbe38652) |
 | Senior Windows Systems Administrator  | [Black Canyon Consulting](https://blackcanyonconsulting.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/blackcanyonconsulting/jobs/7767074003) |
 | Manager, Engineering, Secure Build | [Docker](https://docker.com) | — | Jun 11 | [Apply](https://jobs.ashbyhq.com/docker/a6eb0b73-d10e-4d2c-8f94-173f5584bef8) |
+| Technical Office Engineer – Oosterweel Project (ROCO, Antwerp) | [BESIX](https://besix.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000131743249) |
+|  Technical Office Engineer – Oosterweel Project (ROCO, Antwerp) | [BESIX](https://besix.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000131742990) |
 | Technical Cofounder | [Superset](https://superset.sh) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/superset/jobs/5255447008) |
 | Director, Growth Creative | [Nourish](https://usenourish.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/usenourish/jobs/5255395008) |
 | Senior Backline Support Engineer - Remote | [Motive](https://gomotive.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/gomotive/jobs/8587391002) |
+| Expert Engineer - Interior Overhead Systems (DRE) | [ALTEN](https://alten.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5162314007) |
 | Cloud Services Engineer  | [Accenture Federal Services](https://accenturefederalservices.com) | — | Jun 11 | [Apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4688754006?gh_jid=4688754006) |
 | Staff Cloud Engineer | [Hone Health](https://honehealth.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/honehealth/jobs/5255106008) |
+| Principal Consultant Cloud | [Inetum](https://inetum.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000131716349) |
+| Business Consultant Energy & Utilities | [Inetum](https://inetum.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000131714914) |
+| Consultant Microsoft Licensing | [Inetum](https://inetum.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000131715414) |
 | Genesys Platform Program Lead | [Chime](https://chime.com) | $15K/yr | Jun 11 | [Apply](https://boards.greenhouse.io/chime/jobs/8584112002?gh_jid=8584112002) |
 | Software Engineer - Database Engine | [SingleStore](https://singlestore.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/singlestore/jobs/8000966) |
 | Project Controls Manager | [Mariana Minerals](https://marianaminerals.com) | — | Jun 11 | [Apply](https://jobs.ashbyhq.com/marianaminerals/7f497f17-366d-4b59-b887-f3b57302ae61) |
 | Senior Scientist, Biology | [Flagship Pioneering, Inc.](https://flagshippioneering.com) | — | Jun 11 | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8587024002?gh_jid=8587024002) |
 | Senior Network Engineer | [Cloudflare](https://cloudflare.com) | — | Jun 11 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7992903?gh_jid=7992903) |
 | Commissioning Engineer | [Genpak LLC](https://genpak-llc-2) | — | Jun 11 | [Apply](https://job-boards.eu.greenhouse.io/lotusworks/jobs/4878826101) |
+| Engineer, Software Automation | [Standard Bank](https://standardbank.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000131668070) |
+| Engineer, Cyber Security | [Standard Bank](https://standardbank.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000131665349) |
 | Senior Manager, Analytics | [Rovio](https://rovio.com) | — | Jun 11 | [Apply](https://jobs.lever.co/rovio-2/49ebf965-1908-44eb-acee-7e14ac92bf5f) |
 | AI Senior Solutions Architect, Global Advanced Services - UK/US | [Pure Storage](https://purestorage.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/7981839) |
 | Management Consultant - Data Engineering | [Baringa](https://baringa.com) | — | Jun 11 | [Apply](https://job-boards.eu.greenhouse.io/baringa/jobs/4895138101) |

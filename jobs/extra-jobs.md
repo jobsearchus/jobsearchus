@@ -2,16 +2,20 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**1178 open roles** — Last updated: 2026-06-12
+**1182 open roles** — Last updated: 2026-06-12
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Food & Beverage Attendant | [ACCOR](https://group.accor.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000131825759) |
+| Commis Chef | [ACCOR](https://group.accor.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000131825689) |
 | General Manager (Live In ) | [Greene King](https://greeneking.co.uk) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/GreeneKing/postings/744000131737135) |
+| Clinical Account Manager | [SmithRx](https://smithrx.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/smithrx/jobs/8580634002) |
 | Bartender - Electric House, West London | [Soho House](https://sohohouse.com) | — | Jun 11 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4895314101) |
 | SweatHouz- Studio Manager, Pasadena | [Momentic](https://momentic.ai) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/momentic/jobs/5255211008) |
 | COMMIS DE CUISINE CONFIRME F/H/X - CDI | [ACCOR](https://group.accor.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000131714529) |
+| Foundation Dentist | [PortmanDentex](https://portmandentex.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000131710626) |
 | Intercity Bus and Coach Driver - Uig/Portree | [Ember](https://embercopilot.ai) | £16/yr | Jun 11 | [Apply](https://ember.recruitee.com/o/intercity-bus-and-coach-driver-uigportree/c/new) |
 | Advancement Manager, Events & Corporate Partnerships (Hybrid - NYC) | [Beam](https://beam.cloud) | $72K–$88K/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/beam/jobs/4704833005) |
 | Insurance Consulting, Senior Manager (Life & Pensions) | [Baringa](https://baringa.com) | — | Jun 11 | [Apply](https://job-boards.eu.greenhouse.io/baringa/jobs/4895481101) |

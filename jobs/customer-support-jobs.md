@@ -2,12 +2,13 @@
 
 Remote customer support and success roles across SaaS, e-commerce, and tech.
 
-**303 open roles** — Last updated: 2026-06-12
+**304 open roles** — Last updated: 2026-06-12
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Customer Service Representative (9613) - West Helena, AR | [Domino's](https://dominos.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131801250) |
 | Bilingual Customer Experience Specialist | [Certus AI](https://certus-ai.com) | — | Jun 11 | [Apply](https://certus.recruitee.com/o/bilingual-customer-experience-specialist-1/c/new) |
 | Retail Customer Service | [Entain](https://entaingroup.com) | £13/yr | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/Entain/postings/744000131711960) |
 | Retail Customer Service | [Entain](https://entaingroup.com) | £13/yr | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/Entain/postings/744000131705417) |

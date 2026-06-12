@@ -2,18 +2,24 @@
 
 Remote operations and business operations roles across industries.
 
-**1218 open roles** — Last updated: 2026-06-12
+**1225 open roles** — Last updated: 2026-06-12
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Technical Supervisor | [ACCOR](https://group.accor.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000131824954) |
+| Buiten Laborant Infra - Jij zorgt voor kwaliteit op topniveau! | [BESIX](https://besix.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000131823149) |
+| Delivery Expert(2140) - 445 Broadway | [Domino's](https://dominos.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131800690) |
+| Delivery Driver(01361) - 525 20th St | [Domino's](https://dominos.com) | $10/yr | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131801299) |
 | Delivery Driver(06224) - 8757 Wadsworth Blvd | [Domino's](https://dominos.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131801278) |
 | Delivery Driver(04710) - 119 N. Sheridan Ave. | [Domino's](https://dominos.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131801155) |
 | Cashier - Pizza Maker (04391) Part-time | [Domino's](https://dominos.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131794815) |
 | Janitorial Maintenance | [Pilot Flying J](https://pilotflyingj.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/PilotCompany/postings/744000131764300) |
 | Fulfillment Operations Lead | [Certus AI](https://certus-ai.com) | — | Jun 11 | [Apply](https://certus.recruitee.com/o/fulfillment-operations-lead/c/new) |
 | Deputy Store Manager 30h - Castellammare di Stabia | [JYSK](https://jysk.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000131745269) |
+| Events Coordinator | [KPFF Consulting Engineers](https://kpff.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/KPFFConsultingEngineers/postings/3743990013585146) |
+| Practice Manager - Maternity Cover | [PortmanDentex](https://portmandentex.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000131735850) |
 | Fleet Manager | [PowerX](https://powerx.co) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/powerx/jobs/4283887009) |
 | ELS AU RAYON NON ALIMENTAIRE (BAZAR ET TEXTILE) (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000131733110) |
 | IPA Operations Manager | [Akido Labs](https://akidolabs.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/akidolabs/jobs/4686767006) |
@@ -34,6 +40,7 @@ Remote operations and business operations roles across industries.
 | Customer Operations Intern | [INFINIT](https://infinit.com) | — | Jun 11 | [Apply](https://jobs.lever.co/infinit/6d99ad1b-d350-487d-80b2-6989590bce7b) |
 | Franchise Manager   | [takealot.com](https://takealot.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/takealotcom/jobs/7992229) |
 | Lead, Merchant KYC Support | [Moniepoint](https://moniepoint.com) | — | Jun 11 | [Apply](https://job-boards.eu.greenhouse.io/moniepoint/jobs/4871261101) |
+| Junior Kundmottagare | [AUTO1 Group](https://auto1-group.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000131661754) |
 | Operations Leadership, Financial Crime (Multilingual)  | [Monzo](https://monzo.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7996449) |
 | Senior Investigator, Operations Analyst, Financial Crime (Multilingual)  | [Monzo](https://monzo.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7996433) |
 | IT Administrator | [Sun Studio](https://sunstudio.com) | — | Jun 11 | [Apply](https://jobs.lever.co/sunstudio/ec8be799-d2d8-4545-b449-3c2e6f83430e) |

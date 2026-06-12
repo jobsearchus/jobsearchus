@@ -2,12 +2,14 @@
 
 Remote jobs open to candidates with 0–2 years of experience. A real way in — no degree gatekeeping.
 
-**1164 open roles** — Last updated: 2026-06-12
+**1168 open roles** — Last updated: 2026-06-12
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Food & Beverage Attendant | [ACCOR](https://group.accor.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000131825759) |
+| Commis Chef | [ACCOR](https://group.accor.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000131825689) |
 | Delivery Driver(06224) - 8757 Wadsworth Blvd | [Domino's](https://dominos.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131801278) |
 | Delivery Driver(04710) - 119 N. Sheridan Ave. | [Domino's](https://dominos.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131801155) |
 | Cashier - Pizza Maker (04391) Part-time | [Domino's](https://dominos.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131794815) |
@@ -30,6 +32,7 @@ Remote jobs open to candidates with 0–2 years of experience. A real way in —
 | INTERMARCHE - EMPLOYE COMMERCIAL (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000131674694) |
 | Customer Operations Intern | [INFINIT](https://infinit.com) | — | Jun 11 | [Apply](https://jobs.lever.co/infinit/6d99ad1b-d350-487d-80b2-6989590bce7b) |
 | CDI - VENDEUR ALIMENTAIRE FROMAGE (H/F) - 36H45 | [Genpak LLC](https://genpak-llc-2) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000131671508) |
+| Junior Kundmottagare | [AUTO1 Group](https://auto1-group.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000131661754) |
 | Praktikant/Werkstudent (w/m/d) Global Relations/ Internal Communications | [Drees & Sommer](https://dreso.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000131657540) |
 | Préparateur de commandes H/F | [VusionGroup SA](https://vusiongroup.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/VusionGroupSA/postings/744000131652159) |
 | Working Student IT Support (all genders) - Cloud & Platform Engineering | [MOIA](https://moia.io) | — | Jun 11 | [Apply](https://job-boards.eu.greenhouse.io/moia/jobs/4894993101) |
@@ -37,6 +40,7 @@ Remote jobs open to candidates with 0–2 years of experience. A real way in —
 | Bartender - High Road House Chiswick, West London | [Soho House](https://sohohouse.com) | — | Jun 11 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4893462101) |
 | Apprentissage Coordinateur ADV H/F  | [VusionGroup SA](https://vusiongroup.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/VusionGroupSA/postings/744000131626083) |
 | Calibration Technician | [Genpak LLC](https://genpak-llc-2) | — | Jun 11 | [Apply](https://job-boards.eu.greenhouse.io/lotusworks/jobs/4893151101) |
+| Praktikant (w/m/d) Interne Kommunikation | [Drees & Sommer](https://dreso.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000131594200) |
 | Customer Service Rep(07897) - 12501 Burbank Boulevard | [Domino's](https://dominos.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131575651) |
 | Customer Service Rep(03756) -321 Main Street | [Domino's](https://dominos.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131576399) |
 | Delivery Driver(03797) - 1514 Blue Hill | [Domino's](https://dominos.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131574787) |

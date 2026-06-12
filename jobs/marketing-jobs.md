@@ -2,7 +2,7 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**399 open roles** — Last updated: 2026-06-12
+**400 open roles** — Last updated: 2026-06-12
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -19,6 +19,7 @@ Remote marketing roles across growth, content, brand, and performance channels.
 | Ads & Promos Specialist | [Wolt](https://wolt.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/8000205) |
 | Werkstudent (w/m/d) Innovations- und Branchenkommunikation | [Drees & Sommer](https://dreso.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000131647002) |
 | Director, Brand Management(Kitchen) [L7-I] | [Coupang](https://coupang.com) | — | Jun 11 | [Apply](https://boards.greenhouse.io/coupanginternal/jobs/7952176?gh_jid=7952176) |
+| Praktikant (w/m/d) Interne Kommunikation | [Drees & Sommer](https://dreso.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000131594200) |
 | Performance Media Manager | [Genpak LLC](https://genpak-llc-2) | — | Jun 11 | [Apply](https://job-boards.eu.greenhouse.io/valtech/jobs/4894213101) |
 | Marketing Co-Op Intern (Fall 2026) | [Suger](https://suger.io) | — | Jun 11 | [Apply](https://jobs.lever.co/suger/01ca6e25-f724-442a-8502-c830e90aabbf) |
 | Partner Marketing Manager | [Patch My PC](https://patchmypc.com) | — | Jun 10 | [Apply](https://jobs.lever.co/patchmypc/7cbe8fe4-153a-47c4-adb8-469cd0b8192f) |
