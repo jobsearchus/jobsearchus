@@ -2,18 +2,28 @@
 
 Remote operations and business operations roles across industries.
 
-**1206 open roles** — Last updated: 2026-06-11
+**1218 open roles** — Last updated: 2026-06-12
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Delivery Driver(06224) - 8757 Wadsworth Blvd | [Domino's](https://dominos.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131801278) |
+| Delivery Driver(04710) - 119 N. Sheridan Ave. | [Domino's](https://dominos.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131801155) |
+| Cashier - Pizza Maker (04391) Part-time | [Domino's](https://dominos.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131794815) |
+| Janitorial Maintenance | [Pilot Flying J](https://pilotflyingj.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/PilotCompany/postings/744000131764300) |
 | Fulfillment Operations Lead | [Certus AI](https://certus-ai.com) | — | Jun 11 | [Apply](https://certus.recruitee.com/o/fulfillment-operations-lead/c/new) |
+| Deputy Store Manager 30h - Castellammare di Stabia | [JYSK](https://jysk.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000131745269) |
 | Fleet Manager | [PowerX](https://powerx.co) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/powerx/jobs/4283887009) |
+| ELS AU RAYON NON ALIMENTAIRE (BAZAR ET TEXTILE) (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000131733110) |
 | IPA Operations Manager | [Akido Labs](https://akidolabs.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/akidolabs/jobs/4686767006) |
 | RCM Solutions Lead | [SuperDial](https://superdial.com) | $100K–$150K/yr | Jun 11 | [Apply](https://jobs.ashbyhq.com/superdial/e097fb22-cee6-4954-9617-f9103cd4f5b3) |
+| Responsable Secteur Jardin Végétal H/F | [Genpak LLC](https://genpak-llc-2) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000131727469) |
 | Social Production Lead | [teamLFG](https://teamlfg.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/teamlfg/jobs/6000518004) |
+| Operations Manager | [VML MAP](https://vml-map.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/map/jobs/8585323002) |
+| Global Events Manager | [Pure Storage](https://purestorage.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/7993270) |
 | Material Handler-Delaware (Contract to Hire) | [Myriad360](https://myriad360.com) | $23/yr | Jun 11 | [Apply](https://boards.greenhouse.io/myriad360/jobs/8587913002?gh_jid=8587913002) |
+| Career Success Coordinator | [Aviation Institute of Maintenance](https://aviationmaintenance.edu) | $31/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/aviationinstituteofmaintenance/jobs/5254985008) |
 | Technical Procurement Specialist | [BESIX](https://besix.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000131679377) |
 | INTERMARCHE - BOUCHER (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000131677995) |
 | Strategy & Operations Manager, Wholesale | [Clutch](https://clutch.io) | $110K–$130K/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/clutch/jobs/6019836004) |
@@ -21,6 +31,8 @@ Remote operations and business operations roles across industries.
 | Senior Inventory Operations Specialist | [Perk](https://perk.com) | — | Jun 11 | [Apply](https://jobs.ashbyhq.com/perk/09d000cc-32cc-45ea-8fac-1365b932454d) |
 | Senior Inventory Operations Specialist | [Perk](https://perk.com) | — | Jun 11 | [Apply](https://jobs.ashbyhq.com/perk/8d099fe3-f5b7-48f3-9370-216e132a1e94) |
 | Senior Inventory Operations Specialist | [Perk](https://perk.com) | — | Jun 11 | [Apply](https://jobs.ashbyhq.com/perk/b5fd2d5d-b734-4e13-a2b6-7e0532d1526a) |
+| Customer Operations Intern | [INFINIT](https://infinit.com) | — | Jun 11 | [Apply](https://jobs.lever.co/infinit/6d99ad1b-d350-487d-80b2-6989590bce7b) |
+| Franchise Manager   | [takealot.com](https://takealot.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/takealotcom/jobs/7992229) |
 | Lead, Merchant KYC Support | [Moniepoint](https://moniepoint.com) | — | Jun 11 | [Apply](https://job-boards.eu.greenhouse.io/moniepoint/jobs/4871261101) |
 | Operations Leadership, Financial Crime (Multilingual)  | [Monzo](https://monzo.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7996449) |
 | Senior Investigator, Operations Analyst, Financial Crime (Multilingual)  | [Monzo](https://monzo.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7996433) |

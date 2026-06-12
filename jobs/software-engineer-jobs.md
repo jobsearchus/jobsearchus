@@ -2,12 +2,16 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**1696 open roles** — Last updated: 2026-06-11
+**1705 open roles** — Last updated: 2026-06-12
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Sr. Professional Services Specialist | [Illumio](https://illumio.com) | — | Jun 11 | [Apply](https://jobs.ashbyhq.com/illumio/d013e299-888f-4eea-8fdb-964341240b8c) |
+| Integration Technician II, Stage Integration, Second Shift | [Relativity Space](https://relativityspace.com) | — | Jun 11 | [Apply](https://boards.greenhouse.io/relativity/jobs/8588738002?gh_jid=8588738002) |
+| Integration Technician II, Thrust Structure, Second Shift | [Relativity Space](https://relativityspace.com) | — | Jun 11 | [Apply](https://boards.greenhouse.io/relativity/jobs/8588702002?gh_jid=8588702002) |
+| Senior Windows Systems Administrator  | [Black Canyon Consulting](https://blackcanyonconsulting.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/blackcanyonconsulting/jobs/7767074003) |
 | Manager, Engineering, Secure Build | [Docker](https://docker.com) | — | Jun 11 | [Apply](https://jobs.ashbyhq.com/docker/a6eb0b73-d10e-4d2c-8f94-173f5584bef8) |
 | Technical Cofounder | [Superset](https://superset.sh) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/superset/jobs/5255447008) |
 | Director, Growth Creative | [Nourish](https://usenourish.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/usenourish/jobs/5255395008) |
@@ -18,8 +22,10 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Software Engineer - Database Engine | [SingleStore](https://singlestore.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/singlestore/jobs/8000966) |
 | Project Controls Manager | [Mariana Minerals](https://marianaminerals.com) | — | Jun 11 | [Apply](https://jobs.ashbyhq.com/marianaminerals/7f497f17-366d-4b59-b887-f3b57302ae61) |
 | Senior Scientist, Biology | [Flagship Pioneering, Inc.](https://flagshippioneering.com) | — | Jun 11 | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8587024002?gh_jid=8587024002) |
+| Senior Network Engineer | [Cloudflare](https://cloudflare.com) | — | Jun 11 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7992903?gh_jid=7992903) |
 | Commissioning Engineer | [Genpak LLC](https://genpak-llc-2) | — | Jun 11 | [Apply](https://job-boards.eu.greenhouse.io/lotusworks/jobs/4878826101) |
 | Senior Manager, Analytics | [Rovio](https://rovio.com) | — | Jun 11 | [Apply](https://jobs.lever.co/rovio-2/49ebf965-1908-44eb-acee-7e14ac92bf5f) |
+| AI Senior Solutions Architect, Global Advanced Services - UK/US | [Pure Storage](https://purestorage.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/7981839) |
 | Management Consultant - Data Engineering | [Baringa](https://baringa.com) | — | Jun 11 | [Apply](https://job-boards.eu.greenhouse.io/baringa/jobs/4895138101) |
 | Junior Sous-Chef H/F R&D - PICLAB | [Relais & Châteaux](https://relaischateaux.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000131638458) |
 | Customer Insight Analyst | [Monzo](https://monzo.com) | £33K–£45K/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7997156) |
@@ -61,6 +67,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Data Engineer (GCP) | [Applaudo](https://applaudo.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/ApplaudoStudios/postings/744000131496325) |
 | Manager, Propulsion Analysis | [Relativity Space](https://relativityspace.com) | — | Jun 10 | [Apply](https://boards.greenhouse.io/relativity/jobs/8586032002?gh_jid=8586032002) |
 | Senior Software Engineer, Cloud Service Engineering | [Box](https://box.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/boxinc/jobs/7962284) |
+| Software Engineer III, Cloud Service Engineering | [Box](https://box.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/boxinc/jobs/7962286) |
 | GTM Engineer | [Peek](https://peek.com) | — | Jun 10 | [Apply](https://jobs.ashbyhq.com/peek/600e8961-ed9b-465d-a255-823ef9882025) |
 | Solutions Architect (Pre-Sales) | [Blue](https://heyblue.com) | — | Jun 10 | [Apply](https://jobs.lever.co/blue/639d784c-c45c-48c6-8636-cacfec1d2d3c) |
 | Mechanical Commissioning  Technician   | [Genpak LLC](https://genpak-llc-2) | — | Jun 10 | [Apply](https://job-boards.eu.greenhouse.io/lotusworks/jobs/4882533101) |
@@ -86,6 +93,8 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Senior Service Delivery Manager | [NCS](https://ncs.co) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001144152) |
 | Director of Client Engineering | [Tide](https://tide.com) | €90K–€127K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/tide/jobs/7768101003) |
 | Measurement Lead  | [Genpak LLC](https://genpak-llc-2) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/brandtechplus/jobs/7898606) |
+| Senior Adobe Application Consultant | [VML MAP](https://vml-map.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/map/jobs/8585235002) |
+| Senior Adobe Application Consultant | [VML MAP](https://vml-map.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/map/jobs/8585232002) |
 | Technical Principal | [Referrals Only](https://thoughtworks.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7992089) |
 | Wind Turbine Blade Engineer | [Intersect Labs](https://intersectlabs.io) | — | Jun 10 | [Apply](https://jobs.lever.co/intersect/90c87430-c8ff-4bba-bc57-ee9d9f923cfe) |
 | Software Engineer II | [The Trade Desk](https://thetradedesk.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5159472007) |

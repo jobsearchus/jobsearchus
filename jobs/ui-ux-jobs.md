@@ -2,7 +2,7 @@
 
 UX design, UI design, and product design roles. Figma, research, and end-to-end product work.
 
-**153 open roles** — Last updated: 2026-06-11
+**153 open roles** — Last updated: 2026-06-12
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 

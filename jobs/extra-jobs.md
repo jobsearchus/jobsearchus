@@ -2,12 +2,13 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**1177 open roles** — Last updated: 2026-06-11
+**1178 open roles** — Last updated: 2026-06-12
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| General Manager (Live In ) | [Greene King](https://greeneking.co.uk) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/GreeneKing/postings/744000131737135) |
 | Bartender - Electric House, West London | [Soho House](https://sohohouse.com) | — | Jun 11 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4895314101) |
 | SweatHouz- Studio Manager, Pasadena | [Momentic](https://momentic.ai) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/momentic/jobs/5255211008) |
 | COMMIS DE CUISINE CONFIRME F/H/X - CDI | [ACCOR](https://group.accor.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000131714529) |

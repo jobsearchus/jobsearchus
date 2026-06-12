@@ -2,7 +2,7 @@
 
 Project and program management roles across tech, operations, and enterprise.
 
-**116 open roles** — Last updated: 2026-06-11
+**116 open roles** — Last updated: 2026-06-12
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 

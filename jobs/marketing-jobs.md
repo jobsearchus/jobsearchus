@@ -2,20 +2,24 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**395 open roles** — Last updated: 2026-06-11
+**399 open roles** — Last updated: 2026-06-12
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | Senior Marketing Operations Manager | [SmartAsset](https://smartasset.com) | $150K–$175K/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/smartasset/jobs/8588751002) |
+| Manager, Brand Marketing - Healthcare & Pharma | [The Trade Desk](https://thetradedesk.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5158015007) |
 | Student Social Media & Content Creation | [Poppy](https://meetpoppy.com) | — | Jun 11 | [Apply](https://jobs.poppy.be/o/student-social-media-content-creation/c/new) |
 | Stage communication et community management (H/F) | [ACCOR](https://group.accor.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000131711174) |
+| Programmatic Account Manager | [The Trade Desk](https://thetradedesk.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5160957007) |
 | Tech Recruiter | [Clear Gene](https://cleargene.com) | $140K–$170K/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/clear/jobs/8000893) |
 | Account Manager, Media Solutions | [The Knot Worldwide](https://theknotworldwide.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/theknotworldwide/jobs/5251439008) |
 | Praktikant/Werkstudent (w/m/d) Global Relations/ Internal Communications | [Drees & Sommer](https://dreso.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000131657540) |
+| Ads & Promos Specialist | [Wolt](https://wolt.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/8000205) |
 | Werkstudent (w/m/d) Innovations- und Branchenkommunikation | [Drees & Sommer](https://dreso.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000131647002) |
 | Director, Brand Management(Kitchen) [L7-I] | [Coupang](https://coupang.com) | — | Jun 11 | [Apply](https://boards.greenhouse.io/coupanginternal/jobs/7952176?gh_jid=7952176) |
+| Performance Media Manager | [Genpak LLC](https://genpak-llc-2) | — | Jun 11 | [Apply](https://job-boards.eu.greenhouse.io/valtech/jobs/4894213101) |
 | Marketing Co-Op Intern (Fall 2026) | [Suger](https://suger.io) | — | Jun 11 | [Apply](https://jobs.lever.co/suger/01ca6e25-f724-442a-8502-c830e90aabbf) |
 | Partner Marketing Manager | [Patch My PC](https://patchmypc.com) | — | Jun 10 | [Apply](https://jobs.lever.co/patchmypc/7cbe8fe4-153a-47c4-adb8-469cd0b8192f) |
 | Communications Specialist | [Continental](https://continentalserves.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000131534108) |

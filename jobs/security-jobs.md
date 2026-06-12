@@ -2,12 +2,13 @@
 
 Remote cybersecurity, information security, and security engineering roles.
 
-**121 open roles** — Last updated: 2026-06-11
+**122 open roles** — Last updated: 2026-06-12
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior IAM Architect | [Ping Identity](https://pingidentity.com) | $137K–$180K/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/pingidentity/jobs/8582934002) |
 | WebApp Offensive Security Engineer | [Horizon3.ai](https://horizon3ai.com) | $196K–$242K/yr | Jun 11 | [Apply](https://jobs.ashbyhq.com/horizon3ai/169d3dde-b8e7-4545-a5a4-cd5cc882c101) |
 | Staff Attack Engineer, OCI | [Horizon3.ai](https://horizon3ai.com) | $247K–$275K/yr | Jun 11 | [Apply](https://jobs.ashbyhq.com/horizon3ai/36eedee8-946c-442e-bffd-b2ad2e638cb3) |
 | GRC Analyst | [Mesh](https://usemesh.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/mesh/jobs/5254432008) |

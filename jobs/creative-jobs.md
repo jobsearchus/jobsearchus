@@ -2,13 +2,16 @@
 
 Remote creative roles — copywriters, content creators, graphic designers, and brand specialists.
 
-**89 open roles** — Last updated: 2026-06-11
+**92 open roles** — Last updated: 2026-06-12
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | Provider Partnerships Associate (Territory Manager) | [Nourish](https://usenourish.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/usenourish/jobs/5252241008) |
+| Associate Director, Creative Strategy, Brand Partnerships | [Fever](https://feverup.com) | $120K–$140K/yr | Jun 11 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4895639101) |
+| Associate Event Producer | [Fever](https://feverup.com) | — | Jun 11 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4895579101) |
+| Associate Event Producer | [Fever](https://feverup.com) | — | Jun 11 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4895546101) |
 | Editor, Strategic Verticals - CNBC | [Versant](https://versant.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Versant3/postings/744000131521674) |
 | Interim, Senior Art Director | [e.l.f. Beauty](https://elfbeauty.com) | — | Jun 9 | [Apply](https://jobs.lever.co/elfbeauty/1f670c97-9246-4c62-80b1-5950a9da8416) |
 | Junior Creative Marketing Specialist (TikTok) | [Holywater](https://holywater.com) | — | Jun 6 | [Apply](https://jobs.ashbyhq.com/holywater/918f740a-1f3a-4aae-a118-dc4b58fc0f5f) |

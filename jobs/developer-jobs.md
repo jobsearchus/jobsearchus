@@ -2,7 +2,7 @@
 
 General developer and programmer roles that did not fit a more specific category.
 
-**117 open roles** — Last updated: 2026-06-11
+**117 open roles** — Last updated: 2026-06-12
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 

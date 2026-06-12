@@ -2,25 +2,35 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**1055 open roles** — Last updated: 2026-06-11
+**1067 open roles** — Last updated: 2026-06-12
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | Senior Manager, Sales Development | [Procurify](https://procurify.com) | $126K–$144K/yr | Jun 11 | [Apply](https://jobs.ashbyhq.com/procurify/78125681-3d2a-4af8-86d4-316c97077ee2) |
+| Sales Assistant 21 h - Categoria protetta L.68/99 - Benevento  | [JYSK](https://jysk.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000131740850) |
+| Sales Assistant 21 h - Categoria protetta L.68/99 - Potenza | [JYSK](https://jysk.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000131740566) |
 | Senior Salesforce Administrator, Sales Operations | [PowerX](https://powerx.co) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/powerx/jobs/4283920009) |
 | Senior Manufacturing Engineer (Arc Vehicle) | [Inversion Space](https://inversionspace.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/inversionspace/jobs/4705085005) |
 | Sales Engineer | [Valon](https://valon.com) | — | Jun 11 | [Apply](https://jobs.ashbyhq.com/valon/7803a34d-471f-4935-bcea-f54b34a3ce95) |
 | Enterprise Account Executive | [SingleStore](https://singlestore.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/singlestore/jobs/7983245) |
+| Customer Success Executive | [Ping Identity](https://pingidentity.com) | $131K–$142K/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/pingidentity/jobs/8582959002) |
+| Pre-Sales Director | [D-Fend Solutions](https://d-fendsolutions.com) | — | Jun 11 | [Apply](https://jobs.lever.co/d-fendsolutions/1252ab08-3770-4bc9-a9d2-114f6e3eba35) |
+| Sales Assistant (Categorie Protette) - Ferrara C.C. "Castello"  | [JD Sports](https://jdsports.com) | — | Jun 11 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4895805101) |
+| Licensed Veterinary Technician - LVT | [Veritas Veterinary Partners](https://veritasveterinarypartners.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/veritasvetpartners/jobs/5255222008) |
 | Enterprise Account Executive - Southeast | [MariaDB](https://mariadb.com) | — | Jun 11 | [Apply](https://job-boards.eu.greenhouse.io/mariadbplc/jobs/4876690101) |
+|  Business Development Representative (BDR), LATAM Spanish Speaking | [Cloudflare](https://cloudflare.com) | — | Jun 11 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7991345?gh_jid=7991345) |
 | Senior Sales Manager - Government and Corporate | [ACCOR](https://group.accor.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000131710162) |
 | Account Manager Marketplace externe (H/F) - CDD | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000131706749) |
 | VENDEUR CONSEIL - CDI TEMPS PARTIEL H/F 9H, 10H ou 15H | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000131701735) |
 | Associate Account Executive | [Emburse](https://emburse.com) | — | Jun 11 | [Apply](https://jobs.lever.co/emburse/6affa02c-1342-43de-9b2b-91be861c52a6) |
+| Account Execuive | [WPP Media](https://wppmedia.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5254826008) |
+| Assistant Manager - New Opening Parma C.C. "Promenade" | [JD Sports](https://jdsports.com) | — | Jun 11 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4895680101) |
 | Educational Sales Representative (Work from Home) | [Nerdy](https://nerdy.com) | $20/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/nerdy/jobs/8000791) |
 | Educational Sales Representative (Work from Home) | [Nerdy](https://nerdy.com) | $20/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/nerdy/jobs/8000787) |
 |  Educational Sales Representative (Work from Home) | [Nerdy](https://nerdy.com) | $20/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/nerdy/jobs/8000792) |
+| Sales assistant Categorie Protette - Molfetta C.C. " Gran Shopping Mongolfiera" | [JD Sports](https://jdsports.com) | — | Jun 11 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4895623101) |
 | Tasador/a Administrativo/a Automoción - El Manar | [AUTO1 Group](https://auto1-group.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000131684599) |
 | Associate Account Executive, UKI | [Veeam Software](https://veeam.com) | — | Jun 11 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4888861101) |
 | Senior Area Sales Specialist - Loan Against Securities | [Tide](https://tide.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/tide/jobs/7747896003) |
@@ -28,6 +38,8 @@ Remote sales roles — account executives, SDRs, and enterprise deals.
 | INTERMARCHE - EMPLOYE COMMERCIAL (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000131674694) |
 | CDI - VENDEUR ALIMENTAIRE FROMAGE (H/F) - 36H45 | [Genpak LLC](https://genpak-llc-2) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000131671508) |
 | Commercial Automobile BtoB (H/F) | [AUTO1 Group](https://auto1-group.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000131664196) |
+| Account Executive, Enterprise (Netherlands) | [Pure Storage](https://purestorage.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/7988683) |
+| Enterprise Key Account Manager | [Wolt](https://wolt.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/wolt/jobs/7984616) |
 | Senior Sales Executive - Big 5 Global | [dmg events](https://dmgevents.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/dmgevents/jobs/8000181) |
 | Executive Territory Manager | [Syngenta](https://syngenta.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000131612299) |
 | Sales- en accountmanager | [CB Therapeutics](https://cbthera.com) | — | Jun 11 | [Apply](https://cb.recruitee.com/o/sales-en-accountmanager-1/c/new) |

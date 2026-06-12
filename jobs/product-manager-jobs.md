@@ -2,7 +2,7 @@
 
 Product manager roles at companies building real products. Sourced directly from career pages.
 
-**192 open roles** — Last updated: 2026-06-11
+**194 open roles** — Last updated: 2026-06-12
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -19,10 +19,12 @@ Product manager roles at companies building real products. Sourced directly from
 | Product Owner Sênior | [Experian](https://experianplc.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000131528611) |
 | Product Director, Multimodal, News Product | [The New York Times](https://thenewyorktimes.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4704752005) |
 | Alternance - Chef de Produit et Acheteur E-commerce F/H/X | [BUT](https://but.fr) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000131517384) |
+| Principal Product Manager-Agentic SecOps | [Zscaler](https://zscaler.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5156086007) |
 | Director, Product Management | [Twilio](https://twilio.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7966926) |
 | Inspector de Control de Calidad | [Syngenta](https://syngenta.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000131476982) |
 | Director, Product Management, Customer Security Outcomes | [Zscaler](https://zscaler.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5149191007) |
 | Lead Product Manager, Data Sources | [Truv](https://truv.com) | — | Jun 10 | [Apply](https://jobs.lever.co/truv/8e04c5ba-c4be-406d-b8eb-dad5bcd62112) |
+| Principal Product Manager | [Zscaler](https://zscaler.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5156003007) |
 | Product Analyst | [Box](https://box.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/boxinc/jobs/7964508) |
 | Product Management Intern, End User Experience - Fall 2026 | [1Password](https://1password.com) | — | Jun 9 | [Apply](https://jobs.ashbyhq.com/1password/f80c256e-8768-4b39-af2d-5e81290b43c7) |
 | Sr Director, Product Management - VenturaOS | [The Trade Desk](https://thetradedesk.com) | — | Jun 9 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5159651007) |

@@ -2,13 +2,14 @@
 
 DevOps, platform engineering, and infrastructure roles. AWS, GCP, Kubernetes, Terraform.
 
-**101 open roles** — Last updated: 2026-06-11
+**102 open roles** — Last updated: 2026-06-12
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | Senior Manager, IT Infrastructure & Vendor Management | [Standard Bank](https://standardbank.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000131684539) |
+| Working Student IT Support (all genders) - Cloud & Platform Engineering | [MOIA](https://moia.io) | — | Jun 11 | [Apply](https://job-boards.eu.greenhouse.io/moia/jobs/4894993101) |
 | DevOps Engineer- Securiti.ai | [Veeam Software](https://veeam.com) | — | Jun 11 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4856103101) |
 | Senior DevOps Engineer | [WPP](https://wpp.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/wpp/jobs/8569092002) |
 | DevOps Engineer | [WPP](https://wpp.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/wpp/jobs/8569147002) |
