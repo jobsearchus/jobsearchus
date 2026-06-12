@@ -2,12 +2,13 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**1746 open roles** — Last updated: 2026-06-12
+**1752 open roles** — Last updated: 2026-06-12
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Performance Testing Lead | [Kunai](https://kunai.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/kunai/jobs/5162285007) |
 | Electrical Technician (Illinois) | [Continental](https://continentalserves.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000131938262) |
 | Electrical Engineer | [Egis](https://egis-group.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000131937710) |
 | Senior Electrical Engineer | [Egis](https://egis-group.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000131937189) |
@@ -16,12 +17,17 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Senior Software Engineer - Python | [Experian](https://experianplc.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000131923479) |
 | Junior System Integration Engineer              | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $75K–$80K/yr | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000131919005) |
 | Naval Architect | [Anglo American](https://angloamerican.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000131904219) |
+| Développeur IOT H/F | [Inetum](https://inetum.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000131888492) |
+| Bid Manager IT (w/m/d)  | [Drees & Sommer](https://dreso.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000131878405) |
 | ServiceNow Engineer | [Netcompany](https://netcompany.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000131867051) |
 | Staff Engineer, 5G, ,C++, Linux | [Nagarro](https://nagarro.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000131857356) |
+| Supervisor Mechanical & Electrical - Pumping Stations | [BESIX](https://besix.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000131860886) |
+| Electrician & Mechanic O&M Pumping stations | [BESIX](https://besix.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000131859087) |
 | Data Engineering Manager | [Aleph Lab](https://alephlab.ai) | — | Jun 12 | [Apply](https://jobs.lever.co/aleph/f9da282c-cb99-4604-ae96-71f960b4c958) |
 | Principal Engineer, 5G, Jenkins | [Nagarro](https://nagarro.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000131851529) |
 | Cloud Operations Manager (Azure) | [Netcompany](https://netcompany.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000131842165) |
 | Functional Testing Engineer, Video Intelligence  | [NCS](https://ncs.co) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001151613) |
+| Associate Mechanical Engineer (F/M/D) | [NavVis](https://navvis.com) | — | Jun 12 | [Apply](https://job-boards.eu.greenhouse.io/navvis/jobs/4872149101) |
 | Sr Integration Engineer (Hybrid) | [Smartsheet](https://smartsheet.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/smartsheet/jobs/8002307) |
 | Associate Principal Engineer | [Saviynt](https://saviynt.com) | — | Jun 12 | [Apply](https://jobs.lever.co/saviynt/fe33f98f-6db1-467f-a41f-62513b09c6dd) |
 | Data Analyst | [Alpaca](https://alpaca.markets) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/alpaca/jobs/6020810004) |

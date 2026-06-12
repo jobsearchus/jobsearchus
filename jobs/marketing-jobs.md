@@ -2,12 +2,15 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**405 open roles** — Last updated: 2026-06-12
+**408 open roles** — Last updated: 2026-06-12
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Lifecycle Marketing Manager (B2C) Hybrid | [Weedmaps](https://weedmaps.com) | $125K–$136K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/weedmaps77/jobs/8590187002) |
+| Organic Search Manager | [Kapitus](https://kapitus.com) | $63K–$101K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/kapitus/jobs/4280827009) |
+| Lead Brand Marketing Coordinator | [Kapitus](https://kapitus.com) | $69K–$110K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/kapitus/jobs/4281669009) |
 | Zelfstandig Werkend Kok | [Escape](https://escape.tech) | — | Jun 12 | [Apply](https://jobs.escape.nl/o/zelfstandig-werkend-kok-27/c/new) |
 | Sales Content & Influence - Apprenticeship  (All genders) | [Dailymotion](https://dailymotion.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Dailymotion/postings/744000131827539) |
 | Growth Marketing Manager, Agent Stack  | [Vercel](https://vercel.com) | $176K–$220K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/vercel/jobs/6016765004) |

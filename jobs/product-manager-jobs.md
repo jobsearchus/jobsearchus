@@ -2,7 +2,7 @@
 
 Product manager roles at companies building real products. Sourced directly from career pages.
 
-**201 open roles** — Last updated: 2026-06-12
+**202 open roles** — Last updated: 2026-06-12
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -10,6 +10,7 @@ Product manager roles at companies building real products. Sourced directly from
 | --- | --- | --- | --- | --- |
 | Product Manager, Digital Advertising Capabilities (Supply & Demand Quality) | [NBCUniversal](https://nbcuniversal.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000131929699) |
 | Director, Pricing & Packaging | [Freshworks](https://freshworks.com) | $207K–$256K/yr | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000131923901) |
+| Product Manager - AML | [Oscilar](https://oscilar.com) | — | Jun 12 | [Apply](https://jobs.ashbyhq.com/oscilar/24233649-65d0-406d-b915-996ad7b025f7) |
 | Senior Product Manager, Accessibility | [Box](https://box.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/boxinc/jobs/8001259) |
 | Principal Product Manager (United States) | [Karat Financial](https://trykarat.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/karat/jobs/8589263002) |
 | Senior Program Manager | [Customer.io](https://customer.io) | $156K–$175K/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/customerio/jobs/7991850) |

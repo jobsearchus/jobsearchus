@@ -2,12 +2,14 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**752 open roles** — Last updated: 2026-06-12
+**754 open roles** — Last updated: 2026-06-12
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Lifecycle Marketing Manager (B2C) Hybrid | [Weedmaps](https://weedmaps.com) | $125K–$136K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/weedmaps77/jobs/8590187002) |
+| Construction Project Manager (Federal & Grant-Funded Projects) | [KPFF Consulting Engineers](https://kpff.com) | $100K–$150K/yr | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/KPFFConsultingEngineers/postings/3743990013604596) |
 | Sr Manager, IAM Authentication | [NBCUniversal](https://nbcuniversal.com) | $175K–$210K/yr | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000131930690) |
 | Director, Pricing & Packaging | [Freshworks](https://freshworks.com) | $207K–$256K/yr | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000131923901) |
 | Head of Prudential Risk | [Monzo](https://monzo.com) | £121K–£140K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/8000900) |

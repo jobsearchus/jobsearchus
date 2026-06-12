@@ -2,14 +2,16 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**525 open roles** — Last updated: 2026-06-12
+**527 open roles** — Last updated: 2026-06-12
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Global Billing Coordinator | [Envoy Global](https://envoyglobal.com) | £35K–£45K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/envoyglobalinc/jobs/6008703004) |
 | Head of Prudential Risk | [Monzo](https://monzo.com) | £121K–£140K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/8000900) |
 | International Public Policy, Senior Manager  | [Monzo](https://monzo.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/8000142) |
+| Specialist, Trade Control | [Standard Bank](https://standardbank.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000131857669) |
 | Senior Director, Economic Insights | [Life360](https://life360.com) | $215K–$315K/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/life360/jobs/8589091002) |
 | Senior Operations Accountant | [Crusoe](https://crusoe.com) | $85K–$105K/yr | Jun 11 | [Apply](https://jobs.ashbyhq.com/crusoe/99cb947f-2639-4d2f-bfdb-0c9a4b10213d) |
 | FP&A Manager | [SandboxAQ](https://sandboxaq.com) | — | Jun 11 | [Apply](https://jobs.ashbyhq.com/sandboxaq/0dab4768-33a1-4cdf-848e-ce6d3c13e3b4) |

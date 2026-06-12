@@ -2,13 +2,20 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**1205 open roles** — Last updated: 2026-06-12
+**1212 open roles** — Last updated: 2026-06-12
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Store Representative - Days (PT) | [Serv-U-Success](https://servusuccess.com) | $16/yr | Jun 12 | [Apply](https://jobs.lever.co/serv-u-success/20493be8-6557-40b1-ba51-ff9d9f3954d5) |
+| Préposé.e au bar, saisonnier (H/F/D) | [ACCOR](https://group.accor.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000131975083) |
+| Store Merchandiser - Day shift (Full Time) | [Serv-U-Success](https://servusuccess.com) | $16/yr | Jun 12 | [Apply](https://jobs.lever.co/serv-u-success/276c4092-3638-4f2f-91d5-12bb91fb5992) |
+| Dental Hygienist Therapist | [PortmanDentex](https://portmandentex.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000131938469) |
+| Dentist | [PortmanDentex](https://portmandentex.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000131919993) |
+| Domino's General Manager (08974) | [Domino's](https://dominos.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131907295) |
 | Domino's Delivery Driver (08892) | [Domino's](https://dominos.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131910959) |
+| Praktikant (w/m/d) Distressed Real Estate | [Drees & Sommer](https://dreso.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000131899309) |
 | Comptable - (H/F) | [Ixora](https://ixora.org) | — | Jun 12 | [Apply](https://emploi.ixora-conseil.fr/o/comptable-hf-5/c/new) |
 | Réceptionniste en hôtellerie CDD possible CDI | [Genpak LLC](https://genpak-llc-2) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000131858389) |
 | On-Site Certified Medical Assistant - Detroit, MI | [Medsien](https://medsien.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/medsien/jobs/5162912007) |

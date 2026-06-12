@@ -2,12 +2,14 @@
 
 QA, test automation, and SDET roles. Manual and automated testing across all stacks.
 
-**54 open roles** — Last updated: 2026-06-12
+**56 open roles** — Last updated: 2026-06-12
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Performance Test Engineer | [Kunai](https://kunai.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/kunai/jobs/5162305007) |
+| Senior Automation Engineer | [SmithRx](https://smithrx.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/smithrx/jobs/8586259002) |
 | Manufacturing Test Engineer II, Pneumatic Mechanisms & Fluid Assemblies | [Relativity Space](https://relativityspace.com) | — | Jun 11 | [Apply](https://boards.greenhouse.io/relativity/jobs/8588815002?gh_jid=8588815002) |
 | Senior Staff Automation Engineer | [SmithRx](https://smithrx.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/smithrx/jobs/8582583002) |
 | Test Engineer II (Arc Vehicle) | [Inversion Space](https://inversionspace.com) | $106K–$150K/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/inversionspace/jobs/4705145005) |

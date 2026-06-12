@@ -2,15 +2,19 @@
 
 Remote jobs open to candidates with 0–2 years of experience. A real way in — no degree gatekeeping.
 
-**1190 open roles** — Last updated: 2026-06-12
+**1194 open roles** — Last updated: 2026-06-12
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Vendeur charcuterie-traiteur (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000131941350) |
 | Junior System Integration Engineer              | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $75K–$80K/yr | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000131919005) |
 | Painter - Morris Inn & McKenna Conference Center | [University of Notre Dame](https://universityofnotredame.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013598426) |
+| Domino's Customer Service Rep (08892) | [Domino's](https://dominos.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131911319) |
 | Customer Service Rep(04163) - 10955 Jones Bridge Rd | [Domino's](https://dominos.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131902099) |
+| Sales Specialist - Upsell | [Aura](https://aura.com) | $55K–$80K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/aura798/jobs/6017424004) |
+| Junior Business Partner, People & Culture, Personal & Private Banking | [Standard Bank](https://standardbank.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000131890389) |
 | ServiceNow Engineer | [Netcompany](https://netcompany.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000131867051) |
 | Junior SAP Developer - Consultant  | [Netcompany](https://netcompany.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000131863545) |
 | Réceptionniste en hôtellerie CDD possible CDI | [Genpak LLC](https://genpak-llc-2) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000131858389) |

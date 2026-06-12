@@ -2,12 +2,16 @@
 
 Remote HR, recruiting, and people operations roles.
 
-**213 open roles** — Last updated: 2026-06-12
+**217 open roles** — Last updated: 2026-06-12
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Assistant Director, People & Culture | [ACCOR](https://group.accor.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000131975660) |
+| Human Resources Operations Specialist | [AlertMedia](https://alertmedia.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/alertmedia/jobs/8588928002) |
+| HR Business Partner, Purchasing (d/m/w) | [AUTO1 Group](https://auto1-group.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000131900466) |
+| Junior Business Partner, People & Culture, Personal & Private Banking | [Standard Bank](https://standardbank.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000131890389) |
 | Recruitment Researcher Intern | [Miratech](https://miratech.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000131826730) |
 | Recruitment Researcher Intern | [Miratech](https://miratech.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000131824580) |
 | Recruitment Researcher Intern | [Miratech](https://miratech.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000131826008) |
