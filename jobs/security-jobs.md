@@ -2,15 +2,18 @@
 
 Remote cybersecurity, information security, and security engineering roles.
 
-**122 open roles** — Last updated: 2026-06-12
+**125 open roles** — Last updated: 2026-06-12
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Sr. Security Engineer - GRC | [6sense](https://6sense.com) | — | Jun 12 | [Apply](https://boards.greenhouse.io/6sense/jobs/7984436?gh_jid=7984436) |
+| Manager, Security Operations (Remote) | [Rula](https://rula.com) | — | Jun 12 | [Apply](https://jobs.ashbyhq.com/rula/c566a3b5-96bd-4fd4-855b-92872a888f9e) |
 | Senior IAM Architect | [Ping Identity](https://pingidentity.com) | $137K–$180K/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/pingidentity/jobs/8582934002) |
 | WebApp Offensive Security Engineer | [Horizon3.ai](https://horizon3ai.com) | $196K–$242K/yr | Jun 11 | [Apply](https://jobs.ashbyhq.com/horizon3ai/169d3dde-b8e7-4545-a5a4-cd5cc882c101) |
 | Staff Attack Engineer, OCI | [Horizon3.ai](https://horizon3ai.com) | $247K–$275K/yr | Jun 11 | [Apply](https://jobs.ashbyhq.com/horizon3ai/36eedee8-946c-442e-bffd-b2ad2e638cb3) |
+|  Security Awareness Specialist | [WPP](https://wpp.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/wpp/jobs/8580483002) |
 | GRC Analyst | [Mesh](https://usemesh.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/mesh/jobs/5254432008) |
 | GRC Analyst | [Mesh](https://usemesh.com) | $130K–$175K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/mesh/jobs/5254431008) |
 | Senior Cyber Defense Analyst | [Genpak LLC](https://genpak-llc-2) | $110K–$149K/yr | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/SOSi1/postings/3743990013569596) |

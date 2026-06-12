@@ -2,12 +2,16 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**400 open roles** — Last updated: 2026-06-12
+**404 open roles** — Last updated: 2026-06-12
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Zelfstandig Werkend Kok | [Escape](https://escape.tech) | — | Jun 12 | [Apply](https://jobs.escape.nl/o/zelfstandig-werkend-kok-27/c/new) |
+| Growth Marketing Manager, Agent Stack  | [Vercel](https://vercel.com) | $176K–$220K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/vercel/jobs/6016765004) |
+| Brand Strategist Sr | [Genpak LLC](https://genpak-llc-2) | — | Jun 11 | [Apply](https://job-boards.eu.greenhouse.io/valtech/jobs/4895901101) |
+| Brand Strategist Senior | [Genpak LLC](https://genpak-llc-2) | — | Jun 11 | [Apply](https://job-boards.eu.greenhouse.io/valtech/jobs/4895903101) |
 | Senior Marketing Operations Manager | [SmartAsset](https://smartasset.com) | $150K–$175K/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/smartasset/jobs/8588751002) |
 | Manager, Brand Marketing - Healthcare & Pharma | [The Trade Desk](https://thetradedesk.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5158015007) |
 | Student Social Media & Content Creation | [Poppy](https://meetpoppy.com) | — | Jun 11 | [Apply](https://jobs.poppy.be/o/student-social-media-content-creation/c/new) |

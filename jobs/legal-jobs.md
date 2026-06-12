@@ -2,12 +2,13 @@
 
 Remote legal, compliance, and counsel roles.
 
-**103 open roles** — Last updated: 2026-06-12
+**104 open roles** — Last updated: 2026-06-12
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Crypto Product Compliance Lead | [Robinhood](https://robinhood.com) | — | Jun 11 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7976919?t=gh_src=&gh_jid=7976919) |
 | Risk Specialist | [WPP](https://wpp.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/wpp/jobs/8580426002) |
 | Director of Legal & Regulatory Affairs, APAC | [Mesh](https://usemesh.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/mesh/jobs/5254371008) |
 | Legal Assistant | [Customer.io](https://customer.io) | $78K–$89K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/customerio/jobs/7992941) |

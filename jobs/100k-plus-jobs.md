@@ -2,16 +2,29 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**737 open roles** — Last updated: 2026-06-12
+**750 open roles** — Last updated: 2026-06-12
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Head of Prudential Risk | [Monzo](https://monzo.com) | £121K–£140K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/8000900) |
+| Growth Marketing Manager, Agent Stack  | [Vercel](https://vercel.com) | $176K–$220K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/vercel/jobs/6016765004) |
+| Global Alliance Lead, Microsoft  | [dbt Labs](https://getdbt.com) | $280K–$339K/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/dbtlabsinc/jobs/4705022005) |
+| Principal Developer Advocate, AI | [Temporal](https://temporal.io) | $260K–$325K/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/temporaltechnologies/jobs/4947867007) |
+| Principal Software Engineer - Agentic Platform | [Flagship Pioneering, Inc.](https://flagshippioneering.com) | $188K–$258K/yr | Jun 11 | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8584555002?gh_jid=8584555002) |
+| Senior Director, Economic Insights | [Life360](https://life360.com) | $215K–$315K/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/life360/jobs/8589091002) |
+| Lead Technical Writer | [Stratolaunch](https://stratolaunch.com) | $120K–$155K/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/stratolaunch/jobs/5255814008) |
+| Software Engineer II AI-Native, Backend Devices Cloud | [Life360](https://life360.com) | $118K–$162K/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/life360/jobs/8588939002) |
+| Senior Program Manager | [Customer.io](https://customer.io) | $156K–$175K/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/customerio/jobs/7991850) |
 | Senior IAM Architect | [Ping Identity](https://pingidentity.com) | $137K–$180K/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/pingidentity/jobs/8582934002) |
+| Staff Thermal Engineer  | [Inversion Space](https://inversionspace.com) | $161K–$221K/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/inversionspace/jobs/4705188005) |
 | Senior Manager, Sales Development | [Procurify](https://procurify.com) | $126K–$144K/yr | Jun 11 | [Apply](https://jobs.ashbyhq.com/procurify/78125681-3d2a-4af8-86d4-316c97077ee2) |
 | Senior Marketing Operations Manager | [SmartAsset](https://smartasset.com) | $150K–$175K/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/smartasset/jobs/8588751002) |
+| Test Engineer II (Arc Vehicle) | [Inversion Space](https://inversionspace.com) | $106K–$150K/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/inversionspace/jobs/4705145005) |
+| Growth Product Lead, Kids  | [ClassDojo](https://classdojo.com) | $215K–$250K/yr | Jun 11 | [Apply](https://jobs.ashbyhq.com/ClassDojo/c62deaa9-8253-49bf-90d7-b2cf875d9058) |
 | Senior Product Design Engineer | [Cortex](https://cortex.io) | $160K–$190K/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/cortex/jobs/5238549008) |
+| AI Research Scientist, Applied AI  | [Slingshot Aerospace](https://slingshotaerospace.com) | $120K–$170K/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/slingshotaerospace/jobs/6018955004?gh_jid=6018955004) |
 | HR Generalist, Facilities | [Grüns](https://gruns.co) | $100K–$120K/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/gruns/jobs/5255448008) |
 | WebApp Offensive Security Engineer | [Horizon3.ai](https://horizon3ai.com) | $196K–$242K/yr | Jun 11 | [Apply](https://jobs.ashbyhq.com/horizon3ai/169d3dde-b8e7-4545-a5a4-cd5cc882c101) |
 | RCM Solutions Lead | [SuperDial](https://superdial.com) | $100K–$150K/yr | Jun 11 | [Apply](https://jobs.ashbyhq.com/superdial/e097fb22-cee6-4954-9617-f9103cd4f5b3) |

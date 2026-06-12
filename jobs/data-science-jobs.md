@@ -2,13 +2,17 @@
 
 Data science, machine learning, and AI engineering roles. Python, SQL, PyTorch, and beyond.
 
-**122 open roles** — Last updated: 2026-06-12
+**126 open roles** — Last updated: 2026-06-12
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Staff Data & Machine Learning Engineer | [Boulevard](https://joinblvd.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/boulevard/jobs/4688729006) |
+| Data Scientist, Marketing | [Figma](https://figma.com) | — | Jun 11 | [Apply](https://boards.greenhouse.io/figma/jobs/6013303004?gh_jid=6013303004) |
+| Staff Machine Learning Systems Engineer, Embeddings Platform | [Reddit](https://reddit.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/8001642) |
 | [Job 29881]  Senior Machine Learning Engineer, Brazil | [CI&T](https://cit.com) | — | Jun 11 | [Apply](https://jobs.lever.co/ciandt/766d4c1c-860d-468c-8dcf-06799fb8aa86) |
+| Software Engineer II, Backend (ML Training & Serving) | [Affirm](https://affirm.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7762570003) |
 | Senior Machine Learning Engineer  - AI Effects and Editing | [Canva](https://canva.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/Canva/postings/6000000001146221) |
 | Staff Machine Learning Engineer  | [Mariana Minerals](https://marianaminerals.com) | — | Jun 10 | [Apply](https://jobs.ashbyhq.com/marianaminerals/f3f189d1-763d-4196-9ef9-5a7e7931e71b) |
 | Machine Learning Engineer  | [Mariana Minerals](https://marianaminerals.com) | — | Jun 10 | [Apply](https://jobs.ashbyhq.com/marianaminerals/44c92dd6-55f2-4e44-9360-bf4676466dac) |

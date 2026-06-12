@@ -2,12 +2,17 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**520 open roles** — Last updated: 2026-06-12
+**525 open roles** — Last updated: 2026-06-12
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Head of Prudential Risk | [Monzo](https://monzo.com) | £121K–£140K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/8000900) |
+| International Public Policy, Senior Manager  | [Monzo](https://monzo.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/8000142) |
+| Senior Director, Economic Insights | [Life360](https://life360.com) | $215K–$315K/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/life360/jobs/8589091002) |
+| Senior Operations Accountant | [Crusoe](https://crusoe.com) | $85K–$105K/yr | Jun 11 | [Apply](https://jobs.ashbyhq.com/crusoe/99cb947f-2639-4d2f-bfdb-0c9a4b10213d) |
+| FP&A Manager | [SandboxAQ](https://sandboxaq.com) | — | Jun 11 | [Apply](https://jobs.ashbyhq.com/sandboxaq/0dab4768-33a1-4cdf-848e-ce6d3c13e3b4) |
 | Staff Accountant II | [Ping Identity](https://pingidentity.com) | $68K–$80K/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/pingidentity/jobs/8577824002) |
 | Senior Financial Analyst, R&D Finance | [Twilio](https://twilio.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8001044) |
 | Expedition Medicines: Vice President, Finance | [Flagship Pioneering, Inc.](https://flagshippioneering.com) | $275K–$330K/yr | Jun 11 | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8587498002?gh_jid=8587498002) |

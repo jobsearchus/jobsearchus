@@ -2,18 +2,32 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**1070 open roles** — Last updated: 2026-06-12
+**1085 open roles** — Last updated: 2026-06-12
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Vice President Sales | [Yubico Inc.](https://yubico.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/yubico/jobs/4265173009) |
+| Business Development Representative | [G2](https://g2.com) | — | Jun 12 | [Apply](https://jobs.ashbyhq.com/g2/c4488906-c271-45b3-a658-b4699b16c0b4) |
+| VIP Account Manager | [Growe](https://growe.com) | — | Jun 12 | [Apply](https://job-boards.eu.greenhouse.io/growe/jobs/4871460101) |
+| Enterprise Account Executive  | [dbt Labs](https://getdbt.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/dbtlabsinc/jobs/4680855005) |
+|  Business Development Senior Associate | [Fever](https://feverup.com) | — | Jun 12 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4896211101) |
+| Account Executive New Business | [Twilio](https://twilio.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7984917) |
+| Enterprise Account Executive, Growth - Tokyo, Japan | [Grafana Labs](https://grafana.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6019606004) |
 | Sales Director | [Saviynt](https://saviynt.com) | — | Jun 12 | [Apply](https://jobs.lever.co/saviynt/caf633b3-4f4a-499d-ad0c-26192a10b42a) |
+| Account Executive, Mid-Market | [Demandbase](https://demandbase.com) | — | Jun 12 | [Apply](https://jobs.ashbyhq.com/demandbase/f1433369-924b-469a-9bcf-b7e78799204f) |
+| Regional Sales Manager – Northern California | [Nabis](https://nabis.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/nabis/jobs/6015419004) |
+| Account Executive Director, Workforce | [Socure](https://socure.com) | — | Jun 12 | [Apply](https://jobs.ashbyhq.com/socure/64a467b1-8327-41c7-a8f2-b1c306dc527c) |
+| Senior Account Executive  | [Customer.io](https://customer.io) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/customerio/jobs/8001442) |
+| Mid-Market Account Executive, New Business (API/CPaaS) | [Vonage](https://vonage.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/vonage/jobs/8559448002) |
 | PL Analista Salesforce Marketing Cloud | [ília](https://lia.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/ilia/jobs/6020751004) |
+| Director, Mid-Market Sales | [Figma](https://figma.com) | — | Jun 11 | [Apply](https://boards.greenhouse.io/figma/jobs/6018024004?gh_jid=6018024004) |
 | Senior Manager, Sales Development | [Procurify](https://procurify.com) | $126K–$144K/yr | Jun 11 | [Apply](https://jobs.ashbyhq.com/procurify/78125681-3d2a-4af8-86d4-316c97077ee2) |
 | Sales Assistant 21 h - Categoria protetta L.68/99 - Benevento  | [JYSK](https://jysk.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000131740850) |
 | Sales Assistant 21 h - Categoria protetta L.68/99 - Potenza | [JYSK](https://jysk.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000131740566) |
 | Senior Salesforce Administrator, Sales Operations | [PowerX](https://powerx.co) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/powerx/jobs/4283920009) |
+| Account Executive | [Valon](https://valon.com) | — | Jun 11 | [Apply](https://jobs.ashbyhq.com/valon/09322cc1-b9ac-44a9-a530-fcf9c0b72e76) |
 | Senior Manufacturing Engineer (Arc Vehicle) | [Inversion Space](https://inversionspace.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/inversionspace/jobs/4705085005) |
 | Sales Engineer | [Valon](https://valon.com) | — | Jun 11 | [Apply](https://jobs.ashbyhq.com/valon/7803a34d-471f-4935-bcea-f54b34a3ce95) |
 | Enterprise Account Executive | [SingleStore](https://singlestore.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/singlestore/jobs/7983245) |
@@ -74,6 +88,7 @@ Remote sales roles — account executives, SDRs, and enterprise deals.
 | Regional Account Executive (SMB) (Position located in Cape Town, South Africa) | [KnowBe4](https://knowbe4.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8585678002) |
 | Partner Sales Director - HCL | [Zscaler](https://zscaler.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5149605007) |
 | One Shot Quote Analyst - Remote from Alberta, British Columbia or Saskatchewan | [Manitoulin Global Forwarding](https://manitoulingroup.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000131452939) |
+| Principal Specialist Sales Engineer | [Zscaler](https://zscaler.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5157855007) |
 | Sales Specialist - Data & AI Security | [Veeam Software](https://veeam.com) | — | Jun 10 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4872389101) |
 | Sales Special Operation - Apprenticeship  (All genders) | [Dailymotion](https://dailymotion.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Dailymotion/postings/744000131443532) |
 | Senior Client Partner, Large Customer Sales - DACH | [Reddit](https://reddit.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/7996471) |

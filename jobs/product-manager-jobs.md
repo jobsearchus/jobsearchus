@@ -2,15 +2,20 @@
 
 Product manager roles at companies building real products. Sourced directly from career pages.
 
-**194 open roles** — Last updated: 2026-06-12
+**199 open roles** — Last updated: 2026-06-12
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Product Manager, Accessibility | [Box](https://box.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/boxinc/jobs/8001259) |
+| Principal Product Manager (United States) | [Karat Financial](https://trykarat.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/karat/jobs/8589263002) |
+| Senior Program Manager | [Customer.io](https://customer.io) | $156K–$175K/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/customerio/jobs/7991850) |
+| Growth Product Lead, Kids  | [ClassDojo](https://classdojo.com) | $215K–$250K/yr | Jun 11 | [Apply](https://jobs.ashbyhq.com/ClassDojo/c62deaa9-8253-49bf-90d7-b2cf875d9058) |
 | Senior Workplace Strategist - AI-Native Occupancy Planning | [VergeSense](https://vergesense.com) | — | Jun 11 | [Apply](https://jobs.lever.co/vergesense/bd2967c0-f6aa-441e-97db-1cc2e2753e33) |
 | Staff Product Manager, Groups Shopping | [Engine](https://engine.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/engine/jobs/7743204003) |
 | Product Analyst, Universal Storage Backend (SaaS) | [Veeam Software](https://veeam.com) | — | Jun 11 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4895329101) |
+|  Product Analyst, WebUI  | [Veeam Software](https://veeam.com) | — | Jun 11 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4895053101) |
 | Agentic Product Analyst | [Netomi](https://netomi.com) | — | Jun 11 | [Apply](https://jobs.lever.co/netomi/d40908e2-6e22-4dbb-a87f-a5b214d0eaca) |
 | Product Manager | [Mable](https://trymable.com) | — | Jun 11 | [Apply](https://jobs.lever.co/mable/cc885c74-6ac9-4c0c-97fc-e69876379089) |
 | Senior Product Manager , Identity & Interoperability | [Nielsen](https://nielsen.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990013573405) |

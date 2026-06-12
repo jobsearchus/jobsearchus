@@ -2,13 +2,17 @@
 
 Remote customer support and success roles across SaaS, e-commerce, and tech.
 
-**304 open roles** — Last updated: 2026-06-12
+**308 open roles** — Last updated: 2026-06-12
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| VIP Customer Support  | [Growe](https://growe.com) | — | Jun 12 | [Apply](https://job-boards.eu.greenhouse.io/growe/jobs/4871471101) |
+| Product Support Specialist I | [Affirm](https://affirm.com) | $55K–$75K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7765877003) |
 | Customer Service Representative (9613) - West Helena, AR | [Domino's](https://dominos.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131801250) |
+| Lead Customer Success Manager - Federal  | [Dragos](https://dragos.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/dragos/jobs/5240042008) |
+| Customer Education Program Manager | [Ashby](https://ashbyhq.com) | — | Jun 11 | [Apply](https://jobs.ashbyhq.com/ashby/1d637631-0d53-4e8c-9af7-38633bfc2723) |
 | Bilingual Customer Experience Specialist | [Certus AI](https://certus-ai.com) | — | Jun 11 | [Apply](https://certus.recruitee.com/o/bilingual-customer-experience-specialist-1/c/new) |
 | Retail Customer Service | [Entain](https://entaingroup.com) | £13/yr | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/Entain/postings/744000131711960) |
 | Retail Customer Service | [Entain](https://entaingroup.com) | £13/yr | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/Entain/postings/744000131705417) |

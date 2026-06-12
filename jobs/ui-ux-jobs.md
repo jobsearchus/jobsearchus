@@ -2,13 +2,17 @@
 
 UX design, UI design, and product design roles. Figma, research, and end-to-end product work.
 
-**155 open roles** — Last updated: 2026-06-12
+**159 open roles** — Last updated: 2026-06-12
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Designer  | [DLR Group](https://dlrgroup.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/dlrgroup/jobs/5239840008) |
+| Senior Motion Designer/Video Editor | [Genpak LLC](https://genpak-llc-2) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/brandtechplus/jobs/8001878) |
+| Senior Motion Designer | [Lumin Digital](https://lumindigital.com) | — | Jun 11 | [Apply](https://jobs.lever.co/LuminDigital/f7307be8-7a48-494c-9260-dad80ac713f7) |
 | PL UX Designer Salesforce  | [ília](https://lia.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/ilia/jobs/6020727004) |
+| Senior Digital Designer | [Lumin Digital](https://lumindigital.com) | — | Jun 11 | [Apply](https://jobs.lever.co/LuminDigital/053f176a-3463-4e02-bb3d-05d83cd82f45) |
 | Senior Product Designer | [Hatch](https://hatch.com) | — | Jun 11 | [Apply](https://jobs.ashbyhq.com/hatch/f717d43f-8b72-4cb5-90af-d2222d6886b2) |
 | Senior Product Design Engineer | [Cortex](https://cortex.io) | $160K–$190K/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/cortex/jobs/5238549008) |
 | Senior / Staff Product Designer | [Suger](https://suger.io) | — | Jun 11 | [Apply](https://jobs.lever.co/suger/8fb1e88a-18c5-4c24-8e88-0e4af0fcd8df) |

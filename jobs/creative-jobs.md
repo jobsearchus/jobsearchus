@@ -2,12 +2,13 @@
 
 Remote creative roles — copywriters, content creators, graphic designers, and brand specialists.
 
-**92 open roles** — Last updated: 2026-06-12
+**93 open roles** — Last updated: 2026-06-12
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| AI Creative (Illustrator) | [Superside](https://superside.com) | — | Jun 11 | [Apply](https://jobs.lever.co/superside/126e95b0-a898-44f6-b5f1-4ff9c5ee1fc8) |
 | Provider Partnerships Associate (Territory Manager) | [Nourish](https://usenourish.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/usenourish/jobs/5252241008) |
 | Associate Director, Creative Strategy, Brand Partnerships | [Fever](https://feverup.com) | $120K–$140K/yr | Jun 11 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4895639101) |
 | Associate Event Producer | [Fever](https://feverup.com) | — | Jun 11 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4895579101) |

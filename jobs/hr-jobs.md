@@ -2,13 +2,15 @@
 
 Remote HR, recruiting, and people operations roles.
 
-**207 open roles** — Last updated: 2026-06-12
+**209 open roles** — Last updated: 2026-06-12
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | Manager, People & Culture Operations | [Standard Bank](https://standardbank.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000131815739) |
+| Compensation Lead (Mexico City) | [Dandy](https://meetdandy.com) | — | Jun 11 | [Apply](https://jobs.ashbyhq.com/dandy/628abcab-20d6-41b2-ad1c-2b37832acb3a) |
+| Director, HR Business Partner, Advertising  | [The New York Times](https://thenewyorktimes.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4704836005) |
 | HR Generalist, Facilities | [Grüns](https://gruns.co) | $100K–$120K/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/gruns/jobs/5255448008) |
 | Specialist, Social | [Known Medicine](https://knownmed.com) | $80K–$90K/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/known/jobs/8585028002) |
 | Bilingual Recruiter | [OpenWork](https://openworklabs.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/openwork/jobs/4282609009) |

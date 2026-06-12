@@ -2,14 +2,17 @@
 
 General developer and programmer roles that did not fit a more specific category.
 
-**119 open roles** — Last updated: 2026-06-12
+**122 open roles** — Last updated: 2026-06-12
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Principal Developer Advocate, AI | [Temporal](https://temporal.io) | $260K–$325K/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/temporaltechnologies/jobs/4947867007) |
+| Developer Intern, Ecosystems- Fall 2026 | [1Password](https://1password.com) | — | Jun 11 | [Apply](https://jobs.ashbyhq.com/1password/44150e12-89b1-4ac7-ad8d-671f5ec650dd) |
 | [Job  29880] Senior Data Developer (Python/ AWS), Brazil | [CI&T](https://cit.com) | — | Jun 11 | [Apply](https://jobs.lever.co/ciandt/91684d5b-266b-40b8-9941-40d06b0d2e60) |
 | [29838] AI Developer Engineer (DEV Python) | [CI&T](https://cit.com) | — | Jun 11 | [Apply](https://jobs.lever.co/ciandt/1ba1d307-1924-46a5-823a-388fad283a74) |
+| Salesforce Marketing Cloud Developer Junior | [Genpak LLC](https://genpak-llc-2) | — | Jun 11 | [Apply](https://job-boards.eu.greenhouse.io/valtech/jobs/4895728101) |
 | .NET Developer (Internet of Things sphere) | [Coherent Solutions](https://coherentsolutions.com) | — | Jun 11 | [Apply](https://job-boards.eu.greenhouse.io/coherentsolutions/jobs/4892508101) |
 | Middle Java Developer | [GR8 Tech](https://gr8.com) | — | Jun 10 | [Apply](https://job-boards.eu.greenhouse.io/gr8tech/jobs/4884982101) |
 | Senior Staff Engineer, BPEL Developer | [Nagarro](https://nagarro.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000131446914) |

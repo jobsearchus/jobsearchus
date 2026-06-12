@@ -2,7 +2,7 @@
 
 Remote operations and business operations roles across industries.
 
-**1225 open roles** — Last updated: 2026-06-12
+**1233 open roles** — Last updated: 2026-06-12
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -10,13 +10,21 @@ Remote operations and business operations roles across industries.
 | --- | --- | --- | --- | --- |
 | Technical Supervisor | [ACCOR](https://group.accor.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000131824954) |
 | Buiten Laborant Infra - Jij zorgt voor kwaliteit op topniveau! | [BESIX](https://besix.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000131823149) |
+| People Operations Lead, Cashalo | [Tilt](https://tilt.com) | — | Jun 12 | [Apply](https://jobs.ashbyhq.com/tilthq/30955ed2-3d4c-4742-b2fe-c8bbefc711fe) |
 | Delivery Expert(2140) - 445 Broadway | [Domino's](https://dominos.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131800690) |
 | Delivery Driver(01361) - 525 20th St | [Domino's](https://dominos.com) | $10/yr | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131801299) |
 | Delivery Driver(06224) - 8757 Wadsworth Blvd | [Domino's](https://dominos.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131801278) |
 | Delivery Driver(04710) - 119 N. Sheridan Ave. | [Domino's](https://dominos.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131801155) |
 | Cashier - Pizza Maker (04391) Part-time | [Domino's](https://dominos.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131794815) |
+| Facilities Assistant | [Stratolaunch](https://stratolaunch.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/stratolaunch/jobs/5255873008) |
+| Global Alliance Lead, Microsoft  | [dbt Labs](https://getdbt.com) | $280K–$339K/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/dbtlabsinc/jobs/4705022005) |
+| Mid QA Manager  | [Genpak LLC](https://genpak-llc-2) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/brandtechplus/jobs/8001924) |
 | Janitorial Maintenance | [Pilot Flying J](https://pilotflyingj.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/PilotCompany/postings/744000131764300) |
+| Snr Studio Manager | [Genpak LLC](https://genpak-llc-2) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/brandtechplus/jobs/7997708) |
+| Water Treatment Operator | [xAI](https://x.ai) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/xai/jobs/5162623007) |
+| Autonomous Operations Specialist, Equipment Operator - Remote | [Pronto](https://tuprontomx.com) | $71K–$89K/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/pronto/jobs/8587069002) |
 | Fulfillment Operations Lead | [Certus AI](https://certus-ai.com) | — | Jun 11 | [Apply](https://certus.recruitee.com/o/fulfillment-operations-lead/c/new) |
+| Crew Lead & Equipment Operator | [Distro](https://distro.app) | — | Jun 11 | [Apply](https://jobs.lever.co/distro/5b4b4390-6124-44c0-bc8d-a57b8920b353) |
 | Deputy Store Manager 30h - Castellammare di Stabia | [JYSK](https://jysk.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000131745269) |
 | Events Coordinator | [KPFF Consulting Engineers](https://kpff.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/KPFFConsultingEngineers/postings/3743990013585146) |
 | Practice Manager - Maternity Cover | [PortmanDentex](https://portmandentex.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000131735850) |

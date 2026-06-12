@@ -2,18 +2,36 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**1182 open roles** — Last updated: 2026-06-12
+**1201 open roles** — Last updated: 2026-06-12
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Comptable - (H/F) | [Ixora](https://ixora.org) | — | Jun 12 | [Apply](https://emploi.ixora-conseil.fr/o/comptable-hf-5/c/new) |
+| On-Site Certified Medical Assistant - Detroit, MI | [Medsien](https://medsien.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/medsien/jobs/5162912007) |
+| On-Site Certified Medical Assistant - Lorton, VA | [Medsien](https://medsien.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/medsien/jobs/5162907007) |
+| Enterprise Architect  | [Veeam Software](https://veeam.com) | — | Jun 12 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4721797101) |
 | Food & Beverage Attendant | [ACCOR](https://group.accor.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000131825759) |
 | Commis Chef | [ACCOR](https://group.accor.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000131825689) |
+| 3D Game Environment Artist | [Nex](https://nex.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/nex/jobs/5255931008) |
+| Laboratory Director | [Natera](https://natera.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/natera/jobs/6013384004) |
+| Clinical Intern, Intensive Treatment Team (Juvenile Justice) | [WellPower - All External Jobs](https://wellpower.org) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/mentalhealthcenterofdenver/jobs/7770745003) |
+| Director, Business Systems and Integration | [SugarCRM](https://sugarcrm.com) | — | Jun 11 | [Apply](https://jobs.lever.co/sugarcrm/aadbfb45-9836-47a8-ac35-cdc0d73bba95) |
+| Clinical Biospecimen Operations Associate | [Natera](https://natera.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/natera/jobs/6020418004) |
+| Lead Technical Writer | [Stratolaunch](https://stratolaunch.com) | $120K–$155K/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/stratolaunch/jobs/5255814008) |
+| Floor Manager - Soho House Sao Paulo | [Soho House](https://sohohouse.com) | — | Jun 11 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4890699101) |
+| Senior Client Data Operations Specialist | [VIDA & Co.](https://shopvida.com) | — | Jun 11 | [Apply](https://jobs.lever.co/vida/f261ef3a-724c-406d-83f8-9163239d37aa) |
+| Physical Therapist Assistant | [BenchMark Physical Therapy](https://benchmarkpt.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/benchmarkpt/jobs/5161738007) |
+| Key Holder (Part-time) | [Camp](https://nouns.camp) | $18/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/camp/jobs/8588777002) |
+| Case Manager | [Crestwood Behavioral Health](https://crestwoodbehavioralhealth.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/crestwoodcareers/jobs/7770184003) |
+| Executive Assistant | [Distro](https://distro.app) | — | Jun 11 | [Apply](https://jobs.lever.co/distro/91a68e1d-b941-419c-865f-fbd718c3fe5a) |
 | General Manager (Live In ) | [Greene King](https://greeneking.co.uk) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/GreeneKing/postings/744000131737135) |
 | Clinical Account Manager | [SmithRx](https://smithrx.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/smithrx/jobs/8580634002) |
 | Bartender - Electric House, West London | [Soho House](https://sohohouse.com) | — | Jun 11 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4895314101) |
+| Dishwasher (Porter) - Soho House Portland | [Soho House](https://sohohouse.com) | — | Jun 11 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4894012101) |
 | SweatHouz- Studio Manager, Pasadena | [Momentic](https://momentic.ai) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/momentic/jobs/5255211008) |
+| Chief of Staff - East Coast | [Distro](https://distro.app) | — | Jun 11 | [Apply](https://jobs.lever.co/distro/019158aa-a696-4c40-bdad-9429458b0803) |
 | COMMIS DE CUISINE CONFIRME F/H/X - CDI | [ACCOR](https://group.accor.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000131714529) |
 | Foundation Dentist | [PortmanDentex](https://portmandentex.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000131710626) |
 | Intercity Bus and Coach Driver - Uig/Portree | [Ember](https://embercopilot.ai) | £16/yr | Jun 11 | [Apply](https://ember.recruitee.com/o/intercity-bus-and-coach-driver-uigportree/c/new) |
@@ -32,6 +50,7 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Planet Money & The Sunday Story Internship - Fall 2026 | [NPR](https://npr.com) | $20/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/nationalpublicradioinc/jobs/4704052005) |
 | Weekend Edition & Science Desk Internship - Fall 2026 | [NPR](https://npr.com) | $20/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/nationalpublicradioinc/jobs/4704027005) |
 |  Plant I Ice Cleaner Setup Tech II | [Continental](https://continentalserves.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000131524859) |
+| Physical Therapist Assistant | [BenchMark Physical Therapy](https://benchmarkpt.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/benchmarkpt/jobs/5161353007) |
 | ESTAGIÁRIO QUALIDADE E ATENDIMENTO TÉCNICO A CLIENTES | [O-I Glass](https://o-i.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/O-I/postings/744000131521939) |
 | TT Final Finish Setup Tech | [Continental](https://continentalserves.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000131519819) |
 | Employé exploitation polyvalent - H/F | [Genpak LLC](https://genpak-llc-2) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000131500915) |

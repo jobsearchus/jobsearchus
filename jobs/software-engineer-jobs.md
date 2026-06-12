@@ -2,22 +2,36 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**1716 open roles** — Last updated: 2026-06-12
+**1732 open roles** — Last updated: 2026-06-12
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Data Engineering Manager | [Aleph Lab](https://alephlab.ai) | — | Jun 12 | [Apply](https://jobs.lever.co/aleph/f9da282c-cb99-4604-ae96-71f960b4c958) |
+| Sr Integration Engineer (Hybrid) | [Smartsheet](https://smartsheet.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/smartsheet/jobs/8002307) |
 | Associate Principal Engineer | [Saviynt](https://saviynt.com) | — | Jun 12 | [Apply](https://jobs.lever.co/saviynt/fe33f98f-6db1-467f-a41f-62513b09c6dd) |
+| Data Analyst | [Alpaca](https://alpaca.markets) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/alpaca/jobs/6020810004) |
+| Principal Software Engineer - Developer Tools | [MariaDB](https://mariadb.com) | — | Jun 12 | [Apply](https://job-boards.eu.greenhouse.io/mariadbplc/jobs/4871215101) |
+| Staff Software Engineer (Guarded Containers) | [Chainguard](https://chainguard.dev) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/chainguard/jobs/4688854006) |
+| Associate Director/Sr. Manager Business Development | [Natera](https://natera.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/natera/jobs/6020517004) |
+| Principal Software Engineer - Agentic Platform | [Flagship Pioneering, Inc.](https://flagshippioneering.com) | $188K–$258K/yr | Jun 11 | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8584555002?gh_jid=8584555002) |
 | Sr. Professional Services Specialist | [Illumio](https://illumio.com) | — | Jun 11 | [Apply](https://jobs.ashbyhq.com/illumio/d013e299-888f-4eea-8fdb-964341240b8c) |
+| Senior AEM Engineer | [Lilt](https://lilt.com) | — | Jun 11 | [Apply](https://jobs.ashbyhq.com/lilt-corporate/b9a3b3d3-4b87-440b-9c30-d5c11f2183dc) |
+| Director, EMEA Data Partnerships | [WPP](https://wpp.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/wpp/jobs/8576121002) |
 | Integration Technician II, Stage Integration, Second Shift | [Relativity Space](https://relativityspace.com) | — | Jun 11 | [Apply](https://boards.greenhouse.io/relativity/jobs/8588738002?gh_jid=8588738002) |
 | Integration Technician II, Thrust Structure, Second Shift | [Relativity Space](https://relativityspace.com) | — | Jun 11 | [Apply](https://boards.greenhouse.io/relativity/jobs/8588702002?gh_jid=8588702002) |
+| Staff Thermal Engineer  | [Inversion Space](https://inversionspace.com) | $161K–$221K/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/inversionspace/jobs/4705188005) |
+| Senior Manager, Arc Vehicle Reentry  | [Inversion Space](https://inversionspace.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/inversionspace/jobs/4705164005) |
+| Director, EMEA Data Partnerships | [WPP](https://wpp.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/wpp/jobs/8576098002) |
 | Data Architect - Fleet Aviation Team | [Genpak LLC](https://genpak-llc-2) | — | Jun 11 | [Apply](https://jobs.lever.co/steerbridge/361e49fb-ed6d-440e-8185-6acba49342df) |
 | Software Engineer - Fleet Aviation Team | [Genpak LLC](https://genpak-llc-2) | — | Jun 11 | [Apply](https://jobs.lever.co/steerbridge/48998b31-69da-4092-bd06-e1a6fbe38652) |
 | Senior Windows Systems Administrator  | [Black Canyon Consulting](https://blackcanyonconsulting.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/blackcanyonconsulting/jobs/7767074003) |
 | Manager, Engineering, Secure Build | [Docker](https://docker.com) | — | Jun 11 | [Apply](https://jobs.ashbyhq.com/docker/a6eb0b73-d10e-4d2c-8f94-173f5584bef8) |
+| AI Research Scientist, Applied AI  | [Slingshot Aerospace](https://slingshotaerospace.com) | $120K–$170K/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/slingshotaerospace/jobs/6018955004?gh_jid=6018955004) |
 | Technical Office Engineer – Oosterweel Project (ROCO, Antwerp) | [BESIX](https://besix.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000131743249) |
 |  Technical Office Engineer – Oosterweel Project (ROCO, Antwerp) | [BESIX](https://besix.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000131742990) |
+| Cloud Cost/Finance Ops Engineer | [Accenture Federal Services](https://accenturefederalservices.com) | — | Jun 11 | [Apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4688819006?gh_jid=4688819006) |
 | Technical Cofounder | [Superset](https://superset.sh) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/superset/jobs/5255447008) |
 | Director, Growth Creative | [Nourish](https://usenourish.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/usenourish/jobs/5255395008) |
 | Senior Backline Support Engineer - Remote | [Motive](https://gomotive.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/gomotive/jobs/8587391002) |
@@ -73,6 +87,8 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Intern, Systems Engineering | [Egis](https://egis-group.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000131509289) |
 | GTM Engineer  | [Superset](https://superset.sh) | $150K–$175K/yr | Jun 10 | [Apply](https://job-boards.greenhouse.io/superset/jobs/5253946008) |
 | Client Engagement API Specialist | [Kraken](https://kraken.com) | — | Jun 10 | [Apply](https://jobs.ashbyhq.com/kraken.com/7f7e6a24-42e2-4f16-93df-b0d50c66c20b) |
+| Staff Operations Engineer | [Mozilla](https://mozilla.org) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/mozilla/jobs/7973023) |
+| Staff Operations Engineer | [Mozilla](https://mozilla.org) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/mozilla/jobs/7974328) |
 | Member of Technical Staff, Release/Production Engineering Lead | [Pure Storage](https://purestorage.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/7994936) |
 | Senior Advisory Consultant @Advizex (Remote) | [Myriad360](https://myriad360.com) | $180K–$200K/yr | Jun 10 | [Apply](https://boards.greenhouse.io/myriad360/jobs/8586052002?gh_jid=8586052002) |
 | Data Engineer (GCP) | [Applaudo](https://applaudo.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/ApplaudoStudios/postings/744000131496325) |

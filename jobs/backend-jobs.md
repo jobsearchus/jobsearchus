@@ -2,12 +2,15 @@
 
 Backend, server-side, and API engineering roles. Node.js, Python, Go, Ruby, Java and beyond.
 
-**73 open roles** — Last updated: 2026-06-12
+**76 open roles** — Last updated: 2026-06-12
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Backend Engineer - Platform Security - US | [Teleport](https://goteleport.com) | — | Jun 11 | [Apply](https://jobs.ashbyhq.com/goteleport/5a856324-6995-4c72-b67a-fc9cd04d7897) |
+| Senior Backend Engineer - Platform Scalability - US | [Teleport](https://goteleport.com) | — | Jun 11 | [Apply](https://jobs.ashbyhq.com/goteleport/543d88d2-7ca9-4762-9006-5ebd0d64ce05) |
+| Software Engineer II AI-Native, Backend Devices Cloud | [Life360](https://life360.com) | $118K–$162K/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/life360/jobs/8588939002) |
 | Senior Backend Software Engineer  | [HavocAI](https://havocai.com) | — | Jun 11 | [Apply](https://jobs.ashbyhq.com/havocai/042d257f-b0b4-4546-b20c-a990ccb2a3cb) |
 | Lead Back-end Engineer Node.Js - Wizz | [Genpak LLC](https://genpak-llc-2) | — | Jun 11 | [Apply](https://jobs.ashbyhq.com/voodoo/69b27376-4113-4829-8b0b-666dff96cdc6) |
 | [Growth Engineering] Senior Staff Back-end Engineer I | [Coupang](https://coupang.com) | — | Jun 11 | [Apply](https://boards.greenhouse.io/coupanginternal/jobs/7959527?gh_jid=7959527) |
