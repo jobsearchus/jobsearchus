@@ -2,13 +2,14 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**404 open roles** — Last updated: 2026-06-12
+**405 open roles** — Last updated: 2026-06-12
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | Zelfstandig Werkend Kok | [Escape](https://escape.tech) | — | Jun 12 | [Apply](https://jobs.escape.nl/o/zelfstandig-werkend-kok-27/c/new) |
+| Sales Content & Influence - Apprenticeship  (All genders) | [Dailymotion](https://dailymotion.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Dailymotion/postings/744000131827539) |
 | Growth Marketing Manager, Agent Stack  | [Vercel](https://vercel.com) | $176K–$220K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/vercel/jobs/6016765004) |
 | Brand Strategist Sr | [Genpak LLC](https://genpak-llc-2) | — | Jun 11 | [Apply](https://job-boards.eu.greenhouse.io/valtech/jobs/4895901101) |
 | Brand Strategist Senior | [Genpak LLC](https://genpak-llc-2) | — | Jun 11 | [Apply](https://job-boards.eu.greenhouse.io/valtech/jobs/4895903101) |

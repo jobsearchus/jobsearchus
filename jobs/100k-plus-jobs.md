@@ -2,12 +2,14 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**750 open roles** — Last updated: 2026-06-12
+**752 open roles** — Last updated: 2026-06-12
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Sr Manager, IAM Authentication | [NBCUniversal](https://nbcuniversal.com) | $175K–$210K/yr | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000131930690) |
+| Director, Pricing & Packaging | [Freshworks](https://freshworks.com) | $207K–$256K/yr | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000131923901) |
 | Head of Prudential Risk | [Monzo](https://monzo.com) | £121K–£140K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/8000900) |
 | Growth Marketing Manager, Agent Stack  | [Vercel](https://vercel.com) | $176K–$220K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/vercel/jobs/6016765004) |
 | Global Alliance Lead, Microsoft  | [dbt Labs](https://getdbt.com) | $280K–$339K/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/dbtlabsinc/jobs/4705022005) |

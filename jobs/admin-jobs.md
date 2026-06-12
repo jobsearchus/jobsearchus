@@ -2,12 +2,13 @@
 
 Remote administrative and executive assistant roles across industries.
 
-**40 open roles** — Last updated: 2026-06-12
+**41 open roles** — Last updated: 2026-06-12
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Officer 3, Corporate Administration | [IQ-EQ](https://iqeq.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000131873129) |
 | Part-time Office Assistant | [Saga AI](https://usesaga.ai) | — | Jun 12 | [Apply](https://careers.sagalegal.io/o/office-assistant/c/new) |
 | Admin Assistant II - Part Time - Sat/Sunday - 8am - 5pm | [WellPower - All External Jobs](https://wellpower.org) | $26/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/mentalhealthcenterofdenver/jobs/7768873003) |
 | Executive Assistant | [Flagship Pioneering, Inc.](https://flagshippioneering.com) | $120K–$145K/yr | Jun 10 | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8536719002?gh_jid=8536719002) |

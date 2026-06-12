@@ -2,13 +2,26 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**1732 open roles** — Last updated: 2026-06-12
+**1746 open roles** — Last updated: 2026-06-12
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Electrical Technician (Illinois) | [Continental](https://continentalserves.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000131938262) |
+| Electrical Engineer | [Egis](https://egis-group.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000131937710) |
+| Senior Electrical Engineer | [Egis](https://egis-group.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000131937189) |
+| Coordenador (a) de Desenvolvimento de Software | [Experian](https://experianplc.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000131932850) |
+| Sr Manager, IAM Authentication | [NBCUniversal](https://nbcuniversal.com) | $175K–$210K/yr | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000131930690) |
+| Senior Software Engineer - Python | [Experian](https://experianplc.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000131923479) |
+| Junior System Integration Engineer              | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $75K–$80K/yr | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000131919005) |
+| Naval Architect | [Anglo American](https://angloamerican.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000131904219) |
+| ServiceNow Engineer | [Netcompany](https://netcompany.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000131867051) |
+| Staff Engineer, 5G, ,C++, Linux | [Nagarro](https://nagarro.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000131857356) |
 | Data Engineering Manager | [Aleph Lab](https://alephlab.ai) | — | Jun 12 | [Apply](https://jobs.lever.co/aleph/f9da282c-cb99-4604-ae96-71f960b4c958) |
+| Principal Engineer, 5G, Jenkins | [Nagarro](https://nagarro.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000131851529) |
+| Cloud Operations Manager (Azure) | [Netcompany](https://netcompany.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000131842165) |
+| Functional Testing Engineer, Video Intelligence  | [NCS](https://ncs.co) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001151613) |
 | Sr Integration Engineer (Hybrid) | [Smartsheet](https://smartsheet.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/smartsheet/jobs/8002307) |
 | Associate Principal Engineer | [Saviynt](https://saviynt.com) | — | Jun 12 | [Apply](https://jobs.lever.co/saviynt/fe33f98f-6db1-467f-a41f-62513b09c6dd) |
 | Data Analyst | [Alpaca](https://alpaca.markets) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/alpaca/jobs/6020810004) |
@@ -38,6 +51,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Expert Engineer - Interior Overhead Systems (DRE) | [ALTEN](https://alten.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5162314007) |
 | Cloud Services Engineer  | [Accenture Federal Services](https://accenturefederalservices.com) | — | Jun 11 | [Apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4688754006?gh_jid=4688754006) |
 | Staff Cloud Engineer | [Hone Health](https://honehealth.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/honehealth/jobs/5255106008) |
+|  Infra - Server Administrator (Korean Bilingual) | [SBT Global](https://sbtglobal.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/SBTGlobalInc/postings/3743990013581066) |
 | Principal Consultant Cloud | [Inetum](https://inetum.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000131716349) |
 | Business Consultant Energy & Utilities | [Inetum](https://inetum.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000131714914) |
 | Consultant Microsoft Licensing | [Inetum](https://inetum.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000131715414) |

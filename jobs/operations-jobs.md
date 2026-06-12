@@ -2,20 +2,33 @@
 
 Remote operations and business operations roles across industries.
 
-**1233 open roles** — Last updated: 2026-06-12
+**1246 open roles** — Last updated: 2026-06-12
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Inspetor(a) de Tráfego | [Egis](https://egis-group.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000131933262) |
+| Program Coordinator and Community Liaison | [University of Notre Dame](https://universityofnotredame.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013599176) |
+| Overnight Supervisor - Morris Inn | [University of Notre Dame](https://universityofnotredame.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013598459) |
+| Painter - Morris Inn & McKenna Conference Center | [University of Notre Dame](https://universityofnotredame.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013598426) |
+| Domino's General Manager (08892) | [Domino's](https://dominos.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131911129) |
+| Mecânica / Mecânico Industrial III | [Anglo American](https://angloamerican.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000131904784) |
+| Automotive Operations Specialist | [MSX International](https://msxi.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013597206) |
+| Automotive Service Advisor / Writer - Weekends Off - Port Charlotte | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000131892530) |
+| Chauffeur livreur installateur F/H/X | [BUT](https://but.fr) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000131891159) |
+| ESH Engineer | [Continental](https://continentalserves.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000131861234) |
 | Technical Supervisor | [ACCOR](https://group.accor.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000131824954) |
 | Buiten Laborant Infra - Jij zorgt voor kwaliteit op topniveau! | [BESIX](https://besix.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000131823149) |
+| Operations Manager | [Healthcare Australia](https://healthcareaustralia.com.au) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/HealthcareAustralia1/postings/6000000001149931) |
 | People Operations Lead, Cashalo | [Tilt](https://tilt.com) | — | Jun 12 | [Apply](https://jobs.ashbyhq.com/tilthq/30955ed2-3d4c-4742-b2fe-c8bbefc711fe) |
 | Delivery Expert(2140) - 445 Broadway | [Domino's](https://dominos.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131800690) |
 | Delivery Driver(01361) - 525 20th St | [Domino's](https://dominos.com) | $10/yr | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131801299) |
 | Delivery Driver(06224) - 8757 Wadsworth Blvd | [Domino's](https://dominos.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131801278) |
 | Delivery Driver(04710) - 119 N. Sheridan Ave. | [Domino's](https://dominos.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131801155) |
 | Cashier - Pizza Maker (04391) Part-time | [Domino's](https://dominos.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131794815) |
+| Automotive Service Advisor / Writer - Weekends Off - Kalamazoo | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000131772119) |
+| Automotive Technician / Mechanic - Weekends Off - Kalamazoo | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000131772019) |
 | Facilities Assistant | [Stratolaunch](https://stratolaunch.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/stratolaunch/jobs/5255873008) |
 | Global Alliance Lead, Microsoft  | [dbt Labs](https://getdbt.com) | $280K–$339K/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/dbtlabsinc/jobs/4705022005) |
 | Mid QA Manager  | [Genpak LLC](https://genpak-llc-2) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/brandtechplus/jobs/8001924) |

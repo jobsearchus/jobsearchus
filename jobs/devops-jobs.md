@@ -2,12 +2,13 @@
 
 DevOps, platform engineering, and infrastructure roles. AWS, GCP, Kubernetes, Terraform.
 
-**103 open roles** — Last updated: 2026-06-12
+**104 open roles** — Last updated: 2026-06-12
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Data Engineer (Cloud Data Platform Engineer) | [NCS](https://ncs.co) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001151388) |
 | Staff Data Platform Engineer | [Tilt](https://tilt.com) | — | Jun 11 | [Apply](https://jobs.ashbyhq.com/tilthq/d652a8a7-ac54-45db-9699-d0f25e4574f1) |
 | Senior Manager, IT Infrastructure & Vendor Management | [Standard Bank](https://standardbank.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000131684539) |
 | Working Student IT Support (all genders) - Cloud & Platform Engineering | [MOIA](https://moia.io) | — | Jun 11 | [Apply](https://job-boards.eu.greenhouse.io/moia/jobs/4894993101) |

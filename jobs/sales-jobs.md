@@ -2,18 +2,24 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**1085 open roles** — Last updated: 2026-06-12
+**1091 open roles** — Last updated: 2026-06-12
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Account Executive, Gov & Healthcare (French-Speaking) | [Canva](https://canva.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001151754) |
+| Inside Sales Agent (French) -Talent pool for Future Openings  | [MSX International](https://msxi.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013598856) |
+| Inside Sales Agent (French)  -Talent pool for Future Openings  | [MSX International](https://msxi.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013598816) |
+| Account Executive - Gov & Healthcare (Austin, Texas) | [Canva](https://canva.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001151749) |
+| Account Executive - Gov & Healthcare  | [Canva](https://canva.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001151739) |
 | Vice President Sales | [Yubico Inc.](https://yubico.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/yubico/jobs/4265173009) |
 | Business Development Representative | [G2](https://g2.com) | — | Jun 12 | [Apply](https://jobs.ashbyhq.com/g2/c4488906-c271-45b3-a658-b4699b16c0b4) |
 | VIP Account Manager | [Growe](https://growe.com) | — | Jun 12 | [Apply](https://job-boards.eu.greenhouse.io/growe/jobs/4871460101) |
 | Enterprise Account Executive  | [dbt Labs](https://getdbt.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/dbtlabsinc/jobs/4680855005) |
 |  Business Development Senior Associate | [Fever](https://feverup.com) | — | Jun 12 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4896211101) |
 | Account Executive New Business | [Twilio](https://twilio.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7984917) |
+| Lead - Account Executive (New Business Acquisition Enterprise) - India  | [Freshworks](https://freshworks.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000131816284) |
 | Enterprise Account Executive, Growth - Tokyo, Japan | [Grafana Labs](https://grafana.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6019606004) |
 | Sales Director | [Saviynt](https://saviynt.com) | — | Jun 12 | [Apply](https://jobs.lever.co/saviynt/caf633b3-4f4a-499d-ad0c-26192a10b42a) |
 | Account Executive, Mid-Market | [Demandbase](https://demandbase.com) | — | Jun 12 | [Apply](https://jobs.ashbyhq.com/demandbase/f1433369-924b-469a-9bcf-b7e78799204f) |

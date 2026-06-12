@@ -2,13 +2,17 @@
 
 Remote HR, recruiting, and people operations roles.
 
-**209 open roles** — Last updated: 2026-06-12
+**213 open roles** — Last updated: 2026-06-12
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Recruitment Researcher Intern | [Miratech](https://miratech.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000131826730) |
+| Recruitment Researcher Intern | [Miratech](https://miratech.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000131824580) |
+| Recruitment Researcher Intern | [Miratech](https://miratech.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000131826008) |
 | Manager, People & Culture Operations | [Standard Bank](https://standardbank.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000131815739) |
+| Recruitment Team Leader | [Healthcare Australia](https://healthcareaustralia.com.au) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/HealthcareAustralia1/postings/6000000001150689) |
 | Compensation Lead (Mexico City) | [Dandy](https://meetdandy.com) | — | Jun 11 | [Apply](https://jobs.ashbyhq.com/dandy/628abcab-20d6-41b2-ad1c-2b37832acb3a) |
 | Director, HR Business Partner, Advertising  | [The New York Times](https://thenewyorktimes.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4704836005) |
 | HR Generalist, Facilities | [Grüns](https://gruns.co) | $100K–$120K/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/gruns/jobs/5255448008) |

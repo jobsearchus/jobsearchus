@@ -2,12 +2,13 @@
 
 Remote customer support and success roles across SaaS, e-commerce, and tech.
 
-**308 open roles** — Last updated: 2026-06-12
+**309 open roles** — Last updated: 2026-06-12
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Customer Service Rep(04163) - 10955 Jones Bridge Rd | [Domino's](https://dominos.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131902099) |
 | VIP Customer Support  | [Growe](https://growe.com) | — | Jun 12 | [Apply](https://job-boards.eu.greenhouse.io/growe/jobs/4871471101) |
 | Product Support Specialist I | [Affirm](https://affirm.com) | $55K–$75K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7765877003) |
 | Customer Service Representative (9613) - West Helena, AR | [Domino's](https://dominos.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131801250) |
