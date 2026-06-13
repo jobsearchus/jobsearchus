@@ -2,12 +2,24 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**1220 open roles** — Last updated: 2026-06-13
+**1234 open roles** — Last updated: 2026-06-13
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Bartender - Filia | [ACCOR](https://group.accor.com) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000132032499) |
+| Barista | [ACCOR](https://group.accor.com) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000132031930) |
+| Hostess - Third Room | [ACCOR](https://group.accor.com) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000132032439) |
+| VENDEUR CHARCUTERIE / TRAITEUR / FROMAGE (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000132030449) |
+| MANAGER DE RAYON FRAIS LIBRE SERVICE | [Genpak LLC](https://genpak-llc-2) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000132029509) |
+| INTERMARCHE - VENDEUR ALIMENTAIRE (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000132029314) |
+| EMPLOYE COMMERCIAL ETUDIANT (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000132028974) |
+| BOULANGER (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000132029039) |
+| HÔTE DE CAISSE - EMPLOYE COMMERCIAL (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000132028774) |
+| Delivery Driver - 1869 Addison Ave. E | [Domino's](https://dominos.com) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000132021646) |
+| Assistant Manager(08310) - 1865 Lincoln Blvd. | [Domino's](https://dominos.com) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000132021621) |
+| Assistant Manager(09428) - 15127 Main Street East, Suite 105 | [Domino's](https://dominos.com) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000132021173) |
 | Senior Customer Success Manager | [Horizon3.ai](https://horizon3ai.com) | $140K–$175K/yr | Jun 12 | [Apply](https://jobs.ashbyhq.com/horizon3ai/31e7e581-d7d6-4512-b4df-ae0539f78dbd) |
 | Store Representative - Days (PT) | [Serv-U-Success](https://servusuccess.com) | $16/yr | Jun 12 | [Apply](https://jobs.lever.co/serv-u-success/20493be8-6557-40b1-ba51-ff9d9f3954d5) |
 | Préposé.e au bar, saisonnier (H/F/D) | [ACCOR](https://group.accor.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000131975083) |
@@ -20,7 +32,9 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Dentist | [PortmanDentex](https://portmandentex.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000131919993) |
 | Domino's General Manager (08974) | [Domino's](https://dominos.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131907295) |
 | Domino's Delivery Driver (08892) | [Domino's](https://dominos.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131910959) |
+| Private Dentist (Maternity Cover)  | [PortmanDentex](https://portmandentex.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000131909599) |
 | Praktikant (w/m/d) Distressed Real Estate | [Drees & Sommer](https://dreso.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000131899309) |
+| Dental Hygienist - The Dental Surgery, London | [PortmanDentex](https://portmandentex.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000131887998) |
 | Comptable - (H/F) | [Ixora](https://ixora.org) | — | Jun 12 | [Apply](https://emploi.ixora-conseil.fr/o/comptable-hf-5/c/new) |
 | Réceptionniste en hôtellerie CDD possible CDI | [Genpak LLC](https://genpak-llc-2) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000131858389) |
 | Front Office Agent (m/w/d) | [Genpak LLC](https://genpak-llc-2) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000131844790) |

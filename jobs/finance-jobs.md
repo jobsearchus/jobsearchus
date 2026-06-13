@@ -2,7 +2,7 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**536 open roles** — Last updated: 2026-06-13
+**538 open roles** — Last updated: 2026-06-13
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -21,6 +21,7 @@ Remote finance, accounting, and analyst roles at companies of all sizes.
 | Aftersales Consultant | [MSX International](https://msxi.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013594966) |
 | Specialist, Tax - UK & Europe | [Anglo American](https://angloamerican.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000131862029) |
 | Specialist, Trade Control | [Standard Bank](https://standardbank.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000131857669) |
+| Executive Financial Planner | [Standard Bank](https://standardbank.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000131827760) |
 | Senior Director, Economic Insights | [Life360](https://life360.com) | $215K–$315K/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/life360/jobs/8589091002) |
 | Senior Operations Accountant | [Crusoe](https://crusoe.com) | $85K–$105K/yr | Jun 11 | [Apply](https://jobs.ashbyhq.com/crusoe/99cb947f-2639-4d2f-bfdb-0c9a4b10213d) |
 | FP&A Manager | [SandboxAQ](https://sandboxaq.com) | — | Jun 11 | [Apply](https://jobs.ashbyhq.com/sandboxaq/0dab4768-33a1-4cdf-848e-ce6d3c13e3b4) |
@@ -33,6 +34,7 @@ Remote finance, accounting, and analyst roles at companies of all sizes.
 | Fraud Investigations Specialist | [GoCardless](https://gocardless.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/gocardless/jobs/7996723) |
 | Consultant / Analyst (w/m/d) Distressed Real Estate | [Drees & Sommer](https://dreso.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000131671222) |
 | Finance Business Partner, G&A | [Cloudflare](https://cloudflare.com) | — | Jun 11 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7997341?gh_jid=7997341) |
+| Assistant, Relationship Manager | [Standard Bank](https://standardbank.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000131662649) |
 | Senior Associate, Fund Administration (Accounting) - India | [Juniper Square](https://junipersquare.com) | — | Jun 11 | [Apply](https://jobs.ashbyhq.com/junipersquare/e9c65052-ccef-4a97-8454-921983aa36b5) |
 | Financieel Medewerker | [Escape](https://escape.tech) | — | Jun 11 | [Apply](https://jobs.escape.nl/o/financieel-medewerker-3/c/new) |
 | Assistant Financial Controller | [Axon](https://axon.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/axon/jobs/7769175003) |

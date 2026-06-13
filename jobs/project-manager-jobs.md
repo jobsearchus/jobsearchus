@@ -2,13 +2,14 @@
 
 Project and program management roles across tech, operations, and enterprise.
 
-**119 open roles** — Last updated: 2026-06-13
+**120 open roles** — Last updated: 2026-06-13
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | Associate Principal Engineer - Technical Project Manager | [Nagarro](https://nagarro.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000131932571) |
+| Junior Project Manager Intern | [AUTO1 Group](https://auto1-group.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000131882810) |
 | Projectmanager Wegen & Riolering | [BESIX](https://besix.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000131842075) |
 | Project Director, Engineering  | [NCS](https://ncs.co) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001151589) |
 | Senior Technical Project Manager | [CapTech](https://captech.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/CapTechConsulting/postings/744000131508830) |

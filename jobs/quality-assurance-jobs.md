@@ -2,12 +2,15 @@
 
 QA, test automation, and SDET roles. Manual and automated testing across all stacks.
 
-**57 open roles** — Last updated: 2026-06-13
+**60 open roles** — Last updated: 2026-06-13
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior QA Engineer - E-commerce - Mexico | [Truelogic](https://truelogic.com) | — | Jun 12 | [Apply](https://jobs.ashbyhq.com/truelogic/27f734c7-9deb-42f7-855a-c54eae233108) |
+| Senior QA Engineer - E-commerce - Brazil | [Truelogic](https://truelogic.com) | — | Jun 12 | [Apply](https://jobs.ashbyhq.com/truelogic/c5443643-309b-4c15-bc69-804a2e95c327) |
+| Senior QA Engineer - E-commerce - Colombia | [Truelogic](https://truelogic.com) | — | Jun 12 | [Apply](https://jobs.ashbyhq.com/truelogic/7d40c4cf-37b2-428e-80d5-ee139b35c7cd) |
 | [VCK] Senior QA Automation Engineer (AI Systems) | [Software Mind](https://softwaremind.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/SoftwareMind/postings/744000131979509) |
 | Performance Test Engineer | [Kunai](https://kunai.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/kunai/jobs/5162305007) |
 | Senior Automation Engineer | [SmithRx](https://smithrx.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/smithrx/jobs/8586259002) |

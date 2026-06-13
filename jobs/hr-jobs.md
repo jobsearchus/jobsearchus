@@ -2,12 +2,14 @@
 
 Remote HR, recruiting, and people operations roles.
 
-**221 open roles** — Last updated: 2026-06-13
+**223 open roles** — Last updated: 2026-06-13
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Delivery Driver (05176) - $13 / Hr - 12225 SW 112th St, Miami | [Domino's](https://dominos.com) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000132022897) |
+| Senior Human Resources Generalist | [KPFF Consulting Engineers](https://kpff.com) | $105K–$120K/yr | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/KPFFConsultingEngineers/postings/3743990013610976) |
 | Sr. HR Operations Specialist - UKG Ready | [Double Good](https://doublegood.com) | $90K–$120K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/doublegood/jobs/6019969004) |
 | Assistant Director, People & Culture | [ACCOR](https://group.accor.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000131975660) |
 | Automotive Technician / Mechanic - Up to $50/Hr* & Weekends Off - Simpsonville | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | $50/yr | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000131938304) |

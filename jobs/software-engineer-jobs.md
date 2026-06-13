@@ -2,7 +2,7 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**1776 open roles** — Last updated: 2026-06-13
+**1784 open roles** — Last updated: 2026-06-13
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -13,6 +13,8 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Software Engineer (Must Have .Net Core) | [NCS](https://ncs.co) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001151861) |
 | Software Engineer (Must Have Java + Prefer Outsystems/ServiceNow) | [NCS](https://ncs.co) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001151836) |
 | RF Integration Team Lead  | [Astranis](https://astranis.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4689200006) |
+| PBM Data Analyst | [SmithRx](https://smithrx.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/smithrx/jobs/8590301002) |
+| Manager, Salesforce | [Sectigo](https://sectigo.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Sectigo/postings/3743990013609886) |
 | Product Engineer | [Pelago](https://pelagohealth.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/pelago/jobs/5164145007) |
 | Product Engineer | [Pelago](https://pelagohealth.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/pelago/jobs/5164093007) |
 | Senior Software Engineer - Instawork Robotics | [Instawork](https://instawork.com) | $170K–$200K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/instawork/jobs/4689180006) |
@@ -38,6 +40,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Naval Architect | [Anglo American](https://angloamerican.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000131904219) |
 | Senior Pre-Sales Engineer - Network | [AHEAD](https://ahead.com) | — | Jun 12 | [Apply](https://jobs.lever.co/thinkahead/b0fe780b-021b-4c10-b287-8fa5a9d078f4) |
 | Développeur IOT H/F | [Inetum](https://inetum.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000131888492) |
+| DEVELOPPEUR CONFIRME PHP H/F | [Inetum](https://inetum.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000131884676) |
 | Bid Manager IT (w/m/d)  | [Drees & Sommer](https://dreso.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000131878405) |
 | Senior SAP ABAP Consultant with AI | [Sophos](https://sophos.com) | — | Jun 12 | [Apply](https://jobs.lever.co/sophos/9a45d73f-80a4-4aeb-ab76-799560cd834e) |
 | ServiceNow Engineer | [Netcompany](https://netcompany.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000131867051) |
@@ -46,6 +49,10 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Electrician & Mechanic O&M Pumping stations | [BESIX](https://besix.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000131859087) |
 | Data Engineering Manager | [Aleph Lab](https://alephlab.ai) | — | Jun 12 | [Apply](https://jobs.lever.co/aleph/f9da282c-cb99-4604-ae96-71f960b4c958) |
 | Automotive Helpdesk Agent | [MSX International](https://msxi.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013594666) |
+| (Senior) Consultant (w/m/d) TGA (Elektro/HKLS/MSR) | [Drees & Sommer](https://dreso.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000131855129) |
+| Experte (w/m/d) Energietechnik für Hoch- und Höchstspannungsnetze  | [Drees & Sommer](https://dreso.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000131854918) |
+| Techniker/Ingenieur (w/m/d) Nachhaltige und Innovative Gebäudetechnik | [Drees & Sommer](https://dreso.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000131853000) |
+| Ingenieur TGA (w/m/d) Bauberatung für Industrieprojekte | [Drees & Sommer](https://dreso.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000131853193) |
 | Principal Engineer, 5G, Jenkins | [Nagarro](https://nagarro.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000131851529) |
 | Cloud Operations Manager (Azure) | [Netcompany](https://netcompany.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000131842165) |
 | Functional Testing Engineer, Video Intelligence  | [NCS](https://ncs.co) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001151613) |
@@ -95,6 +102,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Engineer, Cyber Security | [Standard Bank](https://standardbank.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000131665349) |
 | Senior Manager, Analytics | [Rovio](https://rovio.com) | — | Jun 11 | [Apply](https://jobs.lever.co/rovio-2/49ebf965-1908-44eb-acee-7e14ac92bf5f) |
 | AI Senior Solutions Architect, Global Advanced Services - UK/US | [Pure Storage](https://purestorage.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/7981839) |
+| Senior Structural Design Engineer - Marine | [BESIX](https://besix.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000131644219) |
 | Management Consultant - Data Engineering | [Baringa](https://baringa.com) | — | Jun 11 | [Apply](https://job-boards.eu.greenhouse.io/baringa/jobs/4895138101) |
 | Junior Sous-Chef H/F R&D - PICLAB | [Relais & Châteaux](https://relaischateaux.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000131638458) |
 | Customer Insight Analyst | [Monzo](https://monzo.com) | £33K–£45K/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7997156) |

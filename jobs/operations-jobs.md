@@ -2,12 +2,13 @@
 
 Remote operations and business operations roles across industries.
 
-**1272 open roles** — Last updated: 2026-06-13
+**1276 open roles** — Last updated: 2026-06-13
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Assistant Manager(08556) - 4415 Imperial | [Domino's](https://dominos.com) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000132017372) |
 | Program Lead, Strategic Partnerships (Cloud / AI / Data) - Remote | [Experian](https://experianplc.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000131989114) |
 | Inventory Associate | [GOAT Group](https://goatgroup.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/goatgroup/jobs/4705611005) |
 | Decision Center Specialist  | [GOAT Group](https://goatgroup.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/goatgroup/jobs/4705607005) |
@@ -41,6 +42,9 @@ Remote operations and business operations roles across industries.
 | Roller Head Technician | [Enviva](https://envivabiomass.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/enviva/jobs/7770537003) |
 | Operator GR2 | [Anglo American](https://angloamerican.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000131864889) |
 | ESH Engineer | [Continental](https://continentalserves.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000131861234) |
+| Projektassistenz (w/m/d) Innovative Arbeitswelten (zunächst befristet auf 2 Jahre) | [Drees & Sommer](https://dreso.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000131841324) |
+| Project Coördinator | [BESIX](https://besix.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000131837129) |
+| Operations Manager | [Standard Bank](https://standardbank.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000131826939) |
 | Technical Supervisor | [ACCOR](https://group.accor.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000131824954) |
 | Buiten Laborant Infra - Jij zorgt voor kwaliteit op topniveau! | [BESIX](https://besix.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000131823149) |
 | Operations Manager | [Healthcare Australia](https://healthcareaustralia.com.au) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/HealthcareAustralia1/postings/6000000001149931) |

@@ -2,12 +2,13 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**769 open roles** — Last updated: 2026-06-13
+**770 open roles** — Last updated: 2026-06-13
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Human Resources Generalist | [KPFF Consulting Engineers](https://kpff.com) | $105K–$120K/yr | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/KPFFConsultingEngineers/postings/3743990013610976) |
 | ML Engineer - Instawork Robotics | [Instawork](https://instawork.com) | $170K–$200K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/instawork/jobs/4686498006) |
 | Senior Software Engineer - Instawork Robotics | [Instawork](https://instawork.com) | $170K–$200K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/instawork/jobs/4689180006) |
 | Senior Customer Success Manager | [Horizon3.ai](https://horizon3ai.com) | $140K–$175K/yr | Jun 12 | [Apply](https://jobs.ashbyhq.com/horizon3ai/31e7e581-d7d6-4512-b4df-ae0539f78dbd) |

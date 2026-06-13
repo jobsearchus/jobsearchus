@@ -2,13 +2,14 @@
 
 Remote cybersecurity, information security, and security engineering roles.
 
-**126 open roles** — Last updated: 2026-06-13
+**127 open roles** — Last updated: 2026-06-13
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | Third Party Security - Senior Analyst | [Experian](https://experianplc.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000131920319) |
+| Specialist, Provincial Security (Limpopo) | [Standard Bank](https://standardbank.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000131851049) |
 | Sr. Security Engineer - GRC | [6sense](https://6sense.com) | — | Jun 12 | [Apply](https://boards.greenhouse.io/6sense/jobs/7984436?gh_jid=7984436) |
 | Manager, Security Operations (Remote) | [Rula](https://rula.com) | — | Jun 12 | [Apply](https://jobs.ashbyhq.com/rula/c566a3b5-96bd-4fd4-855b-92872a888f9e) |
 | Senior IAM Architect | [Ping Identity](https://pingidentity.com) | $137K–$180K/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/pingidentity/jobs/8582934002) |

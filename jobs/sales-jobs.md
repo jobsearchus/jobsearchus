@@ -2,7 +2,7 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**1101 open roles** — Last updated: 2026-06-13
+**1102 open roles** — Last updated: 2026-06-13
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -23,6 +23,7 @@ Remote sales roles — account executives, SDRs, and enterprise deals.
 | Account Executive - Gov & Healthcare  | [Canva](https://canva.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001151739) |
 | Sales Specialist - Upsell | [Aura](https://aura.com) | $55K–$80K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/aura798/jobs/6017424004) |
 | Account Manager - DSD Sales | [Serv-U-Success](https://servusuccess.com) | — | Jun 12 | [Apply](https://jobs.lever.co/serv-u-success/02b48be2-028b-4699-af19-4f079aa518a4) |
+| Administrativo/a de Automoción - Torrejón de Ardoz | [AUTO1 Group](https://auto1-group.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000131879865) |
 | Vice President Sales | [Yubico Inc.](https://yubico.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/yubico/jobs/4265173009) |
 | Business Development Representative | [G2](https://g2.com) | — | Jun 12 | [Apply](https://jobs.ashbyhq.com/g2/c4488906-c271-45b3-a658-b4699b16c0b4) |
 | VIP Account Manager | [Growe](https://growe.com) | — | Jun 12 | [Apply](https://job-boards.eu.greenhouse.io/growe/jobs/4871460101) |
