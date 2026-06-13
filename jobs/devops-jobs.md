@@ -2,12 +2,13 @@
 
 DevOps, platform engineering, and infrastructure roles. AWS, GCP, Kubernetes, Terraform.
 
-**106 open roles** — Last updated: 2026-06-13
+**107 open roles** — Last updated: 2026-06-13
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Cloud DevSecOps Engineer (Terraform, CloudFormation, cloud services on AWS) | [NCS](https://ncs.co) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001151907) |
 | [VCK] Senior DevOps Engineer AWS / AI Infrastructure | [Software Mind](https://softwaremind.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/SoftwareMind/postings/744000131979209) |
 | Nearshore Sector- AWS Platform Engineer | [Devoteam](https://devoteam.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Devoteam/postings/744000131933456) |
 | Data Engineer (Cloud Data Platform Engineer) | [NCS](https://ncs.co) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001151388) |

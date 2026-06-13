@@ -2,7 +2,7 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**766 open roles** — Last updated: 2026-06-13
+**769 open roles** — Last updated: 2026-06-13
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -18,6 +18,8 @@ Remote roles paying $100,000 or more per year. Salary data pulled directly from 
 | Staff Vehicle Engineer  | [Inversion Space](https://inversionspace.com) | $161K–$221K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/inversionspace/jobs/4705505005) |
 | Construction Project Manager (Federal & Grant-Funded Projects) | [KPFF Consulting Engineers](https://kpff.com) | $100K–$150K/yr | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/KPFFConsultingEngineers/postings/3743990013604596) |
 | Sales Development Representative | [Censys](https://censys.com) | $105K–$130K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/censys/jobs/8590014002) |
+| Senior Technical Curriculum Developer - Revenue Enablement | [Freshworks](https://freshworks.com) | $115K–$150K/yr | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000131945624) |
+| Senior Technical Curriculum Developer - Revenue Enablement | [Freshworks](https://freshworks.com) | $110K–$142K/yr | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000131945679) |
 | Mechanical Engineer | [Crusoe](https://crusoe.com) | $125K–$145K/yr | Jun 12 | [Apply](https://jobs.ashbyhq.com/crusoe/45764b95-747b-47ca-92ef-626814b07b92) |
 | Sr Manager, IAM Authentication | [NBCUniversal](https://nbcuniversal.com) | $175K–$210K/yr | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000131930690) |
 | Director, Pricing & Packaging | [Freshworks](https://freshworks.com) | $207K–$256K/yr | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000131923901) |
@@ -25,6 +27,7 @@ Remote roles paying $100,000 or more per year. Salary data pulled directly from 
 | AI Native Program Manager | [Pursuit](https://pursuit-properties.com) | $100K–$115K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/pursuit/jobs/8002668) |
 | Growth & Community Development Lead | [Pursuit](https://pursuit-properties.com) | $120K–$130K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/pursuit/jobs/8002665) |
 | Head of Prudential Risk | [Monzo](https://monzo.com) | £121K–£140K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/8000900) |
+| Corporate Communications Manager | [Canva](https://canva.com) | $148K–$210K/yr | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001151197) |
 | Growth Marketing Manager, Agent Stack  | [Vercel](https://vercel.com) | $176K–$220K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/vercel/jobs/6016765004) |
 | Global Alliance Lead, Microsoft  | [dbt Labs](https://getdbt.com) | $280K–$339K/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/dbtlabsinc/jobs/4705022005) |
 | Principal Developer Advocate, AI | [Temporal](https://temporal.io) | $260K–$325K/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/temporaltechnologies/jobs/4947867007) |

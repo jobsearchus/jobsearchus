@@ -2,7 +2,7 @@
 
 Remote HR, recruiting, and people operations roles.
 
-**220 open roles** — Last updated: 2026-06-13
+**221 open roles** — Last updated: 2026-06-13
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -10,6 +10,7 @@ Remote HR, recruiting, and people operations roles.
 | --- | --- | --- | --- | --- |
 | Sr. HR Operations Specialist - UKG Ready | [Double Good](https://doublegood.com) | $90K–$120K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/doublegood/jobs/6019969004) |
 | Assistant Director, People & Culture | [ACCOR](https://group.accor.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000131975660) |
+| Automotive Technician / Mechanic - Up to $50/Hr* & Weekends Off - Simpsonville | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | $50/yr | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000131938304) |
 | Chargé de recrutement IT (H/F) | [Everience](https://everience.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/EVERIENCE/postings/744000131923309) |
 | Human Resources Operations Specialist | [AlertMedia](https://alertmedia.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/alertmedia/jobs/8588928002) |
 | ALTERNANCE - Chargé de recrutement (H/F) | [Everience](https://everience.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/EVERIENCE/postings/744000131918371) |

@@ -2,12 +2,16 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**1770 open roles** — Last updated: 2026-06-13
+**1776 open roles** — Last updated: 2026-06-13
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Principal Engineer, Salesforce Healthcloud | [Nagarro](https://nagarro.com) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000132027899) |
+| Principal Engineer, Salesforce Healthcloud | [Nagarro](https://nagarro.com) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000132027609) |
+| Software Engineer (Must Have .Net Core) | [NCS](https://ncs.co) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001151861) |
+| Software Engineer (Must Have Java + Prefer Outsystems/ServiceNow) | [NCS](https://ncs.co) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001151836) |
 | RF Integration Team Lead  | [Astranis](https://astranis.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4689200006) |
 | Product Engineer | [Pelago](https://pelagohealth.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/pelago/jobs/5164145007) |
 | Product Engineer | [Pelago](https://pelagohealth.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/pelago/jobs/5164093007) |
@@ -41,10 +45,12 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Supervisor Mechanical & Electrical - Pumping Stations | [BESIX](https://besix.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000131860886) |
 | Electrician & Mechanic O&M Pumping stations | [BESIX](https://besix.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000131859087) |
 | Data Engineering Manager | [Aleph Lab](https://alephlab.ai) | — | Jun 12 | [Apply](https://jobs.lever.co/aleph/f9da282c-cb99-4604-ae96-71f960b4c958) |
+| Automotive Helpdesk Agent | [MSX International](https://msxi.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013594666) |
 | Principal Engineer, 5G, Jenkins | [Nagarro](https://nagarro.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000131851529) |
 | Cloud Operations Manager (Azure) | [Netcompany](https://netcompany.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000131842165) |
 | Functional Testing Engineer, Video Intelligence  | [NCS](https://ncs.co) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001151613) |
 | Associate Mechanical Engineer (F/M/D) | [NavVis](https://navvis.com) | — | Jun 12 | [Apply](https://job-boards.eu.greenhouse.io/navvis/jobs/4872149101) |
+| Associate Principal Engineer, 5G, RRC,QXDM | [Nagarro](https://nagarro.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000131823839) |
 | Sr Integration Engineer (Hybrid) | [Smartsheet](https://smartsheet.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/smartsheet/jobs/8002307) |
 | Associate Principal Engineer | [Saviynt](https://saviynt.com) | — | Jun 12 | [Apply](https://jobs.lever.co/saviynt/fe33f98f-6db1-467f-a41f-62513b09c6dd) |
 | Data Analyst | [Alpaca](https://alpaca.markets) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/alpaca/jobs/6020810004) |

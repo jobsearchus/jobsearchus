@@ -2,18 +2,24 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**530 open roles** — Last updated: 2026-06-13
+**536 open roles** — Last updated: 2026-06-13
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Director of Financial Planning and Analysis | [Experian](https://experianplc.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000131994489) |
 | Director of Financial Planning & Analysis | [ACLU](https://aclu.org) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/aclu/jobs/8588672002) |
+| Operador de Financiamento Jr. (F&I)  | [MSX International](https://msxi.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013607086) |
 | Sales Operations Manager | [UpKeep](https://upkeep.com) | $100K–$120K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/upkeep/jobs/5231727008) |
 | Senior Controllership Associate II (P2P) | [Nielsen](https://nielsen.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990013602086) |
+| Senior Associate - Investor Services | [IQ-EQ](https://iqeq.com) | $70K–$85K/yr | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000131946399) |
+| Senior Associate - Investor Services | [IQ-EQ](https://iqeq.com) | $70K–$85K/yr | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000131944667) |
 | Global Billing Coordinator | [Envoy Global](https://envoyglobal.com) | £35K–£45K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/envoyglobalinc/jobs/6008703004) |
 | Head of Prudential Risk | [Monzo](https://monzo.com) | £121K–£140K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/8000900) |
 | International Public Policy, Senior Manager  | [Monzo](https://monzo.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/8000142) |
+| Aftersales Consultant | [MSX International](https://msxi.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013594966) |
+| Specialist, Tax - UK & Europe | [Anglo American](https://angloamerican.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000131862029) |
 | Specialist, Trade Control | [Standard Bank](https://standardbank.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000131857669) |
 | Senior Director, Economic Insights | [Life360](https://life360.com) | $215K–$315K/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/life360/jobs/8589091002) |
 | Senior Operations Accountant | [Crusoe](https://crusoe.com) | $85K–$105K/yr | Jun 11 | [Apply](https://jobs.ashbyhq.com/crusoe/99cb947f-2639-4d2f-bfdb-0c9a4b10213d) |

@@ -2,7 +2,7 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**1216 open roles** — Last updated: 2026-06-13
+**1220 open roles** — Last updated: 2026-06-13
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -15,6 +15,7 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Senior Tech Reporter, CNBC | [Versant](https://versant.com) | $200K–$225K/yr | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Versant3/postings/744000131961400) |
 | Technical Support Specialist | [Submittable](https://submittable.com) | $55K–$60K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/submittable/jobs/6025447004) |
 | Part Time Licensed Vocational Nurse, LVN (NOC) | [Silverado](https://silverado.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/silverado/jobs/5163440007) |
+| General Service Technician / Mechanic - Weekends Off - Simpsonville | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000131938111) |
 | Dental Hygienist Therapist | [PortmanDentex](https://portmandentex.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000131938469) |
 | Dentist | [PortmanDentex](https://portmandentex.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000131919993) |
 | Domino's General Manager (08974) | [Domino's](https://dominos.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131907295) |
@@ -22,6 +23,7 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Praktikant (w/m/d) Distressed Real Estate | [Drees & Sommer](https://dreso.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000131899309) |
 | Comptable - (H/F) | [Ixora](https://ixora.org) | — | Jun 12 | [Apply](https://emploi.ixora-conseil.fr/o/comptable-hf-5/c/new) |
 | Réceptionniste en hôtellerie CDD possible CDI | [Genpak LLC](https://genpak-llc-2) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000131858389) |
+| Front Office Agent (m/w/d) | [Genpak LLC](https://genpak-llc-2) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000131844790) |
 | On-Site Certified Medical Assistant - Detroit, MI | [Medsien](https://medsien.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/medsien/jobs/5162912007) |
 | On-Site Certified Medical Assistant - Lorton, VA | [Medsien](https://medsien.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/medsien/jobs/5162907007) |
 | Practice Principal | [Genpak LLC](https://genpak-llc-2) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/APMGroup/postings/6000000001151561) |
@@ -30,6 +32,8 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Food & Beverage Attendant | [ACCOR](https://group.accor.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000131825759) |
 | Commis Chef | [ACCOR](https://group.accor.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000131825689) |
 | 3D Game Environment Artist | [Nex](https://nex.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/nex/jobs/5255931008) |
+| Aged Care Comprehensive Assessor | [Genpak LLC](https://genpak-llc-2) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/APMGroup/postings/6000000001149898) |
+| Mental Health RN Team Leader (0.4 FTE - Mon–Fri 8–4) | [Healthcare Australia](https://healthcareaustralia.com.au) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/HealthcareAustralia1/postings/6000000001148868) |
 | Laboratory Director | [Natera](https://natera.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/natera/jobs/6013384004) |
 | Clinical Intern, Intensive Treatment Team (Juvenile Justice) | [WellPower - All External Jobs](https://wellpower.org) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/mentalhealthcenterofdenver/jobs/7770745003) |
 | Director, Business Systems and Integration | [SugarCRM](https://sugarcrm.com) | — | Jun 11 | [Apply](https://jobs.lever.co/sugarcrm/aadbfb45-9836-47a8-ac35-cdc0d73bba95) |

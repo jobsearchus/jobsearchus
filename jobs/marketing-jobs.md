@@ -2,7 +2,7 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**411 open roles** — Last updated: 2026-06-13
+**414 open roles** — Last updated: 2026-06-13
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -10,12 +10,15 @@ Remote marketing roles across growth, content, brand, and performance channels.
 | --- | --- | --- | --- | --- |
 | Lifecycle Marketing Manager (B2C) Hybrid | [Weedmaps](https://weedmaps.com) | $125K–$136K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/weedmaps77/jobs/8590187002) |
 | Organic Search Manager | [Kapitus](https://kapitus.com) | $63K–$101K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/kapitus/jobs/4280827009) |
+| Communication Program Director - Architecture  | [University of Notre Dame](https://universityofnotredame.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013606986) |
 | Lead Brand Marketing Coordinator | [Kapitus](https://kapitus.com) | $69K–$110K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/kapitus/jobs/4281669009) |
 | Vertical Marketing Lead, Public Sector | [Socure](https://socure.com) | — | Jun 12 | [Apply](https://jobs.ashbyhq.com/socure/a4ef00ff-4733-4cbd-ba77-e88783729be8) |
 | Senior Marketing Tech and CRM Administrator | [Nielsen](https://nielsen.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990013599116) |
 | Growth & Community Development Lead | [Pursuit](https://pursuit-properties.com) | $120K–$130K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/pursuit/jobs/8002665) |
 | Zelfstandig Werkend Kok | [Escape](https://escape.tech) | — | Jun 12 | [Apply](https://jobs.escape.nl/o/zelfstandig-werkend-kok-27/c/new) |
 | Sales Content & Influence - Apprenticeship  (All genders) | [Dailymotion](https://dailymotion.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Dailymotion/postings/744000131827539) |
+| Corporate Communications Manager | [Canva](https://canva.com) | $148K–$210K/yr | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001151197) |
+| Product Communications Manager | [Canva](https://canva.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001151141) |
 | Growth Marketing Manager, Agent Stack  | [Vercel](https://vercel.com) | $176K–$220K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/vercel/jobs/6016765004) |
 | Brand Strategist Sr | [Genpak LLC](https://genpak-llc-2) | — | Jun 11 | [Apply](https://job-boards.eu.greenhouse.io/valtech/jobs/4895901101) |
 | Brand Strategist Senior | [Genpak LLC](https://genpak-llc-2) | — | Jun 11 | [Apply](https://job-boards.eu.greenhouse.io/valtech/jobs/4895903101) |

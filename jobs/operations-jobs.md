@@ -2,19 +2,26 @@
 
 Remote operations and business operations roles across industries.
 
-**1263 open roles** — Last updated: 2026-06-13
+**1272 open roles** — Last updated: 2026-06-13
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Program Lead, Strategic Partnerships (Cloud / AI / Data) - Remote | [Experian](https://experianplc.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000131989114) |
 | Inventory Associate | [GOAT Group](https://goatgroup.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/goatgroup/jobs/4705611005) |
 | Decision Center Specialist  | [GOAT Group](https://goatgroup.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/goatgroup/jobs/4705607005) |
+| Intern de ESH | [Continental](https://continentalserves.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000131985540) |
 | Warehouse Associate (Fridge/Cooler) - Moonachie | [Odeko](https://odeko.com) | $18/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/odeko/jobs/6026838004) |
 | Program Associate | [Axle](https://axle.insure) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/axle/jobs/5163888007) |
+| Intern IT Tactical Purchasing | [Continental](https://continentalserves.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000131983179) |
+| Assistant Director of Hotel Operations - Morris Inn  | [University of Notre Dame](https://universityofnotredame.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013607327) |
 | Construction Project Manager (Federal & Grant-Funded Projects) | [KPFF Consulting Engineers](https://kpff.com) | $100K–$150K/yr | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/KPFFConsultingEngineers/postings/3743990013604596) |
 | Part Time Laundry Aide (PM) | [Silverado](https://silverado.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/silverado/jobs/5163596007) |
 | Head of FCRA Operations and Compliance | [Socure](https://socure.com) | — | Jun 12 | [Apply](https://jobs.ashbyhq.com/socure/7d53d14e-887a-4249-9974-c77344fd7b69) |
+| Office Admin/Dispatcher- Fort Mcmurray | [Manitoulin Global Forwarding](https://manitoulingroup.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000131944630) |
+| Workplace Planning Coordinator | [NBCUniversal](https://nbcuniversal.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000131944849) |
+| Space Planning Coordinator | [NBCUniversal](https://nbcuniversal.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000131943799) |
 | Inspetor(a) de Tráfego | [Egis](https://egis-group.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000131933262) |
 | Program Coordinator and Community Liaison | [University of Notre Dame](https://universityofnotredame.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013599176) |
 | Overnight Supervisor - Morris Inn | [University of Notre Dame](https://universityofnotredame.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013598459) |
@@ -32,6 +39,7 @@ Remote operations and business operations roles across industries.
 | Chauffeur livreur installateur F/H/X | [BUT](https://but.fr) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000131891159) |
 | Operador/a 24x7 | [Inetum](https://inetum.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000131887482) |
 | Roller Head Technician | [Enviva](https://envivabiomass.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/enviva/jobs/7770537003) |
+| Operator GR2 | [Anglo American](https://angloamerican.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000131864889) |
 | ESH Engineer | [Continental](https://continentalserves.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000131861234) |
 | Technical Supervisor | [ACCOR](https://group.accor.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000131824954) |
 | Buiten Laborant Infra - Jij zorgt voor kwaliteit op topniveau! | [BESIX](https://besix.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000131823149) |
@@ -54,6 +62,7 @@ Remote operations and business operations roles across industries.
 | Fulfillment Operations Lead | [Certus AI](https://certus-ai.com) | — | Jun 11 | [Apply](https://certus.recruitee.com/o/fulfillment-operations-lead/c/new) |
 | Crew Lead & Equipment Operator | [Distro](https://distro.app) | — | Jun 11 | [Apply](https://jobs.lever.co/distro/5b4b4390-6124-44c0-bc8d-a57b8920b353) |
 | Deputy Store Manager 30h - Castellammare di Stabia | [JYSK](https://jysk.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000131745269) |
+| Superintendente Desempeño Social y Comunidades - El Soldado | [Anglo American](https://angloamerican.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000131743849) |
 | Events Coordinator | [KPFF Consulting Engineers](https://kpff.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/KPFFConsultingEngineers/postings/3743990013585146) |
 | Practice Manager - Maternity Cover | [PortmanDentex](https://portmandentex.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000131735850) |
 | Fleet Manager | [PowerX](https://powerx.co) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/powerx/jobs/4283887009) |

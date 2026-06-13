@@ -2,7 +2,7 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**1100 open roles** — Last updated: 2026-06-13
+**1101 open roles** — Last updated: 2026-06-13
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -13,6 +13,7 @@ Remote sales roles — account executives, SDRs, and enterprise deals.
 | MANAGER DE RAYON POISSONNERIE (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000131944399) |
 | Vendeur charcuterie-traiteur (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000131941350) |
 | - CONSEILLER PROJETS (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000131938220) |
+| Automotive Service Advisor - Up to 90k* & Weekends Off - Simpsonville | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000131935983) |
 | Account Executive, Gov & Healthcare (French-Speaking) | [Canva](https://canva.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001151754) |
 | Inside Sales Agent (French) -Talent pool for Future Openings  | [MSX International](https://msxi.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013598856) |
 | Inside Sales Agent (French)  -Talent pool for Future Openings  | [MSX International](https://msxi.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013598816) |

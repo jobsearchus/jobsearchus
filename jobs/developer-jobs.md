@@ -2,12 +2,14 @@
 
 General developer and programmer roles that did not fit a more specific category.
 
-**123 open roles** — Last updated: 2026-06-13
+**125 open roles** — Last updated: 2026-06-13
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Technical Curriculum Developer - Revenue Enablement | [Freshworks](https://freshworks.com) | $115K–$150K/yr | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000131945624) |
+| Senior Technical Curriculum Developer - Revenue Enablement | [Freshworks](https://freshworks.com) | $110K–$142K/yr | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000131945679) |
 | Junior SAP Developer - Consultant  | [Netcompany](https://netcompany.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000131863545) |
 | Principal Developer Advocate, AI | [Temporal](https://temporal.io) | $260K–$325K/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/temporaltechnologies/jobs/4947867007) |
 | Developer Intern, Ecosystems- Fall 2026 | [1Password](https://1password.com) | — | Jun 11 | [Apply](https://jobs.ashbyhq.com/1password/44150e12-89b1-4ac7-ad8d-671f5ec650dd) |
