@@ -2,7 +2,7 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**1234 open roles** — Last updated: 2026-06-13
+**1242 open roles** — Last updated: 2026-06-13
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -11,24 +11,31 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Bartender - Filia | [ACCOR](https://group.accor.com) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000132032499) |
 | Barista | [ACCOR](https://group.accor.com) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000132031930) |
 | Hostess - Third Room | [ACCOR](https://group.accor.com) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000132032439) |
+|  SALES ASSISTANT ( PART TIME) - NOVARA C.C. SAN MARTINO 2 | [JD Sports](https://jdsports.com) | — | Jun 13 | [Apply](https://job-boards.eu.greenhouse.io/jdsports/jobs/4897000101) |
 | VENDEUR CHARCUTERIE / TRAITEUR / FROMAGE (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000132030449) |
 | MANAGER DE RAYON FRAIS LIBRE SERVICE | [Genpak LLC](https://genpak-llc-2) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000132029509) |
 | INTERMARCHE - VENDEUR ALIMENTAIRE (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000132029314) |
 | EMPLOYE COMMERCIAL ETUDIANT (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000132028974) |
 | BOULANGER (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000132029039) |
 | HÔTE DE CAISSE - EMPLOYE COMMERCIAL (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000132028774) |
+| Low Voltage Service Technician | [New Era Technology](https://neweratech.com) | — | Jun 13 | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8589743002) |
 | Delivery Driver - 1869 Addison Ave. E | [Domino's](https://dominos.com) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000132021646) |
 | Assistant Manager(08310) - 1865 Lincoln Blvd. | [Domino's](https://dominos.com) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000132021621) |
 | Assistant Manager(09428) - 15127 Main Street East, Suite 105 | [Domino's](https://dominos.com) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000132021173) |
+| Occupational Therapist - Visit Based Earnings | [Genpak LLC](https://genpak-llc-2) | — | Jun 13 | [Apply](https://job-boards.greenhouse.io/drayerpt/jobs/5164385007) |
 | Senior Customer Success Manager | [Horizon3.ai](https://horizon3ai.com) | $140K–$175K/yr | Jun 12 | [Apply](https://jobs.ashbyhq.com/horizon3ai/31e7e581-d7d6-4512-b4df-ae0539f78dbd) |
+| Director of Recreation | [Crestwood Behavioral Health](https://crestwoodbehavioralhealth.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/crestwoodcareers/jobs/7772143003) |
 | Store Representative - Days (PT) | [Serv-U-Success](https://servusuccess.com) | $16/yr | Jun 12 | [Apply](https://jobs.lever.co/serv-u-success/20493be8-6557-40b1-ba51-ff9d9f3954d5) |
 | Préposé.e au bar, saisonnier (H/F/D) | [ACCOR](https://group.accor.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000131975083) |
 | Store Merchandiser - Day shift (Full Time) | [Serv-U-Success](https://servusuccess.com) | $16/yr | Jun 12 | [Apply](https://jobs.lever.co/serv-u-success/276c4092-3638-4f2f-91d5-12bb91fb5992) |
 | Senior Tech Reporter, CNBC | [Versant](https://versant.com) | $200K–$225K/yr | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Versant3/postings/744000131961400) |
 | Technical Support Specialist | [Submittable](https://submittable.com) | $55K–$60K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/submittable/jobs/6025447004) |
+| Director of Recreation  | [Crestwood Behavioral Health](https://crestwoodbehavioralhealth.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/crestwoodcareers/jobs/7771837003) |
+| Senior Director, Global Social Commerce | [e.l.f. Beauty](https://elfbeauty.com) | — | Jun 12 | [Apply](https://jobs.lever.co/elfbeauty/fa85db50-9764-4817-bc60-9d583f3d225b) |
 | Part Time Licensed Vocational Nurse, LVN (NOC) | [Silverado](https://silverado.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/silverado/jobs/5163440007) |
 | General Service Technician / Mechanic - Weekends Off - Simpsonville | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000131938111) |
 | Dental Hygienist Therapist | [PortmanDentex](https://portmandentex.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000131938469) |
+| Medical Science Liaison | [Natera](https://natera.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/natera/jobs/6010843004) |
 | Dentist | [PortmanDentex](https://portmandentex.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000131919993) |
 | Domino's General Manager (08974) | [Domino's](https://dominos.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131907295) |
 | Domino's Delivery Driver (08892) | [Domino's](https://dominos.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131910959) |
@@ -54,6 +61,7 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Clinical Biospecimen Operations Associate | [Natera](https://natera.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/natera/jobs/6020418004) |
 | Lead Technical Writer | [Stratolaunch](https://stratolaunch.com) | $120K–$155K/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/stratolaunch/jobs/5255814008) |
 | Floor Manager - Soho House Sao Paulo | [Soho House](https://sohohouse.com) | — | Jun 11 | [Apply](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4890699101) |
+| Senior Director, APAC Data Partnerships Lead | [WPP](https://wpp.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/wpp/jobs/8576193002) |
 | Senior Client Data Operations Specialist | [VIDA & Co.](https://shopvida.com) | — | Jun 11 | [Apply](https://jobs.lever.co/vida/f261ef3a-724c-406d-83f8-9163239d37aa) |
 | Physical Therapist Assistant | [BenchMark Physical Therapy](https://benchmarkpt.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/benchmarkpt/jobs/5161738007) |
 | Key Holder (Part-time) | [Camp](https://nouns.camp) | $18/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/camp/jobs/8588777002) |

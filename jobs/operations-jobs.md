@@ -2,13 +2,17 @@
 
 Remote operations and business operations roles across industries.
 
-**1276 open roles** — Last updated: 2026-06-13
+**1286 open roles** — Last updated: 2026-06-13
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+|     Data Operations Analyst Intern | [Instawork](https://instawork.com) | — | Jun 13 | [Apply](https://job-boards.greenhouse.io/instawork/jobs/4689262006) |
+| Principal Security Advisor | [New Era Technology](https://neweratech.com) | $125K–$150K/yr | Jun 13 | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8590399002) |
 | Assistant Manager(08556) - 4415 Imperial | [Domino's](https://dominos.com) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000132017372) |
+| Wiring Technician | [Crusoe](https://crusoe.com) | — | Jun 12 | [Apply](https://jobs.ashbyhq.com/crusoe/8ba43db9-91b8-45b7-bf82-3475adc2f457) |
+| Demand Planning Sr Analyst | [Delivery Hero](https://deliveryhero.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000131990399) |
 | Program Lead, Strategic Partnerships (Cloud / AI / Data) - Remote | [Experian](https://experianplc.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000131989114) |
 | Inventory Associate | [GOAT Group](https://goatgroup.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/goatgroup/jobs/4705611005) |
 | Decision Center Specialist  | [GOAT Group](https://goatgroup.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/goatgroup/jobs/4705607005) |
@@ -34,14 +38,20 @@ Remote operations and business operations roles across industries.
 | Domino's General Manager (08892) | [Domino's](https://dominos.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131911129) |
 | Mecânica / Mecânico Industrial III | [Anglo American](https://angloamerican.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000131904784) |
 | Automotive Operations Specialist | [MSX International](https://msxi.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013597206) |
+| Commercial Technician | [DH Pace Company](https://dhpace.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5256754008) |
+| Commercial Technician - Jacksonville | [DH Pace Company](https://dhpace.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5256751008) |
 | Automotive Service Advisor / Writer - Weekends Off - Port Charlotte | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000131892530) |
 | AI Native Program Manager | [Pursuit](https://pursuit-properties.com) | $100K–$115K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/pursuit/jobs/8002668) |
 | Chef de projet IT H/F | [Inetum](https://inetum.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000131893314) |
 | Chauffeur livreur installateur F/H/X | [BUT](https://but.fr) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000131891159) |
 | Operador/a 24x7 | [Inetum](https://inetum.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000131887482) |
 | Roller Head Technician | [Enviva](https://envivabiomass.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/enviva/jobs/7770537003) |
+| Event Manager - Manchester (New Hampshire) | [Fever](https://feverup.com) | $25/yr | Jun 12 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4896429101) |
+| Event Manager - Burlington (Vermont) | [Fever](https://feverup.com) | $25/yr | Jun 12 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4896427101) |
+| Event Manager - Buffalo (NY) | [Fever](https://feverup.com) | — | Jun 12 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4896398101) |
 | Operator GR2 | [Anglo American](https://angloamerican.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000131864889) |
 | ESH Engineer | [Continental](https://continentalserves.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000131861234) |
+| Category Specialist  | [Entain](https://entaingroup.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Entain/postings/744000131854188) |
 | Projektassistenz (w/m/d) Innovative Arbeitswelten (zunächst befristet auf 2 Jahre) | [Drees & Sommer](https://dreso.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000131841324) |
 | Project Coördinator | [BESIX](https://besix.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000131837129) |
 | Operations Manager | [Standard Bank](https://standardbank.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000131826939) |

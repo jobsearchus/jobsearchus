@@ -2,12 +2,14 @@
 
 Project and program management roles across tech, operations, and enterprise.
 
-**120 open roles** — Last updated: 2026-06-13
+**122 open roles** — Last updated: 2026-06-13
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Project Manager | [AHEAD](https://ahead.com) | — | Jun 13 | [Apply](https://jobs.lever.co/thinkahead/146986f2-9764-47ec-bbd9-31d8e04a4376) |
+| Technology Project Manager | [Genpak LLC](https://genpak-llc-2) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000132019632) |
 | Associate Principal Engineer - Technical Project Manager | [Nagarro](https://nagarro.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000131932571) |
 | Junior Project Manager Intern | [AUTO1 Group](https://auto1-group.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000131882810) |
 | Projectmanager Wegen & Riolering | [BESIX](https://besix.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000131842075) |

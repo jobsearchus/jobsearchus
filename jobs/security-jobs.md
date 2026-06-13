@@ -2,13 +2,17 @@
 
 Remote cybersecurity, information security, and security engineering roles.
 
-**127 open roles** — Last updated: 2026-06-13
+**131 open roles** — Last updated: 2026-06-13
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| IT Analyst | [Censys](https://censys.com) | $119K–$134K/yr | Jun 13 | [Apply](https://job-boards.greenhouse.io/censys/jobs/8590518002) |
+| Senior Security Engineer (Cyber Resiliency) | [Chainguard](https://chainguard.dev) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/chainguard/jobs/4689089006) |
+| Senior Systems Support Engineer - Focus in Security (BR) | [Referrals Only](https://thoughtworks.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/8002938) |
 | Third Party Security - Senior Analyst | [Experian](https://experianplc.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000131920319) |
+| Senior Product Security Engineer | [Chainguard](https://chainguard.dev) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/chainguard/jobs/4688970006) |
 | Specialist, Provincial Security (Limpopo) | [Standard Bank](https://standardbank.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000131851049) |
 | Sr. Security Engineer - GRC | [6sense](https://6sense.com) | — | Jun 12 | [Apply](https://boards.greenhouse.io/6sense/jobs/7984436?gh_jid=7984436) |
 | Manager, Security Operations (Remote) | [Rula](https://rula.com) | — | Jun 12 | [Apply](https://jobs.ashbyhq.com/rula/c566a3b5-96bd-4fd4-855b-92872a888f9e) |

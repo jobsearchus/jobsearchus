@@ -2,18 +2,25 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**1784 open roles** — Last updated: 2026-06-13
+**1795 open roles** — Last updated: 2026-06-13
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Associate Technical Consultant  | [Razorpay Software Private Limited](https://razorpay.com) | — | Jun 13 | [Apply](https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4701920005) |
 | Principal Engineer, Salesforce Healthcloud | [Nagarro](https://nagarro.com) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000132027899) |
 | Principal Engineer, Salesforce Healthcloud | [Nagarro](https://nagarro.com) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000132027609) |
 | Software Engineer (Must Have .Net Core) | [NCS](https://ncs.co) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001151861) |
 | Software Engineer (Must Have Java + Prefer Outsystems/ServiceNow) | [NCS](https://ncs.co) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001151836) |
+| Software Engineer - Data Movement Platform | [Reddit](https://reddit.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/7997866) |
+| Staff Software Engineer - Content Platform | [Reddit](https://reddit.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/8004045) |
+| Vocational Counselor - Employment Specialist - Next Chapter | [WellPower - All External Jobs](https://wellpower.org) | $30/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/mentalhealthcenterofdenver/jobs/7772317003) |
 | RF Integration Team Lead  | [Astranis](https://astranis.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4689200006) |
+| Senior Azure Cloud Engineer | [LightFeather](https://lightfeather.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5212246008) |
 | PBM Data Analyst | [SmithRx](https://smithrx.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/smithrx/jobs/8590301002) |
+| Junior Design Engineer, Americas | [Ashby](https://ashbyhq.com) | — | Jun 12 | [Apply](https://jobs.ashbyhq.com/ashby/aa872384-2ea3-4aab-b437-5133c8dbc446) |
+| Senior Data Analyst – Travel Entertainment | [Truelogic](https://truelogic.com) | — | Jun 12 | [Apply](https://jobs.ashbyhq.com/truelogic/ed886647-8116-4895-98c2-b927ee8c2a6f) |
 | Manager, Salesforce | [Sectigo](https://sectigo.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Sectigo/postings/3743990013609886) |
 | Product Engineer | [Pelago](https://pelagohealth.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/pelago/jobs/5164145007) |
 | Product Engineer | [Pelago](https://pelagohealth.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/pelago/jobs/5164093007) |
@@ -33,12 +40,15 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Senior Cloud Engineer | [Sopra Steria](https://soprasteria.com) | £65K–£75K/yr | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/SopraSteria1/postings/744000131932648) |
 | Sr Manager, IAM Authentication | [NBCUniversal](https://nbcuniversal.com) | $175K–$210K/yr | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000131930690) |
 | Senior Software Engineer - Python | [Experian](https://experianplc.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000131923479) |
+| Senior Systems Support Engineer - Focus in Security (EC) | [Referrals Only](https://thoughtworks.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/8002959) |
 | Junior System Integration Engineer              | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $75K–$80K/yr | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000131919005) |
+| Principal Presales Engineer (German Speaking)  | [Twilio](https://twilio.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8000178) |
 | Senior Software Engineer, Platform | [Branch AI](https://branch-ai.com) | $160K–$170K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/branch/jobs/7771615003) |
 | Staff Software Engineer, Platform | [Branch AI](https://branch-ai.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/branch/jobs/7771630003) |
 | Senior Pre-Sales Engineer - Network | [AHEAD](https://ahead.com) | — | Jun 12 | [Apply](https://jobs.lever.co/thinkahead/679c70bf-320f-4690-9c90-8365b6047463) |
 | Naval Architect | [Anglo American](https://angloamerican.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000131904219) |
 | Senior Pre-Sales Engineer - Network | [AHEAD](https://ahead.com) | — | Jun 12 | [Apply](https://jobs.lever.co/thinkahead/b0fe780b-021b-4c10-b287-8fa5a9d078f4) |
+| Commercial Entry Door Technicians - Port St. Lucie | [DH Pace Company](https://dhpace.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5256753008) |
 | Développeur IOT H/F | [Inetum](https://inetum.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000131888492) |
 | DEVELOPPEUR CONFIRME PHP H/F | [Inetum](https://inetum.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000131884676) |
 | Bid Manager IT (w/m/d)  | [Drees & Sommer](https://dreso.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000131878405) |
@@ -75,6 +85,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Senior Manager, Arc Vehicle Reentry  | [Inversion Space](https://inversionspace.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/inversionspace/jobs/4705164005) |
 | Director, EMEA Data Partnerships | [WPP](https://wpp.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/wpp/jobs/8576098002) |
 | Data Architect - Fleet Aviation Team | [Genpak LLC](https://genpak-llc-2) | — | Jun 11 | [Apply](https://jobs.lever.co/steerbridge/361e49fb-ed6d-440e-8185-6acba49342df) |
+| Senior Director, EMEA Data Partnerships Lead : Data & Tech Solutions | [WPP](https://wpp.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/wpp/jobs/8574816002) |
 | Software Engineer - Fleet Aviation Team | [Genpak LLC](https://genpak-llc-2) | — | Jun 11 | [Apply](https://jobs.lever.co/steerbridge/48998b31-69da-4092-bd06-e1a6fbe38652) |
 | Senior Windows Systems Administrator  | [Black Canyon Consulting](https://blackcanyonconsulting.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/blackcanyonconsulting/jobs/7767074003) |
 | Manager, Engineering, Secure Build | [Docker](https://docker.com) | — | Jun 11 | [Apply](https://jobs.ashbyhq.com/docker/a6eb0b73-d10e-4d2c-8f94-173f5584bef8) |

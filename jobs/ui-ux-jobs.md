@@ -2,7 +2,7 @@
 
 UX design, UI design, and product design roles. Figma, research, and end-to-end product work.
 
-**165 open roles** — Last updated: 2026-06-13
+**166 open roles** — Last updated: 2026-06-13
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -13,6 +13,7 @@ UX design, UI design, and product design roles. Figma, research, and end-to-end 
 | Design Engineer, EU | [Ashby](https://ashbyhq.com) | — | Jun 12 | [Apply](https://jobs.ashbyhq.com/ashby/188cc71b-a625-4022-94dc-7c43fa1a8b06) |
 | Surface Design Summer Intern | [Continental](https://continentalserves.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000131977525) |
 | Technical Program Manager, Infrastructure | [Figma](https://figma.com) | — | Jun 12 | [Apply](https://boards.greenhouse.io/figma/jobs/6020719004?gh_jid=6020719004) |
+| Lead Product Designer | [Twilio](https://twilio.com) | $159K–$177K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7985808) |
 | Concepteur·trice de niveaux Senior | [Haven](https://usehaven.ai) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/haven/jobs/6020763004) |
 | Designer  | [DLR Group](https://dlrgroup.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/dlrgroup/jobs/5239840008) |
 | Senior Motion Designer/Video Editor | [Genpak LLC](https://genpak-llc-2) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/brandtechplus/jobs/8001878) |

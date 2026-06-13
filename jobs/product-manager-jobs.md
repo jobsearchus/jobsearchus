@@ -2,12 +2,14 @@
 
 Product manager roles at companies building real products. Sourced directly from career pages.
 
-**204 open roles** — Last updated: 2026-06-13
+**206 open roles** — Last updated: 2026-06-13
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Product Manager, AI Access | [Cloudflare](https://cloudflare.com) | $141K–$180K/yr | Jun 13 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7904142?gh_jid=7904142) |
+| Principal Product Manager (India) | [Karat Financial](https://trykarat.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/karat/jobs/8589269002) |
 | PV - Analista Sênior de Produto - Pagamentos (POS & SmartPOS)  | [Experian](https://experianplc.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000131994314) |
 | Senior Product Manager - Document Verification | [Socure](https://socure.com) | — | Jun 12 | [Apply](https://jobs.ashbyhq.com/socure/aaad1c05-d298-40b4-a628-96bd1105fc9d) |
 | Product Manager, Digital Advertising Capabilities (Supply & Demand Quality) | [NBCUniversal](https://nbcuniversal.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000131929699) |

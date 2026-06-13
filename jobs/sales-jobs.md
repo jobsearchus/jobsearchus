@@ -2,14 +2,21 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**1102 open roles** — Last updated: 2026-06-13
+**1111 open roles** — Last updated: 2026-06-13
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| VENDEUR CONSEIL - RENFORT ETE - CDD H/F | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000132031429) |
+| Vendeur / Vendeuse CDI -  Temps partiel [25 heures ] (H/F) | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000132030689) |
+| Sales Executive Sr | [Delivery Hero](https://deliveryhero.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000131996359) |
+| Sales Executive Sr | [Delivery Hero](https://deliveryhero.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000131996099) |
+| National Partner Manager - WWT  | [Pure Storage](https://purestorage.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/8001253) |
 | Senior Sales Development Representative, DACH | [Horizon3.ai](https://horizon3ai.com) | — | Jun 12 | [Apply](https://jobs.ashbyhq.com/horizon3ai/34916166-4ea5-4278-a013-6af1561529c0) |
 | Sales Development Representative | [Censys](https://censys.com) | $105K–$130K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/censys/jobs/8590014002) |
+| National Account Manager, LGP & PE | [Natera](https://natera.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/natera/jobs/6021568004) |
+| Trading Specialist | [The Trade Desk](https://thetradedesk.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5163542007) |
 | MANAGER DE RAYON POISSONNERIE (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000131944399) |
 | Vendeur charcuterie-traiteur (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000131941350) |
 | - CONSEILLER PROJETS (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000131938220) |
@@ -21,8 +28,10 @@ Remote sales roles — account executives, SDRs, and enterprise deals.
 | Sales Manager | [AUTO1 Group](https://auto1-group.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000131919312) |
 | VP, Travel Partnerships | [Clear Gene](https://cleargene.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/clear/jobs/8001243) |
 | Account Executive - Gov & Healthcare  | [Canva](https://canva.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001151739) |
+| BTS ALTERNANCE - VENTE H/F  | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000131898479) |
 | Sales Specialist - Upsell | [Aura](https://aura.com) | $55K–$80K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/aura798/jobs/6017424004) |
 | Account Manager - DSD Sales | [Serv-U-Success](https://servusuccess.com) | — | Jun 12 | [Apply](https://jobs.lever.co/serv-u-success/02b48be2-028b-4699-af19-4f079aa518a4) |
+| VENDEUR CONSEIL - CDD H/F 28H JUILLET/AOUT (Evolutif CDI) | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000131881840) |
 | Administrativo/a de Automoción - Torrejón de Ardoz | [AUTO1 Group](https://auto1-group.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000131879865) |
 | Vice President Sales | [Yubico Inc.](https://yubico.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/yubico/jobs/4265173009) |
 | Business Development Representative | [G2](https://g2.com) | — | Jun 12 | [Apply](https://jobs.ashbyhq.com/g2/c4488906-c271-45b3-a658-b4699b16c0b4) |

@@ -2,12 +2,13 @@
 
 QA, test automation, and SDET roles. Manual and automated testing across all stacks.
 
-**60 open roles** — Last updated: 2026-06-13
+**61 open roles** — Last updated: 2026-06-13
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior QA Engineer - E-commerce | [Truelogic](https://truelogic.com) | — | Jun 12 | [Apply](https://jobs.ashbyhq.com/truelogic/a705a4e1-0d15-4953-9955-1d4829fa2e13) |
 | Senior QA Engineer - E-commerce - Mexico | [Truelogic](https://truelogic.com) | — | Jun 12 | [Apply](https://jobs.ashbyhq.com/truelogic/27f734c7-9deb-42f7-855a-c54eae233108) |
 | Senior QA Engineer - E-commerce - Brazil | [Truelogic](https://truelogic.com) | — | Jun 12 | [Apply](https://jobs.ashbyhq.com/truelogic/c5443643-309b-4c15-bc69-804a2e95c327) |
 | Senior QA Engineer - E-commerce - Colombia | [Truelogic](https://truelogic.com) | — | Jun 12 | [Apply](https://jobs.ashbyhq.com/truelogic/7d40c4cf-37b2-428e-80d5-ee139b35c7cd) |

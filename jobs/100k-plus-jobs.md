@@ -2,12 +2,15 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**770 open roles** — Last updated: 2026-06-13
+**774 open roles** — Last updated: 2026-06-13
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Product Manager, AI Access | [Cloudflare](https://cloudflare.com) | $141K–$180K/yr | Jun 13 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7904142?gh_jid=7904142) |
+| Principal Security Advisor | [New Era Technology](https://neweratech.com) | $125K–$150K/yr | Jun 13 | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8590399002) |
+| IT Analyst | [Censys](https://censys.com) | $119K–$134K/yr | Jun 13 | [Apply](https://job-boards.greenhouse.io/censys/jobs/8590518002) |
 | Senior Human Resources Generalist | [KPFF Consulting Engineers](https://kpff.com) | $105K–$120K/yr | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/KPFFConsultingEngineers/postings/3743990013610976) |
 | ML Engineer - Instawork Robotics | [Instawork](https://instawork.com) | $170K–$200K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/instawork/jobs/4686498006) |
 | Senior Software Engineer - Instawork Robotics | [Instawork](https://instawork.com) | $170K–$200K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/instawork/jobs/4689180006) |
@@ -18,6 +21,7 @@ Remote roles paying $100,000 or more per year. Salary data pulled directly from 
 | Senior Tech Reporter, CNBC | [Versant](https://versant.com) | $200K–$225K/yr | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Versant3/postings/744000131961400) |
 | Staff Vehicle Engineer  | [Inversion Space](https://inversionspace.com) | $161K–$221K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/inversionspace/jobs/4705505005) |
 | Construction Project Manager (Federal & Grant-Funded Projects) | [KPFF Consulting Engineers](https://kpff.com) | $100K–$150K/yr | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/KPFFConsultingEngineers/postings/3743990013604596) |
+| Lead Product Designer | [Twilio](https://twilio.com) | $159K–$177K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7985808) |
 | Sales Development Representative | [Censys](https://censys.com) | $105K–$130K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/censys/jobs/8590014002) |
 | Senior Technical Curriculum Developer - Revenue Enablement | [Freshworks](https://freshworks.com) | $115K–$150K/yr | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000131945624) |
 | Senior Technical Curriculum Developer - Revenue Enablement | [Freshworks](https://freshworks.com) | $110K–$142K/yr | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000131945679) |

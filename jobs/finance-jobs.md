@@ -2,12 +2,13 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**538 open roles** — Last updated: 2026-06-13
+**539 open roles** — Last updated: 2026-06-13
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Accounting Manager | [Ashby](https://ashbyhq.com) | — | Jun 13 | [Apply](https://jobs.ashbyhq.com/ashby/a01c848f-cc95-4be1-9ea8-dade140b6f66) |
 | Director of Financial Planning and Analysis | [Experian](https://experianplc.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000131994489) |
 | Director of Financial Planning & Analysis | [ACLU](https://aclu.org) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/aclu/jobs/8588672002) |
 | Operador de Financiamento Jr. (F&I)  | [MSX International](https://msxi.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013607086) |
