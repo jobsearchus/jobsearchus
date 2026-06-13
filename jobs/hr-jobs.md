@@ -2,14 +2,17 @@
 
 Remote HR, recruiting, and people operations roles.
 
-**217 open roles** — Last updated: 2026-06-12
+**220 open roles** — Last updated: 2026-06-13
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Sr. HR Operations Specialist - UKG Ready | [Double Good](https://doublegood.com) | $90K–$120K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/doublegood/jobs/6019969004) |
 | Assistant Director, People & Culture | [ACCOR](https://group.accor.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000131975660) |
+| Chargé de recrutement IT (H/F) | [Everience](https://everience.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/EVERIENCE/postings/744000131923309) |
 | Human Resources Operations Specialist | [AlertMedia](https://alertmedia.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/alertmedia/jobs/8588928002) |
+| ALTERNANCE - Chargé de recrutement (H/F) | [Everience](https://everience.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/EVERIENCE/postings/744000131918371) |
 | HR Business Partner, Purchasing (d/m/w) | [AUTO1 Group](https://auto1-group.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000131900466) |
 | Junior Business Partner, People & Culture, Personal & Private Banking | [Standard Bank](https://standardbank.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000131890389) |
 | Recruitment Researcher Intern | [Miratech](https://miratech.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000131826730) |

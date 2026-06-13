@@ -2,12 +2,14 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**1097 open roles** — Last updated: 2026-06-12
+**1100 open roles** — Last updated: 2026-06-13
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Sales Development Representative, DACH | [Horizon3.ai](https://horizon3ai.com) | — | Jun 12 | [Apply](https://jobs.ashbyhq.com/horizon3ai/34916166-4ea5-4278-a013-6af1561529c0) |
+| Sales Development Representative | [Censys](https://censys.com) | $105K–$130K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/censys/jobs/8590014002) |
 | MANAGER DE RAYON POISSONNERIE (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000131944399) |
 | Vendeur charcuterie-traiteur (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000131941350) |
 | - CONSEILLER PROJETS (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000131938220) |
@@ -16,6 +18,7 @@ Remote sales roles — account executives, SDRs, and enterprise deals.
 | Inside Sales Agent (French)  -Talent pool for Future Openings  | [MSX International](https://msxi.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013598816) |
 | Account Executive - Gov & Healthcare (Austin, Texas) | [Canva](https://canva.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001151749) |
 | Sales Manager | [AUTO1 Group](https://auto1-group.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000131919312) |
+| VP, Travel Partnerships | [Clear Gene](https://cleargene.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/clear/jobs/8001243) |
 | Account Executive - Gov & Healthcare  | [Canva](https://canva.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001151739) |
 | Sales Specialist - Upsell | [Aura](https://aura.com) | $55K–$80K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/aura798/jobs/6017424004) |
 | Account Manager - DSD Sales | [Serv-U-Success](https://servusuccess.com) | — | Jun 12 | [Apply](https://jobs.lever.co/serv-u-success/02b48be2-028b-4699-af19-4f079aa518a4) |

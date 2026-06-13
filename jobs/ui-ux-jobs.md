@@ -2,12 +2,17 @@
 
 UX design, UI design, and product design roles. Figma, research, and end-to-end product work.
 
-**159 open roles** — Last updated: 2026-06-12
+**164 open roles** — Last updated: 2026-06-13
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Design Engineer, Americas | [Ashby](https://ashbyhq.com) | — | Jun 12 | [Apply](https://jobs.ashbyhq.com/ashby/fd86edd7-3af0-4977-a61a-215212c296fa) |
+| Design Engineer, UK | [Ashby](https://ashbyhq.com) | — | Jun 12 | [Apply](https://jobs.ashbyhq.com/ashby/cb45928e-c7c7-4163-84d0-a962755a3593) |
+| Design Engineer, EU | [Ashby](https://ashbyhq.com) | — | Jun 12 | [Apply](https://jobs.ashbyhq.com/ashby/188cc71b-a625-4022-94dc-7c43fa1a8b06) |
+| Technical Program Manager, Infrastructure | [Figma](https://figma.com) | — | Jun 12 | [Apply](https://boards.greenhouse.io/figma/jobs/6020719004?gh_jid=6020719004) |
+| Concepteur·trice de niveaux Senior | [Haven](https://usehaven.ai) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/haven/jobs/6020763004) |
 | Designer  | [DLR Group](https://dlrgroup.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/dlrgroup/jobs/5239840008) |
 | Senior Motion Designer/Video Editor | [Genpak LLC](https://genpak-llc-2) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/brandtechplus/jobs/8001878) |
 | Senior Motion Designer | [Lumin Digital](https://lumindigital.com) | — | Jun 11 | [Apply](https://jobs.lever.co/LuminDigital/f7307be8-7a48-494c-9260-dad80ac713f7) |

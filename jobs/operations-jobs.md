@@ -2,25 +2,36 @@
 
 Remote operations and business operations roles across industries.
 
-**1250 open roles** — Last updated: 2026-06-12
+**1263 open roles** — Last updated: 2026-06-13
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Inventory Associate | [GOAT Group](https://goatgroup.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/goatgroup/jobs/4705611005) |
+| Decision Center Specialist  | [GOAT Group](https://goatgroup.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/goatgroup/jobs/4705607005) |
+| Warehouse Associate (Fridge/Cooler) - Moonachie | [Odeko](https://odeko.com) | $18/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/odeko/jobs/6026838004) |
+| Program Associate | [Axle](https://axle.insure) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/axle/jobs/5163888007) |
 | Construction Project Manager (Federal & Grant-Funded Projects) | [KPFF Consulting Engineers](https://kpff.com) | $100K–$150K/yr | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/KPFFConsultingEngineers/postings/3743990013604596) |
+| Part Time Laundry Aide (PM) | [Silverado](https://silverado.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/silverado/jobs/5163596007) |
+| Head of FCRA Operations and Compliance | [Socure](https://socure.com) | — | Jun 12 | [Apply](https://jobs.ashbyhq.com/socure/7d53d14e-887a-4249-9974-c77344fd7b69) |
 | Inspetor(a) de Tráfego | [Egis](https://egis-group.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000131933262) |
 | Program Coordinator and Community Liaison | [University of Notre Dame](https://universityofnotredame.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013599176) |
 | Overnight Supervisor - Morris Inn | [University of Notre Dame](https://universityofnotredame.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013598459) |
 | Painter - Morris Inn & McKenna Conference Center | [University of Notre Dame](https://universityofnotredame.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013598426) |
+| Offre d’alternance – Business Manager / Chargé d’Affaires IT (H/F) | [Everience](https://everience.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/EVERIENCE/postings/744000131918570) |
+| Stage - Chargé(e) de mission Gouvernance Durabilité | [Sopra Steria](https://soprasteria.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/SopraSteria1/postings/744000131916378) |
+| Operations Manager | [Odeko](https://odeko.com) | $65K–$70K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/odeko/jobs/6022644004) |
 | Domino's Assistant Manager (08892) | [Domino's](https://dominos.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131910712) |
 | Domino's General Manager (08892) | [Domino's](https://dominos.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131911129) |
 | Mecânica / Mecânico Industrial III | [Anglo American](https://angloamerican.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000131904784) |
 | Automotive Operations Specialist | [MSX International](https://msxi.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013597206) |
 | Automotive Service Advisor / Writer - Weekends Off - Port Charlotte | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000131892530) |
+| AI Native Program Manager | [Pursuit](https://pursuit-properties.com) | $100K–$115K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/pursuit/jobs/8002668) |
 | Chef de projet IT H/F | [Inetum](https://inetum.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000131893314) |
 | Chauffeur livreur installateur F/H/X | [BUT](https://but.fr) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/BUT2/postings/744000131891159) |
 | Operador/a 24x7 | [Inetum](https://inetum.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000131887482) |
+| Roller Head Technician | [Enviva](https://envivabiomass.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/enviva/jobs/7770537003) |
 | ESH Engineer | [Continental](https://continentalserves.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000131861234) |
 | Technical Supervisor | [ACCOR](https://group.accor.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000131824954) |
 | Buiten Laborant Infra - Jij zorgt voor kwaliteit op topniveau! | [BESIX](https://besix.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000131823149) |
@@ -55,6 +66,7 @@ Remote operations and business operations roles across industries.
 | Global Events Manager | [Pure Storage](https://purestorage.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/7993270) |
 | Material Handler-Delaware (Contract to Hire) | [Myriad360](https://myriad360.com) | $23/yr | Jun 11 | [Apply](https://boards.greenhouse.io/myriad360/jobs/8587913002?gh_jid=8587913002) |
 | Career Success Coordinator | [Aviation Institute of Maintenance](https://aviationmaintenance.edu) | $31/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/aviationinstituteofmaintenance/jobs/5254985008) |
+| Order Management Specialist | [AHEAD](https://ahead.com) | — | Jun 11 | [Apply](https://jobs.lever.co/thinkahead/dc85f57f-40ca-46c3-b100-de468f7e758a) |
 | Technical Procurement Specialist | [BESIX](https://besix.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000131679377) |
 | INTERMARCHE - BOUCHER (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000131677995) |
 | Strategy & Operations Manager, Wholesale | [Clutch](https://clutch.io) | $110K–$130K/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/clutch/jobs/6019836004) |
@@ -80,6 +92,7 @@ Remote operations and business operations roles across industries.
 | Assistant Manager(03669) - 1758 Pitkin Ave | [Domino's](https://dominos.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131574874) |
 | General Manager(06811) - 7036 FM 1960 Rd E | [Domino's](https://dominos.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131576448) |
 | Delivery Driver(03797) - 1514 Blue Hill | [Domino's](https://dominos.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131574787) |
+| Full Time Activities Assistant (AM) | [Silverado](https://silverado.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/silverado/jobs/5161765007) |
 | Program Manager, Professional Services - East | [Airtable](https://airtable.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8586863002) |
 | Warehouse Manager (Temporary)  | [xAI](https://x.ai) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/xai/jobs/5161485007) |
 | Warehouse Supervisor (Temporary) | [xAI](https://x.ai) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/xai/jobs/5161447007) |

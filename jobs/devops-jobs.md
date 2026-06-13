@@ -2,12 +2,14 @@
 
 DevOps, platform engineering, and infrastructure roles. AWS, GCP, Kubernetes, Terraform.
 
-**104 open roles** — Last updated: 2026-06-12
+**106 open roles** — Last updated: 2026-06-13
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| [VCK] Senior DevOps Engineer AWS / AI Infrastructure | [Software Mind](https://softwaremind.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/SoftwareMind/postings/744000131979209) |
+| Nearshore Sector- AWS Platform Engineer | [Devoteam](https://devoteam.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Devoteam/postings/744000131933456) |
 | Data Engineer (Cloud Data Platform Engineer) | [NCS](https://ncs.co) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001151388) |
 | Staff Data Platform Engineer | [Tilt](https://tilt.com) | — | Jun 11 | [Apply](https://jobs.ashbyhq.com/tilthq/d652a8a7-ac54-45db-9699-d0f25e4574f1) |
 | Senior Manager, IT Infrastructure & Vendor Management | [Standard Bank](https://standardbank.com) | — | Jun 11 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000131684539) |

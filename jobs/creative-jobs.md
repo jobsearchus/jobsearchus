@@ -2,12 +2,15 @@
 
 Remote creative roles — copywriters, content creators, graphic designers, and brand specialists.
 
-**93 open roles** — Last updated: 2026-06-12
+**96 open roles** — Last updated: 2026-06-13
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Editor, Audience, CNBC International | [Versant](https://versant.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Versant3/postings/744000131967204) |
+| Segment Producer, Squawk Box - CNBC | [Versant](https://versant.com) | $90K–$110K/yr | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Versant3/postings/744000131967224) |
+| Graphic Designer, Enterprise | [DLR Group](https://dlrgroup.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/dlrgroup/jobs/5253092008) |
 | AI Creative (Illustrator) | [Superside](https://superside.com) | — | Jun 11 | [Apply](https://jobs.lever.co/superside/126e95b0-a898-44f6-b5f1-4ff9c5ee1fc8) |
 | Provider Partnerships Associate (Territory Manager) | [Nourish](https://usenourish.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/usenourish/jobs/5252241008) |
 | Associate Director, Creative Strategy, Brand Partnerships | [Fever](https://feverup.com) | $120K–$140K/yr | Jun 11 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4895639101) |

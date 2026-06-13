@@ -2,15 +2,19 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**1212 open roles** — Last updated: 2026-06-12
+**1216 open roles** — Last updated: 2026-06-13
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Customer Success Manager | [Horizon3.ai](https://horizon3ai.com) | $140K–$175K/yr | Jun 12 | [Apply](https://jobs.ashbyhq.com/horizon3ai/31e7e581-d7d6-4512-b4df-ae0539f78dbd) |
 | Store Representative - Days (PT) | [Serv-U-Success](https://servusuccess.com) | $16/yr | Jun 12 | [Apply](https://jobs.lever.co/serv-u-success/20493be8-6557-40b1-ba51-ff9d9f3954d5) |
 | Préposé.e au bar, saisonnier (H/F/D) | [ACCOR](https://group.accor.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000131975083) |
 | Store Merchandiser - Day shift (Full Time) | [Serv-U-Success](https://servusuccess.com) | $16/yr | Jun 12 | [Apply](https://jobs.lever.co/serv-u-success/276c4092-3638-4f2f-91d5-12bb91fb5992) |
+| Senior Tech Reporter, CNBC | [Versant](https://versant.com) | $200K–$225K/yr | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Versant3/postings/744000131961400) |
+| Technical Support Specialist | [Submittable](https://submittable.com) | $55K–$60K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/submittable/jobs/6025447004) |
+| Part Time Licensed Vocational Nurse, LVN (NOC) | [Silverado](https://silverado.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/silverado/jobs/5163440007) |
 | Dental Hygienist Therapist | [PortmanDentex](https://portmandentex.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000131938469) |
 | Dentist | [PortmanDentex](https://portmandentex.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000131919993) |
 | Domino's General Manager (08974) | [Domino's](https://dominos.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131907295) |

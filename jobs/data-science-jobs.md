@@ -2,12 +2,14 @@
 
 Data science, machine learning, and AI engineering roles. Python, SQL, PyTorch, and beyond.
 
-**126 open roles** — Last updated: 2026-06-12
+**128 open roles** — Last updated: 2026-06-13
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| ML Engineer - Instawork Robotics | [Instawork](https://instawork.com) | $170K–$200K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/instawork/jobs/4686498006) |
+| Data Scientist, Finance | [Figma](https://figma.com) | — | Jun 12 | [Apply](https://boards.greenhouse.io/figma/jobs/6013304004?gh_jid=6013304004) |
 | Staff Data & Machine Learning Engineer | [Boulevard](https://joinblvd.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/boulevard/jobs/4688729006) |
 | Data Scientist, Marketing | [Figma](https://figma.com) | — | Jun 11 | [Apply](https://boards.greenhouse.io/figma/jobs/6013303004?gh_jid=6013303004) |
 | Staff Machine Learning Systems Engineer, Embeddings Platform | [Reddit](https://reddit.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/8001642) |

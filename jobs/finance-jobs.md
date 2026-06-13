@@ -2,12 +2,15 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**527 open roles** — Last updated: 2026-06-12
+**530 open roles** — Last updated: 2026-06-13
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Director of Financial Planning & Analysis | [ACLU](https://aclu.org) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/aclu/jobs/8588672002) |
+| Sales Operations Manager | [UpKeep](https://upkeep.com) | $100K–$120K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/upkeep/jobs/5231727008) |
+| Senior Controllership Associate II (P2P) | [Nielsen](https://nielsen.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990013602086) |
 | Global Billing Coordinator | [Envoy Global](https://envoyglobal.com) | £35K–£45K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/envoyglobalinc/jobs/6008703004) |
 | Head of Prudential Risk | [Monzo](https://monzo.com) | £121K–£140K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/8000900) |
 | International Public Policy, Senior Manager  | [Monzo](https://monzo.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/8000142) |

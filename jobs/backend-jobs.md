@@ -2,12 +2,13 @@
 
 Backend, server-side, and API engineering roles. Node.js, Python, Go, Ruby, Java and beyond.
 
-**77 open roles** — Last updated: 2026-06-12
+**78 open roles** — Last updated: 2026-06-13
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Backend Engineer (Java - Kafka - Cloud) | [Endava](https://endava.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Endava/postings/744000131964923) |
 | (Senior) Backend Developer | [Continental](https://continentalserves.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000131863638) |
 | Senior Backend Engineer - Platform Security - US | [Teleport](https://goteleport.com) | — | Jun 11 | [Apply](https://jobs.ashbyhq.com/goteleport/5a856324-6995-4c72-b67a-fc9cd04d7897) |
 | Senior Backend Engineer - Platform Scalability - US | [Teleport](https://goteleport.com) | — | Jun 11 | [Apply](https://jobs.ashbyhq.com/goteleport/543d88d2-7ca9-4762-9006-5ebd0d64ce05) |

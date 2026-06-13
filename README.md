@@ -1,8 +1,8 @@
 # JobSearchUs — Looking for Your Next Job? Just Search Us
 
-[![8220 jobs](https://img.shields.io/badge/jobs-8%2C220-blue?style=flat-square)](https://www.jobsearchus.com)  [![Updated 2026-06-12](https://img.shields.io/badge/updated-2026-06-12-lightgrey?style=flat-square)](https://github.com/jobsearchus/jobsearchus)
+[![8285 jobs](https://img.shields.io/badge/jobs-8%2C285-blue?style=flat-square)](https://www.jobsearchus.com)  [![Updated 2026-06-13](https://img.shields.io/badge/updated-2026-06-13-lightgrey?style=flat-square)](https://github.com/jobsearchus/jobsearchus)
 
-**8220 jobs** across 23 categories — updated 2026-06-12
+**8285 jobs** across 23 categories — updated 2026-06-13
 
 Fresh jobs pulled straight from company career pages — not recycled from job boards.
 Updated 5 times a day across 5,500+ companies worldwide.
@@ -23,31 +23,31 @@ Full job board with filters: **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Category | Open Roles | Link |
 | --- | --- | --- |
-| $100K+ Remote Jobs | 754 | [View →](jobs/100k-plus-jobs.md) |
-| Entry Level Remote Jobs | 1194 | [View →](jobs/entry-level-jobs.md) |
-| Software Engineer Jobs | 1752 | [View →](jobs/software-engineer-jobs.md) |
-| Backend Jobs | 77 | [View →](jobs/backend-jobs.md) |
+| $100K+ Remote Jobs | 766 | [View →](jobs/100k-plus-jobs.md) |
+| Entry Level Remote Jobs | 1203 | [View →](jobs/entry-level-jobs.md) |
+| Software Engineer Jobs | 1770 | [View →](jobs/software-engineer-jobs.md) |
+| Backend Jobs | 78 | [View →](jobs/backend-jobs.md) |
 | Frontend Jobs | 26 | [View →](jobs/frontend-jobs.md) |
-| Fullstack Jobs | 59 | [View →](jobs/fullstack-jobs.md) |
+| Fullstack Jobs | 60 | [View →](jobs/fullstack-jobs.md) |
 | Developer Jobs | 123 | [View →](jobs/developer-jobs.md) |
-| DevOps Jobs | 104 | [View →](jobs/devops-jobs.md) |
+| DevOps Jobs | 106 | [View →](jobs/devops-jobs.md) |
 | Site Reliability Engineer Jobs | 31 | [View →](jobs/site-reliability-engineer-jobs.md) |
-| Data Science Jobs | 126 | [View →](jobs/data-science-jobs.md) |
-| Quality Assurance Jobs | 56 | [View →](jobs/quality-assurance-jobs.md) |
-| Product Manager Jobs | 202 | [View →](jobs/product-manager-jobs.md) |
+| Data Science Jobs | 128 | [View →](jobs/data-science-jobs.md) |
+| Quality Assurance Jobs | 57 | [View →](jobs/quality-assurance-jobs.md) |
+| Product Manager Jobs | 203 | [View →](jobs/product-manager-jobs.md) |
 | Project Manager Jobs | 119 | [View →](jobs/project-manager-jobs.md) |
-| UI/UX Jobs | 159 | [View →](jobs/ui-ux-jobs.md) |
-| Marketing Jobs | 408 | [View →](jobs/marketing-jobs.md) |
-| Sales Jobs | 1097 | [View →](jobs/sales-jobs.md) |
-| Customer Support Jobs | 311 | [View →](jobs/customer-support-jobs.md) |
-| Finance Jobs | 527 | [View →](jobs/finance-jobs.md) |
-| HR Jobs | 217 | [View →](jobs/hr-jobs.md) |
+| UI/UX Jobs | 164 | [View →](jobs/ui-ux-jobs.md) |
+| Marketing Jobs | 411 | [View →](jobs/marketing-jobs.md) |
+| Sales Jobs | 1100 | [View →](jobs/sales-jobs.md) |
+| Customer Support Jobs | 312 | [View →](jobs/customer-support-jobs.md) |
+| Finance Jobs | 530 | [View →](jobs/finance-jobs.md) |
+| HR Jobs | 220 | [View →](jobs/hr-jobs.md) |
 | Legal Jobs | 104 | [View →](jobs/legal-jobs.md) |
-| Operations Jobs | 1250 | [View →](jobs/operations-jobs.md) |
+| Operations Jobs | 1263 | [View →](jobs/operations-jobs.md) |
 | Security Jobs | 126 | [View →](jobs/security-jobs.md) |
-| Creative Jobs | 93 | [View →](jobs/creative-jobs.md) |
-| Admin Jobs | 41 | [View →](jobs/admin-jobs.md) |
-| More Remote Jobs | 1212 | [View →](jobs/extra-jobs.md) |
+| Creative Jobs | 96 | [View →](jobs/creative-jobs.md) |
+| Admin Jobs | 42 | [View →](jobs/admin-jobs.md) |
+| More Remote Jobs | 1216 | [View →](jobs/extra-jobs.md) |
 
 ---
 
@@ -63,4 +63,4 @@ Stay updated when new jobs drop:
 
 ---
 
-*Updated 2026-06-12 · Jobs sourced directly from company career pages · [jobsearchus.com](https://www.jobsearchus.com)*
+*Updated 2026-06-13 · Jobs sourced directly from company career pages · [jobsearchus.com](https://www.jobsearchus.com)*

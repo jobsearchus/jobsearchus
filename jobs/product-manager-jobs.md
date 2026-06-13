@@ -2,12 +2,13 @@
 
 Product manager roles at companies building real products. Sourced directly from career pages.
 
-**202 open roles** — Last updated: 2026-06-12
+**203 open roles** — Last updated: 2026-06-13
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Product Manager - Document Verification | [Socure](https://socure.com) | — | Jun 12 | [Apply](https://jobs.ashbyhq.com/socure/aaad1c05-d298-40b4-a628-96bd1105fc9d) |
 | Product Manager, Digital Advertising Capabilities (Supply & Demand Quality) | [NBCUniversal](https://nbcuniversal.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000131929699) |
 | Director, Pricing & Packaging | [Freshworks](https://freshworks.com) | $207K–$256K/yr | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000131923901) |
 | Product Manager - AML | [Oscilar](https://oscilar.com) | — | Jun 12 | [Apply](https://jobs.ashbyhq.com/oscilar/24233649-65d0-406d-b915-996ad7b025f7) |

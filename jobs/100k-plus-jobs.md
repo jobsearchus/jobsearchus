@@ -2,16 +2,28 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**754 open roles** — Last updated: 2026-06-12
+**766 open roles** — Last updated: 2026-06-13
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| ML Engineer - Instawork Robotics | [Instawork](https://instawork.com) | $170K–$200K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/instawork/jobs/4686498006) |
+| Senior Software Engineer - Instawork Robotics | [Instawork](https://instawork.com) | $170K–$200K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/instawork/jobs/4689180006) |
+| Senior Customer Success Manager | [Horizon3.ai](https://horizon3ai.com) | $140K–$175K/yr | Jun 12 | [Apply](https://jobs.ashbyhq.com/horizon3ai/31e7e581-d7d6-4512-b4df-ae0539f78dbd) |
 | Lifecycle Marketing Manager (B2C) Hybrid | [Weedmaps](https://weedmaps.com) | $125K–$136K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/weedmaps77/jobs/8590187002) |
+| Staff Flight Software Engineer, Arc Vehicle | [Inversion Space](https://inversionspace.com) | $165K–$236K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/inversionspace/jobs/4705504005) |
+| Sales Operations Manager | [UpKeep](https://upkeep.com) | $100K–$120K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/upkeep/jobs/5231727008) |
+| Senior Tech Reporter, CNBC | [Versant](https://versant.com) | $200K–$225K/yr | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Versant3/postings/744000131961400) |
+| Staff Vehicle Engineer  | [Inversion Space](https://inversionspace.com) | $161K–$221K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/inversionspace/jobs/4705505005) |
 | Construction Project Manager (Federal & Grant-Funded Projects) | [KPFF Consulting Engineers](https://kpff.com) | $100K–$150K/yr | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/KPFFConsultingEngineers/postings/3743990013604596) |
+| Sales Development Representative | [Censys](https://censys.com) | $105K–$130K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/censys/jobs/8590014002) |
+| Mechanical Engineer | [Crusoe](https://crusoe.com) | $125K–$145K/yr | Jun 12 | [Apply](https://jobs.ashbyhq.com/crusoe/45764b95-747b-47ca-92ef-626814b07b92) |
 | Sr Manager, IAM Authentication | [NBCUniversal](https://nbcuniversal.com) | $175K–$210K/yr | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000131930690) |
 | Director, Pricing & Packaging | [Freshworks](https://freshworks.com) | $207K–$256K/yr | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000131923901) |
+| Senior Software Engineer, Platform | [Branch AI](https://branch-ai.com) | $160K–$170K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/branch/jobs/7771615003) |
+| AI Native Program Manager | [Pursuit](https://pursuit-properties.com) | $100K–$115K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/pursuit/jobs/8002668) |
+| Growth & Community Development Lead | [Pursuit](https://pursuit-properties.com) | $120K–$130K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/pursuit/jobs/8002665) |
 | Head of Prudential Risk | [Monzo](https://monzo.com) | £121K–£140K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/8000900) |
 | Growth Marketing Manager, Agent Stack  | [Vercel](https://vercel.com) | $176K–$220K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/vercel/jobs/6016765004) |
 | Global Alliance Lead, Microsoft  | [dbt Labs](https://getdbt.com) | $280K–$339K/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/dbtlabsinc/jobs/4705022005) |

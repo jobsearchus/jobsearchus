@@ -2,12 +2,13 @@
 
 QA, test automation, and SDET roles. Manual and automated testing across all stacks.
 
-**56 open roles** — Last updated: 2026-06-12
+**57 open roles** — Last updated: 2026-06-13
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| [VCK] Senior QA Automation Engineer (AI Systems) | [Software Mind](https://softwaremind.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/SoftwareMind/postings/744000131979509) |
 | Performance Test Engineer | [Kunai](https://kunai.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/kunai/jobs/5162305007) |
 | Senior Automation Engineer | [SmithRx](https://smithrx.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/smithrx/jobs/8586259002) |
 | Manufacturing Test Engineer II, Pneumatic Mechanisms & Fluid Assemblies | [Relativity Space](https://relativityspace.com) | — | Jun 11 | [Apply](https://boards.greenhouse.io/relativity/jobs/8588815002?gh_jid=8588815002) |

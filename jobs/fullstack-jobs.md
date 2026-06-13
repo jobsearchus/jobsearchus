@@ -2,12 +2,13 @@
 
 Full-stack engineering roles across product, platform, and startup companies.
 
-**59 open roles** — Last updated: 2026-06-12
+**60 open roles** — Last updated: 2026-06-13
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| [VCK] Full Stack Developer - Vue.js / Python  | [Software Mind](https://softwaremind.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/SoftwareMind/postings/744000131979139) |
 | Senior Full Stack Integration Engineer  | [HavocAI](https://havocai.com) | — | Jun 10 | [Apply](https://jobs.ashbyhq.com/havocai/cecf3e9f-4668-4547-8959-e2781103707c) |
 | Software Engineer I (Full stack Developer) | [H1](https://h1.co) | — | Jun 10 | [Apply](https://jobs.lever.co/h1/bee34d29-0fff-4731-ad36-471dd0106171) |
 | Senior Developer - Python Fullstack | [Referrals Only](https://thoughtworks.com) | — | Jun 10 | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7995046) |

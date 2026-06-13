@@ -2,12 +2,13 @@
 
 Remote administrative and executive assistant roles across industries.
 
-**41 open roles** — Last updated: 2026-06-12
+**42 open roles** — Last updated: 2026-06-13
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Administrative Coordinator – Marketing Operations | [Nielsen](https://nielsen.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990013607386) |
 | Officer 3, Corporate Administration | [IQ-EQ](https://iqeq.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000131873129) |
 | Part-time Office Assistant | [Saga AI](https://usesaga.ai) | — | Jun 12 | [Apply](https://careers.sagalegal.io/o/office-assistant/c/new) |
 | Admin Assistant II - Part Time - Sat/Sunday - 8am - 5pm | [WellPower - All External Jobs](https://wellpower.org) | $26/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/mentalhealthcenterofdenver/jobs/7768873003) |

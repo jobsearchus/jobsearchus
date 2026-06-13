@@ -2,23 +2,40 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**1752 open roles** — Last updated: 2026-06-12
+**1770 open roles** — Last updated: 2026-06-13
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| RF Integration Team Lead  | [Astranis](https://astranis.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4689200006) |
+| Product Engineer | [Pelago](https://pelagohealth.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/pelago/jobs/5164145007) |
+| Product Engineer | [Pelago](https://pelagohealth.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/pelago/jobs/5164093007) |
+| Senior Software Engineer - Instawork Robotics | [Instawork](https://instawork.com) | $170K–$200K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/instawork/jobs/4689180006) |
+| Energy Services Leader | [DLR Group](https://dlrgroup.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/dlrgroup/jobs/5252260008) |
+| Acquisition Engineering Team Lead   | [Alpaca](https://alpaca.markets) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/alpaca/jobs/6026605004) |
+| Staff Flight Software Engineer, Arc Vehicle | [Inversion Space](https://inversionspace.com) | $165K–$236K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/inversionspace/jobs/4705504005) |
+| Staff Vehicle Engineer  | [Inversion Space](https://inversionspace.com) | $161K–$221K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/inversionspace/jobs/4705505005) |
+| Simulation Engineer I, Arc Vehicle  | [Inversion Space](https://inversionspace.com) | $71K–$124K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/inversionspace/jobs/4705496005) |
+| Mechanical Engineer | [Crusoe](https://crusoe.com) | $125K–$145K/yr | Jun 12 | [Apply](https://jobs.ashbyhq.com/crusoe/45764b95-747b-47ca-92ef-626814b07b92) |
+| Devoteam Cyber Trust - Network Operations Center Engineer - Financial Services | [Devoteam](https://devoteam.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Devoteam/postings/744000131944359) |
 | Performance Testing Lead | [Kunai](https://kunai.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/kunai/jobs/5162285007) |
 | Electrical Technician (Illinois) | [Continental](https://continentalserves.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000131938262) |
 | Electrical Engineer | [Egis](https://egis-group.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000131937710) |
 | Senior Electrical Engineer | [Egis](https://egis-group.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000131937189) |
 | Coordenador (a) de Desenvolvimento de Software | [Experian](https://experianplc.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000131932850) |
+| Senior Cloud Engineer | [Sopra Steria](https://soprasteria.com) | £65K–£75K/yr | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/SopraSteria1/postings/744000131932648) |
 | Sr Manager, IAM Authentication | [NBCUniversal](https://nbcuniversal.com) | $175K–$210K/yr | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000131930690) |
 | Senior Software Engineer - Python | [Experian](https://experianplc.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000131923479) |
 | Junior System Integration Engineer              | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $75K–$80K/yr | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000131919005) |
+| Senior Software Engineer, Platform | [Branch AI](https://branch-ai.com) | $160K–$170K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/branch/jobs/7771615003) |
+| Staff Software Engineer, Platform | [Branch AI](https://branch-ai.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/branch/jobs/7771630003) |
+| Senior Pre-Sales Engineer - Network | [AHEAD](https://ahead.com) | — | Jun 12 | [Apply](https://jobs.lever.co/thinkahead/679c70bf-320f-4690-9c90-8365b6047463) |
 | Naval Architect | [Anglo American](https://angloamerican.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000131904219) |
+| Senior Pre-Sales Engineer - Network | [AHEAD](https://ahead.com) | — | Jun 12 | [Apply](https://jobs.lever.co/thinkahead/b0fe780b-021b-4c10-b287-8fa5a9d078f4) |
 | Développeur IOT H/F | [Inetum](https://inetum.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000131888492) |
 | Bid Manager IT (w/m/d)  | [Drees & Sommer](https://dreso.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000131878405) |
+| Senior SAP ABAP Consultant with AI | [Sophos](https://sophos.com) | — | Jun 12 | [Apply](https://jobs.lever.co/sophos/9a45d73f-80a4-4aeb-ab76-799560cd834e) |
 | ServiceNow Engineer | [Netcompany](https://netcompany.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000131867051) |
 | Staff Engineer, 5G, ,C++, Linux | [Nagarro](https://nagarro.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000131857356) |
 | Supervisor Mechanical & Electrical - Pumping Stations | [BESIX](https://besix.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000131860886) |
@@ -37,6 +54,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Principal Software Engineer - Agentic Platform | [Flagship Pioneering, Inc.](https://flagshippioneering.com) | $188K–$258K/yr | Jun 11 | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8584555002?gh_jid=8584555002) |
 | Sr. Professional Services Specialist | [Illumio](https://illumio.com) | — | Jun 11 | [Apply](https://jobs.ashbyhq.com/illumio/d013e299-888f-4eea-8fdb-964341240b8c) |
 | Senior AEM Engineer | [Lilt](https://lilt.com) | — | Jun 11 | [Apply](https://jobs.ashbyhq.com/lilt-corporate/b9a3b3d3-4b87-440b-9c30-d5c11f2183dc) |
+| Manager, Clinical Trials | [Natera](https://natera.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/natera/jobs/6019281004) |
 | Director, EMEA Data Partnerships | [WPP](https://wpp.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/wpp/jobs/8576121002) |
 | Integration Technician II, Stage Integration, Second Shift | [Relativity Space](https://relativityspace.com) | — | Jun 11 | [Apply](https://boards.greenhouse.io/relativity/jobs/8588738002?gh_jid=8588738002) |
 | Integration Technician II, Thrust Structure, Second Shift | [Relativity Space](https://relativityspace.com) | — | Jun 11 | [Apply](https://boards.greenhouse.io/relativity/jobs/8588702002?gh_jid=8588702002) |
