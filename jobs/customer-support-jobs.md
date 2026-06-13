@@ -2,7 +2,7 @@
 
 Remote customer support and success roles across SaaS, e-commerce, and tech.
 
-**316 open roles** — Last updated: 2026-06-13
+**318 open roles** — Last updated: 2026-06-13
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -14,9 +14,11 @@ Remote customer support and success roles across SaaS, e-commerce, and tech.
 | Customer Service Representative- Mortgage Collections & Servicing | [Genpak LLC](https://genpak-llc-2) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000131990299) |
 | Front Desk Reception Agent | [ACCOR](https://group.accor.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000131974465) |
 | Customer Success Manager - Public Sector  | [Canva](https://canva.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Canva/postings/6000000001151759) |
+| Class 1 City Pick up & Delivery Driver | [Manitoulin Global Forwarding](https://manitoulingroup.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000131938909) |
 | Domino's Customer Service Rep (08892) | [Domino's](https://dominos.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131911319) |
 | Customer Service Rep(04163) - 10955 Jones Bridge Rd | [Domino's](https://dominos.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131902099) |
 | VIP Customer Support  | [Growe](https://growe.com) | — | Jun 12 | [Apply](https://job-boards.eu.greenhouse.io/growe/jobs/4871471101) |
+| Italian Agent - Temporary | [MSX International](https://msxi.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013594056) |
 | Product Support Specialist I | [Affirm](https://affirm.com) | $55K–$75K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7765877003) |
 | Customer Service Representative (9613) - West Helena, AR | [Domino's](https://dominos.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131801250) |
 | Lead Customer Success Manager - Federal  | [Dragos](https://dragos.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/dragos/jobs/5240042008) |

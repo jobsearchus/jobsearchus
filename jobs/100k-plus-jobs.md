@@ -2,12 +2,13 @@
 
 Remote roles paying $100,000 or more per year. Salary data pulled directly from job postings.
 
-**774 open roles** — Last updated: 2026-06-13
+**775 open roles** — Last updated: 2026-06-13
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Manager, Growth Marketing Experimentation | [NBCUniversal](https://nbcuniversal.com) | $100K–$160K/yr | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000132039099) |
 | Product Manager, AI Access | [Cloudflare](https://cloudflare.com) | $141K–$180K/yr | Jun 13 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7904142?gh_jid=7904142) |
 | Principal Security Advisor | [New Era Technology](https://neweratech.com) | $125K–$150K/yr | Jun 13 | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8590399002) |
 | IT Analyst | [Censys](https://censys.com) | $119K–$134K/yr | Jun 13 | [Apply](https://job-boards.greenhouse.io/censys/jobs/8590518002) |

@@ -2,12 +2,13 @@
 
 General developer and programmer roles that did not fit a more specific category.
 
-**125 open roles** — Last updated: 2026-06-13
+**126 open roles** — Last updated: 2026-06-13
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Staff Engineer (AI Developer - AppSec) | [Nagarro](https://nagarro.com) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000132031279) |
 | Senior Technical Curriculum Developer - Revenue Enablement | [Freshworks](https://freshworks.com) | $115K–$150K/yr | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000131945624) |
 | Senior Technical Curriculum Developer - Revenue Enablement | [Freshworks](https://freshworks.com) | $110K–$142K/yr | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000131945679) |
 | Junior SAP Developer - Consultant  | [Netcompany](https://netcompany.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000131863545) |

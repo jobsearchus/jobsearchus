@@ -2,17 +2,20 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**1111 open roles** — Last updated: 2026-06-13
+**1116 open roles** — Last updated: 2026-06-13
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Senior Consultant / Manager – Assurance (H/F)  | [Sopra Steria](https://soprasteria.com) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/SopraSteria1/postings/744000132038299) |
+| Verkoopmedewerker -(M/V) 24u -  SportsWorld - Middelburg  - Netherlands | [Frasers Group](https://frasersgroup.com) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000132033009) |
 | VENDEUR CONSEIL - RENFORT ETE - CDD H/F | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000132031429) |
 | Vendeur / Vendeuse CDI -  Temps partiel [25 heures ] (H/F) | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000132030689) |
 | Sales Executive Sr | [Delivery Hero](https://deliveryhero.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000131996359) |
 | Sales Executive Sr | [Delivery Hero](https://deliveryhero.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000131996099) |
 | National Partner Manager - WWT  | [Pure Storage](https://purestorage.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/8001253) |
+| Sales Solutions Engineer - Healthcare (Remote) | [Experian](https://experianplc.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000131984919) |
 | Senior Sales Development Representative, DACH | [Horizon3.ai](https://horizon3ai.com) | — | Jun 12 | [Apply](https://jobs.ashbyhq.com/horizon3ai/34916166-4ea5-4278-a013-6af1561529c0) |
 | Sales Development Representative | [Censys](https://censys.com) | $105K–$130K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/censys/jobs/8590014002) |
 | National Account Manager, LGP & PE | [Natera](https://natera.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/natera/jobs/6021568004) |
@@ -40,6 +43,8 @@ Remote sales roles — account executives, SDRs, and enterprise deals.
 |  Business Development Senior Associate | [Fever](https://feverup.com) | — | Jun 12 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4896211101) |
 | Account Executive New Business | [Twilio](https://twilio.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7984917) |
 | Lead - Account Executive (New Business Acquisition Enterprise) - India  | [Freshworks](https://freshworks.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000131816284) |
+| Senior Business Development Manager (North America) | [Freshworks](https://freshworks.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000131815889) |
+| Lead - Account Manager (Enterprise Accounts) MEA  | [Freshworks](https://freshworks.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000131815809) |
 | Enterprise Account Executive, Growth - Tokyo, Japan | [Grafana Labs](https://grafana.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6019606004) |
 | Sales Director | [Saviynt](https://saviynt.com) | — | Jun 12 | [Apply](https://jobs.lever.co/saviynt/caf633b3-4f4a-499d-ad0c-26192a10b42a) |
 | Account Executive, Mid-Market | [Demandbase](https://demandbase.com) | — | Jun 12 | [Apply](https://jobs.ashbyhq.com/demandbase/f1433369-924b-469a-9bcf-b7e78799204f) |

@@ -2,12 +2,13 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**418 open roles** — Last updated: 2026-06-13
+**421 open roles** — Last updated: 2026-06-13
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Automotive Technician / Mechanic - Up to $50/Hr. & Weekends Off - Bradenton | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | $50/yr | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000132037374) |
 | Senior SEO Content Strategist | [Genpak LLC](https://genpak-llc-2) | — | Jun 13 | [Apply](https://job-boards.eu.greenhouse.io/valtech/jobs/4881383101) |
 | Sr. Field Marketing Event Manager | [Ashby](https://ashbyhq.com) | — | Jun 13 | [Apply](https://jobs.ashbyhq.com/ashby/c81185e8-ab59-4650-9e55-ebaa95041099) |
 | Lifecycle Marketing Manager (B2C) Hybrid | [Weedmaps](https://weedmaps.com) | $125K–$136K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/weedmaps77/jobs/8590187002) |
@@ -23,6 +24,8 @@ Remote marketing roles across growth, content, brand, and performance channels.
 | Sales Content & Influence - Apprenticeship  (All genders) | [Dailymotion](https://dailymotion.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Dailymotion/postings/744000131827539) |
 | Corporate Communications Manager | [Canva](https://canva.com) | $148K–$210K/yr | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001151197) |
 | Product Communications Manager | [Canva](https://canva.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001151141) |
+| B2B Communications Manager | [Canva](https://canva.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001151128) |
+| Research & Technical Communications Manager | [Canva](https://canva.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001151123) |
 | Growth Marketing Manager, Agent Stack  | [Vercel](https://vercel.com) | $176K–$220K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/vercel/jobs/6016765004) |
 | Brand Strategist Sr | [Genpak LLC](https://genpak-llc-2) | — | Jun 11 | [Apply](https://job-boards.eu.greenhouse.io/valtech/jobs/4895901101) |
 | Brand Strategist Senior | [Genpak LLC](https://genpak-llc-2) | — | Jun 11 | [Apply](https://job-boards.eu.greenhouse.io/valtech/jobs/4895903101) |

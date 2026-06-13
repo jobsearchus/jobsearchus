@@ -2,7 +2,7 @@
 
 Remote HR, recruiting, and people operations roles.
 
-**224 open roles** — Last updated: 2026-06-13
+**227 open roles** — Last updated: 2026-06-13
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -11,8 +11,10 @@ Remote HR, recruiting, and people operations roles.
 | Delivery Driver (05176) - $13 / Hr - 12225 SW 112th St, Miami | [Domino's](https://dominos.com) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000132022897) |
 | Senior Human Resources Generalist | [KPFF Consulting Engineers](https://kpff.com) | $105K–$120K/yr | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/KPFFConsultingEngineers/postings/3743990013610976) |
 | Assistente de People Experience - Exclusiva para Pessoas com Deficiência (PCD) | [ília](https://lia.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/ilia/jobs/6026939004) |
+| Human Resources Manager | [Experian](https://experianplc.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000131987639) |
 | Sr. HR Operations Specialist - UKG Ready | [Double Good](https://doublegood.com) | $90K–$120K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/doublegood/jobs/6019969004) |
 | Assistant Director, People & Culture | [ACCOR](https://group.accor.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000131975660) |
+| Jefe de Recursos Humanos - Querétaro | [O-I Glass](https://o-i.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/O-I/postings/744000131953009) |
 | Automotive Technician / Mechanic - Up to $50/Hr* & Weekends Off - Simpsonville | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | $50/yr | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000131938304) |
 | Chargé de recrutement IT (H/F) | [Everience](https://everience.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/EVERIENCE/postings/744000131923309) |
 | Human Resources Operations Specialist | [AlertMedia](https://alertmedia.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/alertmedia/jobs/8588928002) |
@@ -24,6 +26,7 @@ Remote HR, recruiting, and people operations roles.
 | Recruitment Researcher Intern | [Miratech](https://miratech.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Miratech1/postings/744000131826008) |
 | Manager, People & Culture Operations | [Standard Bank](https://standardbank.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000131815739) |
 | Recruitment Team Leader | [Healthcare Australia](https://healthcareaustralia.com.au) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/HealthcareAustralia1/postings/6000000001150689) |
+| Team Leader Aged Care Assessors - QLD | [Genpak LLC](https://genpak-llc-2) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/APMGroup/postings/6000000001148720) |
 | Compensation Lead (Mexico City) | [Dandy](https://meetdandy.com) | — | Jun 11 | [Apply](https://jobs.ashbyhq.com/dandy/628abcab-20d6-41b2-ad1c-2b37832acb3a) |
 | Director, HR Business Partner, Advertising  | [The New York Times](https://thenewyorktimes.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4704836005) |
 | HR Generalist, Facilities | [Grüns](https://gruns.co) | $100K–$120K/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/gruns/jobs/5255448008) |

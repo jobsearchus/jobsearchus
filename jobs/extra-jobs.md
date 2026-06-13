@@ -2,12 +2,19 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**1242 open roles** — Last updated: 2026-06-13
+**1253 open roles** — Last updated: 2026-06-13
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Chef de Rang (H/F)  | [Relais & Châteaux](https://relaischateaux.com) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000132037819) |
+| Sales Associate | [Primark Tiendas SLU](https://primark.com) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000132036632) |
+| Part Time Sales Assistant-  Weekend/Evenings - Middelburg | [Frasers Group](https://frasersgroup.com) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000132035699) |
+| Eladó - részmunkaidő | [Primark Tiendas SLU](https://primark.com) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000132034449) |
+| Pharmacy Technician Specialist-OR Pharmacies, Full-time Rotating Shift | [Northwestern Medicine](https://northwesternmedicine.com) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/NorthwesternMedicine/postings/744000132033949) |
+| Chef de Partie (H/F) - | [Relais & Châteaux](https://relaischateaux.com) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000132033599) |
+| Femme/Valet de Chambre (H/F) - VILLA GALLICI | [Relais & Châteaux](https://relaischateaux.com) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000132033194) |
 | Bartender - Filia | [ACCOR](https://group.accor.com) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000132032499) |
 | Barista | [ACCOR](https://group.accor.com) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000132031930) |
 | Hostess - Third Room | [ACCOR](https://group.accor.com) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000132032439) |
@@ -29,6 +36,7 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Préposé.e au bar, saisonnier (H/F/D) | [ACCOR](https://group.accor.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000131975083) |
 | Store Merchandiser - Day shift (Full Time) | [Serv-U-Success](https://servusuccess.com) | $16/yr | Jun 12 | [Apply](https://jobs.lever.co/serv-u-success/276c4092-3638-4f2f-91d5-12bb91fb5992) |
 | Senior Tech Reporter, CNBC | [Versant](https://versant.com) | $200K–$225K/yr | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Versant3/postings/744000131961400) |
+| Lead ESH (Environmental, Safety, & Health) Specialist | [Continental](https://continentalserves.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000131965267) |
 | Technical Support Specialist | [Submittable](https://submittable.com) | $55K–$60K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/submittable/jobs/6025447004) |
 | Director of Recreation  | [Crestwood Behavioral Health](https://crestwoodbehavioralhealth.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/crestwoodcareers/jobs/7771837003) |
 | Senior Director, Global Social Commerce | [e.l.f. Beauty](https://elfbeauty.com) | — | Jun 12 | [Apply](https://jobs.lever.co/elfbeauty/fa85db50-9764-4817-bc60-9d583f3d225b) |
@@ -37,6 +45,7 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Dental Hygienist Therapist | [PortmanDentex](https://portmandentex.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000131938469) |
 | Medical Science Liaison | [Natera](https://natera.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/natera/jobs/6010843004) |
 | Dentist | [PortmanDentex](https://portmandentex.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000131919993) |
+| Commis de salle/ Bar (H/F) - Extras | [Genpak LLC](https://genpak-llc-2) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Barriere/postings/744000131912499) |
 | Domino's General Manager (08974) | [Domino's](https://dominos.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131907295) |
 | Domino's Delivery Driver (08892) | [Domino's](https://dominos.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131910959) |
 | Private Dentist (Maternity Cover)  | [PortmanDentex](https://portmandentex.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000131909599) |
@@ -44,6 +53,7 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Dental Hygienist - The Dental Surgery, London | [PortmanDentex](https://portmandentex.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000131887998) |
 | Comptable - (H/F) | [Ixora](https://ixora.org) | — | Jun 12 | [Apply](https://emploi.ixora-conseil.fr/o/comptable-hf-5/c/new) |
 | Réceptionniste en hôtellerie CDD possible CDI | [Genpak LLC](https://genpak-llc-2) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000131858389) |
+| Business Graduate (UK) | [Continental](https://continentalserves.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000131854575) |
 | Front Office Agent (m/w/d) | [Genpak LLC](https://genpak-llc-2) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000131844790) |
 | On-Site Certified Medical Assistant - Detroit, MI | [Medsien](https://medsien.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/medsien/jobs/5162912007) |
 | On-Site Certified Medical Assistant - Lorton, VA | [Medsien](https://medsien.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/medsien/jobs/5162907007) |
@@ -54,6 +64,7 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Commis Chef | [ACCOR](https://group.accor.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000131825689) |
 | 3D Game Environment Artist | [Nex](https://nex.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/nex/jobs/5255931008) |
 | Aged Care Comprehensive Assessor | [Genpak LLC](https://genpak-llc-2) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/APMGroup/postings/6000000001149898) |
+| Senior Youth Support Worker | [Genpak LLC](https://genpak-llc-2) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/APMGroup/postings/6000000001149321) |
 | Mental Health RN Team Leader (0.4 FTE - Mon–Fri 8–4) | [Healthcare Australia](https://healthcareaustralia.com.au) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/HealthcareAustralia1/postings/6000000001148868) |
 | Laboratory Director | [Natera](https://natera.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/natera/jobs/6013384004) |
 | Clinical Intern, Intensive Treatment Team (Juvenile Justice) | [WellPower - All External Jobs](https://wellpower.org) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/mentalhealthcenterofdenver/jobs/7770745003) |

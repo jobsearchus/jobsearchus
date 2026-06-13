@@ -2,12 +2,15 @@
 
 Remote jobs open to candidates with 0–2 years of experience. A real way in — no degree gatekeeping.
 
-**1231 open roles** — Last updated: 2026-06-13
+**1236 open roles** — Last updated: 2026-06-13
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Sales Associate | [Primark Tiendas SLU](https://primark.com) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000132036632) |
+| Eladó - részmunkaidő | [Primark Tiendas SLU](https://primark.com) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000132034449) |
+| Verkoopmedewerker -(M/V) 24u -  SportsWorld - Middelburg  - Netherlands | [Frasers Group](https://frasersgroup.com) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000132033009) |
 |     Data Operations Analyst Intern | [Instawork](https://instawork.com) | — | Jun 13 | [Apply](https://job-boards.greenhouse.io/instawork/jobs/4689262006) |
 | Bartender - Filia | [ACCOR](https://group.accor.com) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000132032499) |
 | Barista | [ACCOR](https://group.accor.com) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000132031930) |
@@ -33,6 +36,7 @@ Remote jobs open to candidates with 0–2 years of experience. A real way in —
 | Operador de Financiamento Jr. (F&I)  | [MSX International](https://msxi.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013607086) |
 | Technical Support Specialist | [Submittable](https://submittable.com) | $55K–$60K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/submittable/jobs/6025447004) |
 | Sales Development Representative | [Censys](https://censys.com) | $105K–$130K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/censys/jobs/8590014002) |
+| PM Public Space Custodian - Morris Inn | [University of Notre Dame](https://universityofnotredame.com) | $18/yr | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013601936) |
 | Vendeur charcuterie-traiteur (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000131941350) |
 | Dock worker | [Manitoulin Global Forwarding](https://manitoulingroup.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000131939559) |
 | General Service Technician / Mechanic - Weekends Off - Simpsonville | [Christian Brothers Automotive](https://christianbrothersautomotive.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/ChristianBrothersAutomotive/postings/744000131938111) |
@@ -54,6 +58,7 @@ Remote jobs open to candidates with 0–2 years of experience. A real way in —
 | Aftersales Consultant | [MSX International](https://msxi.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013594966) |
 | Junior SAP Developer - Consultant  | [Netcompany](https://netcompany.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000131863545) |
 | Réceptionniste en hôtellerie CDD possible CDI | [Genpak LLC](https://genpak-llc-2) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000131858389) |
+| Business Graduate (UK) | [Continental](https://continentalserves.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000131854575) |
 | Business Development Representative | [G2](https://g2.com) | — | Jun 12 | [Apply](https://jobs.ashbyhq.com/g2/c4488906-c271-45b3-a658-b4699b16c0b4) |
 | On-Site Certified Medical Assistant - Detroit, MI | [Medsien](https://medsien.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/medsien/jobs/5162912007) |
 | On-Site Certified Medical Assistant - Lorton, VA | [Medsien](https://medsien.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/medsien/jobs/5162907007) |

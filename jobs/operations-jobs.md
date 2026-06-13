@@ -2,12 +2,13 @@
 
 Remote operations and business operations roles across industries.
 
-**1286 open roles** — Last updated: 2026-06-13
+**1289 open roles** — Last updated: 2026-06-13
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Manager, Growth Marketing Experimentation | [NBCUniversal](https://nbcuniversal.com) | $100K–$160K/yr | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000132039099) |
 |     Data Operations Analyst Intern | [Instawork](https://instawork.com) | — | Jun 13 | [Apply](https://job-boards.greenhouse.io/instawork/jobs/4689262006) |
 | Principal Security Advisor | [New Era Technology](https://neweratech.com) | $125K–$150K/yr | Jun 13 | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8590399002) |
 | Assistant Manager(08556) - 4415 Imperial | [Domino's](https://dominos.com) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000132017372) |
@@ -24,6 +25,7 @@ Remote operations and business operations roles across industries.
 | Construction Project Manager (Federal & Grant-Funded Projects) | [KPFF Consulting Engineers](https://kpff.com) | $100K–$150K/yr | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/KPFFConsultingEngineers/postings/3743990013604596) |
 | Part Time Laundry Aide (PM) | [Silverado](https://silverado.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/silverado/jobs/5163596007) |
 | Head of FCRA Operations and Compliance | [Socure](https://socure.com) | — | Jun 12 | [Apply](https://jobs.ashbyhq.com/socure/7d53d14e-887a-4249-9974-c77344fd7b69) |
+| PM Public Space Custodian - Morris Inn | [University of Notre Dame](https://universityofnotredame.com) | $18/yr | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013601936) |
 | Office Admin/Dispatcher- Fort Mcmurray | [Manitoulin Global Forwarding](https://manitoulingroup.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000131944630) |
 | Workplace Planning Coordinator | [NBCUniversal](https://nbcuniversal.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000131944849) |
 | Space Planning Coordinator | [NBCUniversal](https://nbcuniversal.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000131943799) |
@@ -32,6 +34,7 @@ Remote operations and business operations roles across industries.
 | Overnight Supervisor - Morris Inn | [University of Notre Dame](https://universityofnotredame.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013598459) |
 | Painter - Morris Inn & McKenna Conference Center | [University of Notre Dame](https://universityofnotredame.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013598426) |
 | Offre d’alternance – Business Manager / Chargé d’Affaires IT (H/F) | [Everience](https://everience.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/EVERIENCE/postings/744000131918570) |
+| Senior Administrative Assistant - Institute for Social Concerns | [University of Notre Dame](https://universityofnotredame.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013598336) |
 | Stage - Chargé(e) de mission Gouvernance Durabilité | [Sopra Steria](https://soprasteria.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/SopraSteria1/postings/744000131916378) |
 | Operations Manager | [Odeko](https://odeko.com) | $65K–$70K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/odeko/jobs/6022644004) |
 | Domino's Assistant Manager (08892) | [Domino's](https://dominos.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000131910712) |

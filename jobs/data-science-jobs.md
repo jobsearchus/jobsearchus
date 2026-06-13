@@ -2,7 +2,7 @@
 
 Data science, machine learning, and AI engineering roles. Python, SQL, PyTorch, and beyond.
 
-**129 open roles** — Last updated: 2026-06-13
+**132 open roles** — Last updated: 2026-06-13
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -11,6 +11,9 @@ Data science, machine learning, and AI engineering roles. Python, SQL, PyTorch, 
 | Data Scientist | [Cloudflare](https://cloudflare.com) | — | Jun 13 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8002300?gh_jid=8002300) |
 | ML Engineer - Instawork Robotics | [Instawork](https://instawork.com) | $170K–$200K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/instawork/jobs/4686498006) |
 | Data Scientist, Finance | [Figma](https://figma.com) | — | Jun 12 | [Apply](https://boards.greenhouse.io/figma/jobs/6013304004?gh_jid=6013304004) |
+| Data Scientist  People Data Analytics & Insights | [Syngenta](https://syngenta.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000131896179) |
+| (Senior) Data Scientist | [Continental](https://continentalserves.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000131860859) |
+| Senior Data Scientist - Finance Data & Analytics | [Canva](https://canva.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001151098) |
 | Staff Data & Machine Learning Engineer | [Boulevard](https://joinblvd.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/boulevard/jobs/4688729006) |
 | Data Scientist, Marketing | [Figma](https://figma.com) | — | Jun 11 | [Apply](https://boards.greenhouse.io/figma/jobs/6013303004?gh_jid=6013303004) |
 | Staff Machine Learning Systems Engineer, Embeddings Platform | [Reddit](https://reddit.com) | — | Jun 11 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/8001642) |

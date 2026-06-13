@@ -2,15 +2,19 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**1795 open roles** — Last updated: 2026-06-13
+**1802 open roles** — Last updated: 2026-06-13
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Associate Director, Procurement Category Value Generation | [AbbVie](https://abbvie.com) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/AbbVie/postings/3743990013612516) |
+| IN_Bosch Rexroth India_Engineer / Executive  – Applications Engineering - Mobile Hydraulic Applications | [Bosch](https://bosch.com) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/BoschGroup/postings/744000132035629) |
+| Software Engineer (Must Have Java + Outsystems/ServiceNow) | [NCS](https://ncs.co) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001152024) |
 | Associate Technical Consultant  | [Razorpay Software Private Limited](https://razorpay.com) | — | Jun 13 | [Apply](https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4701920005) |
 | Principal Engineer, Salesforce Healthcloud | [Nagarro](https://nagarro.com) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000132027899) |
 | Principal Engineer, Salesforce Healthcloud | [Nagarro](https://nagarro.com) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000132027609) |
+| Research Associate | [Syngenta](https://syngenta.com) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000132027130) |
 | Software Engineer (Must Have .Net Core) | [NCS](https://ncs.co) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001151861) |
 | Software Engineer (Must Have Java + Prefer Outsystems/ServiceNow) | [NCS](https://ncs.co) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001151836) |
 | Software Engineer - Data Movement Platform | [Reddit](https://reddit.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/7997866) |
@@ -39,6 +43,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Coordenador (a) de Desenvolvimento de Software | [Experian](https://experianplc.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000131932850) |
 | Senior Cloud Engineer | [Sopra Steria](https://soprasteria.com) | £65K–£75K/yr | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/SopraSteria1/postings/744000131932648) |
 | Sr Manager, IAM Authentication | [NBCUniversal](https://nbcuniversal.com) | $175K–$210K/yr | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000131930690) |
+| Cientista Associado II - Nursery | [Syngenta](https://syngenta.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/SyngentaGroup/postings/744000131923996) |
 | Senior Software Engineer - Python | [Experian](https://experianplc.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/experian/postings/744000131923479) |
 | Senior Systems Support Engineer - Focus in Security (EC) | [Referrals Only](https://thoughtworks.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/8002959) |
 | Junior System Integration Engineer              | [General Dynamics Mission Systems](https://generaldynamicsmissionsystems.com) | $75K–$80K/yr | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/GDMSI/postings/744000131919005) |
@@ -51,6 +56,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Commercial Entry Door Technicians - Port St. Lucie | [DH Pace Company](https://dhpace.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5256753008) |
 | Développeur IOT H/F | [Inetum](https://inetum.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000131888492) |
 | DEVELOPPEUR CONFIRME PHP H/F | [Inetum](https://inetum.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000131884676) |
+| ESTAGIÁRIO TÉCNICO MECÂNICA | [O-I Glass](https://o-i.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/O-I/postings/744000131880020) |
 | Bid Manager IT (w/m/d)  | [Drees & Sommer](https://dreso.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000131878405) |
 | Senior SAP ABAP Consultant with AI | [Sophos](https://sophos.com) | — | Jun 12 | [Apply](https://jobs.lever.co/sophos/9a45d73f-80a4-4aeb-ab76-799560cd834e) |
 | ServiceNow Engineer | [Netcompany](https://netcompany.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000131867051) |
@@ -68,6 +74,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Functional Testing Engineer, Video Intelligence  | [NCS](https://ncs.co) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001151613) |
 | Associate Mechanical Engineer (F/M/D) | [NavVis](https://navvis.com) | — | Jun 12 | [Apply](https://job-boards.eu.greenhouse.io/navvis/jobs/4872149101) |
 | Associate Principal Engineer, 5G, RRC,QXDM | [Nagarro](https://nagarro.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000131823839) |
+| Associate Director, AVEVA System | [Nagarro](https://nagarro.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000131822649) |
 | Sr Integration Engineer (Hybrid) | [Smartsheet](https://smartsheet.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/smartsheet/jobs/8002307) |
 | Associate Principal Engineer | [Saviynt](https://saviynt.com) | — | Jun 12 | [Apply](https://jobs.lever.co/saviynt/fe33f98f-6db1-467f-a41f-62513b09c6dd) |
 | Data Analyst | [Alpaca](https://alpaca.markets) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/alpaca/jobs/6020810004) |
