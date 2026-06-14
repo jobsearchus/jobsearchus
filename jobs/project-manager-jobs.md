@@ -2,7 +2,7 @@
 
 Project and program management roles across tech, operations, and enterprise.
 
-**122 open roles** — Last updated: 2026-06-13
+**123 open roles** — Last updated: 2026-06-14
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -14,6 +14,7 @@ Project and program management roles across tech, operations, and enterprise.
 | Junior Project Manager Intern | [AUTO1 Group](https://auto1-group.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000131882810) |
 | Projectmanager Wegen & Riolering | [BESIX](https://besix.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000131842075) |
 | Project Director, Engineering  | [NCS](https://ncs.co) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001151589) |
+| Project Manager - Business Analytics | [AUTO1 Group](https://auto1-group.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000131838756) |
 | Senior Technical Project Manager | [CapTech](https://captech.com) | — | Jun 10 | [Apply](https://api.smartrecruiters.com/v1/companies/CapTechConsulting/postings/744000131508830) |
 | Senior Project Manager | [TTEC Digital](https://ttecdigital.com) | — | Jun 9 | [Apply](https://jobs.lever.co/ttecdigital/87ca6a15-6cfd-4455-ac93-b38b39bc4caa) |
 | Senior Project Manager | [Entain](https://entaingroup.com) | — | Jun 9 | [Apply](https://api.smartrecruiters.com/v1/companies/Entain/postings/744000131107704) |

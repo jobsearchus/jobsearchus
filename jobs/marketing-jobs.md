@@ -2,7 +2,7 @@
 
 Remote marketing roles across growth, content, brand, and performance channels.
 
-**421 open roles** — Last updated: 2026-06-13
+**422 open roles** — Last updated: 2026-06-14
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -15,6 +15,7 @@ Remote marketing roles across growth, content, brand, and performance channels.
 | Organic Search Manager | [Kapitus](https://kapitus.com) | $63K–$101K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/kapitus/jobs/4280827009) |
 | Communication Program Director - Architecture  | [University of Notre Dame](https://universityofnotredame.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013606986) |
 | Lead Brand Marketing Coordinator | [Kapitus](https://kapitus.com) | $69K–$110K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/kapitus/jobs/4281669009) |
+| Intern Account Manager Regions Spain | [Delivery Hero](https://deliveryhero.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000131971798) |
 | Vertical Marketing Lead, Public Sector | [Socure](https://socure.com) | — | Jun 12 | [Apply](https://jobs.ashbyhq.com/socure/a4ef00ff-4733-4cbd-ba77-e88783729be8) |
 | Senior Marketing Tech and CRM Administrator | [Nielsen](https://nielsen.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings/3743990013599116) |
 | Growth & Community Development Lead | [Pursuit](https://pursuit-properties.com) | $120K–$130K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/pursuit/jobs/8002665) |

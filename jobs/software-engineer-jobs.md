@@ -2,14 +2,18 @@
 
 Remote software engineering roles at companies hiring directly. Sourced fresh from Greenhouse, Lever, Ashby and more.
 
-**1802 open roles** — Last updated: 2026-06-13
+**1811 open roles** — Last updated: 2026-06-14
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| .NET Software Engineer | [Genpak LLC](https://genpak-llc-2) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000132037113) |
+| Java Support Engineer | [Genpak LLC](https://genpak-llc-2) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/Sutherland/postings/744000132037008) |
+| Lider Técnico IMM | [Inetum](https://inetum.com) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000132036579) |
 | Associate Director, Procurement Category Value Generation | [AbbVie](https://abbvie.com) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/AbbVie/postings/3743990013612516) |
 | IN_Bosch Rexroth India_Engineer / Executive  – Applications Engineering - Mobile Hydraulic Applications | [Bosch](https://bosch.com) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/BoschGroup/postings/744000132035629) |
+| Sr. Engineering Manager | [Delivery Hero](https://deliveryhero.com) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000132033384) |
 | Software Engineer (Must Have Java + Outsystems/ServiceNow) | [NCS](https://ncs.co) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001152024) |
 | Associate Technical Consultant  | [Razorpay Software Private Limited](https://razorpay.com) | — | Jun 13 | [Apply](https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4701920005) |
 | Principal Engineer, Salesforce Healthcloud | [Nagarro](https://nagarro.com) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000132027899) |
@@ -52,6 +56,7 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Staff Software Engineer, Platform | [Branch AI](https://branch-ai.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/branch/jobs/7771630003) |
 | Senior Pre-Sales Engineer - Network | [AHEAD](https://ahead.com) | — | Jun 12 | [Apply](https://jobs.lever.co/thinkahead/679c70bf-320f-4690-9c90-8365b6047463) |
 | Naval Architect | [Anglo American](https://angloamerican.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000131904219) |
+| Acoustics Team Lead (Environment)  | [Egis](https://egis-group.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000131902518) |
 | Senior Pre-Sales Engineer - Network | [AHEAD](https://ahead.com) | — | Jun 12 | [Apply](https://jobs.lever.co/thinkahead/b0fe780b-021b-4c10-b287-8fa5a9d078f4) |
 | Commercial Entry Door Technicians - Port St. Lucie | [DH Pace Company](https://dhpace.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5256753008) |
 | Développeur IOT H/F | [Inetum](https://inetum.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000131888492) |
@@ -65,11 +70,15 @@ Remote software engineering roles at companies hiring directly. Sourced fresh fr
 | Electrician & Mechanic O&M Pumping stations | [BESIX](https://besix.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000131859087) |
 | Data Engineering Manager | [Aleph Lab](https://alephlab.ai) | — | Jun 12 | [Apply](https://jobs.lever.co/aleph/f9da282c-cb99-4604-ae96-71f960b4c958) |
 | Automotive Helpdesk Agent | [MSX International](https://msxi.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013594666) |
+| Tech Lead Java H/F  | [Inetum](https://inetum.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000131854624) |
 | (Senior) Consultant (w/m/d) TGA (Elektro/HKLS/MSR) | [Drees & Sommer](https://dreso.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000131855129) |
 | Experte (w/m/d) Energietechnik für Hoch- und Höchstspannungsnetze  | [Drees & Sommer](https://dreso.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000131854918) |
 | Techniker/Ingenieur (w/m/d) Nachhaltige und Innovative Gebäudetechnik | [Drees & Sommer](https://dreso.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000131853000) |
 | Ingenieur TGA (w/m/d) Bauberatung für Industrieprojekte | [Drees & Sommer](https://dreso.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000131853193) |
+| Leader technico-fonctionnel Relations clients H/F | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000131850712) |
 | Principal Engineer, 5G, Jenkins | [Nagarro](https://nagarro.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Nagarro1/postings/744000131851529) |
+| Senior Director, NA Data Partnerships Lead | [WPP](https://wpp.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/wpp/jobs/8583637002) |
+| Senior Safer Gambling Analyst | [Entain](https://entaingroup.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Entain/postings/744000131843989) |
 | Cloud Operations Manager (Azure) | [Netcompany](https://netcompany.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Netcompany1/postings/744000131842165) |
 | Functional Testing Engineer, Video Intelligence  | [NCS](https://ncs.co) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/NCS3/postings/6000000001151613) |
 | Associate Mechanical Engineer (F/M/D) | [NavVis](https://navvis.com) | — | Jun 12 | [Apply](https://job-boards.eu.greenhouse.io/navvis/jobs/4872149101) |

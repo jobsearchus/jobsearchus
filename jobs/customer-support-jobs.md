@@ -2,12 +2,15 @@
 
 Remote customer support and success roles across SaaS, e-commerce, and tech.
 
-**318 open roles** — Last updated: 2026-06-13
+**321 open roles** — Last updated: 2026-06-14
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Delivery Driver: 150 Hutton Ranch Rd #103 | [Domino's](https://dominos.com) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000132039459) |
+| Customer Service Rep: Moses Lake - 402 E Broadway | [Domino's](https://dominos.com) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000132039359) |
+| Customer Service Rep: Wenatchee - 211 W. 5th Street | [Domino's](https://dominos.com) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000132039319) |
 | Customer Service Rep(09607) - 1814 N Crossover Rd #1 | [Domino's](https://dominos.com) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000132023360) |
 | Class 1 Local Pick up & Delivery Driver, Home Nightly! | [Manitoulin Global Forwarding](https://manitoulingroup.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/ManitoulinGroupOfCompanies/postings/744000131991269) |
 | Técnico de soporte remoto | [Inetum](https://inetum.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Inetum2/postings/744000131990457) |

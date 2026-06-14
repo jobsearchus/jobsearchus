@@ -2,13 +2,17 @@
 
 Remote sales roles — account executives, SDRs, and enterprise deals.
 
-**1116 open roles** — Last updated: 2026-06-13
+**1121 open roles** — Last updated: 2026-06-14
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Sales Assistant 24h - Ancona | [JYSK](https://jysk.com) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000132038449) |
 | Senior Consultant / Manager – Assurance (H/F)  | [Sopra Steria](https://soprasteria.com) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/SopraSteria1/postings/744000132038299) |
+| Sales Assistant 40h - San Giuliano Milanese (MI) | [JYSK](https://jysk.com) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000132035369) |
+| Brigáda v prodejně JYSK Ostrov | [JYSK](https://jysk.com) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/JYSK/postings/744000132035029) |
+| Vendeur / Vendeuse CDI / CDD -  Temps partiel [8 H/15  h ] (H/F)  | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000132034769) |
 | Verkoopmedewerker -(M/V) 24u -  SportsWorld - Middelburg  - Netherlands | [Frasers Group](https://frasersgroup.com) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000132033009) |
 | VENDEUR CONSEIL - RENFORT ETE - CDD H/F | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000132031429) |
 | Vendeur / Vendeuse CDI -  Temps partiel [25 heures ] (H/F) | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000132030689) |
@@ -41,6 +45,7 @@ Remote sales roles — account executives, SDRs, and enterprise deals.
 | VIP Account Manager | [Growe](https://growe.com) | — | Jun 12 | [Apply](https://job-boards.eu.greenhouse.io/growe/jobs/4871460101) |
 | Enterprise Account Executive  | [dbt Labs](https://getdbt.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/dbtlabsinc/jobs/4680855005) |
 |  Business Development Senior Associate | [Fever](https://feverup.com) | — | Jun 12 | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4896211101) |
+| Sales Manager B2B / Telesales - Hybrid in Hannover (d/m/w) | [AUTO1 Group](https://auto1-group.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000131840854) |
 | Account Executive New Business | [Twilio](https://twilio.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7984917) |
 | Lead - Account Executive (New Business Acquisition Enterprise) - India  | [Freshworks](https://freshworks.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000131816284) |
 | Senior Business Development Manager (North America) | [Freshworks](https://freshworks.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000131815889) |

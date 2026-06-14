@@ -2,13 +2,14 @@
 
 Remote operations and business operations roles across industries.
 
-**1289 open roles** — Last updated: 2026-06-13
+**1292 open roles** — Last updated: 2026-06-14
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
 | Manager, Growth Marketing Experimentation | [NBCUniversal](https://nbcuniversal.com) | $100K–$160K/yr | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000132039099) |
+| Livreur démonstrateur installateur - CDI - 35h | [Boulanger Electroménager & Multimédia](https://boulanger.com) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/Boulanger/postings/744000132036929) |
 |     Data Operations Analyst Intern | [Instawork](https://instawork.com) | — | Jun 13 | [Apply](https://job-boards.greenhouse.io/instawork/jobs/4689262006) |
 | Principal Security Advisor | [New Era Technology](https://neweratech.com) | $125K–$150K/yr | Jun 13 | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8590399002) |
 | Assistant Manager(08556) - 4415 Imperial | [Domino's](https://dominos.com) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000132017372) |
@@ -23,6 +24,7 @@ Remote operations and business operations roles across industries.
 | Intern IT Tactical Purchasing | [Continental](https://continentalserves.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000131983179) |
 | Assistant Director of Hotel Operations - Morris Inn  | [University of Notre Dame](https://universityofnotredame.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013607327) |
 | Construction Project Manager (Federal & Grant-Funded Projects) | [KPFF Consulting Engineers](https://kpff.com) | $100K–$150K/yr | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/KPFFConsultingEngineers/postings/3743990013604596) |
+| Groceries Workforce Sr Analyst | [Delivery Hero](https://deliveryhero.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/DeliveryHero/postings/744000131957589) |
 | Part Time Laundry Aide (PM) | [Silverado](https://silverado.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/silverado/jobs/5163596007) |
 | Head of FCRA Operations and Compliance | [Socure](https://socure.com) | — | Jun 12 | [Apply](https://jobs.ashbyhq.com/socure/7d53d14e-887a-4249-9974-c77344fd7b69) |
 | PM Public Space Custodian - Morris Inn | [University of Notre Dame](https://universityofnotredame.com) | $18/yr | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/UniversityOfNotreDame/postings/3743990013601936) |
@@ -55,6 +57,7 @@ Remote operations and business operations roles across industries.
 | Operator GR2 | [Anglo American](https://angloamerican.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000131864889) |
 | ESH Engineer | [Continental](https://continentalserves.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000131861234) |
 | Category Specialist  | [Entain](https://entaingroup.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Entain/postings/744000131854188) |
+| Sachverständiger / Kfz-Meister im Backoffice (d/m/w) | [AUTO1 Group](https://auto1-group.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Auto1/postings/744000131842774) |
 | Projektassistenz (w/m/d) Innovative Arbeitswelten (zunächst befristet auf 2 Jahre) | [Drees & Sommer](https://dreso.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000131841324) |
 | Project Coördinator | [BESIX](https://besix.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/BESIX/postings/744000131837129) |
 | Operations Manager | [Standard Bank](https://standardbank.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000131826939) |

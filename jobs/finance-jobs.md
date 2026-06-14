@@ -2,7 +2,7 @@
 
 Remote finance, accounting, and analyst roles at companies of all sizes.
 
-**543 open roles** — Last updated: 2026-06-13
+**546 open roles** — Last updated: 2026-06-14
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
@@ -21,10 +21,13 @@ Remote finance, accounting, and analyst roles at companies of all sizes.
 | Associate Director, Private Markets Solutions- Investran SME | [MUFG Investor Services](https://mufg-investorservices.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/MUFGInvestorServices/postings/744000131894844) |
 | Supervisor, Fund Accountant, Private Equity | [MUFG Investor Services](https://mufg-investorservices.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/MUFGInvestorServices/postings/744000131893240) |
 | Senior Fund Accountant, Private Equity | [MUFG Investor Services](https://mufg-investorservices.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/MUFGInvestorServices/postings/744000131892190) |
+| Senior Commercial Manager  | [Egis](https://egis-group.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000131876237) |
+| Senior Commercial Manager  | [Egis](https://egis-group.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/EgisGroup/postings/744000131876052) |
 | Head of Prudential Risk | [Monzo](https://monzo.com) | £121K–£140K/yr | Jun 12 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/8000900) |
 | International Public Policy, Senior Manager  | [Monzo](https://monzo.com) | — | Jun 12 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/8000142) |
 | Aftersales Consultant | [MSX International](https://msxi.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/MSXInternational/postings/3743990013594966) |
 | Specialist, Tax - UK & Europe | [Anglo American](https://angloamerican.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/AngloAmericanDeBeersGroup/postings/744000131862029) |
+| Client Accountant - Funds (Private Equity)  | [IQ-EQ](https://iqeq.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/IQEQ/postings/744000131857264) |
 | Specialist, Trade Control | [Standard Bank](https://standardbank.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000131857669) |
 | Executive Financial Planner | [Standard Bank](https://standardbank.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/StandardBankGroup/postings/744000131827760) |
 | Senior Director, Economic Insights | [Life360](https://life360.com) | $215K–$315K/yr | Jun 11 | [Apply](https://job-boards.greenhouse.io/life360/jobs/8589091002) |

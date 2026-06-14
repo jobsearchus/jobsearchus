@@ -2,13 +2,21 @@
 
 Remote jobs across healthcare, retail, hospitality, and other industries not covered by the main categories.
 
-**1253 open roles** — Last updated: 2026-06-13
+**1262 open roles** — Last updated: 2026-06-14
 
 > Browse the full board and filter by salary, skills, and experience at **[jobsearchus.com](https://www.jobsearchus.com)**
 
 | Job Title | Company | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Fairmont Gold Supervisor - Luxury Front Desk (Full Time) | [ACCOR](https://group.accor.com) | $43K–$64K/yr | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000132040329) |
+| Front Office Agent (m/f/d) | [ACCOR](https://group.accor.com) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000132039929) |
+| Senior Housekeeping Manager | [ACCOR](https://group.accor.com) | $75K–$85K/yr | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/AccorHotel/postings/744000132039879) |
+| MODELE INTERMARCHE - VENDEUR ALIMENTAIRE (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000132038369) |
+| MODELE INTERMARCHE - HÔTE DE CAISSE (H/F) | [Genpak LLC](https://genpak-llc-2) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/GroupementMousquetaires/postings/744000132038149) |
 | Chef de Rang (H/F)  | [Relais & Châteaux](https://relaischateaux.com) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/RelaisChateaux/postings/744000132037819) |
+| Delivery Driver(01206) - 4750 Central Park Drive | [Domino's](https://dominos.com) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000132037369) |
+| Assistant Manager(01206) - 4750 Central Park Drive | [Domino's](https://dominos.com) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000132037279) |
+| Shift Runner (01206) | [Domino's](https://dominos.com) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/Dominos/postings/744000132037189) |
 | Sales Associate | [Primark Tiendas SLU](https://primark.com) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000132036632) |
 | Part Time Sales Assistant-  Weekend/Evenings - Middelburg | [Frasers Group](https://frasersgroup.com) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/FrasersGroup/postings/744000132035699) |
 | Eladó - részmunkaidő | [Primark Tiendas SLU](https://primark.com) | — | Jun 13 | [Apply](https://api.smartrecruiters.com/v1/companies/Primark/postings/744000132034449) |
@@ -51,6 +59,7 @@ Remote jobs across healthcare, retail, hospitality, and other industries not cov
 | Private Dentist (Maternity Cover)  | [PortmanDentex](https://portmandentex.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000131909599) |
 | Praktikant (w/m/d) Distressed Real Estate | [Drees & Sommer](https://dreso.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000131899309) |
 | Dental Hygienist - The Dental Surgery, London | [PortmanDentex](https://portmandentex.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000131887998) |
+| Assistant Practice Manager | [PortmanDentex](https://portmandentex.com) | £15/yr | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/PortmanDentex/postings/744000131865985) |
 | Comptable - (H/F) | [Ixora](https://ixora.org) | — | Jun 12 | [Apply](https://emploi.ixora-conseil.fr/o/comptable-hf-5/c/new) |
 | Réceptionniste en hôtellerie CDD possible CDI | [Genpak LLC](https://genpak-llc-2) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/LouvreHotelsGroup/postings/744000131858389) |
 | Business Graduate (UK) | [Continental](https://continentalserves.com) | — | Jun 12 | [Apply](https://api.smartrecruiters.com/v1/companies/Continental/postings/744000131854575) |
